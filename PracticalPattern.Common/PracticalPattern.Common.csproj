@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F4CB2299-BB97-4812-9922-AD9DDDD7C3CC}</ProjectGuid>
+    <ProjectGuid>{980D6F7D-CE71-4E7C-B43D-EDA570D186F6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XiaolouT.Learning.PracticalPattern.Concept</RootNamespace>
-    <AssemblyName>PracticalPattern.Concept</AssemblyName>
+    <RootNamespace>XiaolouT.Learning.PracticalPattern.Common</RootNamespace>
+    <AssemblyName>PracticalPattern.Common</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -33,6 +33,7 @@
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,38 +41,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Attributes\AttributedBuilder.cs" />
-    <Compile Include="Attributes\DirecotrAttribute.cs" />
-    <Compile Include="Attributes\Director.cs" />
-    <Compile Include="Attributes\IAttributedBuilder.cs" />
-    <Compile Include="Configurating\ChapterConfigurationSectionGroup.cs" />
-    <Compile Include="Configurating\ConfigurationBroker.cs" />
-    <Compile Include="Configurating\DelegatingParagramConfigurationSection.cs" />
-    <Compile Include="Configurating\DiagramConfigurationElement.cs" />
-    <Compile Include="Configurating\DiagramConfigurationElementCollection.cs" />
-    <Compile Include="Configurating\ExampleConfigurationElement.cs" />
-    <Compile Include="Configurating\ExampleConfigurationElementCollection.cs" />
-    <Compile Include="Configurating\GenericsParagramConfigurationSection.cs" />
-    <Compile Include="Configurating\NamedConfigurationElementBase .cs" />
-    <Compile Include="Configurating\NamedConfigurationElementCollectionBase.cs" />
-    <Compile Include="Configurating\ParagraphConfigurationSectionBase.cs" />
-    <Compile Include="Configurating\PictureConfigurationElement.cs" />
-    <Compile Include="Configurating\PictureConfigurationElementCollection.cs" />
-    <Compile Include="Delegating\AsyncInvoker.cs" />
-    <Compile Include="Delegating\InvokeList.cs" />
-    <Compile Include="DependencyInjection\Assembler.cs" />
-    <Compile Include="DependencyInjection\AttributeHelper.cs" />
-    <Compile Include="DependencyInjection\Client.cs" />
-    <Compile Include="DependencyInjection\DecoratorAttribute.cs" />
-    <Compile Include="DependencyInjection\ITimeProvider.cs" />
-    <Compile Include="DependencyInjection\TimeProvider.cs" />
-    <Compile Include="Expressions\BinaryExpressionCalculator.cs" />
-    <Compile Include="Generics\GenericAdapterBase.cs" />
-    <Compile Include="Generics\RawGenericFactory.cs" />
-    <Compile Include="Operator\Season.cs" />
+    <Compile Include="GenericContext.cs" />
+    <Compile Include="ObjectBuilderConfigurationSection.cs" />
+    <Compile Include="ObjectBuilderConfigurationSource.cs" />
+    <Compile Include="ConfigurationBroker.cs" />
+    <Compile Include="GenericCache.cs" />
+    <Compile Include="IConfigurationSource.cs" />
+    <Compile Include="IObjectBuilder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TypeCreator.cs" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
