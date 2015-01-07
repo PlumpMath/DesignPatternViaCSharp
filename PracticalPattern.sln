@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiaolouT.Learning.PracticalPattern.Concept", "XiaolouT.Learning.PracticalPattern.Concept\XiaolouT.Learning.PracticalPattern.Concept.csproj", "{F4CB2299-BB97-4812-9922-AD9DDDD7C3CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.Concept", "PracticalPattern.Concept\PracticalPattern.Concept.csproj", "{F4CB2299-BB97-4812-9922-AD9DDDD7C3CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiaolouT.Learning.PracticalPattern.ConceptTests", "XiaolouT.Learning.PracticalPattern.ConceptTests\XiaolouT.Learning.PracticalPattern.ConceptTests.csproj", "{96985489-12C4-480B-BD20-73730CD02CC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.ConceptTests", "PracticalPattern.ConceptTests\PracticalPattern.ConceptTests.csproj", "{96985489-12C4-480B-BD20-73730CD02CC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

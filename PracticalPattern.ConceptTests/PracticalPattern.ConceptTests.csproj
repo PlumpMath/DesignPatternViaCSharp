@@ -7,7 +7,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>XiaolouT.Learning.PracticalPattern.ConceptTests</RootNamespace>
-    <AssemblyName>XiaolouT.Learning.PracticalPattern.ConceptTests</AssemblyName>
+    <AssemblyName>PracticalPattern.ConceptTests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -57,9 +57,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XiaolouT.Learning.PracticalPattern.Concept\XiaolouT.Learning.PracticalPattern.Concept.csproj">
+    <ProjectReference Include="..\PracticalPattern.Concept\PracticalPattern.Concept.csproj">
       <Project>{F4CB2299-BB97-4812-9922-AD9DDDD7C3CC}</Project>
-      <Name>XiaolouT.Learning.PracticalPattern.Concept</Name>
+      <Name>PracticalPattern.Concept</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
