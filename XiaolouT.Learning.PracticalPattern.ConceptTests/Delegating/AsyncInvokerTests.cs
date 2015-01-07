@@ -1,11 +1,11 @@
 ﻿using System.Threading;
-using NUnit.Framework;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace XiaolouT.Learning.PracticalPattern.Concept.Delegating.Tests
 {
-    [TestFixture]
+    [TestClass]
     public class AsyncInvokerTests
     {
-        [Test]
+        [TestMethod]
         public void AsyncInvokerTest()
         {
             var asyncInvoker = new AsyncInvoker();

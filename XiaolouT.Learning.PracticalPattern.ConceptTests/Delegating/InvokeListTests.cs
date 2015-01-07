@@ -1,11 +1,11 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace XiaolouT.Learning.PracticalPattern.Concept.Delegating.Tests
 {
-    [TestFixture]
+    [TestClass]
     public class InvokeListTests
     {
 
-        [Test]
+        [TestMethod]
         public void InvokeTest()
         {
             var message = string.Empty;

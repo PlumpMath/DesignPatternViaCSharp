@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -43,12 +44,28 @@
     <Compile Include="Attributes\DirecotrAttribute.cs" />
     <Compile Include="Attributes\Director.cs" />
     <Compile Include="Attributes\IAttributedBuilder.cs" />
+    <Compile Include="Configurating\ChapterConfigurationSectionGroup.cs" />
+    <Compile Include="Configurating\ConfigurationBroker.cs" />
+    <Compile Include="Configurating\DelegatingParagramConfigurationSection.cs" />
+    <Compile Include="Configurating\DiagramConfigurationElement.cs" />
+    <Compile Include="Configurating\DiagramConfigurationElementCollection.cs" />
+    <Compile Include="Configurating\ExampleConfigurationElement.cs" />
+    <Compile Include="Configurating\ExampleConfigurationElementCollection.cs" />
+    <Compile Include="Configurating\GenericsParagramConfigurationSection.cs" />
+    <Compile Include="Configurating\NamedConfigurationElementBase .cs" />
+    <Compile Include="Configurating\NamedConfigurationElementCollectionBase.cs" />
+    <Compile Include="Configurating\ParagraphConfigurationSectionBase.cs" />
+    <Compile Include="Configurating\PictureConfigurationElement.cs" />
+    <Compile Include="Configurating\PictureConfigurationElementCollection.cs" />
     <Compile Include="Delegating\AsyncInvoker.cs" />
     <Compile Include="Delegating\InvokeList.cs" />
+    <Compile Include="Expressions\BinaryExpressionCalculator.cs" />
     <Compile Include="Generics\GenericAdapterBase.cs" />
     <Compile Include="Generics\RawGenericFactory.cs" />
+    <Compile Include="Operator\Season.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

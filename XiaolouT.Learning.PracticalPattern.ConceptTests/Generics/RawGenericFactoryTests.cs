@@ -1,7 +1,9 @@
-﻿using NUnit.Framework;
+﻿
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+
 namespace XiaolouT.Learning.PracticalPattern.Concept.Generics.Tests
 {
-    [TestFixture]
+    [TestClass]
     public class RawGenericFactoryTests
     {
         interface IProduct
@@ -14,7 +16,7 @@ namespace XiaolouT.Learning.PracticalPattern.Concept.Generics.Tests
 
         }
 
-        [Test]
+        [TestMethod]
         public void CreateTest()
         {
             var typeName = typeof(ConcreteProduct).AssemblyQualifiedName;

@@ -1,10 +1,10 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace XiaolouT.Learning.PracticalPattern.Concept.Attributes.Tests
 {
-    [TestFixture()]
+    [TestClass]
     public class AttributedBuilderTests
     {
-        [Test()]
+        [TestMethod]
         public void Test()
         {
             var builder = new AttributedBuilder();
