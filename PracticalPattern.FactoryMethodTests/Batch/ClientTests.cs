@@ -10,7 +10,7 @@ namespace XiaolouT.Learning.PracticalPattern.FactoryMethod.Batch.Tests
         {
             var client = new Client();
             var products = client.Produce();
-            Assert.AreEqual(2+3, products.Length);
+            Assert.AreEqual(2 + 3, products.Length);
             for (int i = 0; i < 2; i++)
             {
                 Assert.AreEqual("A", products[i].Name);

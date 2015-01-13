@@ -53,6 +53,10 @@
     <Compile Include="Batch\ProductBDecision.cs" />
     <Compile Include="Batch\ProductCollection.cs" />
     <Compile Include="Batch\ProductDirector.cs" />
+    <Compile Include="Delegate\CalculateHandler.cs" />
+    <Compile Include="Delegate\CalculateHandlerFactory.cs" />
+    <Compile Include="Delegate\Calculator.cs" />
+    <Compile Include="Delegate\IFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

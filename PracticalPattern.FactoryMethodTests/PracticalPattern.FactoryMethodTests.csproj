@@ -51,6 +51,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Batch\ClientTests.cs" />
+    <Compile Include="Batch\IFactory.cs" />
+    <Compile Include="Delegate\CalculateHandlerFactoryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
