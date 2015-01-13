@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.Concept", "PracticalPattern.Concept\PracticalPattern.Concept.csproj", "{F4CB2299-BB97-4812-9922-AD9DDDD7C3CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.ConceptTests", "PracticalPattern.ConceptTests\PracticalPattern.ConceptTests.csproj", "{96985489-12C4-480B-BD20-73730CD02CC8}"
@@ -8,6 +10,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.Common", "PracticalPattern.Common\PracticalPattern.Common.csproj", "{980D6F7D-CE71-4E7C-B43D-EDA570D186F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.CommonTests", "PracticalPattern.CommonTests\PracticalPattern.CommonTests.csproj", "{6F0A9DC6-7A29-4225-A19D-DDB777E08347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.FactoryMethod", "PracticalPattern.FactoryMethod\PracticalPattern.FactoryMethod.csproj", "{4E587829-379D-4D1A-A916-884EEF792763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.FactoryMethodTests", "PracticalPattern.FactoryMethodTests\PracticalPattern.FactoryMethodTests.csproj", "{0C138002-F28B-4AD7-8A8F-898933822AA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,14 @@ Global
 		{6F0A9DC6-7A29-4225-A19D-DDB777E08347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F0A9DC6-7A29-4225-A19D-DDB777E08347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F0A9DC6-7A29-4225-A19D-DDB777E08347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E587829-379D-4D1A-A916-884EEF792763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E587829-379D-4D1A-A916-884EEF792763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E587829-379D-4D1A-A916-884EEF792763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E587829-379D-4D1A-A916-884EEF792763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C138002-F28B-4AD7-8A8F-898933822AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C138002-F28B-4AD7-8A8F-898933822AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C138002-F28B-4AD7-8A8F-898933822AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C138002-F28B-4AD7-8A8F-898933822AA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
