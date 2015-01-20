@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.FactoryMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.Singleton", "PracticalPattern.Singleton\PracticalPattern.Singleton.csproj", "{C6FAE8B7-1E74-48A9-ABDD-60CC257E69FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.AbstractFactory", "PracticalPattern.AbstractFactory\PracticalPattern.AbstractFactory.csproj", "{FCD51002-25F7-4087-861B-5D42089A7F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalPattern.Builder", "PracticalPattern.Builder\PracticalPattern.Builder.csproj", "{B97E7E24-DC93-4262-B23B-C547BE5267BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{C6FAE8B7-1E74-48A9-ABDD-60CC257E69FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6FAE8B7-1E74-48A9-ABDD-60CC257E69FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6FAE8B7-1E74-48A9-ABDD-60CC257E69FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD51002-25F7-4087-861B-5D42089A7F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD51002-25F7-4087-861B-5D42089A7F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD51002-25F7-4087-861B-5D42089A7F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD51002-25F7-4087-861B-5D42089A7F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97E7E24-DC93-4262-B23B-C547BE5267BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97E7E24-DC93-4262-B23B-C547BE5267BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97E7E24-DC93-4262-B23B-C547BE5267BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97E7E24-DC93-4262-B23B-C547BE5267BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
