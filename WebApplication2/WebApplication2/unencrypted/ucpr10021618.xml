@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DICTIONARY</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.DICT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="me"><heading><title>DICTIONARY</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50012060</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.DICT1"><leg:level-vrnt leveltype="dictionary" searchtype="LEGISLATION DICTIONARY" subdoc="false" toc-caption="DICTIONARY">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title searchtype="DICT-TITLE"><refpt id="UCPN.UCPR.UCPRN05.DICT1" type="ext"/>DICTIONARY</title><leg:empleg>(Rule 1.2)</leg:empleg></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.ACTIVE-PARTY"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.ACTIVE-PARTY" type="ext"/><emph typestyle="bf">active party</emph></defterm><defdesc>
+<p><text>, in relation to any proceedings, means a party who has an address for service in the proceedings, other than:</text></p>
+<l><li id="UCPN.UCPR.UCPN05.DICT1.ACTIVE-PARTY..A"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.ACTIVE-PARTY..A" type="ext"/>(a)</lilabel>
+<p><text>a party against whom judgment has been entered in the proceedings, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.ACTIVE-PARTY..B"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.ACTIVE-PARTY..B" type="ext"/>(b)</lilabel>
+<p><text>a party in respect of whom the proceedings have been dismissed, withdrawn or discontinued,</text></p>
+</li>
+</l>
+<p><text>being, in either case, a party against whom no further claim in the proceedings subsists.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.APPROVED-FORM"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.APPROVED-FORM" type="ext"/><emph typestyle="bf">approved form</emph></defterm><defdesc>
+<p><text>, in relation to a document, means the form approved under section 17 of the Civil Procedure Act 2005 for the purposes of that document.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.AUTHORISED-DX-SYSTEM"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.AUTHORISED-DX-SYSTEM" type="ext"/><emph typestyle="bf">authorised DX system</emph></defterm><defdesc>
+<p><text>means the document exchange operated by Toll Transport Pty Ltd (ACN 006 604 191) trading as DX Mail.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.BUSINESS-NAME"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.BUSINESS-NAME" type="ext"/><emph typestyle="bf">business name </emph></defterm><defdesc>
+<p><text>means a name, style, title or designation under which a business is conducted (not being the name or names of the persons by whom the business is conducted), and includes such a name, style, title or designation whether or not it is registered under the Business Names Act 2002 or under Part 3 of the Partnership Act 1892.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.COST-ASSESSORS-CERTIFICATE"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-ASSESSORS-CERTIFICATE" type="ext"/><emph typestyle="bf">cost assessor's certificate</emph></defterm><defdesc>
+<p><text>means a certificate issued under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.C3.PT3-2.D11" remotekey1="REFPTID" service="DOC-ID">Division 11</remotelink></ci:content></ci:cite>
+ of Part 3.2 of the Legal Profession Act 2004 in relation to a determination of costs under that Division.</text></p>
+<glp:note id="UCPN.UCPR.UCPN05.DICT1.COST-ASSESSORS-CERTIFICATE.LGN1">
+<heading><title>NOTE:</title></heading>
+<p>
+<text>Pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.SCH9.CL3" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 3</remotelink></ci:content></ci:cite>
+ of Schedule 9 to the Legal Profession Act 2004, a costs assessor&#x2019;s certificate issued under the Legal Profession Act 1987 is taken to be a costs assessor&#x2019;s certificate issued under the Legal Profession Act 2004.</text></p></glp:note>
+</defdesc><leg:histnote>
+<p><text>[def  subst Amendment 11 of 2006  r 2 and Sch 1[33], effective 8 December 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.DEFAMATION-DEFENCE"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.DEFAMATION-DEFENCE" type="ext"/><emph typestyle="bf">defamation defence</emph></defterm><defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.UCPR.UCPN05.DICT1.DEFAMATION-DEFENCE.A"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.DEFAMATION-DEFENCE.A" type="ext"/>(a)</lilabel>
+<p><text>any defence to the publication of defamatory matter under the Defamation Act 1974 or the Defamation Act 2005, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.DEFAMATION-DEFENCE.B"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.DEFAMATION-DEFENCE.B" type="ext"/>(b)</lilabel>
+<p><text>any other defence or exclusion of liability available to a defendant apart from those Acts for the publication of defamatory matter (whether at common law or under any other legislation).</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 5 of 2005  r 3 and Sch 1[8], effective 1 January 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.DEFAULT-JUDGMENT"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.DEFAULT-JUDGMENT" type="ext"/><emph typestyle="bf">default judgment</emph></defterm><defdesc>
+<p><text>means judgment given under Part 16.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 87 of 6 July 2007  r 2 and Sch 1[21], effective 6 July 2007]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.DOCUMENT"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.DOCUMENT" type="ext"/><emph typestyle="bf">document</emph></defterm><defdesc>
+<p><text> includes any part of a document and any copy of a document or part of a document.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.COST-DX-ADDRESS"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-DX-ADDRESS" type="ext"/><emph typestyle="bf">DX address</emph></defterm><defdesc>
+<p><text>in relation to a person having a DX box in an authorised DX system, means the address of the DX box.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.COST-DX-BOX"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-DX-BOX" type="ext"/><emph typestyle="bf">DX box</emph></defterm><defdesc>
+<p><text>means an exchange box in an authorised DX system.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.HAGUE-CONVENTION"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.HAGUE-CONVENTION" type="ext"/><emph typestyle="bf">Hague Convention</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11A-1" remotekey1="REFPTID" service="DOC-ID">rule 11A.1</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 27 of 2009  Sch 1[14], effective 10 July 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.COST-HEARING"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-HEARING" type="ext"/><emph typestyle="bf">hearing</emph></defterm><defdesc>
+<p><text>[Repealed]</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  rep Amendment 3 of 2005  r 2 and Sch 1[21], effective 30 September 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.COST-IMPUTATION-IN-QUESTION"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-IMPUTATION-IN-QUESTION" type="ext"/><emph typestyle="bf">imputation in question</emph></defterm><defdesc>
+<p><text>, in relation to any defamation defence, means the imputation to which the defence is pleaded.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 5 of 2005  r 3 and Sch 1[8], effective 1 January 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT" type="ext"/><emph typestyle="bf">interest up to judgment</emph></defterm><defdesc>
+<p><text>means interest under:</text></p>
+<l><li id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT..A"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT..A" type="ext"/>(a)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.UCPRN05.S100" remotekey1="REFPTID" service="DOC-ID" status="unval">section 100</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT..B"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT..B" type="ext"/>(b)</lilabel>
+<p><text>section 73 of the Motor Accidents Act 1988, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT..C"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT..C" type="ext"/>(c)</lilabel>
+<p><text>section 137 of the Motor Accidents Compensation Act 1999, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT..D"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-INTEREST-UP-TO-JUDGMENT..D" type="ext"/>(d)</lilabel>
+<p><text>section 151M of the Workers Compensation Act 1987.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.COST-LIQUIDATED-CLAIM"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-LIQUIDATED-CLAIM" type="ext"/><emph typestyle="bf">liquidated claim</emph></defterm><defdesc>
+<p><text> includes a claim for interest up to judgment.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.COST-LIQUIDATOR"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.COST-LIQUIDATOR" type="ext"/><emph typestyle="bf">liquidator</emph></defterm><defdesc>
+<p><text> includes a provisional liquidator.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.MEDIATION-SESSION"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.MEDIATION-SESSION" type="ext"/><emph typestyle="bf">mediation session</emph></defterm><defdesc>
+<p><text>means a meeting arranged for the mediation of a matter, and includes any steps taken in the course of making arrangements for the session or in the course of the follow-up of a session.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 24 of 2009  r 2 and Sch 1[20], effective 6 March 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.OFFICER-OF-THE-COURT"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.OFFICER-OF-THE-COURT" type="ext"/><emph typestyle="bf">officer of the court</emph></defterm><defdesc>
+<p><text> does not include a barrister, solicitor or liquidator.</text></p>
+<glp:note id="UCPN.UCPR.UCPN05.DICT1.OFFICER-OF-THE-COURT.LGN1">
+<heading><title>Note:</title></heading>
+<p>
+<text>See rule 1.3 for the definitions of <defterm><emph typestyle="bf">barrister</emph></defterm> and <defterm><emph typestyle="bf">solicitor</emph></defterm>.</text></p></glp:note>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.OPPOSITE-PARTY"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.OPPOSITE-PARTY" type="ext"/><emph typestyle="bf">opposite party</emph></defterm><defdesc>
+<p><text> means defendant (in relation to a plaintiff) and plaintiff (in relation to a defendant).</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.ORDER-FOR-EXAMINATION"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.ORDER-FOR-EXAMINATION" type="ext"/><emph typestyle="bf">order for examination</emph></defterm><defdesc>
+<p><text> means an order for examination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S108" remotekey1="REFPTID" service="DOC-ID">section 108</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.PLEADING"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.PLEADING" type="ext"/><emph typestyle="bf">pleading</emph></defterm><defdesc>
+<p><text> includes a statement of claim, defence, reply and any subsequent pleading for which leave is given under Part 14, but does not include a summons or notice of motion.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.PRINCIPAL-OFFICER"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.PRINCIPAL-OFFICER" type="ext"/><emph typestyle="bf">principal officer</emph></defterm><defdesc>
+<p><text> in relation to a corporation, means:</text></p>
+<l><li id="UCPN.UCPR.UCPN05.DICT1.PRINCIPAL-OFFICER..A"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRINCIPAL-OFFICER..A" type="ext"/>(a)</lilabel>
+<p><text>the chairman or president (however described) of the governing body of the corporation, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRINCIPAL-OFFICER..B"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRINCIPAL-OFFICER..B" type="ext"/>(b)</lilabel>
+<p><text>the general manager, chief executive officer or other person (however described) having general management of the affairs of the corporation, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRINCIPAL-OFFICER..C"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRINCIPAL-OFFICER..C" type="ext"/>(c)</lilabel>
+<p><text>the secretary, treasurer or other person (however described) having the general function of accepting correspondence on behalf of the corporation.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-DOCUMENT"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-DOCUMENT" type="ext"/><emph typestyle="bf">privileged document</emph></defterm><defdesc>
+<p><text> means a document that contains privileged information.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION" type="ext"/><emph typestyle="bf">privileged information</emph></defterm><defdesc>
+<p><text> means any of the following information:</text></p>
+<l><li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..A"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..A" type="ext"/>(a)</lilabel>
+<p><text>information of which evidence could not, by virtue of the operation of Division 1 of Part 3.10 of the Evidence Act 1995, be adduced in the proceedings over the objection of any person,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..B"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..B" type="ext"/>(b)</lilabel>
+<p><text>information that discloses a protected confidence, the contents of a document recording a protected confidence or protected identity information (within the meaning of section 126B of the Evidence Act 1995) where:</text></p>
+<l><li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..B.I"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..B.I" type="ext"/>(i)</lilabel>
+<p><text>consent by the protected confider (within the meaning of section 126C of that Act) has not been given to disclosure of the confidence, contents or information, and</text></p>
+</li><li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..B.II"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..B.II" type="ext"/>(ii)</lilabel>
+<p><text>section 126D of that Act would not operate to stop Division 1A of Part 3.10 of that Act from preventing the adducing of evidence in respect of the confidence, contents or information,</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..C"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..C" type="ext"/>(c)</lilabel>
+<p><text>information of which evidence could not be adduced in the proceedings by virtue of the operation of section 126H of the Evidence Act 1995,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..D"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..D" type="ext"/>(d)</lilabel>
+<p><text>information that tends to prove that a party by whom a document is required to be made available, or by whom an interrogatory is to be answered, under section 128 of the Evidence Act 1995 or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S87" remotekey1="REFPTID" service="DOC-ID">section 87</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005:</text></p>
+<l><li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..D.I"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..D.I" type="ext"/>(i)</lilabel>
+<p><text>has committed an offence against or arising under an Australian law or a law of a foreign country, or</text></p>
+</li><li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..D.II"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..D.II" type="ext"/>(ii)</lilabel>
+<p><text>is liable to pay a civil penalty,</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..E"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..E" type="ext"/>(e)</lilabel>
+<p><text>information the admission or use of which in a proceeding would be contrary to section 129 of the Evidence Act 1995,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..F"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..F" type="ext"/>(f)</lilabel>
+<p><text>information that relates to matters of state within the meaning of section 130 of the Evidence Act 1995,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..G"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..G" type="ext"/>(g)</lilabel>
+<p><text>information to which section 131 of the Evidence Act 1995 applies,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..H"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..H" type="ext"/>(h)</lilabel>
+<p><text>information:</text></p>
+<l><li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..H.I"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..H.I" type="ext"/>(i)</lilabel>
+<p><text>the disclosure of the contents of which, or</text></p>
+</li><li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..H.II"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..H.II" type="ext"/>(ii)</lilabel>
+<p><text>the production of which, or</text></p>
+</li><li id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..H.III"><lilabel><refpt id="UCPN.UCPR.UCPN05.DICT1.PRIVILEGED-INFORMATION..H.III" type="ext"/>(iii)</lilabel>
+<p><text>the admission or use of which,</text></p>
+</li></l>
+<p><text>in the proceedings would be contrary to any Act (other than the Evidence Act 1995) or any Commonwealth Act (other than the Evidence Act 1995 of the Commonwealth),</text></p>
+</li>
+</l>
+<p><text>but does not include information that the court declares not to be privileged information for the purposes of those proceedings.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.PROCEEDS-OF-ENFORCEMENT"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.PROCEEDS-OF-ENFORCEMENT" type="ext"/><emph typestyle="bf">proceeds of enforcement</emph></defterm><defdesc>
+<p><text> of a writ for the levy of property means the proceeds derived from the enforcement of the writ under Division 2 of Part 8 of the Civil Procedure Act 2005.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.PROFESSIONAL-NEGLIGENCE"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.PROFESSIONAL-NEGLIGENCE" type="ext"/><emph typestyle="bf">professional negligence</emph></defterm><defdesc>
+<p><text> means the breach of a duty of care or of a contractual obligation in the performance of professional work or in the provision of professional services by a medical practitioner, an allied health professional (for example, dentist, chemist, physiotherapist), a hospital, a solicitor or a barrister.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.PROFESSIONAL-NEGLIGENCE-CLAIM"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.PROFESSIONAL-NEGLIGENCE-CLAIM" type="ext"/><emph typestyle="bf">professional negligence claim</emph></defterm><defdesc>
+<p><text>means a claim for damages, indemnity or contribution based on an assertion of professional negligence.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 87 of 6 July 2007  r 2 and Sch 1[21], effective 6 July 2007]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.REGISTERED-BUSINESS-NAME"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.REGISTERED-BUSINESS-NAME" type="ext"/><emph typestyle="bf">registered business name</emph></defterm><defdesc>
+<p><text> means a business name that is registered under the Business Names Act 2002 or under Part 3 of the Partnership Act 1892.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.REGISTRY"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.REGISTRY" type="ext"/><emph typestyle="bf">registry</emph></defterm><defdesc>
+<p><text> means the registry of the relevant court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.RELIEF"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.RELIEF" type="ext"/><emph typestyle="bf">relief</emph></defterm><defdesc>
+<p><text> includes remedy.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.SENIOR-OFFICER"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.SENIOR-OFFICER" type="ext"/><emph typestyle="bf">senior officer</emph></defterm><defdesc>
+<p><text> in relation to a corporation, includes the principal officer of the corporation and any other person who (whether alone or with others) has powers of management, direction or control of the corporation.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.SOLICITOR-ON-THE-RECORD"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.SOLICITOR-ON-THE-RECORD" type="ext"/><emph typestyle="bf">solicitor on the record</emph></defterm><defdesc>
+<p><text>, in relation to any party to proceedings, means the solicitor who is for the time being named as the party&#x2019;s legal representative in the documentation for the proceedings.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 24 of 2009  r 2 and Sch 1[20], effective 6 March 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.TUTOR"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.TUTOR" type="ext"/><emph typestyle="bf">tutor</emph></defterm><defdesc>
+<p><text> in relation to a person under legal incapacity, means a tutor appointed to represent the person (whether by the court or otherwise) in accordance with Division 4 of Part 7.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.UNINSURED-LIABILITY-AND-INDEMNITY-SCHEME"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.UNINSURED-LIABILITY-AND-INDEMNITY-SCHEME" type="ext"/><emph typestyle="bf">Uninsured Liability and Indemnity Scheme</emph></defterm><defdesc>
+<p><text>means the scheme constituted under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.WCN.PT4.D6" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 6</remotelink></ci:content></ci:cite>
+ of Part 4 of the Workers Compensation Act 1987.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 22 of 2008  r 2 and Sch 1[25], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.UNREGISTERED-BUSINESS-NAME"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.UNREGISTERED-BUSINESS-NAME" type="ext"/><emph typestyle="bf">unregistered business name</emph></defterm><defdesc>
+<p><text> means a business name that is not registered under the Business Names Act 2002 or Part 3 of the Partnership Act 1892.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.UNRESTRICTED-PRACTISING-CERTIFICATE"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.UNRESTRICTED-PRACTISING-CERTIFICATE" type="ext"/><emph typestyle="bf">unrestricted practising certificate</emph></defterm><defdesc>
+<p><text>has the same meaning as it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LPAN04" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Profession Act 2004</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 24 of 2009  r 2 and Sch 1[20], effective 6 March 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPN05.DICT1.WITNESS-STATEMENT"><defterm><refpt id="UCPN.UCPR.UCPN05.DICT1.WITNESS-STATEMENT" type="ext"/><emph typestyle="bf">witness statement</emph></defterm><defdesc>
+<p><text> means a statement referred to in rule 31.4.</text></p>
+</defdesc></defitem></deflist>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The following words and expressions are defined in the Civil Procedure Act 2005, either for the purposes of that Act generally or for the purposes of particular portions of that Act, and consequently have the same meanings in these rules:</text>
+<l>
+<li><lilabel> </lilabel>
+<p><text>chargee (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>charging order (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>civil proceedings</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>claim for relief</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>costs</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>court</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>criminal proceedings</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>cross-claim</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>defendant</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>exercise</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>financial institution (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>garnishee order (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>function</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>garnishee (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>goods (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>hearing</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>instalment order (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>judgment</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>judgment creditor</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>judgment debt</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>judgment debtor</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>judicial officer</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>jurisdictional limit</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>local rules</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>minor</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>motor accident claim</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>officer</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>order for examination (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>ordinary basis</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>originating process</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>person under legal incapacity</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>plaintiff</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>possession</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>trial</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>tutor</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>uniform rules</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>Uniform Rules Committee</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>wage or salary (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>workplace injury damages claim</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>writ for the levy of property (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>writ of delivery (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>writ of execution (Part 8)</text></p>
+</li>
+<li><lilabel> </lilabel>
+<p><text>writ of possession (Part 8) </text></p>
+</li>
+</l></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:body>
+</LEGDOC>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 3 MENTAL HARM [ss 27&#x2013;33]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CLAN02.PT3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CIVIL LIABILITY ACT 2002 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 3 MENTAL HARM [ss 27&#x2013;33]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140030240</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CLAN02"/><docinfo:metaitem name="parent-filename" value="ol1006.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 22, 2002</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CIVIL LIABILITY ACT 2002 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.CLAN02.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.PT3"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3 MENTAL HARM [ss 27&#x2013;33]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CLAN02.PT3" type="ext"/>PART 3</designum></desig><title searchtype="PART-TITLE">MENTAL HARM [ss 27&#x2013;33]</title><leg:histnote>
+<p><text>[Pt 3  insrt  Act 92 of 2002   s 3 and Sch 1, effective 6 December 2002]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S27"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,720] s 27 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S27" type="ext"/>[270,720]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>27</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.OL.CLAN02.S27.CONSEQUENTIAL-MENTAL-HARM"><defterm><refpt id="UCPN.OL.CLAN02.S27.CONSEQUENTIAL-MENTAL-HARM" type="ext"/><emph typestyle="bf">consequential mental harm</emph></defterm> <defdesc>
+<p><text>means mental harm that is a consequence of a personal injury of any other kind.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CLAN02.S27.MENTAL-HARM"><defterm><refpt id="UCPN.OL.CLAN02.S27.MENTAL-HARM" type="ext"/><emph typestyle="bf">mental harm</emph></defterm> <defdesc>
+<p><text>means impairment of a person&#x2019;s mental condition.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CLAN02.S27.NEGLIGENCE"><defterm><refpt id="UCPN.OL.CLAN02.S27.NEGLIGENCE" type="ext"/><emph typestyle="bf">negligence</emph></defterm> <defdesc>
+<p><text>means failure to exercise reasonable care and skill.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CLAN02.S27.PERSONAL-INJURY"><defterm><refpt id="UCPN.OL.CLAN02.S27.PERSONAL-INJURY" type="ext"/><emph typestyle="bf">personal injury</emph></defterm> <defdesc>
+<p><text>includes:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>pre-natal injury, and</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>impairment of a person's physical or mental condition, and</text></p>
+</li>
+<li><lilabel>(c)</lilabel>
+<p><text>disease.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CLAN02.S27.PURE-MENTAL-HARM"><defterm><refpt id="UCPN.OL.CLAN02.S27.PURE-MENTAL-HARM" type="ext"/><emph typestyle="bf">pure mental harm</emph></defterm> <defdesc>
+<p><text>means mental harm other than consequential mental harm.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S28"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,725] s 28 Application of Part">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S28" type="ext"/>[270,725]</edpnum><title searchtype="SECT-TITLE">Application of Part</title><desig searchtype="SECT-NUM"><designum>28</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S28.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S28.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part (except section 29) applies to any claim for damages for mental harm resulting from negligence, regardless of whether the claim is brought in tort, in contract, under statute or otherwise.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S28.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S28.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Section 29 applies to a claim for damages in any civil proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S28.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S28.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part does not apply to civil liability that is excluded from the operation of this Part by section 3B.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S29"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,730] s 29 Personal injury arising from mental or nervous shock">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S29" type="ext"/>[270,730]</edpnum><title searchtype="SECT-TITLE">Personal injury arising from mental or nervous shock</title><desig searchtype="SECT-NUM"><designum>29</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any action for personal injury, the plaintiff is not prevented from recovering damages merely because the personal injury arose wholly or in part from mental or nervous shock.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S30"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,735] s 30 Limitation on recovery for pure mental harm arising from shock">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S30" type="ext"/>[270,735]</edpnum><title searchtype="SECT-TITLE">Limitation on recovery for pure mental harm arising from shock</title><desig searchtype="SECT-NUM"><designum>30</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S30.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S30.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies to the liability of a person (<defterm><emph typestyle="bf">the defendant</emph></defterm>) for pure mental harm to a person (<defterm><emph typestyle="bf">the plaintiff</emph></defterm>) arising wholly or partly from mental or nervous shock in connection with another person (<defterm><emph typestyle="bf">the victim</emph></defterm>) being killed, injured or put in peril by the act or omission of the defendant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S30.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S30.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The plaintiff is not entitled to recover damages for pure mental harm unless:</text></p>
+<l><li id="UCPN.OL.CLAN02.S30.2.A"><lilabel><refpt id="UCPN.OL.CLAN02.S30.2.A" type="ext"/>(a)</lilabel>
+<p><text>the plaintiff witnessed, at the scene, the victim being killed, injured or put in peril, or</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S30.2.B"><lilabel><refpt id="UCPN.OL.CLAN02.S30.2.B" type="ext"/>(b)</lilabel>
+<p><text>the plaintiff is a close member of the family of the victim.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S30.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S30.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any damages to be awarded to the plaintiff for pure mental harm are to be reduced in the same proportion as any reduction in the damages that may be recovered from the defendant by or through the victim on the basis of the contributory negligence of the victim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S30.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S30.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>No damages are to be awarded to the plaintiff for pure mental harm if the recovery of damages from the defendant by or through the victim in respect of the act or omission would be prevented by any provision of this Act or any other written or unwritten law.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S30.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S30.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.CLAN02.S30.CLOSE-MEMBER-OF-THE-FAMILY"><defterm><refpt id="UCPN.OL.CLAN02.S30.CLOSE-MEMBER-OF-THE-FAMILY" type="ext"/><emph typestyle="bf">close member of the family</emph></defterm> <defdesc>
+<p><text>of a victim means:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>a parent of the victim or other person with parental responsibility for the victim, or</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>a de facto partner,</text></p>
+</li>
+<li><lilabel>(c)</lilabel>
+<p><text>a child or stepchild of the victim or any other person for whom the victim has parental responsibility, or</text></p>
+</li>
+<li><lilabel>(d)</lilabel>
+<p><text>a brother, sister, half-brother or half-sister, or stepbrother or stepsister of the victim.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CLAN02.S30.SPOUSE-OR-PARTNER"><defterm><refpt id="UCPN.OL.CLAN02.S30.SPOUSE-OR-PARTNER" type="ext"/><emph typestyle="bf">spouse or partner</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>a husband or wife, or</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>the other party to a de facto relationship within the meaning of the Property (Relationships) Act 1984,</text></p>
+</li>
+</l>
+<p><text>but where more than one person would so qualify as a spouse or partner, means only the last person to so qualify.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[subs (5)  am Act 19 of 2010  Sch 3.18[3], effective 19 May 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S31"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,740] s 31 Pure mental harm &#x2014; liability only for recognised psychiatric illness">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S31" type="ext"/>[270,740]</edpnum><title searchtype="SECT-TITLE">Pure mental harm &#x2014; liability only for recognised psychiatric illness</title><desig searchtype="SECT-NUM"><designum>31</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>There is no liability to pay damages for pure mental harm resulting from negligence unless the harm consists of a recognised psychiatric illness.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S32"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,745] s 32 Mental harm &#x2014; duty of care">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S32" type="ext"/>[270,745]</edpnum><title searchtype="SECT-TITLE">Mental harm &#x2014; duty of care</title><desig searchtype="SECT-NUM"><designum>32</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S32.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S32.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person (<defterm><emph typestyle="bf">the defendant</emph></defterm>) does not owe a duty of care to another person (<defterm><emph typestyle="bf">the plaintiff</emph></defterm>) to take care not to cause the plaintiff mental harm unless the defendant ought to have foreseen that a person of normal fortitude might, in the circumstances of the case, suffer a recognised psychiatric illness if reasonable care were not taken.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S32.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S32.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of the application of this section in respect of pure mental harm, the circumstances of the case include the following:</text></p>
+<l><li id="UCPN.OL.CLAN02.S32.2.A"><lilabel><refpt id="UCPN.OL.CLAN02.S32.2.A" type="ext"/>(a)</lilabel>
+<p><text>whether or not the mental harm was suffered as the result of a sudden shock,</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S32.2.B"><lilabel><refpt id="UCPN.OL.CLAN02.S32.2.B" type="ext"/>(b)</lilabel>
+<p><text>whether the plaintiff witnessed, at the scene, a person being killed, injured or put in peril,</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S32.2.C"><lilabel><refpt id="UCPN.OL.CLAN02.S32.2.C" type="ext"/>(c)</lilabel>
+<p><text>the nature of the relationship between the plaintiff and any person killed, injured or put in peril,</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S32.2.D"><lilabel><refpt id="UCPN.OL.CLAN02.S32.2.D" type="ext"/>(d)</lilabel>
+<p><text>whether or not there was a pre-existing relationship between the plaintiff and the defendant.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S32.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S32.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of the application of this section in respect of consequential mental harm, the circumstances of the case include the personal injury suffered by the plaintiff.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S32.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S32.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not require the court to disregard what the defendant knew or ought to have known about the fortitude of the plaintiff.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S33"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,750] s 33 Liability for economic loss for consequential mental harm">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S33" type="ext"/>[270,750]</edpnum><title searchtype="SECT-TITLE">Liability for economic loss for consequential mental harm</title><desig searchtype="SECT-NUM"><designum>33</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A court cannot make an award of damages for economic loss for consequential mental harm resulting from negligence unless the harm consists of a recognised psychiatric illness.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1  PRELIMINARY [ss 1&#x2013;6]</docinfo:doc-heading><docinfo:doc-id>UCPN.LC.LCAN07.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Local Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>LOCAL COURT ACT 2007 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1  PRELIMINARY [ss 1&#x2013;6]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>90020000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.LC"/><docinfo:metaitem name="parent-filename" value="lc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_LC.SGM_UCPN.LC.LCAN07"/><docinfo:metaitem name="parent-filename" value="lc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">LOCAL COURT ACT 2007 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">2007</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 93, 2007</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Local Court Act 2007 No 93 received assent on 13 December 2007 and was proclaimed to commence on 6 July 2009: LW 3 July 2009.</text></p>
+<p>
+<text>The Local Court Act 2007 has been amended by the following instruments:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Child Protection (Offenders Registration) Amendment Act 2007 No 87</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 4.4: 20 October 2008 (s 2(1) and Gaz 132 of 17 October 2008 p 9976)</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Casino, Liquor and Gaming) Amendment Act 2007 No 92</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 4: 1 July 2008 ( s 2 and Gaz 76 of 27 June 2008 p 5867)</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Amendment Act 2008 No 53</entry><entry colname="c2">1 July 2008</entry><entry colname="c3">Sch 15[1]: assent (s 2(1)); Sch 15[2]&#x2013;[6]: 1 September 2008 (s 2(4))</entry></row>
+<row><entry colname="c1">Rural Lands Protection Amendment Act 2008 No 112</entry><entry colname="c2">10 December 2008</entry><entry colname="c3">Sch 6.17: 1 January 2009 (s 2(1)</entry></row>
+<row><entry colname="c1">Crimes (Appeal and Review) Amendment Act 2009 No 4</entry><entry colname="c2">30 March 2009</entry><entry colname="c3">Sch 2: assent (s 2(1))</entry></row>
+<row><entry colname="c1">Courts and Other Legislation Amendment Act 2009 No 37</entry><entry colname="c2">19 June 2009</entry><entry colname="c3">Sch 1.8: assent (s 2(2))</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2009 No 56</entry><entry colname="c2">1 July 2009</entry><entry colname="c3">Sch 4.34: 17 July 2009</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Amendment Act 2009 No 77</entry><entry colname="c2">3 November 2009</entry><entry colname="c3">Sch 2.14: on assent</entry></row>
+<row><entry colname="c1">Fisheries Management Amendment Act 2009 No 114</entry><entry colname="c2">14 December 2009</entry><entry colname="c3">Sch 2.3: 1 April 2010 (LW 1 April 2010)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2010 No 63</entry><entry colname="c2">28 June 2010</entry><entry colname="c3">Sch 1.13: 28 June 2010</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Further Amendment Act 2010 No 135</entry><entry colname="c2">7 December 2010</entry><entry colname="c3">Sch 15: on assent</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2010 No 119</entry><entry colname="c2">29 November 2010</entry><entry colname="c3">Sch 2.28: 7 January 2011</entry></row>
+<row><entry colname="c1">Courts and Other Legislation Amendment Act 2012 No 60</entry><entry colname="c2">10 September 2012</entry><entry colname="c3">10 September 2012</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.LC.LCAN07.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.LC.LCAN07" type="ext"/>LOCAL COURT ACT 2007 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act to establish the Local Court of New South Wales; to provide for the appointment of Magistrates and other officers of the Court; to confer certain jurisdiction on the Court; to abolish the Local Courts within New South Wales; to repeal the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82" remotekey1="REFPTID" service="DOC-ID" status="unval">Local Courts Act 1982</remotelink></ci:content></ci:cite>
+; and for other purposes.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.LC.LCAN07.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1  PRELIMINARY [ss 1&#x2013;6]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.LC.LCAN07.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE"> PRELIMINARY [ss 1&#x2013;6]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[LCA07 s 1] s 1 Name of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCAN07.S1" type="ext"/>[LCA07 s 1]</edpnum><title searchtype="SECT-TITLE">Name of Act</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is the Local Court Act 2007.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[LCA07 s 2] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCAN07.S2" type="ext"/>[LCA07 s 2]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act commences on a day or days to be appointed by proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[LCA07 s 3] s 3 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCAN07.S3" type="ext"/>[LCA07 s 3]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act:</text></p>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.ACTING-MAGISTRATE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.ACTING-MAGISTRATE" type="ext"/><emph typestyle="bf">acting Magistrate</emph></defterm><defdesc>
+<p><text>means a person appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S16" remotekey1="REFPTID" service="DOC-ID">section 16</remotelink></ci:content></ci:cite>
+ to be an acting Magistrate of the Local Court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.ASSESSOR"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.ASSESSOR" type="ext"/><emph typestyle="bf">Assessor</emph></defterm><defdesc>
+<p><text>means a person appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S17.1" remotekey1="REFPTID" service="DOC-ID">section 17(1)</remotelink></ci:content></ci:cite>
+ to be an Assessor of the Local Court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.CHIEF-MAGISTRATE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.CHIEF-MAGISTRATE" type="ext"/><emph typestyle="bf">Chief Magistrate</emph></defterm><defdesc>
+<p><text>means the person appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S14.1" remotekey1="REFPTID" service="DOC-ID">section 14(1)</remotelink></ci:content></ci:cite>
+ to be the Chief Magistrate of the Local Court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.CIVIL-JURISDICTION"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.CIVIL-JURISDICTION" type="ext"/><emph typestyle="bf">civil jurisdiction</emph></defterm><defdesc>
+<p><text>, in relation to the Local Court, means the jurisdiction referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S9..A" remotekey1="REFPTID" service="DOC-ID">section 9(a)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.COURT"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.COURT" type="ext"/><emph typestyle="bf">Court</emph></defterm><defdesc>
+<p><text>means the Local Court constituted by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S7.1" remotekey1="REFPTID" service="DOC-ID">section 7(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.CRIMINAL-JURISDICTION"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-JURISDICTION" type="ext"/><emph typestyle="bf">criminal jurisdiction</emph></defterm><defdesc>
+<p><text>, in relation to the Local Court, means the jurisdiction referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S9..C" remotekey1="REFPTID" service="DOC-ID">section 9(c)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS" type="ext"/><emph typestyle="bf">criminal proceedings</emph></defterm><defdesc>
+<p><text>means proceedings against a person for an offence (whether summary or indictable), and includes the following:</text></p>
+<l><li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.A"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.A" type="ext"/>(a)</lilabel>
+<p><text>committal proceedings,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.B"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.B" type="ext"/>(b)</lilabel>
+<p><text>proceedings relating to bail,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.C"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.C" type="ext"/>(c)</lilabel>
+<p><text>proceedings relating to sentence,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.D"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.D" type="ext"/>(d)</lilabel>
+<p><text>proceedings for the review of a conviction or sentence under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CLCARAN01" remotekey1="REFPTID" service="DOC-ID" status="unval">Crimes (Appeal and Review) Act 2001</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+</l>
+<p><text>but does not include the following:</text></p>
+<l><li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.E"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.E" type="ext"/>(e)</lilabel>
+<p><text>proceedings on an application for an order under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CFPAN00" remotekey1="REFPTID" service="DOC-ID" status="unval">Crimes (Forensic Procedures) Act 2000</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.F"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.F" type="ext"/>(f)</lilabel>
+<p><text>proceedings on an application for an order, or an application to vary or revoke any such order, under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPOPOAN04" remotekey1="REFPTID" service="DOC-ID" status="unval">Child Protection (Offenders Prohibition Orders) Act 2004</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.G"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.G" type="ext"/>(g)</lilabel>
+<p><text>proceedings on an application for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LEPPAN03.PT16A" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 16A</remotelink></ci:content></ci:cite>
+ of the Law Enforcement (Powers and Responsibilities) Act 2002,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.H"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.H" type="ext"/>(h)</lilabel>
+<p><text>applications for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPORAN00.S3E" remotekey1="REFPTID" service="DOC-ID" status="unval">section 3E</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPORAN00.S3F" remotekey1="REFPTID" service="DOC-ID" status="unval">3F</remotelink></ci:content></ci:cite>
+ of the Child Protection (Offenders Registration) Act 2000,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.I"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.CRIMINAL-PROCEEDINGS.I" type="ext"/>(i)</lilabel>
+<p><text>proceedings on an appeal against an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.FM94.S282I" remotekey1="REFPTID" service="DOC-ID" status="unval">section 282I</remotelink></ci:content></ci:cite>
+ of the Fisheries Management Act 1994.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 87 of 2007  s 6 and Sch 4.4, effective 20 October 2008 ; Act 114 of 2009  Sch 2.3, effective 1 April 2010]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.DEPUTY-CHIEF-MAGISTRATE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.DEPUTY-CHIEF-MAGISTRATE" type="ext"/><emph typestyle="bf">Deputy Chief Magistrate</emph></defterm><defdesc>
+<p><text>means a person appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S15.1" remotekey1="REFPTID" service="DOC-ID">section 15(1)</remotelink></ci:content></ci:cite>
+ to be a Deputy Chief Magistrate of the Local Court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.DESIGNATED-PLACE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.DESIGNATED-PLACE" type="ext"/><emph typestyle="bf">designated place</emph></defterm><defdesc>
+<p><text>means a place at which sittings of the Local Court are to be held in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S22.1" remotekey1="REFPTID" service="DOC-ID">section 22(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.EXERCISE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.EXERCISE" type="ext"/><emph typestyle="bf">exercise</emph></defterm><defdesc>
+<p><text>a function includes perform a duty.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.FUNCTION"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.FUNCTION" type="ext"/><emph typestyle="bf">function</emph></defterm><defdesc>
+<p><text>includes power, authority and duty.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.MAGISTRATE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.MAGISTRATE" type="ext"/><emph typestyle="bf">Magistrate</emph></defterm><defdesc>
+<p><text>means a person appointed or taken to be appointed under this Act to be a Magistrate of the Local Court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.PART-TIME-MAGISTRATE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.PART-TIME-MAGISTRATE" type="ext"/><emph typestyle="bf">part-time Magistrate</emph></defterm><defdesc>
+<p><text>means a person:</text></p>
+<l><li id="UCPN.LC.LCAN07.S3.1.PART-TIME-MAGISTRATE.A"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.PART-TIME-MAGISTRATE.A" type="ext"/>(a)</lilabel>
+<p><text>who is appointed to hold the office of Magistrate on a part-time basis, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.PART-TIME-MAGISTRATE.B"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.PART-TIME-MAGISTRATE.B" type="ext"/>(b)</lilabel>
+<p><text>who exercises the functions of the office of Magistrate on a part-time basis, as provided by an agreement referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.CL1.2" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 1(2)</remotelink></ci:content></ci:cite>
+ of Schedule 1.</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S3.1.PART-TIME-MAGISTRATE.C"><lilabel><refpt id="UCPN.LC.LCAN07.S3.1.PART-TIME-MAGISTRATE.C" type="ext"/>(c)</lilabel>
+<p><text>[Repealed]</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 92 of 2007  s 6 and Sch 4[1], [2], effective 1 July 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.PRACTICE-NOTE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.PRACTICE-NOTE" type="ext"/><emph typestyle="bf">practice note</emph></defterm><defdesc>
+<p><text>means a practice note issued under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S27" remotekey1="REFPTID" service="DOC-ID">section 27</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.PUBLIC-SECTOR-SERVICE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.PUBLIC-SECTOR-SERVICE" type="ext"/><emph typestyle="bf">public sector service</emph></defterm><defdesc>
+<p><text>has the same meaning as it has in the Public Sector Employment and Management Act 2002.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 135 of 2010  Sch 15[1], effective 7 December 2010]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.RULE-COMMITTEE"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.RULE-COMMITTEE" type="ext"/><emph typestyle="bf">Rule Committee</emph></defterm><defdesc>
+<p><text>means the Local Court Rule Committee established under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S25" remotekey1="REFPTID" service="DOC-ID">section 25</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.RULES"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.RULES" type="ext"/><emph typestyle="bf">rules</emph></defterm><defdesc>
+<p><text>means the rules made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.26" remotekey1="REFPTID" service="DOC-ID" status="unval">section 26</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S3.1.SPECIAL-JURISDICTION"><defterm><refpt id="UCPN.LC.LCAN07.S3.1.SPECIAL-JURISDICTION" type="ext"/><emph typestyle="bf">special jurisdiction</emph></defterm><defdesc>
+<p><text>, in relation to the Local Court, means the jurisdiction referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S9..B" remotekey1="REFPTID" service="DOC-ID">section 9(b)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes included in this Act do not form part of this Act.</text></p>
+<p><glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>In the notes to this Act, <defterm><emph typestyle="bf">LCA 1982</emph></defterm> means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82" remotekey1="REFPTID" service="DOC-ID" status="unval">Local Courts Act 1982</remotelink></ci:content></ci:cite>
+, <defterm><emph typestyle="bf">CPA</emph></defterm> means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink></ci:content></ci:cite>
+ and <defterm><emph typestyle="bf">DCA</emph></defterm> means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink></ci:content></ci:cite>
+.</text></p></glp:note></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[LCA07 s 4] s 4 Regulations (cf LCA 1982, section 28)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCAN07.S4" type="ext"/>[LCA07 s 4]</edpnum><title searchtype="SECT-TITLE">Regulations <ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf LCA 1982, <remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82.S28" remotekey1="REFPTID" service="DOC-ID" status="unval">section 28</remotelink>
+)</ci:content></ci:cite></title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may make regulations, not inconsistent with this Act, for or with respect to any matter that by this Act is required or permitted to be prescribed or that is necessary or convenient to be prescribed for carrying out or giving effect to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[LCA07 s 5] s 5 Repeal and savings and transitional provisions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCAN07.S5" type="ext"/>[LCA07 s 5]</edpnum><title searchtype="SECT-TITLE">Repeal and savings and transitional provisions</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82" remotekey1="REFPTID" service="DOC-ID" status="unval">Local Courts Act 1982</remotelink></ci:content></ci:cite>
+ is repealed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.SCH4" remotekey1="REFPTID" service="DOC-ID">Schedule 4</remotelink></ci:content></ci:cite>
+ has effect.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[LCA07 s 6] s 6 Review of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCAN07.S6" type="ext"/>[LCA07 s 6]</edpnum><title searchtype="SECT-TITLE">Review of Act</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.S6.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.S6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Minister is to review this Act to determine whether the policy objectives of the Act remain valid and whether the terms of the Act remain appropriate for securing those objectives.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S6.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.S6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The review is to be undertaken as soon as possible after the period of 5 years from the date of assent to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S6.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.S6.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A report on the outcome of the review is to be tabled in each House of Parliament within 12 months after the end of the period of 5 years.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

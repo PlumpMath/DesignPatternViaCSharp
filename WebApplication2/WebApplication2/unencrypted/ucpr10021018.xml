@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 2 CASE MANAGEMENT GENERALLY [rr 2.1&#x2013;2.3]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="me"><heading><title>PART 2 CASE MANAGEMENT GENERALLY [rr 2.1&#x2013;2.3]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010060</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2 CASE MANAGEMENT GENERALLY [rr 2.1&#x2013;2.3]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT2" type="ext"/>PART 2</designum></desig><title searchtype="PART-TITLE">CASE MANAGEMENT GENERALLY [rr 2.1&#x2013;2.3]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Case management &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-1" remotekey1="REFPTID" service="DOC-ID">2.1</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-3" remotekey1="REFPTID" service="DOC-ID">2.3</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules contain comprehensive powers to give directions directed towards achieving the &#x201c;just, quick and cheap disposal of the proceedings&#x201d;. They complement several provisions of the CP Act, including <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S14" remotekey1="REFPTID" service="DOC-ID">ss 14&#x2013;16</remotelink></ci:content></ci:cite>
+and <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61" remotekey1="REFPTID" service="DOC-ID">ss 61&#x2013;63</remotelink></ci:content></ci:cite>
+, which also confer significant procedural discretions.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">This Part applies to all courts in CPA Sch 1: see <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-5" remotekey1="REFPTID" service="DOC-ID">r 1.5</remotelink>
+and <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH1" remotekey1="REFPTID" service="DOC-ID">Sch 1</remotelink>
+. <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-1" remotekey1="REFPTID" service="DOC-ID">Rules 2.1</remotelink>
+and <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-2" remotekey1="REFPTID" service="DOC-ID">2.2</remotelink>
+apply to the criminal proceedings in the Third Schedule to the Supreme Court Act: see SCR <remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCRPT75.R3" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 75 r 3</remotelink>
+.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical Note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The rules substantially reproduce the wording of the former SCR rr 26.1&#x2013;26.3. General directions powers, expressed in similar terms to the present r 1.1, were contained in the previous provisions such as SCA <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S76A" remotekey1="REFPTID" service="DOC-ID">s 76A</remotelink></ci:content></ci:cite>
+and DCA s 68A.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="col5" namest="col1" rowsep="0">Quick index</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Appointment for hearing&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-2" remotekey1="REFPTID" service="DOC-ID">[r 2.2]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Case management by the court&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-3" remotekey1="REFPTID" service="DOC-ID">[r 2.3]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Directions and orders&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-1" remotekey1="REFPTID" service="DOC-ID">[r 2.1]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Directions convenient for &#x201c;just, quick and cheap disposal of the proceedings&#x201d;&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-1-5" remotekey1="REFPTID" service="DOC-ID">[2.1.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Directions related to information technology&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-3-15" remotekey1="REFPTID" service="DOC-ID">[2.3.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Inconsistency with rules&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-1-15" remotekey1="REFPTID" service="DOC-ID">[2.1.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Non-compliance with directions&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-1-20" remotekey1="REFPTID" service="DOC-ID">[2.1.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Practice Notes&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-3-15" remotekey1="REFPTID" service="DOC-ID">[2.3.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Related CPA provisions&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-3-5" remotekey1="REFPTID" service="DOC-ID">[2.3.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Related UCPR&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-3-10" remotekey1="REFPTID" service="DOC-ID">[2.3.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Scope of the directions power &#x2014; examples&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-1-10" remotekey1="REFPTID" service="DOC-ID">[2.1.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Terms&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2.1.25" remotekey1="REFPTID" service="DOC-ID" status="unval">[2.1.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Telephone directions hearing&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-2-5" remotekey1="REFPTID" service="DOC-ID">[2.2.5]</remotelink></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.R2-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 2.1] r 2.1 Directions and orders (cf SCR Part 26, rule 1) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R2-1" type="ext"/>[r 2.1]</edpnum><title searchtype="RUL-TITLE">Directions and orders (cf SCR Part 26, rule 1) </title><desig searchtype="RUL-NUM"><designum>2.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, at any time and from time to time, give such directions and make such orders for the conduct of any proceedings as appear convenient (whether or not inconsistent with these rules or any other rules of court) for the just, quick and cheap disposal of the proceedings.</text></p>
+<glp:note>
+<heading><title>NOTE:</title></heading>
+<p>
+<text>See also the guiding principles in relation to the conduct of court proceedings (set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.PT6.DIV1" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 1 of Part 6</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005) and the general powers of the court to give directions (set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.PT6.DIV2" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 2</remotelink></ci:content></ci:cite>
+ of that Part).</text></p></glp:note>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT2.R1.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.2-1-5" leveltype="para0" subdoc="true" toc-caption="[2.1.5] Directions convenient for &#x201c;just, quick and cheap disposal of the proceedings&#x201d;">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [2.1.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> ss 56&#x2013;58, ss 61&#x2013;63.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-1-5" type="ext"/>[2.1.5] </edpnum><title>Directions convenient for &#x201c;just, quick and cheap disposal of the proceedings&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The discretion conferred by the rule is exercisable for the purpose of ensuring the real issues in dispute are determined as efficiently as the circumstances of each particular case admits. This rule complements the provisions contained in CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S56" remotekey1="REFPTID" service="DOC-ID">ss 56&#x2013;58</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61" remotekey1="REFPTID" service="DOC-ID">ss 61&#x2013;63</remotelink></ci:content></ci:cite>
+. The principal intention of those various provisions is to require early and proper consideration of the real issues in proceedings, and the manner in which evidence should be presented, for the purpose of reducing the length and cost of the proceedings. The directions power allows the court to adopt special procedures for the purpose of attempting to reduce the time and expense of trials, especially where hearings are potentially long and complex, and where this can be done consistently with the requirements of justice: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000258" spanref="cr000258-001"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="589"/></ci:caseref><ci:caseref ID="cr000259" spanref="cr000259-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="721"/></ci:caseref><ci:caseref anaphref="cr000259" spanref="cr000259-003" status="unval"><ci:pinpoint num="722" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">WEA Records Ltd v Visions Channel 4 Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000258-001">[1983] 2 All ER 589</ci:span>; <ci:span spanid="cr000259-002" status="unval">[1983] 1 WLR 721</ci:span> <ci:span spanid="cr000259-003" status="unval">at 722</ci:span></citefragment> <remotelink dpsi="0018" refpt="857" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000260" spanref="cr000260-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="1254"/></ci:caseref><ci:caseref anaphref="cr000260" spanref="cr000260-002" status="unval"><ci:pinpoint num="1317" targettype="page"/></ci:caseref><ci:caseref ID="cr000261" spanref="cr000261-003" status="unval"><ci:reporter value="WLR"/><ci:volume num="2"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="1145"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Connelly v DPP</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000260-001" status="unval">[1964] AC 1254</ci:span> <ci:span spanid="cr000260-002" status="unval">at 1317</ci:span>; <ci:span spanid="cr000261-003" status="unval">[1964] 2 WLR 1145</ci:span></citefragment> <remotelink dpsi="0018" refpt="141354" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1983"/></ci:caseinfo><ci:caseref ID="cr000262" spanref="cr000262-001"><ci:reporter value="ACLR"/><ci:volume num="8"/><ci:page num="526"/></ci:caseref><ci:caseref anaphref="cr000262" spanref="cr000262-002" status="unval"><ci:pinpoint num="537" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cambridge Credit Corp Ltd v Hutcheson (No 3)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000262-001">(1983) 8 ACLR 526</ci:span> <ci:span spanid="cr000262-002" status="unval">at 537</ci:span></citefragment> <remotelink dpsi="0018" refpt="24514" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The court&#x2019;s powers are general and do not depend upon the particular proceedings being in one of the court&#x2019;s special lists: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000263" spanref="cr000263-001" status="unval"><ci:reporter value="Ch"/><ci:volume num="2"/><ci:edition><ci:date year="1895"/></ci:edition><ci:page num="488"/></ci:caseref><ci:caseref anaphref="cr000263" spanref="cr000263-002" status="unval"><ci:pinpoint num="491" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Baerlein v Chartered Merchant Bank</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000263-001" status="unval">[1895] 2 Ch 488</ci:span> <ci:span spanid="cr000263-002" status="unval">at 491</ci:span></citefragment> <remotelink dpsi="0018" refpt="144149" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000264" spanref="cr000264-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:page num="188"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lazarus v Deutsche Lufthansa AG</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000264-001">(1985) 1 NSWLR 188</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000265" spanref="cr000265-001"><ci:reporter value="urj"/><ci:refnum num="BC8601212"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Giorgi v European Asian Bank AG</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000265-001"> (NSWSC, McLelland J, Eq, 4644/85, 3 March 1986, unreported, BC8601212)</ci:span></citefragment></ci:content></ci:cite>. In some cases, the exercise of the discretion may result in the imposition of additional procedural steps (<ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lazarus</emph>
+</citefragment></ci:content></ci:cite>, above, verification of particulars); in others it may mean dispensing with routine steps that are unnecessary, having regard to the essential issues in dispute. While the discretion conferred by the rule is wide, it is to be exercised with some degree of circumspection. The court should not unnecessarily restrict the flexibility of proceedings by pre-trial directions. Ordinarily it will be appropriate for the court to have regard to the wishes of the parties and it has been said that the court ought not unduly interfere with the manner in which a party proposes to prove its case unless there is a tendency for the proposed course of action to cause prejudice, embarrassment or unnecessary expense and delay: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr000266" spanref="cr000266-001"><ci:reporter value="NSWLR"/><ci:volume num="12"/><ci:page num="706"/></ci:caseref><ci:caseref anaphref="cr000266" spanref="cr000266-002" status="unval"><ci:pinpoint num="712" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">John Fairfax &amp; Sons Ltd v Foord</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000266-001">(1988) 12 NSWLR 706</ci:span> <ci:span spanid="cr000266-002" status="unval">at 712</ci:span></citefragment> <remotelink dpsi="0018" refpt="83481" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1966"/></ci:caseinfo><ci:caseref ID="cr000267" spanref="cr000267-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="1"/><ci:edition><ci:date year="1966"/></ci:edition><ci:page num="354"/></ci:caseref><ci:caseref ID="cr000268" spanref="cr000268-002" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="66"/><ci:page num="335"/></ci:caseref><ci:caseref anaphref="cr000268" spanref="cr000268-003" status="unval"><ci:pinpoint num="346" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Tringali v Stewardson Stubbs &amp; Collett Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000267-001" status="unval">[1966] 1 NSWR 354</ci:span>; <ci:span spanid="cr000268-002" status="unval">(1966) 66 SR (NSW) 335</ci:span> <ci:span spanid="cr000268-003" status="unval">at 346</ci:span></citefragment> <remotelink dpsi="0018" refpt="5745" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. </text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.2-1-10" leveltype="para0" subdoc="true" toc-caption="[2.1.10] Scope of the directions power &#x2014; examples ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [2.1.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 26, ss 57(1)(a), 58(2)(b)(vi), ss 61, s 61(3), 62, 62(4), 63.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1999-191" remotekey1="REFPTID" service="DOC-ID">Social Security (Administration) Act 1999</remotelink> s 207.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-1-10" type="ext"/>[2.1.10] </edpnum><title>Scope of the directions power &#x2014; examples </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The scope of the directions power conferred by the general terms of the present rule is educated by the more explicit, but merely inclusive, terms of CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61" remotekey1="REFPTID" service="DOC-ID">ss 61</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S62" remotekey1="REFPTID" service="DOC-ID">62</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S63" remotekey1="REFPTID" service="DOC-ID">63</remotelink></ci:content></ci:cite>
+. The generality of the power and the impressionistic nature of the desiderata expressed as governing its principled exercise (ie, &#x201c;just, quick and cheap&#x201d;) permit a wide range of orders to be made. On the other hand, the characterisation of the power as being one to give directions in relation to the conduct of the proceedings, together with the limitations expressed in CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S57.1.A" remotekey1="REFPTID" service="DOC-ID">ss 57(1)(a)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S58.2.B.VI" remotekey1="REFPTID" service="DOC-ID">58(2)(b)(vi)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S62.4" remotekey1="REFPTID" service="DOC-ID">62(4)</remotelink></ci:content></ci:cite>
+, suggest that the power cannot be used to alter, or circumvent, substantive rights: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2003"/></ci:caseinfo><ci:caseref ID="cr000269" spanref="cr000269-001"><ci:reporter value="NSWLR"/><ci:volume num="57"/><ci:page num="257"/></ci:caseref><ci:caseref ID="cr000270" spanref="cr000270-002"><ci:reporter value="urj"/><ci:refnum num="BC200303257"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Griffin v Sogelease Australia Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000269-001">(2003) 57 NSWLR 257</ci:span>; [2003] NSWCA 158; <ci:span spanid="cr000270-002"> BC200303257</ci:span></citefragment> <remotelink dpsi="0018" refpt="364703" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (no power to direct discovery or production of documents by a person entitled to claim privilege against incrimination). Neither should the power be exercised on terms that impose conditions not properly relevant to the immediate matter in issue. Thus on an application for an extension of time to comply with a particular order it is impermissible to impose a condition unrelated to the circumstances involved in the extension application itself: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2003"/></ci:caseinfo><ci:caseref ID="cr000271" spanref="cr000271-001"><ci:reporter value="VR"/><ci:volume num="6"/><ci:page num="245"/></ci:caseref><ci:caseref anaphref="cr000271" spanref="cr000271-002"><ci:pinpoint num="259" targettype="page"/></ci:caseref><ci:caseref ID="cr000272" spanref="cr000272-003"><ci:reporter value="urj"/><ci:refnum num="BC200302798"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Victoria v Davies</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000271-001">(2003) 6 VR 245</ci:span> <ci:span spanid="cr000271-002">at 259</ci:span>; [2003] VSCA 65; <ci:span spanid="cr000272-003"> BC200302798</ci:span></citefragment> <remotelink dpsi="0018" refpt="363589" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (no power, subject to the specific provision in CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61.3" remotekey1="REFPTID" service="DOC-ID">s 61(3)</remotelink></ci:content></ci:cite>
+, to require waiver of privilege nor to preclude the tender of admissible evidence). Subject to these broad limitations the directions power is extensive. Its potential scope is illustrated by, though neither defined by nor confined to, the following examples (in addition to those set out in CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S62" remotekey1="REFPTID" service="DOC-ID">s 62</remotelink></ci:content></ci:cite>
+):</text>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>directions referring the proceedings to mediation: mediation (see now CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S26" remotekey1="REFPTID" service="DOC-ID">s 26</remotelink></ci:content></ci:cite>
+): <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000273" spanref="cr000273-001"><ci:reporter value="urj"/><ci:refnum num="BC9201567"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">AWA Ltd v Daniels (t/as Deloitte Haskins &amp; Sells)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000273-001"> (NSWSC, Rogers CJ in Comm D, 8 October 1992, unreported, BC9201567)</ci:span></citefragment></ci:content></ci:cite>.</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>an order requiring a party to obtain originals or copies of documents which, though identified in its list of discovered documents, were no longer in the party&#x2019;s possession: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000274" spanref="cr000274-001"><ci:reporter value="urj"/><ci:refnum num="BC9802253"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Roach v Page (t/as Freehill Hollingdale and Page)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000274-001"> (NSWSC, McLaughlin M, No 4266/95, 22 April 1998, unreported, BC9802253)</ci:span></citefragment></ci:content></ci:cite>.</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>directions requiring a party to make an application for the production of documents under FOI legislation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1997"/></ci:caseinfo><ci:caseref ID="cr000275" spanref="cr000275-001" status="unval"><ci:reporter value="ATR"/><ci:volume num="38"/><ci:page num="1"/></ci:caseref><ci:caseref ID="cr000276" spanref="cr000276-002"><ci:reporter value="urj"/><ci:refnum num="BC9707032"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Schipp v Cameron</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000275-001" status="unval">(1997) 38 ATR 1</ci:span>; <ci:span spanid="cr000276-002"> BC9707032</ci:span></citefragment> <remotelink dpsi="0018" refpt="263754" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see further 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.21-3-30" remotekey1="REFPTID" service="DOC-ID">[21.3.30]</remotelink>
+.</text></p></li>
+<li>
+<lilabel>(iv)</lilabel>
+<p><text>directions requiring a party to authorise disclosure of documents to which a statutory prohibition against disclosure (such as the prohibition under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.WELF.SSAA99.S207" remotekey1="REFPTID" service="DOC-ID" status="unval">s 207</remotelink></ci:content></ci:cite>
+ of the Social Security (Administration) Act 1999 (Cth)) would otherwise apply: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000277" spanref="cr000277-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200701272"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wray v Wray</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 164; <ci:span spanid="cr000277-001" status="unval"> BC200701272</ci:span></citefragment> <remotelink dpsi="0018" refpt="433598" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Gzell J (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.WELF.SSAA99.S207" remotekey1="REFPTID" service="DOC-ID" status="unval">s 207</remotelink></ci:content></ci:cite>
+ of the SS(A)T Act order made against Centrelink on application of plaintiff); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000278" spanref="cr000278-001"><ci:reporter value="urj"/><ci:refnum num="BC200307581"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Merkuloff v Yalisheff</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 1183; <ci:span spanid="cr000278-001"> BC200307581</ci:span></citefragment> <remotelink dpsi="0018" refpt="372756" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, Young CJ in Eq (order made on application by a defendant); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000279" spanref="cr000279-001"><ci:reporter value="urj"/><ci:refnum num="BC200208495"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attard v Hore</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] QSC 437; <ci:span spanid="cr000279-001"> BC200208495</ci:span></citefragment> <remotelink dpsi="0018" refpt="360559" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, Dutney J (order made on application by a defendant).</text></p></li>
+<li>
+<lilabel>(v)</lilabel>
+<p><text>directions restraining a party form sending harassing and offensive written communications to officers and legal representatives of the other party: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000280" spanref="cr000280-001"><ci:reporter value="urj"/><ci:refnum num="BC201003694"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McGuirk v University of New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWCA 104; <ci:span spanid="cr000280-001"> BC201003694</ci:span></citefragment> <remotelink dpsi="0018" refpt="496422" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite></text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.2-1-15" leveltype="para0" subdoc="true" toc-caption="[2.1.15] Inconsistency with rules">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [2.1.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 14, s 16.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-1-15" type="ext"/>[2.1.15] </edpnum><title>Inconsistency with rules</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S14" remotekey1="REFPTID" service="DOC-ID">s 14</remotelink></ci:content></ci:cite>
+ confers a statutory power to dispense with the requirements of the rules whenever the court is satisfied it is appropriate to do so in the particular circumstances. CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S16" remotekey1="REFPTID" service="DOC-ID">s 16</remotelink></ci:content></ci:cite>
+ permits courts to give directions where no specific provision appears in the rules. The annotations to both sections are relevant to the power conferred by the present rule.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.2-1-20" leveltype="para0" subdoc="true" toc-caption="[2.1.20] Non-compliance with directions ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [2.1.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 56, s 58, s 61(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-1-20" type="ext"/>[2.1.20] </edpnum><title>Non-compliance with directions </title></heading>
+<bodytext searchtype="COMMENTARY">
+<pgrp>
+<heading><title>Power to dismiss or strike out</title></heading>
+<p>
+<text>The power to give directions necessarily carries with it a power to sanction non-compliance. That power derives partly from the incidental power to control and supervise the conduct of proceedings, and partly from the terms of CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61.2" remotekey1="REFPTID" service="DOC-ID">s 61(2)</remotelink>
+. The latter provision includes explicit powers to strike out claims, defences, any other documents and power to strike out evidence. Where a party has failed to comply with interlocutory directions in relation to the filing of witness statements or affidavits, the power would include refusing reliance on the additional material and refusal of any application for an adjournment by the defaulting party: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr000281" spanref="cr000281-001"><ci:reporter value="NSWLR"/><ci:volume num="29"/><ci:page num="487"/></ci:caseref><ci:caseref ID="cr000282" spanref="cr000282-002" status="unval"><ci:reporter value="LGERA"/><ci:volume num="75"/><ci:page num="327"/></ci:caseref><ci:caseref ID="cr000283" spanref="cr000283-003"><ci:reporter value="urj"/><ci:refnum num="BC9203134"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">State Pollution Control Commission v Australian Iron &amp; Steel Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000281-001">(1992) 29 NSWLR 487</ci:span>; <ci:span spanid="cr000282-002" status="unval">75 LGERA 327</ci:span>; <ci:span spanid="cr000283-003"> BC9203134</ci:span></citefragment> <remotelink dpsi="0018" refpt="39161" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr000284" spanref="cr000284-001"><ci:reporter value="ALR"/><ci:volume num="116"/><ci:page num="625"/></ci:caseref><ci:caseref anaphref="cr000284" spanref="cr000284-002"><ci:pinpoint num="636" targettype="page"/></ci:caseref><ci:caseref ID="cr000285" spanref="cr000285-003" status="unval"><ci:reporter value="ALJR"/><ci:volume num="67"/><ci:page num="841"/></ci:caseref><ci:caseref ID="cr000286" spanref="cr000286-004"><ci:reporter value="urj"/><ci:refnum num="BC9303602"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sali v SPC Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000284-001">(1993) 116 ALR 625</ci:span> <ci:span spanid="cr000284-002">at 636</ci:span>; <ci:span spanid="cr000285-003" status="unval">67 ALJR 841</ci:span>; <ci:span spanid="cr000286-004"> BC9303602</ci:span></citefragment> <remotelink dpsi="0018" refpt="49240" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Toohey and Gaudron JJ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr000287" spanref="cr000287-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="32"/><ci:page num="379"/></ci:caseref><ci:caseref ID="cr000288" spanref="cr000288-002"><ci:reporter value="ALR"/><ci:volume num="104"/><ci:page num="165"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bomanite Pty Ltd v Slatex Corp Australia Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000287-001" status="unval">(1991) 32 FCR 379</ci:span>; <ci:span spanid="cr000288-002">104 ALR 165</ci:span></citefragment> <remotelink dpsi="0018" refpt="29392" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000289" spanref="cr000289-001"><ci:reporter value="urj"/><ci:refnum num="BC200104838"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Multigroup Distribution Services Pty Ltd v TNT Australia Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] FCA 1144; <ci:span spanid="cr000289-001"> BC200104838</ci:span></citefragment> <remotelink dpsi="0018" refpt="332828" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (late service of additional witness statements raising extensive new factual material and jeopardising commencement of long complex litigation); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr000290" spanref="cr000290-001"><ci:reporter value="NSWLR"/><ci:volume num="24"/><ci:page num="710"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">GSA Industries Pty Ltd v NT Gas Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000290-001">(1990) 24 NSWLR 710</ci:span></citefragment> <remotelink dpsi="0018" refpt="34465" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p></pgrp>
+<pgrp>
+<heading><title>Balancing interests in the dictates of justice</title></heading>
+<p>
+<text>The overriding considerations in the exercise of the power to sanction default are the &#x201c;just, quick and cheap resolution of the real issues&#x201d; (see CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S56" remotekey1="REFPTID" service="DOC-ID">s 56</remotelink>
+) and the &#x201c;dictates of justice&#x201d; &#x2014; as defined in CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S58" remotekey1="REFPTID" service="DOC-ID">s 58</remotelink>
+ &#x2014; in the circumstances of the particular case: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1997"/></ci:caseinfo><ci:caseref ID="cr000291" spanref="cr000291-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="189"/><ci:page num="146"/></ci:caseref><ci:caseref ID="cr000292" spanref="cr000292-002"><ci:reporter value="ALR"/><ci:volume num="141"/><ci:page num="353"/></ci:caseref><ci:caseref ID="cr000293" spanref="cr000293-003"><ci:reporter value="urj"/><ci:refnum num="BC9700005"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Queensland v JL Holdings Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000291-001" status="unval">(1997) 189 CLR 146</ci:span>; <ci:span spanid="cr000292-002">141 ALR 353</ci:span>; <ci:span spanid="cr000293-003"> BC9700005</ci:span></citefragment> <remotelink dpsi="0018" refpt="211138" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr000294" spanref="cr000294-001"><ci:reporter value="NSWLR"/><ci:volume num="22"/><ci:page num="717"/></ci:caseref><ci:caseref ID="cr000295" spanref="cr000295-002" status="unval"><ci:reporter value="AustTortsReports"/><ci:volume num=""/><ci:page num="¶81088"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brown v Petranker</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000294-001">(1991) 22 NSWLR 717</ci:span>; <ci:span spanid="cr000295-002" status="unval">(1991) Aust Torts Reports ¶81-088</ci:span></citefragment> <remotelink dpsi="0018" refpt="27822" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. This widely-stated purposive discretion can produce tension, and differing views, about the appropriateness of its exercise where doing so would impede or prevent fair and just determination of the real merits of the disputed issues. There is no doubt that, in some circumstances, a party who fails to comply with directions may properly be left to bear the consequences of the default, including dismissal of the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000296" spanref="cr000296-001"><ci:reporter value="urj"/><ci:refnum num="BC200104963"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Micallef v ICI Australia Operations Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWCA 274; <ci:span spanid="cr000296-001"> BC200104963</ci:span></citefragment> <remotelink dpsi="0018" refpt="333035" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (repeated failure to file amended particulars); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000297" spanref="cr000297-001"><ci:reporter value="urj"/><ci:refnum num="BC200304043"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bibah Formwork Pty Ltd v Radray Constructions Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 599; <ci:span spanid="cr000297-001"> BC200304043</ci:span></citefragment> <remotelink dpsi="0018" refpt="366298" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (persistent non-compliance with Magistrate&#x2019;s directions &#x2014; claim dismissed). However, proper application of the &#x201c;overriding purpose&#x201d; and &#x201c;dictates of justice&#x201d; criteria require consideration of the degree of injustice that would be inflicted on the respective parties by the proposed decision. This will inevitably involve consideration of the apparent materiality of the matter to the substance of the issues in the proceedings, the nature, reasons for and the extent of the default and the relative appropriateness of particular ameliorative sanctions and directions: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000298" spanref="cr000298-001"><ci:reporter value="urj"/><ci:refnum num="BC200906750"/></ci:caseref><ci:caseref anaphref="cr000298" spanref="cr000298-002"><ci:pinpoint num="36" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hans Pet Constructions Pty Ltd v Cassar</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWCA 230; <ci:span spanid="cr000298-001"> BC200906750</ci:span> <ci:span spanid="cr000298-002">at [36]&#x2013;[47]</ci:span></citefragment> <remotelink dpsi="0018" refpt="477681" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S58-35" remotekey1="REFPTID" service="DOC-ID" status="unval">[s 58.35]</remotelink>
+. (And in this respect the considerations relevant to the exercise of the sanction power are similar to those that inform the exercise of the discretionary power to dismiss a claim or defence for lack of &#x201c;due despatch&#x201d;: see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.12-7-5" remotekey1="REFPTID" service="DOC-ID">[12.7.5]</remotelink>
+.)</text></p></pgrp>
+<pgrp>
+<heading><title>Desirability of determination of the merits of proceedings</title></heading>
+<p>
+<text>The possibility that the defaulting party may be deprived of a determination of the merits of their claim or defence is a weighty, and often determinative, consideration. It is particularly likely to be determinative where the default has occurred at an early stage, or where there are material explanatory circumstances. The consistent application of these two propositions is illustrated in numerous decisions &#x2014; of which the following are merely illustrative examples:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text><ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000299" spanref="cr000299-001"><ci:reporter value="urj"/><ci:refnum num="BC200207243"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Erhard v Bhatia</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWCA 388; <ci:span spanid="cr000299-001"> BC200207243</ci:span></citefragment> <remotelink dpsi="0018" refpt="355774" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (significant medical negligence claim dismissed for non-compliance &#x2014; lack of prejudice to defendant &#x2014; dismissal overturned on appeal);</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text><ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000300" spanref="cr000300-001"><ci:reporter value="urj"/><ci:refnum num="BC200206179"/></ci:caseref><ci:caseref anaphref="cr000300" spanref="cr000300-002"><ci:pinpoint num="33" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Tremeer v City of Stirling</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] WASCA 281; <ci:span spanid="cr000300-001"> BC200206179</ci:span> <ci:span spanid="cr000300-002">at [33]</ci:span></citefragment> <remotelink dpsi="0018" refpt="353477" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (dilatory plaintiff disadvantaged by service of responsive reports raising unanticipated issues &#x2013;&#x2013; adjournment granted on appeal);</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text><ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000301" spanref="cr000301-001"><ci:reporter value="urj"/><ci:refnum num="BC200605394"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Kane v Wyllie</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 710; <ci:span spanid="cr000301-001"> BC200605394</ci:span></citefragment> <remotelink dpsi="0018" refpt="420053" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (4 month period of non-compliance with Registrar&#x2019;s directions &#x2014; party&#x2019;s solicitor suffering medical problems &#x2014; self-executing order that proceedings would be dismissed if further non-compliance);</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text><ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000302" spanref="cr000302-001"><ci:reporter value="urj"/><ci:refnum num="BC200605442"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Reliance Financial Services Pty Ltd v Criniti</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 715; <ci:span spanid="cr000302-001"> BC200605442</ci:span></citefragment> <remotelink dpsi="0018" refpt="420143" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (multiple instances of non-compliance with Registrar&#x2019;s orders &#x2014; change of solicitors &#x2014; difficulties in obtaining client file from former solicitors and difficulties in obtaining instructions from former director now in prison &#x2014; proceedings not dismissed);</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text><ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000303" spanref="cr000303-001"><ci:reporter value="urj"/><ci:refnum num="BC200610124"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chandra v Perpetual Trustess Victoria Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 1344; <ci:span spanid="cr000303-001"> BC200610124</ci:span></citefragment> <remotelink dpsi="0018" refpt="428879" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (failure to comply with directions on three occasions, default remedied before interlocutory process completed &#x2014; proceedings not significantly delayed &#x2014; proceedings not dismissed).</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Alternative orders to dismissal or strike out</title></heading>
+<p>
+<text>The appropriate sanction for non-compliance may sometimes be further directions which impose self-executing consequences for non-compliance: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000304" spanref="cr000304-001"><ci:reporter value="urj"/><ci:refnum num="BC200600626"/></ci:caseref><ci:caseref anaphref="cr000304" spanref="cr000304-002"><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Phornpisutikul v Mileto</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 57; <ci:span spanid="cr000304-001"> BC200600626</ci:span> <ci:span spanid="cr000304-002">at [15]&#x2013;[22]</ci:span></citefragment> <remotelink dpsi="0018" refpt="411780" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (repeated failure to comply with directions over more than a year &#x2014; self-executing order that proceedings be dismissed unless all evidence-in-chief and a solicitor&#x2019;s certificate of compliance be filed before a specified date). In other circumstances the appropriate sanction may lie in depriving a party of an incidental advantage to which it would otherwise have been entitled in the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr000305" spanref="cr000305-001"><ci:reporter value="ALR"/><ci:volume num="212"/><ci:page num="66"/></ci:caseref><ci:caseref ID="cr000306" spanref="cr000306-002"><ci:reporter value="ACSR"/><ci:volume num="51"/><ci:page num="259"/></ci:caseref><ci:caseref ID="cr000307" spanref="cr000307-003"><ci:reporter value="urj"/><ci:refnum num="BC200407452"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hopeshore Pty Ltd v Melroad Equipment Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000305-001">(2004) 212 ALR 66</ci:span>; <ci:span spanid="cr000306-002">51 ACSR 259</ci:span>; [2004] FCA 1445; <ci:span spanid="cr000307-003"> BC200407452</ci:span></citefragment> <remotelink dpsi="0018" refpt="388950" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (dilatory applicant refused security for costs).</text></p></pgrp>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.2-1-25" leveltype="para0" subdoc="true" toc-caption="[2.1.25] Terms ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [2.1.25] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 86.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-1-25" type="ext"/>[2.1.25] </edpnum><title>Terms </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S86" remotekey1="REFPTID" service="DOC-ID">s 86</remotelink></ci:content></ci:cite>
+ permits the court to impose terms on the making of any order or direction.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R2-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 2.2] r 2.2 Appointment for hearing (cf SCR Part 26, rule 2) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R2-2" type="ext"/>[r 2.2]</edpnum><title searchtype="RUL-TITLE">Appointment for hearing (cf SCR Part 26, rule 2) </title><desig searchtype="RUL-NUM"><designum>2.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, at any time and from time to time, of its own motion, appoint a date for a hearing at which it may give or make the directions or orders referred to in UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-1" remotekey1="REFPTID" service="DOC-ID">r 2.1</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT2.R2.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.2-2-5" leveltype="para0" subdoc="true" toc-caption="[2.2.5] Telephone directions hearing"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-2-5" type="ext"/>[2.2.5] </edpnum><title>Telephone directions hearing</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Supreme Court has established a telephone conference call facility used principally for common law directions hearings before the Registrar. Consent matters and matters where the parties or their legal representatives are located outside the Sydney CBD are suitable for telephone directions hearings. A telephone hearing can proceed if one or more parties chose to appear in person. Adjournments, directions and allocation of hearing dates may be obtained by telephone callover. Telephone directions hearings take place every Tuesday morning and at other times by special arrangement. Parties who wish to have their matter entered into, or removed from, the telephone directions list should apply (by fax or letter) to the Common Law Case Management Registrar. The application must:</text>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>be received at least three working days prior to the scheduled directions hearing or conference;</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>briefly outline the reasons for the application; and</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>indicate whether or not the application is by consent.</text></p></li></l></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R2-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 2.3] r 2.3 Case management by the court (cf SCR Part 26, rule 3) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R2-3" type="ext"/>[r 2.3]</edpnum><title searchtype="RUL-TITLE">Case management by the court (cf SCR Part 26, rule 3) </title><desig searchtype="RUL-NUM"><designum>2.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the generality of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-1" remotekey1="REFPTID" service="DOC-ID">rule 2.1</remotelink></ci:content></ci:cite>
+, directions and orders may relate to any of the following:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R2-3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.A" type="ext"/>(a)</lilabel>
+<p><text>the filing of pleadings,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.B" type="ext"/>(b)</lilabel>
+<p><text>the defining of issues, including requiring the parties, or their legal practitioners, to exchange memoranda in order to clarify questions,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.C" type="ext"/>(c)</lilabel>
+<p><text>the provision of any essential particulars,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.D" type="ext"/>(d)</lilabel>
+<p><text>the filing of &quot;Scott Schedules&quot; referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-2" remotekey1="REFPTID" service="DOC-ID">rule 15.2</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.E" type="ext"/>(e)</lilabel>
+<p><text>the making of admissions,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.F"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.F" type="ext"/>(f)</lilabel>
+<p><text>the filing of lists of documents, either generally or with respect to specific matters,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.G"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.G" type="ext"/>(g)</lilabel>
+<p><text>the delivery or exchange of experts&#x2019; reports and the holding of conferences of experts,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.H"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.H" type="ext"/>(h)</lilabel>
+<p><text>the provision of copies of documents, including their provision in electronic form,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.I" type="ext"/>(i)</lilabel>
+<p><text>the administration and answering of interrogatories, either generally or with respect to specific matters,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.J"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.J" type="ext"/>(j)</lilabel>
+<p><text>the service and filing of affidavits, witness statements or other documents to be relied on,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.K"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.K" type="ext"/>(k)</lilabel>
+<p><text>the giving of evidence at any hearing, including whether evidence of witnesses in chief must be given orally, or by affidavit or witness statement, or both,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.L"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.L" type="ext"/>(l)</lilabel>
+<p><text>the use of telephone or video conference facilities, video tapes, film projection, computer and other equipment and technology,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.M"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.M" type="ext"/>(m)</lilabel>
+<p><text>the provision of evidence in support of an application for an adjournment or amendment,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.N"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.N" type="ext"/>(n)</lilabel>
+<p><text>a timetable with respect to any matters to be dealt with, including a timetable for the conduct of any hearing,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R2-3.O"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R2-3.O" type="ext"/>(o)</lilabel>
+<p><text>the filing of written submissions.</text></p>
+</li>
+</l>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPN05.PT2.R3.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.2-3-5" leveltype="para0" subdoc="true" toc-caption="[2.3.5] Substantive provisions of the Civil Procedure Act ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [2.3.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> SCR Pt 26 r 3.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> Pt 31, r 29.5, 29.6.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> ss 61, 62.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-3-5" type="ext"/>[2.3.5] </edpnum><title>Substantive provisions of the Civil Procedure Act </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The present rule substantially reproduces the former 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT26.R3" remotekey1="REFPTID" service="DOC-ID" status="unval">SCR Pt 26 r 3</remotelink></ci:content></ci:cite>
+ and complements the powers conferred by UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R29-5" remotekey1="REFPTID" service="DOC-ID">r 29.5</remotelink></ci:content></ci:cite>
+ and CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61" remotekey1="REFPTID" service="DOC-ID">ss 61</remotelink></ci:content></ci:cite>
+&#x2013;
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S62" remotekey1="REFPTID" service="DOC-ID">62</remotelink></ci:content></ci:cite>
+. The latter section contains specific power to give various directions relating to the conduct of the hearing of proceedings. The notes to UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R29-5" remotekey1="REFPTID" service="DOC-ID">rr 29.5</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R29-6" remotekey1="REFPTID" service="DOC-ID">29.6</remotelink></ci:content></ci:cite>
+ deal generally with procedural matters relevant to the conduct of hearings and the kind of directions that may be made in particular cases. In addition, a number of specific provisions regulating the ordinary conduct of hearings are contained in UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT31" remotekey1="REFPTID" service="DOC-ID">Pt 31</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.2-3-10" leveltype="para0" subdoc="true" toc-caption="[2.3.10] Substantive provisions of the Rules ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [2.3.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 14, r 15, rr 17.1, 17.4, rr 21.1&#x2013;21.8, rr 31.24&#x2013;31.26, rr 31.27&#x2013;31.36, r 31.4, rr 31.46&#x2013;31.54, rr 35.1, 35.9.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-3-10" type="ext"/>[2.3.10] </edpnum><title>Substantive provisions of the Rules </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Many of the kinds of directions contemplated by the present rule are the subject of detailed provisions in other parts of the rules &#x2014; for example:</text>
+<l>
+<li>
+<lilabel>Admissions</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R17-1" remotekey1="REFPTID" service="DOC-ID">rr 17.1</remotelink></ci:content></ci:cite>
+&#x2013;
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R17-4" remotekey1="REFPTID" service="DOC-ID">17.4</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>Affidavits</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R35-1" remotekey1="REFPTID" service="DOC-ID">rr 35.1</remotelink></ci:content></ci:cite>
+&#x2013;
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R35-9" remotekey1="REFPTID" service="DOC-ID">35.9</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>Discovery of documents</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R21-1" remotekey1="REFPTID" service="DOC-ID">rr 21.1&#x2013;21.8</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>Expert conferences</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-24" remotekey1="REFPTID" service="DOC-ID">rr 31.24&#x2013;31.26</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>Expert &#x2014; court appointed</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-46" remotekey1="REFPTID" service="DOC-ID">rr 31.46&#x2013;31.54</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>Experts reports</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-27" remotekey1="REFPTID" service="DOC-ID">rr 31.27&#x2013;31.36</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>Particulars</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT15" remotekey1="REFPTID" service="DOC-ID">r 15</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>Pleadings</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT14" remotekey1="REFPTID" service="DOC-ID">r 14</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>Witness statements</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-4" remotekey1="REFPTID" service="DOC-ID">r 31.4</remotelink></ci:content></ci:cite></text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.2-3-15" leveltype="para0" subdoc="true" toc-caption="[2.3.15] Directions related to information technology"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-3-15" type="ext"/>[2.3.15] </edpnum><title>Directions related to information technology</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under UCPR r 2.3(h) and (l) the court may give directions relating to the use of technology in the conduct of proceedings. Practice Note 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCG.PN7" remotekey1="REFPTID" service="DOC-ID">SC Gen 7</remotelink>
+ applies to directions and related procedures in connection with proceedings in the Supreme Court. Such directions may be particularly appropriate to facilitate the exchange of large numbers of documents.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.2-3-20" leveltype="para0" subdoc="true" toc-caption="[2.3.20] Practice Notes relating to case management"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.2-3-20" type="ext"/>[2.3.20] </edpnum><title>Practice Notes relating to case management</title></heading>
+<bodytext searchtype="COMMENTARY">
+<pgrp>
+<heading><title>Supreme Court</title></heading>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="3" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="200*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="70*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="68*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"><emph typestyle="ib">Common Law Division</emph></entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">General</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCCL.PN1" remotekey1="REFPTID" service="DOC-ID">SC CL 1</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC CL 1]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Administrative Law List</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCCL.PN3" remotekey1="REFPTID" service="DOC-ID">SC CL 3</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC CL 3]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Defamation List</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCCL.PN4" remotekey1="REFPTID" service="DOC-ID">SC CL 4</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC CL 4]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">General Case Management List</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCCL.PN5" remotekey1="REFPTID" service="DOC-ID">SC CL 5</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC CL 5]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Possession List</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCCL.PN6" remotekey1="REFPTID" service="DOC-ID">SC CL 6</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC CL 6]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Professional Negligence List</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCCL.PN7" remotekey1="REFPTID" service="DOC-ID">SC CL 7</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC CL 7]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"><emph typestyle="ib">Equity Division</emph></entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">General</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN1" remotekey1="REFPTID" service="DOC-ID">SC Eq 1</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC Eq 1]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Admiralty List</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN2" remotekey1="REFPTID" service="DOC-ID">SC Eq 2</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC Eq 2]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Commercial List &amp; Technology &amp; Construction List</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN3" remotekey1="REFPTID" service="DOC-ID">SC Eq 3</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC Eq 3]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Corporations List</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN4" remotekey1="REFPTID" service="DOC-ID">SC Eq 4</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC Eq 4]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Urgent Matters in the Equity Division</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN8" remotekey1="REFPTID" service="DOC-ID">SC Eq 8</remotelink></entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0">[SC Eq 8]</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p></pgrp>
+<pgrp>
+<heading><title>District Court</title></heading>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="200*" rowsep="0"/>
+<colspec align="right" colname="col3" colsep="0" colwidth="70*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Case management in the general list</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.DC1" remotekey1="REFPTID" service="DOC-ID">[DC (Civil) 1]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Case management in commercial list</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.DC2" remotekey1="REFPTID" service="DOC-ID">[DC (Civil) 2]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Defamation</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.DC9" remotekey1="REFPTID" service="DOC-ID">[DC (Civil) 6]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Summons and motions</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.DC6" remotekey1="REFPTID" service="DOC-ID">[DC (Civil) 1]</remotelink> at [7.1]&#x2013;[7.9]</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p></pgrp>
+<pgrp>
+<heading><title>Local Court</title></heading>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="200*" rowsep="0"/>
+<colspec align="right" colname="col3" colsep="0" colwidth="70*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Case Management of Civil Proceedings (General Division)</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.LC.170045" remotekey1="REFPTID" service="DOC-ID">[LC Civ 1 of 2011]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Case Management Of Proceedings In The Small Claims Division of the Local Court</entry>
+<entry colsep="0" morerows="0" rowsep="0"><remotelink dpsi="05CC" refpt="UCPN.PN.LC.170045" remotekey1="REFPTID" service="DOC-ID">[LC Civ 1 of 2011]</remotelink></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p></pgrp>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

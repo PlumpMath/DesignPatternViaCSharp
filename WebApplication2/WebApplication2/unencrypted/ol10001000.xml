@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART I PRELIMINARY [ss 1&#x2013;8]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.ADA88.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>ADMIRALTY ACT 1988 (CTH)</title></heading><docinfo:hierlev role="me"><heading><title>PART I PRELIMINARY [ss 1&#x2013;8]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140000000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.ADA88"/><docinfo:metaitem name="parent-filename" value="ol1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">ADMIRALTY ACT 1988 (CTH)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1988</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 34, 1988</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">CTH</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Admiralty Act 1988 No 34 was assented to on 22 May 1988, commencing 1 January 1989. Since that date the Act has been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Limitation of Liability for Maritime Claims Act 1989 No 151</entry><entry colname="c2">30 November 1989</entry><entry colname="c3">31 May 1991</entry></row>
+<row><entry colname="c1">Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992 No 166</entry><entry colname="c2">11 December 1992</entry><entry colname="c3">12 April 1993</entry></row>
+<row><entry colname="c1">Maritime Legislation Amendment Act 1994 No 20</entry><entry colname="c2">15 February 1994</entry><entry colname="c3">1 August 1994</entry></row>
+<row><entry colname="c1">International Maritime Conventions Legislation Amendment Act 2001 No 149</entry><entry colname="c2">1 October 2001</entry><entry colname="c3">13 May 2004 Gaz S157 of 13 May 2004</entry></row>
+<row><entry colname="c1">Law and Justice Legislation Amendment Act 2004 No 62</entry><entry colname="c2">26 May 2004</entry><entry colname="c3">27 May 2004</entry></row>
+<row><entry colname="c1">Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006 No 23</entry><entry colname="c2">6 April 2006</entry><entry colname="c3">5 May 2006 Gaz GN 15 of 19 April 2006</entry></row>
+<row><entry colname="c1">Statute Law Revision Act 2008 No 73</entry><entry colname="c2">3 July 2008 </entry><entry colname="c3">Sch1[3]: 3 July 2008</entry></row>
+<row><entry colname="c1">Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008 No 77</entry><entry colname="c2">12 July 2008</entry><entry colname="c3">ss 1&#x2013;3: on assent; remainder: 16 June 2009 (s 2)</entry></row>
+<row><entry colname="c1">Acts Interpretation Amendment Act 2011 No 46</entry><entry colname="c2">27 June 2011</entry><entry colname="c3">27 December 2011</entry></row>
+<row><entry colname="c1">Personal Property Securities (Consequential Amendments) Act 2009 No 131 </entry><entry colname="c2">14 December 2009</entry><entry colname="c3">30 January 2012</entry></row>
+<row><entry colname="c1">Navigation (Consequential Amendments) Act 2012 No 129</entry><entry colname="c2">13 September 2012</entry><entry colname="c3">13 September 2012</entry></row>
+<row><entry colname="c1">Federal Circuit Court of Australia (Consequential Amendments) Act 2013 No 13</entry><entry colname="c2">14&#x2002;March 2013</entry><entry colname="c3">12 April 2013</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.ADA88.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.ADA88" type="ext"/>ADMIRALTY ACT 1988 (CTH)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>AN ACT relating to Admiralty and maritime jurisdiction.</text></p>
+<p>
+<text>BE IT ENACTED by the Queen, and the Senate and the House of Representatives of the Commonwealth of Australia, as follows:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.ADA88.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART I PRELIMINARY [ss 1&#x2013;8]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.ADA88.PT1" type="ext"/>PART I</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;8]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,001] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S1" type="ext"/>[250,001]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the Admiralty Act 1988.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.ADA88.S1.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.250001-5" leveltype="para0" subdoc="true" toc-caption="[250,001.5] Introductory note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,001.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> 41(4), s 44(1), ss 9&#x2013;12.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_REG_1988-269" remotekey1="REFPTID" service="DOC-ID">Admiralty Rules 1988</remotelink>.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> Section 5.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250001-5" type="ext"/>[250,001.5] </edpnum><title>Introductory note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Formerly the Supreme Court derived its civil admiralty jurisdiction from the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.COLUK." remotekey1="REFPTID" service="DOC-ID" status="unval">Colonial Courts of Admiralty Act</remotelink></ci:content></ci:cite>
+ 1890 (UK) which provided that the nature and extent of that jurisdiction was the court could &#x201c;exercise such jurisdiction in like manner and to as full an extent as the High Court in England&#x201d;. Criminal jurisdiction in admiralty, although its identity has not been wholly subsumed in the common law, has long been administered by common law judges: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1974"/></ci:caseinfo><ci:caseref ID="cr000001" spanref="cr000001-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="131"/><ci:page num="203"/></ci:caseref><ci:caseref anaphref="cr000001" spanref="cr000001-002" status="unval"><ci:pinpoint num="226" targettype="page"/></ci:caseref><ci:caseref ID="cr000002" spanref="cr000002-003"><ci:reporter value="ALR"/><ci:volume num="3"/><ci:page num="171"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Bull</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000001-001" status="unval">(1974) 131 CLR 203</ci:span> <ci:span spanid="cr000001-002" status="unval">at 226</ci:span>; <ci:span spanid="cr000002-003">3 ALR 171</ci:span></citefragment> <remotelink dpsi="0018" refpt="2845" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. For civil proceedings commenced after 1 January 1989, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S44.1" remotekey1="REFPTID" service="DOC-ID">s 44(1)</remotelink></ci:content></ci:cite>
+ of the Admiralty Act 1988 (Cth) effects the repeal of the UK legislation in its application to the Commonwealth of Australia and its territories. Admiralty jurisdiction under the Commonwealth Act is conferred on the Supreme Court by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S9" remotekey1="REFPTID" service="DOC-ID">ss 9&#x2013;12</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S41.4" remotekey1="REFPTID" service="DOC-ID">41(4)</remotelink></ci:content></ci:cite>
+ &#x2014; the latter of which relates to the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88" remotekey1="REFPTID" service="DOC-ID">Admiralty Rules 1988 (Cth)</remotelink></ci:content></ci:cite>
+ and broaden its scope: see Australian Law Reform Commission, Report No 33, <emph typestyle="it">Civil Admiralty Jurisdiction</emph>, 1986; S Hetherington, <emph typestyle="it">Annotated Admiralty Legislation</emph>, Law Book Co, Sydney, 1989; Sir Frederick Jordan, <emph typestyle="it">The Admiralty Jurisdiction in New South Wales</emph>, reprinted in <emph typestyle="it">Select Legal Papers</emph>, Sydney, 1983. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S5" remotekey1="REFPTID" service="DOC-ID">Section 5</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005 does not limit or increase any court&#x2019;s jurisdiction in admiralty.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S2" type="ext"/>[250,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act commences on a day to be fixed by Proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,010] s 3 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S3" type="ext"/>[250,010]</edpnum><title searchtype="SECT-TITLE">Interpretation</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, unless the contrary intention appears:</text></p>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.AUSTRALIA"><defterm><refpt id="UCPN.OL.ADA88.S3.1.AUSTRALIA" type="ext"/><emph typestyle="bf">Australia</emph></defterm> <defdesc>
+<p><text>, when used in a geographical sense, includes each external Territory;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.CIVIL-LIABILITY-CONVENTION"><defterm><refpt id="UCPN.OL.ADA88.S3.1.CIVIL-LIABILITY-CONVENTION" type="ext"/><emph typestyle="bf">Civil Liability Convention</emph></defterm> <defdesc>
+<p><text>has the same meaning as <defterm><emph typestyle="bf">the Convention</emph></defterm> has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PSEA." remotekey1="REFPTID" service="DOC-ID" status="unval">Protection of the Sea (Civil Liability) Act 1981</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 62 of 2004  s 3 and Sch 1 effective 27 May 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.COASTAL-SEA-OF-AUSTRALIA"><defterm><refpt id="UCPN.OL.ADA88.S3.1.COASTAL-SEA-OF-AUSTRALIA" type="ext"/><emph typestyle="bf">coastal sea of Australia</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.COASTAL-SEA-OF-AUSTRALIA.A"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.COASTAL-SEA-OF-AUSTRALIA.A" type="ext"/>(a)</lilabel>
+<p><text>the territorial sea of Australia; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.COASTAL-SEA-OF-AUSTRALIA.B"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.COASTAL-SEA-OF-AUSTRALIA.B" type="ext"/>(b)</lilabel>
+<p><text>the sea on the landward side of the territorial sea of Australia and not within the limits of a State or Territory.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 129 of 2012  Sch 2 item 1, effective 13 September 2012]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.COMMENCEMENT"><defterm><refpt id="UCPN.OL.ADA88.S3.1.COMMENCEMENT" type="ext"/><emph typestyle="bf">commencement</emph></defterm> <defdesc>
+<p><text>, in relation to a proceeding, has the meaning given by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S3.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.COSTS-AND-EXPENSES"><defterm><refpt id="UCPN.OL.ADA88.S3.1.COSTS-AND-EXPENSES" type="ext"/><emph typestyle="bf">costs and expenses</emph></defterm> <defdesc>
+<p><text>, in relation to the Marshal, has the meaning given by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S3.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.ENTERING-APPEARANCE"><defterm><refpt id="UCPN.OL.ADA88.S3.1.ENTERING-APPEARANCE" type="ext"/><emph typestyle="bf">entering appearance</emph></defterm> <defdesc>
+<p><text>has the meaning given by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S3.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.FEDERAL-CIRCUIT-COURT"><defterm><refpt id="UCPN.OL.ADA88.S3.1.FEDERAL-CIRCUIT-COURT" type="ext"/><emph typestyle="bf">Federal Circuit Court</emph></defterm> <defdesc>
+<p><text>means the Federal Circuit Court of  Australia. </text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 13 of 2013  s 3 and Sch 1 item 25, effective 12 April 2013]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.FEDERAL-COURT"><defterm><refpt id="UCPN.OL.ADA88.S3.1.FEDERAL-COURT" type="ext"/><emph typestyle="bf">Federal Court</emph></defterm> <defdesc>
+<p><text>means the Federal Court of Australia;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.FOREIGN-SHIP"><defterm><refpt id="UCPN.OL.ADA88.S3.1.FOREIGN-SHIP" type="ext"/><emph typestyle="bf">foreign ship</emph></defterm> <defdesc>
+<p><text>means a ship that is not registered, and is not permitted to be registered, under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SRA" remotekey1="REFPTID" service="DOC-ID" status="unval">Shipping Registration Act 1981</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.FREIGHT"><defterm><refpt id="UCPN.OL.ADA88.S3.1.FREIGHT" type="ext"/><emph typestyle="bf">freight</emph></defterm> <defdesc>
+<p><text>includes passage money and hire;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.GOODS"><defterm><refpt id="UCPN.OL.ADA88.S3.1.GOODS" type="ext"/><emph typestyle="bf">goods</emph></defterm> <defdesc>
+<p><text>, in relation to a ship, has the meaning given by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S3.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.HOVECRAFT"><defterm><refpt id="UCPN.OL.ADA88.S3.1.HOVECRAFT" type="ext"/><emph typestyle="bf">hovercraft</emph></defterm> <defdesc>
+<p><text>means an air-cushion vehicle, or a similar vehicle, used wholly or principally in navigation by water;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.INITIATING-PROCESS"><defterm><refpt id="UCPN.OL.ADA88.S3.1.INITIATING-PROCESS" type="ext"/><emph typestyle="bf">initiating process</emph></defterm> <defdesc>
+<p><text>includes a third party notice;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.INLAND-WATERS"><defterm><refpt id="UCPN.OL.ADA88.S3.1.INLAND-WATERS" type="ext"/><emph typestyle="bf">inland waters</emph></defterm> <defdesc>
+<p><text>means waters within Australia other than waters of the sea;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.INLAND-WATERWAYS-VESSEL"><defterm><refpt id="UCPN.OL.ADA88.S3.1.INLAND-WATERWAYS-VESSEL" type="ext"/><emph typestyle="bf">inland waterways vessel</emph></defterm> <defdesc>
+<p><text>means a vessel used or intended to be used wholly on inland waters;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.LIABILITY-CONVENTION"><defterm><refpt id="UCPN.OL.ADA88.S3.1.LIABILITY-CONVENTION" type="ext"/><emph typestyle="bf">Liability Convention</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.LIABILITY-CONVENTION.A"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.LIABILITY-CONVENTION.A" type="ext"/>(a)</lilabel>
+<p><text>the Civil Liability Convention;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.LIABILITY-CONVENTION.B"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.LIABILITY-CONVENTION.B" type="ext"/>(b)</lilabel>
+<p><text>the Limitation Convention; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.LIABILITY-CONVENTION.C"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.LIABILITY-CONVENTION.C" type="ext"/>(c)</lilabel>
+<p><text>any other international convention that is in force in relation to Australia and makes provision with respect to the limitation of liability in relation to maritime claims;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.LIMITATION-CONVENTION"><defterm><refpt id="UCPN.OL.ADA88.S3.1.LIMITATION-CONVENTION" type="ext"/><emph typestyle="bf">Limitation Convention</emph></defterm> <defdesc>
+<p><text>has the meaning given to the expression <defterm><emph typestyle="bf">Convention</emph></defterm> by subsection 3(1) of the Limitation of Liability for Maritime Claims Act 1989.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 149 of 2001  s 3 and Sch 1 effective 13 May 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.LIMITATION-PROCEEDING"><defterm><refpt id="UCPN.OL.ADA88.S3.1.LIMITATION-PROCEEDING" type="ext"/><emph typestyle="bf">limitation proceeding</emph></defterm> <defdesc>
+<p><text>means a proceeding under:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.LIMITATION-PROCEEDING.A"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.LIMITATION-PROCEEDING.A" type="ext"/>(a)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S25" remotekey1="REFPTID" service="DOC-ID">section 25</remotelink></ci:content></ci:cite>
+ of this Act;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.LIMITATION-PROCEEDING.B"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.LIMITATION-PROCEEDING.B" type="ext"/>(b)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LLMCA89.S9" remotekey1="REFPTID" service="DOC-ID" status="unval">section 9 </remotelink></ci:content></ci:cite>
+ of the Limitation of Liability for Maritime Claims Act 1989; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.LIMITATION-PROCEEDING.C"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.LIMITATION-PROCEEDING.C" type="ext"/>(c)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PSEA.S10" remotekey1="REFPTID" service="DOC-ID" status="unval">section 10 </remotelink></ci:content></ci:cite>
+ of the Protection of the Sea (Civil Liability) Act 1981;</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 151 of 1989  s 12 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.MARITIME-CLAIM"><defterm><refpt id="UCPN.OL.ADA88.S3.1.MARITIME-CLAIM" type="ext"/><emph typestyle="bf">maritime claim</emph></defterm> <defdesc>
+<p><text>, &#x201c;general maritime claim&#x201d; and &#x201c;proprietary maritime claim&#x201d; have the meanings given by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4" remotekey1="REFPTID" service="DOC-ID">section 4</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.MASTER"><defterm><refpt id="UCPN.OL.ADA88.S3.1.MASTER" type="ext"/><emph typestyle="bf">master</emph></defterm> <defdesc>
+<p><text>, in relation to a ship, means a person who has command or charge of the ship;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.MEMBER-OF-THE-CREW"><defterm><refpt id="UCPN.OL.ADA88.S3.1.MEMBER-OF-THE-CREW" type="ext"/><emph typestyle="bf">member of the crew</emph></defterm> <defdesc>
+<p><text>, in relation to a ship, means a person employed or engaged in any capacity on board the ship on the business of the ship, other than:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.MEMBER-OF-THE-CREW.A"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.MEMBER-OF-THE-CREW.A" type="ext"/>(a)</lilabel>
+<p><text>the master of the ship;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.MEMBER-OF-THE-CREW.B"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.MEMBER-OF-THE-CREW.B" type="ext"/>(b)</lilabel>
+<p><text>a person who has the conduct of the ship as the pilot of the ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.MEMBER-OF-THE-CREW.C"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.MEMBER-OF-THE-CREW.C" type="ext"/>(c)</lilabel>
+<p><text>a person temporarily employed on the ship in port;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.MORTGAGE"><defterm><refpt id="UCPN.OL.ADA88.S3.1.MORTGAGE" type="ext"/><emph typestyle="bf">mortgage</emph></defterm> <defdesc>
+<p><text>, in relation to a ship or a share in a ship, includes a hypothecation or pledge of, and a charge on, the ship or share whether at law or in equity and whether arising under the law in force in a part of Australia or elsewhere;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE"><defterm><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE" type="ext"/><emph typestyle="bf">off-shore industry fixed structure</emph></defterm> <defdesc>
+<p><text>means a structure (including a pipeline) that:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE.A"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE.A" type="ext"/>(a)</lilabel>
+<p><text>is fixed to the seabed and is not able to move or be moved as a structure from one place to another; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE.B"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE.B" type="ext"/>(b)</lilabel>
+<p><text>is used or intended for use wholly or primarily in, or in any operations or activities associated with or incidental to, exploring or exploiting the mineral and other non-living resources of:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE.B.I"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE.B.I" type="ext"/>(i)</lilabel>
+<p><text>the continental shelf of Australia; or</text></p>
+</li><li id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE.B.II"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-FIXED-STRUCTURE.B.II" type="ext"/>(ii)</lilabel>
+<p><text>the seabed of the coastal sea of Australia or the subsoil of that seabed.</text></p>
+</li></l></li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 129 of 2012  Sch 2 item 2, effective 13 September 2012]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT"><defterm><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT" type="ext"/><emph typestyle="bf">off-shore industry mobile unit</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT.A"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT.A" type="ext"/>(a)</lilabel>
+<p><text>a vessel, or a structure other than a vessel that is able to float or be floated and to move or be moved as a structure from one place to another, that is used or intended for use wholly or primarily in, or in any operations or activities associated with or incidental to, exploring or exploiting the mineral and other non-living resources of:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT.A.I"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT.A.I" type="ext"/>(i)</lilabel>
+<p><text>the continental shelf of Australia; or</text></p>
+</li><li id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT.A.II"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT.A.II" type="ext"/>(ii)</lilabel>
+<p><text>the seabed of the coastal sea of Australia or the subsoil of that seabed;</text></p>
+</li></l>
+<p><text>by drilling, or by obtaining substantial quantities of material from, the seabed or its subsoil, with equipment that is on or forms part of the vessel or structure; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT.B"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.OFF-SHORE-INDUSTRY-MOBILE-UNIT.B" type="ext"/>(b)</lilabel>
+<p><text>a barge or similar vessel fitted with living quarters for more than 12 persons and used or intended for use wholly or primarily in connection with the construction, maintenance or repair of off-shore industry fixed structures.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 129 of 2012  Sch 2 item 3, effective 13 September 2012]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.RELEVANT-PERSON"><defterm><refpt id="UCPN.OL.ADA88.S3.1.RELEVANT-PERSON" type="ext"/><emph typestyle="bf">relevant person</emph></defterm> <defdesc>
+<p><text>, in relation to a maritime claim, means a person who would be liable on the claim in a proceeding commenced as an action <emph typestyle="it">in personam</emph>;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.SEA"><defterm><refpt id="UCPN.OL.ADA88.S3.1.SEA" type="ext"/><emph typestyle="bf">sea</emph></defterm> <defdesc>
+<p><text>includes all waters within the ebb and flow of the tide;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.SHIP"><defterm><refpt id="UCPN.OL.ADA88.S3.1.SHIP" type="ext"/><emph typestyle="bf">ship</emph></defterm> <defdesc>
+<p><text>means a vessel of any kind used or constructed for use in navigation by water, however it is propelled or moved, and includes:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.SHIP.A"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.SHIP.A" type="ext"/>(a)</lilabel>
+<p><text>a barge, lighter or other floating vessel;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.SHIP.B"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.SHIP.B" type="ext"/>(b)</lilabel>
+<p><text>a hovercraft;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.SHIP.C"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.SHIP.C" type="ext"/>(c)</lilabel>
+<p><text>an off-shore industry mobile unit; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.SHIP.D"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.SHIP.D" type="ext"/>(d)</lilabel>
+<p><text>a vessel that has sunk or is stranded and the remains of such a vessel;</text></p>
+</li>
+</l>
+<p><text>but does not include:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.1.SHIP.E"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.SHIP.E" type="ext"/>(e)</lilabel>
+<p><text>a seaplane;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.SHIP.F"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.SHIP.F" type="ext"/>(f)</lilabel>
+<p><text>an inland waterways vessel; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.1.SHIP.G"><lilabel><refpt id="UCPN.OL.ADA88.S3.1.SHIP.G" type="ext"/>(g)</lilabel>
+<p><text>a vessel under construction that has not been launched;</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 129 of 2012  Sch 2 item 4, effective 13 September 2012]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.SURROGATE-SHIP"><defterm><refpt id="UCPN.OL.ADA88.S3.1.SURROGATE-SHIP" type="ext"/><emph typestyle="bf">surrogate ship</emph></defterm> <defdesc>
+<p><text>has the meaning given by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S3.6" remotekey1="REFPTID" service="DOC-ID">subsection (6)</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S3.1.THIS-ACT"><defterm><refpt id="UCPN.OL.ADA88.S3.1.THIS-ACT" type="ext"/><emph typestyle="bf">this Act</emph></defterm> <defdesc>
+<p><text>includes the regulations and the Rules made under this Act.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to the time when a proceeding is commenced is a reference to the time when the initiating process in relation to the proceeding is filed in, or issued by, a court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to goods, in relation to a ship, includes a reference to the baggage and other possessions of a person who is on the ship, being baggage and possessions that are being carried or are to be carried on the ship.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S3.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to the entering of appearance includes a reference to any similar procedure.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S3.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to the costs and expenses of the Marshal includes a reference to the amounts payable to a person acting in accordance with the Rules as a Marshal of a court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S3.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S3.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act, where:</text></p>
+<l><li id="UCPN.OL.ADA88.S3.6.A"><lilabel><refpt id="UCPN.OL.ADA88.S3.6.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding on a maritime claim may be commenced against a ship under a provision of this Act (other than 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S19" remotekey1="REFPTID" service="DOC-ID">section 19 </remotelink></ci:content></ci:cite>
+); and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S3.6.B"><lilabel><refpt id="UCPN.OL.ADA88.S3.6.B" type="ext"/>(b)</lilabel>
+<p><text>under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S19" remotekey1="REFPTID" service="DOC-ID">section 19</remotelink></ci:content></ci:cite>
+, a proceeding on the claim may be commenced against some other ship;</text></p>
+</li>
+</l>
+<p><text>the other ship is, in relation to the claim, a surrogate ship.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.ADA88.S3.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.250010-5" leveltype="para0" subdoc="true" toc-caption="[250,010.5] Ship"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250010-5" type="ext"/>[250,010.5] </edpnum><title>Ship</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In the context of an action <emph typestyle="it">in rem</emph>, the word &#x201c;ship&#x201d; includes all property aboard the ship other than that which is owned by a person not the owner of the ship: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000003" spanref="cr000003-001" status="unval"><ci:reporter value="LLOYDSREP"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="534"/></ci:caseref><ci:caseref anaphref="cr000003" spanref="cr000003-002" status="unval"><ci:pinpoint num="537" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Silia</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000003-001" status="unval">[1981] 2 Lloyd's Rep 534</ci:span> <ci:span spanid="cr000003-002" status="unval">at 537</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250010-10" leveltype="para0" subdoc="true" toc-caption="[250,010.10] Relevant person"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250010-10" type="ext"/>[250,010.10] </edpnum><title>Relevant person</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The words &#x201c;would be liable on the claim&#x201d; mean that, on a challenge to the court's jurisdiction, it is not appropriate to enter into the merits of an arresting party's in personam claim: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1997"/></ci:caseinfo><ci:caseref ID="cr000004" spanref="cr000004-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="75"/><ci:page num="78"/></ci:caseref><ci:caseref ID="cr000005" spanref="cr000005-002"><ci:reporter value="ALR"/><ci:volume num="144"/><ci:page num="720"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">KMP Coastal Oil Pty Ltd v Owners of MV Iran Amanat</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000004-001" status="unval">(1997) 75 FCR 78</ci:span>; <ci:span spanid="cr000005-002">144 ALR 720</ci:span></citefragment> <remotelink dpsi="0018" refpt="237610" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,015] s 4 Maritime claims">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S4" type="ext"/>[250,015]</edpnum><title searchtype="SECT-TITLE">Maritime claims</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a maritime claim is a reference to a proprietary maritime claim or a general maritime claim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a proprietary maritime claim is a reference to:</text></p>
+<l><li id="UCPN.OL.ADA88.S4.2.A"><lilabel><refpt id="UCPN.OL.ADA88.S4.2.A" type="ext"/>(a)</lilabel>
+<p><text>a claim relating to:</text></p>
+<l><li id="UCPN.OL.ADA88.S4.2.A.I"><lilabel><refpt id="UCPN.OL.ADA88.S4.2.A.I" type="ext"/>(i)</lilabel>
+<p><text>possession of a ship;</text></p>
+</li><li id="UCPN.OL.ADA88.S4.2.A.II"><lilabel><refpt id="UCPN.OL.ADA88.S4.2.A.II" type="ext"/>(ii)</lilabel>
+<p><text>title to, or ownership of, a ship or a share in a ship;</text></p>
+</li><li id="UCPN.OL.ADA88.S4.2.A.III"><lilabel><refpt id="UCPN.OL.ADA88.S4.2.A.III" type="ext"/>(iii)</lilabel>
+<p><text>a mortgage of a ship or of a share in a ship; or</text></p>
+</li><li id="UCPN.OL.ADA88.S4.2.A.IV"><lilabel><refpt id="UCPN.OL.ADA88.S4.2.A.IV" type="ext"/>(iv)</lilabel>
+<p><text>a mortgage of a ship's freight;</text></p>
+</li></l></li>
+<li id="UCPN.OL.ADA88.S4.2.B"><lilabel><refpt id="UCPN.OL.ADA88.S4.2.B" type="ext"/>(b)</lilabel>
+<p><text>a claim between co-owners of a ship relating to the possession, ownership, operation or earnings of the ship;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.2.C"><lilabel><refpt id="UCPN.OL.ADA88.S4.2.C" type="ext"/>(c)</lilabel>
+<p><text>a claim for the satisfaction or enforcement of a judgment given by a court (including a court of a foreign country) against a ship or other property in a proceeding <emph typestyle="it">in rem</emph> in the nature of a proceeding in Admiralty; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.2.D"><lilabel><refpt id="UCPN.OL.ADA88.S4.2.D" type="ext"/>(d)</lilabel>
+<p><text>a claim for interest in respect of a claim referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.2.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.2.B" remotekey1="REFPTID" service="DOC-ID">(b)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.2.C" remotekey1="REFPTID" service="DOC-ID">(c)</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a general maritime claim is a reference to:</text></p>
+<l><li id="UCPN.OL.ADA88.S4.3.A"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.A" type="ext"/>(a)</lilabel>
+<p><text>a claim for damage done by a ship (whether by collision or otherwise); or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.B"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.B" type="ext"/>(b)</lilabel>
+<p><text>a claim in respect of the liability of the owner of a ship arising under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PSEA.PT2" remotekey1="REFPTID" service="DOC-ID" status="unval">Part II</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PSEA.PT4" remotekey1="REFPTID" service="DOC-ID" status="unval">IV</remotelink></ci:content></ci:cite>
+ of the Protection of the Sea (Civil Liability) Act 1981 or under a law of a State or Territory that makes provision as mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PSEA.S7.1" remotekey1="REFPTID" service="DOC-ID" status="unval">subsection 7(1)</remotelink></ci:content></ci:cite>
+ of that Act; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.BA"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.BA" type="ext"/>(ba)</lilabel>
+<p><text>a claim under:</text></p>
+<l><li id="UCPN.OL.ADA88.S4.3.BA.I"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.BA.I" type="ext"/>(i)</lilabel>
+<p><text>the applied provisions (within the meaning of the Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008); or</text></p>
+</li><li id="UCPN.OL.ADA88.S4.3.BA.II"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.BA.II" type="ext"/>(ii)</lilabel>
+<p><text>a law of a State or Territory of a kind referred to in subsection 10(1) of that Act; or</text></p>
+</li></l></li>
+<li id="UCPN.OL.ADA88.S4.3.C"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.C" type="ext"/>(c)</lilabel>
+<p><text>a claim for loss of life, or for personal injury, sustained in consequence of a defect in a ship or in the apparel or equipment of a ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.D"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.D" type="ext"/>(d)</lilabel>
+<p><text>a claim (including a claim for loss of life or personal injury) arising out of an act or omission of:</text></p>
+<l><li id="UCPN.OL.ADA88.S4.3.D.I"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.D.I" type="ext"/>(i)</lilabel>
+<p><text>the owner or charterer of a ship;</text></p>
+</li><li id="UCPN.OL.ADA88.S4.3.D.II"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.D.II" type="ext"/>(ii)</lilabel>
+<p><text>a person in possession or control of a ship; or</text></p>
+</li><li id="UCPN.OL.ADA88.S4.3.D.III"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.D.III" type="ext"/>(iii)</lilabel>
+<p><text>a person for whose wrongful acts or omissions the owner, charterer or person in possession or control of a ship is liable;</text></p>
+</li></l>
+<p><text>being an act or omission in the navigation or management of the ship, including an act or omission in connection with:</text></p>
+<l><li id="UCPN.OL.ADA88.S4.3.D.IV"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.D.IV" type="ext"/>(iv)</lilabel>
+<p><text>the loading of goods on to, or the unloading of goods from, the ship;</text></p>
+</li><li id="UCPN.OL.ADA88.S4.3.D.V"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.D.V" type="ext"/>(v)</lilabel>
+<p><text>the embarkation of persons on to, or the disembarkation of persons from, the ship; and</text></p>
+</li><li id="UCPN.OL.ADA88.S4.3.D.VI"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.D.VI" type="ext"/>(vi)</lilabel>
+<p><text>the carriage of goods or persons on the ship; or</text></p>
+</li></l></li>
+<li id="UCPN.OL.ADA88.S4.3.E"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.E" type="ext"/>(e)</lilabel>
+<p><text>a claim for loss of, or damage to, goods carried by a ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.F"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.F" type="ext"/>(f)</lilabel>
+<p><text>a claim arising out of an agreement that relates to the carriage of goods or persons by a ship or to the use or hire of a ship, whether by charterparty or otherwise; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.G"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.G" type="ext"/>(g)</lilabel>
+<p><text>a claim relating to salvage (including life salvage and salvage of cargo or wreck found on land); or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.H"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.H" type="ext"/>(h)</lilabel>
+<p><text>a claim in respect of general average; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.J"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.J" type="ext"/>(j)</lilabel>
+<p><text>a claim in respect of towage of a ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.K"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.K" type="ext"/>(k)</lilabel>
+<p><text>a claim in respect of pilotage of a ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.M"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.M" type="ext"/>(m)</lilabel>
+<p><text>a claim in respect of goods, materials or services (including stevedoring and lighterage services) supplied or to be supplied to a ship for its operation or maintenance; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.N"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.N" type="ext"/>(n)</lilabel>
+<p><text>a claim in respect of the construction of a ship (including such a claim relating to a vessel before it was launched); or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.O"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.O" type="ext"/>(o)</lilabel>
+<p><text>a claim in respect of the alteration, repair or equipping of a ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.P"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.P" type="ext"/>(p)</lilabel>
+<p><text>a claim in respect of a liability for port, harbour, canal or light tolls, charges or dues, or tolls, charges or dues of a similar kind, in relation to a ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.Q"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.Q" type="ext"/>(q)</lilabel>
+<p><text>a claim in respect of a levy in relation to a ship, including a shipping levy imposed by the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PSSL81" remotekey1="REFPTID" service="DOC-ID" status="unval">Protection of the Sea (Shipping Levy) Act 1981</remotelink></ci:content></ci:cite>
+, being a levy in relation to which a power to detain the ship is conferred by a law in force in Australia or in a part of Australia; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.R"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.R" type="ext"/>(r)</lilabel>
+<p><text>a claim by a master, shipper, charterer or agent in respect of disbursements on account of a ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.S"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.S" type="ext"/>(s)</lilabel>
+<p><text>a claim for an insurance premium, or for a mutual insurance call, in relation to a ship; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.T"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.T" type="ext"/>(t)</lilabel>
+<p><text>a claim by a master, or a member of the crew of a ship for:</text></p>
+<l><li id="UCPN.OL.ADA88.S4.3.T.I"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.T.I" type="ext"/>(i)</lilabel>
+<p><text>wages; </text></p>
+</li><li id="UCPN.OL.ADA88.S4.3.T.II"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.T.II" type="ext"/>(ii)</lilabel>
+<p><text>an amount that a person, as employer, is under an obligation to pay to a person as employee, whether the obligation arose out of the contract of employment or by operation of law, including the operation of the law of a foreign country; or</text></p>
+</li></l></li>
+<li id="UCPN.OL.ADA88.S4.3.U"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.U" type="ext"/>(u)</lilabel>
+<p><text>a claim for the enforcement of, or a claim arising out of, an arbitral award (including a foreign award within the meaning of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.AFAA74" remotekey1="REFPTID" service="DOC-ID" status="unval">International Arbitration Act 1974</remotelink></ci:content></ci:cite>
+ made in respect of a proprietary maritime claim or a claim referred to in one of the preceding paragraphs; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S4.3.W"><lilabel><refpt id="UCPN.OL.ADA88.S4.3.W" type="ext"/>(w)</lilabel>
+<p><text>a claim for interest in respect of a claim referred to in one of the preceding paragraphs.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (3)  am Act 73 of 2008  s 2 and Sch 1[3], effective 3 July 2008 ; Act 77 of 2008  s 3 and Sch 1[1]&#x2013;[3], effective 16 June 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.ADA88.S4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.250015-5" leveltype="para0" subdoc="true" toc-caption="[250,015.5] Mortgage of a ship's freight">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,015.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> s 4(2)(a)(iv).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-5" type="ext"/>[250,015.5] </edpnum><title>Mortgage of a ship's freight</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.2.A.IV" remotekey1="REFPTID" service="DOC-ID">s 4(2)(a)(iv)</remotelink></ci:content></ci:cite>
+, if a mortgagee lawfully takes possession of a ship he or she is entitled to pay insurance premiums with respect to the ship and charge them against any freight he or she receives. However, if he or she does not take possession, any insurance premiums he or she pays cannot be added to the mortgage debt unless there is an express provision in the mortgage: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000006" spanref="cr000006-001" status="unval"><ci:reporter value="LLOYDSREP"/><ci:volume num="2"/><ci:edition><ci:date year="1967"/></ci:edition><ci:page num="134"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Basildon</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000006-001" status="unval">[1967] 2 Lloyd's Rep 134</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-10" leveltype="para0" subdoc="true" toc-caption="[250,015.10] Damage done by a ship">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,015.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> s 4(3)(a).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-10" type="ext"/>[250,015.10] </edpnum><title>Damage done by a ship</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Although collision is the most common case the words in parenthesis in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.3.A" remotekey1="REFPTID" service="DOC-ID">s 4(3)(a)</remotelink></ci:content></ci:cite>
+ demonstrate that actual physical contact between the ship and the object sustaining the damage is not essential: see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000007" spanref="cr000007-001"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="920"/></ci:caseref><ci:caseref ID="cr000008" spanref="cr000008-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="430"/></ci:caseref><ci:caseref anaphref="cr000008" spanref="cr000008-003" status="unval"><ci:pinpoint num="438" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Eschersheim</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000007-001">[1976] 1 All ER 920</ci:span>; <ci:span spanid="cr000008-002" status="unval">[1976] 1 WLR 430</ci:span> <ci:span spanid="cr000008-003" status="unval">at 438</ci:span></citefragment></ci:content></ci:cite>. The damage must be &#x201c;done by a ship&#x201d; thus it must be the direct result of something done in the actual navigation of the vessel, but damage constituted by financial loss may be sufficient even without actual physical damage: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000009" spanref="cr000009-001" status="unval"><ci:reporter value="LLOYDSREP"/><ci:volume num="1"/><ci:edition><ci:date year="1988"/></ci:edition><ci:page num="431"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Ama Antxine</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000009-001" status="unval">[1988] 1 Lloyd's Rep 431</ci:span></citefragment></ci:content></ci:cite>; see also 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.250015-10" remotekey1="REFPTID" service="DOC-ID">[250,015.25]</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.250015-30" remotekey1="REFPTID" service="DOC-ID">[250,015.30]</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-15" leveltype="para0" subdoc="true" toc-caption="[250,015.15] Protection of the Sea (Civil Liability) Act 1981"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-15" type="ext"/>[250,015.15] </edpnum><title>Protection of the Sea (Civil Liability) Act 1981</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This Act imposes liability on a ship owner for pollution damage caused by oil that was discharged or escaped from a ship in Australian waters. The Act also provides a right to limit liability in the absence of fault or privity on the part of the ship owner.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-20" leveltype="para0" subdoc="true" toc-caption="[250,015.20] Loss caused by defect in a ship">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,015.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> s 4(3)(a), s 4(3)(c).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-20" type="ext"/>[250,015.20] </edpnum><title>Loss caused by defect in a ship</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where the ship itself is not the actual cause of the injury, so that the claim cannot come within 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.3.A" remotekey1="REFPTID" service="DOC-ID">s 4(3)(a)</remotelink></ci:content></ci:cite>
+, the claim may nevertheless fall within 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.3.C" remotekey1="REFPTID" service="DOC-ID">s 4(3)(c)</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-25" leveltype="para0" subdoc="true" toc-caption="[250,015.25] Acts or omissions in the navigation or management of a ship"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-25" type="ext"/>[250,015.25] </edpnum><title>Acts or omissions in the navigation or management of a ship</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is not necessary that the loss or injury in question should have occurred in connection with the actual navigation of the ship or indeed that it should have occurred on board ship. For example a claim for nervous shock suffered as a result of an injury to a person on the ship might be included. Furthermore the extension of jurisdiction to include acts or omissions in the management of a ship give rise to the possibility that it would include a claim by a passenger arising out of an assault by a member of the crew acting in the course of his or her employment could be brought. Secondly, it provides jurisdiction <emph typestyle="it">in rem</emph> for damage other than personal injury arising out of wrongdoing in the navigation or management of the vessel.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-30" leveltype="para0" subdoc="true" toc-caption="[250,015.30] Damage to goods carried by ship">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,015.30] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> s 3(3).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-30" type="ext"/>[250,015.30] </edpnum><title>Damage to goods carried by ship</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Goods are defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S3.3" remotekey1="REFPTID" service="DOC-ID">s 3(3)</remotelink></ci:content></ci:cite>
+ to include baggage and possessions that are to be carried on board a ship and would probably include the goods and possessions of employees on the ship.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-35" leveltype="para0" subdoc="true" toc-caption="[250,015.35] Agreement relating to carriage of goods"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-35" type="ext"/>[250,015.35] </edpnum><title>Agreement relating to carriage of goods</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is not necessary that the parties to the claim are the same as the parties to the agreement in question: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000010" spanref="cr000010-001" status="unval"><ci:reporter value="AC"/><ci:volume num="1"/><ci:edition><ci:date year="1985"/></ci:edition><ci:page num="711"/></ci:caseref><ci:caseref anaphref="cr000010" spanref="cr000010-002" status="unval"><ci:pinpoint num="731" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Samick Lines Co Ltd v Owners of The Antonas P Lemos</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000010-001" status="unval">[1985] 1 AC 711</ci:span> <ci:span spanid="cr000010-002" status="unval">at 731&#x2013;3</ci:span></citefragment></ci:content></ci:cite> (claim by sub-charterer against ship owners to recover compensation for additional expenses incurred by the sub-charterer as a result of the owners' negligence).</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-40" leveltype="para0" subdoc="true" toc-caption="[250,015.40] Claim relating to salvage">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,015.40] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> s 4(3)(f).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-40" type="ext"/>[250,015.40] </edpnum><title>Claim relating to salvage</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ADCUK" remotekey1="REFPTID" service="DOC-ID" status="unval">Admiralty Court Act 1840 (UK)</remotelink></ci:content></ci:cite>
+ jurisdiction was expressed to relate to claims &#x201c;in the nature of salvage&#x201d;. The current head of jurisdiction (&#x201c;a claim relating to salvage&#x201d;) is wider and would, for example, include a claim for damages for breach of a salvage agreement and a claim in respect of negligently performed salvage (cf <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000011" spanref="cr000011-001"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="920"/></ci:caseref><ci:caseref ID="cr000012" spanref="cr000012-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="430"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Eschersheim</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000011-001">[1976] 1 All ER 920</ci:span>; <ci:span spanid="cr000012-002" status="unval">[1976] 1 WLR 430</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000013" spanref="cr000013-001" status="unval"><ci:reporter value="LLOYDSREP"/><ci:volume num="1"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="397"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Tesaba</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000013-001" status="unval">[1982] 1 Lloyd's Rep 397</ci:span></citefragment></ci:content></ci:cite>; ALRC Report No 33, <emph typestyle="it">Civil Admiralty Jurisdiction</emph>, 1986, para 156). In any event these two examples would probably fall within 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.3.F" remotekey1="REFPTID" service="DOC-ID">s 4(3)(f)</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-45" leveltype="para0" subdoc="true" toc-caption="[250,015.45] Claim in respect of towage">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,015.45] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> s 4(3)(f).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-45" type="ext"/>[250,015.45] </edpnum><title>Claim in respect of towage</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This would include a claim for payment for towage rendered and also a claim by the ship owner for misconduct by the tug (although the latter claim could probably also be brought under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.3.F" remotekey1="REFPTID" service="DOC-ID">s 4(3)(f)</remotelink></ci:content></ci:cite>
+).</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-50" leveltype="para0" subdoc="true" toc-caption="[250,015.50] Goods, materials or services supplied to a ship"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-50" type="ext"/>[250,015.50] </edpnum><title>Goods, materials or services supplied to a ship</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Unless the supply contract specifies the particular ship on which the goods will be used or the services supplied it does not fall within this paragraph: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000014" spanref="cr000014-001" status="unval"><ci:reporter value="LLOYDSREP"/><ci:volume num="2"/><ci:edition><ci:date year="1988"/></ci:edition><ci:page num="193"/></ci:caseref><ci:caseref anaphref="cr000014" spanref="cr000014-002" status="unval"><ci:pinpoint num="196" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The River Rima</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000014-001" status="unval">[1988] 2 Lloyd's Rep 193</ci:span> <ci:span spanid="cr000014-002" status="unval">at 196</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-55" leveltype="para0" subdoc="true" toc-caption="[250,015.55] Disbursements on account of a ship"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-55" type="ext"/>[250,015.55] </edpnum><title>Disbursements on account of a ship</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A disbursement cannot be recovered against the ship unless it was properly incurred: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000015" spanref="cr000015-001" status="unval"><ci:reporter value="PD"/><ci:volume num="11"/><ci:edition><ci:date year="1886"/></ci:edition><ci:page num="21"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Tugot</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000015-001" status="unval">[1886] 11 PD 21</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-60" leveltype="para0" subdoc="true" toc-caption="[250,015.60] Wages">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,015.60] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> s 4(3)(t)(ii).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-60" type="ext"/>[250,015.60] </edpnum><title>Wages</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The broad interpretation formerly given to &#x201c;wages&#x201d; has been strengthened by the express provisions in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.3.T.II" remotekey1="REFPTID" service="DOC-ID">s 4(3)(t)(ii)</remotelink></ci:content></ci:cite>
+. A claim by an allottee for wages is not included and must be brought in the ordinary courts: see ALRC, Report No 33, <emph typestyle="it">Civil Admiralty Jurisdiction</emph>, 1986, para 167.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.250015-65" leveltype="para0" subdoc="true" toc-caption="[250,015.65] Interest">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,015.65] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250015-65" type="ext"/>[250,015.65] </edpnum><title>Interest</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Admiralty courts have also always had power to award prejudgment interest independently of provisions such as those contained in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink></ci:content></ci:cite>
+: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1953"/></ci:caseinfo><ci:caseref ID="cr000016" spanref="cr000016-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="88"/><ci:page num="164"/></ci:caseref><ci:caseref ID="cr000017" spanref="cr000017-002" status="unval"><ci:reporter value="ALJR"/><ci:volume num="27"/><ci:page num="130"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Shaw Savill &amp; Albion Co Ltd v Commonwealth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000016-001" status="unval">(1953) 88 CLR 164</ci:span>; <ci:span spanid="cr000017-002" status="unval">27 ALJR 130</ci:span></citefragment> <remotelink dpsi="0018" refpt="6240" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Except in special cases, the court's discretion to award interest will be exercised in conformity with the practice in other divisions of the court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000018" spanref="cr000018-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1975"/></ci:edition><ci:page num="704"/></ci:caseref><ci:caseref anaphref="cr000018" spanref="cr000018-002"><ci:pinpoint num="707" targettype="page"/></ci:caseref><ci:caseref anaphref="cr000018" spanref="cr000018-003"><ci:pinpoint num="715" targettype="page"/></ci:caseref><ci:caseref anaphref="cr000018" spanref="cr000018-004"><ci:pinpoint num="717" targettype="page"/></ci:caseref><ci:caseref anaphref="cr000018" spanref="cr000018-005" status="unval"><ci:pinpoint num="723" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">RW Miller &amp; Co Pty Ltd v The Ship Patris</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000018-001">[1975] 1 NSWLR 704</ci:span> <ci:span spanid="cr000018-002">at 707,</ci:span> <ci:span spanid="cr000018-003">715,</ci:span> <ci:span spanid="cr000018-004">717&#x2013;8,</ci:span> <ci:span spanid="cr000018-005" status="unval">723&#x2013;4</ci:span></citefragment></ci:content></ci:cite>. An award of salvage, which is peculiarly a subject of admiralty jurisdiction, may include an allowance for interest: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000019" spanref="cr000019-001" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="239"/></ci:caseref><ci:caseref anaphref="cr000019" spanref="cr000019-002" status="unval"><ci:pinpoint num="249" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Burley v The Texaco Southampton</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000019-001" status="unval">[1981] 2 NSWLR 239</ci:span> <ci:span spanid="cr000019-002" status="unval">at 249&#x2013;50</ci:span></citefragment></ci:content></ci:cite>. The Act makes clear that the court has jurisdiction to award interest, including, for example, where the action is settled without judgment. Interest may be allowed for part only of the period after the cause of action arose where there is delay in the commencement or prosecution of the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000020" spanref="cr000020-001" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="239"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Burley v The Texaco Southampton</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000020-001" status="unval">[1981] 2 NSWLR 239</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,020] s 5 Application">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S5" type="ext"/>[250,020]</edpnum><title searchtype="SECT-TITLE">Application</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the succeeding provisions of this section, this Act applies in relation to:</text></p>
+<l><li id="UCPN.OL.ADA88.S5.1.A"><lilabel><refpt id="UCPN.OL.ADA88.S5.1.A" type="ext"/>(a)</lilabel>
+<p><text>all ships, irrespective of the places of residence or domicile of their owners; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S5.1.B"><lilabel><refpt id="UCPN.OL.ADA88.S5.1.B" type="ext"/>(b)</lilabel>
+<p><text>all maritime claims, wherever arising.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not apply in relation to a proceeding commenced before the commencement of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S5.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not apply in relation to a cause of action that arose:</text></p>
+<l><li id="UCPN.OL.ADA88.S5.3.A"><lilabel><refpt id="UCPN.OL.ADA88.S5.3.A" type="ext"/>(a)</lilabel>
+<p><text>in respect of an inland waterways vessel; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S5.3.B"><lilabel><refpt id="UCPN.OL.ADA88.S5.3.B" type="ext"/>(b)</lilabel>
+<p><text>in respect of the use or intended use of a ship on inland waters.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S5.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S5.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S5.3.B" remotekey1="REFPTID" service="DOC-ID">Paragraph (3)(b)</remotelink></ci:content></ci:cite>
+ does not have effect in relation to a cause of action if, at the time when the cause of action arose, the ship concerned was a foreign ship.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,025] s 6 Certain rights not created or affected">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S6" type="ext"/>[250,025]</edpnum><title searchtype="SECT-TITLE">Certain rights not created or affected</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Act (other than 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S34" remotekey1="REFPTID" service="DOC-ID">section 34</remotelink></ci:content></ci:cite>
+) do not have effect to create:</text></p>
+<l><li id="UCPN.OL.ADA88.S6..A"><lilabel><refpt id="UCPN.OL.ADA88.S6..A" type="ext"/>(a)</lilabel>
+<p><text>a new maritime lien or other charge; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S6..B"><lilabel><refpt id="UCPN.OL.ADA88.S6..B" type="ext"/>(b)</lilabel>
+<p><text>a cause of action that would not have existed if this Act had not been passed.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,030] s 7 External Territories">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S7" type="ext"/>[250,030]</edpnum><title searchtype="SECT-TITLE">External Territories</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act extends to each external Territory.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,035] s 8 Act to bind Crown">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S8" type="ext"/>[250,035]</edpnum><title searchtype="SECT-TITLE">Act to bind Crown</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S8.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act binds the Crown in all its capacities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S8.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not authorise:</text></p>
+<l><li id="UCPN.OL.ADA88.S8.2.A"><lilabel><refpt id="UCPN.OL.ADA88.S8.2.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding to be commenced as an action <emph typestyle="it">in rem</emph> against a government ship or government property; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S8.2.B"><lilabel><refpt id="UCPN.OL.ADA88.S8.2.B" type="ext"/>(b)</lilabel>
+<p><text>the arrest, detention or sale of a government ship or government property.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S8.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S8.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding has been commenced as an action <emph typestyle="it">in rem</emph> against a government ship or government property, the court may, if it is satisfied that the proceeding was so commenced in the reasonable belief that the ship was not a government ship, or the property was not government property:</text></p>
+<l><li id="UCPN.OL.ADA88.S8.3.A"><lilabel><refpt id="UCPN.OL.ADA88.S8.3.A" type="ext"/>(a)</lilabel>
+<p><text>order that the proceeding be treated as though it were a proceeding commenced as an action <emph typestyle="it">in personam</emph> on the claim against a person specified as defendant in the order; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S8.3.B"><lilabel><refpt id="UCPN.OL.ADA88.S8.3.B" type="ext"/>(b)</lilabel>
+<p><text>make such consequential orders as are necessary.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S8.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S8.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.ADA88.S8.4.GOVERNMENT"><defterm><refpt id="UCPN.OL.ADA88.S8.4.GOVERNMENT" type="ext"/><emph typestyle="bf">government</emph></defterm> <defdesc>
+<p><text>means the Commonwealth, a State, the Northern Territory or the Administration of Norfolk Island;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S8.4.GOVERNMENT-PROPERTY"><defterm><refpt id="UCPN.OL.ADA88.S8.4.GOVERNMENT-PROPERTY" type="ext"/><emph typestyle="bf">government property</emph></defterm> <defdesc>
+<p><text>means cargo or other property that belongs to a government, but does not include cargo or other property that belongs to a trading corporation that is an agency of a government;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADA88.S8.4.GOVERNMENT-SHIP"><defterm><refpt id="UCPN.OL.ADA88.S8.4.GOVERNMENT-SHIP" type="ext"/><emph typestyle="bf">government ship</emph></defterm> <defdesc>
+<p><text>means a ship that belongs, or is for the time being demised or sub-demised, to a government (including such a ship used by or in connection with a part of the Defence Force), but does not include a ship that belongs, or is for the time being demised or sub-demised, to a trading corporation that is an agency of a government.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.ADA88.S8.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.250035-5" leveltype="para0" subdoc="true" toc-caption="[250,035.5]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [250,035.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1985-196" remotekey1="REFPTID" service="DOC-ID">Foreign States Immunities Act 1985</remotelink> s 18.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250035-5" type="ext"/>[250,035.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>For actions against ships belonging to foreign states, see the Foreign States Immunities Act 1985 (Cth) 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.FSIA.S18" remotekey1="REFPTID" service="DOC-ID" status="unval">s 18</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1  TRANSFER OF PROCEEDINGS FROM LOWER TO HIGHER COURT [ss 139&#x2013;144]</docinfo:doc-heading><docinfo:doc-id>UCPN.CPA.CPAN05.PT9.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Civil Procedure Act 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>CIVIL PROCEDURE ACT 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 9  TRANSFER OF PROCEEDINGS BETWEEN COURTS [ss 139&#x2013;154]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1  TRANSFER OF PROCEEDINGS FROM LOWER TO HIGHER COURT [ss 139&#x2013;144]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>40000290</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.CPA"/><docinfo:metaitem name="parent-filename" value="cpa.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_CPA.SGM_UCPN.CPA.CPAN05"/><docinfo:metaitem name="parent-filename" value="cpa1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 28, 2005</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CIVIL PROCEDURE ACT 2005</leg:officialname></leg:info><leg:level id="UCPN.CPA.CPAN05.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.PT9"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 9  TRANSFER OF PROCEEDINGS BETWEEN COURTS [ss 139&#x2013;154]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.CPA.CPAN05.PT9" type="ext"/>PART 9</designum></desig><title searchtype="PART-TITLE"> TRANSFER OF PROCEEDINGS BETWEEN COURTS [ss 139&#x2013;154]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.PT9.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1  TRANSFER OF PROCEEDINGS FROM LOWER TO HIGHER COURT [ss 139&#x2013;144]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.CPA.CPAN05.PT9.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE"> TRANSFER OF PROCEEDINGS FROM LOWER TO HIGHER COURT [ss 139&#x2013;144]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S139"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 139] s 139 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S139" type="ext"/>[s 139]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>139</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Division:</text></p>
+<deflist><defitem id="UCPN.CPA.CPAN05.S139.HIGHER-COURT"><defterm><refpt id="UCPN.CPA.CPAN05.S139.HIGHER-COURT" type="ext"/><emph typestyle="bf">higher court</emph></defterm> <defdesc>
+<p><text>means the court to which proceedings are transferred, or are proposed to be transferred, by a transfer order.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CPA.CPAN05.S139.LOWER-COURT"><defterm><refpt id="UCPN.CPA.CPAN05.S139.LOWER-COURT" type="ext"/><emph typestyle="bf">lower court</emph></defterm> <defdesc>
+<p><text>means the court from which proceedings are transferred, or are proposed to be transferred, by a transfer order.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CPA.CPAN05.S139.TRANSFER-ORDER"><defterm><refpt id="UCPN.CPA.CPAN05.S139.TRANSFER-ORDER" type="ext"/><emph typestyle="bf">transfer order</emph></defterm> <defdesc>
+<p><text>means an order referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S140" remotekey1="REFPTID" service="DOC-ID">section 140</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S139.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S139-5" leveltype="para0" subdoc="true" toc-caption="[s 139.5] Application note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 139.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> ss 139&#x2013;153.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S139-5" type="ext"/>[s 139.5] </edpnum><title>Application note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This Part (
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S25" remotekey1="REFPTID" service="DOC-ID">ss 139&#x2013;153</remotelink>
+) of the CPA does not apply to proceedings in the Dust Diseases Tribunal.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S140"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 140] s 140 Transfer of proceedings to higher court (cf Act No 9 1973, section 145; Act No 11 1970, section 21B)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S140" type="ext"/>[s 140]</edpnum><title searchtype="SECT-TITLE">Transfer of proceedings to higher court (cf Act No 9 1973, section 145; Act No 11 1970, section 21B)</title><desig searchtype="SECT-NUM"><designum>140</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S140.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S140.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Supreme Court may, of its own motion or on application by a party to proceedings before the District Court or the Local Court, order that the proceedings, including any cross-claim in the proceedings, be transferred to the Supreme Court.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S140.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S140.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The District Court may, of its own motion or on application by a party to proceedings before the Local Court, order that the proceedings, including any cross-claim in the proceedings, be transferred to the District Court.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S140.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S140.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings in the District Court on a claim for damages arising from personal injury or death are not to be transferred to the Supreme Court under this section unless the Supreme Court is satisfied:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S140.3.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S140.3.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of a motor accident claim or a workplace injury damages claim:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S140.3.A.I"><lilabel><refpt id="UCPN.CPA.CPAN05.S140.3.A.I" type="ext"/>(i)</lilabel>
+<p><text>that the amount to be awarded to the plaintiff, if successful, is likely to be more than $1,000,000, and</text></p>
+</li><li id="UCPN.CPA.CPAN05.S140.3.A.II"><lilabel><refpt id="UCPN.CPA.CPAN05.S140.3.A.II" type="ext"/>(ii)</lilabel>
+<p><text>that the case involves complex legal issues or issues of general public importance, or</text></p>
+</li></l></li>
+<li id="UCPN.CPA.CPAN05.S140.3.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S140.3.B" type="ext"/>(b)</lilabel>
+<p><text>in any other case:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S140.3.B.I"><lilabel><refpt id="UCPN.CPA.CPAN05.S140.3.B.I" type="ext"/>(i)</lilabel>
+<p><text>that the amount to be awarded to the plaintiff, if successful, is likely to exceed the jurisdictional limit of the District Court, or</text></p>
+</li><li id="UCPN.CPA.CPAN05.S140.3.B.II"><lilabel><refpt id="UCPN.CPA.CPAN05.S140.3.B.II" type="ext"/>(ii)</lilabel>
+<p><text>that there is other sufficient reason for hearing the proceedings in the Supreme Court.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S140.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S140.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings in the Local Court are not to be transferred to a higher court under this section unless the higher court is satisfied that there is sufficient reason for hearing the proceedings in the higher court.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S140.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S140.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section extends to proceedings that have been transferred to the District Court or the Local Court pursuant to a previous transfer order under this Division or under Division 2 or 3.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S140.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S140-5" leveltype="para0" subdoc="true" toc-caption="[s 140.5] Discretionary test for transfer">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 140.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 140(3).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S140-5" type="ext"/>[s 140.5] </edpnum><title>Discretionary test for transfer</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Subject to the specific limitations in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S140.3" remotekey1="REFPTID" service="DOC-ID">s 140(3)</remotelink></ci:content></ci:cite>
+ that apply to the transfer of personal injury proceedings in the District Court, the court has a discretionary power to make the orders sought. An order may be made whenever the transferor court considers that removal of the proceedings is appropriate, in the light of the particular circumstances of the proceedings and the matters in issue: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002702" spanref="cr002702-001"><ci:reporter value="urj"/><ci:refnum num="BC200304267"/></ci:caseref><ci:caseref anaphref="cr002702" spanref="cr002702-002"><ci:pinpoint num="20" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McCormick v BP Australia Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 690; <ci:span spanid="cr002702-001"> BC200304267</ci:span> <ci:span spanid="cr002702-002">at [20]</ci:span></citefragment> <remotelink dpsi="0018" refpt="366695" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.
+The fundamental consideration is whether there is &#x201c;sufficient cause&#x201d; for the transfer to be made. That criterion permits a wide range of considerations and involves discretionary, indeed impressionistic, evaluation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002703" spanref="cr002703-001"><ci:reporter value="urj"/><ci:refnum num="BC200005871"/></ci:caseref><ci:caseref anaphref="cr002703" spanref="cr002703-002"><ci:pinpoint num="3" targettype="para"/></ci:caseref><ci:caseref anaphref="cr002703" spanref="cr002703-003"><ci:pinpoint num="4" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sanderson Motors Pty Ltd v Kirby</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2000] NSWSC 924; <ci:span spanid="cr002703-001"> BC200005871</ci:span> <ci:span spanid="cr002703-002">at [3],</ci:span> <ci:span spanid="cr002703-003">[4]</ci:span></citefragment> <remotelink dpsi="0018" refpt="318073" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002704" spanref="cr002704-001" status="unval"><ci:reporter value="QB"/><ci:volume num="1"/><ci:edition><ci:date year="1893"/></ci:edition><ci:page num="442"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Banks v Hollingsworth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002704-001" status="unval">[1893] 1 QB 442</ci:span></citefragment> <remotelink dpsi="0018" refpt="91491" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002705" spanref="cr002705-001" status="unval"><ci:reporter value="KB"/><ci:volume num="1"/><ci:edition><ci:date year="1913"/></ci:edition><ci:page num="547"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Challis v Watson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002705-001" status="unval">[1913] 1 KB 547</ci:span></citefragment> <remotelink dpsi="0018" refpt="113265" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002706" spanref="cr002706-001" status="unval"><ci:reporter value="KB"/><ci:volume num="2"/><ci:edition><ci:date year="1940"/></ci:edition><ci:page num="306"/></ci:caseref><ci:caseref ID="cr002707" spanref="cr002707-002" status="unval"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1940"/></ci:edition><ci:page num="282"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lee v Proprietors of Hay's Wharf Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002706-001" status="unval">[1940] 2 KB 306</ci:span>; <ci:span spanid="cr002707-002" status="unval">[1940] 3 All ER 282</ci:span></citefragment> <remotelink dpsi="0018" refpt="114493" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1954"/></ci:caseinfo><ci:caseref ID="cr002708" spanref="cr002708-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="55"/><ci:page num="334"/></ci:caseref><ci:caseref ID="cr002709" spanref="cr002709-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="72"/><ci:page num="298"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ritchie v Gumley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002708-001" status="unval">(1954) 55 SR (NSW) 334</ci:span>; <ci:span spanid="cr002709-002" status="unval">72 WN (NSW) 298</ci:span></citefragment> <remotelink dpsi="0018" refpt="73235" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1958"/></ci:caseinfo><ci:caseref ID="cr002710" spanref="cr002710-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="75"/><ci:page num="519"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte McIntosh; Re Frey</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002710-001" status="unval">(1958) 75 WN (NSW) 519</ci:span></citefragment> <remotelink dpsi="0018" refpt="75322" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002711" spanref="cr002711-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1963"/></ci:edition><ci:page num="102"/></ci:caseref><ci:caseref ID="cr002712" spanref="cr002712-002" status="unval"><ci:reporter value="SRNSW"/><ci:volume num=""/><ci:edition><ci:date year="1962"/></ci:edition><ci:page num="400"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">George Pearse Pty Ltd v O'Flynn</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002711-001" status="unval">[1963] NSWR 102</ci:span>; <ci:span spanid="cr002712-002" status="unval">[1962] SR (NSW) 400</ci:span></citefragment> <remotelink dpsi="0018" refpt="75723" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002713" spanref="cr002713-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="1282"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Vigilant Finance (NSW) Pty Ltd; Re Cameron Smith</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002713-001" status="unval">[1964] NSWR 1282</ci:span></citefragment> <remotelink dpsi="0018" refpt="76894" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The discretion to transfer does not depend on the proceedings falling within the jurisdictional limits of the lower court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2001"/></ci:caseinfo><ci:caseref ID="cr002714" spanref="cr002714-001"><ci:reporter value="NSWLR"/><ci:volume num="51"/><ci:page num="516"/></ci:caseref><ci:caseref anaphref="cr002714" spanref="cr002714-002" status="unval"><ci:pinpoint num="526" targettype="page"/></ci:caseref><ci:caseref ID="cr002715" spanref="cr002715-003"><ci:reporter value="urj"/><ci:refnum num="BC200102124"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">KBRV Resort Operations Pty Ltd (t/as Kingfisher Bay Resort &amp; Village) v Chilcott</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002714-001">(2001) 51 NSWLR 516</ci:span> <ci:span spanid="cr002714-002" status="unval">at 526</ci:span>; [2001] NSWCA 116; <ci:span spanid="cr002715-003"> BC200102124</ci:span></citefragment> <remotelink dpsi="0018" refpt="327528" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Indeed, and as the wording of the section implies, the absence of jurisdiction provides a reason for transfer: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002716" spanref="cr002716-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="1468"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Delponte; Re Thiess Bros Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002716-001" status="unval">[1965] NSWR 1468</ci:span></citefragment> <remotelink dpsi="0018" refpt="77446" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, per Asprey J; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002717" spanref="cr002717-001"><ci:reporter value="urj"/><ci:refnum num="BC7800013"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Webb v Kunich</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002717-001"> (NSWSC, Cohen M in Eq, No 3172/78, 23 October 1978, unreported, BC7800013)</ci:span></citefragment></ci:content></ci:cite> (claim for return of deposit under s 55(2A) of the Conveyancing Act 1919). <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1999"/></ci:caseinfo><ci:caseref ID="cr002718" spanref="cr002718-001"><ci:reporter value="MVR"/><ci:volume num="29"/><ci:page num="225"/></ci:caseref><ci:caseref ID="cr002719" spanref="cr002719-002"><ci:reporter value="urj"/><ci:refnum num="BC9904271"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chilcott v KBRV Resort Operations Pty Ltd (t/as Kingfisher Bay Resort &amp; Village)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002718-001">(1999) 29 MVR 225</ci:span>; [1999] NSWSC 633; <ci:span spanid="cr002719-002"> BC9904271</ci:span></citefragment> <remotelink dpsi="0018" refpt="300099" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> affirmed on this point <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2001"/></ci:caseinfo><ci:caseref ID="cr002720" spanref="cr002720-001"><ci:reporter value="NSWLR"/><ci:volume num="51"/><ci:page num="516"/></ci:caseref><ci:caseref anaphref="cr002720" spanref="cr002720-002" status="unval"><ci:pinpoint num="526" targettype="page"/></ci:caseref><ci:caseref ID="cr002721" spanref="cr002721-003"><ci:reporter value="urj"/><ci:refnum num="BC200102124"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">KBRV Resort Operations Pty Ltd (t/as Kingfisher Bay Resort &amp; Village) v Chilcott</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002720-001">(2001) 51 NSWLR 516</ci:span> <ci:span spanid="cr002720-002" status="unval">at 526</ci:span>; [2001] NSWCA 116; <ci:span spanid="cr002721-003"> BC200102124</ci:span></citefragment> <remotelink dpsi="0018" refpt="327528" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S140-10" leveltype="para0" subdoc="true" toc-caption="[s 140.10] Personal injury proceedings in the District Court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 140.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 140(3).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S140-10" type="ext"/>[s 140.10] </edpnum><title>Personal injury proceedings in the District Court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The power to transfer personal injury proceedings from the District Court to the Supreme Court is restricted by the terms of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S140.3" remotekey1="REFPTID" service="DOC-ID">s 140(3)</remotelink></ci:content></ci:cite>
+ of the CPA. In determining whether it is satisfied the likely award will exceed the relevant limit the relevant inquiry is as to the amount the plaintiff could reasonably expect to obtain: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002722" spanref="cr002722-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="1468"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Delponte; Re Thiess Bros Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002722-001" status="unval">[1965] NSWR 1468</ci:span></citefragment> <remotelink dpsi="0018" refpt="77446" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. In making that assessment the court does not try the issue. The fact that there is apparently acceptable evidence supporting the plaintiff's claim may suffice to provide the requisite satisfaction: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002723" spanref="cr002723-001"><ci:reporter value="urj"/><ci:refnum num="BC9700198"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bowditch v Hoey</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002723-001"> (NSWSC, Greenwood M, 6 February 1997, unreported, BC9700198)</ci:span></citefragment></ci:content></ci:cite>. But where the likely amount of the claim is contentious the statutory criterion requires the court to be affirmatively satisfied that any award of damages is likely to exceed the relevant limit: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002724" spanref="cr002724-001"><ci:reporter value="urj"/><ci:refnum num="BC201203281"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Younes v QIC Ltd t/as Westpoint Blacktown</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 451; <ci:span spanid="cr002724-001"> BC201203281</ci:span></citefragment> <remotelink dpsi="0018" refpt="553153" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. That kind of assessment is impressionistic. It involves more than mere acceptance of the apparent arguability, or even the good faith, of the plaintiff&#x2019;s claim. But it does not require the court to undertake a probability assessment of the individual components of the claim: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002725" spanref="cr002725-001"><ci:reporter value="urj"/><ci:refnum num="BC200603588"/></ci:caseref><ci:caseref anaphref="cr002725" spanref="cr002725-002"><ci:pinpoint num="23" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Johnstone v NSW</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWCA 105; <ci:span spanid="cr002725-001"> BC200603588</ci:span> <ci:span spanid="cr002725-002">at [23]</ci:span></citefragment> <remotelink dpsi="0018" refpt="416427" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The fact that the proceedings fall outside the jurisdiction of the District Court does not preclude the exercise of the power to transfer proceedings to the Supreme Court. Conversely, the absence of jurisdiction may be relied on to avoid the application of the restrictive monetary limits that would otherwise apply: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2001"/></ci:caseinfo><ci:caseref ID="cr002726" spanref="cr002726-001"><ci:reporter value="NSWLR"/><ci:volume num="51"/><ci:page num="516"/></ci:caseref><ci:caseref anaphref="cr002726" spanref="cr002726-002" status="unval"><ci:pinpoint num="526" targettype="page"/></ci:caseref><ci:caseref ID="cr002727" spanref="cr002727-003"><ci:reporter value="urj"/><ci:refnum num="BC200102124"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">KBRV Resort Operations Pty Ltd (t/as Kingfisher Bay Resort &amp; Village) v Chilcott</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002726-001">(2001) 51 NSWLR 516</ci:span> <ci:span spanid="cr002726-002" status="unval">at 526</ci:span>; [2001] NSWCA 116; <ci:span spanid="cr002727-003"> BC200102124</ci:span></citefragment> <remotelink dpsi="0018" refpt="327528" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S140-15" leveltype="para0" subdoc="true" toc-caption="[s 140.15] Examples of proceedings where transfer made"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S140-15" type="ext"/>[s 140.15] </edpnum><title>Examples of proceedings where transfer made</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The following are examples of cases where actions have been removed:</text>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>where there are concurrent proceedings in two courts and the proceedings in the lower court may give rise to an issue estoppel affecting the proceedings pending in the higher (ie, the proposed transferee) court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1954"/></ci:caseinfo><ci:caseref ID="cr002728" spanref="cr002728-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="55"/><ci:page num="334"/></ci:caseref><ci:caseref ID="cr002729" spanref="cr002729-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="72"/><ci:page num="298"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ritchie v Gumley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002728-001" status="unval">(1954) 55 SR (NSW) 334</ci:span>; <ci:span spanid="cr002729-002" status="unval">72 WN (NSW) 298</ci:span></citefragment> <remotelink dpsi="0018" refpt="73235" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1961"/></ci:caseinfo><ci:caseref ID="cr002730" spanref="cr002730-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1961"/></ci:edition><ci:page num="573"/></ci:caseref><ci:caseref ID="cr002731" spanref="cr002731-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="78"/><ci:page num="726"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Murray; Ex parte Hillman</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002730-001" status="unval">[1961] NSWR 573</ci:span>; <ci:span spanid="cr002731-002" status="unval">(1961) 78 WN (NSW) 726</ci:span></citefragment> <remotelink dpsi="0018" refpt="75301" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1968"/></ci:caseinfo><ci:caseref ID="cr002732" spanref="cr002732-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1968"/></ci:edition><ci:page num="772"/></ci:caseref><ci:caseref ID="cr002733" spanref="cr002733-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="88"/><ci:page num="176"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Australian General Disinfectant Co Pty Ltd; Ex parte Hancock</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002732-001" status="unval">[1968]
+2 NSWR 772</ci:span>; <ci:span spanid="cr002733-002" status="unval">(1968) 88 WN (NSW) 176</ci:span></citefragment> <remotelink dpsi="0018" refpt="79000" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>where the damages are likely to exceed the lower court&#x2019;s jurisdictional limits, especially where the risk has become apparent since the commencement of the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1960"/></ci:caseinfo><ci:caseref ID="cr002734" spanref="cr002734-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1961"/></ci:edition><ci:page num="912"/></ci:caseref><ci:caseref ID="cr002735" spanref="cr002735-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="77"/><ci:page num="671"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Weissberger; Re Krejzar</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002734-001" status="unval">[1961] NSWR 912</ci:span>; <ci:span spanid="cr002735-002" status="unval">(1960) 77 WN (NSW) 671</ci:span></citefragment> <remotelink dpsi="0018" refpt="75324" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002736" spanref="cr002736-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1962"/></ci:edition><ci:page num="91"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte O'Flynn; Re George Pearse Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002736-001" status="unval">[1962] NSWR 91</ci:span></citefragment> <remotelink dpsi="0018" refpt="75321" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002737" spanref="cr002737-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="1468"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Delponte; Re Thiess Bros Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002737-001" status="unval">[1965] NSWR 1468</ci:span></citefragment> <remotelink dpsi="0018" refpt="77446" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1967"/></ci:caseinfo><ci:caseref ID="cr002738" spanref="cr002738-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1967"/></ci:edition><ci:page num="257"/></ci:caseref><ci:caseref anaphref="cr002738" spanref="cr002738-002" status="unval"><ci:pinpoint num="258" targettype="page"/></ci:caseref><ci:caseref ID="cr002739" spanref="cr002739-003" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="67"/><ci:page num="411"/></ci:caseref><ci:caseref anaphref="cr002739" spanref="cr002739-004" status="unval"><ci:pinpoint num="41" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Kadic v Thiess Bros Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002738-001" status="unval">[1967] 2 NSWR 257</ci:span> <ci:span spanid="cr002738-002" status="unval">at 258</ci:span>; <ci:span spanid="cr002739-003" status="unval">(1967) 67 SR (NSW) 411</ci:span> <ci:span spanid="cr002739-004" status="unval">at 412</ci:span></citefragment> <remotelink dpsi="0018" refpt="74603" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (applicant should demonstrate the probability of exceeding the jurisdictional limit);</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>where there are significant procedural advantages in the transferee court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1897"/></ci:caseinfo><ci:caseref ID="cr002740" spanref="cr002740-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="13"/><ci:page num="170"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Heiliger</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002740-001" status="unval">(1897) 13 WN (NSW) 170</ci:span></citefragment> <remotelink dpsi="0018" refpt="178146" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (the availability of evidence being taken on commission overseas);</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>where the proceedings involve complex and important issues of law or fact: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1852"/></ci:caseinfo><ci:caseref ID="cr002741" spanref="cr002741-001" status="unval"><ci:reporter value="Exch"/><ci:volume num="8"/><ci:page num="203"/></ci:caseref><ci:caseref ID="cr002742" spanref="cr002742-002" status="unval"><ci:reporter value="ER"/><ci:volume num="155"/><ci:page num="1320"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Longbottom v Longbottom</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002741-001" status="unval">(1852) 8 Exch 203</ci:span>; <ci:span spanid="cr002742-002" status="unval">155 ER 1320</ci:span></citefragment></ci:content></ci:cite> (bequest by will); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1894"/></ci:caseinfo><ci:caseref ID="cr002743" spanref="cr002743-001" status="unval"><ci:reporter value="TLR"/><ci:volume num="10"/><ci:page num="380"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Potter v Great Western Colliery Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002743-001" status="unval">(1894) 10 TLR 380</ci:span></citefragment> <remotelink dpsi="0018" refpt="132148" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (negligence and expert evidence); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002744" spanref="cr002744-001" status="unval"><ci:reporter value="KB"/><ci:volume num="2"/><ci:edition><ci:date year="1911"/></ci:edition><ci:page num="412"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Donkin v Pearson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002744-001" status="unval">[1911]
+2 KB 412</ci:span></citefragment> <remotelink dpsi="0018" refpt="226541" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (right of a trade union to sue or be sued, whether trade union an unlawful combination by reason of its objects being in restraint of trade); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002745" spanref="cr002745-001"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1941"/></ci:edition><ci:page num="30"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Clavering v Conduit Mead Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002745-001">[1941] 1 All ER 30</ci:span></citefragment></ci:content></ci:cite> (first time Act construed, large claim, expert evidence); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1967"/></ci:caseinfo><ci:caseref ID="cr002746" spanref="cr002746-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1967"/></ci:edition><ci:page num="125"/></ci:caseref><ci:caseref ID="cr002747" spanref="cr002747-002" status="unval"><ci:reporter value="WNPt1NSW"/><ci:volume num="85"/><ci:page num="642"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Dusmanovic</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002746-001" status="unval">[1967] 2 NSWR 125</ci:span>; <ci:span spanid="cr002747-002" status="unval">(1967) 85 WN (Pt 1) (NSW) 642</ci:span></citefragment> <remotelink dpsi="0018" refpt="78453" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (important issues of equitable principle);</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>where the proceedings involve allegations of significant notoriety or public importance: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1886"/></ci:caseinfo><ci:caseref ID="cr002748" spanref="cr002748-001" status="unval"><ci:reporter value="LJQB"/><ci:volume num="56"/><ci:page num="92"/></ci:caseref><ci:caseref ID="cr002749" spanref="cr002749-002" status="unval"><ci:reporter value="LT"/><ci:volume num="56"/><ci:page num="24"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Simpson v Shaw</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002748-001" status="unval">(1886) 56 LJQB 92</ci:span>; <ci:span spanid="cr002749-002" status="unval">56 LT 24</ci:span></citefragment></ci:content></ci:cite>; and</text></p></li>
+<li>
+<lilabel>(f)</lilabel>
+<p><text>where the proceedings in one court may give rise to issue estoppel in proceedings in the other court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002750" spanref="cr002750-001"><ci:reporter value="urj"/><ci:refnum num="BC200702781"/></ci:caseref><ci:caseref anaphref="cr002750" spanref="cr002750-002"><ci:pinpoint num="13" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ryner Pty Ltd v Roller</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 372; <ci:span spanid="cr002750-001"> BC200702781</ci:span> <ci:span spanid="cr002750-002">at [13]</ci:span></citefragment> <remotelink dpsi="0018" refpt="435701" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (proceedings in District Court for money claim to be heard before proceedings in Supreme Court for possession of land
+&#x2014; issue estoppel may be created in favour of successful party in District Court).</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S140-20" leveltype="para0" subdoc="true" toc-caption="[s 140.20] Examples of proceedings where transfer refused"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S140-20" type="ext"/>[s 140.20] </edpnum><title>Examples of proceedings where transfer refused</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In the following cases the court refused to make an order:</text>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>where judgment has been entered in the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1970"/></ci:caseinfo><ci:caseref ID="cr002751" spanref="cr002751-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1970"/></ci:edition><ci:page num="24"/></ci:caseref><ci:caseref ID="cr002752" spanref="cr002752-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="92"/><ci:page num="377"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Sabbatini; Re Australian Iron &amp; Steel Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002751-001" status="unval">[1970] 2 NSWR 24</ci:span>; <ci:span spanid="cr002752-002" status="unval">(1970) 92 WN (NSW) 377</ci:span></citefragment> <remotelink dpsi="0018" refpt="79585" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Similarly, part heard proceedings will rarely be transferred: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1967"/></ci:caseinfo><ci:caseref ID="cr002753" spanref="cr002753-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1967"/></ci:edition><ci:page num="257"/></ci:caseref><ci:caseref anaphref="cr002753" spanref="cr002753-002" status="unval"><ci:pinpoint num="259" targettype="page"/></ci:caseref><ci:caseref ID="cr002754" spanref="cr002754-003" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="67"/><ci:page num="411"/></ci:caseref><ci:caseref anaphref="cr002754" spanref="cr002754-004" status="unval"><ci:pinpoint num="414" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Kadic v Thiess Bros Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002753-001" status="unval">[1967] 2 NSWR 257</ci:span> <ci:span spanid="cr002753-002" status="unval">at 259</ci:span>; <ci:span spanid="cr002754-003" status="unval">(1967) 67 SR (NSW) 411</ci:span> <ci:span spanid="cr002754-004" status="unval">at 414</ci:span></citefragment> <remotelink dpsi="0018" refpt="74603" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>where the plaintiff had deliberately commenced proceedings in the lower court despite its jurisdictional limitation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002755" spanref="cr002755-001" status="unval"><ci:reporter value="Ch"/><ci:volume num="1"/><ci:edition><ci:date year="1923"/></ci:edition><ci:page num="515"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Giusti Patents and Engineering Works Ltd v Maggs</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002755-001" status="unval">[1923] 1 Ch 515</ci:span></citefragment> <remotelink dpsi="0018" refpt="75724" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>: contrast <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002756" spanref="cr002756-001" status="unval"><ci:reporter value="KB"/><ci:volume num="2"/><ci:edition><ci:date year="1912"/></ci:edition><ci:page num="398"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">General Estates Co v Beaver</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002756-001" status="unval">[1912] 2 KB 398</ci:span></citefragment> <remotelink dpsi="0018" refpt="4485" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (proceedings mistakenly remitted to the lower court despite its jurisdictional limitation);</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>where a plaintiff-applicant had misconducted or delayed the proceedings to the detriment of the opposing party: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002757" spanref="cr002757-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="1468"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Delponte; Re Thiess Bros Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002757-001" status="unval">[1965] NSWR 1468</ci:span></citefragment> <remotelink dpsi="0018" refpt="77446" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002758" spanref="cr002758-001"><ci:reporter value="urj"/><ci:refnum num="BC9606107"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Luchko v Nguyen</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002758-001"> (NSWSC, Greenwood M, No 13904/96, 25 November 1996, unreported, BC9606107)</ci:span></citefragment></ci:content></ci:cite>;</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>where there were concurrent proceedings in both courts but they involved different parties and had material differences in factual issues: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002759" spanref="cr002759-001"><ci:reporter value="urj"/><ci:refnum num="BC200604951"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Harbourside Catering Pty Ltd v TMG Development Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006]
+NSWSC 631; <ci:span spanid="cr002759-001"> BC200604951</ci:span></citefragment> <remotelink dpsi="0018" refpt="418891" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002760" spanref="cr002760-001"><ci:reporter value="urj"/><ci:refnum num="BC201004664"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">United Card Services Pty Ltd v Object Consulting Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWSC 743; <ci:span spanid="cr002760-001"> BC201004664</ci:span></citefragment> <remotelink dpsi="0018" refpt="498606" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (Local Court proceedings &#x2014; delay in making the application, no evidence of lack of jurisdiction &#x2014; no <emph typestyle="it">res judicata</emph> or issue estoppel if Local Court proceedings determined first).</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>where there were concurrent proceedings between the same parties in both courts but the matters were not sufficiently connected to be brought into one set of proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002761" spanref="cr002761-001"><ci:reporter value="urj"/><ci:refnum num="BC200800484"/></ci:caseref><ci:caseref anaphref="cr002761" spanref="cr002761-002"><ci:pinpoint num="14" targettype="para"/></ci:caseref><ci:caseref anaphref="cr002761" spanref="cr002761-003"><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Tadros v J &amp; R Investment Services Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWSC 63; <ci:span spanid="cr002761-001"> BC200800484</ci:span> <ci:span spanid="cr002761-002">at [14]</ci:span> <ci:span spanid="cr002761-003">and [15]</ci:span></citefragment> <remotelink dpsi="0018" refpt="451377" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; </text></p></li>
+<li>
+<lilabel>(f)</lilabel>
+<p><text>where there were conflicting decisions in the lower court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1887"/></ci:caseinfo><ci:caseref ID="cr002762" spanref="cr002762-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="4"/><ci:page num="78"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Fox v Ashwin (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002762-001" status="unval">(1887) 4 WN (NSW) 78</ci:span></citefragment></ci:content></ci:cite>;</text></p></li>
+<li>
+<lilabel>(g)</lilabel>
+<p><text>where the amounts in issue were modest and transfer was likely to increase costs unnecessarily: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002763" spanref="cr002763-001"><ci:reporter value="urj"/><ci:refnum num="BC200607793"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Trilogy Corporate Solutions Pty Ltd v Fitzroy Shopfitting and Building Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 1026; <ci:span spanid="cr002763-001"> BC200607793</ci:span></citefragment> <remotelink dpsi="0018" refpt="424895" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (removal from District Court to the Supreme Court was sought in order to enliven provisions under cross-vesting legislation to allow consolidation of NSW and Victorian proceedings in NSW Supreme Court &#x2014; no risk of inconsistent judgments in the proceedings);</text></p></li>
+<li>
+<lilabel>(h)</lilabel>
+<p><text>where there was no demonstrable advantage to proceedings being conducted in the higher court, even though the proceedings involved the credibility of a solicitor: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1958"/></ci:caseinfo><ci:caseref ID="cr002764" spanref="cr002764-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="75"/><ci:page num="519"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte McIntosh; Re Frey</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002764-001" status="unval">(1958) 75 WN (NSW) 519</ci:span></citefragment> <remotelink dpsi="0018" refpt="75322" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Else-Mitchell J.</text></p></li>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>where the proceedings involve a statutory jurisdiction conferred only on the District or Local Court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2010"/></ci:caseinfo><ci:caseref ID="cr002765" spanref="cr002765-001"><ci:reporter value="NSWLR"/><ci:volume num="77"/><ci:page num="601"/></ci:caseref><ci:caseref ID="cr002766" spanref="cr002766-002"><ci:reporter value="urj"/><ci:refnum num="BC201004121"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rinbac Pty Ltd v Owners Corp Strata Plan 64972</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002765-001">(2010) 77 NSWLR 601</ci:span>; [2010] NSWSC 656; <ci:span spanid="cr002766-002"> BC201004121</ci:span></citefragment> <remotelink dpsi="0018" refpt="497360" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (appeal proceedings under s 200 of the Strata Scheme Management Act 1996).</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S140-25" leveltype="para0" subdoc="true" toc-caption="[s 140.25] Who may apply for removal"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S140-25" type="ext"/>[s 140.25] </edpnum><title>Who may apply for removal</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Either party may apply for removal and it is not material that the party seeking removal invoked the jurisdiction of the District Court and assented to its exercise: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002767" spanref="cr002767-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1962"/></ci:edition><ci:page num="91"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte O'Flynn; Re George Pearse Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002767-001" status="unval">[1962] NSWR 91</ci:span></citefragment> <remotelink dpsi="0018" refpt="75321" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, per Wallace J confirmed on appeal in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002768" spanref="cr002768-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1963"/></ci:edition><ci:page num="102"/></ci:caseref><ci:caseref ID="cr002769" spanref="cr002769-002" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="62"/><ci:edition><ci:date year="1962"/></ci:edition><ci:page num="400"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">George Pearse Pty Ltd v O'Flynn</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002768-001" status="unval">[1963] NSWR 102</ci:span>; <ci:span spanid="cr002769-002" status="unval">[1962] SR (NSW) 400</ci:span></citefragment> <remotelink dpsi="0018" refpt="75723" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S140-30" leveltype="para0" subdoc="true" toc-caption="[s 140.30] Terms as to costs"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S140-30" type="ext"/>[s 140.30] </edpnum><title>Terms as to costs</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Terms may be imposed on the transfer of the proceedings. Terms may include a restriction on the recovery of any additional costs attributable to the conduct of proceedings in the transferee court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1867"/></ci:caseinfo><ci:caseref ID="cr002770" spanref="cr002770-001" status="unval"><ci:reporter value="SCRNSW"/><ci:volume num="7"/><ci:page num="21"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Palmer v Whitfield</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002770-001" status="unval">(1867) 7 SCR (NSW) 21</ci:span></citefragment></ci:content></ci:cite> (transfer after two trials, and consequential appeals, proceedings transferred on defendant&#x2019;s application); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002771" spanref="cr002771-001" status="unval"><ci:reporter value="KB"/><ci:volume num="2"/><ci:edition><ci:date year="1911"/></ci:edition><ci:page num="412"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Donkin v Pearson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002771-001" status="unval">[1911] 2 KB 412</ci:span></citefragment> <remotelink dpsi="0018" refpt="226541" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (trade union defendant applicant &#x2014; impecunious plaintiff); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002772" spanref="cr002772-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="1468"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Delponte; Re Thiess Bros Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002772-001" status="unval">[1965] NSWR 1468</ci:span></citefragment> <remotelink dpsi="0018" refpt="77446" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (plaintiff applicant). Such terms may also include the payment of outstanding costs orders and the payment of costs incurred up to the transfer: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002773" spanref="cr002773-001"><ci:reporter value="urj"/><ci:refnum num="BC200702781"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ryner Pty Ltd v Roller</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 372; <ci:span spanid="cr002773-001"> BC200702781</ci:span></citefragment> <remotelink dpsi="0018" refpt="435701" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (defendant to pay outstanding costs from consent order and to pay the plaintiff&#x2019;s costs in the District Court proceedings until the transfer of proceedings to the Supreme Court).</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S140-35" leveltype="para0" subdoc="true" toc-caption="[s 140.35] Expedition and priority"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S140-35" type="ext"/>[s 140.35] </edpnum><title>Expedition and priority</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where proceedings have been properly commenced in the District Court and are subsequently transferred to the Supreme Court because the likely damages will exceed the jurisdictional limits of the District Court, a plaintiff should not suffer any loss of priority as a result of the transfer of proceedings: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Callanan v Lithgow Valley Colliery Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWSC, Sharpe J, 8 December 1989, unreported)</citefragment></ci:content></ci:cite>. This general proposition is, however, subject to any procedural directions appropriate to the proper conduct of the transferred proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002774" spanref="cr002774-001"><ci:reporter value="urj"/><ci:refnum num="BC200702781"/></ci:caseref><ci:caseref anaphref="cr002774" spanref="cr002774-002"><ci:pinpoint num="28" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ryner Pty Ltd v Roller</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007]
+NSWSC 372; <ci:span spanid="cr002774-001"> BC200702781</ci:span> <ci:span spanid="cr002774-002">at [28]</ci:span></citefragment> <remotelink dpsi="0018" refpt="435701" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (addition of parties to the transferred proceedings).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S141"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 141] s 141 Transfer orders (cf Act No 9 1973, section 145; Act No 11 1970, section 21B)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S141" type="ext"/>[s 141]</edpnum><title searchtype="SECT-TITLE">Transfer orders (cf Act No 9 1973, section 145; Act No 11 1970, section 21B)</title><desig searchtype="SECT-NUM"><designum>141</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S141.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S141.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A transfer order takes effect when it is made.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S141.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S141.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A transfer order does not invalidate any order made or other thing done in the proceedings before the order was made.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 56 of 2007 s 3 and Sch 2[5], effective 28 January 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S141.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S141.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any order made by the lower court may be varied or revoked by an order of the higher court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S142"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 142] s 142 Stay of proceedings in lower court (cf Act No 9 1973, section 146; Act No 11 1970, section 21C)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S142" type="ext"/>[s 142]</edpnum><title searchtype="SECT-TITLE">Stay of proceedings in lower court (cf Act No 9 1973, section 146; Act No 11 1970, section 21C)</title><desig searchtype="SECT-NUM"><designum>142</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S142.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S142.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The higher court may make an order for a stay of proceedings in respect of which an application for a transfer order has been made.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S142.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S142.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (1) does not limit the power of the lower court to adjourn or stay the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S143"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 143] s 143 Proceedings after transfer (cf Act No 11 1970, section 21E; DCR Part 5, rule 12)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S143" type="ext"/>[s 143]</edpnum><title searchtype="SECT-TITLE">Proceedings after transfer (cf Act No 11 1970, section 21E; DCR Part 5, rule 12)</title><desig searchtype="SECT-NUM"><designum>143</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S143.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S143.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the rules of court applicable in the higher court, any proceedings with respect to which a transfer order takes effect are to be continued in the higher court:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S143.1.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S143.1.A" type="ext"/>(a)</lilabel>
+<p><text>as if the proceedings had been duly commenced in the higher court on the date on which they were commenced in the lower court, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S143.1.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S143.1.B" type="ext"/>(b)</lilabel>
+<p><text>as if any cross-claim in the proceedings had been duly made in the higher court on the date on which it was made in the lower court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S143.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S143.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of any proceedings continued in the higher court:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S143.2.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S143.2.A" type="ext"/>(a)</lilabel>
+<p><text>any abandonment of an amount under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S23" remotekey1="REFPTID" service="DOC-ID">section 23</remotelink></ci:content></ci:cite>
+ ceases to have effect except to the extent to which the amount originally claimed in the proceedings, or in any cross-claim in the proceedings, exceeded the jurisdictional limit of the higher court, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S143.2.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S143.2.B" type="ext"/>(b)</lilabel>
+<p><text>any admission duly made in the lower court is to be treated as if it had been duly made in the higher court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S143.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S143.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the rules of court applicable in the higher court, the power of the higher court to make orders as to costs includes a power to make orders with respect to the costs of:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S143.3.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S143.3.A" type="ext"/>(a)</lilabel>
+<p><text>the application for, and the making of, the transfer order, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S143.3.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S143.3.B" type="ext"/>(b)</lilabel>
+<p><text>any step taken in the proceedings before the transfer order was made.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S144"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 144] s 144 Transfer of certain proceedings from District Court to Supreme Court (cf Act No 9 1973, section 147)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S144" type="ext"/>[s 144]</edpnum><title searchtype="SECT-TITLE">Transfer of certain proceedings from District Court to Supreme Court (cf Act No 9 1973, section 147)</title><desig searchtype="SECT-NUM"><designum>144</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S144.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S144.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies to proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3.D8.SUBD2" remotekey1="REFPTID" service="DOC-ID" status="unval">Subdivision 2</remotelink></ci:content></ci:cite>
+ of Division 8 of Part 3 of the District Court Act 1973.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S144.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S144.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, during proceedings to which this section applies, the District Court decides that it lacks, or may lack, jurisdiction to hear and dispose of the proceedings, the District Court must order that the proceedings be transferred to the Supreme Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S144.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S144.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings that are transferred to the Supreme Court under subsection (2):</text></p>
+<l><li id="UCPN.CPA.CPAN05.S144.3.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S144.3.A" type="ext"/>(a)</lilabel>
+<p><text>are to be continued in the Supreme Court:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S144.3.A.I"><lilabel><refpt id="UCPN.CPA.CPAN05.S144.3.A.I" type="ext"/>(i)</lilabel>
+<p><text>as if the proceedings had been duly commenced in the Supreme Court on the date on which they were commenced in the District Court, and</text></p>
+</li><li id="UCPN.CPA.CPAN05.S144.3.A.II"><lilabel><refpt id="UCPN.CPA.CPAN05.S144.3.A.II" type="ext"/>(ii)</lilabel>
+<p><text>as if any cross-claim in the proceedings had been duly made in the Supreme Court on the date on which it was made in the District Court, or</text></p>
+</li></l></li>
+<li id="UCPN.CPA.CPAN05.S144.3.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S144.3.B" type="ext"/>(b)</lilabel>
+<p><text>if the Supreme Court so orders, are to be remitted to the District Court and continued in the District Court as if they had not been transferred.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S144.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S144.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The District Court has, and may exercise, jurisdiction to hear and dispose of proceedings the subject of an order by the Supreme Court under subsection (3)(b), including such jurisdiction as is necessary to determine any question arising in any such proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S144.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S144.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, during proceedings to which this section applies, the District Court decides that it is appropriate to do so for any reason other than the reason referred to in subsection (2), the District Court may order that the proceedings be transferred to the Supreme Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S144.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S144.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings that are transferred to the Supreme Court under subsection (5), are to be continued in the Supreme Court:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S144.6.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S144.6.A" type="ext"/>(a)</lilabel>
+<p><text>as if the proceedings had been duly commenced in the Supreme Court on the date on which they were commenced in the District Court, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S144.6.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S144.6.B" type="ext"/>(b)</lilabel>
+<p><text>as if any cross-claim in the proceedings had been duly made in the Supreme Court on the date on which it was made in the District Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S144.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S144.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the rules of court applicable in the Supreme Court, the power of the Supreme Court to make orders as to costs includes a power to make orders with respect to the costs of:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S144.7.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S144.7.A" type="ext"/>(a)</lilabel>
+<p><text>the application for, and the making of, an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S144.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S144.5" remotekey1="REFPTID" service="DOC-ID">(5)</remotelink></ci:content></ci:cite>
+, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S144.7.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S144.7.B" type="ext"/>(b)</lilabel>
+<p><text>any step taken in the proceedings before an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S144.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S144.5" remotekey1="REFPTID" service="DOC-ID">(5)</remotelink></ci:content></ci:cite>
+ was made.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (7)  am Act 56 of 2007 s 3 and Sch 2[6], effective 28 January 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S144.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S144.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The making of an order under subsection (2) or (5) does not invalidate any order previously made by the District Court in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

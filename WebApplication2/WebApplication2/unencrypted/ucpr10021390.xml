@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 2 EQUITY DIVISION OF THE SUPREME COURT: GENERAL [rr 46.10&#x2013;46.18]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT46.D2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 46 ACCOUNTS AND INQUIRIES [rr 46.1&#x2013;46.28]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 2 EQUITY DIVISION OF THE SUPREME COURT: GENERAL [rr 46.10&#x2013;46.18]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50011300</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN.UCPR.UCPRN05.PT46"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 46 ACCOUNTS AND INQUIRIES [rr 46.1&#x2013;46.28]"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT46.D2"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 2 EQUITY DIVISION OF THE SUPREME COURT: GENERAL [rr 46.10&#x2013;46.18]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT46.D2" type="ext"/>DIVISION 2</designum></desig><title searchtype="DIV-TITLE">EQUITY DIVISION OF THE SUPREME COURT: GENERAL [rr 46.10&#x2013;46.18]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.10] r 46.10 Application (cf SCR Part 49, rule 1)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-10" type="ext"/>[r 46.10]</edpnum><title searchtype="RUL-TITLE">Application (cf SCR Part 49, rule 1)</title><desig searchtype="RUL-NUM"><designum>46.10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Division applies to proceedings in the Equity Division of the Supreme Court, other than proceedings entered in the following lists:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-10..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-10..A" type="ext"/>(a)</lilabel>
+<p><text>the Admiralty List,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-10..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-10..B" type="ext"/>(b)</lilabel>
+<p><text>the Commercial List,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-10..C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-10..C" type="ext"/>(c)</lilabel>
+<p><text>the Probate List,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-10..D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-10..D" type="ext"/>(d)</lilabel>
+<p><text>the Protective List,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-10..E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-10..E" type="ext"/>(e)</lilabel>
+<p><text>the Technology and Construction List,</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.46-11"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.11] r 46.11 Motion to proceed (cf SCR Part 49, rule 2)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.46-11" type="ext"/>[r 46.11]</edpnum><title searchtype="RUL-TITLE">Motion to proceed (cf SCR Part 49, rule 2)</title><desig searchtype="RUL-NUM"><designum>46.11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a judgment contains directions as to any account, inquiry or other matter under the judgment, any party may, after entry of the judgment, move the Supreme Court to proceed under the judgment.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.46-11.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-11-5" leveltype="para0" subdoc="true" toc-caption="[46.11.5] Factors to be taken into account"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-11-5" type="ext"/>[46.11.5] </edpnum><title>Factors to be taken into account</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The court&#x2019;s discretion whether to order an inquiry which is sought is to be exercised having regard to CPA s 58, which requires the court in determining whether to make an order for the management of proceedings, including any order of a procedural nature, to seek to act in accordance with the dictates of justice: for an example of the considerations a court will take into account in making such an order to proceed: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011275" spanref="cr011275-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC201202989"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gerard Cassegrain &amp; Co Pty Ltd v Cassegrain</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 285; <ci:span spanid="cr011275-001" status="unval"> BC201202989</ci:span></citefragment> <remotelink dpsi="0018" refpt="552537" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (order sought under UCPR r 46.11 that court proceed in accordance with orders made to carry out an inquiry &#x2014; appeals in Court of Appeal and reserved judgment in proceedings in Equity Division &#x2014; need to balance advantages of proceeding with an inquiry against disadvantages &#x2014; advantages of finality and of avoiding possible duplication of appeals &#x2014; order and directions for inquiry).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-12"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.12] r 46.12 Notice of judgment (cf SCR Part 49, rule 3)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-12" type="ext"/>[r 46.12]</edpnum><title searchtype="RUL-TITLE">Notice of judgment (cf SCR Part 49, rule 3)</title><desig searchtype="RUL-NUM"><designum>46.12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-12.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-12.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to a judgment in proceedings for:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-12.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.1.A" type="ext"/>(a)</lilabel>
+<p><text>the administration of the estate of a deceased person, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-12.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.1.B" type="ext"/>(b)</lilabel>
+<p><text>the execution of a trust, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-12.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.1.C" type="ext"/>(c)</lilabel>
+<p><text>the sale of property.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-12.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-12.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Supreme Court gives a judgment:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-12.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.2.A" type="ext"/>(a)</lilabel>
+<p><text>affecting the rights or interests of a person who is not a party, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-12.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.2.B" type="ext"/>(b)</lilabel>
+<p><text>for the taking of an account or the making of an inquiry,</text></p>
+</li>
+</l>
+<p><text>the Court may, by the judgment or by subsequent order:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-12.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.2.C" type="ext"/>(c)</lilabel>
+<p><text>give directions for service of notice of the judgment on any person interested, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-12.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.2.D" type="ext"/>(d)</lilabel>
+<p><text>if it appears to be impracticable to serve notice of the judgment on any person interested, dispense with service on him or her.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-12.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-12.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-12.2.C" remotekey1="REFPTID" service="DOC-ID">subrule (2)(c)</remotelink></ci:content></ci:cite>
+, the Supreme Court may direct that notice be served personally or in some other manner.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-12.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-12.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, under this rule, notice of a judgment is served on a person, or the Supreme Court dispenses with service of notice of a judgment on a person:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-12.4.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.4.A" type="ext"/>(a)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-12.4.B" remotekey1="REFPTID" service="DOC-ID">paragraph (b)</remotelink></ci:content></ci:cite>
+, he or she is bound by the judgment to the same extent as if he or she were a party at the time when the judgment was given, except where the judgment has been obtained by fraud or non-disclosure of material facts,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-12.4.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.4.B" type="ext"/>(b)</lilabel>
+<p><text>the Court may, on application by him or her on notice of motion filed within the time limited by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-12.5" remotekey1="REFPTID" service="DOC-ID">subrule (5)</remotelink></ci:content></ci:cite>
+, discharge or vary the judgment or order,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-12.4.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.4.C" type="ext"/>(c)</lilabel>
+<p><text>he or she may attend the accounts, inquiries or other matters under the judgment.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-12.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-12.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notice of a motion under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-12.4" remotekey1="REFPTID" service="DOC-ID">subrule (4)(b)</remotelink></ci:content></ci:cite>
+ must be filed:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-12.5..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.5..A" type="ext"/>(a)</lilabel>
+<p><text>if notice of the judgment has been served on the applicant, within 28 days after the date of service, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-12.5..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-12.5..B" type="ext"/>(b)</lilabel>
+<p><text>if the Supreme Court has dispensed with service of notice of the judgment on him or her, within 28 days after the date of the order dispensing with service.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT46.R12.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-12-5" leveltype="para0" subdoc="true" toc-caption="[46.12.5] Non-parties"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-12-5" type="ext"/>[46.12.5] </edpnum><title>Non-parties</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The purpose of this rule is to seek to bind non-parties where they would not otherwise be bound. As to the effect of service of a notice under this rule: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011276" spanref="cr011276-001" status="unval"><ci:reporter value="Ch"/><ci:volume num="1"/><ci:edition><ci:date year="1897"/></ci:edition><ci:page num="511"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Continental Oxygen Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011276-001" status="unval">[1897] 1 Ch 511</ci:span></citefragment> <remotelink dpsi="0018" refpt="277650" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011277" spanref="cr011277-001" status="unval"><ci:reporter value="P"/><ci:edition><ci:date year="1895"/></ci:edition><ci:page num="87"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Young v Holloway</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011277-001" status="unval">[1895] P 87</ci:span></citefragment> <remotelink dpsi="0018" refpt="76842" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1892"/></ci:caseinfo><ci:caseref ID="cr011278" spanref="cr011278-001" status="unval"><ci:reporter value="LT"/><ci:volume num="66"/><ci:page num="151"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Parkes</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011278-001" status="unval">(1892) 66 LT 151</ci:span></citefragment></ci:content></ci:cite>. The rule only covers cases where the person served is not already bound by the order, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1885"/></ci:caseinfo><ci:caseref ID="cr011279" spanref="cr011279-001" status="unval"><ci:reporter value="ChD"/><ci:volume num="30"/><ci:page num="421"/></ci:caseref><ci:caseref anaphref="cr011279" spanref="cr011279-002" status="unval"><ci:pinpoint num="431" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Youngs</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011279-001" status="unval">(1885) 30 Ch D 421</ci:span> <ci:span spanid="cr011279-002" status="unval">at 431</ci:span></citefragment> <remotelink dpsi="0018" refpt="149377" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, or upon persons who had an interest in the judgment at the date of the order, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1863"/></ci:caseinfo><ci:caseref ID="cr011280" spanref="cr011280-001" status="unval"><ci:reporter value="WR"/><ci:volume num="11"/><ci:page num="355"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Colyer v Colyer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011280-001" status="unval">(1863) 11 WR 355</ci:span></citefragment></ci:content></ci:cite>. The rule can be applied where there has been a change brought about by death or bankruptcy of a person already served with a notice under this rule, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011281" spanref="cr011281-001" status="unval"><ci:reporter value="WN"/><ci:edition><ci:date year="1888"/></ci:edition><ci:page num="9"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Wicks</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011281-001" status="unval">[1888] WN 9</ci:span></citefragment></ci:content></ci:cite>; cf <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1866"/></ci:caseinfo><ci:caseref ID="cr011282" spanref="cr011282-001" status="unval"><ci:reporter value="Beav"/><ci:volume num="35"/><ci:page num="304"/></ci:caseref><ci:caseref ID="cr011283" spanref="cr011283-002" status="unval"><ci:reporter value="ER"/><ci:volume num="55"/><ci:page num="913"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">White v Stewart</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011282-001" status="unval">(1866) 35 Beav 304</ci:span>; <ci:span spanid="cr011283-002" status="unval">55 ER 913</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-13"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.13] r 46.13 Directions (cf SCR Part 49, rule 4)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-13" type="ext"/>[r 46.13]</edpnum><title searchtype="RUL-TITLE">Directions (cf SCR Part 49, rule 4)</title><desig searchtype="RUL-NUM"><designum>46.13</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On the hearing of a motion to proceed under a judgment, the Supreme Court may give directions as to the conduct of the proceedings, including directions as to the material that may be used as evidence.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-14"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.14] r 46.14 Representation of parties (cf SCR Part 49, rule 5)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-14" type="ext"/>[r 46.14]</edpnum><title searchtype="RUL-TITLE">Representation of parties (cf SCR Part 49, rule 5)</title><desig searchtype="RUL-NUM"><designum>46.14</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On the hearing of a motion to proceed under a judgment or subsequently, the Supreme Court:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-14..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-14..A" type="ext"/>(a)</lilabel>
+<p><text>may require parties whose interests are similar to be represented by the same solicitor and nominate a solicitor to represent them, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-14..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-14..B" type="ext"/>(b)</lilabel>
+<p><text>may require that parties represented by the same solicitor be separately represented.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-15"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.15] r 46.15 Costs of attendance (cf SCR Part 49, rule 6)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-15" type="ext"/>[r 46.15]</edpnum><title searchtype="RUL-TITLE">Costs of attendance (cf SCR Part 49, rule 6)</title><desig searchtype="RUL-NUM"><designum>46.15</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Supreme Court may order, on terms, that the costs to be incurred by any party of and incidental to his or her attendance on the account, inquiry or other matter under the judgment are to be paid out of the estate or property to which the proceedings relate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-16"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.16] r 46.16 Settlement of instrument (cf SCR Part 49, rule 7)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-16" type="ext"/>[r 46.16]</edpnum><title searchtype="RUL-TITLE">Settlement of instrument (cf SCR Part 49, rule 7)</title><desig searchtype="RUL-NUM"><designum>46.16</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the judgment directs the settlement of an instrument, the Supreme Court may give directions for the preparation and service of a draft instrument and of objections to the draft.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-17"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.17] r 46.17 Interest on debts (cf SCR Part 49, rule 8)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-17" type="ext"/>[r 46.17]</edpnum><title searchtype="RUL-TITLE">Interest on debts (cf SCR Part 49, rule 8)</title><desig searchtype="RUL-NUM"><designum>46.17</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-17.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-17.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to the taking of an account of the debts of a deceased person pursuant to a direction in a judgment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-17.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-17.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If any of the debts carries interest at any rate, interest is to be allowed on that debt at that rate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-17.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-17.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In the case of a debt to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-17.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+ does not apply, interest is to be allowed on the debt at the relevant rate of interest prescribed by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R36-7.1" remotekey1="REFPTID" service="DOC-ID">rule 36.7(1)</remotelink></ci:content></ci:cite>
+ for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPR.CPA.CPAN05.S101" remotekey1="REFPTID" service="DOC-ID" status="unval">section 101</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005 , or such lesser rate as the court may determine, from the date when the judgment takes effect on so much of the debt as is from time to time unpaid.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  am Amendment 32 of 2010  Sch 1[7], [8] effective 1 July 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-17.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-17.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-17.2" remotekey1="REFPTID" service="DOC-ID">Subrules (2)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-17.3" remotekey1="REFPTID" service="DOC-ID">(3)</remotelink></ci:content></ci:cite>
+ do not apply if the estate is insolvent or if the Supreme Court otherwise orders.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-17.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-17.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a creditor establishes his or her debt and the debt does not carry interest, interest is to be allowed on such amount as is, for the time being, outstanding under the debt at the relevant rate of interest prescribed by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R36-7.1" remotekey1="REFPTID" service="DOC-ID">rule 36.7(1)</remotelink></ci:content></ci:cite>
+ for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S101" remotekey1="REFPTID" service="DOC-ID">section 101</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005, or such lesser rate as the court may determine, out of any assets which may remain after satisfying:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-17.5.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-17.5.A" type="ext"/>(a)</lilabel>
+<p><text>the costs of the proceedings, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-17.5.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-17.5.B" type="ext"/>(b)</lilabel>
+<p><text>the debts which have been established, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-17.5.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-17.5.C" type="ext"/>(c)</lilabel>
+<p><text>the interest on such of those debts as by law carry interest.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (5)  am Amendment 32 of 2010  Sch 1[7], [9] effective 1 July 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-18"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.18] r 46.18 Interest on legacies (cf SCR Part 49, rule 9)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-18" type="ext"/>[r 46.18]</edpnum><title searchtype="RUL-TITLE">Interest on legacies (cf SCR Part 49, rule 9)</title><desig searchtype="RUL-NUM"><designum>46.18</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-18.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-18.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an account of legacies is directed by any judgment, interest is, subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.WPAAR.WPAN.S84A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 84A</remotelink></ci:content></ci:cite>
+ of the Probate and Administration Act 1898, to be allowed at the rate prescribed for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.WPAAR.WPAN.S84A.1" remotekey1="REFPTID" service="DOC-ID" status="unval">subsection (1)</remotelink></ci:content></ci:cite>
+ of that section from a date of one year after the testator&#x2019;s death.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Amendment 21 of 2008  r 2 and Sch 1[2], effective 7 March 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-18.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-18.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-18.1" remotekey1="REFPTID" service="DOC-ID">Subrule (1)</remotelink></ci:content></ci:cite>
+ has effect subject to any directions in the will and unless the Supreme Court otherwise orders.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT46.R18.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-18-5" leveltype="para0" subdoc="true" toc-caption="[46.18.5] Interest on legacies">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [46.18.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1898-13" remotekey1="REFPTID" service="DOC-ID">Probate and Administration Act 1898</remotelink>.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1998-515" remotekey1="REFPTID" service="DOC-ID">Wills, Probate and Administration Regulation 1998</remotelink> reg 6(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-18-5" type="ext"/>[46.18.5] </edpnum><title>Interest on legacies</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This rule brings interest on legacies the subject of court proceedings into line with ordinary interest payable under legacies which is fixed by regulation made under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAAN1898" remotekey1="REFPTID" service="DOC-ID" status="unval">Probate and Administration Act 1898</remotelink></ci:content></ci:cite>
+ and which was 6% per year: see Probate and Administration Regulations 2003 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.WPAAR.WPARN98.REG6.2" remotekey1="REFPTID" service="DOC-ID" status="unval">reg 6(2)</remotelink></ci:content></ci:cite>
+ (repealed).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

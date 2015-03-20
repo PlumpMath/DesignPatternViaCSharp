@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 11 EXAMINATIONS AND ORDERS (CORPORATIONS ACT PART 5.9, DIVISIONS 1 AND 2) [rr 11.1&#x2013;11.11]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.CLRUN00.D11</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT (CORPORATIONS) RULES 1999</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 11 EXAMINATIONS AND ORDERS (CORPORATIONS ACT PART 5.9, DIVISIONS 1 AND 2) [rr 11.1&#x2013;11.11]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70020100</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.CLRUN00"/><docinfo:metaitem name="parent-filename" value="sc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 703, 1999</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT (CORPORATIONS) RULES 1999</leg:officialname></leg:info><leg:level id="UCPN.SC.CLRUN00.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 11 EXAMINATIONS AND ORDERS (CORPORATIONS ACT PART 5.9, DIVISIONS 1 AND 2) [rr 11.1&#x2013;11.11]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.CLRUN00.D11" type="ext"/>DIVISION 11</designum></desig><title searchtype="DIV-TITLE">EXAMINATIONS AND ORDERS (CORPORATIONS ACT PART 5.9, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.PT5.9.D1" remotekey1="REFPTID" service="DOC-ID" status="unval">DIVISIONS 1</remotelink></ci:content></ci:cite>
+ AND <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.PT5.9.D2" remotekey1="REFPTID" service="DOC-ID" status="unval">2</remotelink></ci:content></ci:cite>
+) [rr 11.1&#x2013;11.11]</title><leg:histnote>
+<p><text>[Div 11  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,785] r 11.1 Definition for Division 11">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R1" type="ext"/>[15,785]</edpnum><title searchtype="RUL-TITLE">Definition for Division 11</title><desig searchtype="RUL-NUM"><designum>11.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Division:</text></p>
+<deflist><defitem id="UCPN.SC.CLRUN00.D11.R1.EXAMINATION-SUMMONS"><defterm><refpt id="UCPN.SC.CLRUN00.D11.R1.EXAMINATION-SUMMONS" type="ext"/><emph typestyle="bf">examination summons</emph></defterm> <defdesc>
+<p><text>means a summons under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596A" remotekey1="REFPTID" service="DOC-ID">section 596A</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596B" remotekey1="REFPTID" service="DOC-ID">596B</remotelink></ci:content></ci:cite>
+ of the Corporations Act for the examination of a person about a corporation&#x2019;s examinable affairs.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[r 11.1  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D11.R1.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15785-5" leveltype="para0" subdoc="true" toc-caption="[15,785.5] Types of examination">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,785.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 596A, s 596B.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15785-5" type="ext"/>[15,785.5] </edpnum><title>Types of examination</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An eligible applicant (ASIC, a liquidator, provisional liquidator, administrator or person authorised by ASIC) may apply for the issue of a summons to examine certain persons about a corporation&#x2019;s &#x201c;examinable affairs&#x201d;. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596A" remotekey1="REFPTID" service="DOC-ID">Section 596A</remotelink></ci:content></ci:cite>
+ of the Corporations Act provides for &#x201c;mandatory examination&#x201d;, where the court must issue a summons if it is satisfied that the person is an officer or provisional liquidator of the corporation during a specified period. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596B" remotekey1="REFPTID" service="DOC-ID">Section 596B</remotelink></ci:content></ci:cite>
+ provides for &#x201c;discretionary examination&#x201d; where the court may issue a summons if it is satisfied that the person:</text>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>has taken part or been concerned in examinable affairs of the corporation and has been, or may have been, guilty of misconduct in relation to the corporation; or </text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>may be able to give information about examinable affairs of the corporation.</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15785-10" leveltype="para0" subdoc="true" toc-caption="[15,785.10] Policy regarding examination purposes">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,785.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> Pt 5.9, s 596B.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15785-10" type="ext"/>[15,785.10] </edpnum><title>Policy regarding examination purposes</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The purpose of the court&#x2019;s coercive power to summon a person for examination is to be gleaned from 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.PT5.9" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 5.9</remotelink></ci:content></ci:cite>
+ of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+. The examination procedure is intended to aid those responsible for the external administration of a company in carrying out their duties. They are entitled only to seek an order for an examination summons where the purpose of the examination is for the benefit of the corporation, its creditors or its contributories: see further 
+<remotelink dpsi="05CC" refpt="UCPN.SC.15785.20" remotekey1="REFPTID" service="DOC-ID" status="unval">[15,785.20]</remotelink>
+. The purpose is not to disadvantage corporations (see further 
+<remotelink dpsi="05CC" refpt="UCPN.SC.15785.25" remotekey1="REFPTID" service="DOC-ID" status="unval">[15,785.25]</remotelink>
+) but to make the corporation&#x2019;s examinable officers and other persons within the contemplation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596B" remotekey1="REFPTID" service="DOC-ID">s 596B</remotelink></ci:content></ci:cite>
+ accountable to those who are obliged to act in the interests of the corporation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003522" spanref="cr003522-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="145"/><ci:page num="176"/></ci:caseref><ci:caseref ID="cr003523" spanref="cr003523-002"><ci:reporter value="ALR"/><ci:volume num="221"/><ci:page num="331"/></ci:caseref><ci:caseref ID="cr003524" spanref="cr003524-003" status="unval"><ci:reporter value="FCAFC"/><ci:volume num=""/><ci:edition><ci:date year="2005"/></ci:edition><ci:page num="245"/></ci:caseref><ci:caseref ID="cr003525" spanref="cr003525-004"><ci:reporter value="urj"/><ci:refnum num="BC200504041"/></ci:caseref><ci:caseref anaphref="cr003525" spanref="cr003525-005"><ci:pinpoint num="245" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003525" spanref="cr003525-006"><ci:pinpoint num="247" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re New Tel Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003522-001" status="unval">(2005) 145 FCR 176</ci:span>; <ci:span spanid="cr003523-002">221 ALR 331</ci:span>; <ci:span spanid="cr003524-003" status="unval">[2005] FCAFC</ci:span>; <ci:span spanid="cr003525-004"> BC200504041</ci:span> <ci:span spanid="cr003525-005">at [245]</ci:span> <ci:span spanid="cr003525-006">[247]</ci:span></citefragment> <remotelink dpsi="0018" refpt="399554" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003526" spanref="cr003526-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003527" spanref="cr003527-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003528" spanref="cr003528-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003528" spanref="cr003528-004"><ci:pinpoint num="17" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003526-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003527-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003528-003"> BC200510880</ci:span> <ci:span spanid="cr003528-004">at [17]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Santow JA. The power to issue a summons is ancillary to the exercise of judicial power: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph>
+</citefragment></ci:content></ci:cite> per Santow JA, above, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003529" spanref="cr003529-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="46" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003529-000">at [46]</ci:span></citefragment></ci:content></ci:cite> per Basten JA, (Beazley JA <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003530" spanref="cr003530-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="1" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003530-000">at [1]</ci:span></citefragment></ci:content></ci:cite> agreeing).</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15785-15" leveltype="para0" subdoc="true" toc-caption="[15,785.15] &#x201c;Examinable Affairs&#x201d; "><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15785-15" type="ext"/>[15,785.15] </edpnum><title>&#x201c;Examinable Affairs&#x201d; </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text> The statutory definition of &#x201c;examinable affairs&#x201d; (defined in ss 9 and 53 of the Corporations Act) is very wide. Although the definition of &#x201c;examinable affairs&#x201d; is exhaustive in form, it is not restrictive: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003531" spanref="cr003531-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003532" spanref="cr003532-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003533" spanref="cr003533-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003531-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003532-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003533-003"> BC200510880</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003534" spanref="cr003534-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="34" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003534-000">at [34]</ci:span></citefragment></ci:content></ci:cite> per Basten JA (Beazley JA agreeing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003535" spanref="cr003535-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="1" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003535-000" status="unval">at [1]</ci:span></citefragment></ci:content></ci:cite>). The court cautions against any a priori observations seeking to limit its scope. Matters of future intention are not necessarily beyond its scope. It will often be only when the matter is looked on in closer detail, that the court will be in any position to ascertain whether the scope of the power has been exceeded or the power abused by its use in a vexatious or oppressive manner. That may only emerge when the examination is under way, though it can emerge earlier in a clear-cut case. Information that is already known to the examiner may still be properly examinable in some circumstances (eg it may be important to know whether the third party knew of that same information at a particular time): <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003536" spanref="cr003536-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003537" spanref="cr003537-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003538" spanref="cr003538-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003538" spanref="cr003538-004"><ci:pinpoint num="9" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003536-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003537-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003538-003"> BC200510880</ci:span> <ci:span spanid="cr003538-004">at [9]&#x2013;[11]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Santow JA.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15785-20" leveltype="para0" subdoc="true" toc-caption="[15,785.20] Examination &#x2014; Permissible purposes"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15785-20" type="ext"/>[15,785.20] </edpnum><title>Examination &#x2014; Permissible purposes</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Legitimate purposes include: </text>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>gathering information to assist the applicant in the administration of the corporation;</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>identifying the corporation&#x2019;s assets and liabilities;</text></p></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text>protecting the interests of the corporation&#x2019;s creditors;</text></p></li>
+<li>
+<lilabel>(4)</lilabel>
+<p><text>enabling evidence and information to be obtained to support the bringing of proceedings against examinable officers and other persons in connection with the examinable affairs of the corporation;</text></p></li>
+<li>
+<lilabel>(5)</lilabel>
+<p><text>facilitating the regulation of corporations by providing a public forum for the examination of examinable officers of corporations; and</text></p></li>
+<li>
+<lilabel>(6)</lilabel>
+<p><text>obtaining information in relation to a debt owed to a creditor if such an examination would be in the interests of the corporation or its creditors as a whole: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003539" spanref="cr003539-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="145"/><ci:page num="176"/></ci:caseref><ci:caseref ID="cr003540" spanref="cr003540-002"><ci:reporter value="ALR"/><ci:volume num="221"/><ci:page num="331"/></ci:caseref><ci:caseref ID="cr003541" spanref="cr003541-003" status="unval"><ci:reporter value="FCAFC"/><ci:volume num=""/><ci:edition><ci:date year="2005"/></ci:edition><ci:page num=""/></ci:caseref><ci:caseref ID="cr003542" spanref="cr003542-004"><ci:reporter value="urj"/><ci:refnum num="BC200504041"/></ci:caseref><ci:caseref anaphref="cr003542" spanref="cr003542-005"><ci:pinpoint num="252" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re New Tel Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003539-001" status="unval">(2005) 145 FCR 176</ci:span>; <ci:span spanid="cr003540-002">221 ALR 331</ci:span>; <ci:span spanid="cr003541-003" status="unval">[2005] FCAFC</ci:span>; <ci:span spanid="cr003542-004"> BC200504041</ci:span> <ci:span spanid="cr003542-005">at [252]</ci:span></citefragment> <remotelink dpsi="0018" refpt="399554" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Lander J, Ryan and Crennan JJ concurring (application by creditor to inter alia discover knowledge of a director, who was also a partner of a law firm, and another partner of the firm who acted for the company to determine whether there was an action against the firm held not to be an improper purpose &#x2014; the pool of assets to the company being larger if the &#x2018;firm action&#x2019; were successful);<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003543" spanref="cr003543-001"><ci:reporter value="urj"/><ci:refnum num="BC200606060"/></ci:caseref><ci:caseref anaphref="cr003543" spanref="cr003543-002"><ci:pinpoint num="12" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it"> Sule Arnautovic in his capacity as liquidator of Think Systems Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 787; <ci:span spanid="cr003543-001"> BC200606060</ci:span> <ci:span spanid="cr003543-002">at [12]</ci:span></citefragment> <remotelink dpsi="0018" refpt="421555" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (dismissed application to inspect affidavit by employees and former employees of a creditor whose proof of debt the liquidator rejected. Claim of dress rehearsal for cross-examination of witnesses in court proceedings rejected &#x2014; not shown to be beyond investigating mere strengths and weaknesses of claims against company). </text></p></li></l></p>
+<p>
+<text>Other legitimate purposes include obtaining information in relation to proposed or actual litigation, in order to determine whether the defendant has sufficient assets to meet an adverse judgment, if unsuccessful in the litigation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003544" spanref="cr003544-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003545" spanref="cr003545-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003546" spanref="cr003546-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003546" spanref="cr003546-004"><ci:pinpoint num="44" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003544-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003545-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003546-003"> BC200510880</ci:span> <ci:span spanid="cr003546-004">at [44]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA, Beazley JA agreeing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003547" spanref="cr003547-000" status="unval"><ci:reporter value="NSWCA"/><ci:volume num="65"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="1" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003547-000" status="unval">at [1]</ci:span></citefragment></ci:content></ci:cite>, (seeking information relevant to a denial of liability under an insurance policy was not an impermissible purpose in the absence of showing the information might be already known or privileged) citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr003548" spanref="cr003548-001" status="unval"><ci:reporter value="SASR"/><ci:volume num="88"/><ci:page num="541"/></ci:caseref><ci:caseref ID="cr003549" spanref="cr003549-002"><ci:reporter value="ALR"/><ci:volume num="207"/><ci:page num="644"/></ci:caseref><ci:caseref ID="cr003550" spanref="cr003550-003"><ci:reporter value="urj"/><ci:refnum num="BC200403417"/></ci:caseref><ci:caseref anaphref="cr003550" spanref="cr003550-004"><ci:pinpoint num="42" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Normans Wines Ltd (rec and mgr apptd) (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003548-001" status="unval">(2004) 88 SASR 541</ci:span>; <ci:span spanid="cr003549-002">207 ALR 644</ci:span>; [2004] SASC 171; <ci:span spanid="cr003550-003"> BC200403417</ci:span> <ci:span spanid="cr003550-004">at [42]</ci:span></citefragment> <remotelink dpsi="0018" refpt="381181" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Mullighan J (employees of auditors unsuccessful in having summons set aside. Claim rejected that the predominant purpose of the applicant liquidators was to assist a separate company in its investigations of claims against auditors in a separate action).</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15785-25" leveltype="para0" subdoc="true" toc-caption="[15,785.25] Examination &#x2014; Impermissible purposes"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15785-25" type="ext"/>[15,785.25] </edpnum><title>Examination &#x2014; Impermissible purposes</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is an improper purpose to use the examination:</text>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>as a dress rehearsal for cross-examination;</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>for the purpose of destroying the credibility of the examinees or witnesses who might be called for the examinee in substantive proceedings;</text></p></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text>for the predominant purpose of obtaining a forensic advantage not available from ordinary pre-trial procedures; or </text></p></li>
+<li>
+<lilabel>(4)</lilabel>
+<p><text> to obtain a forensic advantage which would not have been available to the creditor if the corporation had not gone into administration: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003551" spanref="cr003551-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003552" spanref="cr003552-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003553" spanref="cr003553-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003553" spanref="cr003553-004"><ci:pinpoint num="44" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003551-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003552-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003553-003"> BC200510880</ci:span> <ci:span spanid="cr003553-004">at [44]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA (Beazley JA agreeing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003554" spanref="cr003554-000" status="unval"><ci:reporter value="NSWCA"/><ci:volume num="65"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="1" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003554-000" status="unval">at [1]</ci:span></citefragment></ci:content></ci:cite>) (citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr003555" spanref="cr003555-001" status="unval"><ci:reporter value="SASR"/><ci:volume num="88"/><ci:page num="541"/></ci:caseref><ci:caseref ID="cr003556" spanref="cr003556-002"><ci:reporter value="ALR"/><ci:volume num="207"/><ci:page num="644"/></ci:caseref><ci:caseref ID="cr003557" spanref="cr003557-003"><ci:reporter value="urj"/><ci:refnum num="BC200403417"/></ci:caseref><ci:caseref anaphref="cr003557" spanref="cr003557-004"><ci:pinpoint num="42" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Normans Wines Ltd (rec and mgr apptd) (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003555-001" status="unval">(2004) 88 SASR 541</ci:span>; <ci:span spanid="cr003556-002">207 ALR 644</ci:span>; [2004] SASC 171; <ci:span spanid="cr003557-003"> BC200403417</ci:span> <ci:span spanid="cr003557-004">at [42]</ci:span></citefragment> <remotelink dpsi="0018" refpt="381181" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Mullighan J; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003558" spanref="cr003558-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="145"/><ci:page num="176"/></ci:caseref><ci:caseref ID="cr003559" spanref="cr003559-002"><ci:reporter value="ALR"/><ci:volume num="221"/><ci:page num="331"/></ci:caseref><ci:caseref ID="cr003560" spanref="cr003560-003" status="unval"><ci:volume num=""/><ci:page num=""/></ci:caseref><ci:caseref ID="cr003561" spanref="cr003561-004"><ci:reporter value="urj"/><ci:refnum num="BC200504041"/></ci:caseref><ci:caseref anaphref="cr003561" spanref="cr003561-005"><ci:pinpoint num="252" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re New Tel Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003558-001" status="unval">(2005) 145 FCR 176</ci:span>; <ci:span spanid="cr003559-002">221 ALR 331</ci:span>; <ci:span spanid="cr003560-003" status="unval">[2005] FCAFC</ci:span>; <ci:span spanid="cr003561-004"> BC200504041</ci:span> <ci:span spanid="cr003561-005">at [252]</ci:span></citefragment> <remotelink dpsi="0018" refpt="399554" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Lander J (Ryan and Crennan JJ concurring); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003562" spanref="cr003562-001"><ci:reporter value="urj"/><ci:refnum num="BC200606060"/></ci:caseref><ci:caseref anaphref="cr003562" spanref="cr003562-002"><ci:pinpoint num="12" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sule Arnautovic in his capacity as liquidator of Think Systems Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 787; <ci:span spanid="cr003562-001"> BC200606060</ci:span> <ci:span spanid="cr003562-002">at [12]</ci:span></citefragment> <remotelink dpsi="0018" refpt="421555" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>).</text></p></li></l>
+<text>It is an improper purpose to use the examination: </text>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>to simply cause undue inconvenience or embarrassment to the examinee or to inflict costs: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003563" spanref="cr003563-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003564" spanref="cr003564-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003565" spanref="cr003565-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003565" spanref="cr003565-004"><ci:pinpoint num="44" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003563-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003564-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003565-003"> BC200510880</ci:span> <ci:span spanid="cr003565-004">at [44]&#x2013;[46]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA Beazley JA agreeing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003566" spanref="cr003566-000"><ci:reporter value="NSWCA"/><ci:volume num="65"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="1" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003566-000">at [1]</ci:span></citefragment></ci:content></ci:cite>;</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text> to cause embarrassment to the examinees in a public forum and to apply pressure on them to settle favourably with a claimant: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003567" spanref="cr003567-001"><ci:reporter value="urj"/><ci:refnum num="BC200604082"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Bauhaus Pyrmont Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 543; <ci:span spanid="cr003567-001"> BC200604082</ci:span></citefragment> <remotelink dpsi="0018" refpt="417312" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Austin J <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003568" spanref="cr003568-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2006"/></ci:edition><ci:pinpoint num="85" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003568-000" status="unval">at [85]</ci:span></citefragment></ci:content></ci:cite> (held there were reasonable grounds for inferring that the liquidator applicant shared a creditor&#x2019;s improper purpose of using the examination to embarrass the examinees in a public forum and to apply pressure on them to settle favourably with the creditor); or</text></p></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text> to compel the examinee to disclose defences or to give pre-trial discovery, or to establish guilt: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr003569" spanref="cr003569-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="166"/><ci:page num="486"/></ci:caseref><ci:caseref anaphref="cr003569" spanref="cr003569-002" status="unval"><ci:pinpoint num="498" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hamilton v Oades</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003569-001" status="unval">(1989) 166 CLR 486</ci:span> <ci:span spanid="cr003569-002" status="unval">at 498</ci:span></citefragment> <remotelink dpsi="0018" refpt="14667" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Mason CJ (upheld finding rejecting an application to limit an examination to matters not the subject of pending criminal charges &#x2014; the possibility of disclosure of a defence is not a matter in respect of which a witness needs to be protected except in exceptional cases &#x2014; the power to disallow specific questions affords protection) (citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1970"/></ci:caseinfo><ci:caseref ID="cr003570" spanref="cr003570-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1970"/></ci:edition><ci:page num="582"/></ci:caseref><ci:caseref ID="cr003571" spanref="cr003571-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="91"/><ci:page num="537"/></ci:caseref><ci:caseref anaphref="cr003571" spanref="cr003571-003" status="unval"><ci:pinpoint num="541" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Hugh J Roberts Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003570-001" status="unval">[1970] 2 NSWR 582</ci:span>; <ci:span spanid="cr003571-002" status="unval">(1970) 91 WN (NSW) 537</ci:span> <ci:span spanid="cr003571-003" status="unval">at 541</ci:span></citefragment> <remotelink dpsi="0018" refpt="4875" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (the pendency of misfeasance proceedings against a director was not a sufficient basis to rescind examination orders); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1982"/></ci:caseinfo><ci:caseref ID="cr003572" spanref="cr003572-001"><ci:reporter value="ALR"/><ci:volume num="45"/><ci:page num="559"/></ci:caseref><ci:caseref anaphref="cr003572" spanref="cr003572-002"><ci:pinpoint num="563" targettype="page"/></ci:caseref><ci:caseref ID="cr003573" spanref="cr003573-003"><ci:reporter value="ALD"/><ci:volume num="5"/><ci:page num="90"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Huston v Costigan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003572-001">(1982) 45 ALR 559</ci:span> <ci:span spanid="cr003572-002">at 563</ci:span>; <ci:span spanid="cr003573-003">5 ALD 90</ci:span></citefragment> <remotelink dpsi="0018" refpt="11276" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application rejected to restrain a Royal Commissioner from receiving evidence tending to prove guilt of applicant on pending charges &#x2014; adequate safeguards in place); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr003574" spanref="cr003574-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="18"/><ci:page num="366"/></ci:caseref><ci:caseref ID="cr003575" spanref="cr003575-002"><ci:reporter value="ALR"/><ci:volume num="80"/><ci:page num="289"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Gordon</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003574-001" status="unval">(1988) 18 FCR 366</ci:span>; <ci:span spanid="cr003575-002">80 ALR 289</ci:span></citefragment> <remotelink dpsi="0018" refpt="8497" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (set aside order excusing bankrupt facing pending charges from answering certain questions on the ground that they might incriminate him &#x2014; but questions to obtain evidence in proof of charge should be disallowed)).</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15785-30" leveltype="para0" subdoc="true" toc-caption="[15,785.30] Insurance arrangements"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15785-30" type="ext"/>[15,785.30] </edpnum><title>Insurance arrangements</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An examination may concern itself with liability under insurance arrangements, including:</text>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>the existence of an insurance policy relating to the assets of the corporation; </text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>the terms and conditions of such a policy; </text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>where a claim has been made, the decision of the insurer with respect to the claim, and</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>where a claim has not been determined, the potential value of the claim: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003576" spanref="cr003576-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003577" spanref="cr003577-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003578" spanref="cr003578-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003578" spanref="cr003578-004"><ci:pinpoint num="10" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003576-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003577-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003578-003"> BC200510880</ci:span> <ci:span spanid="cr003578-004">at [10]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Santow JA, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003579" spanref="cr003579-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="36" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003579-000">at [36]</ci:span></citefragment></ci:content></ci:cite> per Basten JA (Beazley JA <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003580" spanref="cr003580-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="1" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003580-000" status="unval">at [1]</ci:span></citefragment></ci:content></ci:cite> agreeing) (citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2003"/></ci:caseinfo><ci:caseref ID="cr003581" spanref="cr003581-001"><ci:reporter value="ACSR"/><ci:volume num="46"/><ci:page num="379"/></ci:caseref><ci:caseref ID="cr003582" spanref="cr003582-002"><ci:reporter value="urj"/><ci:refnum num="BC200303775"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Allstate Explorations NL</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003581-001">(2003) 46 ACSR 379</ci:span>; [2003] NSWSC 626; <ci:span spanid="cr003582-002"> BC200303775</ci:span></citefragment> <remotelink dpsi="0018" refpt="365645" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Austin J; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2003"/></ci:caseinfo><ci:caseref ID="cr003583" spanref="cr003583-001" status="unval"><ci:reporter value="ACSR"/><ci:volume num="44"/><ci:page num="73"/></ci:caseref><ci:caseref ID="cr003584" spanref="cr003584-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="421"/><ci:page num="1232"/></ci:caseref><ci:caseref ID="cr003585" spanref="cr003585-003"><ci:reporter value="urj"/><ci:refnum num="BC200301322"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Clutha Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003583-001" status="unval">(2003) 44 ACSR 73</ci:span>; <ci:span spanid="cr003584-002" status="unval">421 ACLC 1232</ci:span>; [2003]
+NSWSC 235; <ci:span spanid="cr003585-003"> BC200301322</ci:span></citefragment> <remotelink dpsi="0018" refpt="360803" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Gzell J). </text></p></li></l></p>
+<p>
+<text>Where a decision has been made and communicated, the internal assessment of information by advisers to the insurer are not &#x201c;examinable affairs&#x201d; even though the result of that assessment may be relevant to the decision taken by the insurer and hence to the value and even the solvency of the company: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003586" spanref="cr003586-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003587" spanref="cr003587-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003588" spanref="cr003588-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003588" spanref="cr003588-004"><ci:pinpoint num="43" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003586-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003587-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003588-003"> BC200510880</ci:span> <ci:span spanid="cr003588-004">at [43]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA (Beazley JA <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003589" spanref="cr003589-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="43" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003589-000" status="unval">at [1]</ci:span></citefragment></ci:content></ci:cite> agreeing). &#x201c;Examinable affairs&#x201d; includes information relevant to the decision whether to institute proceedings against an insurer in relation to the denial of liability under the insurance policy such as information necessary to assess the justification or otherwise of the denial and in an appropriate case information as to the worth of the potential defendant in such proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003590" spanref="cr003590-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003591" spanref="cr003591-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003592" spanref="cr003592-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003592" spanref="cr003592-004"><ci:pinpoint num="47" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003590-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003591-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003592-003"> BC200510880</ci:span> <ci:span spanid="cr003592-004">at [47]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA (Beazley JA agreeing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003593" spanref="cr003593-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2005"/></ci:edition><ci:pinpoint num="43" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003593-000" status="unval">at [1]</ci:span></citefragment></ci:content></ci:cite>) (citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr003594" spanref="cr003594-001"><ci:reporter value="ACSR"/><ci:volume num="14"/><ci:page num="460"/></ci:caseref><ci:caseref anaphref="cr003594" spanref="cr003594-002"><ci:pinpoint num="462" targettype="page"/></ci:caseref><ci:caseref ID="cr003595" spanref="cr003595-003"><ci:reporter value="urj"/><ci:refnum num="BC9403006"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re BPTC Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003594-001">(1994) 14 ACSR 460</ci:span> <ci:span spanid="cr003594-002">at 462</ci:span>; <ci:span spanid="cr003595-003"> BC9403006</ci:span></citefragment> <remotelink dpsi="0018" refpt="67842" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1970"/></ci:caseinfo><ci:caseref ID="cr003596" spanref="cr003596-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1970"/></ci:edition><ci:page num="582"/></ci:caseref><ci:caseref ID="cr003597" spanref="cr003597-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="91"/><ci:page num="537"/></ci:caseref><ci:caseref anaphref="cr003597" spanref="cr003597-003" status="unval"><ci:pinpoint num="541" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Hugh J Roberts Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003596-001" status="unval">[1970]
+2 NSWR 582</ci:span>; <ci:span spanid="cr003597-002" status="unval">(1970) 91 WN (NSW) 537</ci:span> <ci:span spanid="cr003597-003" status="unval">at 541</ci:span></citefragment> <remotelink dpsi="0018" refpt="4875" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr003598" spanref="cr003598-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="48"/><ci:page num="301"/></ci:caseref><ci:caseref anaphref="cr003598" spanref="cr003598-002" status="unval"><ci:pinpoint num="309" targettype="page"/></ci:caseref><ci:caseref ID="cr003599" spanref="cr003599-003"><ci:reporter value="ALR"/><ci:volume num="120"/><ci:page num="262"/></ci:caseref><ci:caseref anaphref="cr003599" spanref="cr003599-004"><ci:pinpoint num="270" targettype="page"/></ci:caseref><ci:caseref ID="cr003600" spanref="cr003600-005"><ci:reporter value="ACSR"/><ci:volume num="12"/><ci:page num="646"/></ci:caseref><ci:caseref anaphref="cr003600" spanref="cr003600-006"><ci:pinpoint num="654" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Grosvenor Hill (Qld) Pty Ltd v Barber</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003598-001" status="unval">(1994) 48 FCR 301</ci:span> <ci:span spanid="cr003598-002" status="unval">at 309</ci:span>; <ci:span spanid="cr003599-003">120 ALR 262</ci:span> <ci:span spanid="cr003599-004">at 270</ci:span>; <ci:span spanid="cr003600-005">12 ACSR 646</ci:span> <ci:span spanid="cr003600-006">at 654</ci:span></citefragment> <remotelink dpsi="0018" refpt="55946" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,790] r 11.2 Application for examination or investigation under s 411(9)(b), s 423 or s 536(3) of the Corporations Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R2" type="ext"/>[15,790]</edpnum><title searchtype="RUL-TITLE">Application for examination or investigation under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S411.9.B" remotekey1="REFPTID" service="DOC-ID">s 411(9)(b)</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S423" remotekey1="REFPTID" service="DOC-ID">s 423</remotelink></ci:content></ci:cite>
+ or <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536.3" remotekey1="REFPTID" service="DOC-ID">s 536(3)</remotelink></ci:content></ci:cite>
+ of the Corporations Act</title><desig searchtype="RUL-NUM"><designum>11.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11.R2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for an order for the examination or investigation of a person under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S411.9.B" remotekey1="REFPTID" service="DOC-ID">section 411(9)(b)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S423" remotekey1="REFPTID" service="DOC-ID">section 423</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536.3" remotekey1="REFPTID" service="DOC-ID">subsection 536(3)</remotelink></ci:content></ci:cite>
+ of the Corporations Act may be made by:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R2.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R2.1.A" type="ext"/>(a)</lilabel>
+<p><text>ASIC; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R2.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R2.1.B" type="ext"/>(b)</lilabel>
+<p><text>a person authorised by ASIC; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R2.1.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R2.1.C" type="ext"/>(c)</lilabel>
+<p><text>a creditor or contributory; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R2.1.D"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R2.1.D" type="ext"/>(d)</lilabel>
+<p><text>any other person aggrieved by the conduct of:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R2.1.D.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R2.1.D.I" type="ext"/>(i)</lilabel>
+<p><text>a person appointed to administer a compromise or arrangement; or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D11.R2.1.D.II"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R2.1.D.II" type="ext"/>(ii)</lilabel>
+<p><text>a controller; or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D11.R2.1.D.III"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R2.1.D.III" type="ext"/>(iii)</lilabel>
+<p><text>a liquidator or provisional liquidator.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The application may be made without notice to any person.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  subst Gaz 93 of 1 June 2001  p 3023]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R2.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R2.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Division that apply to an examination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.PT5.9.D1" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 1</remotelink></ci:content></ci:cite>
+ of Part 5.9 of the Corporations Act apply, with any necessary adaptations, to an examination or an investigation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S411" remotekey1="REFPTID" service="DOC-ID">section 411(9)(b)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S423" remotekey1="REFPTID" service="DOC-ID">section 423</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536.3" remotekey1="REFPTID" service="DOC-ID">subsection 536(3)</remotelink></ci:content></ci:cite>
+ of the Corporations Act.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 11.2  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,795] r 11.3 Application for examination summons (Corporations Act s 596A, s 596B) &#x2014; Form 17">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R3" type="ext"/>[15,795]</edpnum><title searchtype="RUL-TITLE">Application for examination summons (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596A" remotekey1="REFPTID" service="DOC-ID">s 596A</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596B" remotekey1="REFPTID" service="DOC-ID">s 596B</remotelink></ci:content></ci:cite>
+)
+&#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F17" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 17</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>11.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for the issue of an examination summons must be made by filing an interlocutory process or an originating process, as the case requires.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The application may be made without notice to any person.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am Gaz 168 of 22 December 2000  p 13608 ; subst Gaz 93 of 1 June 2001  p 3023]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The originating process, or interlocutory process, seeking the issue of the examination summons must be:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R3.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R3.3.A" type="ext"/>(a)</lilabel>
+<p><text>supported by an affidavit stating the facts in support of the process; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R3.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R3.3.B" type="ext"/>(b)</lilabel>
+<p><text>accompanied by a draft examination summons.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The originating process, or interlocutory process, and supporting affidavit must be filed in a sealed envelope marked, as appropriate:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R3.4.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R3.4.A" type="ext"/>(a)</lilabel>
+<p><text>&#x201c;Application and supporting affidavit for issue of summons for examination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596A" remotekey1="REFPTID" service="DOC-ID">section 596A</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001&#x201d;; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R3.4.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R3.4.B" type="ext"/>(b)</lilabel>
+<p><text>&#x201c;Application and supporting affidavit for issue of summons for examination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596B" remotekey1="REFPTID" service="DOC-ID">section 596B</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001&#x201d;.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (4)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the application is not made by the liquidator, the liquidator must be given notice of the application and, if required by the liquidator, served with a copy of the originating process, or interlocutory process, and the supporting affidavit.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R3.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the application is not made by ASIC, ASIC must be given notice of the application and, if required by ASIC, served with a copy of the originating process, or interlocutory process, and the supporting affidavit.</text></p>
+<leg:histnote>
+<p><text>[subr (6)  am Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3.7"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R3.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, an affidavit in support of an application for an examination summons is not available for inspection by any person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R3.8"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R3.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An examination summons must be in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F17" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 17</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subr (8)  am Gaz 168 of 22 December 2000  p 13608]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 11.3  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D11.R3.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15795-5" leveltype="para0" subdoc="true" toc-caption="[15,795.5] Inspection of Affidavit ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,795.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 596B, s 596C(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15795-5" type="ext"/>[15,795.5] </edpnum><title>Inspection of Affidavit </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Examinees may seek an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596C.2" remotekey1="REFPTID" service="DOC-ID">s 596C(2)</remotelink></ci:content></ci:cite>
+ of the Corporations Act permitting them to inspect the affidavit sworn in support of an application for the issue of examination summonses under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596B" remotekey1="REFPTID" service="DOC-ID">s 596B</remotelink></ci:content></ci:cite>
+. Access is not given unless the Court &#x201c;otherwise orders&#x201d;: r 11.3(7). An applicant for inspection will generally be able to obtain access to the affidavit if he or she can demonstrate an arguable case that the issue of the summons exceeded the power of the court under s 596B and that access to the affidavit is likely to assist in determining the correctness of the challenge: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003601" spanref="cr003601-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003602" spanref="cr003602-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003603" spanref="cr003603-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003603" spanref="cr003603-004"><ci:pinpoint num="141" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003601-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003602-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003603-003"> BC200510880</ci:span> <ci:span spanid="cr003603-004">at [141]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA. </text></p>
+<p>
+<text>However, there are sound reasons why inspection, though prima facie to be allowed, should not be freely granted, &#x201c;for so to do could afford an examinee information which could permit the examination process to be frustrated&#x201d;, and could disclose confidential information that should properly be withheld: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2006"/></ci:caseinfo><ci:caseref ID="cr003604" spanref="cr003604-001"><ci:reporter value="ACSR"/><ci:volume num="58"/><ci:page num="113"/></ci:caseref><ci:caseref ID="cr003605" spanref="cr003605-002"><ci:reporter value="urj"/><ci:refnum num="BC200604947"/></ci:caseref><ci:caseref anaphref="cr003605" spanref="cr003605-003"><ci:pinpoint num="104" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Southland Coal Pty Ltd (rec &amp; mgrs apptd) (in liq),</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003604-001">(2006) 58 ACSR 113</ci:span>; [2006] NSWSC 184; <ci:span spanid="cr003605-002"> BC200604947</ci:span> <ci:span spanid="cr003605-003">at [104]</ci:span></citefragment> <remotelink dpsi="0018" refpt="418887" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Austin J citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr003606" spanref="cr003606-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="52"/><ci:page num="69"/></ci:caseref><ci:caseref ID="cr003607" spanref="cr003607-002"><ci:reporter value="ALR"/><ci:volume num="124"/><ci:page num="281"/></ci:caseref><ci:caseref ID="cr003608" spanref="cr003608-003"><ci:reporter value="ACSR"/><ci:volume num="14"/><ci:page num="407"/></ci:caseref><ci:caseref anaphref="cr003608" spanref="cr003608-004"><ci:pinpoint num="429" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Excel Finance Corporation Ltd (rec &amp; mgr apptd); Worthley v England</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003606-001" status="unval">(1994) 52 FCR 69</ci:span>; <ci:span spanid="cr003607-002">124 ALR 281</ci:span>; <ci:span spanid="cr003608-003">14 ACSR 407</ci:span> <ci:span spanid="cr003608-004">at 429</ci:span></citefragment> <remotelink dpsi="0018" refpt="68387" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The court must be conscious of the possibility that an examination might nevertheless proceed and that access by an examinee to the affidavit may compromise that process: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003609" spanref="cr003609-001"><ci:reporter value="urj"/><ci:refnum num="BC200606060"/></ci:caseref><ci:caseref anaphref="cr003609" spanref="cr003609-002"><ci:pinpoint num="4" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sule Arnautovic in his capacity as liquidator of Think Systems Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 787; <ci:span spanid="cr003609-001"> BC200606060</ci:span> <ci:span spanid="cr003609-002">at [4]</ci:span></citefragment> <remotelink dpsi="0018" refpt="421555" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15795-10" leveltype="para0" subdoc="true" toc-caption="[15,795.10] Orders for production">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,795.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 596D(2), s 9.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> CPA s 68.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15795-10" type="ext"/>[15,795.10] </edpnum><title>Orders for production</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A person served with a summons may be required to produce, at the examination, specified books: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596D.2" remotekey1="REFPTID" service="DOC-ID">s 596D(2)</remotelink></ci:content></ci:cite>
+ of the Corporations Act. The term &#x201c;books&#x201d; is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">s 9</remotelink></ci:content></ci:cite>
+. This includes a register, financial reports or financial records, however compiled, recorded or stored; and any other record of information. Orders for production of documents are not usually included in the examination summonses but made separately pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S56" remotekey1="REFPTID" service="DOC-ID">CPA s 68</remotelink></ci:content></ci:cite>
+ (formerly the power under SCR Pt 36 r 12 was used. It is now repealed). </text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15-79515" leveltype="para0" subdoc="true" toc-caption="[15,795.15] Leave to be heard on application for issue of summons">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,795.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 11.3(2), 11.5(2), r 2.13.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15-79515" type="ext"/>[15,795.15] </edpnum><title>Leave to be heard on application for issue of summons</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Usually the application for the issue of an examination summons is ex parte and, if a summons is issued, the person summoned may apply to the court within three days after being served for an order discharging the summons: UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-3.2" remotekey1="REFPTID" service="DOC-ID">rr 11.3(2)</remotelink>
+, 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-5.2" remotekey1="REFPTID" service="DOC-ID" status="unval">11.5(2)</remotelink>
+. Pursuant to UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-13" remotekey1="REFPTID" service="DOC-ID" status="unval">r 2.13</remotelink>
+(1) the court may grant leave to the prospective examinee to be heard on the application for the issue of examination summons: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003610" spanref="cr003610-001"><ci:reporter value="urj"/><ci:refnum num="BC200700556"/></ci:caseref><ci:caseref anaphref="cr003610" spanref="cr003610-002"><ci:pinpoint num="40" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Onefone Australia Pty Ltd v One.Tel Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 69; <ci:span spanid="cr003610-001"> BC200700556</ci:span> <ci:span spanid="cr003610-002">at [40]&#x2013;[42]</ci:span></citefragment> <remotelink dpsi="0018" refpt="432429" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J, 14 February 2007 (the application for leave was entertained and dismissed. No express decision was made as to whether special circumstances were required to justify departure from the usual procedure).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,800] r 11.4 Service of examination summons">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R4" type="ext"/>[15,800]</edpnum><title searchtype="RUL-TITLE">Service of examination summons</title><desig searchtype="RUL-NUM"><designum>11.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An examination summons issued by the Court must be personally served, or served in any other manner as the Court may direct, on the person who is to be examined at least 8 days before the date fixed for the examination.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D11.R4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15800-5" leveltype="para0" subdoc="true" toc-caption="[15,800.5] Substituted service">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,800.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> [r 10.14].</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15800-5" type="ext"/>[15,800.5] </edpnum><title>Substituted service</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Substituted service of an examination order may be ordered under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R10-14" remotekey1="REFPTID" service="DOC-ID">[r 10.14]</remotelink></ci:content></ci:cite>
+ if personal service is impractical.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15800-10" leveltype="para0" subdoc="true" toc-caption="[15,800.10] Service outside the state">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,800.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1992-172" remotekey1="REFPTID" service="DOC-ID">Service and Execution of Process Act 1992</remotelink> s 27.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15800-10" type="ext"/>[15,800.10] </edpnum><title>Service outside the state</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An examination order under may be served interstate under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S27" remotekey1="REFPTID" service="DOC-ID">s 27</remotelink></ci:content></ci:cite>
+ of the Service and Execution of Process Act 1992 (Cth) without any leave being necessary: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr003611" spanref="cr003611-001"><ci:reporter value="NSWLR"/><ci:volume num="7"/><ci:page num="440"/></ci:caseref><ci:caseref ID="cr003612" spanref="cr003612-002" status="unval"><ci:reporter value="FLR"/><ci:volume num="86"/><ci:page num="247"/></ci:caseref><ci:caseref ID="cr003613" spanref="cr003613-003"><ci:reporter value="urj"/><ci:refnum num="BC8600466"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Austral Oil Estates Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003611-001">(1986) 7 NSWLR 440</ci:span>; <ci:span spanid="cr003612-002" status="unval">86 FLR 247</ci:span>; <ci:span spanid="cr003613-003"> BC8600466</ci:span></citefragment> <remotelink dpsi="0018" refpt="21448" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; cf <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr003614" spanref="cr003614-001"><ci:reporter value="ACLR"/><ci:volume num="11"/><ci:page num="413"/></ci:caseref><ci:caseref ID="cr003615" spanref="cr003615-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="5"/><ci:page num="95"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Tropical Reef Enterprises Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003614-001">(1987) 11 ACLR 413</ci:span>; <ci:span spanid="cr003615-002" status="unval">5 ACLC 95</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15800-15" leveltype="para0" subdoc="true" toc-caption="[15,800.15] Service Outside Australia">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,800.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 11.5.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15800-15" type="ext"/>[15,800.15] </edpnum><title>Service Outside Australia</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Pursuant to UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-5" remotekey1="REFPTID" service="DOC-ID">r 11.5</remotelink>
+, leave to serve outside Australia an examination summons under s 596A Corporations Act 2001 may be given on the basis that the summons itself as distinct from the application for the summons is not an originating process: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003616" spanref="cr003616-001"><ci:reporter value="urj"/><ci:refnum num="BC200704487"/></ci:caseref><ci:caseref anaphref="cr003616" spanref="cr003616-002"><ci:pinpoint num="4" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Application of Robert William Whitton</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 606; <ci:span spanid="cr003616-001"> BC200704487</ci:span> <ci:span spanid="cr003616-002">at [4]&#x2013;[10]</ci:span></citefragment> <remotelink dpsi="0018" refpt="438361" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per White J (leave given to serve summons in USA).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,805] r 11.5 Discharge of examination summons">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R5" type="ext"/>[15,805]</edpnum><title searchtype="RUL-TITLE">Discharge of examination summons</title><desig searchtype="RUL-NUM"><designum>11.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11.R5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies if a person is served with an examination summons.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Within 3 days after the person is served with the examination summons, the person may apply to the Court for an order discharging the summons by filing:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R5.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R5.2.A" type="ext"/>(a)</lilabel>
+<p><text>an interlocutory process seeking an order discharging the summons; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R5.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R5.2.B" type="ext"/>(b)</lilabel>
+<p><text>an affidavit stating the facts in support of the interlocutory process.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R5.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>As soon as practicable after filing the interlocutory process seeking the order and the supporting affidavit, the person must serve a copy of the interlocutory process and the supporting affidavit on:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R5.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R5.3.A" type="ext"/>(a)</lilabel>
+<p><text>the person who applied for the examination; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R5.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R5.3.B" type="ext"/>(b)</lilabel>
+<p><text>unless that person is ASIC or a person authorised by ASIC &#x2014; ASIC.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (3)  am Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D11.R5.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15805-5" leveltype="para0" subdoc="true" toc-caption="[15,805.5] Nature of application for discharge">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,805.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 49.19.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 121(3).</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 596B.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15805-5" type="ext"/>[15,805.5] </edpnum><title>Nature of application for discharge</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where the issue of the summons has been ordered by a registrar (the usual case), an application for discharge is governed by the principles that apply to challenges to decisions of registrars, namely UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-19" remotekey1="REFPTID" service="DOC-ID">r 49.19</remotelink></ci:content></ci:cite>
+ and Supreme Court Act 1970 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S121.3" remotekey1="REFPTID" service="DOC-ID">s 121(3)</remotelink></ci:content></ci:cite>
+:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003617" spanref="cr003617-001"><ci:reporter value="urj"/><ci:refnum num="BC200908305"/></ci:caseref><ci:caseref anaphref="cr003617" spanref="cr003617-002"><ci:pinpoint num="4" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Wily; LED (South Coast) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 946; <ci:span spanid="cr003617-001"> BC200908305</ci:span> <ci:span spanid="cr003617-002">at [4]&#x2013;[25]</ci:span></citefragment> <remotelink dpsi="0018" refpt="479915" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J (rejecting a submission that federal review procedures were applicable), citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2006"/></ci:caseinfo><ci:caseref ID="cr003618" spanref="cr003618-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="231"/><ci:page num="334"/></ci:caseref><ci:caseref ID="cr003619" spanref="cr003619-002"><ci:reporter value="ALR"/><ci:volume num="231"/><ci:page num="582"/></ci:caseref><ci:caseref ID="cr003620" spanref="cr003620-003"><ci:reporter value="urj"/><ci:refnum num="BC200610441"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gordon v Tolcher</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003618-001" status="unval">(2006) 231 CLR 334</ci:span>; <ci:span spanid="cr003619-002">231 ALR 582</ci:span>; [2006] HCA 62; <ci:span spanid="cr003620-003"> BC200610441</ci:span></citefragment> <remotelink dpsi="0018" refpt="429295" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr003621" spanref="cr003621-001"><ci:reporter value="NSWLR"/><ci:volume num="71"/><ci:page num="61"/></ci:caseref><ci:caseref ID="cr003622" spanref="cr003622-002"><ci:reporter value="urj"/><ci:refnum num="BC200710980"/></ci:caseref><ci:caseref anaphref="cr003622" spanref="cr003622-003"><ci:pinpoint num="7" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003622" spanref="cr003622-004"><ci:pinpoint num="8" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003622" spanref="cr003622-005"><ci:pinpoint num="52" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Tomko v Palasty (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003621-001">(2007) 71 NSWLR 61</ci:span>; [2007] NSWCA 369; <ci:span spanid="cr003622-002"> BC200710980</ci:span> <ci:span spanid="cr003622-003">at [7],</ci:span> <ci:span spanid="cr003622-004">[8],</ci:span> <ci:span spanid="cr003622-005">[52]</ci:span></citefragment> <remotelink dpsi="0018" refpt="449266" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.  In substance a proceeding to discharge the issue of such a summons involves a re-hearing of the initial application: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003623" spanref="cr003623-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003624" spanref="cr003624-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003625" spanref="cr003625-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003625" spanref="cr003625-004"><ci:pinpoint num="31" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003623-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003624-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003625-003"> BC200510880</ci:span> <ci:span spanid="cr003625-004">at [31]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA, (Beazley JA at [1] agreeing) (citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr003626" spanref="cr003626-001" status="unval"><ci:reporter value="SASR"/><ci:volume num="61"/><ci:page num="557"/></ci:caseref><ci:caseref ID="cr003627" spanref="cr003627-002" status="unval"><ci:reporter value="FLR"/><ci:volume num="116"/><ci:page num="479"/></ci:caseref><ci:caseref ID="cr003628" spanref="cr003628-003"><ci:reporter value="ACSR"/><ci:volume num="12"/><ci:page num="513"/></ci:caseref><ci:caseref anaphref="cr003628" spanref="cr003628-004"><ci:pinpoint num="517" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gerah Imports Pty Ltd v The Duke Group Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003626-001" status="unval">(1993) 61 SASR 557</ci:span>; <ci:span spanid="cr003627-002" status="unval">116 FLR 479</ci:span>; <ci:span spanid="cr003628-003">(1993) 12 ACSR 513</ci:span> <ci:span spanid="cr003628-004">at 517</ci:span></citefragment> <remotelink dpsi="0018" refpt="53999" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Olsson J (King CJ and Millhouse J agreeing)).  A person seeking to set aside an examination summons must show that there is an arguable case that the issue of the summons exceeded the court&#x2019;s power under Corporations Act 2001 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0FSQ" refpt="CL.S596B" remotekey1="REFPTID" service="DOC-ID" status="unval">s 596B</remotelink></ci:content></ci:cite>
+.  If the person wants the liquidator to reveal the content of the s 596C(1) affidavit, they must show that access to the affidavit is likely to assist in determining the correctness of the decision to issue the summons:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003629" spanref="cr003629-001"><ci:reporter value="urj"/><ci:refnum num="BC200908305"/></ci:caseref><ci:caseref anaphref="cr003629" spanref="cr003629-002"><ci:pinpoint num="27" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Wily; LED (South Coast) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 946; <ci:span spanid="cr003629-001"> BC200908305</ci:span> <ci:span spanid="cr003629-002">at [27]&#x2013;[29]</ci:span></citefragment> <remotelink dpsi="0018" refpt="479915" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003630" spanref="cr003630-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003631" spanref="cr003631-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003632" spanref="cr003632-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003632" spanref="cr003632-004"><ci:pinpoint num="140" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003630-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003631-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003632-003"> BC200510880</ci:span> <ci:span spanid="cr003632-004">at [140]&#x2013;[141]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr003633" spanref="cr003633-001"><ci:reporter value="ACSR"/><ci:volume num="63"/><ci:page num="384"/></ci:caseref><ci:caseref ID="cr003634" spanref="cr003634-002"><ci:reporter value="urj"/><ci:refnum num="BC200705734"/></ci:caseref><ci:caseref anaphref="cr003634" spanref="cr003634-003"><ci:pinpoint num="25" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ariff v  Fong</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003633-001">(2007) 63 ACSR 384</ci:span>; [2007] NSWCA 183; <ci:span spanid="cr003634-002"> BC200705734</ci:span> <ci:span spanid="cr003634-003">at [25]&#x2013;[26]</ci:span></citefragment> <remotelink dpsi="0018" refpt="440288" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15805-10" leveltype="para0" subdoc="true" toc-caption="[15,805.10] Basis for discharge">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,805.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> ss 596B, 596D.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15805-10" type="ext"/>[15,805.10] </edpnum><title>Basis for discharge</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The court has jurisdiction to set aside examination proceedings initiated for an improper purpose: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr003635" spanref="cr003635-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="52"/><ci:page num="69"/></ci:caseref><ci:caseref ID="cr003636" spanref="cr003636-002"><ci:reporter value="ALR"/><ci:volume num="124"/><ci:page num="281"/></ci:caseref><ci:caseref ID="cr003637" spanref="cr003637-003"><ci:reporter value="ACSR"/><ci:volume num="14"/><ci:page num="407"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Excel Finance Corporation Ltd (rec &amp; mgr apptd); Worthley v England</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003635-001" status="unval">(1994) 52 FCR 69</ci:span>; <ci:span spanid="cr003636-002">124 ALR 281</ci:span>; <ci:span spanid="cr003637-003">14 ACSR 407</ci:span></citefragment> <remotelink dpsi="0018" refpt="68387" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. As to permissible and non-permissible purposes see notes to 
+<remotelink dpsi="05CC" refpt="UCPN.SC.15785" remotekey1="REFPTID" service="DOC-ID" status="unval">[15,785]</remotelink>
+. The question whether in any particular case the applicant has used the procedure abusively will depend upon the applicant&#x2019;s purpose in seeking the order and all of the surrounding circumstances. It will not be an abuse unless an offensive purpose is at least the predominant purpose. It will be an offensive purpose if the application cannot be characterised as being for the benefit of the corporation, its contributories or creditors: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003638" spanref="cr003638-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="145"/><ci:page num="176"/></ci:caseref><ci:caseref ID="cr003639" spanref="cr003639-002"><ci:reporter value="ALR"/><ci:volume num="221"/><ci:page num="331"/></ci:caseref><ci:caseref ID="cr003640" spanref="cr003640-003" status="unval"><ci:volume num=""/><ci:page num=""/></ci:caseref><ci:caseref ID="cr003641" spanref="cr003641-004"><ci:reporter value="urj"/><ci:refnum num="BC200504041"/></ci:caseref><ci:caseref anaphref="cr003641" spanref="cr003641-005"><ci:pinpoint num="252" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re New Tel Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003638-001" status="unval">(2005) 145 FCR 176</ci:span>; <ci:span spanid="cr003639-002">221 ALR 331</ci:span>; <ci:span spanid="cr003640-003" status="unval">[2005]
+FCAFC</ci:span>; <ci:span spanid="cr003641-004"> BC200504041</ci:span> <ci:span spanid="cr003641-005">at [252]</ci:span></citefragment> <remotelink dpsi="0018" refpt="399554" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Lander J (Ryan and Crennan JJ concurring); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003642" spanref="cr003642-001"><ci:reporter value="urj"/><ci:refnum num="BC200606060"/></ci:caseref><ci:caseref anaphref="cr003642" spanref="cr003642-002"><ci:pinpoint num="12" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sule Arnautovic in his capacity as liquidator of Think Systems Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 787; <ci:span spanid="cr003642-001"> BC200606060</ci:span> <ci:span spanid="cr003642-002">at [12]</ci:span></citefragment> <remotelink dpsi="0018" refpt="421555" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The court retains a power to give directions and to restrain questions in cases where the examination is being conducted for an improper purpose or constitutes an abuse of process: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003643" spanref="cr003643-001"><ci:reporter value="NSWLR"/><ci:volume num="65"/><ci:page num="36"/></ci:caseref><ci:caseref ID="cr003644" spanref="cr003644-002"><ci:reporter value="ALR"/><ci:volume num="224"/><ci:page num="588"/></ci:caseref><ci:caseref ID="cr003645" spanref="cr003645-003"><ci:reporter value="urj"/><ci:refnum num="BC200510880"/></ci:caseref><ci:caseref anaphref="cr003645" spanref="cr003645-004"><ci:pinpoint num="8" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003645" spanref="cr003645-005"><ci:pinpoint num="12" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meteyard v Love</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003643-001">(2005) 65 NSWLR 36</ci:span>; <ci:span spanid="cr003644-002">224 ALR 588</ci:span>; [2005] NSWCA 444; <ci:span spanid="cr003645-003"> BC200510880</ci:span> <ci:span spanid="cr003645-004">at [8],</ci:span> <ci:span spanid="cr003645-005">[12]</ci:span></citefragment> <remotelink dpsi="0018" refpt="409028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Santow JA.</text></p>
+<p>
+<text>The fact that an applicant has offered numerous documents for inspection by the liquidator and that a director has offered to and has met with the liquidator to discuss relevant matters does not per se constitute a basis for setting aside a summons. A liquidator is not obliged to proceed in an informal manner and may properly exercise the powers under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596B" remotekey1="REFPTID" service="DOC-ID">ss 596B</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596D" remotekey1="REFPTID" service="DOC-ID">596D</remotelink></ci:content></ci:cite>
+ of the Corporations Act and the Supreme Court (Corporations) Rules in order to obtain evidence on oath or affirmation for a proper purpose and to ensure that all documents are produced in a manner which informal production cannot guarantee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003646" spanref="cr003646-001"><ci:reporter value="urj"/><ci:refnum num="BC201203717"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Coral Resorts Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 560; <ci:span spanid="cr003646-001"> BC201203717</ci:span></citefragment> <remotelink dpsi="0018" refpt="554041" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003647" spanref="cr003647-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="7" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003647-000" status="unval">at [7]</ci:span></citefragment></ci:content></ci:cite> per Black J (offer of production and discussion not sufficient to set aside summons).</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15805-15" leveltype="para0" subdoc="true" toc-caption="[15,805.15] Extension of time">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,805.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 11.5(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15805-15" type="ext"/>[15,805.15] </edpnum><title>Extension of time</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An application for an order discharging an examination summons is to be made within three days after the summons is served: Supreme Court (Corporations) Rules 1999 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D11.R5.2" remotekey1="REFPTID" service="DOC-ID">r 11.5(2)</remotelink></ci:content></ci:cite>
+. However, the time limit in r 11.5(2) may be extended under the rules of court to extend time: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003648" spanref="cr003648-001"><ci:reporter value="ALR"/><ci:volume num="221"/><ci:page num="146"/></ci:caseref><ci:caseref ID="cr003649" spanref="cr003649-002" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200505700"/></ci:caseref><ci:caseref anaphref="cr003649" spanref="cr003649-003" status="unval"><ci:pinpoint num="7" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Bridgeport &#x2014; Advisers &amp; Asset Managers Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003648-001">(2005) 221 ALR 146</ci:span>; [2005] NSWSC 757; <ci:span spanid="cr003649-002" status="unval"> BC200505700</ci:span> <ci:span spanid="cr003649-003" status="unval">at [7]&#x2013;[11]</ci:span></citefragment> <remotelink dpsi="0018" refpt="402412" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J (summons filed 3 weeks after service of summons).</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15-80520" leveltype="para0" subdoc="true" toc-caption="[15,805.20] Non-disclosure"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15-80520" type="ext"/>[15,805.20] </edpnum><title>Non-disclosure</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The subsequent availability of the affidavit in support to the examinee does not lessen the liquidator's duty of disclosure. Non-disclosure in the supporting affidavit of matters material to the decision of the Registrar to issue a summons for examination might result in the summons being set aside. Relevant factors to the exercise of the discretion include whether, had the matters been disclosed, the decision would have been the same and whether the non-disclosure came about through an error of judgment as to the materiality of the matters not disclosed. Where a summons is set aside, the discharge of the summons is not a bar to the applicant making a fresh application on an affidavit which makes full disclosure of all material matters: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003650" spanref="cr003650-001"><ci:reporter value="urj"/><ci:refnum num="BC200610137"/></ci:caseref><ci:caseref anaphref="cr003650" spanref="cr003650-002"><ci:pinpoint num="46" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003650" spanref="cr003650-003"><ci:pinpoint num="58" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Mendarma Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 1306; <ci:span spanid="cr003650-001"> BC200610137</ci:span> <ci:span spanid="cr003650-002">at [46],</ci:span> <ci:span spanid="cr003650-003">[58]&#x2013;[59]</ci:span></citefragment> <remotelink dpsi="0018" refpt="428886" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>  per White J (material non-disclosure of pendency of Equity proceedings &#x2014; summonses set aside).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,810] r 11.6 Filing of record of examination (Corporations Act s 597(13))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R6" type="ext"/>[15,810]</edpnum><title searchtype="RUL-TITLE">Filing of record of examination (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.13" remotekey1="REFPTID" service="DOC-ID">s 597(13)</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>11.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court makes an order in relation to an examination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.13" remotekey1="REFPTID" service="DOC-ID">subsection 597(13)</remotelink></ci:content></ci:cite>
+ of the Corporations Act, the Court may give directions for the filing of the written record of the examination.</text></p>
+<leg:histnote>
+<p><text>[r 11.6  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D11.R6.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15810-5" leveltype="para0" subdoc="true" toc-caption="[15,810.5] Order for record">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,810.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 597(13), s 597(5A).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15810-5" type="ext"/>[15,810.5] </edpnum><title>Order for record</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>By 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.13" remotekey1="REFPTID" service="DOC-ID">s 597(13)</remotelink></ci:content></ci:cite>
+ Corporations Act 2001, the court may order the questions put to a person and the answers given by him or her at an examination to be recorded in writing and may require him or her to sign that written record. Because of the different rules, as to rights of inspection, applicable to different forms of written records of Pt 5.9 examinations and the discretionary nature of s 597(13), it is desirable that the judicial officer presiding at an examination should, at the outset, invite submissions as to appropriate orders and directions on those matters from the examinee, the person upon whose application the examination summons was issued and any person who exercises the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.5A" remotekey1="REFPTID" service="DOC-ID">s 597(5A)</remotelink></ci:content></ci:cite>
+ right to take part in the examination. Explicit orders and directions should be made in the light of any such submissions and in a way that leaves no doubt about the status of any transcript or record for the purposes of the relevant statutory provisions. However, the finding that an order has been made may be implied from an indication that the proceedings are being tape recorded which will later be transcribed and that the examinee is to sign the written record in fact brought into existence. A &#x201c;request for transcript&#x201d; sent by the Deputy Registrar to the Court Reporting Service is not an &#x201c;order&#x201d; for s 597(13) purposes: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003651" spanref="cr003651-001"><ci:reporter value="ALR"/><ci:volume num="219"/><ci:page num="547"/></ci:caseref><ci:caseref ID="cr003652" spanref="cr003652-002"><ci:reporter value="ACSR"/><ci:volume num="54"/><ci:page num="481"/></ci:caseref><ci:caseref ID="cr003653" spanref="cr003653-003"><ci:reporter value="urj"/><ci:refnum num="BC200505709"/></ci:caseref><ci:caseref anaphref="cr003653" spanref="cr003653-004"><ci:pinpoint num="17" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003653" spanref="cr003653-005"><ci:pinpoint num="28" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Strarch Int Pty Ltd (in liq) v Loh</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003651-001">(2005) 219 ALR 547</ci:span>; <ci:span spanid="cr003652-002">54 ACSR 481</ci:span>; [2005] NSWSC 769; <ci:span spanid="cr003653-003"> BC200505709</ci:span> <ci:span spanid="cr003653-004">at [17]</ci:span> <ci:span spanid="cr003653-005">[28]</ci:span></citefragment> <remotelink dpsi="0018" refpt="402419" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15810-10" leveltype="para0" subdoc="true" toc-caption="[15,810.10] Forms of record">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,810.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 596F(1)(e), s 597, s 597(13), s 597(14), s 597(14A), s 597(14A)(a).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15810-10" type="ext"/>[15,810.10] </edpnum><title>Forms of record</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597" remotekey1="REFPTID" service="DOC-ID">Section 597</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001 contemplates two different forms of document recording proceedings at an examination (see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.14" remotekey1="REFPTID" service="DOC-ID">s 597(14)</remotelink></ci:content></ci:cite>
+). The first is a &#x201c;written record of an examination so signed by a person&#x201d; (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.13" remotekey1="REFPTID" service="DOC-ID">s 597(13)</remotelink></ci:content></ci:cite>
+). The second is a &#x201c;transcript of an examination of a person that is authenticated as provided by the rules&#x201d;. The legislation does not preclude the possibility of a document recording proceedings that falls outside both those descriptions. A document within the first description is, by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.14A" remotekey1="REFPTID" service="DOC-ID">s 597(14A)</remotelink></ci:content></ci:cite>
+, available for inspection by any person (subject to payment of a fee if the person is not within 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.14A.A" remotekey1="REFPTID" service="DOC-ID">s 597(14A)(a)</remotelink></ci:content></ci:cite>
+) and that the right of inspection under s 597(14A) cannot be abrogated by a direction under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S596F.1.E" remotekey1="REFPTID" service="DOC-ID">s 596F(1)(e)</remotelink></ci:content></ci:cite>
+: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003654" spanref="cr003654-001"><ci:reporter value="ALR"/><ci:volume num="219"/><ci:page num="547"/></ci:caseref><ci:caseref ID="cr003655" spanref="cr003655-002"><ci:reporter value="ACSR"/><ci:volume num="54"/><ci:page num="481"/></ci:caseref><ci:caseref ID="cr003656" spanref="cr003656-003"><ci:reporter value="urj"/><ci:refnum num="BC200505709"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Strarch Int Pty Ltd (in liq) v Loh</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003654-001">(2005) 219 ALR 547</ci:span>; <ci:span spanid="cr003655-002">54 ACSR 481</ci:span>; [2005] NSWSC 769; <ci:span spanid="cr003656-003"> BC200505709</ci:span></citefragment> <remotelink dpsi="0018" refpt="402419" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,815] r 11.7 Authentication of transcript of examination (Corporations Act s 597(14))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R7" type="ext"/>[15,815]</edpnum><title searchtype="RUL-TITLE">Authentication of transcript of examination (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.14" remotekey1="REFPTID" service="DOC-ID">s 597(14)</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>11.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597.14" remotekey1="REFPTID" service="DOC-ID">subsection 597(14)</remotelink></ci:content></ci:cite>
+ of the Corporations Act, a transcript of an examination may be authenticated:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R7..A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R7..A" type="ext"/>(a)</lilabel>
+<p><text>by the person, or persons, who prepared the record of examination, or under whose supervision the record was prepared, certifying in writing signed by the person or persons, that the record is a true transcript of the record of examination; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R7..B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R7..B" type="ext"/>(b)</lilabel>
+<p><text>by any person present at the examination, or any part of the examination, signing the person&#x2019;s name at the bottom of each page of the written record that records a part of the examination at which the person was present.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 11.7  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,820] r 11.8 Inspection of record or transcript of examination or investigation under s 411, s 423 or s 536 of the Corporations Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R8" type="ext"/>[15,820]</edpnum><title searchtype="RUL-TITLE">Inspection of record or transcript of examination or investigation under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S411" remotekey1="REFPTID" service="DOC-ID">s 411</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S423" remotekey1="REFPTID" service="DOC-ID">s 423</remotelink></ci:content></ci:cite>
+ or <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536" remotekey1="REFPTID" service="DOC-ID">s 536</remotelink></ci:content></ci:cite>
+ of the Corporations Act</title><desig searchtype="RUL-NUM"><designum>11.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11.R8.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A written record or transcript of an examination or investigation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S411" remotekey1="REFPTID" service="DOC-ID">section 411</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S423" remotekey1="REFPTID" service="DOC-ID">423</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536" remotekey1="REFPTID" service="DOC-ID">536</remotelink></ci:content></ci:cite>
+ is not available for inspection by any person except:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R8.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R8.1.A" type="ext"/>(a)</lilabel>
+<p><text>with the consent of the liquidator (if any) or ASIC; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R8.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R8.1.B" type="ext"/>(b)</lilabel>
+<p><text>by leave of the Court.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R8.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule does not apply to the liquidator, ASIC or any person authorised by ASIC.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 11.8  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,825] r 11.9 Entitlement to record or transcript of examination held in public">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R9" type="ext"/>[15,825]</edpnum><title searchtype="RUL-TITLE">Entitlement to record or transcript of examination held in public</title><desig searchtype="RUL-NUM"><designum>11.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11.R9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies if:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R9.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R9.1.A" type="ext"/>(a)</lilabel>
+<p><text>an examination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S597" remotekey1="REFPTID" service="DOC-ID">section 597</remotelink></ci:content></ci:cite>
+ of the Corporations Act is held wholly or partly in public; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R9.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R9.1.B" type="ext"/>(b)</lilabel>
+<p><text>a written record or transcript of the examination is filed in the Court.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The person examined may apply to the Registrar, within 3 years after the date of completion of the examination, for a copy of the record or transcript of the part of the examination of the person held in public.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R9.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On receiving an application from a person under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D11.R9.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+, and any applicable fee, the Registrar must give a copy of the record or transcript to the person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,830] r 11.10 Default in relation to examination">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R10" type="ext"/>[15,830]</edpnum><title searchtype="RUL-TITLE">Default in relation to examination</title><desig searchtype="RUL-NUM"><designum>11.10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11.R10.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies if a person is summoned or ordered by the Court to attend for examination, and:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R10.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.1.A" type="ext"/>(a)</lilabel>
+<p><text>without reasonable cause, the person:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R10.1.A.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.1.A.I" type="ext"/>(i)</lilabel>
+<p><text>fails to attend at the time and place appointed; or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D11.R10.1.A.II"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.1.A.II" type="ext"/>(ii)</lilabel>
+<p><text>fails to attend from day to day until the conclusion of the examination; or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D11.R10.1.A.III"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.1.A.III" type="ext"/>(iii)</lilabel>
+<p><text>refuses or fails to take an oath or make an affirmation; or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D11.R10.1.A.IV"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.1.A.IV" type="ext"/>(iv)</lilabel>
+<p><text>refuses or fails to answer a question that the Court directs the person to answer; or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D11.R10.1.A.V"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.1.A.V" type="ext"/>(v)</lilabel>
+<p><text>refuses or fails to produce books that the summons requires the person to produce; or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D11.R10.1.A.VI"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.1.A.VI" type="ext"/>(vi)</lilabel>
+<p><text>fails to comply with a requirement by the Court to sign a written record of the examination; or</text></p>
+</li></l></li>
+<li id="UCPN.SC.CLRUN00.D11.R10.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.1.B" type="ext"/>(b)</lilabel>
+<p><text>before the day fixed for the examination, the person who applied for the summons or order satisfies the Court that there is reason to believe that the person summoned or ordered to attend for examination has absconded or is about to abscond.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R10.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D11.R10.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.2.A" type="ext"/>(a)</lilabel>
+<p><text>issue a warrant for the arrest of the person summoned or ordered to attend for examination; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D11.R10.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D11.R10.2.B" type="ext"/>(b)</lilabel>
+<p><text>make any other orders that the Court thinks just or necessary.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D11.R10.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15830-5" leveltype="para0" subdoc="true" toc-caption="[15,830.5] Basis for issue of warrant">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,830.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> subr (2)(a).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15830-5" type="ext"/>[15,830.5] </edpnum><title>Basis for issue of warrant</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The authority to issue a warrant for the arrest of the person summoned conferred by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D11.R10.2.A" remotekey1="REFPTID" service="DOC-ID">subr (2)(a)</remotelink></ci:content></ci:cite>
+ depends on proof: first, that the person has been summoned or ordered by the court to attend for examination; secondly, that the person has (relevantly) failed to attend at the time and place appointed, or failed to attend from day to day until the conclusion of the examination; and, thirdly, has done so without reasonable cause: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003657" spanref="cr003657-001"><ci:reporter value="urj"/><ci:refnum num="BC200506404"/></ci:caseref><ci:caseref anaphref="cr003657" spanref="cr003657-002"><ci:pinpoint num="34" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Struthers (in his capacity as liquidator) of PACI Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 864; <ci:span spanid="cr003657-001"> BC200506404</ci:span> <ci:span spanid="cr003657-002">at [34]</ci:span></citefragment> <remotelink dpsi="0018" refpt="403430" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Brereton J.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15830-10" leveltype="para0" subdoc="true" toc-caption="[15,830.10] Procedure">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,830.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 97, s 97(2).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 38.6.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15830-10" type="ext"/>[15,830.10] </edpnum><title>Procedure</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Supreme Court (Corporations) Rules 1999 make no specific provision for the procedure on application for issue of a warrant under r 11.10. Rule 11.10 is an independent source of power to issue a warrant, not dependent upon CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S97" remotekey1="REFPTID" service="DOC-ID">s 97</remotelink></ci:content></ci:cite>
+; but procedures applicable under s 97 (and previously under former SCR Pt 42 r 7) provide some guidance, at least by analogy, with the exception that UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R38-6" remotekey1="REFPTID" service="DOC-ID">r 38.6</remotelink></ci:content></ci:cite>
+ does not apply. While r 11.10 does not explicitly provide that an order under that rule may be made ex parte, semble by analogy to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S97.2" remotekey1="REFPTID" service="DOC-ID">s 97(2)</remotelink></ci:content></ci:cite>
+ CPA and the issue of bench warrants the application may be ex parte: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003658" spanref="cr003658-001"><ci:reporter value="urj"/><ci:refnum num="BC200506404"/></ci:caseref><ci:caseref anaphref="cr003658" spanref="cr003658-002"><ci:pinpoint num="37" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003658" spanref="cr003658-003"><ci:pinpoint num="38" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003658" spanref="cr003658-004"><ci:pinpoint num="47" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Struthers (in his capacity as liquidator) of PACI Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 864; <ci:span spanid="cr003658-001"> BC200506404</ci:span> <ci:span spanid="cr003658-002">at [37],</ci:span> <ci:span spanid="cr003658-003">[38],</ci:span> <ci:span spanid="cr003658-004">[47]</ci:span></citefragment> <remotelink dpsi="0018" refpt="403430" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Brereton J.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15830-15" leveltype="para0" subdoc="true" toc-caption="[15,830.15] Failure to attend"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15830-15" type="ext"/>[15,830.15] </edpnum><title>Failure to attend</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The term &#x201c;at the time and place appointed&#x201d; should not be construed too narrowly and where by arrangement between the liquidator and the examinee, another date was substituted for the time and place originally appointed, that will be the relevant date. Alternatively, if no date is substituted, but the listing is adjourned, failure to attend on the adjourned date may constitute a failure to attend &#x201c;from day to day until the conclusion of the examination&#x201d;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003659" spanref="cr003659-001"><ci:reporter value="urj"/><ci:refnum num="BC200506404"/></ci:caseref><ci:caseref anaphref="cr003659" spanref="cr003659-002"><ci:pinpoint num="42" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Struthers (in his capacity as liquidator) of PACI Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 864; <ci:span spanid="cr003659-001"> BC200506404</ci:span> <ci:span spanid="cr003659-002">at [42]</ci:span></citefragment> <remotelink dpsi="0018" refpt="403430" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Brereton J.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15830-20" leveltype="para0" subdoc="true" toc-caption="[15,830.20] Absence of reasonable cause"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15830-20" type="ext"/>[15,830.20] </edpnum><title>Absence of reasonable cause</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Semble the liquidator bears the onus of negativing reasonable cause. However, since knowledge of the cause is in the possession almost exclusively of the examinees, relatively slight evidence would be required to discharge that onus. Where steps have been taken, by letter and telephone, to warn the examinees&#x2019; solicitor of the imperative that the examinees attend, and of the consequences should they fail to do so, and failure to respond to such requests or assertions that the examinees were &#x201c;not available&#x201d;, or at the highest &#x201c;had some urgent business to attend to&#x201d; may suffice to negative reasonable cause. Responses given by the examinees during any partially completed examination might also be relevant: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003660" spanref="cr003660-001"><ci:reporter value="urj"/><ci:refnum num="BC200506404"/></ci:caseref><ci:caseref anaphref="cr003660" spanref="cr003660-002"><ci:pinpoint num="44" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Struthers (in his capacity as liquidator) of PACI Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 864; <ci:span spanid="cr003660-001"> BC200506404</ci:span> <ci:span spanid="cr003660-002">at [44]</ci:span></citefragment> <remotelink dpsi="0018" refpt="403430" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Brereton J.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15830-25" leveltype="para0" subdoc="true" toc-caption="[15,830.25] Discretionary considerations"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15830-25" type="ext"/>[15,830.25] </edpnum><title>Discretionary considerations</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Although the conditions for issue of a warrant might be satisfied, the decision to issue a warrant remains a discretionary one. Relevant discretionary considerations include </text>
+<l>
+<li><lilabel>(1)</lilabel>
+<p>
+<text>the prima facie entitlement of a person who has procured the issue of a subpoena or examinations summons which has not been set aside to have it complied with and, if not, enforced;</text></p></li>
+<li><lilabel>(2)</lilabel>
+<p>
+<text>the importance of securing compliance with orders of the court intended to enable relevant evidence or information to be obtained in the interests of justice;</text></p></li>
+<li><lilabel>(3)</lilabel>
+<p>
+<text>the reasonableness of steps already taken to obtain the co-operative attendance of the examinee or witness and the possibility of securing attendance by less extreme means; and</text></p></li>
+<li><lilabel>(4)</lilabel>
+<p>
+<text>whether the burden imposed by the subpoena or summons is prima facie oppressive: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003661" spanref="cr003661-001"><ci:reporter value="urj"/><ci:refnum num="BC200506404"/></ci:caseref><ci:caseref anaphref="cr003661" spanref="cr003661-002"><ci:pinpoint num="45" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Struthers (in his capacity as liquidator) of PACI Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 864; <ci:span spanid="cr003661-001"> BC200506404</ci:span> <ci:span spanid="cr003661-002">at [45]</ci:span></citefragment> <remotelink dpsi="0018" refpt="403430" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Brereton J.</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15830-30" leveltype="para0" subdoc="true" toc-caption="[15,830.30] Form of order"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15830-30" type="ext"/>[15,830.30] </edpnum><title>Form of order</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>By analogy with a bench warrant in the case of a witness who fails to attend a trial in answer to a subpoena, the appropriate course would ordinarily be to secure the attendance of the examinee at court at the earliest possible date so that the examination may proceed. It is not necessary to defer the issue of the warrant or order that it should lie in the Registry for some time before execution. There is no necessity for the form of warrant for arrest to contain provision for the examinee to avoid being taken into custody by paying a sum of money into court as security for his or her appearance. The court may direct service of notice of the order for issue of the warrant on the examinees&#x2019; solicitor so that the examinees may apply for discharge of the order if so advised: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003662" spanref="cr003662-001"><ci:reporter value="urj"/><ci:refnum num="BC200506404"/></ci:caseref><ci:caseref anaphref="cr003662" spanref="cr003662-002"><ci:pinpoint num="45" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Struthers (in his capacity as liquidator) of PACI Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 864; <ci:span spanid="cr003662-001"> BC200506404</ci:span> <ci:span spanid="cr003662-002">at [48]&#x2013;[50]</ci:span></citefragment> <remotelink dpsi="0018" refpt="403430" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Brereton J.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R11"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,835] r 11.11 Service of application for order in relation to breaches etc by person concerned with corporation (Corporations Act s 598)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D11.R11" type="ext"/>[15,835]</edpnum><title searchtype="RUL-TITLE">Service of application for order in relation to breaches etc by person concerned with corporation (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S598" remotekey1="REFPTID" service="DOC-ID">s 598</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>11.11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D11.R11.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to a person applying for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S598" remotekey1="REFPTID" service="DOC-ID">section 598</remotelink></ci:content></ci:cite>
+ of the Corporations Act.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D11.R11.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D11.R11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In addition to complying with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R2.7" remotekey1="REFPTID" service="DOC-ID" status="unval">rules 2.7</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R2.8" remotekey1="REFPTID" service="DOC-ID" status="unval">2.8</remotelink></ci:content></ci:cite>
+, the person must serve a copy of the originating process, or interlocutory process, as the case requires, and the supporting affidavit on any liquidator or provisional liquidator (except if the person is the liquidator or provisional liquidator) of the corporation or body.</text></p>
+<glp:note>
+<heading><title>Note</title></heading>
+<p>
+<text>Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R2.7" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 2.7</remotelink></ci:content></ci:cite>
+, a plaintiff must serve a copy of the originating process, and any supporting affidavit, on a defendant to the proceeding and, if necessary, on the corporation to which the proceeding relates; and an applicant must serve a copy of an interlocutory process, and any supporting affidavit, on a respondent to the proceeding and, if necessary, on the corporation to which the proceeding relates. In certain cases, these documents may also be required to be served on ASIC &#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R2.8" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 2.8</remotelink></ci:content></ci:cite>
+.</text></p></glp:note><leg:histnote>
+<p><text>[subr (2)  am Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 11.11  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

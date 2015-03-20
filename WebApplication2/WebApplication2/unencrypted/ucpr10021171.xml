@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 16 DEFAULT JUDGMENT [rr 16.1&#x2013;16.10]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT16</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="me"><heading><title>PART 16 DEFAULT JUDGMENT [rr 16.1&#x2013;16.10]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010570</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT16"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 16 DEFAULT JUDGMENT [rr 16.1&#x2013;16.10]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT16" type="ext"/>PART 16</designum></desig><title searchtype="PART-TITLE">DEFAULT JUDGMENT [rr 16.1&#x2013;16.10]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="48*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="54*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Default judgment &#x2014; Rules 16.1&#x2013;16.3 and 16.10</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These provisions permit a plaintiff to obtain judgment where a defendant has failed to file or verify a defence and where a defence has been struck out. They govern the application procedure and the available forms of judgment.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Default judgment &#x2014; specified claims &#x2014; Rules 16.4&#x2013;16.9</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These provisions specify the permissible forms of default judgment, and the required supporting affidavit evidence, for various specified claims, including claims for possession of land, detention of goods, the recovery of debts, liquidated and unliquidated claims, mixed claims and claims for costs alone.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">This Part applies to all courts in UCPR Sch 1 except <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-4" remotekey1="REFPTID" service="DOC-ID">r 16.4</remotelink></ci:content></ci:cite>
+which does not apply to the Local Court, Small Claims Division and civil proceedings in the Industrial Court or the Industrial Relations Commission: see <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-5" remotekey1="REFPTID" service="DOC-ID">r 1.5</remotelink></ci:content></ci:cite>
+and Sch 1.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical Note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The Part substantially repeats the former SCR Part 17, DCR Part 13 and LCR Part 11. It includes, within the concept of default, the position where a defence has been struck out.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="col5" namest="col1" rowsep="0">Quick index</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Affidavit in support &#x2009;&#x2025;&#x2009; <remotelink dpsi="05CC" refpt="UCPN.UCPR.16-6-20" remotekey1="REFPTID" service="DOC-ID">[16.6.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Application of Part &#x2009;&#x2025;&#x2009; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-1" remotekey1="REFPTID" service="DOC-ID">[r 16.1]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Approved form&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-4-2" remotekey1="REFPTID" service="DOC-ID">[16.4.2]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.16-5-5" remotekey1="REFPTID" service="DOC-ID">[16.5.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.16-6-5" remotekey1="REFPTID" service="DOC-ID">[16.6.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.16-7-5" remotekey1="REFPTID" service="DOC-ID">[16.7.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Claim for detention of goods&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-5-10" remotekey1="REFPTID" service="DOC-ID">[16.5.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Claims for interest&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-6-10" remotekey1="REFPTID" service="DOC-ID">[16.6.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Damages to be assessed&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-7-10" remotekey1="REFPTID" service="DOC-ID">[16.7.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on claim for detention of goods&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-5" remotekey1="REFPTID" service="DOC-ID">[r 16.5]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on claim for detention of goods, affidavit to support&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-5.2" remotekey1="REFPTID" service="DOC-ID">[r 16.5(2)]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on claim for possession of land&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-4" remotekey1="REFPTID" service="DOC-ID">[r 16.4]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on claim for possession of land, affidavit to support claim for possession&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-4.3" remotekey1="REFPTID" service="DOC-ID">[r 16.4(3)]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on claim for unliquidated damages&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-7" remotekey1="REFPTID" service="DOC-ID">[r 16.7]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on claim for unliquidated damages , affidavit in support&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-7.2" remotekey1="REFPTID" service="DOC-ID">[r 16.7(2)]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on debt or liquidated claim&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-6" remotekey1="REFPTID" service="DOC-ID">[r 16.6]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on debt or liquidated claim, affidavit to support judgment&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-6.2" remotekey1="REFPTID" service="DOC-ID">[r 16.6(2)]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Default judgment on mixed claims&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-8" remotekey1="REFPTID" service="DOC-ID">[r 16.8]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Definition of &#x201c;in default&#x201d;&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-2" remotekey1="REFPTID" service="DOC-ID">[r 16.2]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Description of land&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-4-5" remotekey1="REFPTID" service="DOC-ID">[16.4.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Evidence of service of statement of claim&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-3-7" remotekey1="REFPTID" service="DOC-ID">[16.3.7]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Failure to file or verify a defence&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-2-5" remotekey1="REFPTID" service="DOC-ID">[16.2.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Form of application for default judgment&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-3-5" remotekey1="REFPTID" service="DOC-ID">[16.3.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Judgment for costs alone after other claims satisfied&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-9" remotekey1="REFPTID" service="DOC-ID">[r 16.9]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Judgment not limited by plaintiff&#x2019;s claims for relief&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-10" remotekey1="REFPTID" service="DOC-ID">[r 16.10]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Liquidated claim&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-6-15" remotekey1="REFPTID" service="DOC-ID">[16.6.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice of intention to make application for default judgment&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-3-10" remotekey1="REFPTID" service="DOC-ID">[16.3.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice to occupiers and tenants&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-4-10" remotekey1="REFPTID" service="DOC-ID">[16.4.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Procedure where defendant in default&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-3" remotekey1="REFPTID" service="DOC-ID">[r 16.3]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Purpose of rule&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-6-7" remotekey1="REFPTID" service="DOC-ID">[16.6.7]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Setting aside default judgment&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R36-16" remotekey1="REFPTID" service="DOC-ID">[r 36.16(2)(a)]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Sheriff required to give notice before enforcement&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.16-4-15" remotekey1="REFPTID" service="DOC-ID">[16.4.15]</remotelink></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.1] r 16.1 Application of Part (cf SCR Part 17, rule 1; DCR Part 13, rule 1; LCR Part 11, rule 1) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-1" type="ext"/>[r 16.1]</edpnum><title searchtype="RUL-TITLE">Application of Part (cf SCR Part 17, rule 1; DCR Part 13, rule 1; LCR Part 11, rule 1) </title><desig searchtype="RUL-NUM"><designum>16.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to proceedings commenced by statement of claim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.2] r 16.2 Definition of &#x2033;in default&#x2033; (cf SCR Part 17, rule 2; DCR Part 13, rule 1; LCR Part 11, rule 1)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-2" type="ext"/>[r 16.2]</edpnum><title searchtype="RUL-TITLE">Definition of &quot;in default&quot; (cf SCR Part 17, rule 2; DCR Part 13, rule 1; LCR Part 11, rule 1)</title><desig searchtype="RUL-NUM"><designum>16.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A defendant is <defterm><emph typestyle="bf">in default</emph></defterm> for the purposes of this Part:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-2.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-2.1.A" type="ext"/>(a)</lilabel>
+<p><text>if the defendant fails to file a defence within the time limited by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-3.1" remotekey1="REFPTID" service="DOC-ID">rule 14.3(1)</remotelink></ci:content></ci:cite>
+ or within such further time as the court allows, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-2.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-2.1.B" type="ext"/>(b)</lilabel>
+<p><text>if the defendant fails to file any affidavit verifying his or her defence in accordance with any requirement of these rules, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-2.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-2.1.C" type="ext"/>(c)</lilabel>
+<p><text>if, the defendant having duly filed a defence, the court orders the defence to be struck out.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Despite subrule (1), a defendant is not in default if the defendant:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-2.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-2.2.A" type="ext"/>(a)</lilabel>
+<p><text>has made a payment towards a liquidated claim under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-17" remotekey1="REFPTID" service="DOC-ID">rule 6.17</remotelink></ci:content></ci:cite>
+, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-2.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-2.2.B" type="ext"/>(b)</lilabel>
+<p><text>has filed an acknowledgment of claim under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-34" remotekey1="REFPTID" service="DOC-ID">rule 20.34</remotelink></ci:content></ci:cite>
+, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-2.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-2.2.C" type="ext"/>(c)</lilabel>
+<p><text>has filed a defence after the time limited by these rules or allowed by the court, but before a default judgment is given against the defendant.</text></p>
+<p><leg:histnote>
+<p><text>[subr (2)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote></p></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT16.R2.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.16-2-5" leveltype="para0" subdoc="true" toc-caption="[16.2.5] Failure to file or verify a defence">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.2.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 14.23(2), r 14.28, rr 22.5(1)(b), 23.9(1)(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-2-5" type="ext"/>[16.2.5] </edpnum><title>Failure to file or verify a defence</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The rule expressly applies in three situations: (i) where a defendant has failed to file a defence in accordance with r 14.3(1); (ii) where a defendant has failed to verify a defence in accordance with
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-23.2" remotekey1="REFPTID" service="DOC-ID"> r 14.23(2)</remotelink></ci:content></ci:cite>
+; and (iii) where a defence has been struck out (eg, under
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-28" remotekey1="REFPTID" service="DOC-ID"> r 14.28</remotelink></ci:content></ci:cite>
+ because it discloses no reasonable defence). The rule does not directly apply to a failure to comply with other rules or with a failure to comply with directions. But the court has a general power to sanction non-compliance with orders and directions, including a power to strike out a defence and enter judgment: see 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61.3" remotekey1="REFPTID" service="DOC-ID">s 61(3)</remotelink>
+ of the CPA. And many provisions of the rules contain additional specific powers to sanction non-compliance: eg, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R22-5.1.B" remotekey1="REFPTID" service="DOC-ID">rr 22.5(1)(b)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R23-9.1.B" remotekey1="REFPTID" service="DOC-ID">23.9(1)(b)</remotelink></ci:content></ci:cite>
+. If a defendant fails to comply with a specific direction for the filing of a defence, particularly where the defendant has appeared at, and taken part in, directions hearings in the proceedings, a further application for directions should be made, and that application may include an application for judgment: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004229" spanref="cr004229-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="188"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Altarama Ltd v Forsyth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004229-001">[1981] 1 NSWLR 188</ci:span></citefragment> <remotelink dpsi="0018" refpt="82510" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.3] r 16.3 Procedure where defendant in default (cf SCR Part 17, rule 3; DCR Part 13, rule 1)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-3" type="ext"/>[r 16.3]</edpnum><title searchtype="RUL-TITLE">Procedure where defendant in default (cf SCR Part 17, rule 3; DCR Part 13, rule 1)</title><desig searchtype="RUL-NUM"><designum>16.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a defendant is in default, the plaintiff:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-3.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-3.1.A" type="ext"/>(a)</lilabel>
+<p><text>may apply for judgment to be given under this Part, according to the nature of his or her claim for relief, given the defendant in default, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-3.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-3.1.B" type="ext"/>(b)</lilabel>
+<p><text>may carry on the proceedings against any other party to the proceedings.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-3.1A"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-3.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court otherwise orders, an application under this rule:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-3.1A.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-3.1A.A" type="ext"/>(a)</lilabel>
+<p><text>may be dealt with in the absence of the parties, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-3.1A.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-3.1A.B" type="ext"/>(b)</lilabel>
+<p><text>need not be served on the defendant.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1A)  insrt Amendment 1 of 2005 r 3 and Sch 1[29], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court orders otherwise, an application for judgment to be given under this Part must be accompanied by:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-3.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-3.2.A" type="ext"/>(a)</lilabel>
+<p><text>an affidavit of service of the statement of claim (<defterm><emph typestyle="bf">the affidavit of service</emph></defterm>), and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-3.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-3.2.B" type="ext"/>(b)</lilabel>
+<p><text>an affidavit in support of the application (<defterm><emph typestyle="bf">the affidavit in support</emph></defterm>).</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An affidavit of service is unnecessary in relation to a statement of claim whose service has been effected by the Local Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R10-1.2" remotekey1="REFPTID" service="DOC-ID">rule 10.1(2)</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  am Amendment 19 of 2007  r 3 and Sch 2[1], effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court orders otherwise, an affidavit in support is valid for the purposes of an application only if it has been sworn within 14 days before the date on which the application is filed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT16.R3.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.16-3-5" leveltype="para0" subdoc="true" toc-caption="[16.3.5] Form of application for default judgment"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-3-5" type="ext"/>[16.3.5] </edpnum><title>Form of application for default judgment</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An application for default judgment should be made by Notice of Motion &#x2014; even though the rules do not explicitly so require &#x2014; conditionally seek dispensation with any requirement for service of the application and seek judgment to be given in the absence of the parties. The approved forms for the relevant Notices of Motion are:</text>
+<l>
+<li>
+<lilabel>Form 36</lilabel>
+<p><text>Default judgment on claim for possession of land.</text></p></li>
+<li>
+<lilabel>Form 37</lilabel>
+<p><text>Default judgment for detention of goods.</text></p></li>
+<li>
+<lilabel>Form 38</lilabel>
+<p><text>Default judgment for liquidated claim.</text></p></li>
+<li>
+<lilabel>Form 39</lilabel>
+<p><text>Default judgment for unliquidated damages.</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-3-7" leveltype="para0" subdoc="true" toc-caption="[16.3.7] Evidence of service of statement of claim"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-3-7" type="ext"/>[16.3.7] </edpnum><title>Evidence of service of statement of claim</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The applicant for default judgment must provide clear evidence of service of the statement of claim. Irrespective of whether or not service has been effected by post, or personally, there must be reliable evidence of the despatch or delivery and the contents of the relevant documents. If service by post is relied on, the evidence should detail the addressee, the actual documents despatched and the circumstances of the posting. Imprecise statements that an envelope &#x201c;was posted&#x201d; (or delivered) risk being rejected as insufficient evidence of service: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004230" spanref="cr004230-001"><ci:reporter value="urj"/><ci:refnum num="BC200609566"/></ci:caseref><ci:caseref anaphref="cr004230" spanref="cr004230-002"><ci:pinpoint num="12" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Northumbrian Ice Cream Co Ltd v Breakaway Vending Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 1216; <ci:span spanid="cr004230-001"> BC200609566</ci:span> <ci:span spanid="cr004230-002">at [12]</ci:span></citefragment> <remotelink dpsi="0018" refpt="428022" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (evidence required of (i) address (ii) correct postage (iii) the actual documents posted, and (iv) actual posting); compare <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004231" spanref="cr004231-001"><ci:reporter value="urj"/><ci:refnum num="BC201006283"/></ci:caseref><ci:caseref anaphref="cr004231" spanref="cr004231-002"><ci:pinpoint num="24" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Renegade Rigging Pty Ltd v Hanlon Nominees Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] VSC 385; <ci:span spanid="cr004231-001"> BC201006283</ci:span> <ci:span spanid="cr004231-002">at [24]</ci:span></citefragment> <remotelink dpsi="0018" refpt="502089" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (evidence of usual &#x201c;posting&#x201d; procedures and compliance with them).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-3-10" leveltype="para0" subdoc="true" toc-caption="[16.3.10] Notice of intention to make application for default judgment">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.3.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 36.15 and 36.16.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-3-10" type="ext"/>[16.3.10] </edpnum><title>Notice of intention to make application for default judgment</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A plaintiff who applies for default judgment under this Part is not explicitly required to give the defaulting defendant notice (other than that contained in the Statement of Claim itself) of the intended application for judgment: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004232" spanref="cr004232-001"><ci:reporter value="urj"/><ci:refnum num="BC200104963"/></ci:caseref><ci:caseref anaphref="cr004232" spanref="cr004232-002"><ci:pinpoint num="89" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Micallef v ICI Australia Operations Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWCA 274; <ci:span spanid="cr004232-001"> BC200104963</ci:span> <ci:span spanid="cr004232-002">at [89]</ci:span></citefragment> <remotelink dpsi="0018" refpt="333035" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1968"/></ci:caseinfo><ci:caseref ID="cr004233" spanref="cr004233-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1968"/></ci:edition><ci:page num="529"/></ci:caseref><ci:caseref ID="cr004234" spanref="cr004234-002" status="unval"><ci:reporter value="WNPt1NSW"/><ci:volume num="88"/><ci:page num="405"/></ci:caseref><ci:caseref anaphref="cr004234" spanref="cr004234-003" status="unval"><ci:pinpoint num="410" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Witten v Lombard Australia Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004233-001" status="unval">[1968] 2 NSWR 529</ci:span>; <ci:span spanid="cr004234-002" status="unval">(1968) 88 WN (Pt 1) (NSW) 405</ci:span> <ci:span spanid="cr004234-003" status="unval">at 410</ci:span></citefragment> <remotelink dpsi="0018" refpt="78945" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (cases rejecting the requirement for prior notice of an intention to apply for dismissal for want of prosecution).</text></p>
+<p>
+<text>However, the absence of any specific requirement for explicit prior notice does not detract from the prudence of attempting to enquire of a defendant, before applying for default judgment, whether it intends to defend the action, and putting it on notice of a specific intention to apply for default judgment if a defence is not filed in a timely manner: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1919"/></ci:caseinfo><ci:caseref ID="cr004235" spanref="cr004235-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="19"/><ci:page num="104"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bushby v MacKenzie</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004235-001" status="unval">(1919) 19 SR (NSW) 104</ci:span></citefragment> <remotelink dpsi="0018" refpt="69927" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004236" spanref="cr004236-001" status="unval"><ci:reporter value="Ch"/><ci:edition><ci:date year="1940"/></ci:edition><ci:page num="415"/></ci:caseref><ci:caseref ID="cr004237" spanref="cr004237-002"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1940"/></ci:edition><ci:page num="342"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Redditch Benefit Building Society v Roberts</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004236-001" status="unval">[1940] Ch 415</ci:span>; <ci:span spanid="cr004237-002">[1940] 1 All ER 342</ci:span></citefragment> <remotelink dpsi="0018" refpt="197771" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1929"/></ci:caseinfo><ci:caseref ID="cr004238" spanref="cr004238-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="46"/><ci:page num="171"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Reid v Taylor</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004238-001" status="unval">(1929) 46 WN(NSW) 171</ci:span></citefragment></ci:content></ci:cite>. The prudence of this practice is related to minimising both the prospects of, and costs risk that may be associated with, any subsequent application by the defendant to set aside the judgment (under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R36-15" remotekey1="REFPTID" service="DOC-ID">rr 36.15 and 36.16</remotelink></ci:content></ci:cite>
+): <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004239" spanref="cr004239-001"><ci:reporter value="urj"/><ci:refnum num="BC9203275"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Emibarb Pty Ltd v Commonwealth Bank of Australia</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004239-001"> (NSWSC, Greenwood M, 2 March 1992, BC9203275)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004240" spanref="cr004240-001"><ci:reporter value="urj"/><ci:refnum num="BC200609566"/></ci:caseref><ci:caseref anaphref="cr004240" spanref="cr004240-002"><ci:pinpoint num="16" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Northumbrian Ice Cream Co Ltd v Breakaway Vending Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 1216; <ci:span spanid="cr004240-001"> BC200609566</ci:span> <ci:span spanid="cr004240-002">at [16]</ci:span></citefragment> <remotelink dpsi="0018" refpt="428022" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Brereton J.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.4] r 16.4 Default judgment on claim for possession of land (cf SCR Part 17, rule 7)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-4" type="ext"/>[r 16.4]</edpnum><title searchtype="RUL-TITLE">Default judgment on claim for possession of land (cf SCR Part 17, rule 7)</title><desig searchtype="RUL-NUM"><designum>16.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R36-8" remotekey1="REFPTID" service="DOC-ID">rule 36.8</remotelink></ci:content></ci:cite>
+, if the plaintiff&#x2019;s claim against a defendant in default is for possession of land only, judgment may be given for the plaintiff for possession of land, as against the defendant, and for costs.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, before judgment is given, any person files notice of motion for the person&#x2019;s addition as a defendant, judgment may not be given under this rule until the motion is disposed of.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[3], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The relevant affidavit in support:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-4.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.A" type="ext"/>(a)</lilabel>
+<p><text>must identify any persons (other than parties to the proceedings) who were in occupation of the whole or any part of the land:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-4.3.A.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.A.I" type="ext"/>(i)</lilabel>
+<p><text>as at the time the originating process was filed, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-4.3.A.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.A.II" type="ext"/>(ii)</lilabel>
+<p><text>if the claim for possession arises from an amendment to the originating process, as at the time the amendment was made,</text></p>
+</li></l>
+<p><text>and, if any such person was in occupation of the land pursuant to a right of occupation under a residential tenancy agreement within the meaning of the Residential Tenancies Act 2010, must contain a statement to that effect, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-4.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.B" type="ext"/>(b)</lilabel>
+<p><text>in relation to each such person:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-4.3.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.B.I" type="ext"/>(i)</lilabel>
+<p><text>must state that the person&#x2019;s occupation of the land is not to be disturbed, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-4.3.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.B.II" type="ext"/>(ii)</lilabel>
+<p><text>must state that the person is no longer in occupation of any part of the land, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-4.3.B.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.B.III" type="ext"/>(iii)</lilabel>
+<p><text>must state that the person has been served with a notice pursuant to
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-8" remotekey1="REFPTID" service="DOC-ID"> rule 6.8</remotelink></ci:content></ci:cite>
+ and that the time allowed for the person to apply to the court to be joined as a defendant has now passed,</text></p>
+</li></l>
+<p><text>as the case requires, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-4.3.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.C" type="ext"/>(c)</lilabel>
+<p><text>if the claim for possession of the land arises from a default in the payment of money, must give particulars of the default (including any payments made to date to reduce the amount owing and the current amount owing taking into account any such payments), and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-4.3.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.D" type="ext"/>(d)</lilabel>
+<p><text>must state the source of the deponent&#x2019;s knowledge of the matters stated in the affidavit concerning the occupation of the land and any default in the payment of money referred to in paragraph (c), and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-4.3.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.E" type="ext"/>(e)</lilabel>
+<p><text>must state whether costs are claimed and, if so, how much is claimed for costs, indicating:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-4.3.E.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.E.I" type="ext"/>(i)</lilabel>
+<p><text>how much is claimed on account of professional costs (not exceeding the amount fixed by the regulations made for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S329" remotekey1="REFPTID" service="DOC-ID">section 329</remotelink></ci:content></ci:cite>
+ of the Legal Profession Act 2004), and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-4.3.E.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.E.II" type="ext"/>(ii)</lilabel>
+<p><text>how much is claimed on account of filing fees, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-4.3.E.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.E.III" type="ext"/>(iii)</lilabel>
+<p><text>how much is claimed on account of the costs of serving the originating process, and</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R16-4.3.F"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-4.3.F" type="ext"/>(f)</lilabel>
+<p><text>must state when and how the originating process was served on the defendant.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (3)  am Amendment 11 of 2006  r 2 and Sch 1[16]&#x2013;[17], effective 8 December 2006; Act 27 of 2007 s 3 and Sch 2.58, effective 4 July 2007; Amendment 19 of 2007  r 3 and Sch 1[9], [10], effective 7 December 2007 ; Amendment 29 of 2009  Sch 1[10], effective 8 October 2009; Amendment 44 of 2011  Sch 1[1], effective 15 April 2011 ; Amendment 47 of 2011  Sch 1[1], effective 9 September 2011]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-4.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this rule to a residential tenancy agreement within the meaning of the Residential Tenancies Act 2010 is taken to include a reference to a residential tenancy agreement within the meaning of the Residential Tenancies Act 1987 as in force before its repeal.</text></p>
+<leg:histnote>
+<p><text>[subr (4)  insrt Amendment 44 of 2011   Sch 1[2], effective 15 April 2011]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT16.R4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.16-4-2" leveltype="para0" subdoc="true" toc-caption="[16.4.2] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-4-2" type="ext"/>[16.4.2] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved form is 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.451760" remotekey1="REFPTID" service="DOC-ID">Form 36</remotelink>
+: Notice of motion &#x2014; default judgment on claim for possession of land.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-4-5" leveltype="para0" subdoc="true" toc-caption="[16.4.5] Description of land">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.4.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 4.7A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-4-5" type="ext"/>[16.4.5] </edpnum><title>Description of land</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Any originating process planning possession of land, and any judgement or order for possession, must include a description of the proper title of the land: see UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-7A" remotekey1="REFPTID" service="DOC-ID">r 4.7A</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-4-10" leveltype="para0" subdoc="true" toc-caption="[16.4.10] Notice to occupiers and tenants">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.4.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 16.4(3)(a), r 36.8, r 6.8(1), r 6.8(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-4-10" type="ext"/>[16.4.10] </edpnum><title>Notice to occupiers and tenants</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Any person occupying the land must be given notice of the proceedings and informed either that they can apply to be joined in the proceedings, or that their continuing occupation will not be disturbed: see UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-8.1" remotekey1="REFPTID" service="DOC-ID">r 6.8(1)</remotelink></ci:content></ci:cite>
+. The notice may be served either personally on the occupier or by leaving a notice, addressed to the occupier, on the land: see UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-8.2" remotekey1="REFPTID" service="DOC-ID">r 6.8(2)</remotelink></ci:content></ci:cite>
+. If a person is in occupation pursuant to a residential tenancy agreement, the affidavit required by UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R36-8A" remotekey1="REFPTID" service="DOC-ID" status="unval">r 36.8</remotelink></ci:content></ci:cite>
+ to support an application for default judgment must disclose that tenancy: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-4" remotekey1="REFPTID" service="DOC-ID">r 16.4(3)(a)</remotelink></ci:content></ci:cite>
+ and Form 36.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-4-15" leveltype="para0" subdoc="true" toc-caption="[16.4.15] Sheriff required to give notice before enforcement"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-4-15" type="ext"/>[16.4.15] </edpnum><title>Sheriff required to give notice before enforcement</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The sheriff must give any occupier of land not less than 30 days notice to vacate before acting to enforce any writ for possession or levy of property: Sheriff Act 2005 s 7A. If a residential tenancy is terminated, as a consequence of a mortgagee becoming entitled to exclusive possession of the property, the residential tenant is entitled to withhold (or recover) any rent that would otherwise apply during the 30 day notice period: Residential Tenancies Act 2010 s 122.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.5] r 16.5 Default judgment on claim for detention of goods (cf SCR Part 17, rule 6)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-5" type="ext"/>[r 16.5]</edpnum><title searchtype="RUL-TITLE">Default judgment on claim for detention of goods (cf SCR Part 17, rule 6)</title><desig searchtype="RUL-NUM"><designum>16.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the plaintiff&#x2019;s claim against a defendant in default relates to the detention of goods only, judgment may be given for the plaintiff against the defendant, in accordance with the plaintiff&#x2019;s claim:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-5.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.1.A" type="ext"/>(a)</lilabel>
+<p><text>for delivery of the goods to the plaintiff and for costs, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-5.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.1.B" type="ext"/>(b)</lilabel>
+<p><text>for payment to the plaintiff of the value of the goods (as assessed by or in accordance with the directions of the court) and for costs,</text></p>
+</li>
+</l>
+<p><text>at the plaintiff&#x2019;s option.</text></p>
+<glp:note>
+<heading><title>NOTE:</title></heading>
+<p>
+<text>See 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT30" remotekey1="REFPTID" service="DOC-ID">Part 30</remotelink></ci:content></ci:cite>
+ for provisions as to assessment of value of goods.</text></p></glp:note><leg:histnote>
+<p><text>[subr (1)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The relevant affidavit in support:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-5.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.2.A" type="ext"/>(a)</lilabel>
+<p><text>must state which goods have, and which have not, been delivered to the plaintiff since the time the originating process was filed, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-5.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.2.B" type="ext"/>(b)</lilabel>
+<p><text>must give particulars of any payments that the defendant has made to the plaintiff in respect of the goods or state that no such payments have been made, as the case may be, since the time the originating process was filed, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-5.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.2.C" type="ext"/>(c)</lilabel>
+<p><text>must state the source of the deponent&#x2019;s knowledge of the matters stated in the affidavit concerning the delivery or non-delivery of the goods, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-5.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.2.D" type="ext"/>(d)</lilabel>
+<p><text>must state whether costs are claimed and, if so, how much is claimed for costs, indicating:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-5.2.D.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.2.D.I" type="ext"/>(i)</lilabel>
+<p><text>how much is claimed on account of professional costs (not exceeding the amount fixed by the regulations made for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S329" remotekey1="REFPTID" service="DOC-ID">section 329</remotelink></ci:content></ci:cite>
+ of the Legal Profession Act 2004), and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-5.2.D.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.2.D.II" type="ext"/>(ii)</lilabel>
+<p><text>how much is claimed on account of filing fees, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-5.2.D.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.2.D.III" type="ext"/>(iii)</lilabel>
+<p><text>how much is claimed on account of the costs of serving the originating process, and</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R16-5.2.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-5.2.E" type="ext"/>(e)</lilabel>
+<p><text>must state when and how the originating process was served on the defendant,</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Amendment 11 of 2006  r 2 and Sch 1[16]&#x2013;[17], effective 8 December 2006; Act 27 of 2007 s 3 and Sch 2.58, effective 4 July 2007; am Amendment 19 of 2007  r 3 and Sch 1[11], [12], effective 7 December 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT16.R5.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.16-5-5" leveltype="para0" subdoc="true" toc-caption="[16.5.5] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-5-5" type="ext"/>[16.5.5] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved form is 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130780" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 37</remotelink>
+: Notice of Motion &#x2014; Default Judgment for Detention of Goods.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-5-10" leveltype="para0" subdoc="true" toc-caption="[16.5.10] Claim for detention of goods"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-5-10" type="ext"/>[16.5.10] </edpnum><title>Claim for detention of goods</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>If the plaintiff&#x2019;s claim is to recover the actual goods detained, the court may order the defendant to return the goods without giving the defendant the option of retaining them and paying their value: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004241" spanref="cr004241-001" status="unval"><ci:reporter value="KB"/><ci:volume num="1"/><ci:edition><ci:date year="1905"/></ci:edition><ci:page num="246"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hymas v Ogden</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004241-001" status="unval">[1905] 1 KB 246</ci:span></citefragment> <remotelink dpsi="0018" refpt="101698" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. If the plaintiff&#x2019;s claim is only to recover the value of the goods and damages for their detention, or if it is not practicable to recover the specific goods, then damages are assessed in the same way as any other unliquidated damages. The value of the goods and the damages for detention up to that date must be assessed separately: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004242" spanref="cr004242-001"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1963"/></ci:edition><ci:page num="314"/></ci:caseref><ci:caseref ID="cr004243" spanref="cr004243-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1963"/></ci:edition><ci:page num="644"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">General and Finance Facilities Ltd v Cooks Cars (Romford) Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004242-001">[1963] 2 All ER 314</ci:span>; <ci:span spanid="cr004243-002" status="unval">[1963] 1 WLR 644</ci:span></citefragment> <remotelink dpsi="0018" refpt="27528" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The value of the goods is determined at the date of the judgment or verdict: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004244" spanref="cr004244-001" status="unval"><ci:reporter value="KB"/><ci:volume num="1"/><ci:edition><ci:date year="1946"/></ci:edition><ci:page num="374"/></ci:caseref><ci:caseref ID="cr004245" spanref="cr004245-002"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1946"/></ci:edition><ci:page num="583"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rosenthal v Alderton &amp; Sons Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004244-001" status="unval">[1946] 1 KB 374</ci:span>; <ci:span spanid="cr004245-002">[1946] 1 All ER 583</ci:span></citefragment> <remotelink dpsi="0018" refpt="27532" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; and see A I Ogus, <emph typestyle="it">Ogus on Damages</emph>, LexisNexis Butterworths, 1973. </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.6] r 16.6 Default judgment on debt or liquidated claim (cf SCR Part 17, rule 4; DCR Part 13, rule 1; LCR Part 11, rule 1)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-6" type="ext"/>[r 16.6]</edpnum><title searchtype="RUL-TITLE">Default judgment on debt or liquidated claim (cf SCR Part 17, rule 4; DCR Part 13, rule 1; LCR Part 11, rule 1)</title><desig searchtype="RUL-NUM"><designum>16.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the plaintiff&#x2019;s claim against a defendant in default is for a debt or liquidated claim or for a claim for unliquidated damages of the kind referred to in rule 14.13(2), judgment may be given for the plaintiff against the defendant for:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-6.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.1.A" type="ext"/>(a)</lilabel>
+<p><text>a sum not exceeding the sum claimed, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-6.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.1.B" type="ext"/>(b)</lilabel>
+<p><text>interest up to judgment, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-6.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.1.C" type="ext"/>(c)</lilabel>
+<p><text>costs.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The relevant affidavit in support:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-6.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.A" type="ext"/>(a)</lilabel>
+<p><text>must state the amount due to the plaintiff, in respect of the cause of action for which the proceedings were commenced, as at the time the originating process was filed, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-6.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.B" type="ext"/>(b)</lilabel>
+<p><text>must give particulars of any reduction of that amount, and costs, as a consequence of any payments made, or credits accrued, since the time the originating process was filed, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-6.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.C" type="ext"/>(c)</lilabel>
+<p><text>must state the source of the deponent&#x2019;s knowledge of the matters stated in the affidavit concerning the debt or debts, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-6.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.D" type="ext"/>(d)</lilabel>
+<p><text>must state the amount claimed by way of interest, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-6.2.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.E" type="ext"/>(e)</lilabel>
+<p><text>must state whether costs are claimed and, if so, how much is claimed for costs, indicating:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-6.2.E.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.E.I" type="ext"/>(i)</lilabel>
+<p><text>how much is claimed on account of professional costs (not exceeding the amount fixed by the regulations made for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S329" remotekey1="REFPTID" service="DOC-ID">section 329</remotelink></ci:content></ci:cite>
+ of the Legal Profession Act 2004), and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-6.2.E.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.E.II" type="ext"/>(ii)</lilabel>
+<p><text>how much is claimed on account of filing fees, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-6.2.E.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.E.III" type="ext"/>(iii)</lilabel>
+<p><text>how much is claimed on account of the costs of serving the originating process, and</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R16-6.2.F"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-6.2.F" type="ext"/>(f)</lilabel>
+<p><text>must state when and how the originating process was served on the defendant.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Amendment 11 of 2006  r 2 and Sch 1[16]&#x2013;[17], effective 8 December 2006; Act 27 of 2007 s 3 and Sch 2.58, effective 4 July 2007; am Amendment 19 of 2007  r 3 and Sch 1[13], [14], effective 7 December 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SCN.SCR70.PT16.R6.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.16-6-5" leveltype="para0" subdoc="true" toc-caption="[16.6.5] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-6-5" type="ext"/>[16.6.5] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved form is 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130800" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 38</remotelink>
+: Notice of Motion &#x2014; Default Judgment for Liquidated Claim.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-6-7" leveltype="para0" subdoc="true" toc-caption="[16.6.7] Purpose of rule">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.6.7] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 14.13(2), r 16.6.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-6-7" type="ext"/>[16.6.7] </edpnum><title>Purpose of rule</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The philosophy underlying UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R16-6" remotekey1="REFPTID" service="DOC-ID">r 16.6</remotelink></ci:content></ci:cite>
+ is the absence of a timely defence should ordinarily be taken as an admission of the pleaded allegations set out in the statement of claim: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004246" spanref="cr004246-001"><ci:reporter value="urj"/><ci:refnum num="BC201002510"/></ci:caseref><ci:caseref anaphref="cr004246" spanref="cr004246-002"><ci:pinpoint num="16" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wily v King</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWSC 352; <ci:span spanid="cr004246-001"> BC201002510</ci:span> <ci:span spanid="cr004246-002">at [16]</ci:span></citefragment> <remotelink dpsi="0018" refpt="493362" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J. But that ordinary position is subject to the court&#x2019;s overriding discretion, and its obligation to be satisfied that the entry of judgment is appropriate: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wily v King</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004247" spanref="cr004247-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2010"/></ci:edition><ci:pinpoint num="17" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr004247-000" status="unval">at [17]</ci:span></citefragment></ci:content></ci:cite> per Barrett J citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004248" spanref="cr004248-001" status="unval"><ci:reporter value="QB"/><ci:volume num="2"/><ci:edition><ci:date year="1892"/></ci:edition><ci:page num="622"/></ci:caseref><ci:caseref anaphref="cr004248" spanref="cr004248-002"><ci:pinpoint num="624" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Charles v Shepherd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004248-001" status="unval">[1892] 2 QB 622</ci:span> <ci:span spanid="cr004248-002">at 624</ci:span></citefragment> <remotelink dpsi="0018" refpt="39861" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> Lord Esher MR.</text></p>
+<p>
+<text>The rule does not apply to proceedings other than those for a debt or liquidated demand (or a limited category of claims involving damages to motor vehicles &#x2014; see UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-13.2" remotekey1="REFPTID" service="DOC-ID">r 14.13(2)</remotelink></ci:content></ci:cite>
+. It does not apply to proceedings commenced under other provisions of the rules: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wily v King</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004249" spanref="cr004249-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2010"/></ci:edition><ci:pinpoint num="27" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr004249-000" status="unval">at [27]&#x2013;[31]</ci:span></citefragment></ci:content></ci:cite>per Barrett J (proceedings under the Supreme Court (Corporations) Rules).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-6-10" leveltype="para0" subdoc="true" toc-caption="[16.6.10] Claims for interest">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.6.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 100.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-6-10" type="ext"/>[16.6.10] </edpnum><title>Claims for interest</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A claim for interest, including a claim for statutory interest of the kinds specified in the Dictionary definition of &#x201c;interest up to judgment&#x201d;, is a claim for a liquidated demand for the purpose of the UCPR. This includes a claim for interest under CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S100" remotekey1="REFPTID" service="DOC-ID">s 100</remotelink></ci:content></ci:cite>
+. The rule specifically authorises default judgment to be given in an amount that includes an amount for interest up to the date of the judgment. The effect of the definition of &#x201c;interest up to judgment&#x201d; is to distinguish, at least in relation to the statutory interest powers referred to in the definition, the decision in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004250" spanref="cr004250-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="646"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Dalgety Futures Pty Ltd v Poretsky</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004250-001">[1980] 2 NSWLR 646</ci:span></citefragment> <remotelink dpsi="0018" refpt="3894" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (interest claim involving the exercise of a statutory discretion and was not a claim for a liquidated demand under the general law).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-6-15" leveltype="para0" subdoc="true" toc-caption="[16.6.15] Liquidated claim">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.6.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 6.3.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-6-15" type="ext"/>[16.6.15] </edpnum><title>Liquidated claim</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The concept of a &#x201c;liquidated claim&#x201d; is considered in detail, and various examples of matters that have been held to fall within the expression are given, in the annotations to UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-3" remotekey1="REFPTID" service="DOC-ID">r 6.3</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>A liquidator&#x2019;s cause of action under s 588M of the Corporations Act (to recover money &#x201c;as a debt due to the company&#x201d; is not a &#x201c;for a debt or liquidated claim&#x201d;, cannot properly be commenced by a statement of liquidated claim and is not amenable to default judgment: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004251" spanref="cr004251-001"><ci:reporter value="urj"/><ci:refnum num="BC201002510"/></ci:caseref><ci:caseref anaphref="cr004251" spanref="cr004251-002"><ci:pinpoint num="21" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wily v King</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWSC 352; <ci:span spanid="cr004251-001"> BC201002510</ci:span> <ci:span spanid="cr004251-002">at [21]</ci:span></citefragment> <remotelink dpsi="0018" refpt="493362" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J.</text></p>
+<p>
+<text>Even if the description of the amount claimed, and the basis for its quantification, is capable of falling within the description of a &#x201c;liquidated demand&#x201d; the pleading itself must sufficiently allege all of the material facts necessary to establish the basis of the claim. For example, a claim to recover the amount of an asserted contractual liability is not sufficiently pleaded as a liquidated claim unless it sets out the asserted fulfilment of all of the conditions precedent to the defendant&#x2019;s payment obligation. For example a claim to recover a purchase price that is payable for the transfer of assets must assert the transfer: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004252" spanref="cr004252-001"><ci:reporter value="urj"/><ci:refnum num="BC201200771"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Arnold v Forsythe</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 18; <ci:span spanid="cr004252-001"> BC201200771</ci:span></citefragment> <remotelink dpsi="0018" refpt="546689" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004253" spanref="cr004253-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="50" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr004253-000">at [50]&#x2013;[59]</ci:span></citefragment></ci:content></ci:cite>. </text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-6-20" leveltype="para0" subdoc="true" toc-caption="[16.6.20] Affidavit in support">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.6.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> CPA ss 14, 61(3)(c).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-6-20" type="ext"/>[16.6.20] </edpnum><title>Affidavit in support</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is implicit in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPN05.R16-6" remotekey1="REFPTID" service="DOC-ID" status="unval">UCPR r 16.6</remotelink></ci:content></ci:cite>
+ that an application for default judgment will ordinarily be initiated by a plaintiff. A defendant&#x2019;s default enlivens the permission conferred by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPN05.R16-3" remotekey1="REFPTID" service="DOC-ID" status="unval">UCPR r 16.3</remotelink></ci:content></ci:cite>
+. The exercise of that permission is conditional on a plaintiff providing an affidavit in support. Such an affidavit is necessary, irrespective of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S14" remotekey1="REFPTID" service="DOC-ID">CPA ss 14</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61.3.C" remotekey1="REFPTID" service="DOC-ID">61(3)(c)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPN05.R12-7.2" remotekey1="REFPTID" service="DOC-ID" status="unval">UCPR r 12.7(2)</remotelink></ci:content></ci:cite>
+, to provide the court with a proper evidentiary basis for quantifying any judgment or order: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004254" spanref="cr004254-001"><ci:reporter value="urj"/><ci:refnum num="BC200810813"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gregory&#x2019;s Transport Pty Ltd v Ray&#x2019;s Haulage Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWCA 333; <ci:span spanid="cr004254-001"> BC200810813</ci:span></citefragment> <remotelink dpsi="0018" refpt="467144" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004255" spanref="cr004255-001"><ci:reporter value="urj"/><ci:refnum num="BC201206965"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ion v Danutz</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 941; <ci:span spanid="cr004255-001"> BC201206965</ci:span></citefragment> <remotelink dpsi="0018" refpt="564205" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. See also 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.13-1-45" remotekey1="REFPTID" service="DOC-ID">[13.1.45]</remotelink>
+ in relation to dealing with applications for summary judgment.</text></p>
+<p>
+<text>Even if there is a supporting affidavit, its failure to comply with the substantive requirements of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPN05.R16-6-2" remotekey1="REFPTID" service="DOC-ID" status="unval">UCPR r 16.6(2)</remotelink></ci:content></ci:cite>
+ may justify setting aside the default judgment. And the non-compliance, because it raises only a question of law, may be relied on in an appeal, even if the point was not taken at first instance: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004256" spanref="cr004256-001"><ci:reporter value="urj"/><ci:refnum num="BC201200771"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Arnold v Forsythe</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 18; <ci:span spanid="cr004256-001"> BC201200771</ci:span></citefragment> <remotelink dpsi="0018" refpt="546689" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004257" spanref="cr004257-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="88" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr004257-000">at [88]</ci:span></citefragment></ci:content></ci:cite>. The supporting affidavit will be irregular, for example, if it claims that the source of the knowledge of the debt (see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPN05.R16-6-2.C" remotekey1="REFPTID" service="DOC-ID" status="unval">UCPR r 16.6(2)(c)</remotelink></ci:content></ci:cite>
+) is merely general familiarity with the proceedings or responsibility for their conduct: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004258" spanref="cr004258-001"><ci:reporter value="urj"/><ci:refnum num="BC201200771"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Arnold v Forsythe</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 18; <ci:span spanid="cr004258-001"> BC201200771</ci:span></citefragment> <remotelink dpsi="0018" refpt="546689" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004259" spanref="cr004259-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="88" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr004259-000" status="unval">at [88]</ci:span></citefragment></ci:content></ci:cite>(iii).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.7] r 16.7 Default judgment on claim for unliquidated damages (cf SCR Part 17, rule 5)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-7" type="ext"/>[r 16.7]</edpnum><title searchtype="RUL-TITLE">Default judgment on claim for unliquidated damages (cf SCR Part 17, rule 5)</title><desig searchtype="RUL-NUM"><designum>16.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the plaintiff&#x2019;s claim against a defendant in default is for unliquidated damages only, judgment may be given for the plaintiff against the defendant for damages to be assessed and for costs.</text></p>
+<glp:note>
+<heading><title>NOTE:</title></heading>
+<p>
+<text>See 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT30" remotekey1="REFPTID" service="DOC-ID">Part 30 </remotelink></ci:content></ci:cite>
+for provisions as to assessment of damages.</text></p></glp:note><leg:histnote>
+<p><text>[subr (1)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The relevant affidavit in support:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-7.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-7.2.A" type="ext"/>(a)</lilabel>
+<p><text>must state that the matter has not been settled with the defendant, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-7.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-7.2.B" type="ext"/>(b)</lilabel>
+<p><text>must state the source of the deponent&#x2019;s knowledge of the matters stated in the affidavit concerning the claim, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R16-7.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-7.2.C" type="ext"/>(c)</lilabel>
+<p><text>must state whether costs are claimed and, if so, how much is claimed for costs, indicating:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R16-7.2.C.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-7.2.C.I" type="ext"/>(i)</lilabel>
+<p><text>how much is claimed on account of professional costs (not exceeding the amount fixed by the regulations made for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S329" remotekey1="REFPTID" service="DOC-ID">section 329</remotelink></ci:content></ci:cite>
+ of the Legal Profession Act 2004), and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-7.2.C.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-7.2.C.II" type="ext"/>(ii)</lilabel>
+<p><text>how much is claimed on account of filing fees, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R16-7.2.C.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-7.2.C.III" type="ext"/>(iii)</lilabel>
+<p><text>how much is claimed on account of the costs of serving the originating process, and</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R16-7.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R16-7.2.D" type="ext"/>(d)</lilabel>
+<p><text>must state when and how the originating process was served on the defendant.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Amendment 11 of 2006  r 2 and Sch 1[16]&#x2013;[17], effective 8 December 2006; Act 27 of 2007 s 3 and Sch 2.58, effective 4 July 2007; am Amendment 19 of 2007  r 3 and Sch 1[15], [16], effective 7 December 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT16.R7.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.16-7-5" leveltype="para0" subdoc="true" toc-caption="[16.7.5] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-7-5" type="ext"/>[16.7.5] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved form is 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130820" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 39</remotelink>
+: Notice of Motion &#x2014; Default Judgment for Unliquidated Damages.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.16-7-10" leveltype="para0" subdoc="true" toc-caption="[16.7.10] Damages to be assessed">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [16.7.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 14.13(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.16-7-10" type="ext"/>[16.7.10] </edpnum><title>Damages to be assessed</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where the claim is for unliquidated damages (other than a claim for motor vehicle related damage in District Court and Local Court proceedings within UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-13.2" remotekey1="REFPTID" service="DOC-ID">r 14.13(2)</remotelink></ci:content></ci:cite>
+), the terms of the default judgment should be for judgment for the plaintiff and an order that the damages be assessed: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004260" spanref="cr004260-001"><ci:reporter value="urj"/><ci:refnum num="BC9201818"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Emmerton v Clerk of the Supreme Court</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004260-001"> (NSWCA, Full Court, 12 June 1992, unreported, BC9201818)</ci:span></citefragment></ci:content></ci:cite>. </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.8] r 16.8 Default judgment on mixed claims (cf SCR Part 17, rule 8)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-8" type="ext"/>[r 16.8]</edpnum><title searchtype="RUL-TITLE">Default judgment on mixed claims (cf SCR Part 17, rule 8)</title><desig searchtype="RUL-NUM"><designum>16.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-8.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the plaintiff&#x2019;s claim against a defendant in default includes any 2 or more of the claims referred to in this Part, and no other claim, judgment may be given for the plaintiff against the defendant on any of those claims as if it were the plaintiff&#x2019;s only claim for relief against that defendant.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-8.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R16-8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In the case of two or more such claims, the relevant affidavit in support must comply with the requirements of this Part in relation to each of those claims.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.9] r 16.9 Judgment for costs alone after other claims satisfied (cf SCR Part 17, rule 10(1); DCR Part 31, rule 13; LCR Part 26, rule 4)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-9" type="ext"/>[r 16.9]</edpnum><title searchtype="RUL-TITLE">Judgment for costs alone after other claims satisfied (cf SCR Part 17, rule 10(1); DCR Part 31, rule 13; LCR Part 26, rule 4)</title><desig searchtype="RUL-NUM"><designum>16.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R10.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a plaintiff is entitled to have judgment entered under this Part against a defendant in default for any relief and for costs, but it appears by affidavit that, by reason of the defendant having satisfied the plaintiff&#x2019;s claims, it is unnecessary for the plaintiff to continue the proceedings against the defendant, judgment for the plaintiff may be given under this Part against that defendant for costs alone.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 87 of 6 July 2007  r 2 and Sch 1[2], effective 6 July 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R10.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Whatever the plaintiff&#x2019;s claims for relief against a defendant in default, if:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R10.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10.2.A" type="ext"/>(a)</lilabel>
+<p><text>the defendant satisfies the plaintiff&#x2019;s claims or complies with the plaintiff&#x2019;s demands, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R10.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10.2.B" type="ext"/>(b)</lilabel>
+<p><text>it otherwise becomes unnecessary for the plaintiff to continue the proceedings against the defendant,</text></p>
+</li>
+</l>
+<p><text>the court may, on application by the plaintiff, give judgment against the defendant for costs.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R16-10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 16.10] r 16.10 Judgment not limited by plaintiff&#x2019;s claims for relief (cf SCR Part 17, rules 9 and 10(2)) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R16-10" type="ext"/>[r 16.10]</edpnum><title searchtype="RUL-TITLE">Judgment not limited by plaintiff&#x2019;s claims for relief (cf SCR Part 17, rules 9 and 10(2)) </title><desig searchtype="RUL-NUM"><designum>16.10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Whatever the plaintiff&#x2019;s claims for relief against a defendant in default, the court may, on application by the plaintiff, give such judgment against the defendant as the plaintiff appears to be entitled to on his or her statement of claim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

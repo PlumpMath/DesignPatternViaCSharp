@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>OP</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_474</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>O</title></heading>
+<docinfo:hierlev role="me"><heading><title>OP</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>107900</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_474" /><docinfo:metaitem name="parent-filename" value="ucpn208.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="30" month="05" year="2013">30 May 2013</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>OP</title></heading>
+<in:lev1 id="UCPN_IND_474" subdoc="true" toc-caption="Opinion evidence"><in:entry><in:entry-text><refpt id="OPINION_EVIDENCE" type="ext"><emph typestyle="bf">Opinion evidence</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text /></in:entry><see-also><emph typestyle="it">see also</emph>  <remotelink dpsi="05CB" refpt="EXPERT" remotekey1="REFPTID" service="DOC-ID" filename="ucpn1320.xml">Expert</remotelink>; <remotelink dpsi="05CB" refpt="EXPERT_REPORT" remotekey1="REFPTID" service="DOC-ID" filename="ucpn1320.xml">Expert report</remotelink></see-also></in:lev2>
+
+<in:lev2><in:entry><in:entry-text>admission</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.EA.50735-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,735.10]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1" remotekey1="REFPTID" service="DOC-ID" filename="ea10001141.xml">[51,885]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- opinion rule not applicable <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S81" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,735]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.EA.50735-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,735.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- specialised knowledge <remotelink dpsi="05CC" refpt="UCPN.EA.50700-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>common knowledge rule, abolition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S80" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,705]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50705-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,705.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>exceptions to opinion rule</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- Aboriginal and Torres Strait Islander traditional laws and customs <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S78A" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,697]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- common knowledge <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S80" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,705]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50705-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,705.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- discretionary exclusions <remotelink dpsi="05CC" refpt="UCPN.EA.50700-35" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- evidence of experts with interest in outcome of proceedings <remotelink dpsi="05CC" refpt="UCPN.EA.50700-45" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.45]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- evidence relevant otherwise than as opinion <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S77" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,690]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- expert opinion <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S79" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50700-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.10]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>relevance of opinion <remotelink dpsi="05CC" refpt="UCPN.EA.50700-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.25]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- explanation of events <remotelink dpsi="05CC" refpt="UCPN.EA.50695-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,695.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- identification evidence <remotelink dpsi="05CC" refpt="UCPN.EA.50700-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- lay opinions <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S78" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,695]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.EA.50695-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,695.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- purpose of admission <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S77" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,690]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50690-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,690.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- specialised knowledge <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S79" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50700-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.10]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>identification evidence <remotelink dpsi="05CC" refpt="UCPN.EA.50700-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.20]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>wholly or substantially based on <remotelink dpsi="05CC" refpt="UCPN.EA.50700-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.15]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- ultimate issue <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S80" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,705]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50705-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,705.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>expert <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021270.xml">[r 31.35]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S79" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50700-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.10]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- basis of opinion <remotelink dpsi="05CC" refpt="UCPN.EA.50700-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- personal injury proceedings, concurrent evidence in <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-35-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021270.xml">[31.35.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- reports, admissibility <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-29" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021270.xml">[r 31.29]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021270.xml">[r 31.30]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50700-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.20]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>status of facts <remotelink dpsi="05CC" refpt="UCPN.EA.50700-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.25]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- specialised knowledge of <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S79" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>admissibility <remotelink dpsi="05CC" refpt="UCPN.EA.50700-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.10]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50700-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.25]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50700-30" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.30]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>ALRC reference <remotelink dpsi="05CC" refpt="UCPN.EA.50700-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>application of UCP Rules <remotelink dpsi="05CC" refpt="UCPN.EA.50700-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>evidence of experts with interest in outcome of proceedings <remotelink dpsi="05CC" refpt="UCPN.EA.50700-45" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.45]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>identification evidence <remotelink dpsi="05CC" refpt="UCPN.EA.50700-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.20]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>inadmissible evidence <remotelink dpsi="05CC" refpt="UCPN.EA.50700-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.10]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50700-35" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.35]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>requirement of relevance <remotelink dpsi="05CC" refpt="UCPN.EA.50700-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.25]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>status of facts <remotelink dpsi="05CC" refpt="UCPN.EA.50700-30" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.30]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>wholly or substantially based on knowledge <remotelink dpsi="05CC" refpt="UCPN.EA.50700-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50700-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,700.25]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- time and manner of <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-35-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021270.xml">[31.35.5]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>concurrent evidence <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-35-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021270.xml">[31.35.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>first-hand hearsay <remotelink dpsi="05CC" refpt="UCPN.EA.50580-40" remotekey1="REFPTID" service="DOC-ID" filename="ea10001033.xml">[50,580.40]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>inadmissibility <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S78" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,695]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>opinion rule <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S78" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,695]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- admission, non-application to <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S81" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,735]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.EA.50735-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,735.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- character, non-application to <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S110" remotekey1="REFPTID" service="DOC-ID" filename="ea10001063.xml">[50,980]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.EA.50980-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001063.xml">[50,980.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1" remotekey1="REFPTID" service="DOC-ID" filename="ea10001141.xml">[51,885]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>ultimate issue rule, abolition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S80" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,705]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50705-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,705.15]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_475" subdoc="true" toc-caption="Opportunity to be heard "><in:entry><in:entry-text><refpt id="OPPORTUNITY_TO_BE_HEARD" type="ext"><emph typestyle="bf">Opportunity to be heard </emph></refpt></in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="REASONABLE_OPPORTUNITY_TO_BE_HEARD" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2300.xml">Reasonable opportunity to be heard</remotelink></see></in:lev1>
+
+<in:lev1 id="UCPN_IND_476" subdoc="true" toc-caption="Oppression"><in:entry><in:entry-text><refpt id="OPPRESSION" type="ext"><emph typestyle="bf">Oppression</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>documents, oppressive matters in <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[r 4.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-25" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.25]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- sealed envelope procedure <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[r 4.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- striking out <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[r 4.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-25" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.25]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>who may apply <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.30]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>interrogatories <remotelink dpsi="05CC" refpt="UCPN.UCPR.22-2-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[22.2.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>subpoenas <remotelink dpsi="05CC" refpt="UCPN.UCPR.33-4-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021285.xml">[33.4.30]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

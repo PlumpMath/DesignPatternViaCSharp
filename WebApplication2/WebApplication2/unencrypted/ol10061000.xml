@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;4]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CLAN02.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CIVIL LIABILITY ACT 2002 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;4]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140030000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CLAN02"/><docinfo:metaitem name="parent-filename" value="ol1006.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">CIVIL LIABILITY ACT 2002 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">2002</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 22, 2002</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>Table of Amendments</title></leg:heading>
+<p>
+<text>The Civil Liability Act 2002 No 22 was assented to on 18 June 2002, with a retrospective commencement of 20 March 2002. Since that date this Act has been amended by the following:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Civil Liability Amendment (Personal Responsibility) Act 2002 No 92</entry><entry colname="c2">28 November 2002</entry><entry colname="c3">Schs 1[1] (to the extent that it inserts s 5N) and 1[4]: 10 January 2003; Sch 1[5] (to the extent that it inserts Pt 4): 1 December 2004 (Gaz 187 of 26 November 2004 p 8550); remainder 6 December 2002</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2003 No 40</entry><entry colname="c2">22 July 2003</entry><entry colname="c3">22 July 2003</entry></row>
+<row><entry colname="c1">Civil Liability Amendment Act 2003 No 94</entry><entry colname="c2">10 December 2003</entry><entry colname="c3">Schs 1, 3: 19 December 2003 (Gaz 197 of 19 December 2003 p 11258); Sch 2: 1 December 2004 (Gaz 187 of 26 November 2004 p 8549)</entry></row>
+<row><entry colname="c1">Civil Liability Amendment (Offender Damages) Act 2004 No 29</entry><entry colname="c2">13 May 2004</entry><entry colname="c3">19 November 2004 (Gaz 183 of 19 November 2004 p 8503)</entry></row>
+<row><entry colname="c1">Civil Liability Amendment (Offender Damages) Act 2005 No 9</entry><entry colname="c2">14 April 2005</entry><entry colname="c3">14 April 2005</entry></row>
+<row><entry colname="c1">Civil Liability Amendment (Food Donations) Act 2005 No 16</entry><entry colname="c2">18 May 2005</entry><entry colname="c3">1 July 2005</entry></row>
+<row><entry colname="c1">Confiscation of Proceeds of Crime Amendment Act 2005 No 73</entry><entry colname="c2">21 October 2005</entry><entry colname="c3">28 October 2005 (Sch 2) (Gaz 132 of 28 October 2005, p 8933)</entry></row>
+<row><entry colname="c1">Civil Liability Amendment (Offender Damages Trust Fund) Act 2005 No 76</entry><entry colname="c2">26 October 2005</entry><entry colname="c3">26 October 2005 (Gaz 137 of 4 November 2005, p 9311)</entry></row>
+<row><entry colname="c1">Defamation Act 2005 No 77</entry><entry colname="c2">26 October 2005</entry><entry colname="c3">1 January 2006</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2005 98</entry><entry colname="c2">24 November 2005</entry><entry colname="c3">24 November 2005</entry></row>
+<row><entry colname="c1">Civil Liability Amendment Act 2006 No 55</entry><entry colname="c2">20 June 2006</entry><entry colname="c3">20 June 2006 (Gaz 82 of 23 June 2006, p 4562)</entry></row>
+<row><entry colname="c1">Crimes and Courts Legislation Amendment Act 2006 No 107</entry><entry colname="c2">29 November 2006</entry><entry colname="c3">Sch 1.5: 29 November 2006</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2006 No 120</entry><entry colname="c2">4 December 2006</entry><entry colname="c3">4 December 2006</entry></row>
+<row><entry colname="c1">Mental Health Act 2007 No 8</entry><entry colname="c2">15 June 2007</entry><entry colname="c3">16 November 2007</entry></row>
+<row><entry colname="c1">Civil Liability Amendment (Offender Damages) Act 2007 No 84</entry><entry colname="c2">7 December 2007</entry><entry colname="c3">7 December 2007</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 2: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">Civil Liability Legislation Amendment Act 2008 No 84</entry><entry colname="c2">5 November 2008</entry><entry colname="c3">12 November 2008</entry></row>
+<row><entry colname="c1">NSW Trustee and Guardian Act 2009 No 49</entry><entry colname="c2">26 June 2009</entry><entry colname="c3">Sch 2.8: 1 July 2009 (s 2)</entry></row>
+<row><entry colname="c1">Relationships Register Act 2010 No 19</entry><entry colname="c2">19 May 2010</entry><entry colname="c3">Sch 3.18: on assent (s 2(2))</entry></row>
+<row><entry colname="c1">Crimes (Sentencing Legislation) Amendment (Intensive Correction Orders) Act 2010 No 48</entry><entry colname="c2">28 June 2010</entry><entry colname="c3">Sch 5: 1 October 2010  (s 2(2) and LW 17 Sept 2010)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2010 No 63</entry><entry colname="c2">28 June 2010</entry><entry colname="c3">Sch 1.6: on assent (s 2(2))</entry></row>
+<row><entry colname="c1">Fair Trading Amendment (Australian Consumer Law) Act 2010 No 107</entry><entry colname="c2">29 November 2010</entry><entry colname="c3">Sch 3.2: 1 January 2011 (s 2)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2011 No 27</entry><entry colname="c2">27 June 2011</entry><entry colname="c3">Sch 3.2: 8 July 2011</entry></row>
+<row><entry colname="c1">Home Building Amendment Act 2011 No 52</entry><entry colname="c2">25 October 2011</entry><entry colname="c3">Sch 2: 25 October 2011</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2011 No 62</entry><entry colname="c2">16 November 2011</entry><entry colname="c3">6 January 2012</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2012 No 42</entry><entry colname="c2">21 June 2012</entry><entry colname="c3">6 July 2012</entry></row>
+<row><entry colname="c1">Workers Compensation Legislation Amendment Act 2012 No 53</entry><entry colname="c2">27 June 2012</entry><entry colname="c3">27 June 2012</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.CLAN02.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.CLAN02" type="ext"/>CIVIL LIABILITY ACT 2002 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act to make provision in relation to the recovery of damages for death or personal injury caused by the fault of a person; to amend the Legal Profession Act 1987 in relation to costs in civil claims; and for other purposes.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CLAN02.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;4]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CLAN02.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;4]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,001] s 1 Name of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S1" type="ext"/>[270,001]</edpnum><title searchtype="SECT-TITLE">Name of Act</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is the Civil Liability Act 2002.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S2" type="ext"/>[270,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is taken to have commenced on 20 March 2002.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,010] s 3 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S3" type="ext"/>[270,010]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act:</text></p>
+<deflist><defitem id="UCPN.OL.CLAN02.S3.COURT"><defterm><refpt id="UCPN.OL.CLAN02.S3.COURT" type="ext"/><emph typestyle="bf">court</emph></defterm> <defdesc>
+<p><text>includes tribunal, and in relation to a claim for damages means any court or tribunal by or before which the claim falls to be determined.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CLAN02.S3.DAMAGES"><defterm><refpt id="UCPN.OL.CLAN02.S3.DAMAGES" type="ext"/><emph typestyle="bf">damages</emph></defterm> <defdesc>
+<p><text>includes any form of monetary compensation but does not include</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>any payment authorised or required to be made under a State industrial instrument, or</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>any payment authorised or required to be made under a superannuation scheme, or</text></p>
+</li>
+<li><lilabel>(c)</lilabel>
+<p><text>any payment authorised or required to bemade under an insurance policy in respect of the death of, injury to or damage suffered by the person insured under the policy.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CLAN02.S3.NON-ECONOMIC-LOSS"><defterm><refpt id="UCPN.OL.CLAN02.S3.NON-ECONOMIC-LOSS" type="ext"/><emph typestyle="bf">non-economic loss</emph></defterm> <defdesc>
+<p><text>means any one or more of the following:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>pain and suffering,</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>loss of amenities of life,</text></p>
+</li>
+<li><lilabel>(c)</lilabel>
+<p><text>loss of expectation of life,</text></p>
+</li>
+<li><lilabel>(d)</lilabel>
+<p><text>disfigurement.</text></p>
+</li>
+</l></defdesc></defitem></deflist><leg:histnote>
+<p><text>[s 3  am Act 92 of 2002  s 3 and Sch 2, effective 6 December 2002]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S3A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,015] s 3A Provisions relating to operation of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S3A" type="ext"/>[270,015]</edpnum><title searchtype="SECT-TITLE">Provisions relating to operation of Act</title><desig searchtype="SECT-NUM"><designum>3A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S3A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S3A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A provision of this Act that gives protection from civil liability does not limit the protection from liability given by another provision of this Act or by another Act or law.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S3A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S3A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act (except Part 2) does not prevent the parties to a contract from making express provision for their rights, obligations and liabilities under the contract with respect to any matter to which this Act applies and does not limit or otherwise affect the operation of any such express provision.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S3A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S3A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (2) extends to any provision of this Act even if the provision applies to liability in contract.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 3A  insrt Act 92 of 2002  s 3 and Sch 2, effective 6 December 2002]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S3B"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,020] s 3B Civil liability excluded from Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S3B" type="ext"/>[270,020]</edpnum><title searchtype="SECT-TITLE">Civil liability excluded from Act</title><desig searchtype="SECT-NUM"><designum>3B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S3B.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S3B.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Act do not apply to or in respect of civil liability (and awards of damages in those proceedings) as follows:</text></p>
+<l><li id="UCPN.OL.CLAN02.S3B.1.A"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.A" type="ext"/>(a)</lilabel>
+<p><text>civil liability of a person in respect of an intentional act that is done by the person with intent to cause injury or death or that is sexual assault or other sexual misconduct committed by the person &#x2014; the whole Act except:</text></p>
+<l><li id="UCPN.OL.CLAN02.S3B.1.A.I"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.A.I" type="ext"/>(i)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S15B" remotekey1="REFPTID" service="DOC-ID">section 15B</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S18.1" remotekey1="REFPTID" service="DOC-ID">section 18(1)</remotelink></ci:content></ci:cite>
+ (in its application to damages for any loss of the kind referred to in section 18(1)(c)), and</text></p>
+</li><li id="UCPN.OL.CLAN02.S3B.1.A.II"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.A.II" type="ext"/>(ii)</lilabel>
+<p><text>Part 7 (Self-defence and recovery by criminals) in respect of civil liability in respect of an intentional act that is done with intent to cause injury or death, and</text></p>
+</li><li id="UCPN.OL.CLAN02.S3B.1.A.III"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.A.III" type="ext"/>(iii)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.PT2A" remotekey1="REFPTID" service="DOC-ID">Part 2A</remotelink></ci:content></ci:cite>
+ (Special provisions for offenders in custody),</text></p>
+</li></l></li>
+<li id="UCPN.OL.CLAN02.S3B.1.B"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.B" type="ext"/>(b)</lilabel>
+<p><text>civil liability in proceedings of the kind referred to in section 11 (Claims for damages for dust diseases etc to be brought under this Act) of the Dust Diseases Tribunal Act 1989 &#x2014; the whole Act except 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S15A" remotekey1="REFPTID" service="DOC-ID">sections 15A</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S15B" remotekey1="REFPTID" service="DOC-ID">15B</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S18.1" remotekey1="REFPTID" service="DOC-ID">section 18(1)</remotelink></ci:content></ci:cite>
+ (in its application to damages for any loss of the kind referred to in section 18(1)(c)),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.1.C"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.C" type="ext"/>(c)</lilabel>
+<p><text>civil liability relating to an award of personal injury damages (within themeaning of Part 2) where the injury or death concerned resulted from smoking or other use of tobacco products &#x2014; the whole Act except 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S15B" remotekey1="REFPTID" service="DOC-ID">section 15B</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S18.1" remotekey1="REFPTID" service="DOC-ID">section 18(1)</remotelink></ci:content></ci:cite>
+ (in its application to damages for any loss of the kind referred to in section 18(1)(c)),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.1.D"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.D" type="ext"/>(d)</lilabel>
+<p><text>civil liability relating to an award to which Part 6 of the Motor Accidents Act 1988 applies &#x2014; the whole Act except the provisions that subsection (2) provides apply to motor accidents,</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.1.E"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.E" type="ext"/>(e)</lilabel>
+<p><text>civil liability relating to an award to which Chapter 5 of the Motor Accidents Compensation Act 1999 applies (including an award to and in respect of which that Chapter applies pursuant to section 121 (Application of common law damages for motor accidents to railway and other public transport accidents) of the Transport Administration Act 1988) &#x2014; the whole Act except the provisions that subsection (2) provides apply to motor accidents,</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.1.F"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.F" type="ext"/>(f)</lilabel>
+<p><text>civil liability relating to an award to which Division 3 of Part 5 of the Workers Compensation Act 1987 applies &#x2014; the whole Act,</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.1.G"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.1.G" type="ext"/>(g)</lilabel>
+<p><text>civil liability for compensation under the Workers Compensation Act 1987, the Workers Compensation (Bush Fire, Emergency and Rescue Services) Act 1987, the Workers&#x2019; Compensation (Dust Diseases) Act 1942, the Victims Support and Rehabilitation Act 1996 or the Anti-Discrimination Act 1977 or a benefit payable under the Sporting Injuries Insurance Act 1978 &#x2014; the whole Act.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 55 of 2006 s 3 and Sch 1[1]&#x2013;[3], effective 20 June 2006; Act 107 of 2006,  Sch 1.5[1], effective 29 November 2006 ; Act 84 of 2008  s 3 and Sch 1[1], effective 12 November 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S3B.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S3B.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The following provisions apply to motor accidents:</text></p>
+<l><li id="UCPN.OL.CLAN02.S3B.2.A"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.A" type="ext"/>(a)</lilabel>
+<p><text>Divisions 1&#x2013;4 and 8 of Part 1A (Negligence),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.A1"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.A1" type="ext"/>(a1)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S15B" remotekey1="REFPTID" service="DOC-ID">section 15B</remotelink></ci:content></ci:cite>
+ (Damages for loss of capacity to provide domestic services),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.B"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.B" type="ext"/>(b)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S15C" remotekey1="REFPTID" service="DOC-ID">section 15C</remotelink></ci:content></ci:cite>
+ (Damages for loss of superannuation entitlements),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.C"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.C" type="ext"/>(c)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S17A" remotekey1="REFPTID" service="DOC-ID">section 17A</remotelink></ci:content></ci:cite>
+ (Tariffs for damages for non-economic loss),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.C1"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.C1" type="ext"/>(c1)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S18.1" remotekey1="REFPTID" service="DOC-ID">section 18(1)</remotelink></ci:content></ci:cite>
+ (in its application to damages for any loss of the kind referred to in section 18(1)(c)),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.D"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.D" type="ext"/>(d)</lilabel>
+<p><text>Division 7 (Structured settlements) of Part 2,</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.E"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.E" type="ext"/>(e)</lilabel>
+<p><text>Part 3 (Mental harm),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.F"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.F" type="ext"/>(f)</lilabel>
+<p><text>section 49 (Effect of intoxication on duty and standard of care),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.G"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.G" type="ext"/>(g)</lilabel>
+<p><text>Part 7 (Self-defence and recovery by criminals),</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S3B.2.H"><lilabel><refpt id="UCPN.OL.CLAN02.S3B.2.H" type="ext"/>(h)</lilabel>
+<p><text>Part 8 (Good samaritans).</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act 55 of 2006 s 3 and Sch 1[4]&#x2013;[6], effective 20 June 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S3B.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S3B.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The regulations may exclude a specified class or classes of civil liability (and awards of damages in those proceedings) from the operation of all or any specified provisions of this Act. Any such regulation may make transitional provision with respect to claims for acts or omissions before the commencement of the regulation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 3B  insrt Act 92 of 2002 s 3 and Sch 2, effective 6 December 2002]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S3C"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,025] s 3C Act operates to exclude or limit vicarious liability">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S3C" type="ext"/>[270,025]</edpnum><title searchtype="SECT-TITLE">Act operates to exclude or limit vicarious liability</title><desig searchtype="SECT-NUM"><designum>3C</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any provision of this Act that excludes or limits the civil liability of a person for a tort also operates to exclude or limit the vicarious liability of another person for that tort.</text></p>
+<leg:histnote>
+<p><text>[s 3C  insrt Act 94 of 2003  s 3 and Sch 3, effective 19 December 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,030] s 4 Miscellaneous provisions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S4" type="ext"/>[270,030]</edpnum><title searchtype="SECT-TITLE">Miscellaneous provisions</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S4.1" type="ext"/>(1)</designum></desig><title>Act to bind Crown</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act binds the Crown in right of New South Wales and, in so far as the legislative power of the Parliament of New South Wales permits, the Crown in all its other capacities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S4.2" type="ext"/>(2)</designum></desig><title>Regulations</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may make regulations, not inconsistent with this Act, for or with respect to any matter that by this Act is required or permitted to be prescribed or that is necessary or convenient to be prescribed for carrying out or giving effect to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S4.3" type="ext"/>(3)</designum></desig><title>Notes</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes included in this Act do not form part of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S4.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S4.4" type="ext"/>(4)</designum></desig><title>Savings and transitional provisions</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Schedule 1 has effect.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 4  subst Act 92 of 2002  s 3 and Sch 2, effective 6 December 2002]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

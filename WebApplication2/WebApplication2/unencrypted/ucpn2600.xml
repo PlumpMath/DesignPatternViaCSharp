@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>TA</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_625</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>T</title></heading>
+<docinfo:hierlev role="me"><heading><title>TA</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110500</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_625" /><docinfo:metaitem name="parent-filename" value="ucpn260.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="30" month="05" year="2013">30 May 2013</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>TA</title></heading>
+<in:lev1 id="UCPN_IND_625" subdoc="true" toc-caption="Takeovers and acquisitions"><in:entry><in:entry-text><refpt id="TAKEOVERS_AND_ACQUISITIONS" type="ext"><emph typestyle="bf">Takeovers and acquisitions</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>proceeding commenced before end of takeover bid period <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D12.R1B" remotekey1="REFPTID" service="DOC-ID" filename="sc10041036.xml">[15,888]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>questions of law arising in proceeding before Takeovers Panel <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D12.R1A" remotekey1="REFPTID" service="DOC-ID" filename="sc10041036.xml">[15,887]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>refusal to register transfer, application for orders re <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D12.R3" remotekey1="REFPTID" service="DOC-ID" filename="sc10041036.xml">[15,895]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>service of process on ASIC <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D12.R1" remotekey1="REFPTID" service="DOC-ID" filename="sc10041036.xml">[15,885]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>summons, application for <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D12.R2" remotekey1="REFPTID" service="DOC-ID" filename="sc10041036.xml">[15,890]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_626" subdoc="true" toc-caption="Tape recording"><in:entry><in:entry-text><refpt id="TAPE_RECORDING" type="ext"><emph typestyle="bf">Tape recording</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>discoverable document <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-1-2" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.1.2]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_627" subdoc="true" toc-caption="Tax"><in:entry><in:entry-text><refpt id="TAX" type="ext"><emph typestyle="bf">Tax</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>damages, possible impact on <remotelink dpsi="05CC" refpt="UCPN.CPA.S90-25" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001051.xml">[s 90.25]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

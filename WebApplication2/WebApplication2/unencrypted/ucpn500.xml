@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>AB</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_1</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>A</title></heading>
+<docinfo:hierlev role="me"><heading><title>AB</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>100000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_1" /><docinfo:metaitem name="parent-filename" value="ucpn50.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="01" month="01" year="2006">01 January 2006</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>AB</title></heading>
+<in:lev1 id="UCPN_IND_1" subdoc="true" toc-caption="Aboriginal and Torres Strait Islander traditional laws and customs"><in:entry><in:entry-text><refpt id="ABORIGINAL_AND_TORRES_STRAIT_ISLANDER_TRADITIONAL_LAWS_AND_CUSTOMS" type="ext"><emph typestyle="bf">Aboriginal and Torres Strait Islander traditional laws and customs</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1" remotekey1="REFPTID" service="DOC-ID" filename="ea10001141.xml">[51,885]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>hearsay rule exception <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S72" remotekey1="REFPTID" service="DOC-ID" filename="ea10001036.xml">[50,640]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>opinion rule exception <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S78A" remotekey1="REFPTID" service="DOC-ID" filename="ea10001039.xml">[50,697]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_2" subdoc="true" toc-caption="Abridgment of time "><in:entry><in:entry-text><refpt id="ABRIDGMENT_OF_TIME" type="ext"><emph typestyle="bf">Abridgment of time </emph></refpt></in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="TIME" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2660.xml">Time</remotelink></see></in:lev1>
+
+<in:lev1 id="UCPN_IND_3" subdoc="true" toc-caption="Absconding debtor"><in:entry><in:entry-text><refpt id="ABSCONDING_DEBTOR" type="ext"><emph typestyle="bf">Absconding debtor</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>arrest <remotelink dpsi="05CC" refpt="UCPN.CPA.S129-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 129.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_4" subdoc="true" toc-caption="Abuse of process"><in:entry><in:entry-text><refpt id="ABUSE_OF_PROCESS" type="ext"><emph typestyle="bf">Abuse of process</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>categories of proceedings which are <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>concept of <remotelink dpsi="05CC" refpt="UCPN.UCPR.13-4-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[13.4.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>concurrent proceedings <remotelink dpsi="05CC" refpt="UCPN.UCPR.13-4-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[13.4.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>costs</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- non-parties, against <remotelink dpsi="05CC" refpt="UCPN.CPA.S98-25" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001054.xml">[s 98.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- proportionality of <remotelink dpsi="05CC" refpt="UCPN.CPA.S60-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001030.xml">[s 60.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- sanctions <remotelink dpsi="05CC" refpt="UCPN.CPA.S56-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001030.xml">[s 56.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>destruction of evidence <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.29-5-87" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021252.xml">[29.5.87]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>dismissal of proceedings <remotelink dpsi="05CC" refpt="UCPN.UCPR.12-7-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021132.xml">[12.7.20]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- expiry of limitation period <remotelink dpsi="05CC" refpt="UCPN.UCPR.12-7-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021132.xml">[12.7.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>estoppel</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- Anshun estoppel <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- issue estoppel <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-17" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.17]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>frivolous and vexatious proceedings <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R13-4" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[r 13.4]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text /></in:entry><see-also><emph typestyle="it">see also</emph>  <remotelink dpsi="05CB" refpt="VEXATIOUS_LITIGANT" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious litigant</remotelink>; <remotelink dpsi="05CB" refpt="VEXATIOUS_PROCEEDINGS" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious proceedings</remotelink>; <remotelink dpsi="05CB" refpt="VEXATIOUS_PROCEEDINGS_ACT_2008" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious Proceedings Act 2008</remotelink></see-also></in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- overlap in terms <remotelink dpsi="05CC" refpt="UCPN.UCPR.13-4-2" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[13.4.2]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>implied power to prevent <remotelink dpsi="05CC" refpt="UCPN.LC.S7-10" remotekey1="REFPTID" service="DOC-ID" filename="lc10041003.xml">[LCA07 s 7.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>increasing jurisdiction <remotelink dpsi="05CC" refpt="UCPN.DC.DCAS44-35" remotekey1="REFPTID" service="DOC-ID" filename="dc10001039.xml">[DCA s 44.35]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>pleadings, strike out of <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-28" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[r 14.28]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>proceedings for improper purpose <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>proceedings that are doomed to fail <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>proceedings that cannot be fairly and properly determined <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>res judicata <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>setting aside judgment <remotelink dpsi="05CC" refpt="UCPN.UCPR.36-17-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021303.xml">[36.17.15]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>stay of, or striking out, proceedings where <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- court's incidental power to stay <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>subpoena <remotelink dpsi="05CC" refpt="UCPN.UCPR.33-4-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021285.xml">[33.4.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>summary dismissal <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R13-4" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[r 13.4]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.13-4-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[13.4.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- concurrent proceedings <remotelink dpsi="05CC" refpt="UCPN.UCPR.13-4-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[13.4.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- frivolous and vexatious proceedings <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R13-4" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[r 13.4]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.13-4-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[13.4.5]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text /></in:entry><see-also><emph typestyle="it">see also</emph>  <remotelink dpsi="05CB" refpt="VEXATIOUS_LITIGANT" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious litigant</remotelink>; <remotelink dpsi="05CB" refpt="VEXATIOUS_PROCEEDINGS" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious proceedings</remotelink>; <remotelink dpsi="05CB" refpt="VEXATIOUS_PROCEEDINGS_ACT_2008" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious Proceedings Act 2008</remotelink></see-also></in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>termination of proceedings, improper <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-12" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.12]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>transfer of proceedings from and to District Court <remotelink dpsi="05CC" refpt="UCPN.DC.DCAS44-10" remotekey1="REFPTID" service="DOC-ID" filename="dc10001039.xml">[DCA s 44.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

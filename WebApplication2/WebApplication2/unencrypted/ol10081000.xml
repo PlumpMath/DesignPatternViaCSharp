@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CARB.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>COMMERCIAL ARBITRATION ACT 1984 (NSW) [REPEALED]</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140040000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CARB"/><docinfo:metaitem name="parent-filename" value="ol1008.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">COMMERCIAL ARBITRATION ACT 1984 (NSW) [REPEALED]</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1984</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 160, 1984</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Commercial Arbitration Act 1984 No 160 was assented to 14 December 1984 and commenced 1 May 1985. It was repealed on 1 October 2010 by the Commercial Arbitration Act 2010 s 42. Prior to repeal, it was amended by the following instruments:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) (No 2) Act 1986</entry><entry colname="c2">23 December 1986</entry><entry colname="c3">s 3 and Sch 47: 23 December 1986</entry></row>
+<row><entry colname="c1">Crimes (Public Justice) Amendment Act 1990 No 51</entry><entry colname="c2">18 September 1990</entry><entry colname="c3">s 4 and Sch 2: 25 November 1990 (Gaz 141 of 9 November 1990)</entry></row>
+<row><entry colname="c1">Commercial Arbitration (Amendment) Act 1990 No 100</entry><entry colname="c2">13 December 1990</entry><entry colname="c3">25 January 1991 (Gaz 16 of 18 January 1991)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1995 No 99</entry><entry colname="c2">21 December 1995</entry><entry colname="c3">21 December 1995</entry></row>
+<row><entry colname="c1">Building and Construction Industry Security of Payment Act 1999 No 46</entry><entry colname="c2">5 December 1999</entry><entry colname="c3">26 March 2000</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2003 No 82</entry><entry colname="c2">27 November 2003</entry><entry colname="c3">27 November 2003</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2004 No 68</entry><entry colname="c2">6 July 2004</entry><entry colname="c3">6 July 2004</entry></row>
+<row><entry colname="c1">Civil Procedure Act 2005 No 28</entry><entry colname="c2">1 June 2005</entry><entry colname="c3">15 August 2005</entry></row>
+<row><entry colname="c1">Legal Profession Amendment Act 2005 No 46  </entry><entry colname="c2">23 June 2005</entry><entry colname="c3">1 October 2005</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 2: 6 July 2009 (LW 3 July 2009)</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.CARB.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.CARB" type="ext"/>COMMERCIAL ARBITRATION ACT 1984 (NSW) [REPEALED]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act to make provision with respect to the arbitration of certain disputes and to repeal the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ARBAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Arbitration Act 1902</remotelink></ci:content></ci:cite>
+ and the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.AFAA73" remotekey1="REFPTID" service="DOC-ID" status="unval">Arbitration (Foreign Awards and Agreements) Act 1973</remotelink></ci:content></ci:cite>
+, and for other purposes.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CARB.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CARB.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CARB.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[275,000] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CARB.S1" type="ext"/>[275,000]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the Commercial Arbitration Act 1984.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[275,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CARB.S2" type="ext"/>[275,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CARB.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB.S1" remotekey1="REFPTID" service="DOC-ID">Sections 1</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB.S2" remotekey1="REFPTID" service="DOC-ID">2</remotelink></ci:content></ci:cite>
+ shall commence on the date of assent to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as provided by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB.S2.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , this Act shall commence on such day as may be appointed by the Governor in respect thereof and as may be notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[275,010] s 3 Repeal, transitional and application provisions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CARB.S3" type="ext"/>[275,010]</edpnum><title searchtype="SECT-TITLE">Repeal, transitional and application provisions</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CARB.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Acts mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB.SCH1" remotekey1="REFPTID" service="DOC-ID">Schedule 1</remotelink></ci:content></ci:cite>
+ are repealed to the extent to which they are in that Schedule expressed to be repealed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB.S3.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ :</text></p>
+<l><li id="UCPN.OL.CARB.S3.2.A"><lilabel><refpt id="UCPN.OL.CARB.S3.2.A" type="ext"/>(a)</lilabel>
+<p><text>this Act applies to an arbitration agreement (whether made before or after the commencement of this Act) and to an arbitration under such an agreement, and</text></p>
+</li>
+<li id="UCPN.OL.CARB.S3.2.B"><lilabel><refpt id="UCPN.OL.CARB.S3.2.B" type="ext"/>(b)</lilabel>
+<p><text>a reference in an arbitration agreement to the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ARBAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Arbitration Act 1902</remotelink></ci:content></ci:cite>
+ , or a provision of that Act, shall be construed as a reference to this Act or to the corresponding provision (if any) of this Act.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where an arbitration was commenced before the commencement of this Act, the law governing the arbitration and the arbitration agreement shall be that which would have been applicable if this Act had not been enacted.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 100 of 1990   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S3.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this section, this Act shall apply to arbitrations provided for in any other Act as if:</text></p>
+<l><li id="UCPN.OL.CARB.S3.4.A"><lilabel><refpt id="UCPN.OL.CARB.S3.4.A" type="ext"/>(a)</lilabel>
+<p><text>the other Act were an arbitration agreement,</text></p>
+</li>
+<li id="UCPN.OL.CARB.S3.4.B"><lilabel><refpt id="UCPN.OL.CARB.S3.4.B" type="ext"/>(b)</lilabel>
+<p><text>the arbitration were pursuant to an arbitration agreement, and</text></p>
+</li>
+<li id="UCPN.OL.CARB.S3.4.C"><lilabel><refpt id="UCPN.OL.CARB.S3.4.C" type="ext"/>(c)</lilabel>
+<p><text>the parties to the dispute which, by virtue of the other Act, is referred to arbitration were the parties to the arbitration agreement,</text></p>
+</li>
+</l>
+<p><text>except in so far as the other Act otherwise indicates or requires.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S3.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this section, an arbitration shall be deemed to have been commenced if:</text></p>
+<l><li id="UCPN.OL.CARB.S3.5.A"><lilabel><refpt id="UCPN.OL.CARB.S3.5.A" type="ext"/>(a)</lilabel>
+<p><text>a dispute to which the relevant arbitration agreement applies has arisen, and</text></p>
+</li>
+<li id="UCPN.OL.CARB.S3.5.B"><lilabel><refpt id="UCPN.OL.CARB.S3.5.B" type="ext"/>(b)</lilabel>
+<p><text>a party to the agreement:</text></p>
+<l><li id="UCPN.OL.CARB.S3.5.B.I"><lilabel><refpt id="UCPN.OL.CARB.S3.5.B.I" type="ext"/>(i)</lilabel>
+<p><text>has served on another party to the agreement a notice requiring that other party to appoint an arbitrator or to join or concur in or approve of the appointment of an arbitrator in relation to the dispute,</text></p>
+</li><li id="UCPN.OL.CARB.S3.5.B.II"><lilabel><refpt id="UCPN.OL.CARB.S3.5.B.II" type="ext"/>(ii)</lilabel>
+<p><text>has served on another party to the agreement a notice requiring that other party to refer, or to concur in the reference of, the dispute to arbitration, or</text></p>
+</li><li id="UCPN.OL.CARB.S3.5.B.III"><lilabel><refpt id="UCPN.OL.CARB.S3.5.B.III" type="ext"/>(iii)</lilabel>
+<p><text>has taken any other step contemplated by the agreement, or the law in force at the time the dispute arose, with a view to referring the dispute to arbitration or appointing, or securing the appointment of, an arbitrator in relation to the dispute.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S3.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S3.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Act applies to:</text></p>
+<l><li id="UCPN.OL.CARB.S3.6.A"><lilabel><refpt id="UCPN.OL.CARB.S3.6.A" type="ext"/>(a)</lilabel>
+<p><text>an arbitration under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink></ci:content></ci:cite>
+ , the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.PT5" remotekey1="REFPTID" service="DOC-ID">Part 5</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005  (except to the extent that those Acts expressly provide for the application of this Act), or</text></p>
+</li>
+<li id="UCPN.OL.CARB.S3.6.B"><lilabel><refpt id="UCPN.OL.CARB.S3.6.B" type="ext"/>(b)</lilabel>
+<p><text>an arbitration, or class of arbitrations, prescribed as an arbitration, or class of arbitrations, to which this Act does not apply.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (6)  subst Act 100 of 1990   s 4 and Sch 2; am Act No 28 of 2005   s 5.6 and Sch 5, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S3.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S3.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Act shall affect the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.INA.S19" remotekey1="REFPTID" service="DOC-ID" status="unval">section 19</remotelink></ci:content></ci:cite>
+ of the Insurance Act 1902, or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CREDN.S130" remotekey1="REFPTID" service="DOC-ID" status="unval">section 130</remotelink></ci:content></ci:cite>
+ of the Credit Act 1984.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S3.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S3.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Act affects the operation of  Part 3 of the Building and Construction Industry Security of Payment Act 1999.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (8)  am Act 46 of 1999   s 36 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[275,015] s 4 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CARB.S4" type="ext"/>[275,015]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CARB.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, except in so far as the context or subject-matter otherwise indicates or requires:</text></p>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.ARBITRATION-AGREEMENT"><defterm><refpt id="UCPN.OL.CARB.S4.1.ARBITRATION-AGREEMENT" type="ext"/><emph typestyle="bf">arbitration agreement</emph></defterm>  <defdesc>
+<p><text>means an agreement in writing to refer present or future disputes to arbitration.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.ASSESS"><defterm><refpt id="UCPN.OL.CARB.S4.1.ASSESS" type="ext"/><emph typestyle="bf">assess</emph></defterm>  <defdesc>
+<p><text>in relation to costs, means assess under Division 11 of Part 3.2 of the Legal Profession Act 2004.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 68 of 2004   s 3 and Sch 2 , effective 6 July 2004 ; am Act No 46 of 2005  s 5 and Sch 11, effective 1 October 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.AWARD"><defterm><refpt id="UCPN.OL.CARB.S4.1.AWARD" type="ext"/><emph typestyle="bf">award</emph></defterm>  <defdesc>
+<p><text>means final or interim award.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.DISTRICT-COURT"><defterm><refpt id="UCPN.OL.CARB.S4.1.DISTRICT-COURT" type="ext"/><emph typestyle="bf">District Court</emph></defterm>  <leg:histnote>
+<p><text>[def  rep Act 100 of 1990   s 4 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.MISCONDUCT"><defterm><refpt id="UCPN.OL.CARB.S4.1.MISCONDUCT" type="ext"/><emph typestyle="bf">misconduct</emph></defterm>  <defdesc>
+<p><text>includes corruption, fraud, partiality, bias and a breach of the rules of natural justice.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.PARTY"><defterm><refpt id="UCPN.OL.CARB.S4.1.PARTY" type="ext"/><emph typestyle="bf">party</emph></defterm>  <defdesc>
+<p><text>, in relation to an arbitration agreement, includes any person claiming through or under a party to the arbitration agreement.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.POWER-OF-APPOINTMENT"><defterm><refpt id="UCPN.OL.CARB.S4.1.POWER-OF-APPOINTMENT" type="ext"/><emph typestyle="bf">power of appointment</emph></defterm>  or <defterm><refpt id="UCPN.OL.CARB.S4.1.POWER-OF-APPOINTMENT" type="ext"/><emph typestyle="bf">power to appoint</emph></defterm>  <defdesc>
+<p><text>, in relation to an arbitrator or umpire, means a power to appoint an arbitrator or umpire, to join in the appointment of an arbitrator or umpire, to concur in or approve of the appointment of an arbitrator or umpire, or to take any other step in or towards the appointment of an arbitrator or umpire.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.SUPREME-COURT"><defterm><refpt id="UCPN.OL.CARB.S4.1.SUPREME-COURT" type="ext"/><emph typestyle="bf">Supreme Court</emph></defterm>  <leg:histnote>
+<p><text>[def  rep Act 100 of 1990   s 4 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CARB.S4.1.THE-COURT"><defterm><refpt id="UCPN.OL.CARB.S4.1.THE-COURT" type="ext"/><emph typestyle="bf">the Court</emph></defterm>  <defdesc>
+<p><text>means, subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB.S4.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ , the Supreme Court.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where:</text></p>
+<l><li id="UCPN.OL.CARB.S4.2.A"><lilabel><refpt id="UCPN.OL.CARB.S4.2.A" type="ext"/>(a)</lilabel>
+<p><text>an arbitration agreement provides that the District Court or the Local Court shall have jurisdiction under this Act, or</text></p>
+</li>
+<li id="UCPN.OL.CARB.S4.2.B"><lilabel><refpt id="UCPN.OL.CARB.S4.2.B" type="ext"/>(b)</lilabel>
+<p><text>the parties to an arbitration agreement have agreed in writing that the District Court or the Local Court shall have jurisdiction under this Act and that agreement is in force,</text></p>
+</li>
+</l>
+<p><text>a reference in this Act to the Court is, in relation to that agreement, a reference to the District Court or the Local Court, as the case requires.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act No 28 of 2005   s 5.4 and Sch 5, effective 15 August 2005 ; Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CARB.S4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to an arbitrator includes, in a case where there are 2 or more arbitrators, a reference to the arbitrators.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  subst Act 100 of 1990    s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.CARB.S4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.275015-5" leveltype="para0" subdoc="true" toc-caption="[275,015.5] Arbitration agreement">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [275,015.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1984-160" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 1984</remotelink> [275,445].</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.275015-5" type="ext"/>[275,015.5] </edpnum><title>Arbitration agreement</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The statutory definition should be given a wide scope consistent with the brevity of its terms and the scope of the legislation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1995"/></ci:caseinfo><ci:caseref ID="cr000111" spanref="cr000111-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="184"/><ci:page num="301"/></ci:caseref><ci:caseref ID="cr000112" spanref="cr000112-002"><ci:reporter value="ALR"/><ci:volume num="131"/><ci:page num="377"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">PMT Partners Pty Ltd (in liq) v Australian National Parks &amp; Wildlife Service</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000111-001" status="unval">(1995) 184 CLR 301</ci:span>; <ci:span spanid="cr000112-002">131 ALR 377</ci:span></citefragment> <remotelink dpsi="0018" refpt="107899" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . An agreement which confers a unilateral right to refer disputes is an arbitration agreement for the purposes of this section: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000113" spanref="cr000113-001" status="unval"><ci:reporter value="QB"/><ci:edition><ci:date year="1986"/></ci:edition><ci:page num="868"/></ci:caseref><ci:caseref ID="cr000114" spanref="cr000114-002"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1986"/></ci:edition><ci:page num="227"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pittalis v Sherefettin</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000113-001" status="unval">[1986] QB 868</ci:span>; <ci:span spanid="cr000114-002">[1986] 2 All ER 227</ci:span></citefragment> <remotelink dpsi="0018" refpt="36649" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr000115" spanref="cr000115-001"><ci:reporter value="NSWLR"/><ci:volume num="27"/><ci:page num="592"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Turner Corp Ltd v Austotel Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000115-001">(1992) 27 NSWLR 592</ci:span></citefragment> <remotelink dpsi="0018" refpt="39952" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . An agreement which makes the obligation, or entitlement, to refer contingent on the happening of a particular event, is also an arbitration agreement: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2001"/></ci:caseinfo><ci:caseref ID="cr000116" spanref="cr000116-001"><ci:reporter value="NSWLR"/><ci:volume num="52"/><ci:page num="587"/></ci:caseref><ci:caseref ID="cr000117" spanref="cr000117-002"><ci:reporter value="urj"/><ci:refnum num="BC200103967"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Savcor Pty Ltd v New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000116-001">(2001) 52 NSWLR 587</ci:span>; [2001] NSWSC 596; <ci:span spanid="cr000117-002"> BC200103967</ci:span></citefragment> <remotelink dpsi="0018" refpt="331142" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>  (right to refer conditional on prior expert determination and monetary threshold). See further 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB.S53" remotekey1="REFPTID" service="DOC-ID">[275,445]</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.275015-10" leveltype="para0" subdoc="true" toc-caption="[275,015.10] Scope of the arbitration agreement">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [275,015.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1984-160" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 1984</remotelink> [275,445].</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.275015-10" type="ext"/>[275,015.10] </edpnum><title>Scope of the arbitration agreement</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Commercial agreements to refer disputes to arbitration should not be construed narrowly. An agreement to refer disputes &quot;arising out of the contract&quot; includes disputes arising out of representations and misleading conduct occurring during the course of the contract: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1996"/></ci:caseinfo><ci:caseref ID="cr000118" spanref="cr000118-001"><ci:reporter value="NSWLR"/><ci:volume num="39"/><ci:page num="160"/></ci:caseref><ci:caseref anaphref="cr000118" spanref="cr000118-002"><ci:pinpoint num="165" targettype="page"/></ci:caseref><ci:caseref ID="cr000119" spanref="cr000119-003" status="unval"><ci:reporter value="FLR"/><ci:volume num="131"/><ci:page num="422"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Francis Travel Marketing Pty Ltd v Virgin Atlantic Airways Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000118-001">(1996) 39 NSWLR 160</ci:span> <ci:span spanid="cr000118-002">at 165</ci:span>; <ci:span spanid="cr000119-003" status="unval">131 FLR 422</ci:span></citefragment> <remotelink dpsi="0018" refpt="161468" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . Similarly, an agreement to refer to arbitration any disputes &quot;concerning this agreement&quot; includes a claim based on unjust enrichment: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1997"/></ci:caseinfo><ci:caseref ID="cr000120" spanref="cr000120-001"><ci:reporter value="NSWLR"/><ci:volume num="42"/><ci:page num="285"/></ci:caseref><ci:caseref ID="cr000121" spanref="cr000121-002"><ci:reporter value="urj"/><ci:refnum num="BC9703387"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">O'Connor v Leaw Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000120-001">(1997) 42 NSWLR 285</ci:span>; <ci:span spanid="cr000121-002"> BC9703387</ci:span></citefragment> <remotelink dpsi="0018" refpt="239812" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . An arbitration agreement constitutes a separate contract enabling the arbitrator to deal with the whole dispute, not merely those aspects which arise out of the contract itself: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr000122" spanref="cr000122-001"><ci:reporter value="NSWLR"/><ci:volume num="34"/><ci:page num="474"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ferris v Plaister</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000122-001">(1994) 34 NSWLR 474</ci:span></citefragment></ci:content></ci:cite> . See also an article by Justice Giles: &quot;Severability of Dispute Resolution Clauses in Contracts&quot;, <emph typestyle="it">Building and Construction Law</emph> , Vol 10, no 6, 1994, p 393; see also 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB.S53" remotekey1="REFPTID" service="DOC-ID">[275,445]</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.275015-15" leveltype="para0" subdoc="true" toc-caption="[275,015.15] Characterisation of the agreement &#x2013; arbitration or expert determination"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.275015-15" type="ext"/>[275,015.15] </edpnum><title>Characterisation of the agreement &#x2013; arbitration or expert determination</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An arbitrator must be impartial, must decide according to the substantive law: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000123" spanref="cr000123-001" status="unval"><ci:reporter value="QB"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="648"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Techno-Impex v Gebr Van Weelde</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000123-001" status="unval">[1981] QB 648</ci:span></citefragment> <remotelink dpsi="0018" refpt="124816" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Oliver LJ <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000124" spanref="cr000124-000"><ci:reporter value="QB"/><ci:edition><ci:date year="1981"/></ci:edition><ci:pinpoint num="669" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000124-000">at 669</ci:span></citefragment></ci:content></ci:cite>  and Watkins LJ <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000125" spanref="cr000125-000" status="unval"><ci:reporter value="QB"/><ci:edition><ci:date year="1981"/></ci:edition><ci:pinpoint num="680" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000125-000" status="unval">at 680</ci:span></citefragment></ci:content></ci:cite> ) and must decide on the basis of the competing submissions of the parties, unless the nature of the dispute renders this requirement inappropriate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000126" spanref="cr000126-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="405"/></ci:caseref><ci:caseref ID="cr000127" spanref="cr000127-002"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1975"/></ci:edition><ci:page num="901"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Arenson v Casson Beckman Rutley &amp; Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000126-001" status="unval">[1977] AC 405</ci:span>; <ci:span spanid="cr000127-002">[1975] 3 All ER 901</ci:span></citefragment> <remotelink dpsi="0018" refpt="43864" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ). An expert is not so confined.</text></p>
+<p>
+<text>There is no specific criterion for characterising a particular agreement as providing for arbitration as distinct from expert determination: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000128" spanref="cr000128-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="405"/></ci:caseref><ci:caseref anaphref="cr000128" spanref="cr000128-002" status="unval"><ci:pinpoint num="427" targettype="page"/></ci:caseref><ci:caseref ID="cr000129" spanref="cr000129-003"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1975"/></ci:edition><ci:page num="901"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Arenson v Casson Beckman Rutley &amp; Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000128-001" status="unval">[1977] AC 405</ci:span> <ci:span spanid="cr000128-002" status="unval">at 427</ci:span>; <ci:span spanid="cr000129-003">[1975] 3 All ER 901</ci:span></citefragment> <remotelink dpsi="0018" refpt="43864" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>  per Lord Wheatley. Consequently, it is often difficult to distinguish between an arbitration agreement and an agreement providing for expert determination &#x2014; see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000130" spanref="cr000130-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="919"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ajzner v Cartonlux Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000130-001">[1972] VR 919</ci:span></citefragment> <remotelink dpsi="0018" refpt="29350" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1885"/></ci:caseinfo><ci:caseref ID="cr000131" spanref="cr000131-001" status="unval"><ci:reporter value="QBD"/><ci:volume num="15"/><ci:page num="426"/></ci:caseref><ci:caseref anaphref="cr000131" spanref="cr000131-002" status="unval"><ci:pinpoint num="430" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Dawdy &amp; Hartcup</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000131-001" status="unval">(1885) 15 QBD 426</ci:span> <ci:span spanid="cr000131-002" status="unval">at 430</ci:span></citefragment> <remotelink dpsi="0018" refpt="4787" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>  per Lord Esher; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000132" spanref="cr000132-001"><ci:reporter value="urj"/><ci:refnum num="BC9807200"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Badgin Nominees Pty Ltd v Oneida Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [1998] VSC 188; <ci:span spanid="cr000132-001"> BC9807200</ci:span></citefragment> <remotelink dpsi="0018" refpt="293054" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>  (referral to a chartered accountant to determine as an expert); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000133" spanref="cr000133-001"><ci:reporter value="NSWLR"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="806"/></ci:caseref><ci:caseref anaphref="cr000133" spanref="cr000133-002"><ci:pinpoint num="813" targettype="page"/></ci:caseref><ci:caseref anaphref="cr000133" spanref="cr000133-003" status="unval"><ci:pinpoint num="818" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">AMP Society v OTC (Aust)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000133-001">[1972] NSWLR 806</ci:span> <ci:span spanid="cr000133-002">at 813,</ci:span> <ci:span spanid="cr000133-003" status="unval">818</ci:span></citefragment></ci:content></ci:cite> . Factors relevant to the distinction include the terms of the agreement and its subject matter: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1984"/></ci:caseinfo><ci:caseref ID="cr000134" spanref="cr000134-001" status="unval"><ci:reporter value="NSWConvR"/><ci:page num="55-177"/></ci:caseref><ci:caseref anaphref="cr000134" spanref="cr000134-002" status="unval"><ci:pinpoint num="57256" targettype="page"/></ci:caseref><ci:caseref ID="cr000135" spanref="cr000135-003"><ci:reporter value="urj"/><ci:refnum num="BC8400354"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Edmund Barton Chambers (Level 44) Co-op Ltd v MLC Assurance Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000134-001" status="unval">(1984) NSW ConvR ¶55-177</ci:span> <ci:span spanid="cr000134-002" status="unval">at 57,256</ci:span>; <ci:span spanid="cr000135-003"> BC8400354</ci:span></citefragment></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr000136" spanref="cr000136-001" status="unval"><ci:reporter value="BPR"/><ci:volume num="4"/><ci:page num="9185"/></ci:caseref><ci:caseref ID="cr000137" spanref="cr000137-002" status="unval"><ci:reporter value="ANZConvR"/><ci:edition><ci:date year="1986"/></ci:edition><ci:page num="598"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Thomas Cook Pty Ltd v Commonwealth Banking Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000136-001" status="unval">(1986) 4 BPR 9185</ci:span>; <ci:span spanid="cr000137-002" status="unval">(1986) ANZ ConvR 598</ci:span></citefragment></ci:content></ci:cite> . The use of the description of either &quot;abritrator&quot; or &quot;expert&quot; may point towards the true characterisation of the referral procedure: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1984"/></ci:caseinfo><ci:caseref ID="cr000138" spanref="cr000138-001" status="unval"><ci:reporter value="NSWConvR"/><ci:page num="55-177"/></ci:caseref><ci:caseref anaphref="cr000138" spanref="cr000138-002" status="unval"><ci:pinpoint num="57256" targettype="page"/></ci:caseref><ci:caseref ID="cr000139" spanref="cr000139-003"><ci:reporter value="urj"/><ci:refnum num="BC8400354"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Edmund Barton Chambers (Level 44) Co-op Ltd v MLC Assurance Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000138-001" status="unval">(1984) NSW ConvR ¶55-177</ci:span> <ci:span spanid="cr000138-002" status="unval">at 57,256</ci:span>; <ci:span spanid="cr000139-003"> BC8400354</ci:span></citefragment></ci:content></ci:cite> ; but it is not conclusive: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1912"/></ci:caseinfo><ci:caseref ID="cr000140" spanref="cr000140-001" status="unval"><ci:reporter value="SolJo"/><ci:volume num="56"/><ci:page num="253"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Taylor v Yielding</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000140-001" status="unval">(1912) 56 Sol Jo 253</ci:span></citefragment></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000141" spanref="cr000141-001"><ci:reporter value="urj"/><ci:refnum num="BC9502399"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">IOOF Australia Trustees Ltd v SEAS Sapfor Forests Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000141-001"> (SASC, Debelle J, 3 November 1995, unreported, BC9502399)</ci:span></citefragment></ci:content></ci:cite> . The fact that the agreement provides for the determination of a &quot;dispute&quot; is one indication suggesting the parties intended arbitration: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000142" spanref="cr000142-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="405"/></ci:caseref><ci:caseref anaphref="cr000142" spanref="cr000142-002" status="unval"><ci:pinpoint num="424" targettype="page"/></ci:caseref><ci:caseref ID="cr000143" spanref="cr000143-003"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1975"/></ci:edition><ci:page num="901"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Arenson v Casson Beckman Rutley &amp; Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000142-001" status="unval">[1977] AC 405</ci:span> <ci:span spanid="cr000142-002" status="unval">at 424</ci:span>; <ci:span spanid="cr000143-003">[1975] 3 All ER 901</ci:span></citefragment> <remotelink dpsi="0018" refpt="43864" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>  per Lord Simon; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1983"/></ci:caseinfo><ci:caseref ID="cr000144" spanref="cr000144-001" status="unval"><ci:reporter value="SASR"/><ci:volume num="34"/><ci:page num="215"/></ci:caseref><ci:caseref ID="cr000145" spanref="cr000145-002"><ci:reporter value="ALR"/><ci:volume num="48"/><ci:page num="69"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Alliance Petroleum Australia NL v Australian Gas Light Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000144-001" status="unval">(1983) 34 SASR 215</ci:span>; <ci:span spanid="cr000145-002">48 ALR 69</ci:span></citefragment> <remotelink dpsi="0018" refpt="35806" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . On the other hand, if the agreement specifies particular qualifications required of the proposed referee, they may tend to indicate that expert determination was intended: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1984"/></ci:caseinfo><ci:caseref ID="cr000146" spanref="cr000146-001" status="unval"><ci:reporter value="NSWConvR"/><ci:page num="55-177"/></ci:caseref><ci:caseref ID="cr000147" spanref="cr000147-002"><ci:reporter value="urj"/><ci:refnum num="BC8400354"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Edmund Barton Chambers (Level 44) Co-op Ltd v MLC Assurance Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000146-001" status="unval">(1984) NSW ConvR ¶55-177</ci:span>; <ci:span spanid="cr000147-002"> BC8400354</ci:span></citefragment></ci:content></ci:cite> .</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CARB.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[275,020] s 5 Crown to be bound">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CARB.S5" type="ext"/>[275,020]</edpnum><title searchtype="SECT-TITLE">Crown to be bound</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Crown (whether in right of the State of New South Wales or in any other capacity) is a party to an arbitration agreement, the Crown is bound by this Act.</text></p>
+<leg:histnote>
+<p><text>[s 5  am Act 100 of 1990   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

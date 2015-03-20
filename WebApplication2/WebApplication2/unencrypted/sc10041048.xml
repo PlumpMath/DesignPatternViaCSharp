@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 15A PROCEEDINGS UNDER THE CROSS-BORDER INSOLVENCY ACT [rr 15A.1&#x2013;15A.9]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.CLRUN00.D15A</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT (CORPORATIONS) RULES 1999</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 15A PROCEEDINGS UNDER THE CROSS-BORDER INSOLVENCY ACT [rr 15A.1&#x2013;15A.9]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70020160</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.CLRUN00"/><docinfo:metaitem name="parent-filename" value="sc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 703, 1999</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT (CORPORATIONS) RULES 1999</leg:officialname></leg:info><leg:level id="UCPN.SC.CLRUN00.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15A"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 15A PROCEEDINGS UNDER THE CROSS-BORDER INSOLVENCY ACT [rr 15A.1&#x2013;15A.9]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.CLRUN00.D15A" type="ext"/>DIVISION 15A</designum></desig><title searchtype="DIV-TITLE">PROCEEDINGS UNDER THE CROSS-BORDER INSOLVENCY ACT [rr 15A.1&#x2013;15A.9]</title><leg:histnote>
+<p><text>[Div 15A  insrt Gaz 132 of 17 October 2008  r 2 and Sch 1[6], effective 17 October 2008]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,110] r 15A.1 Application of this Division and other rules of the Court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R1" type="ext"/>[16,110]</edpnum><title searchtype="RUL-TITLE">Application of this Division and other rules of the Court</title><desig searchtype="RUL-NUM"><designum>15A.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R1..A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R1..A" type="ext"/>(a)</lilabel>
+<p><text>this Division applies to a proceeding in the Court, under the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act</remotelink>
+, involving a debtor other than an individual, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R1..B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R1..B" type="ext"/>(b)</lilabel>
+<p><text>the rules in the other Divisions of these Rules, and the other rules of the Court, apply to a proceeding in the Court under the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act</remotelink>
+ if they are relevant and not inconsistent with this Division.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>See 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R5" remotekey1="REFPTID" service="DOC-ID">rule 1.5</remotelink></ci:content></ci:cite>
+ for definitions of Cross-Border Insolvency Act and Model Law.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,115] r 15A.2 Expressions used in the Cross-Border Insolvency Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R2" type="ext"/>[16,115]</edpnum><title searchtype="RUL-TITLE">Expressions used in the Cross-Border Insolvency Act</title><desig searchtype="RUL-NUM"><designum>15A.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15.R2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15.R2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the contrary intention appears, an expression that is used in this Division and in the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act</remotelink>
+, whether or not a particular meaning is given to the expression by the Cross-Border Insolvency Act, has the same meaning in this Division as it has in the Cross-Border Insolvency Act.</text></p>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>The following expressions used in this Division (including in the notes to this Division) are defined in the Model Law as having the following meanings:</text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.ESTABLISHMENT"><defterm><refpt id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.ESTABLISHMENT" type="ext"/><emph typestyle="bf">establishment</emph></defterm><defdesc>
+<p><text>means any place of operations where the debtor carries out a non-transitory economic activity with human means and goods or services.</text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-COURT"><defterm><refpt id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-COURT" type="ext"/><emph typestyle="bf">foreign court</emph></defterm><defdesc>
+<p><text>means a judicial or other authority competent to control or supervise a foreign proceeding.</text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-MAIN-PROCEEDING"><defterm><refpt id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-MAIN-PROCEEDING" type="ext"/><emph typestyle="bf">foreign main proceeding</emph></defterm><defdesc>
+<p><text>means a foreign proceeding taking place in the State where the debtor has the centre of its main interests.</text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-NON-MAIN-PROCEEDING"><defterm><refpt id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-NON-MAIN-PROCEEDING" type="ext"/><emph typestyle="bf">foreign non-main proceeding</emph></defterm><defdesc>
+<p><text>means a foreign proceeding, other than a foreign main proceeding, taking place in a State where the debtor has an establishment within the meaning of subparagraph (f) of the present article.</text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-PROCEEDING"><defterm><refpt id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-PROCEEDING" type="ext"/><emph typestyle="bf">foreign proceeding</emph></defterm><defdesc>
+<p><text>means a collective judicial or administrative proceeding in a foreign State, including an interim proceeding, pursuant to a law relating to insolvency in which proceeding the assets and affairs of the debtor are subject to control or supervision by a foreign court, for the purpose of reorganization or liquidation.</text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-REPRESENTATIVE"><defterm><refpt id="UCPN.SC.CLRUN00.D15.R2.1.LGN1.FOREIGN-REPRESENTATIVE" type="ext"/><emph typestyle="bf">foreign representative</emph></defterm><defdesc>
+<p><text>means a person or body, including one appointed on an interim basis, authorized in a foreign proceeding to administer the reorganization or the liquidation of the debtor&#x2019;s assets or affairs or to act as a representative of the foreign proceeding.</text></p>
+</defdesc></defitem></deflist></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15.R2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15.R2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Division is to be interpreted in a manner that gives effect to the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act</remotelink>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,120] r 15A.3 Application for recognition">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R3" type="ext"/>[16,120]</edpnum><title searchtype="RUL-TITLE">Application for recognition</title><desig searchtype="RUL-NUM"><designum>15A.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application by a foreign representative for recognition of a foreign proceeding under article 15 of the Model Law must be made by filing an originating process in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.SCH1.FORM2" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 2</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The originating process must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R3.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R3.2.A" type="ext"/>(a)</lilabel>
+<p><text>be accompanied by the statements referred to in article 15 of the Model Law and in 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08.S13" remotekey1="REFPTID" service="DOC-ID" status="unval">section 13</remotelink>
+ of the Cross-Border Insolvency Act, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R3.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R3.2.B" type="ext"/>(b)</lilabel>
+<p><text>name the foreign representative as the plaintiff and the debtor as the defendant, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R3.2.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R3.2.C" type="ext"/>(c)</lilabel>
+<p><text>be accompanied by an affidavit verifying the matters mentioned in paragraphs 2 and 3 of article 15 of the Model Law and in 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08.S13" remotekey1="REFPTID" service="DOC-ID" status="unval">section 13</remotelink>
+ of the Cross-Border Insolvency Act.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>When filing the originating process, the foreign representative must file, but need not serve, an interlocutory process seeking directions as to service, and the Court may give any directions about service, and make any incidental order, that it thinks just.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The plaintiff must serve a copy of the originating process and the other documents mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R3.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R3.4.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R3.4.A" type="ext"/>(a)</lilabel>
+<p><text>unless the Court otherwise orders, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R7.1" remotekey1="REFPTID" service="DOC-ID">subrule 2.7(1)</remotelink></ci:content></ci:cite>
+, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R3.4.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R3.4.B" type="ext"/>(b)</lilabel>
+<p><text>on any other persons the Court may direct at the hearing of the interlocutory process.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R3.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who intends to appear before the Court at the hearing of an application for recognition must file and serve the documents mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R9" remotekey1="REFPTID" service="DOC-ID">rule 2.9</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,125] r 15A.4 Application for provisional relief under article 19 of the Model Law">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R4" type="ext"/>[16,125]</edpnum><title searchtype="RUL-TITLE">Application for provisional relief under article 19 of the Model Law</title><desig searchtype="RUL-NUM"><designum>15A.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any application by the plaintiff for provisional relief under article 19 of the Model Law must be made by filing an interlocutory process in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM3" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 3</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, the interlocutory process and any supporting affidavit must be served in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R7.2" remotekey1="REFPTID" service="DOC-ID">subrule 2.7(2)</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,130] r 15A.5 Official liquidator&#x2019;s consent to act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R5" type="ext"/>[16,130]</edpnum><title searchtype="RUL-TITLE">Official liquidator&#x2019;s consent to act</title><desig searchtype="RUL-NUM"><designum>15A.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an application is made for an order:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R5..A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R5..A" type="ext"/>(a)</lilabel>
+<p><text>under article 19 or 21 of the Model Law to entrust the administration or realisation of all or part of the debtor&#x2019;s assets to a person designated by the Court (other than the foreign representative), or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R5..B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R5..B" type="ext"/>(b)</lilabel>
+<p><text>under article 21 to entrust the distribution of all or part of the debtor&#x2019;s assets to a person designated by the Court (other than the foreign representative),</text></p>
+</li>
+</l>
+<p><text>then, unless the Court otherwise orders, the person must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R5..C"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R5..C" type="ext"/>(c)</lilabel>
+<p><text>be an official liquidator, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R5..D"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R5..D" type="ext"/>(d)</lilabel>
+<p><text>have filed a Consent to Act, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM19" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 19</remotelink></ci:content></ci:cite>
+, that specifies an address for service for the person within Australia.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 15A.5  subst SLI 480 of 2009  s 4, effective 25 September 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,135] r 15A.6 Notice of filing of application for recognition">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R6" type="ext"/>[16,135]</edpnum><title searchtype="RUL-TITLE">Notice of filing of application for recognition</title><desig searchtype="RUL-NUM"><designum>15A.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, the plaintiff in a proceeding mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R3" remotekey1="REFPTID" service="DOC-ID">rule 15A.3</remotelink></ci:content></ci:cite>
+ must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R6.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R6.1.A" type="ext"/>(a)</lilabel>
+<p><text>send a notice of the filing of the application in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM20" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 20</remotelink></ci:content></ci:cite>
+ to each person whose claim to be a creditor of the defendant is known to the plaintiff, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R6.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R6.1.B" type="ext"/>(b)</lilabel>
+<p><text>publish a notice of the filing of the application for recognition of a foreign proceeding in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM20" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 20</remotelink></ci:content></ci:cite>
+, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may direct the plaintiff to publish a notice in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM20" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 20</remotelink></ci:content></ci:cite>
+ in a daily newspaper circulating generally in any State or Territory not described in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,140] r 15A.7 Notice of order for recognition, withdrawal etc">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R7" type="ext"/>[16,140]</edpnum><title searchtype="RUL-TITLE">Notice of order for recognition, withdrawal etc</title><desig searchtype="RUL-NUM"><designum>15A.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court makes an order for recognition of a foreign proceeding under article 17 of the Model Law, or makes any order under article 19 or 21 of the Model Law, the plaintiff must, as soon as practicable after the order is made, do all of the following:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R7.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R7.1.A" type="ext"/>(a)</lilabel>
+<p><text>have the order entered,</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R7.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R7.1.B" type="ext"/>(b)</lilabel>
+<p><text>serve a copy of the entered order on the defendant,</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R7.1.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R7.1.C" type="ext"/>(c)</lilabel>
+<p><text>send a notice of the making of the order in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM21" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 21</remotelink></ci:content></ci:cite>
+ to each person whose claim to be a creditor of the defendant is known to the plaintiff,</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R7.1.D"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R7.1.D" type="ext"/>(d)</lilabel>
+<p><text>publish a notice of the making of the order in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM21" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 21</remotelink></ci:content></ci:cite>
+, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may direct the plaintiff to publish the notice in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM21" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 21</remotelink></ci:content></ci:cite>
+ in a daily newspaper circulating generally in any State or Territory not described in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R7.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the application for recognition is withdrawn or dismissed, the plaintiff must, as soon as practicable, do all of the following:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R7.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R7.3.A" type="ext"/>(a)</lilabel>
+<p><text>for a dismissal, have the order of dismissal entered,</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R7.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R7.3.B" type="ext"/>(b)</lilabel>
+<p><text>serve a copy of the entered order of dismissal or notice of the withdrawal, on the defendant,</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R7.3.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R7.3.C" type="ext"/>(c)</lilabel>
+<p><text>send a notice of the dismissal or withdrawal in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM22" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 22</remotelink></ci:content></ci:cite>
+ to each person whose claim to be a creditor of the defendant is known to the plaintiff,</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R7.3.D"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R7.3.D" type="ext"/>(d)</lilabel>
+<p><text>publish a notice of the dismissal or withdrawal in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM22" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 22</remotelink></ci:content></ci:cite>
+, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R7.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R7.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may direct the plaintiff to publish the notice in accordance with Form 22 in a daily newspaper circulating generally in any State or Territory not described in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,145] r 15A.8 Relief after recognition">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R8" type="ext"/>[16,145]</edpnum><title searchtype="RUL-TITLE">Relief after recognition</title><desig searchtype="RUL-NUM"><designum>15A.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R8.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court has made an order for recognition of a foreign proceeding, any application by the plaintiff for relief under paragraph 1 of article 21 of the Model Law must be made by filing an interlocutory process, and any supporting affidavit, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM3" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 3</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R8.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, an interlocutory process under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R8.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ and any supporting affidavit must be served, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R7.2" remotekey1="REFPTID" service="DOC-ID">subrule 2.7(2)</remotelink></ci:content></ci:cite>
+, but on the following persons:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R8.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R8.2.A" type="ext"/>(a)</lilabel>
+<p><text>the defendant,</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R8.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R8.2.B" type="ext"/>(b)</lilabel>
+<p><text>any person that the Court directed be served with the originating process by which the application for recognition was made,</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R8.2.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R8.2.C" type="ext"/>(c)</lilabel>
+<p><text>any other person that the Court directs.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R8.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R8.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who intends to appear before the Court at the hearing of an application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R8.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ must file and serve the documents mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R9" remotekey1="REFPTID" service="DOC-ID">rule 2.9</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,150] r 15A.9 Application to modify or terminate an order for recognition or other relief">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15A.R9" type="ext"/>[16,150]</edpnum><title searchtype="RUL-TITLE">Application to modify or terminate an order for recognition or other relief</title><desig searchtype="RUL-NUM"><designum>15A.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R9.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R9.1.A" type="ext"/>(a)</lilabel>
+<p><text>an application under paragraph 4 of article 17 of the Model Law for an order modifying or terminating an order for recognition of a foreign proceeding, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R9.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R9.1.B" type="ext"/>(b)</lilabel>
+<p><text>an application under paragraph 3 of article 22 of the Model Law for an order modifying or terminating relief granted under article 19 or 21 of the Model Law.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R9.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ must be made by filing an interlocutory process in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM3" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 3</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R9.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An interlocutory process for an application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R9.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ and any supporting affidavit must be served on:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R9.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R9.3.A" type="ext"/>(a)</lilabel>
+<p><text>for an applicant under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R9.1.A" remotekey1="REFPTID" service="DOC-ID">paragraph (1)(a)</remotelink></ci:content></ci:cite>
+ &#x2014; the defendant and other persons who were served with, or filed a notice of appearance in relation to, the application for recognition, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R9.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R9.3.B" type="ext"/>(b)</lilabel>
+<p><text>for an application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R9.1.B" remotekey1="REFPTID" service="DOC-ID">paragraph (1)(b)</remotelink></ci:content></ci:cite>
+ &#x2014; the defendant and other persons who were served with, or filed a notice of appearance in relation to, the application for relief under article 19 or 21 of the Model Law.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R9.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R9.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, a plaintiff who applies for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R9.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D15A.R9.4.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R9.4.A" type="ext"/>(a)</lilabel>
+<p><text>send a notice of the filing of the application in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM23" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 23</remotelink></ci:content></ci:cite>
+ to each person whose claim to be a creditor of the defendant is known to the plaintiff, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D15A.R9.4.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D15A.R9.4.B" type="ext"/>(b)</lilabel>
+<p><text>publish a notice of the filing of the application in accordance with Form 23, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R9.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R9.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may direct the applicant to publish the notice in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM23" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 23</remotelink></ci:content></ci:cite>
+ in a daily newspaper circulating generally in any State or Territory not described in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15A.R9.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D15A.R9.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who intends to appear before the Court at the hearing of an application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A.R9.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ must file and serve the documents mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R9" remotekey1="REFPTID" service="DOC-ID">rule 2.9</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

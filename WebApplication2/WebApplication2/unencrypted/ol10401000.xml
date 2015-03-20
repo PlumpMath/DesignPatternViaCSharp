@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>JURISDICTION OF COURTS (CROSS-VESTING) ACT 1987 (CTH)</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.JCCA.BODY</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>JURISDICTION OF COURTS (CROSS-VESTING) ACT 1987 (CTH)</title></heading><docinfo:hierlev role="me"><heading><title>JURISDICTION OF COURTS (CROSS-VESTING) ACT 1987 (CTH)</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140200000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.JCCA"/><docinfo:metaitem name="parent-filename" value="ol1040.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">JURISDICTION OF COURTS (CROSS-VESTING) ACT 1987 (CTH)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1987</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 125, 1987</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>Jurisdiction of Courts (Cross-vesting) Act No 125 of 1987, assent 16 June 1987, commencement 1 July 1988, as amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1994 No 32</entry><entry colname="c2">2 June 1994</entry><entry colname="c3">2 June 1994</entry></row>
+<row><entry colname="c1">Jurisdiction of Courts (Cross-vesting) Amendment Act 1992 No 62</entry><entry colname="c2">3 November 1992</entry><entry colname="c3">29 September 1995</entry></row>
+<row><entry colname="c1">Federal Courts (Consequential Provisions) Act 2000 No 80</entry><entry colname="c2">23 November 2000</entry><entry colname="c3">23 November 2000</entry></row>
+<row><entry colname="c1">Corporations (Ancillary Provisions) Act 2001 No 32</entry><entry colname="c2">28 June 2001</entry><entry colname="c3">Sch 2: 15 July 2001</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2005 98</entry><entry colname="c2">24 November 2005</entry><entry colname="c3">24 November 2005</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2009 No 106</entry><entry colname="c2">14 December 2009</entry><entry colname="c3">Sch 3.20: 8 January 2010 (s 2)</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.JCCA.BODY" subdoc="false"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.JCCA" type="ext"/>JURISDICTION OF COURTS (CROSS-VESTING) ACT 1987 (CTH)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act relating to the cross-vesting of certain jurisdiction.</text></p>
+<p>
+<text><emph typestyle="bf">WHEREAS</emph> inconvenience and expense have occasionally been caused to litigants by jurisdictional limitations in federal, State and Territory courts, and whereas it is desirable&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA...A"><lilabel><refpt id="UCPN.OL.JCCA...A" type="ext"/>(a)</lilabel>
+<p><text>to establish a system of cross-vesting of jurisdiction between those courts, without detracting from the existing jurisdiction of any court;</text></p>
+</li>
+<li id="UCPN.OL.JCCA...B"><lilabel><refpt id="UCPN.OL.JCCA...B" type="ext"/>(b)</lilabel>
+<p><text>to structure the system in such a way as to ensure as far as practicable that proceedings concerning matters which, apart from this Act and any law of the Commonwealth or another State relating to cross-vesting of jurisdiction, would be entirely or substantially within the jurisdiction (other than any accrued jurisdiction) of the Federal Court or the Family Court or the jurisdiction of a Supreme Court of a State or Territory are instituted and determined in that court, whilst providing for the determination by one court of federal and State matters in appropriate cases; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA...C"><lilabel><refpt id="UCPN.OL.JCCA...C" type="ext"/>(c)</lilabel>
+<p><text>if a proceeding is instituted in a court that is not the appropriate court, to provide a system under which the proceeding will be transferred to the appropriate court.</text></p>
+</li>
+</l>
+<p>
+<text><emph typestyle="bf">BE</emph> it therefore enacted by the Queen's Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of New South Wales in Parliament assembled, and by the authority of the same, as follows:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.JCCA.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,000] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S1" type="ext"/>[340,000]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the &#x201c;Jurisdiction of Courts (Cross-vesting) Act 1987&#x201d;.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S2" type="ext"/>[340,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S1" remotekey1="REFPTID" service="DOC-ID">Sections 1</remotelink></ci:content></ci:cite>
+ and 2 shall commence on the date of assent to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as provided by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S2.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , this Act shall commence on such day as may be appointed by the Governor and notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,010] s 3 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S3" type="ext"/>[340,010]</edpnum><title searchtype="SECT-TITLE">Interpretation</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, except in so far as the context or subject-matter otherwise indicates or requires&#x2014;</text></p>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.FAMILY-COURT"><defterm><refpt id="UCPN.OL.JCCA.S3.1.FAMILY-COURT" type="ext"/><emph typestyle="bf">Family Court</emph></defterm> <defdesc>
+<p><text>means the Family Court of Australia;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.FEDERAL-COURT"><defterm><refpt id="UCPN.OL.JCCA.S3.1.FEDERAL-COURT" type="ext"/><emph typestyle="bf">Federal Court</emph></defterm> <defdesc>
+<p><text>means the Federal Court of Australia;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.FULL-COURT"><defterm><refpt id="UCPN.OL.JCCA.S3.1.FULL-COURT" type="ext"/><emph typestyle="bf">Full Court</emph></defterm> <defdesc>
+<p><text>, in relation to a Supreme Court of a State, includes any court of the State to which appeals lie from a single judge of that Supreme Court;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.JUDGMENT"><defterm><refpt id="UCPN.OL.JCCA.S3.1.JUDGMENT" type="ext"/><emph typestyle="bf">judgment</emph></defterm> <defdesc>
+<p><text>means a judgment, decree or order, whether final or interlocutory;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.PARTY"><defterm><refpt id="UCPN.OL.JCCA.S3.1.PARTY" type="ext"/><emph typestyle="bf">party</emph></defterm> <defdesc>
+<p><text>, in relation to a proceeding, includes a person who intervenes in the proceeding;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.PROCEEDING"><defterm><refpt id="UCPN.OL.JCCA.S3.1.PROCEEDING" type="ext"/><emph typestyle="bf">proceeding</emph></defterm> <defdesc>
+<p><text>does not include a criminal proceeding;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.SPECIAL-FEDERAL-MATTER"><defterm><refpt id="UCPN.OL.JCCA.S3.1.SPECIAL-FEDERAL-MATTER" type="ext"/><emph typestyle="bf">special federal matter</emph></defterm> <defdesc>
+<p><text>has the same meaning as in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87." remotekey1="REFPTID" service="DOC-ID" status="unval">Jurisdiction of Courts (Cross-vesting) Act 1987</remotelink></ci:content></ci:cite>
+ of the Commonwealth;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.STATE"><defterm><refpt id="UCPN.OL.JCCA.S3.1.STATE" type="ext"/><emph typestyle="bf">State</emph></defterm> <defdesc>
+<p><text>includes the Northern Territory and the Australian Capital Territory;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.STATE-FAMILY-COURT"><defterm><refpt id="UCPN.OL.JCCA.S3.1.STATE-FAMILY-COURT" type="ext"/><emph typestyle="bf">State Family Court</emph></defterm> <defdesc>
+<p><text>, in relation to a State, means a court of that State to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.FLA75.S41" remotekey1="REFPTID" service="DOC-ID" status="unval">section 41</remotelink></ci:content></ci:cite>
+ of the Family Law Act 1975 of the Commonwealth applies by virtue of a Proclamation made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.FLA75.S41.2" remotekey1="REFPTID" service="DOC-ID" status="unval">section 41(2)</remotelink></ci:content></ci:cite>
+ of that Act;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.STATE-MATTER"><defterm><refpt id="UCPN.OL.JCCA.S3.1.STATE-MATTER" type="ext"/><emph typestyle="bf">State matter</emph></defterm> <defdesc>
+<p><text>means a matter&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S3.1.STATE-MATTER.A"><lilabel><refpt id="UCPN.OL.JCCA.S3.1.STATE-MATTER.A" type="ext"/>(a)</lilabel>
+<p><text>in which the Supreme Court has jurisdiction otherwise than by reason of a law of the Commonwealth or of another State; or</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S3.1.STATE-MATTER.B"><lilabel><refpt id="UCPN.OL.JCCA.S3.1.STATE-MATTER.B" type="ext"/>(b)</lilabel>
+<p><text>removed to the Supreme Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S8" remotekey1="REFPTID" service="DOC-ID">section 8</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S3.1.TERRITORY"><defterm><refpt id="UCPN.OL.JCCA.S3.1.TERRITORY" type="ext"/><emph typestyle="bf">Territory</emph></defterm> <defdesc>
+<p><text>does not include the Northern Territory or the Australian Capital Territory.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[subs (1)  am Act 32 of 1994  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act, other than a reference in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S4.3" remotekey1="REFPTID" service="DOC-ID">section 4(3)</remotelink></ci:content></ci:cite>
+ , to the Supreme Court of a State includes, if there is a State Family Court of that State, a reference to that State Family Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, a reference to a Commonwealth Act is a reference to that Act, if amended, as amended and in force for the time being.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S3A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,015] s 3A Corporations Act of the Commonwealth">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S3A" type="ext"/>[340,015]</edpnum><title searchtype="SECT-TITLE">Corporations Act of the Commonwealth</title><desig searchtype="SECT-NUM"><designum>3A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not apply to the jurisdiction of courts with which Division 1 of Part 9.6A of the Corporations Act 2001 of the Commonwealth deals.</text></p>
+<leg:histnote>
+<p><text>[s 3A  insrt Act 32 of 2001  Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,020] s 4 Vesting of additional jurisdiction in certain courts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S4" type="ext"/>[340,020]</edpnum><title searchtype="SECT-TITLE">Vesting of additional jurisdiction in certain courts</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (1)  rep Act No 80 of 2000  s 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (2)  rep Act No 80 of 2000  s 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Supreme Court of another State or of a Territory has and may exercise original and appellate jurisdiction with respect to State matters.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S4.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The State Family Court of another State has and may exercise original and appellate jurisdiction with respect to State matters.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S4.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S4.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text> 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S4.3" remotekey1="REFPTID" service="DOC-ID">Subsection (3)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S4.4" remotekey1="REFPTID" service="DOC-ID">(4)</remotelink></ci:content></ci:cite>
+ does not:</text></p>
+<l><li id="UCPN.OL.JCCA.S4.5.A"><lilabel><refpt id="UCPN.OL.JCCA.S4.5.A" type="ext"/>(a)</lilabel>
+<p><text>invest a Supreme Court or a State Family Court with; or</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S4.5.B"><lilabel><refpt id="UCPN.OL.JCCA.S4.5.B" type="ext"/>(b)</lilabel>
+<p><text>confer on any such court,</text></p>
+</li>
+</l>
+<p><text>jurisdiction with respect to criminal matters.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (5)  subst Act No 80 of 2000  s 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,025] s 5 Transfer of proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S5" type="ext"/>[340,025]</edpnum><title searchtype="SECT-TITLE">Transfer of proceedings</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.1.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.1.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding (in this subsection referred to as the &#x201c;relevant proceeding&#x201d;) is pending in the Supreme Court; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S5.1.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.1.B" type="ext"/>(b)</lilabel>
+<p><text>it appears to the Supreme Court that&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.1.B.I"><lilabel><refpt id="UCPN.OL.JCCA.S5.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>[Repealed]</text></p>
+</li><li id="UCPN.OL.JCCA.S5.1.B.II"><lilabel><refpt id="UCPN.OL.JCCA.S5.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>having regard to&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.1.B.II.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.1.B.II.A" type="ext"/>(A)</lilabel>
+<p><text>whether, in the opinion of the Supreme Court, apart from any law of the Commonwealth or another State relating to cross-vesting of jurisdiction and apart from any accrued jurisdiction of the Federal Court or the Family Court, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the Supreme Court and capable of being instituted in the Federal Court or the Family Court;</text></p>
+</li><li id="UCPN.OL.JCCA.S5.1.B.II.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.1.B.II.B" type="ext"/>(B)</lilabel>
+<p><text>the extent to which, in the opinion of the Supreme Court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the Commonwealth and not within the jurisdiction of the Supreme Court apart from this Act and any law of the Commonwealth or another State relating to cross-vesting of jurisdiction; and</text></p>
+</li><li id="UCPN.OL.JCCA.S5.1.B.II.C"><lilabel><refpt id="UCPN.OL.JCCA.S5.1.B.II.C" type="ext"/>(C)</lilabel>
+<p><text>the interests of justice,</text></p>
+</li></l>
+<p><text>it is more appropriate that the relevant proceeding be determined by the Federal Court or the Family Court, as the case may be,</text></p>
+</li><li id="UCPN.OL.JCCA.S5.1.B.III"><lilabel><refpt id="UCPN.OL.JCCA.S5.1.B.III" type="ext"/>(iii)</lilabel>
+<p><text>[Repealed]</text></p>
+</li></l></li>
+</l>
+<p><text>the Supreme Court shall transfer the relevant proceeding to the Federal Court or the Family Court, as the case may be.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act No 80 of 2000  s 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.2.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.2.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding (in this subsection referred to as the &#x201c;relevant proceeding&#x201d;) is pending in the Supreme Court (in this subsection referred to as the &#x201c;first court&#x201d;); and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S5.2.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.2.B" type="ext"/>(b)</lilabel>
+<p><text>it appears to the first court that&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.2.B.I"><lilabel><refpt id="UCPN.OL.JCCA.S5.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>the relevant proceeding arises out of, or is related to, another proceeding pending in the Supreme Court of another State or of a Territory and it is more appropriate that the relevant proceeding be determined by that other Supreme Court;</text></p>
+</li><li id="UCPN.OL.JCCA.S5.2.B.II"><lilabel><refpt id="UCPN.OL.JCCA.S5.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>having regard to&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.2.B.II.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.2.B.II.A" type="ext"/>(A)</lilabel>
+<p><text>whether, in the opinion of the first court, apart from this Act and any law of the Commonwealth or another State relating to cross-vesting of jurisdiction, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the first court and capable of being instituted in the Supreme Court of another State or Territory;</text></p>
+</li><li id="UCPN.OL.JCCA.S5.2.B.II.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.2.B.II.B" type="ext"/>(B)</lilabel>
+<p><text>the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the State or Territory referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S5.2.B.II.A" remotekey1="REFPTID" service="DOC-ID">sub-subparagraph (A)</remotelink></ci:content></ci:cite>
+ and not within the jurisdiction of the first court apart from this Act and any law of the Commonwealth or another State relating to cross-vesting of jurisdiction; and</text></p>
+</li><li id="UCPN.OL.JCCA.S5.2.B.II.C"><lilabel><refpt id="UCPN.OL.JCCA.S5.2.B.II.C" type="ext"/>(C)</lilabel>
+<p><text>the interests of justice,</text></p>
+</li></l>
+<p><text>it is more appropriate that the relevant proceeding be determined by that other Supreme Court; or</text></p>
+</li><li id="UCPN.OL.JCCA.S5.2.B.III"><lilabel><refpt id="UCPN.OL.JCCA.S5.2.B.III" type="ext"/>(iii)</lilabel>
+<p><text>it is otherwise in the interests of justice that the relevant proceeding be determined by the Supreme Court of another State or of a Territory,</text></p>
+</li></l></li>
+</l>
+<p><text>the first court shall transfer the relevant proceeding to that other Supreme Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.3.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.3.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding (in this subsection referred to as the &#x201c;relevant proceeding&#x201d;) is pending in the Supreme Court of another State or of a Territory (in this subsection referred to as the &#x201c;first court&#x201d;); and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S5.3.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.3.B" type="ext"/>(b)</lilabel>
+<p><text>it appears to the first court that&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.3.B.I"><lilabel><refpt id="UCPN.OL.JCCA.S5.3.B.I" type="ext"/>(i)</lilabel>
+<p><text>the relevant proceeding arises out of, or is related to, another proceeding pending in the Supreme Court of New South Wales and it is more appropriate that the relevant proceeding be determined by the Supreme Court of New South Wales;</text></p>
+</li><li id="UCPN.OL.JCCA.S5.3.B.II"><lilabel><refpt id="UCPN.OL.JCCA.S5.3.B.II" type="ext"/>(ii)</lilabel>
+<p><text>having regard to&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.3.B.II.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.3.B.II.A" type="ext"/>(A)</lilabel>
+<p><text>whether, in the opinion of the first court, apart from this Act and any law of the Commonwealth or another State relating to cross-vesting of jurisdiction, the relevant proceeding or a substantial part of the relevant proceeding would have been incapable of being instituted in the first court and capable of being instituted in the Supreme Court of New South Wales;</text></p>
+</li><li id="UCPN.OL.JCCA.S5.3.B.II.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.3.B.II.B" type="ext"/>(B)</lilabel>
+<p><text>the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the State and not within the jurisdiction of the first court apart from this Act and any law of the Commonwealth or another State relating to cross-vesting of jurisdiction; and</text></p>
+</li><li id="UCPN.OL.JCCA.S5.3.B.II.C"><lilabel><refpt id="UCPN.OL.JCCA.S5.3.B.II.C" type="ext"/>(C)</lilabel>
+<p><text>the interests of justice,</text></p>
+</li></l>
+<p><text>it is more appropriate that the relevant proceeding be determined by the Supreme Court of New South Wales; or</text></p>
+</li><li id="UCPN.OL.JCCA.S5.3.B.III"><lilabel><refpt id="UCPN.OL.JCCA.S5.3.B.III" type="ext"/>(iii)</lilabel>
+<p><text>it is otherwise in the interests of justice that the relevant proceeding be determined by the Supreme Court of New South Wales,</text></p>
+</li></l></li>
+</l>
+<p><text>the first court shall transfer the relevant proceeding to the Supreme Court of New South Wales.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.4.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding (in this subsection referred to as the &#x201c;relevant proceeding&#x201d;) is pending in the Federal Court or the Family Court (in this subsection referred to as the &#x201c;first court&#x201d;); and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S5.4.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.B" type="ext"/>(b)</lilabel>
+<p><text>it appears to the first court that&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.4.B.I"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.B.I" type="ext"/>(i)</lilabel>
+<p><text>the relevant proceeding arises out of, or is related to, another proceeding pending in the Supreme Court and it is more appropriate that the relevant proceeding be determined by the Supreme Court;</text></p>
+</li><li id="UCPN.OL.JCCA.S5.4.B.II"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.B.II" type="ext"/>(ii)</lilabel>
+<p><text>having regard to:</text></p>
+<l><li id="UCPN.OL.JCCA.S5.4.B.II.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.B.II.A" type="ext"/>(A)</lilabel>
+<p><text>whether, in the opinion of the first court, the relevant proceeding or a substantial part of it would have been incapable of being instituted in that court, apart from any law of the Commonwealth or another State relating to cross-vesting of jurisdiction; and</text></p>
+</li><li id="UCPN.OL.JCCA.S5.4.B.II.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.B.II.B" type="ext"/>(B)</lilabel>
+<p><text>whether, in the opinion of the first court, the relevant proceeding or a substantial part of it would have been capable of being instituted in the Supreme Court, apart from any law of the Commonwealth or another State relating to cross-vesting of jurisdiction; and</text></p>
+</li><li id="UCPN.OL.JCCA.S5.4.B.II.C"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.B.II.C" type="ext"/>(C)</lilabel>
+<p><text>the extent to which, in the opinion of the first court, the matters for determination in the relevant proceeding are matters arising under or involving questions as to the application, interpretation or validity of a law of the State and not within the jurisdiction of the first court apart from any law of the Commonwealth or another State relating to cross-vesting of jurisdiction; and</text></p>
+</li><li id="UCPN.OL.JCCA.S5.4.B.II.D"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.B.II.D" type="ext"/>(D)</lilabel>
+<p><text>the interests of justice,</text></p>
+</li></l>
+<p><text>it is more appropriate that the relevant proceeding be determined by the Supreme Court, or</text></p>
+</li><li id="UCPN.OL.JCCA.S5.4.B.III"><lilabel><refpt id="UCPN.OL.JCCA.S5.4.B.III" type="ext"/>(iii)</lilabel>
+<p><text>it is otherwise in the interests of justice that the relevant proceeding be determined by the Supreme Court,</text></p>
+</li></l></li>
+</l>
+<p><text>the first court shall transfer the relevant proceeding to the Supreme Court.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act No 80 of 2000  s 6]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (5)  rep Act No 80 of 2000  s 7]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.6.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.6.A" type="ext"/>(a)</lilabel>
+<p><text>a court (in this subsection referred to as the &#x201c;first court&#x201d;) transfers a proceeding to another court under a law or laws relating to cross-vesting of jurisdiction; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S5.6.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.6.B" type="ext"/>(b)</lilabel>
+<p><text>it appears to the first court that&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.6.B.I"><lilabel><refpt id="UCPN.OL.JCCA.S5.6.B.I" type="ext"/>(i)</lilabel>
+<p><text>there is another proceeding pending in the first court that arises out of, or is related to, the first- mentioned proceeding; and</text></p>
+</li><li id="UCPN.OL.JCCA.S5.6.B.II"><lilabel><refpt id="UCPN.OL.JCCA.S5.6.B.II" type="ext"/>(ii)</lilabel>
+<p><text>it is in the interests of justice that the other proceeding be determined by the other court,</text></p>
+</li></l></li>
+</l>
+<p><text>the first court shall transfer the other proceeding to the other court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A court may transfer a proceeding under this section on the application of a party to the proceeding, of its own motion or on the application of the Attorney-General of the Commonwealth or of a State or Territory.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who is entitled to practise as an Australian legal practitioner in a court has, if a proceeding (in this subsection referred to as the &#x201c;transferred proceeding&#x201d;) in that court is transferred to another court under a law or laws relating to cross-vesting of jurisdiction, the same entitlement to practise in relation to&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S5.8.A"><lilabel><refpt id="UCPN.OL.JCCA.S5.8.A" type="ext"/>(a)</lilabel>
+<p><text>the transferred proceedings; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S5.8.B"><lilabel><refpt id="UCPN.OL.JCCA.S5.8.B" type="ext"/>(b)</lilabel>
+<p><text>any other proceeding out of which the transferred proceeding arises or to which the transferred proceeding is related, being another proceeding that is to be determined together with the transferred proceeding,</text></p>
+</li>
+</l>
+<p><text>in the other court that the person would have if the other court were a federal court exercising federal jurisdiction.</text></p>
+<leg:histnote>
+<p><text>[subs (8)  am Act 98 of 2005 s 3 and Sch 3.36, effective 24 November 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S5.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S5.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this section confers on a court jurisdiction that the court would not otherwise have.</text></p>
+<leg:histnote>
+<p><text>[subs (9)  insrt Act No 80 of 2000  s 8]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>See also Part 9 of the Civil Procedure Act 2005 which provides for transfer of proceedings between the Supreme, District and Local courts in specified circumstances.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,030] s 6 Special federal matters">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S6" type="ext"/>[340,030]</edpnum><desig searchtype="SECT-NUM"><designum>6
+<fnr fnrtoken="UCPN.OL.JCCA.S6.FT1-R" fntoken="UCPN.OL.JCCA.S6.FT1">*</fnr></designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S6.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.OL.JCCA.S6.1.A"><lilabel><refpt id="UCPN.OL.JCCA.S6.1.A" type="ext"/>(a)</lilabel>
+<p><text>a matter for determination in a proceeding that is pending in the Supreme Court is a special federal matter; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6.1.B"><lilabel><refpt id="UCPN.OL.JCCA.S6.1.B" type="ext"/>(b)</lilabel>
+<p><text>the court does not make an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ in respect of the matter,</text></p>
+</li>
+</l>
+<p><text>the court must transfer the proceeding in accordance with this section to the Federal Court or a court mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.2.B" remotekey1="REFPTID" service="DOC-ID">subsection (2)(b)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>However, the court must only transfer so much of the proceeding as is, in the opinion of the court, within the jurisdiction (including the accrued jurisdiction) of the Federal Court, or the court mentioned in subsection (2)(b), as the case may be.</text></p>
+<leg:histnote>
+<p><text>[subs (1A)  insrt Act No 80 of 2000  s 9]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the court orders that a proceeding or part of a proceeding be transferred, the proceeding or part of the proceeding must be transferred:</text></p>
+<l><li id="UCPN.OL.JCCA.S6.2.A"><lilabel><refpt id="UCPN.OL.JCCA.S6.2.A" type="ext"/>(a)</lilabel>
+<p><text>if the matter for determination in the proceeding is a matter mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87.S3.1.SPECIAL-FEDERAL-MATTER.A" remotekey1="REFPTID" service="DOC-ID" status="unval">paragraph (a)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87.S3.1.SPECIAL-FEDERAL-MATTER.B" remotekey1="REFPTID" service="DOC-ID" status="unval">(b)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87.S3.1.SPECIAL-FEDERAL-MATTER.C" remotekey1="REFPTID" service="DOC-ID" status="unval">(c)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87.S3.1.SPECIAL-FEDERAL-MATTER.D" remotekey1="REFPTID" service="DOC-ID" status="unval">(d)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87.S3.1.SPECIAL-FEDERAL-MATTER.E" remotekey1="REFPTID" service="DOC-ID" status="unval">(e)</remotelink></ci:content></ci:cite>
+ of the definition of &#x201c;special federal matter&#x201d; in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87.S3.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 3(1) </remotelink></ci:content></ci:cite>
+ of the Jurisdiction of Courts (Cross-vesting) Act 1987 of the Commonwealth &#x2014; to the Federal Court; or</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6.2.B"><lilabel><refpt id="UCPN.OL.JCCA.S6.2.B" type="ext"/>(b)</lilabel>
+<p><text>if the matter for determination in the proceeding is a matter mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87.S3.1.SPECIAL-FEDERAL-MATTER.AB" remotekey1="REFPTID" service="DOC-ID" status="unval">paragraph (ab)</remotelink></ci:content></ci:cite>
+ of that definition &#x2014; to whichever of the Family Court, the Family Court of Western Australia or the Supreme Court of the Northern Territory, in the opinion of the court, is appropriate in the circumstances.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act No 80 of 2000  s 10]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Supreme Court may order that the proceeding be determined by that court if it is satisfied that there are special reasons for doing so in the particular circumstances of the proceeding other than reasons relevant to the convenience of the parties.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Before making an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ , the court must be satisfied that:</text></p>
+<l><li id="UCPN.OL.JCCA.S6.4.A"><lilabel><refpt id="UCPN.OL.JCCA.S6.4.A" type="ext"/>(a)</lilabel>
+<p><text>a written notice specifying the nature of the special federal matter has been given to the Attorney-General of the Commonwealth and the Attorney-General of the State; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6.4.B"><lilabel><refpt id="UCPN.OL.JCCA.S6.4.B" type="ext"/>(b)</lilabel>
+<p><text>a reasonable time has elapsed since the giving of the notice for the Attorneys-General to consider whether submissions to the court should be made in relation to the proceeding.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ , the court:</text></p>
+<l><li id="UCPN.OL.JCCA.S6.5.A"><lilabel><refpt id="UCPN.OL.JCCA.S6.5.A" type="ext"/>(a)</lilabel>
+<p><text>may adjourn the proceeding for such time as the court thinks necessary and may make such order as to costs in relation to an adjournment as it thinks fit; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6.5.B"><lilabel><refpt id="UCPN.OL.JCCA.S6.5.B" type="ext"/>(b)</lilabel>
+<p><text>may direct a party to the proceeding to give a notice in accordance with that subsection.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In considering whether there are special reasons for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ , the court must:</text></p>
+<l><li id="UCPN.OL.JCCA.S6.6.A"><lilabel><refpt id="UCPN.OL.JCCA.S6.6.A" type="ext"/>(a)</lilabel>
+<p><text>have regard to the general rule that special federal matters should be heard by the Federal Court or a court mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.2.B" remotekey1="REFPTID" service="DOC-ID">subsection (2)(b)</remotelink></ci:content></ci:cite>
+ , whichever is appropriate in the particular case; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6.6.B"><lilabel><refpt id="UCPN.OL.JCCA.S6.6.B" type="ext"/>(b)</lilabel>
+<p><text>take into account any submission made in relation to the proceeding by an Attorney-General mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.4" remotekey1="REFPTID" service="DOC-ID">subsection (4) </remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this section prevents the court granting urgent relief of an interlocutory nature if it is in the interests of justice to do so.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, through inadvertence, the Supreme Court determines a proceeding of the kind mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ without:</text></p>
+<l><li id="UCPN.OL.JCCA.S6.8.A"><lilabel><refpt id="UCPN.OL.JCCA.S6.8.A" type="ext"/>(a)</lilabel>
+<p><text>the court making an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ that the proceeding be determined by that court; or</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6.8.B"><lilabel><refpt id="UCPN.OL.JCCA.S6.8.B" type="ext"/>(b)</lilabel>
+<p><text>a notice mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ being given,</text></p>
+</li>
+</l>
+<p><text>nothing in this section invalidates the decision of that court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not apply to a proceeding by way of an appeal that is instituted in the Full Court of the Supreme Court if the court the decision of which is the subject of the appeal had made an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ , or under section 6(1) as in force before the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCAA92" remotekey1="REFPTID" service="DOC-ID" status="unval">Jurisdiction of Courts (Cross-vesting) Amendment Act 1992</remotelink></ci:content></ci:cite>
+ , in relation to the special federal matter.</text></p>
+<leg:histnote>
+<p><text>[s 6  subst Act 62 of 1992  s 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,035] s 6A Special federal matters: Commonwealth authorities or officers acting under the laws of States">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S6A" type="ext"/>[340,035]</edpnum><title searchtype="SECT-TITLE">Special federal matters: Commonwealth authorities or officers acting under the laws of States</title><desig searchtype="SECT-NUM"><designum>6A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S6A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies to a proceeding (in this section referred to as the &quot;federal matter proceeding&quot;) if:</text></p>
+<l><li id="UCPN.OL.JCCA.S6A.1.A"><lilabel><refpt id="UCPN.OL.JCCA.S6A.1.A" type="ext"/>(a)</lilabel>
+<p><text>a matter for determination in the proceeding is covered by paragraph (c) or (e) of the definition of &quot;special federal matter&quot; in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S3.1" remotekey1="REFPTID" service="DOC-ID">section 3(1)</remotelink></ci:content></ci:cite>
+ of the Jurisdiction of Courts (Cross-vesting) Act 1987 of the Commonwealth; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6A.1.B"><lilabel><refpt id="UCPN.OL.JCCA.S6A.1.B" type="ext"/>(b)</lilabel>
+<p><text>the matter for determination in the proceeding involves or relates to the exercise, or purported or proposed exercise, of functions or powers conferred on a Commonwealth authority, or an officer of the Commonwealth, by an enactment (in this subsection referred to as &quot;the State enactment&quot;) referred to in paragraph (ca) or (cb) of the definition of &quot;enactment&quot; in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S3.1" remotekey1="REFPTID" service="DOC-ID">section 3(1)</remotelink></ci:content></ci:cite>
+ of the Administrative Decisions (Judicial Review) Act 1977 of the Commonwealth; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6A.1.C"><lilabel><refpt id="UCPN.OL.JCCA.S6A.1.C" type="ext"/>(c)</lilabel>
+<p><text>the matter for determination in the proceeding arises out of, or relates to, another proceeding (in this section referred to as the &quot;State matter proceeding&quot;) pending in any court of this State:</text></p>
+<l><li id="UCPN.OL.JCCA.S6A.1.C.I"><lilabel><refpt id="UCPN.OL.JCCA.S6A.1.C.I" type="ext"/>(i)</lilabel>
+<p><text>that arises, or a substantial part of which arises, under the State enactment or a corresponding enactment of another State; and</text></p>
+</li><li id="UCPN.OL.JCCA.S6A.1.C.II"><lilabel><refpt id="UCPN.OL.JCCA.S6A.1.C.II" type="ext"/>(ii)</lilabel>
+<p><text>none of the matters for determination in which are covered by paragraph (c) or (e) of the definition of &quot;special federal matter&quot; in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S3.1" remotekey1="REFPTID" service="DOC-ID">section 3(1)</remotelink></ci:content></ci:cite>
+ of the Jurisdiction of Courts (Cross-vesting) Act 1987 of the Commonwealth,</text></p>
+</li></l></li>
+</l>
+<p><text>regardless of which proceeding was commenced first.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.OL.JCCA.S6A.2.A"><lilabel><refpt id="UCPN.OL.JCCA.S6A.2.A" type="ext"/>(a)</lilabel>
+<p><text>the federal matter proceeding is pending in the Federal Court or the Family Court; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6A.2.B"><lilabel><refpt id="UCPN.OL.JCCA.S6A.2.B" type="ext"/>(b)</lilabel>
+<p><text>having regard to the interests of justice, including the desirability of related proceedings being heard in the same jurisdiction, the Federal Court or the Family Court considers it appropriate to transfer the proceedings to the Supreme Court,</text></p>
+</li>
+</l>
+<p><text>the Federal Court or the Family Court may transfer the proceeding to the Supreme Court. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S5.4" remotekey1="REFPTID" service="DOC-ID">Section 5(4)</remotelink></ci:content></ci:cite>
+ does not apply to the federal matter proceeding.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.OL.JCCA.S6A.3.A"><lilabel><refpt id="UCPN.OL.JCCA.S6A.3.A" type="ext"/>(a)</lilabel>
+<p><text>the federal matter proceeding is pending in the Supreme Court; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S6A.3.B"><lilabel><refpt id="UCPN.OL.JCCA.S6A.3.B" type="ext"/>(b)</lilabel>
+<p><text>the State matter proceeding is pending in any court of this State,</text></p>
+</li>
+</l>
+<p><text>neither 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S5.1" remotekey1="REFPTID" service="DOC-ID">section 5(1)</remotelink></ci:content></ci:cite>
+ nor 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S6" remotekey1="REFPTID" service="DOC-ID">section 6</remotelink></ci:content></ci:cite>
+ applies to require the Supreme Court to transfer the federal matter proceeding to the Federal Court or the Family Court. However, the Supreme Court may do so if it considers that to be appropriate, having regard to the interests of justice, including the desirability of related proceedings being heard in the same jurisdiction.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6A.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this section confers on a court jurisdiction that the court would not otherwise have.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6A.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6A.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The fact that references in this section to the interests of justice include the desirability of related proceedings being heard in the same jurisdiction does not of itself mean that references to the interests of justice elsewhere in this Act do not include that matter.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S6A.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S6A.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.JCCA.S7.6A.COMMONWEALTH-AUTHORITY"><defterm><refpt id="UCPN.OL.JCCA.S7.6A.COMMONWEALTH-AUTHORITY" type="ext"/><emph typestyle="bf">&#x201c;Commonwealth authority&#x201d;</emph></defterm> <defdesc>
+<p><text>means an authority or other body (whether incorporated or not) that is established or continued in existence by or under an Act of the Commonwealth.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JCCA.S6A.6.OFFICER-OF-THE-COMMONWEALTH"><defterm><refpt id="UCPN.OL.JCCA.S6A.6.OFFICER-OF-THE-COMMONWEALTH" type="ext"/><emph typestyle="bf">&#x201c;officer of the Commonwealth&#x201d;</emph></defterm> <defdesc>
+<p><text>has the same meaning as in section 75(v) of the Commonwealth Constitution.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 6A  insrt Act No 80 of 2000  s 11]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,040] s 7 Institution and hearing of appeals">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S7" type="ext"/>[340,040]</edpnum><title searchtype="SECT-TITLE">Institution and hearing of appeals</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S7.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal shall not be instituted from a decision of a single judge of the Federal Court or the Family Court to the Full Court of the Supreme Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S7.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal shall not be instituted from the Federal Court or the Family Court to the other of those courts.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S7.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where it appears that the only matters for determination in a proceeding by way of an appeal from a decision of a single judge of the Supreme Court are matters other than matters arising under an Act specified in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JCCA87.SCH" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule</remotelink></ci:content></ci:cite>
+ to the Jurisdiction of Courts (Cross-vesting) Act 1987 of the Commonwealth, that proceeding shall be instituted only in, and shall be determined only by, the Full Court of the Supreme Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S7.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S7.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.6" remotekey1="REFPTID" service="DOC-ID">subsections (6)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.7" remotekey1="REFPTID" service="DOC-ID">(7)</remotelink></ci:content></ci:cite>
+ , where it appears that a matter for determination in a proceeding by way of an appeal from a decision of a single judge of the Supreme Court (not be a proceeding to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ applies) is a matter arising under an Act specified in the Schedule referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ , that proceeding shall be instituted only in, and shall be determined only by&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S7.4.A"><lilabel><refpt id="UCPN.OL.JCCA.S7.4.A" type="ext"/>(a)</lilabel>
+<p><text>the Full Court of the Federal Court or of the Family Court, as the case requires; or</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S7.4.B"><lilabel><refpt id="UCPN.OL.JCCA.S7.4.B" type="ext"/>(b)</lilabel>
+<p><text>with special leave of the High Court, the High Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S7.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S7.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A proceeding by way of an appeal from a decision of a judge of a State Family Court, being a proceeding involving the determination of&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S7.5.A"><lilabel><refpt id="UCPN.OL.JCCA.S7.5.A" type="ext"/>(a)</lilabel>
+<p><text>a matter arising under an Act specified in the Schedule referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ ; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S7.5.B"><lilabel><refpt id="UCPN.OL.JCCA.S7.5.B" type="ext"/>(b)</lilabel>
+<p><text>another matter,</text></p>
+</li>
+</l>
+<p><text>may be dealt with as if no matter for determination in the proceeding were a matter arising under an Act specified in that Schedule.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S7.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S7.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S7.6.A"><lilabel><refpt id="UCPN.OL.JCCA.S7.6.A" type="ext"/>(a)</lilabel>
+<p><text>the Full Court of the Supreme Court commences to hear a proceeding by way of an appeal; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S7.6.B"><lilabel><refpt id="UCPN.OL.JCCA.S7.6.B" type="ext"/>(b)</lilabel>
+<p><text>before the Court determines the proceeding, it appears to the Court that the proceeding is a proceeding to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ applies,</text></p>
+</li>
+</l>
+<p><text>the Court shall, unless the interests of justice require that the Court proceed to determine the proceeding, transfer the proceeding to the Full Court of the Federal Court or of the Family Court, as the case requires.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S7.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S7.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Full Court of the Supreme Court&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S7.7.A"><lilabel><refpt id="UCPN.OL.JCCA.S7.7.A" type="ext"/>(a)</lilabel>
+<p><text>determines a proceeding to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ applies as mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.6" remotekey1="REFPTID" service="DOC-ID">subsection (6)</remotelink></ci:content></ci:cite>
+ ; or</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S7.7.B"><lilabel><refpt id="UCPN.OL.JCCA.S7.7.B" type="ext"/>(b)</lilabel>
+<p><text>through inadvertence, determines a proceeding to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S7.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ applies,</text></p>
+</li>
+</l>
+<p><text>nothing in this section invalidates the decision of that Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,045] s 8 Orders by Supreme Court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S8" type="ext"/>[340,045]</edpnum><title searchtype="SECT-TITLE">Orders by Supreme Court</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S8.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S8.1.A"><lilabel><refpt id="UCPN.OL.JCCA.S8.1.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding (in this subsection referred to as the &#x201c;relevant proceeding&#x201d;) is pending in&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S8.1.A.I"><lilabel><refpt id="UCPN.OL.JCCA.S8.1.A.I" type="ext"/>(i)</lilabel>
+<p><text>a court, other than the Supreme Court, of the State; or</text></p>
+</li><li id="UCPN.OL.JCCA.S8.1.A.II"><lilabel><refpt id="UCPN.OL.JCCA.S8.1.A.II" type="ext"/>(ii)</lilabel>
+<p><text>a tribunal established by or under an Act; and</text></p>
+</li></l></li>
+<li id="UCPN.OL.JCCA.S8.1.B"><lilabel><refpt id="UCPN.OL.JCCA.S8.1.B" type="ext"/>(b)</lilabel>
+<p><text>it appears to the Supreme Court that&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S8.1.B.I"><lilabel><refpt id="UCPN.OL.JCCA.S8.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>the relevant proceeding arises out of, or is related to, another proceeding pending in the Federal Court, the Family Court or the Supreme Court of another State or of a Territory and, if an order is made under this subsection in relation to the relevant proceeding, there would be grounds on which that other proceeding could be transferred to the Supreme Court; or</text></p>
+</li><li id="UCPN.OL.JCCA.S8.1.B.II"><lilabel><refpt id="UCPN.OL.JCCA.S8.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>an order should be made under this subsection in relation to the relevant proceeding so that consideration can be given to whether the relevant proceeding should be transferred to another court,</text></p>
+</li></l></li>
+</l>
+<p><text>the Supreme Court may, on the application of a party to the relevant proceeding or of its own motion, make an order removing the relevant proceeding to the Supreme Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S8.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where an order is made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S8.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ in relation to a proceeding, this Act applies in relation to the proceeding as if it were a proceeding pending in the Supreme Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S8.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S8.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding is removed to the Supreme Court in accordance with an order made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S8.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , the Supreme Court may, if the Supreme Court considers it appropriate to do so, remit the proceeding to the court or tribunal from which the proceeding was removed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S9"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,050] s 9 Exercise of jurisdiction pursuant to cross-vesting laws">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S9" type="ext"/>[340,050]</edpnum><title searchtype="SECT-TITLE">Exercise of jurisdiction pursuant to cross-vesting laws</title><desig searchtype="SECT-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Supreme Court&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S9..A"><lilabel><refpt id="UCPN.OL.JCCA.S9..A" type="ext"/>(a)</lilabel>
+<p><text>may exercise jurisdiction (whether original or appellate) conferred on that court by a provision of this Act or of a law of the Commonwealth or a State relating to cross-vesting of jurisdiction; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S9..B"><lilabel><refpt id="UCPN.OL.JCCA.S9..B" type="ext"/>(b)</lilabel>
+<p><text>may hear and determine a proceeding transferred to that court under such a provision.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S10"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,055] s 10 Transfer of matters arising under Division 1 or 1A of Part V of the Trade Practices Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S10" type="ext"/>[340,055]</edpnum><title searchtype="SECT-TITLE">Transfer of matters arising under Division 1 or 1A of Part V of the Trade Practices Act</title><desig searchtype="SECT-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S10..A"><lilabel><refpt id="UCPN.OL.JCCA.S10..A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding is pending in the Supreme Court or the Supreme Court of another State or of a Territory;</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S10..B"><lilabel><refpt id="UCPN.OL.JCCA.S10..B" type="ext"/>(b)</lilabel>
+<p><text>a matter for determination in the proceeding is a matter arising under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TPA74.PT5.D1" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 1 </remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TPA74.PT5.D1A" remotekey1="REFPTID" service="DOC-ID" status="unval">1A</remotelink></ci:content></ci:cite>
+ of Part V of the Trade Practices Act 1974 of the Commonwealth;</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S10..C"><lilabel><refpt id="UCPN.OL.JCCA.S10..C" type="ext"/>(c)</lilabel>
+<p><text>no matter for determination in the proceeding is a special federal matter;</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S10..D"><lilabel><refpt id="UCPN.OL.JCCA.S10..D" type="ext"/>(d)</lilabel>
+<p><text>the proceeding is not a proceeding by way of an appeal from a judgment of a court; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S10..E"><lilabel><refpt id="UCPN.OL.JCCA.S10..E" type="ext"/>(e)</lilabel>
+<p><text>a court of the State, other than the Supreme Court, has jurisdiction with respect to all of the matters for determination in the proceeding,</text></p>
+</li>
+</l>
+<p><text>the court referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S10..A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ may, on the application of a party to the proceeding or of its own motion, transfer the proceeding to the court referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S10..E" remotekey1="REFPTID" service="DOC-ID">paragraph (e)</remotelink></ci:content></ci:cite>
+ .</text></p>
+<leg:histnote>
+<p><text>[s 10  am Act 80 of 2000  s 12]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,060] s 11 Conduct of proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S11" type="ext"/>[340,060]</edpnum><title searchtype="SECT-TITLE">Conduct of proceedings</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where it appears to a court that the court will, or will be likely to, in determining a matter for determination in a proceeding, be exercising jurisdiction conferred by this Act or by a law of the Commonwealth or a State relating to cross-vesting of jurisdiction&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S11.1.A"><lilabel><refpt id="UCPN.OL.JCCA.S11.1.A" type="ext"/>(a)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S11.1.B" remotekey1="REFPTID" service="DOC-ID">paragraphs (b)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S11.1.C" remotekey1="REFPTID" service="DOC-ID">(c)</remotelink></ci:content></ci:cite>
+ , the court shall, in determining that matter, apply the law in force in the State or Territory in which the court is sitting (including choice of law rules);</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S11.1.B"><lilabel><refpt id="UCPN.OL.JCCA.S11.1.B" type="ext"/>(b)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S11.1.C" remotekey1="REFPTID" service="DOC-ID">paragraph (c)</remotelink></ci:content></ci:cite>
+ , if that matter is a right of action arising under a written law of another State or Territory, the court shall, in determining that matter, apply the written and unwritten law of that other State or Territory; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S11.1.C"><lilabel><refpt id="UCPN.OL.JCCA.S11.1.C" type="ext"/>(c)</lilabel>
+<p><text>the rules of evidence and procedure to be applied in dealing with that matter shall be such as the court considers appropriate in the circumstances, being rules that are applied in a superior court in Australia or in an external Territory.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (2)  rep Act 80 of 2000  s 13]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S11.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding is transferred or removed to a court (in this subsection referred to as the &#x201c;transferee court&#x201d;) from another court (in this subsection referred to as the &#x201c;transferor court&#x201d;), the transferee court shall deal with the proceeding as if, subject to any order of the transferee court, the steps that had been taken for the purposes of the proceeding in the transferor court (including the making of an order), or similar steps, had been taken in the transferee court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S12"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,065] s 12 Orders as to costs">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S12" type="ext"/>[340,065]</edpnum><title searchtype="SECT-TITLE">Orders as to costs</title><desig searchtype="SECT-NUM"><designum>12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding is transferred or removed to a court, that court may make an order as to costs that relate to the conduct of the proceeding before the transfer or removal if those costs have not already been dealt with by another court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S13"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,070] s 13 Limitation on appeals">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S13" type="ext"/>[340,070]</edpnum><title searchtype="SECT-TITLE">Limitation on appeals</title><desig searchtype="SECT-NUM"><designum>13</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal does not lie from a decision of a court&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S13..A"><lilabel><refpt id="UCPN.OL.JCCA.S13..A" type="ext"/>(a)</lilabel>
+<p><text>in relation to the transfer or removal of a proceeding under this Act; or</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S13..B"><lilabel><refpt id="UCPN.OL.JCCA.S13..B" type="ext"/>(b)</lilabel>
+<p><text>as to which rules of evidence and procedure are to be applied pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S11.1" remotekey1="REFPTID" service="DOC-ID">section 11(1).</remotelink></ci:content></ci:cite></text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S14"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,075] s 14 Enforcement and effect of judgments">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S14" type="ext"/>[340,075]</edpnum><title searchtype="SECT-TITLE">Enforcement and effect of judgments</title><desig searchtype="SECT-NUM"><designum>14</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S14.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S14.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (1)  rep Act 80 of 2000  s 14]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S14.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S14.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A judgment of the Supreme Court that is given, in whole or in part, in the exercise of jurisdiction conferred by a law or laws relating to cross-vesting of jurisdiction is enforceable in the State as if the judgment had been given entirely in the exercise of the jurisdiction of the Supreme Court apart from any such law.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S14.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S14.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S14.3.A"><lilabel><refpt id="UCPN.OL.JCCA.S14.3.A" type="ext"/>(a)</lilabel>
+<p><text>a provision of a law of the State (not being a law relating to the enforcement of judgments) refers to a thing done by the Supreme Court; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S14.3.B"><lilabel><refpt id="UCPN.OL.JCCA.S14.3.B" type="ext"/>(b)</lilabel>
+<p><text>that thing is done by another court in exercise of jurisdiction conferred by this Act,</text></p>
+</li>
+</l>
+<p><text>the reference in that provision to the Supreme Court shall be read as a reference to that other court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S15"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,080] s 15 Construction of Act to be subject to legislative power of State">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S15" type="ext"/>[340,080]</edpnum><title searchtype="SECT-TITLE">Construction of Act to be subject to legislative power of State</title><desig searchtype="SECT-NUM"><designum>15</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act shall be read and construed so as not to exceed the legislative power of the State, to the intent that if this Act would, but for this section, have been construed as being in excess of that power, it shall nevertheless be valid to the extent to which it is not in excess of that power.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S16"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[340,085] s 16 Suspension or cessation of operation of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JCCA.S16" type="ext"/>[340,085]</edpnum><title searchtype="SECT-TITLE">Suspension or cessation of operation of Act</title><desig searchtype="SECT-NUM"><designum>16</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JCCA.S16.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S16.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S16.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ , the Governor may, if a proclamation has not been made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S16.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ , by proclamation published on the NSW legislation website declare that the operation of this Act is suspended from a day (being a day not earlier than 3 years after the commencement of this Act) specified in the proclamation and, where such a proclamation is made, this Act ceases to be in force from that day until a proclamation is made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S16.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ revoking the first-mentioned proclamation.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 106 of 2009  Sch 3.20, effective 8 January 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S16.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S16.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor shall not make a proclamation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S16.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ having effect from a particular day unless the Governor is satisfied that the Attorney-General has given notice of his or her intention to seek the making of such a proclamation to the Commonwealth and to each other State (other than a State in relation to which a proclamation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S16.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ has been made) not less than 6 months before that day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S16.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S16.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Governor has made a proclamation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S16.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , the Governor may, by proclamation published on the NSW legislation website, revoke the first-mentioned proclamation.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 106 of 2009  Sch 3.20, effective 8 January 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S16.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S16.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Governor is satisfied that the Acts of the Commonwealth and other States relating to cross-vesting of jurisdiction are not effective to invest the Supreme Court of New South Wales with, or confer on that Court, jurisdiction of the Federal Court, the Family Court or a Supreme Court of another State or of a Territory, the Governor may, by proclamation published on the NSW legislation website, declare that this Act shall, on a day specified in the proclamation, cease to be in force and, where such a proclamation is made, this Act ceases to be in force on that day.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 106 of 2009  Sch 3.20, effective 8 January 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S16.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S16.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Governor is satisfied that an Act of the Commonwealth or another State relating to cross-vesting of jurisdiction has been repealed, rendered inoperative, suspended or altered in a substantial manner, the Governor may, by proclamation published on the NSW legislation website, declare that this Act shall, on a day specified in the proclamation, cease to be in force in relation to the Commonwealth or a Territory or in relation to that State and, where such a proclamation is made, this Act ceases to be in force in relation to the Commonwealth or a Territory or that State on that day.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 106 of 2009  Sch 3.20, effective 8 January 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JCCA.S16.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JCCA.S16.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where&#x2014;</text></p>
+<l><li id="UCPN.OL.JCCA.S16.6.A"><lilabel><refpt id="UCPN.OL.JCCA.S16.6.A" type="ext"/>(a)</lilabel>
+<p><text>the Governor has made a proclamation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JCCA.S16.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ in relation to the Commonwealth or a Territory or a State; and</text></p>
+</li>
+<li id="UCPN.OL.JCCA.S16.6.B"><lilabel><refpt id="UCPN.OL.JCCA.S16.6.B" type="ext"/>(b)</lilabel>
+<p><text>the Governor is satisfied that there is in force an Act of the Commonwealth or that State relating to cross-vesting of jurisdiction, being an Act in terms substantially corresponding to the terms of this Act,</text></p>
+</li>
+</l>
+<p><text>the Governor may, by proclamation published on the NSW legislation website, declare that this Act again applies in relation to the Commonwealth or the Territory or that State from a day specified in the proclamation and, where such a proclamation is made, this Act applies in relation to the Commonwealth or Territory or that State on and after that day.</text></p>
+<leg:histnote>
+<p><text>[subs (6)  am Act 106 of 2009  Sch 3.20, effective 8 January 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:body>
+</LEGDOC>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 3 JUDGES OF APPEAL [ss 31&#x2013;34]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCA70.PT2.D3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT ACT 1970</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 2  THE COURT [ss 22&#x2013;46B]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 3 JUDGES OF APPEAL [ss 31&#x2013;34]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70000070</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCA70"/><docinfo:metaitem name="parent-filename" value="sc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 50, 1970</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT ACT 1970</leg:officialname></leg:info><leg:level id="UCPN.SC.SCA70.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.SC.SCA70.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2  THE COURT [ss 22&#x2013;46B]"><leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.PT2.D3"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 3 JUDGES OF APPEAL [ss 31&#x2013;34]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCA70.PT2.D3" type="ext"/>DIVISION 3</designum></desig><title searchtype="DIV-TITLE">JUDGES OF APPEAL [ss 31&#x2013;34]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S31"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 31] s 31 Appointment">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S31" type="ext"/>[SCA s 31]</edpnum><title searchtype="SECT-TITLE">Appointment</title><desig searchtype="SECT-NUM"><designum>31</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S31.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S31.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may, by commission under the public seal of the State, appoint any Judge to be a Judge of Appeal.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 35 of 1900 s 21C(1), (3)&#x2013;(5)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S31.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S31.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A Judge may be appointed to be a Judge of Appeal either at the time of his or her appointment as a Judge or at any time afterwards.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S31.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S31.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A Judge of Appeal shall continue to be a Judge and may from time to time sit as or exercise any of the powers of a Judge.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S31.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S31.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A Judge who, at the time of his or her appointment as Judge of Appeal, holds the office of Chief Judge in Equity shall continue to hold that office and may sit as or exercise any of the powers and functions of the Chief Judge in Equity.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S31.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S31.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A Judge of Appeal shall hold office as a Judge of Appeal so long as he or she holds office as a Judge.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S31.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S31.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>With the approval of the Governor, a Judge of Appeal may resign his or her office as Judge of Appeal without resigning his or her office as a Judge.</text></p>
+<leg:histnote>
+<p><text>[subs (6)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S32"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 32] s 32 Appointment of President">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S32" type="ext"/>[SCA s 32]</edpnum><title searchtype="SECT-TITLE">Appointment of President</title><desig searchtype="SECT-NUM"><designum>32</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S32.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S32.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may, by commission under the public seal of the State, appoint a Judge of Appeal to be President of the Court of Appeal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S32.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S32.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A Judge of Appeal may be appointed to be President of the Court of Appeal at the time of his or her appointment as a Judge of Appeal or at any time afterwards.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 35 of 1900 s 21C(2)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subs (2)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S33"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 33] s 33 Seniority">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S33" type="ext"/>[SCA s 33]</edpnum><title searchtype="SECT-TITLE">Seniority</title><desig searchtype="SECT-NUM"><designum>33</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S33.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S33.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Judges of Appeal shall have seniority, rank and precedence over all the Judges (including any Judge who is for the time being an additional Judge of Appeal) except the Chief Justice and over all persons who, in accordance with the provisions of any Act, have the same rank, title, status and precedence as a Judge of the Supreme Court.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 35 of 1900 s 21C(6)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S33.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S33.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The President of the Court of Appeal shall have seniority, rank and precedence over the Judges of Appeal referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S42..C" remotekey1="REFPTID" service="DOC-ID">paragraph (c)</remotelink></ci:content></ci:cite>
+ of section 42, and those Judges of Appeal shall have seniority, rank and precedence between themselves according to the dates (whether before or after the commencement of this Act) of their commissions as Judges of Appeal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S33.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S33.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the commissions of two or more Judges of Appeal bear the same date they shall have seniority, rank and precedence according to the seniority, rank and precedence assigned to them by their commissions, or failing such assignment according to the order of their being sworn.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S33.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S33.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a Judge of Appeal resigns his or her office as a Judge of Appeal without resigning his or her office as a Judge, he or she shall then have, as a Judge, the seniority, rank, status and precedence he or she would have had if he or she had not been appointed a Judge of Appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S34"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 34] s 34 Vacancies">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S34" type="ext"/>[SCA s 34]</edpnum><title searchtype="SECT-TITLE">Vacancies</title><desig searchtype="SECT-NUM"><designum>34</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S34.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S34.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where there is a vacancy in the office of President of the Court of Appeal, or the President is absent from duty, the senior of the other Judges of Appeal (except the Chief Justice) willing to act as President shall act as President, shall execute the duties of that office, and may exercise all the powers which may lawfully be exercised by the President.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 35 of 1900 s 21C(7), (8)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subs (1)  subst Act 41 of 1972  s 4 ; am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S34.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S34.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The jurisdiction of the Court of Appeal shall not be affected by any vacancy in the office of Chief Justice or of President.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

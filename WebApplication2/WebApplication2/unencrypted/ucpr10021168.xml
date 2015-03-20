@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 4 DEFAMATION [rr 15.19&#x2013;15.32]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT15.D4</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 15  PARTICULARS [rr 15.1&#x2013;15.32]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 4 DEFAMATION [rr 15.19&#x2013;15.32]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010560</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN.UCPR.UCPRN05.PT15"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 15  PARTICULARS [rr 15.1&#x2013;15.32]"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT15.D4"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 4 DEFAMATION [rr 15.19&#x2013;15.32]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT15.D4" type="ext"/>DIVISION 4</designum></desig><title searchtype="DIV-TITLE">DEFAMATION [rr 15.19&#x2013;15.32]</title><leg:histnote>
+<p><text>[Div 4  insrt Amendment 5 of 2005  r 3 and Sch 1[4], effective 1 January 2006]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05" remotekey1="REFPTID" service="DOC-ID" status="unval">Defamation Act 2005 </remotelink></ci:content></ci:cite>
+ applies to the publication of defamatory matter after the commencement of that Act. The Act commenced on 1 January 2006. However, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA" remotekey1="REFPTID" service="DOC-ID">Defamation Act 1974</remotelink></ci:content></ci:cite>
+ (as in force before its repeal by the Defamation Act 2005) continues to apply to the following causes of action by virtue of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.SCH4.CL2" remotekey1="REFPTID" service="DOC-ID">clause 2</remotelink></ci:content></ci:cite>
+ (Application of this Act) of Schedule 4 (Savings, transitional and other provisions) to the Defamation Act 2005:</text>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>a cause of action for defamation that accrued before 1 January 2006,</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>a cause of action for defamation that accrued after the commencement of the Defamation Act 2005, but only if:</text></p>
+<l>
+<li><lilabel>(i)</lilabel>
+<p><text>the action is raised in proceedings that include other causes of action that accrued before 1 January 2006, and</text></p>
+</li>
+<li><lilabel>(ii)</lilabel>
+<p><text>the action accrued no later than 12 months after the earliest pre-1 January 2006 action accrued, and</text></p>
+</li>
+<li><lilabel>(iii)</lilabel>
+<p><text>each action in the proceedings arose out of the publication of the same, or substantially the same, matter on different occasions.</text></p>
+</li>
+</l></li>
+</l></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.SCH4.CL2" remotekey1="REFPTID" service="DOC-ID">Clause 2</remotelink></ci:content></ci:cite>
+ of Schedule 4 to the Defamation Act 2005 also ensures that any other law (both legislative and common law) that would have applied to such causes of action but for the enactment of the new Act will continue to apply to such causes of action.</text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-19"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.19] r 15.19 Particulars in relation to statements of claim for defamation (cf SCR Part 67, rule 12; DCR Part 49, rule 11)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-19" type="ext"/>[r 15.19]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to statements of claim for defamation (cf SCR Part 67, rule 12; DCR Part 49, rule 11)</title><desig searchtype="RUL-NUM"><designum>15.19</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-19.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-19.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ in relation to a statement of claim seeking relief in relation to the publication of defamatory matter must include the following:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-19.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.1.A" type="ext"/>(a)</lilabel>
+<p><text>particulars of any publication on which the plaintiff relies to establish the cause of action, sufficient to enable the publication to be identified,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-19.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.1.B" type="ext"/>(b)</lilabel>
+<p><text>particulars of any publication, circulation or distribution of the matter complained of or copy of the matter complained of on which the plaintiff relies on the question of damages, sufficient to enable the publication, circulation or distribution to be identified,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-19.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.1.C" type="ext"/>(c)</lilabel>
+<p><text>if the plaintiff alleges that the matter complained of had a defamatory meaning other than its ordinary meaning &#x2014; particulars of the facts and matters on which the plaintiff relies to establish that defamatory meaning, including:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-19.1.C.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.1.C.I" type="ext"/>(i)</lilabel>
+<p><text>full and complete particulars of the facts and matters relied on to establish a true innuendo, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-19.1.C.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.1.C.II" type="ext"/>(ii)</lilabel>
+<p><text>by reference to name or class, the identity of those to whom those facts and matters were known,</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R15-19.1.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.1.D" type="ext"/>(d)</lilabel>
+<p><text>if the plaintiff is not named in the matter complained of &#x2014; particulars of identification of the plaintiff together with the identity, by reference to names and addresses or class of persons, of those to whom any such particulars were known, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-19.1.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.1.E" type="ext"/>(e)</lilabel>
+<p><text>particulars of the part or parts of the matter complained of relied on by the plaintiff in support of each pleaded imputation.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-19.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-19.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Such of the following as is applicable must be filed and served with a statement of claim seeking relief in relation to the publication of defamatory matter (or any amended statement of claim) and be referred to in the statement of claim or amended statement of claim:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-19.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.2.A" type="ext"/>(a)</lilabel>
+<p><text>a legible photocopy of the original publication or, in the case of an internet, e-mail or other computer displayed publication, a printed copy,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-19.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.2.B" type="ext"/>(b)</lilabel>
+<p><text>a typescript, with numbered lines, of:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-19.2.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>if the original publication is in English&#x2014;the text of the original publication, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-19.2.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-19.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>otherwise &#x2014; a translation of the text of the original publication.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-19.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-19.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R.2.B" remotekey1="REFPTID" service="DOC-ID" status="unval">Subrule (2)(b)</remotelink></ci:content></ci:cite>
+ must be complied with in respect of radio and television publications.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.R15-19.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.15-19-5" leveltype="para0" subdoc="true" toc-caption="[15.19.5] Particulars of publication"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-19-5" type="ext"/>[15.19.5] </edpnum><title>Particulars of publication</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The particulars should include the persons to whom, dates when, and places where the defamation was published: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1883"/></ci:caseinfo><ci:caseref ID="cr004156" spanref="cr004156-001" status="unval"><ci:reporter value="QBD"/><ci:volume num="12"/><ci:page num="94"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bradbury v Cooper</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004156-001" status="unval">(1883) 12 QBD 94</ci:span></citefragment> <remotelink dpsi="0018" refpt="12313" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1896"/></ci:caseinfo><ci:caseref ID="cr004157" spanref="cr004157-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="12"/><ci:page num="137"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Clarke v Lees</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004157-001" status="unval">(1896) 12 WN (NSW) 137</ci:span></citefragment></ci:content></ci:cite>. Sufficient particulars of publication are provided when the matter complained of is alleged to have been published in a newspaper if the particulars refer to a named newspaper identifying the date of the edition containing the matter together with particulars that the newspaper was circulated in New South Wales and other states and territories of Australia: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004158" spanref="cr004158-001"><ci:reporter value="urj"/><ci:refnum num="BC8000040"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Singleton v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004158-001"> (NSWSC, Hunt J, 20 February 1980, unreported, BC8000040)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr004159" spanref="cr004159-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:page num="188"/></ci:caseref><ci:caseref anaphref="cr004159" spanref="cr004159-002" status="unval"><ci:pinpoint num="192" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lazarus v Deutsche Lufthansa AG</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004159-001">(1985) 1 NSWLR 188</ci:span> <ci:span spanid="cr004159-002" status="unval">at 192</ci:span></citefragment> <remotelink dpsi="0018" refpt="12308" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Where a plaintiff relies upon extrinsic facts which are not generally known then particulars of publication to persons who had knowledge of those facts may be ordered where the particulars may be relevant to establish a particular defence or to quantify the appropriate amount of a payment into court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004160" spanref="cr004160-001"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="32"/></ci:caseref><ci:caseref ID="cr004161" spanref="cr004161-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="651"/></ci:caseref><ci:caseref anaphref="cr004161" spanref="cr004161-003"><ci:pinpoint num="656" targettype="page"/></ci:caseref><ci:caseref anaphref="cr004161" spanref="cr004161-004" status="unval"><ci:pinpoint num="659" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Fullam v Newcastle Chronical and Journal Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004160-001">[1977] 3 All ER 32</ci:span>; <ci:span spanid="cr004161-002" status="unval">[1977] 1 WLR 651</ci:span> <ci:span spanid="cr004161-003">at 656,</ci:span> <ci:span spanid="cr004161-004" status="unval">659</ci:span></citefragment> <remotelink dpsi="0018" refpt="12312" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr004162" spanref="cr004162-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:page num="504"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hughes v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004162-001">(1985) 3 NSWLR 504</ci:span></citefragment> <remotelink dpsi="0018" refpt="7229" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. A plaintiff who can establish the likelihood of a particular type of publication may be entitled to obtain discovery of the details of the publication in order to able to provide the required particulars: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004163" spanref="cr004163-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="294"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Kaiser v George Laurens (NSW) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004163-001">[1982] 1 NSWLR 294</ci:span></citefragment></ci:content></ci:cite> (publication by credit agency); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004164" spanref="cr004164-001"><ci:reporter value="urj"/><ci:refnum num="BC200600202"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ahmed v John Fairfax Publications Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 11; <ci:span spanid="cr004164-001"> BC200600202</ci:span></citefragment> <remotelink dpsi="0018" refpt="410837" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (international publication by newspaper).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-19-10" leveltype="para0" subdoc="true" toc-caption="[15.19.10] The statement of claim &#x2014; pleading the place of publication"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-19-10" type="ext"/>[15.19.10] </edpnum><title>The statement of claim &#x2014; pleading the place of publication</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Both the common law and the provisions of the Defamation Act permit a plaintiff who has pleaded a single cause of action against a newspaper to recover ordinary compensatory damages for the injury to his reputation caused by the entire issue of that newspaper published by the defendant, irrespective of whether the publication occurred either wholly or even partly within the state in which the action is brought: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr004165" spanref="cr004165-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:page num="173"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Toomey v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004165-001">(1985) 1 NSWLR 173</ci:span></citefragment> <remotelink dpsi="0018" refpt="6719" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr004166" spanref="cr004166-001"><ci:reporter value="NSWLR"/><ci:volume num="26"/><ci:page num="732"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Jones v TCN Channel Nine Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004166-001">(1992) 26 NSWLR 732</ci:span></citefragment> <remotelink dpsi="0018" refpt="36612" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. See also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004167" spanref="cr004167-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="174"/><ci:page num="1"/></ci:caseref><ci:caseref ID="cr004168" spanref="cr004168-002"><ci:reporter value="ALR"/><ci:volume num="104"/><ci:page num="257"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McKain v RW Miller &amp; Co (SA) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004167-001" status="unval">(1991) 174 CLR 1</ci:span>; <ci:span spanid="cr004168-002">104 ALR 257</ci:span></citefragment> <remotelink dpsi="0018" refpt="30160" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The place of publication is sufficiently by separate allegations (a) that the defendant published the matter complained of in a specified edition of a named newspaper on a particular date, and (b) that the newspaper was circulated in New South Wales and in each of the other states and territories of Australia: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004169" spanref="cr004169-001"><ci:reporter value="urj"/><ci:refnum num="BC8000040"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Singleton v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004169-001">  (NSWSC, Hunt J, 20 February 1980, unreported, BC8000040)</ci:span></citefragment></ci:content></ci:cite> at pp 5&#x2013;6, distinguishing <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">O'Brien v Canberra Broadcasters Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF">  (ACTSC, Connor J, 13 March 1979, unreported)</citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-19-15" leveltype="para0" subdoc="true" toc-caption="[15.19.15] The statement of claim &#x2014; photocopies and annexures"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-19-15" type="ext"/>[15.19.15] </edpnum><title>The statement of claim &#x2014; photocopies and annexures</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is unsatisfactory pleading to annex a photocopy of the page of the newspaper upon which the matter complained of appears. In the very limited cases where, by reason of the length of the matter complained of, it may be appropriate to plead in this way, care must be exercised that irrelevant matter is excluded from those photostat copies. It is also necessary that the photostat copy be clear, sharp and legible: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Redmond v Advertiser-News Weekend Publishing Co Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF">  (NSWSC, Hunt J, 20 February 1980, unreported)</citefragment></ci:content></ci:cite> at pp 1&#x2013;2; <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Stewart v Shoalhaven &amp; Nowra News Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF">  (NSWSC, Hunt J, 26 September 1980, unreported)</citefragment></ci:content></ci:cite> at pp 1&#x2013;2.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-19-20" leveltype="para0" subdoc="true" toc-caption="[15.19.20] Particulars &#x2014; extrinsic facts"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-19-20" type="ext"/>[15.19.20] </edpnum><title>Particulars &#x2014; extrinsic facts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The extrinsic facts relied upon to identify the plaintiff in a defamation action should be given as particulars in the statement of claim, and not pleaded as material facts: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1974"/></ci:caseinfo><ci:caseref ID="cr004170" spanref="cr004170-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="131"/><ci:page num="69"/></ci:caseref><ci:caseref anaphref="cr004170" spanref="cr004170-002" status="unval"><ci:pinpoint num="80" targettype="page"/></ci:caseref><ci:caseref ID="cr004171" spanref="cr004171-003"><ci:reporter value="ALR"/><ci:volume num="3"/><ci:page num="491"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Turner v Bulletin Newspaper Co Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004170-001" status="unval">(1974) 131 CLR 69</ci:span> <ci:span spanid="cr004170-002" status="unval">at 80</ci:span>; <ci:span spanid="cr004171-003">3 ALR 491</ci:span></citefragment> <remotelink dpsi="0018" refpt="30154" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and Dawson <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004172" spanref="cr004172-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1979"/></ci:edition><ci:page num="733"/></ci:caseref><ci:caseref anaphref="cr004172" spanref="cr004172-002" status="unval"><ci:pinpoint num="736" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bloodstock Agency Pty Ltd v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004172-001">[1979] 2 NSWLR 733</ci:span> <ci:span spanid="cr004172-002" status="unval">at 736</ci:span></citefragment> <remotelink dpsi="0018" refpt="82373" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The extrinsic acts relied upon may be asserted to be within the general knowledge of the community or, alternatively, as giving rise to a true innuendo: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr004173" spanref="cr004173-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:page num="504"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hughes v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004173-001">(1985) 3 NSWLR 504</ci:span></citefragment> <remotelink dpsi="0018" refpt="7229" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004174" spanref="cr004174-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="234"/></ci:caseref><ci:caseref anaphref="cr004174" spanref="cr004174-002" status="unval"><ci:pinpoint num="281" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lewis v Daily Telegraph Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004174-001" status="unval">[1964] AC 234</ci:span> <ci:span spanid="cr004174-002" status="unval">at 281</ci:span></citefragment> <remotelink dpsi="0018" refpt="258981" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-19-25" leveltype="para0" subdoc="true" toc-caption="[15.19.25] Particulars &#x2014; true innuendoes"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-19-25" type="ext"/>[15.19.25] </edpnum><title>Particulars &#x2014; true innuendoes</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The extrinsic facts relied upon to give the matter complained of a secondary or extended meaning must be stated in the particulars as facts; it is not sufficient compliance with the requirements of Pt 67 r 12(c) merely to identify newspaper articles in which those facts are referred to in some way: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Stewart v Shoalhaven &amp; Nowra News Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF">  (NSWSC, Hunt J, 26 September 1980, unreported)</citefragment></ci:content></ci:cite>. A true innuendo &#x2014; that is, a secondary or extended meaning of the matter complained of &#x2014; must be based upon existing facts: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004175" spanref="cr004175-001" status="unval"><ci:reporter value="QB"/><ci:volume num="1"/><ci:edition><ci:date year="1963"/></ci:edition><ci:page num="309"/></ci:caseref><ci:caseref anaphref="cr004175" spanref="cr004175-002" status="unval"><ci:pinpoint num="328" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Grubb v Bristol United Press Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004175-001" status="unval">[1963] 1 QB 309</ci:span> <ci:span spanid="cr004175-002" status="unval">at 328&#x2013;9</ci:span></citefragment> <remotelink dpsi="0018" refpt="74312" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1979"/></ci:caseinfo><ci:caseref ID="cr004176" spanref="cr004176-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="141"/><ci:page num="632"/></ci:caseref><ci:caseref anaphref="cr004176" spanref="cr004176-002" status="unval"><ci:pinpoint num="641" targettype="page"/></ci:caseref><ci:caseref ID="cr004177" spanref="cr004177-003"><ci:reporter value="ALR"/><ci:volume num="23"/><ci:page num="167"/></ci:caseref><ci:caseref ID="cr004178" spanref="cr004178-004"><ci:reporter value="urj"/><ci:refnum num="BC7900010"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mirror Newspapers Ltd v World Hosts Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004176-001" status="unval">(1979) 141 CLR 632</ci:span> <ci:span spanid="cr004176-002" status="unval">at 641&#x2013;2</ci:span>; <ci:span spanid="cr004177-003">23 ALR 167</ci:span>; <ci:span spanid="cr004178-004"> BC7900010</ci:span></citefragment> <remotelink dpsi="0018" refpt="28930" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The existence of the extrinsic facts must be proved and a plaintiff must also establish that they were known to at least one person to whom publication was made: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1948"/></ci:caseinfo><ci:caseref ID="cr004179" spanref="cr004179-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="49"/><ci:page num="86"/></ci:caseref><ci:caseref anaphref="cr004179" spanref="cr004179-002" status="unval"><ci:pinpoint num="89" targettype="page"/></ci:caseref><ci:caseref ID="cr004180" spanref="cr004180-003" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="66"/><ci:page num="7"/></ci:caseref><ci:caseref anaphref="cr004180" spanref="cr004180-004" status="unval"><ci:pinpoint num="8" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Consolidated Trust Co Ltd v Browne</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004179-001" status="unval">(1948) 49 SR (NSW) 86</ci:span> <ci:span spanid="cr004179-002" status="unval">at 89</ci:span>; <ci:span spanid="cr004180-003" status="unval">66 WN (NSW) 7</ci:span> <ci:span spanid="cr004180-004" status="unval">at 8</ci:span></citefragment> <remotelink dpsi="0018" refpt="11330" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr004181" spanref="cr004181-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:page num="504"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hughes v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004181-001">(1985) 3 NSWLR 504</ci:span></citefragment> <remotelink dpsi="0018" refpt="7229" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Their existence is not proved by the mere tender of a newspaper in which they are stated. Statements made in newspapers which have not been either published by the defendant (and thus constituting an admission by him or her) or expressly or by implication adopted by the defendant are not themselves extrinsic facts upon which a true innuendo can be based: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004182" spanref="cr004182-001"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="666"/></ci:caseref><ci:caseref ID="cr004183" spanref="cr004183-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1966"/></ci:edition><ci:page num="34"/></ci:caseref><ci:caseref anaphref="cr004183" spanref="cr004183-003" status="unval"><ci:pinpoint num="39" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Astaire v Campling</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004182-001">[1965] 3 All ER 666</ci:span>; <ci:span spanid="cr004183-002" status="unval">[1966] 1 WLR 34</ci:span> <ci:span spanid="cr004183-003" status="unval">at 39&#x2013;41</ci:span></citefragment> <remotelink dpsi="0018" refpt="14360" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, so that identification of newspaper articles alone will provide inadequate particulars of true innuendo.The position relating to particulars of a true innuendo is to be contrasted with the giving of particulars of the extrinsic facts upon which identification may be based. Although such extrinsic facts must still be proved in evidence: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004184" spanref="cr004184-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1974"/></ci:edition><ci:page num="348"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Steele v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004184-001">[1974] 2 NSWLR 348</ci:span></citefragment> <remotelink dpsi="0018" refpt="3170" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, the plaintiff is nevertheless for this purpose entitled to rely upon material published in newspapers prior to the publication of the matter complained of, whether or not published by the defendant, as showing the condition of the public mind: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1898"/></ci:caseinfo><ci:caseref ID="cr004185" spanref="cr004185-001" status="unval"><ci:reporter value="NERep"/><ci:volume num="50"/><ci:page num="979"/></ci:caseref><ci:caseref anaphref="cr004185" spanref="cr004185-002" status="unval"><ci:pinpoint num="981" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Van Ingen v Mail &amp; Express Publishing Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004185-001" status="unval">(1898) 50 NE Rep 979</ci:span> <ci:span spanid="cr004185-002" status="unval">at 981&#x2013;2</ci:span></citefragment></ci:content></ci:cite>; Astaire v Campling, above,at 39, as well as upon matter published in newspapers after the publication of the matter complained of, provided that it was published by the defendant (thus again constituting an admission): <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1969"/></ci:caseinfo><ci:caseref ID="cr004186" spanref="cr004186-001" status="unval"><ci:reporter value="WNPt1NSW"/><ci:volume num="90"/><ci:page num="180"/></ci:caseref><ci:caseref anaphref="cr004186" spanref="cr004186-002" status="unval"><ci:pinpoint num="184" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ware v Associated Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004186-001" status="unval">(1969) 90 WN (Pt 1) (NSW) 180</ci:span> <ci:span spanid="cr004186-002" status="unval">at 184</ci:span></citefragment> <remotelink dpsi="0018" refpt="185211" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004187" spanref="cr004187-001"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="272"/></ci:caseref><ci:caseref ID="cr004188" spanref="cr004188-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="822"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Grapelli v Derek Block (Holdings) Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004187-001">[1981] 2 All ER 272</ci:span>; <ci:span spanid="cr004188-002" status="unval">[1981] 1 WLR 822</ci:span></citefragment> <remotelink dpsi="0018" refpt="257" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004189" spanref="cr004189-001" status="unval"><ci:reporter value="QB"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="47"/></ci:caseref><ci:caseref ID="cr004190" spanref="cr004190-002"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="450"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hayward v Thompson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004189-001" status="unval">[1982] QB 47</ci:span>; <ci:span spanid="cr004190-002">[1981] 3 All ER 450</ci:span></citefragment> <remotelink dpsi="0018" refpt="308" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-19-30" leveltype="para0" subdoc="true" toc-caption="[15.19.30] Particulars &#x2014; false innuendoes"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-19-30" type="ext"/>[15.19.30] </edpnum><title>Particulars &#x2014; false innuendoes</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The natural and ordinary meaning of the published words may convey a defamatory imputation. But words are often capable of conveying more than one ordinary meaning, and in such a case, the particular defamatory meaning contended for is regarded as a &#x201c;false innuendo&#x201d;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004191" spanref="cr004191-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1978"/></ci:edition><ci:page num="174"/></ci:caseref><ci:caseref anaphref="cr004191" spanref="cr004191-002" status="unval"><ci:pinpoint num="191" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Petritsis v Hellenic Herald Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004191-001">[1978] 2 NSWLR 174</ci:span> <ci:span spanid="cr004191-002" status="unval">at 191</ci:span></citefragment> <remotelink dpsi="0018" refpt="8896" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004192" spanref="cr004192-001" status="unval"><ci:reporter value="Qd R"/><ci:volume num="2"/><ci:edition><ci:date year="1992"/></ci:edition><ci:page num="136"/></ci:caseref><ci:caseref anaphref="cr004192" spanref="cr004192-002" status="unval"><ci:pinpoint num="142" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mann v Mackay Television Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004192-001" status="unval">[1992] 2 Qd R 136</ci:span> <ci:span spanid="cr004192-002" status="unval">at 142&#x2013;3</ci:span></citefragment> <remotelink dpsi="0018" refpt="38789" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr004193" spanref="cr004193-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="193"/><ci:page num="519"/></ci:caseref><ci:caseref anaphref="cr004193" spanref="cr004193-002" status="unval"><ci:pinpoint num="579" targettype="page"/></ci:caseref><ci:caseref ID="cr004194" spanref="cr004194-003"><ci:reporter value="ALR"/><ci:volume num="154"/><ci:page num="294"/></ci:caseref><ci:caseref anaphref="cr004194" spanref="cr004194-004"><ci:pinpoint num="340" targettype="page"/></ci:caseref><ci:caseref ID="cr004195" spanref="cr004195-005"><ci:reporter value="urj"/><ci:refnum num="BC9801849"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chakravarti v Advertiser Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004193-001" status="unval">(1998) 193 CLR 519</ci:span> <ci:span spanid="cr004193-002" status="unval">at 579</ci:span>; <ci:span spanid="cr004194-003">154 ALR 294</ci:span> <ci:span spanid="cr004194-004">at 340</ci:span>; [1998] HCA 37; <ci:span spanid="cr004195-005"> BC9801849</ci:span></citefragment> <remotelink dpsi="0018" refpt="269191" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Kirby J. And it was common practice to order particulars of &#x201c;false innuendoes&#x201d; &#x2014; even though, before 1974, they did not need to be specifically pleaded: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004196" spanref="cr004196-001" status="unval"><ci:reporter value="QB"/><ci:volume num="2"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="161"/></ci:caseref><ci:caseref anaphref="cr004196" spanref="cr004196-002" status="unval"><ci:pinpoint num="167" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Allsop v Church of England Newspaper Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004196-001" status="unval">[1972] 2 QB 161</ci:span> <ci:span spanid="cr004196-002" status="unval">at 167</ci:span></citefragment> <remotelink dpsi="0018" refpt="102836" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chakravarti v Advertiser Newspapers Ltd</emph>
+</citefragment></ci:content></ci:cite>, above, CLR at 532; ALR at 302. But under s 9(2) of the Defamation Act 1974 the plaintiff's cause of action relates to each defamatory imputation, rather than to the publication as a whole: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004197" spanref="cr004197-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1978"/></ci:edition><ci:page num="174"/></ci:caseref><ci:caseref anaphref="cr004197" spanref="cr004197-002" status="unval"><ci:pinpoint num="190" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Petritsis v Hellenic Herald Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004197-001">[1978] 2 NSWLR 174</ci:span> <ci:span spanid="cr004197-002" status="unval">at 190</ci:span></citefragment> <remotelink dpsi="0018" refpt="8896" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. It follows, and Pt 67 r 11(2)(a) requires, that each separate imputation must now be specifically pleaded and this includes imputations that might otherwise be regarded as &#x201c;false innuendoes&#x201d; &#x2014; (&#x201c;false&#x201d; because the meaning conveyed does not require knowledge of any extrinsic facts). However, the requirement for specific pleading does not prevent a plaintiff from relying on an imputation that is either substantially the same as, or less injurious than, the imputation pleaded: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1996"/></ci:caseinfo><ci:caseref ID="cr004198" spanref="cr004198-001"><ci:reporter value="NSWLR"/><ci:volume num="41"/><ci:page num="176"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Crampton v Nugawela</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004198-001">(1996) 41 NSWLR 176</ci:span></citefragment> <remotelink dpsi="0018" refpt="213244" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chakravarti v Advertiser Newspapers Ltd</emph>
+</citefragment></ci:content></ci:cite>, above, CLR at 532; ALR at 302; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1999"/></ci:caseinfo><ci:caseref ID="cr004199" spanref="cr004199-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="94"/><ci:page num="296"/></ci:caseref><ci:caseref ID="cr004200" spanref="cr004200-002"><ci:reporter value="ALR"/><ci:volume num="167"/><ci:page num="224"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Random House Australia Pty Ltd v Abbott</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004199-001" status="unval">(1999) 94 FCR 296</ci:span>; <ci:span spanid="cr004200-002">167 ALR 224</ci:span></citefragment> <remotelink dpsi="0018" refpt="303297" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-20"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.20] r 15.20 Particulars in relation to statements of claim by corporations">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-20" type="ext"/>[r 15.20]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to statements of claim by corporations</title><desig searchtype="RUL-NUM"><designum>15.20</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ in relation to a statement of claim seeking relief in relation to the publication of defamatory matter about a corporation must include particulars of the facts, matters and circumstances on which the plaintiff relies to establish that the corporation is not precluded from asserting a cause of action for defamation.</text></p>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>Subject to limited exceptions, corporations are precluded from bringing defamation proceedings:</text>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>in relation to causes of action to which the Defamation Act 1974 applies, by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S8A" remotekey1="REFPTID" service="DOC-ID">section 8A</remotelink></ci:content></ci:cite>
+ of that Act, and</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>in relation to causes of action to which the Defamation Act 2005 applies, by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite>
+ of that Act.</text></p>
+</li>
+</l></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-21"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.21] r 15.21 Particulars of defamation defences generally (cf SCR Part 67, rule 18; DCR Part 49, rule 17)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-21" type="ext"/>[r 15.21]</edpnum><title searchtype="RUL-TITLE">Particulars of defamation defences generally (cf SCR Part 67, rule 18; DCR Part 49, rule 17)</title><desig searchtype="RUL-NUM"><designum>15.21</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-21.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-21.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The particulars of a defamation defence required by rule 15.1 must, unless the court orders otherwise, include particulars of the facts, matters and circumstances on which the defendant relies to establish:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-21.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-21.1.A" type="ext"/>(a)</lilabel>
+<p><text>that any imputation, notice, report, comment or other material was or related to a matter of public interest,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-21.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-21.1.B" type="ext"/>(b)</lilabel>
+<p><text>that any imputation was published under qualified privilege,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-21.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-21.1.C" type="ext"/>(c)</lilabel>
+<p><text>that any imputation or contextual imputation was true or was a matter of substantial truth,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-21.1.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-21.1.D" type="ext"/>(d)</lilabel>
+<p><text>that any material being proper material for comment was a matter of substantial truth.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-21.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-21.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a defendant in proceedings for defamation intends to make a case in mitigation of damages by reference to:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-21.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-21.2.A" type="ext"/>(a)</lilabel>
+<p><text>the circumstances in which the publication complained of was made, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-21.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-21.2.B" type="ext"/>(b)</lilabel>
+<p><text>the reputation of the plaintiff, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-21.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-21.2.C" type="ext"/>(c)</lilabel>
+<p><text>any apology for, or explanation or correction or retraction of, any imputation complained of, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-21.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-21.2.D" type="ext"/>(d)</lilabel>
+<p><text>any recovery, proceedings, receipt or agreement to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S48" remotekey1="REFPTID" service="DOC-ID">section 48</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974 or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S38.1.C" remotekey1="REFPTID" service="DOC-ID">section 38(1)(c)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S38.1.D" remotekey1="REFPTID" service="DOC-ID">(d)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S38.1.E" remotekey1="REFPTID" service="DOC-ID">(e)</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 applies,</text></p>
+</li>
+</l>
+<p><text>the defendant must give particulars of the facts, matters and circumstances on which the defendant relies to make that case.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-21.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-21.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a defendant in proceedings for defamation intends to show, in mitigation of damages, that any imputation complained of was true or was a matter of substantial truth, the defendant must give particulars identifying the imputation, stating that intention, and of the facts, matters and circumstances the defendant relies on to establish that the imputation was true or was a matter of substantial truth.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-21.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-21.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21.2" remotekey1="REFPTID" service="DOC-ID">subrules (2)</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21.3" remotekey1="REFPTID" service="DOC-ID">(3)</remotelink>
+ must be set out in the defence, or, if that is inconvenient, may be set out in a separate document, referred to in the defence and that document must be filed and served with the defence.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.R15-21.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.15-21-5" leveltype="para0" subdoc="true" toc-caption="[15.21.5] Particulars &#x2014; truth"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-21-5" type="ext"/>[15.21.5] </edpnum><title>Particulars &#x2014; truth</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where the imputation pleaded by the plaintiff in accordance with Pt 67 r 11 is so pleaded in sufficiently specific terms, and the defendant has undertaken to establish the truth of that imputation, a request for particulars of that defence in general terms is permitted. It is usually unnecessary in these circumstances for the plaintiff to nominate precisely the statements in the matter complained of in relation to which he or she sought particulars: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">NRMA Insurance Ltd v Flanagan</emph></citefragment><citefragment searchtype="CASE-CITE-REF">  (NSWSC, Hunt J, 6 February 1981, unreported)</citefragment></ci:content></ci:cite> at pp 1&#x2013;3, distinguishing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004201" spanref="cr004201-001"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1939"/></ci:edition><ci:page num="605"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Marks v Wilson-Boyd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004201-001">[1939] 2 All ER 605</ci:span></citefragment></ci:content></ci:cite>; but see generally <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004202" spanref="cr004202-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="386"/></ci:caseref><ci:caseref anaphref="cr004202" spanref="cr004202-002" status="unval"><ci:pinpoint num="389" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hepburn v TCN Channel Nine Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004202-001">[1984] 1 NSWLR 386</ci:span> <ci:span spanid="cr004202-002" status="unval">at 389&#x2013;95</ci:span></citefragment> <remotelink dpsi="0018" refpt="12322" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004203" spanref="cr004203-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="317"/></ci:caseref><ci:caseref anaphref="cr004203" spanref="cr004203-002" status="unval"><ci:pinpoint num="328" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sims v Wran</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004203-001">[1984] 1 NSWLR 317</ci:span> <ci:span spanid="cr004203-002" status="unval">at 328</ci:span></citefragment> <remotelink dpsi="0018" refpt="8511" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-21-10" leveltype="para0" subdoc="true" toc-caption="[15.21.10] Particulars &#x2014; mitigation of damages">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15.21.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 14.26, r 15.21(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-21-10" type="ext"/>[15.21.10] </edpnum><title>Particulars &#x2014; mitigation of damages</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A defendant normally does not plead to the plaintiff's damages allegation in the statement of claim: UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-26" remotekey1="REFPTID" service="DOC-ID">r 14.26</remotelink></ci:content></ci:cite>
+. Consequently, in the absence of a rule such as 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21.2" remotekey1="REFPTID" service="DOC-ID">r 15.21(2)</remotelink></ci:content></ci:cite>
+, but nevertheless subject to UCPR r 14.26(2)(b) &#x2014; the defendant would be entitled to lead evidence relating to mitigation of the damages claimed: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Reiter v Publishing &amp; Broadcasting Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF">  (NSWSC, Hunt J, 29 May 1981, unreported)</citefragment></ci:content></ci:cite>. (An interesting historical survey of the defendant's position in relation to damages in defamation litigation is given by Lord Denning in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004204" spanref="cr004204-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1961"/></ci:edition><ci:page num="1090"/></ci:caseref><ci:caseref anaphref="cr004204" spanref="cr004204-002" status="unval"><ci:pinpoint num="1133" targettype="page"/></ci:caseref><ci:caseref ID="cr004205" spanref="cr004205-003"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1961"/></ci:edition><ci:page num="876"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Plato Films Ltd v Speidel</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004204-001" status="unval">[1961] AC 1090</ci:span> <ci:span spanid="cr004204-002" status="unval">at 1133&#x2013;41</ci:span>; <ci:span spanid="cr004205-003">[1961] 1 All ER 876</ci:span></citefragment> <remotelink dpsi="0018" refpt="206941" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>). Under the present rule a defendant must give particulars of the matters relied on in mitigation. Particulars that merely rely on &#x201c;the circumstances in which it is proved by the plaintiff that the publication of the matter complained of was made&#x201d; are proper. But particulars limited in that way will not permit a defendant to lead evidence (either by way of cross-examination of the plaintiff&#x2019;s witnesses or by specific additional evidence) in order to mitigate damages: <emph typestyle="it">Reiter</emph>, above, at 6&#x2013;7.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-21-15" leveltype="para0" subdoc="true" toc-caption="[15.21.15] Particulars &#x2014; qualified privilege"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-21-15" type="ext"/>[15.21.15] </edpnum><title>Particulars &#x2014; qualified privilege</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A defendant who relies upon qualified privilege at common law should identify the nature of the occasion of qualified privilege relied upon: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1969"/></ci:caseinfo><ci:caseref ID="cr004206" spanref="cr004206-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="1"/><ci:edition><ci:date year="1970"/></ci:edition><ci:page num="707"/></ci:caseref><ci:caseref ID="cr004207" spanref="cr004207-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="91"/><ci:page num="648"/></ci:caseref><ci:caseref anaphref="cr004207" spanref="cr004207-003" status="unval"><ci:pinpoint num="652" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Leslie v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004206-001" status="unval">[1970] 1 NSWR 707</ci:span>; <ci:span spanid="cr004207-002" status="unval">(1969) 91 WN (NSW) 648</ci:span> <ci:span spanid="cr004207-003" status="unval">at 652</ci:span></citefragment> <remotelink dpsi="0018" refpt="79568" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004208" spanref="cr004208-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="68"/></ci:caseref><ci:caseref anaphref="cr004208" spanref="cr004208-002" status="unval"><ci:pinpoint num="78" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Packer v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004208-001">[1972] 2 NSWLR 68</ci:span> <ci:span spanid="cr004208-002" status="unval">at 78</ci:span></citefragment> <remotelink dpsi="0018" refpt="80329" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; though he or she need not identify the specific right or duty to publish, nor the specific interests of those to whom the publication was made, for which he or she contends: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004209" spanref="cr004209-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="317"/></ci:caseref><ci:caseref anaphref="cr004209" spanref="cr004209-002" status="unval"><ci:pinpoint num="327" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sims v Wran</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004209-001">[1984] 1 NSWLR 317</ci:span> <ci:span spanid="cr004209-002" status="unval">at 327</ci:span></citefragment> <remotelink dpsi="0018" refpt="8511" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Where the defendant relies upon the statutory defence of qualified privilege afforded by Defamation Act 1974 s 22, see <emph typestyle="it">Sims</emph>, above, at 327&#x2013;8.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-22"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.22] r 15.22 Particulars in relation to defence of justification">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-22" type="ext"/>[r 15.22]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to defence of justification</title><desig searchtype="RUL-NUM"><designum>15.22</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-22.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-22.1" type="ext"/>(1)</designum></desig><title>Defence under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S15" remotekey1="REFPTID" service="DOC-ID">section 15</remotelink></ci:content></ci:cite>
+ of Defamation Act 1974</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink></ci:content></ci:cite>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S15.2" remotekey1="REFPTID" service="DOC-ID">section 15(2)</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974 must (unless the court orders otherwise) include particulars of the facts, matters and circumstances on which the defendant relies to establish:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-22.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-22.1.A" type="ext"/>(a)</lilabel>
+<p><text>that the imputation in question was a matter of substantial truth, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-22.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-22.1.B" type="ext"/>(b)</lilabel>
+<p><text>either:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-22.1.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-22.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>that the imputation in question related to a matter of public interest, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-22.1.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-22.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>that the imputation in question was published under qualified privilege.</text></p>
+</li></l></li>
+</l>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The defence of justification under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S15.2" remotekey1="REFPTID" service="DOC-ID">section 15(2)</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974 applies to the exclusion of the common law defence of justification. See 
+<remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S15.1" remotekey1="REFPTID" service="DOC-ID">section 15(1)</remotelink>
+ of the Defamation Act 1974.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-22.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-22.2" type="ext"/>(2)</designum></desig><title>Defences under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S25" remotekey1="REFPTID" service="DOC-ID">section 25</remotelink></ci:content></ci:cite>
+ of Defamation Act 2005 and at common law</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence of justification under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S25" remotekey1="REFPTID" service="DOC-ID">section 25</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 or at common law must (unless the court orders otherwise) include particulars of the facts, matters and circumstances on which the defendant relies to establish that the imputation in question was substantially true.</text></p>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The defence of justification under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S25" remotekey1="REFPTID" service="DOC-ID">section 25</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 is in addition to, and does not vitiate, limit or abrogate, the common law defence of justification. See 
+<remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S24.1" remotekey1="REFPTID" service="DOC-ID">section 24 (1)</remotelink>
+ of the Defamation Act 2005.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-23"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.23] r 15.23 Particulars in relation to the defence of contextual truth">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-23" type="ext"/>[r 15.23]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to the defence of contextual truth</title><desig searchtype="RUL-NUM"><designum>15.23</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-23.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-23.1" type="ext"/>(1)</designum></desig><title>Defence under <remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S16" remotekey1="REFPTID" service="DOC-ID">section 16</remotelink>
+ of Defamation Act 1974</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence under 
+<remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S16" remotekey1="REFPTID" service="DOC-ID">section 16</remotelink>
+ of the Defamation Act 1974 must include particulars of the facts, matters and circumstances on which the defendant relies to establish:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-23.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-23.1.A" type="ext"/>(a)</lilabel>
+<p><text>that the imputation in question related to a matter of public interest or was published under qualified privilege, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-23.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-23.1.B" type="ext"/>(b)</lilabel>
+<p><text>that the contextual imputations on which the defendant relies:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-23.1.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-23.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>related to a matter of public interest or that they were published under qualified privilege, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-23.1.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-23.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>are matters of substantial truth.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-23.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-23.2" type="ext"/>(2)</designum></desig><title>Defence under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S26" remotekey1="REFPTID" service="DOC-ID">section 26</remotelink></ci:content></ci:cite>
+ of Defamation Act 2005</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence of contextual truth under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S26" remotekey1="REFPTID" service="DOC-ID">section 26</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 must include particulars of the facts, matters and circumstances on which the defendant relies to establish that the contextual imputations on which the defendant relies are substantially true.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-24"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.24] r 15.24 Particulars in relation to defence of absolute privilege">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-24" type="ext"/>[r 15.24]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to defence of absolute privilege</title><desig searchtype="RUL-NUM"><designum>15.24</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-24.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-24.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-24.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-24.1.A" type="ext"/>(a)</lilabel>
+<p><text>to a defence of absolute privilege under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.PT3.D3" remotekey1="REFPTID" service="DOC-ID">Division 3 of Part 3</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974 or under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S27" remotekey1="REFPTID" service="DOC-ID">section 27</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-24.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-24.1.B" type="ext"/>(b)</lilabel>
+<p><text>to the defence of absolute privilege at common law.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-24.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-24.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence of absolute privilege to which this rule applies must include particulars of the facts, matters and circumstances on which the defendant relies to establish that the imputation or matter complained of was published under absolute privilege.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-25"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.25] r 15.25 Particulars in relation to defences for publication of public and official documents">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-25" type="ext"/>[r 15.25]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to defences for publication of public and official documents</title><desig searchtype="RUL-NUM"><designum>15.25</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-25.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-25.1" type="ext"/>(1)</designum></desig><title>Defence under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S25" remotekey1="REFPTID" service="DOC-ID">section 25</remotelink></ci:content></ci:cite>
+ of Defamation Act 1974</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S25" remotekey1="REFPTID" service="DOC-ID">section 25</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974 must include particulars of the facts, matters and circumstances on which the defendant relies to establish that the matter complained of was:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-25.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-25.1.A" type="ext"/>(a)</lilabel>
+<p><text>a document or record specified as a document or record to which that section applies or a copy of such a document or record, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-25.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-25.1.B" type="ext"/>(b)</lilabel>
+<p><text>a fair extract or fair abstract from, or a fair summary of, such a document or record.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-25.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-25.2" type="ext"/>(2)</designum></desig><title>Defence under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S27" remotekey1="REFPTID" service="DOC-ID">section 27</remotelink></ci:content></ci:cite>
+ of Defamation Act 1974</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S27" remotekey1="REFPTID" service="DOC-ID">section 27</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974 must include particulars of the facts, matters and circumstances on which the defendant relies to establish that the matter complained of was a notice published in accordance with the direction of a court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-25.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-25.3" type="ext"/>(3)</designum></desig><title>Defence under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S28" remotekey1="REFPTID" service="DOC-ID">section 28</remotelink></ci:content></ci:cite>
+ of Defamation Act 2005</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S28" remotekey1="REFPTID" service="DOC-ID">section 28</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 must include particulars of the facts, matters and circumstances on which the defendant relies to establish that the matter complained of was contained in:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-25.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-25.3.A" type="ext"/>(a)</lilabel>
+<p><text>a public document or a fair copy of a public document, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-25.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-25.3.B" type="ext"/>(b)</lilabel>
+<p><text>a fair summary of, or a fair extract from, a public document.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-26"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.26] r 15.26 Particulars in relation to defences of fair report of proceedings of public concern">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-26" type="ext"/>[r 15.26]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to defences of fair report of proceedings of public concern</title><desig searchtype="RUL-NUM"><designum>15.26</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-26.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-26.1" type="ext"/>(1)</designum></desig><title>Defences under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S24" remotekey1="REFPTID" service="DOC-ID">section 24</remotelink></ci:content></ci:cite>
+ of Defamation Act 1974</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting rule 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S24" remotekey1="REFPTID" service="DOC-ID">section 24</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974 must include particulars of the facts, matters and circumstances on which the defendant relies to establish that:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-26.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-26.1.A" type="ext"/>(a)</lilabel>
+<p><text>the matter complained of was a fair protected report, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-26.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-26.1.B" type="ext"/>(b)</lilabel>
+<p><text>the matter complained of was a later publication by the defendant of:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-26.1.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-26.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>a protected report or a copy of the protected report, or a fair extract or fair abstract from, or fair summary of, a protected report that was previously published by another person, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-26.1.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-26.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>material purporting to be a protected report or a copy of the protected report, or of a fair extract or fair abstract from, or fair summary of, material purporting to be a protected report that was previously published by another person,</text></p>
+</li></l>
+<p><text>and the defendant did not have knowledge that should have made the defendant aware that the protected report is not fair or the material purporting to be a protected report was not a protected report or is not fair.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-26.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-26.2" type="ext"/>(2)</designum></desig><title>Defences under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S29" remotekey1="REFPTID" service="DOC-ID">section 29</remotelink></ci:content></ci:cite>
+ of Defamation Act 2005</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S29" remotekey1="REFPTID" service="DOC-ID">section 29</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 must include particulars of the facts, matters and circumstances on which the defendant relies to establish that:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-26.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-26.2.A" type="ext"/>(a)</lilabel>
+<p><text>the matter complained of was, or was contained in, a fair report of any proceedings of public concern, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-26.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-26.2.B" type="ext"/>(b)</lilabel>
+<p><text>the matter complained of:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-26.2.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-26.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>was, or was contained in, an earlier published report of proceedings of public concern, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-26.2.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-26.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>was, or was contained in, a fair copy of, a fair summary of, or a fair extract from, the earlier published report,</text></p>
+</li></l>
+<p><text>and the defendant had no knowledge that would reasonably make the defendant aware that the earlier published report was not fair.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-27"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 15.27] r 15.27 Particulars in relation to defence of qualified privilege">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-27" type="ext"/>[r 15.27]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to defence of qualified privilege</title><desig searchtype="RUL-NUM"><designum>15.27</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-27.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-27.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-27.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-27.1.A" type="ext"/>(a)</lilabel>
+<p><text>to a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.PT3.D4" remotekey1="REFPTID" service="DOC-ID">Division 4</remotelink></ci:content></ci:cite>
+ of Part 3 of the Defamation Act 1974 or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S30" remotekey1="REFPTID" service="DOC-ID">section 30</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-27.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-27.1.B" type="ext"/>(b)</lilabel>
+<p><text>to any other defence of qualified privilege other than any of the following:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-27.1.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-27.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.PT3.D5" remotekey1="REFPTID" service="DOC-ID">Division 5</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.PT3.D6" remotekey1="REFPTID" service="DOC-ID">6</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.PT3.D7" remotekey1="REFPTID" service="DOC-ID">7</remotelink></ci:content></ci:cite>
+ of Part 3 of the Defamation Act 1974,</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-27.1.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-27.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S28" remotekey1="REFPTID" service="DOC-ID">section 28</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S29" remotekey1="REFPTID" service="DOC-ID">29</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S31" remotekey1="REFPTID" service="DOC-ID">31</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005,</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-27.1.B.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-27.1.B.III" type="ext"/>(iii)</lilabel>
+<p><text>the defence of fair comment at common law.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-27.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-27.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence of qualified privilege to which this rule applies must include particulars of the facts, matters and circumstances on which the defendant relies to establish that the imputation or matter complained of was published under qualified privilege.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-28"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15.28] r 15.28 Particulars in relation to defences of comment and honest opinion (cf SCR Part 67, rule 17(3)&#x2013;(6); DCR Part 49, rule16 (3)&#x2013;(6))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-28" type="ext"/>[15.28]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to defences of comment and honest opinion (cf SCR Part 67, rule 17(3)&#x2013;(6); DCR Part 49, rule16 (3)&#x2013;(6))</title><desig searchtype="RUL-NUM"><designum>15.28</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-28.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-28.1" type="ext"/>(1)</designum></desig><title>Defences under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.PT3.D7" remotekey1="REFPTID" service="DOC-ID">Division 7</remotelink></ci:content></ci:cite>
+ of Part 3 of Defamation Act 1974</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence of comment under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.PT3.D7" remotekey1="REFPTID" service="DOC-ID">Division 7</remotelink></ci:content></ci:cite>
+ of Part 3 of the Defamation Act 1974 must include:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-28.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.1.A" type="ext"/>(a)</lilabel>
+<p><text>particulars identifying the material on which it is alleged that the matter alleged to be comment was comment and identifying to what extent that material is alleged to be proper material for comment, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-28.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.1.B" type="ext"/>(b)</lilabel>
+<p><text>as to material alleged to be proper material for comment, particulars of the facts, matters and circumstances on which the defendant relies to establish that allegation.</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-28.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.1.C" type="ext"/>(c)</lilabel>
+<p><text>if the defendant relies on a defence under section 33 of that Act &#x2014; particulars identifying the servant or agent of the defendant whose comment it is alleged to be.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>A defence of fair comment under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.PT3.D7" remotekey1="REFPTID" service="DOC-ID">Division 7</remotelink></ci:content></ci:cite>
+ of Part 3 of the Defamation Act 1974 applies to the exclusion of the common law defence of fair comment. See 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S29" remotekey1="REFPTID" service="DOC-ID">section 29</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-28.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-28.2" type="ext"/>(2)</designum></desig><title>Defences under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S31" remotekey1="REFPTID" service="DOC-ID">section 31</remotelink></ci:content></ci:cite>
+ of Defamation Act 2005</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence of honest opinion under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S31" remotekey1="REFPTID" service="DOC-ID">section 31</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 must include:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-28.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.2.A" type="ext"/>(a)</lilabel>
+<p><text>particulars identifying the material on which it is alleged that the matter alleged to be an opinion was an opinion and identifying to what extent that material is alleged to be proper material, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-28.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.2.B" type="ext"/>(b)</lilabel>
+<p><text>as to material alleged to be proper material, particulars of the facts, matters and circumstances on which the defendant relies to establish that allegation, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-28.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.2.C" type="ext"/>(c)</lilabel>
+<p><text>if the defendant relies on a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S31.2" remotekey1="REFPTID" service="DOC-ID">section 31(2)</remotelink></ci:content></ci:cite>
+ of that Act &#x2014; particulars identifying the employee or agent of the defendant whose opinion it is alleged to be, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-28.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.2.D" type="ext"/>(d)</lilabel>
+<p><text>if the defendant relies on a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S31.3" remotekey1="REFPTID" service="DOC-ID">section 31(3)</remotelink></ci:content></ci:cite>
+ of that Act &#x2014; particulars identifying the commentator whose opinion it is alleged to be.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>A defence of honest opinion under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S31" remotekey1="REFPTID" service="DOC-ID">section 31</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 is in addition to, and does not vitiate, limit or abrogate, the common law defence of fair comment. See 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S24.1" remotekey1="REFPTID" service="DOC-ID">section 24(1)</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-28.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-28.3" type="ext"/>(3)</designum></desig><title>Defence of fair comment at common law</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence of fair comment at common law must include:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-28.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.3.A" type="ext"/>(a)</lilabel>
+<p><text>particulars identifying the material on which it is alleged that the matter alleged to be comment was comment and identifying to what extent that material is alleged to be based on true facts or material that was published under privilege, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-28.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-28.3.B" type="ext"/>(b)</lilabel>
+<p><text>as to material alleged to be true facts or material that was published under privilege, particulars of the facts, matters and circumstances on which the defendant relies to establish that allegation.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>See note to subrule (2).</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-29"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15.29] r 15.29 Particulars in relation to defence of innocent dissemination">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-29" type="ext"/>[15.29]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to defence of innocent dissemination</title><desig searchtype="RUL-NUM"><designum>15.29</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S32" remotekey1="REFPTID" service="DOC-ID">section 32</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005 must include particulars of the facts, matters and circumstances on which the defendant relies to establish that:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-29.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-29.A" type="ext"/>(a)</lilabel>
+<p><text>the defendant published the matter complained of merely in the capacity, or as an employee or agent, of a subordinate distributor, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-29.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-29.B" type="ext"/>(b)</lilabel>
+<p><text>the defendant neither knew, nor ought reasonably to have known, that the matter was defamatory, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-29.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-29.C" type="ext"/>(c)</lilabel>
+<p><text>the defendant&#x2019;s lack of knowledge was not due to any negligence on the part of the defendant.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-30"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15.30] r 15.30 Particulars in relation to defence of triviality">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-30" type="ext"/>[15.30]</edpnum><title searchtype="RUL-TITLE">Particulars in relation to defence of triviality</title><desig searchtype="RUL-NUM"><designum>15.30</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-30.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-30.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-30.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-30.1.A" type="ext"/>(a)</lilabel>
+<p><text>a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S13" remotekey1="REFPTID" service="DOC-ID">section 13</remotelink></ci:content></ci:cite>
+ of the Defamation Act 1974, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-30.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-30.1.B" type="ext"/>(b)</lilabel>
+<p><text>a defence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S33" remotekey1="REFPTID" service="DOC-ID">section 33</remotelink></ci:content></ci:cite>
+ of the Defamation Act 2005.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-30.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-30.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-21" remotekey1="REFPTID" service="DOC-ID">rule 15.21</remotelink>
+, the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ for a defence to which this rule applies must include particulars of the facts, matters and circumstances on which the defendant relies to establish that the circumstances of publication of the matter complained of were such that the plaintiff was unlikely to sustain any harm.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-31"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15.31] r 15.31 Particulars concerning grounds that defeat defamation defences (cf SCR Part 67, rule 19(1); DCR Part 49, rule 18)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-31" type="ext"/>[15.31]</edpnum><title searchtype="RUL-TITLE">Particulars concerning grounds that defeat defamation defences (cf SCR Part 67, rule 19(1); DCR Part 49, rule 18)</title><desig searchtype="RUL-NUM"><designum>15.31</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-31.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-31.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a plaintiff intends to meet any defamation defence:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-31.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-31.1.A" type="ext"/>(a)</lilabel>
+<p><text>by alleging that the defendant was actuated by express malice in the publication of the matter complained of, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-31.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-31.1.B" type="ext"/>(b)</lilabel>
+<p><text>by relying on any matter which, under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA" remotekey1="REFPTID" service="DOC-ID">Defamation Act 1974</remotelink></ci:content></ci:cite>
+ or the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05" remotekey1="REFPTID" service="DOC-ID" status="unval">Defamation Act 2005</remotelink></ci:content></ci:cite>
+, defeats the defence,</text></p>
+</li>
+</l>
+<p><text>then the particulars required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-1" remotekey1="REFPTID" service="DOC-ID">rule 15.1</remotelink>
+ in relation to the reply must include particulars of the facts, matters and circumstances on which the plaintiff relies to establish that allegation or matter of defeasance.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-31.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R15-31.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The particulars required by subrule (1) must be set out in the reply, or, if that is inconvenient, may be set out in a separate document, referred to in the reply, and that document must be filed and served with the reply.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R15-32"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15.32] r 15.32 Particulars concerning damages (cf SCR Part 67, rule 19(2) and (3); DCR Part 49, rule 18)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R15-32" type="ext"/>[15.32]</edpnum><title searchtype="RUL-TITLE">Particulars concerning damages (cf SCR Part 67, rule 19(2) and (3); DCR Part 49, rule 18)</title><desig searchtype="RUL-NUM"><designum>15.32</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The plaintiff must give:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-32.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-32.A" type="ext"/>(a)</lilabel>
+<p><text>particulars of facts, matters and circumstances on which the plaintiff will rely in support of a claim for aggravated damages, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R15-32.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-32.B" type="ext"/>(b)</lilabel>
+<p><text>particulars of any claim the plaintiff makes by way of:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R15-32.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-32.B.I" type="ext"/>(i)</lilabel>
+<p><text>special damages, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R15-32.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R15-32.B.II" type="ext"/>(ii)</lilabel>
+<p><text>any claim for general loss of business or custom.</text></p>
+</li></l></li>
+</l>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.R15-32.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.15-32-5" leveltype="para0" subdoc="true" toc-caption="[15.32.5] General damages">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15.32.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-77" remotekey1="REFPTID" service="DOC-ID">Defamation Act 2005</remotelink> 22, 34, 35.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 15.10(1)(c).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-32-5" type="ext"/>[15.32.5] </edpnum><title>General damages</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text> Damages awarded in defamation proceedings are determined by the judge, they must have &#x201c;an appropriate and rational relationship to&#x201d; the harm sustained by the plaintiff, and are subject to a statutory limit for non-economic loss: Defamation Act 2005 ss 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S22" remotekey1="REFPTID" service="DOC-ID">22</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S34" remotekey1="REFPTID" service="DOC-ID">34</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S35" remotekey1="REFPTID" service="DOC-ID">35</remotelink></ci:content></ci:cite>
+. UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-10.1.C" remotekey1="REFPTID" service="DOC-ID">r 15.10(1)(c)</remotelink>
+ does not exclude an obligation to give particulars of a claim for general damages. A defendant is entitled to particulars of a claim for loss of custom, notwithstanding that a claim for general damages has been made: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004210" spanref="cr004210-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="225"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Andrews v John Fairfax &amp; Sons Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004210-001">[1980] 2 NSWLR 225</ci:span></citefragment> <remotelink dpsi="0018" refpt="7121" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004211" spanref="cr004211-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="474"/></ci:caseref><ci:caseref anaphref="cr004211" spanref="cr004211-002" status="unval"><ci:pinpoint num="484" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bickel v John Fairfax &amp; Sons Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004211-001">[1981] 2 NSWLR 474</ci:span> <ci:span spanid="cr004211-002" status="unval">at 484</ci:span></citefragment> <remotelink dpsi="0018" refpt="2112" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. As to mitigation of damages see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.15-21-10" remotekey1="REFPTID" service="DOC-ID">[15.21.10]</remotelink></text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-32-10" leveltype="para0" subdoc="true" toc-caption="[15.32.10] Aggravated damages">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15.32.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1974-18" remotekey1="REFPTID" service="DOC-ID">Defamation Act 1974</remotelink> s 46(3)(a).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-77" remotekey1="REFPTID" service="DOC-ID">Defamation Act 2005</remotelink> s 37.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-32-10" type="ext"/>[15.32.10] </edpnum><title>Aggravated damages</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Exemplary damages are no longer available in New South Wales in defamation proceedings (Defamation Act 1974 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DA.S46.3.A" remotekey1="REFPTID" service="DOC-ID">s 46(3)(a)</remotelink></ci:content></ci:cite>
+, Defamation Act 2005 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006O" refpt="DEF.NSWLEG.DAN05.S37" remotekey1="REFPTID" service="DOC-ID">s 37</remotelink></ci:content></ci:cite>
+) but the damages available to a plaintiff may be aggravated by the defendant's conduct after publication. The situations which may aggravate damages may cover a period both before and after commencement of proceedings (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1889"/></ci:caseinfo><ci:caseref ID="cr004212" spanref="cr004212-001" status="unval"><ci:reporter value="QBD"/><ci:volume num="24"/><ci:page num="55"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Praed v Graham</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004212-001" status="unval">(1889) 24 QBD 55</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1889"/></ci:caseinfo><ci:caseref ID="cr004213" spanref="cr004213-001" status="unval"><ci:reporter value="LJQB"/><ci:volume num="69"/><ci:page num="51"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gordon v Street</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004213-001" status="unval">(1889) 69 LJQB 51</ci:span></citefragment></ci:content></ci:cite>), but conduct by the defendant or its counsel at the trial which was done bona fide in the legitimate defence of the defendant's case will not aggravate damages: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004214" spanref="cr004214-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1974"/></ci:edition><ci:page num="348"/></ci:caseref><ci:caseref anaphref="cr004214" spanref="cr004214-002" status="unval"><ci:pinpoint num="367" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Steele v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004214-001">[1974] 2 NSWLR 348</ci:span> <ci:span spanid="cr004214-002" status="unval">at 367&#x2013;8</ci:span></citefragment> <remotelink dpsi="0018" refpt="3170" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Conduct relied on as aggravating damages must be unjustifiable, improper or lacking in good faith. It is insufficient if the conduct is merely actionable by, and consequently distressing to, the plaintiff: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1965"/></ci:caseinfo><ci:caseref ID="cr004215" spanref="cr004215-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="66"/><ci:page num="271"/></ci:caseref><ci:caseref anaphref="cr004215" spanref="cr004215-002" status="unval"><ci:pinpoint num="302" targettype="page"/></ci:caseref><ci:caseref ID="cr004216" spanref="cr004216-003" status="unval"><ci:reporter value="WNPt2NSW"/><ci:volume num="83"/><ci:page num="229"/></ci:caseref><ci:caseref anaphref="cr004216" spanref="cr004216-004" status="unval"><ci:pinpoint num="258" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Uren v Australian Consolidated Press Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004215-001" status="unval">(1965) 66 SR (NSW) 271</ci:span> <ci:span spanid="cr004215-002" status="unval">at 302</ci:span>; <ci:span spanid="cr004216-003" status="unval">83 WN (Pt 2) (NSW) 229</ci:span> <ci:span spanid="cr004216-004" status="unval">at 258</ci:span></citefragment> <remotelink dpsi="0018" refpt="47204" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004217" spanref="cr004217-001" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1969"/></ci:edition><ci:page num="729"/></ci:caseref><ci:caseref anaphref="cr004217" spanref="cr004217-002" status="unval"><ci:pinpoint num="739" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rigby v Associated Newspapers Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004217-001" status="unval">[1969] 1 NSWR 729</ci:span> <ci:span spanid="cr004217-002" status="unval">at 739&#x2013;40</ci:span></citefragment> <remotelink dpsi="0018" refpt="46431" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004218" spanref="cr004218-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="516"/></ci:caseref><ci:caseref anaphref="cr004218" spanref="cr004218-002"><ci:pinpoint num="530" targettype="page"/></ci:caseref><ci:caseref anaphref="cr004218" spanref="cr004218-003"><ci:pinpoint num="535" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">David Syme &amp; Co Ltd v Mather</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004218-001">[1977] VR 516</ci:span> <ci:span spanid="cr004218-002">at 530,</ci:span> <ci:span spanid="cr004218-003">535</ci:span></citefragment> <remotelink dpsi="0018" refpt="22641" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004219" spanref="cr004219-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="474"/></ci:caseref><ci:caseref anaphref="cr004219" spanref="cr004219-002" status="unval"><ci:pinpoint num="497" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bickel v John Fairfax &amp; Sons Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004219-001">[1981] 2 NSWLR 474</ci:span> <ci:span spanid="cr004219-002" status="unval">at 497</ci:span></citefragment> <remotelink dpsi="0018" refpt="2112" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Cases in both England and Australia prior to <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004220" spanref="cr004220-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="1129"/></ci:caseref><ci:caseref ID="cr004221" spanref="cr004221-002"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="367"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rookes v Barnard</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004220-001" status="unval">[1964] AC 1129</ci:span>; <ci:span spanid="cr004221-002">[1964] 1 All ER 367</ci:span></citefragment> <remotelink dpsi="0018" refpt="77226" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1966"/></ci:caseinfo><ci:caseref ID="cr004222" spanref="cr004222-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="117"/><ci:page num="118"/></ci:caseref><ci:caseref ID="cr004223" spanref="cr004223-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1967"/></ci:edition><ci:page num="25"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Uren v John Fairfax &amp; Sons Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004222-001" status="unval">(1966) 117 CLR 118</ci:span>; <ci:span spanid="cr004223-002" status="unval">[1967] ALR 25</ci:span></citefragment> <remotelink dpsi="0018" refpt="3181" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (<emph typestyle="it">Uren's</emph> case) should be read with care, as insufficient attention was previously paid by even the highest courts to the distinction between aggravated compensatory damages and punitive damages: <emph typestyle="it">Uren's</emph> case, above, CLR at 128, 152; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1966"/></ci:caseinfo><ci:caseref ID="cr004224" spanref="cr004224-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="68"/><ci:page num="414"/></ci:caseref><ci:caseref anaphref="cr004224" spanref="cr004224-002" status="unval"><ci:pinpoint num="438" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rigby v Associated Newspapers Ltd (No 1)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004224-001" status="unval">(1966) 68 SR (NSW) 414</ci:span> <ci:span spanid="cr004224-002" status="unval">at 438&#x2013;9</ci:span></citefragment> <remotelink dpsi="0018" refpt="7619" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004225" spanref="cr004225-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="474"/></ci:caseref><ci:caseref anaphref="cr004225" spanref="cr004225-002" status="unval"><ci:pinpoint num="496" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bickel v John Fairfax &amp; Sons Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004225-001">[1981] 2 NSWLR 474</ci:span> <ci:span spanid="cr004225-002" status="unval">at 496</ci:span></citefragment> <remotelink dpsi="0018" refpt="2112" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.15-32-15" leveltype="para0" subdoc="true" toc-caption="[15.32.15] Special damages"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.15-32-15" type="ext"/>[15.32.15] </edpnum><title>Special damages</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A defendant is entitled to the following further and better particulars of a claim for special damages: (a) the precise nature of the special damages claimed; (b) the amount thereof; and (c) the basis upon which that amount has been computed: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004226" spanref="cr004226-001"><ci:reporter value="urj"/><ci:refnum num="BC8000045"/></ci:caseref><ci:caseref anaphref="cr004226" spanref="cr004226-002"><ci:pinpoint num="8" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">AB Parry &amp; Sons Pty Ltd v KG Murray Publishing Co Pty Ltd </emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004226-001"> (NSWSC, Hunt J, 10 April 1980, unreported, BC8000045)</ci:span> <ci:span spanid="cr004226-002">at 8</ci:span></citefragment></ci:content></ci:cite>. Particulars of special damages may include the loss of specified customers of the plaintiff's business or a specific loss of profits, but as much certainty and particularity must be insisted upon as is reasonable having regard to the circumstances and to the nature of the acts themselves by which the damage is done: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004227" spanref="cr004227-001" status="unval"><ci:reporter value="QB"/><ci:volume num="2"/><ci:edition><ci:date year="1892"/></ci:edition><ci:page num="524"/></ci:caseref><ci:caseref anaphref="cr004227" spanref="cr004227-002" status="unval"><ci:pinpoint num="530" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ratcliffe v Evans</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004227-001" status="unval">[1892] 2 QB 524</ci:span> <ci:span spanid="cr004227-002" status="unval">at 530</ci:span></citefragment> <remotelink dpsi="0018" refpt="10200" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004228" spanref="cr004228-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1960"/></ci:edition><ci:page num="473"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rubenstein v Truth &amp; Sportsman Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004228-001">[1960] VR 473</ci:span></citefragment> <remotelink dpsi="0018" refpt="33696" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

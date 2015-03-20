@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[DCA Sch 1] SCHEDULE 1 REPEALS</docinfo:doc-heading><docinfo:doc-id>UCPN.DC.DCAN.SCH1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>District Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>DISTRICT COURT ACT 1973 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>[DCA Sch 1] SCHEDULE 1 REPEALS</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>80000500</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DC"/><docinfo:metaitem name="parent-filename" value="dc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DC.SGM_UCPN.DC.DCAN"/><docinfo:metaitem name="parent-filename" value="dc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 999, 1973</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">DISTRICT COURT ACT 1973 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.DC.DCAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN_DC.SGM_SCHEDULE.GRP_1"><leg:level-vrnt leveltype="schedulegrp" searchtype="LEGISLATION SCHEDULEGRP"><leg:heading ln.user-displayed="false"><title>[Schedules]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.SCH1"><leg:level-vrnt leveltype="schedule" searchtype="LEGISLATION SCHEDULE" subdoc="false" toc-caption="[DCA Sch 1] SCHEDULE 1 REPEALS">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><edpnum><refpt id="UCPN.DC.DCAN.SCH1" type="ext"/>[DCA Sch 1]</edpnum><desig searchtype="SCH-NUM"><designum>SCHEDULE 1</designum></desig><title searchtype="SCH-TITLE">REPEALS</title><leg:empleg><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S180" remotekey1="REFPTID" service="DOC-ID">s 180</remotelink></leg:empleg></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="topbot" id="UCPN.DC.DCAN.SCH1.T1" pgwide="1">
+<tgroup align="left" cols="2" colsep="1" rowsep="0">
+<colspec align="left" colname="c1" colsep="0" colwidth="27*" rowsep="0"/>
+<colspec align="left" colname="c2" colsep="0" colwidth="71*" rowsep="0"/>
+<thead valign="middle"><row rowsep="1"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="middle">Year and number of Act</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="middle">Short title of Act</entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1901, No 48&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Inter-state Debts Recovery Act 1901</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1912, No 23&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts Act 1912</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1920, No 9&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Quarter Sessions Enabling Act 1920</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1924, No 30&#x2025;.</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts (Judges Pensions) Act 1924</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1928, No 7&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Supreme Court and District Courts (Judges) Act 1928</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1932, No 34&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts (Validation and Amendment) Act, 1932</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1932, No 35&#x2025;.</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts (Further Validation and Amendment) Act 1932</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1936, No 4&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts (Amendment) Act 1936</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1940, No 44&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Attachment of Wages Limitation Act 1940</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1949, No 44&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts (Amendment) Act 1949</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1951, No 19&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts (Amendment) Act 1951</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1955, No 20&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts (Amendment) Act 1955</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1958, No 11&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts (Amendment) Act 1958</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">1961, No 18&#x2025;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">District Courts and Small Debts Recovery (Amendment) Act 1961</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

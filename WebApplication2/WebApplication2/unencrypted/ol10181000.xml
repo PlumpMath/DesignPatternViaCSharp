@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;6]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CRA.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CONTRACTS REVIEW ACT 1980 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;6]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140090000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CRA"/><docinfo:metaitem name="parent-filename" value="ol1018.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">CONTRACTS REVIEW ACT 1980 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1980</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 16, 1980</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Contracts Review Act 1980 No 16 was assented to on 15 April 1980 and commenced on 24 April 1980. The Act as reproduced is based on the official reprint of 2 May 1994. Since that date the Act has been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1996 No 121</entry><entry colname="c2">3 December 1996</entry><entry colname="c3">Sch 3: 3 March 1997; Sch 4: 3 April 1997</entry></row>
+<row><entry colname="c1">Building Services Corporation Legislation Amendment Act 1996 No 122</entry><entry colname="c2">3 December 1996</entry><entry colname="c3">1 May 1997</entry></row>
+<row><entry colname="c1">Strata Schemes Management (Miscellaneous Amendments) Act 1996 No 139</entry><entry colname="c2">16 December 1996</entry><entry colname="c3">1 July 1997</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1999 No 31</entry><entry colname="c2">7 July 1999</entry><entry colname="c3">Sch 1[10]: 1 March 1999; remainder: 7 July 1999</entry></row>
+<row><entry colname="c1">Retirement Villages Act 1999 No 81</entry><entry colname="c2">3 December 1999</entry><entry colname="c3">1 July 2000</entry></row>
+<row><entry colname="c1">Consumer, Trader and Tenancy Tribunal Act 2001 No 82</entry><entry colname="c2">21 November 2001</entry><entry colname="c3">s 89, Sch 6 cl 4: 21 November 2001; remainder: 25 February 2002 (Gaz 48 of 22 February 2002 p 901)</entry></row>
+<row><entry colname="c1">Justices Legislation Repeal and Amendment Act 2001 No 121</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">7 July 2003 (Gaz 104 of 27 June 2003 p 5978)</entry></row>
+<row><entry colname="c1">Civil Procedure Act 2005 No 28</entry><entry colname="c2">1 June 2005</entry><entry colname="c3">15 August 2005</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2005 98</entry><entry colname="c2">24 November 2005</entry><entry colname="c3">24 November 2005</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Schs 1.18, 2: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">Fair Trading Amendment (Unfair Contract Terms) Act 2010 No 51</entry><entry colname="c2">28 June 2010</entry><entry colname="c3">Sch 2: 1 July 2010 (LW 1 July 2010)</entry></row>
+<row><entry colname="c1">Fair Trading Amendment (Australian Consumer Law) Act 2010 No 107</entry><entry colname="c2">29 November 2010</entry><entry colname="c3">Sch 3.5: 1 January 2011 (s 2)</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.CRA.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.CRA" type="ext"/>CONTRACTS REVIEW ACT 1980 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act with respect to the judicial review of certain contracts and the grant of relief in respect of harsh, oppressive, unconscionable or unjust contracts.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CRA.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;6]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CRA.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;6]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,000] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S1" type="ext"/>[295,000]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the Contracts Review Act 1980.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S2" type="ext"/>[295,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CRA.S1" remotekey1="REFPTID" service="DOC-ID">section 1</remotelink></ci:content></ci:cite>
+ shall commence on the date of assent to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as provided in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CRA.S2.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , this Act shall commence on such day as may be appointed by the Governor in respect thereof and as may be notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,010] s 3 Arrangement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S3" type="ext"/>[295,010]</edpnum><title searchtype="SECT-TITLE">Arrangement</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 3  rep Act 31 of 1999   s 3 and Sch 5]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,015] s 4 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S4" type="ext"/>[295,015]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, except in so far as the context or subject-matter otherwise indicates or requires:</text></p>
+<deflist><defitem id="UCPN.OL.CRA.S4.1.COURT"><defterm><refpt id="UCPN.OL.CRA.S4.1.COURT" type="ext"/><emph typestyle="bf">Court</emph></defterm>   <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.CRA.S4.1.COURT.A"><lilabel><refpt id="UCPN.OL.CRA.S4.1.COURT.A" type="ext"/>(a)</lilabel>
+<p><text>the Supreme Court of New South Wales; or</text></p>
+</li>
+<li id="UCPN.OL.CRA.S4.1.COURT.B"><lilabel><refpt id="UCPN.OL.CRA.S4.1.COURT.B" type="ext"/>(b)</lilabel>
+<p><text>in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S134B" remotekey1="REFPTID" service="DOC-ID">section 134B</remotelink></ci:content></ci:cite>
+ of the District Court Act 1973, and without affecting the jurisdictional limitations referred to in that section, the District Court of New South Wales; or</text></p>
+</li>
+<li id="UCPN.OL.CRA.S4.1.COURT.C"><lilabel><refpt id="UCPN.OL.CRA.S4.1.COURT.C" type="ext"/>(c)</lilabel>
+<p><text>in accordance with 
+<remotelink dpsi="007R" refpt="CPPN.OLNSW.LCAN07.S32" remotekey1="REFPTID" service="DOC-ID">section 32</remotelink>
+ of the Local Court Act 2007, and without affecting the jurisdictional limitations referred to in that section, the Local Court; or</text></p>
+</li>
+<li id="UCPN.OL.CRA.S4.1.COURT.D"><lilabel><refpt id="UCPN.OL.CRA.S4.1.COURT.D" type="ext"/>(d)</lilabel>
+<p><text>in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.BSC89.S89D" remotekey1="REFPTID" service="DOC-ID" status="unval">section 89D</remotelink></ci:content></ci:cite>
+ of the Home Building Act 1989, and without affecting the jurisdictional limitations referred to in that section, the Tribunal, or</text></p>
+</li>
+<li id="UCPN.OL.CRA.S4.1.COURT.E"><lilabel><refpt id="UCPN.OL.CRA.S4.1.COURT.E" type="ext"/>(e)</lilabel>
+<p><text>in accordance with section 123 of the Retirement Villages Act 1999, and without affecting the jurisdictional limitations referred to in that section, the Tribunal.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 122 of 1996   s 5 and Sch 7  ; Act 31 of 1999   s 3 and Sch 1  ; Act 81 of 2000   s 205 and Sch 3  ; Act 82 of 2001   s 90 and Sch 7 , effective 25 February 2002; Act No 28 of 2005   s 5.8 and Sch 5, effective 15 August 2005 ; Act 94 of 2007  s 3 and Sch 1.18, effective 6 July 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CRA.S4.1.FAIR-TRADING-TRIBUNAL"><defterm><refpt id="UCPN.OL.CRA.S4.1.FAIR-TRADING-TRIBUNAL" type="ext"/><emph typestyle="bf">Fair Trading Tribunal</emph></defterm>  <leg:histnote>
+<p><text>[def  rep Act 82 of 2001    s 90 and Sch 7, effective 25 February 2002]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CRA.S4.1.LAND-INSTRUMENT"><defterm><refpt id="UCPN.OL.CRA.S4.1.LAND-INSTRUMENT" type="ext"/><emph typestyle="bf">land instrument</emph></defterm>   <defdesc>
+<p><text>means an instrument that transfers title to land, creates an estate or interest in land or is a dealing within the meaning of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.RPN" remotekey1="REFPTID" service="DOC-ID" status="unval">Real Property Act 1900</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CRA.S4.1.TRIBUNAL"><defterm><refpt id="UCPN.OL.CRA.S4.1.TRIBUNAL" type="ext"/><emph typestyle="bf">Tribunal</emph></defterm>  <defdesc>
+<p><text>means the Consumer, Trader and Tenancy Tribunal established by the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CTTTAN01" remotekey1="REFPTID" service="DOC-ID" status="unval">Consumer, Trader and Tenancy Tribunal Act 2001</remotelink></ci:content></ci:cite>
+ .</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 82 of 2001    s 90 and Sch 7  , effective 25 February 2002]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CRA.S4.1.UNJUST"><defterm><refpt id="UCPN.OL.CRA.S4.1.UNJUST" type="ext"/><emph typestyle="bf">unjust</emph></defterm>   <defdesc>
+<p><text>includes unconscionable, harsh or oppressive; and <defterm><emph typestyle="bf">injustice</emph></defterm>   shall be construed in a corresponding manner.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a corporation does not include a reference to:</text></p>
+<l><li id="UCPN.OL.CRA.S4.2.A"><lilabel><refpt id="UCPN.OL.CRA.S4.2.A" type="ext"/>(a)</lilabel>
+<p><text>an owners corporation constituted under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SSMN96.S11" remotekey1="REFPTID" service="DOC-ID" status="unval">section 11</remotelink></ci:content></ci:cite>
+ of the Strata Schemes Management Act 1996; or</text></p>
+</li>
+<li id="UCPN.OL.CRA.S4.2.B"><lilabel><refpt id="UCPN.OL.CRA.S4.2.B" type="ext"/>(b)</lilabel>
+<p><text>a corporation owning an interest in land and having a memorandum or articles of association conferring on owners of shares in the corporation the right to occupy certain parts of a building erected on that land,</text></p>
+</li>
+</l>
+<p><text>all or the majority of which lots or parts, as the case may be, are intended to be occupied as dwellings.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 139 of 1996    s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes included in this Act do not form part of this Act.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  insrt Act 51 of 2010    s 2 and Sch 2[1], effective 1 July 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.CRA.S4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.295015-5" leveltype="para0" subdoc="true" toc-caption="[295,015.5] &#x201c;Court&#x201d;">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [295,015.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1980-16" remotekey1="REFPTID" service="DOC-ID">Contracts Review Act 1980</remotelink> s 7(1)(a).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2007-93" remotekey1="REFPTID" service="DOC-ID">Local Court Act 2007</remotelink> s 32.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.295015-5" type="ext"/>[295,015.5] </edpnum><title>&#x201c;Court&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Local Court only has the power to grant relief under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CRA.S7.1.A" remotekey1="REFPTID" service="DOC-ID">s 7(1)(a)</remotelink></ci:content></ci:cite>
+ of the Contracts Review Act, and only if application for the exercise of the jurisdiction is made in proceedings concerning the contract that are in the course of being heard in the Local Court: LCA 2007 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S32" remotekey1="REFPTID" service="DOC-ID">s 32</remotelink></ci:content></ci:cite>
+. In other words, the Local Court only has jurisdiction, in the course of proceedings concerning the contract that are in the course of being heard in the Local Court, to decide to refuse to enforce any or all of the provisions of the contract.</text></p>
+<p>
+<text>Clause 5 of the Civil Procedure Act 2005 does not limit or increase the jurisdiction of any Court under the Act. </text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.295015-10" leveltype="para0" subdoc="true" toc-caption="[295,015.10] &#x201c;Unjust&#x201d;"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.295015-10" type="ext"/>[295,015.10] </edpnum><title>&#x201c;Unjust&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>&#x201c;The definition of 'unjust' is not exclusive. It is in my opinion a mistake to think that a contract or one of its terms is only unjust when it is unconscionable, harsh or oppressive. Any contract or contractual provision, not excluded from the operation of the Act and which the court considers is unjust in the circumstances existing at the time it was made may be the subject of relief under the Act&#x201d;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr000248" spanref="cr000248-001"><ci:reporter value="NSWLR"/><ci:volume num="5"/><ci:page num="610"/></ci:caseref><ci:caseref anaphref="cr000248" spanref="cr000248-002" status="unval"><ci:pinpoint num="620" targettype="page"/></ci:caseref><ci:caseref ID="cr000249" spanref="cr000249-003" status="unval"><ci:reporter value="ConvR"/><ci:page num="55-306"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">West v AGC (Advances) Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000248-001">(1986) 5 NSWLR 610</ci:span> <ci:span spanid="cr000248-002" status="unval">at 620&#x2013;1</ci:span>; <ci:span spanid="cr000249-003" status="unval">NSW ConvR ¶55-306</ci:span></citefragment></ci:content></ci:cite> per McHugh JA.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,020] s 5 Act binds Crown">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S5" type="ext"/>[295,020]</edpnum><title searchtype="SECT-TITLE">Act binds Crown</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act binds the Crown not only in right of New South Wales but also, so far as the legislative power of Parliament permits, the Crown in all its other capacities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,025] s 6 Certain restrictions on grant of relief">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S6" type="ext"/>[295,025]</edpnum><title searchtype="SECT-TITLE">Certain restrictions on grant of relief</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.S6.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Crown, a public or local authority or a corporation may not be granted relief under this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S6.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person may not be granted relief under this Act in relation to a contract so far as the contract was entered into in the course of or for the purpose of a trade, business or profession carried on by the person or proposed to be carried on by the person, other than a farming undertaking (including, but not limited to, an agricultural, pastoral, horticultural, orcharding or viticultural undertaking) carried on by the person or proposed to be carried on by the person wholly or principally in New South Wales.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 121 of 1996    s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.CRA.S6.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.295025-5" leveltype="para0" subdoc="true" toc-caption="[295,025.5]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [295,025.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1980-16" remotekey1="REFPTID" service="DOC-ID">Contracts Review Act 1980</remotelink> s 6(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.295025-5" type="ext"/>[295,025.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where the proprietors of a company give a guarantee to secure the debts of the company which carries on business, such proprietors are not prevented by the section from seeking relief under the section because it is the company rather than themselves which is carrying on the business: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000250" spanref="cr000250-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:page num="145"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Toscano v Holland Securities Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000250-001">(1985) 1 NSWLR 145</ci:span></citefragment></ci:content></ci:cite>  ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000251" spanref="cr000251-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:page num="174"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australian Bank Ltd v Stokes</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000251-001">(1985) 3 NSWLR 174</ci:span></citefragment></ci:content></ci:cite>  ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1984"/></ci:caseinfo><ci:caseref ID="cr000252" spanref="cr000252-001" status="unval"><ci:reporter value="NSWConvR,"/><ci:page num="55-212"/></ci:caseref><ci:caseref anaphref="cr000252" spanref="cr000252-002" status="unval"><ci:pinpoint num="57" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Collins v Parker</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000252-001" status="unval">(1984) NSW Conv R 55&#x2013;212</ci:span> <ci:span spanid="cr000252-002" status="unval">at 57,469</ci:span></citefragment></ci:content></ci:cite>  ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr000253" spanref="cr000253-001" status="unval"><ci:reporter value="ASC"/><ci:page num="56-097"/></ci:caseref><ci:caseref anaphref="cr000253" spanref="cr000253-002" status="unval"><ci:pinpoint num="57" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Coombs v Bahama Palm Trading Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000253-001" status="unval">(1991) ASC ¶56-097</ci:span> <ci:span spanid="cr000253-002" status="unval">at 57,025</ci:span></citefragment></ci:content></ci:cite> . However, the section refers to a contract entered into &#x201c;in the course of&#x201d; or &#x201c;for the purpose of&#x201d; a business carried on by the applicant. For an instance where the court found that loans had been entered into by persons with limited understanding of English who had no connection with the bank involved, all transactions being carried out through their son, the loan being for the son's business, they not being involved in the business at all, see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000254" spanref="cr000254-001"><ci:reporter value="urj"/><ci:refnum num="BC200301234"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">St George Bank Ltd v Trimarchi</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 151; <ci:span spanid="cr000254-001"> BC200301234</ci:span></citefragment> <remotelink dpsi="0018" refpt="360676" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>  . It was accordingly held that the applicants were not excluded from seeking relief by virtue of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CRA.S6.2" remotekey1="REFPTID" service="DOC-ID">s 6(2)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

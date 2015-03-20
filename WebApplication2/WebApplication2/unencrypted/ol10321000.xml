@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;6]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.FOEA94.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>FOREIGN EVIDENCE ACT 1994 (CTH)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;6]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140160000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.FOEA94"/><docinfo:metaitem name="parent-filename" value="ol1032.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">FOREIGN EVIDENCE ACT 1994 (CTH)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1994</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 59, 1994</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">CTH</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Foreign Evidence Act 1994 (Cth) No 59 was assented to 9 April 1994. Parts 1&#x2013;2, 4 and 6&#x2013;7 commenced on assent, Pt 3 commenced 9 October 1994 and Pt 5 commenced 16 March 1995. The Act has since been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Public Employment (Consequential And Transitional) Amendment Act 1999 No 146</entry><entry colname="c2">11 November 1999</entry><entry colname="c3">5 December 1999</entry></row>
+<row><entry colname="c1">Federal Magistrates (Consequential Amendments) Act 1999 No 194</entry><entry colname="c2">23 December 1999</entry><entry colname="c3">23 December 1999</entry></row>
+<row><entry colname="c1">Corporations (Repeals, Consequentials and Transitionals) Act 2001</entry><entry colname="c2">28 June 2001</entry><entry colname="c3">Sch 3: 15 July 2001</entry></row>
+<row><entry colname="c1">Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 No 86</entry><entry colname="c2">11 October 2002</entry><entry colname="c3">Sch 6: 1 January 2003 (Gaz GN44 of 6 November 2002 p 2948)</entry></row>
+<row><entry colname="c1">Crimes Legislation Enhancement Act 2003 No 41</entry><entry colname="c2">3 June 2003</entry><entry colname="c3">3 June 2003</entry></row>
+<row><entry colname="c1">Law and Justice Legislation Amendment (Video Link Evidence and Other Measures) Act 2005 No 136</entry><entry colname="c2">15 November 2005</entry><entry colname="c3">16 November 2005</entry></row>
+<row><entry colname="c1">ASIO Legislation Amendment Act 2006 No 54     </entry><entry colname="c2">19 June 2006</entry><entry colname="c3">Sch 1: 20 June 2006</entry></row>
+<row><entry colname="c1">Law and Justice Legislation Amendment (Marking of Plastic Explosives) Act 2007 No 3</entry><entry colname="c2">19 February 2007</entry><entry colname="c3">Sch 3: 25 August 2007 (s 2(1))</entry></row>
+<row><entry colname="c1">Foreign Evidence Amendment Act 2010 No 55</entry><entry colname="c2">3 June 2010</entry><entry colname="c3">4 June 2010 (s 2)</entry></row>
+<row><entry colname="c1">Crimes Legislation Amendment Act (No 2) 2011 No 174</entry><entry colname="c2">5 December 2011</entry><entry colname="c3">1 January 2012</entry></row>
+<row><entry colname="c1">Federal Circuit Court of Australia (Consequential Amendments) Act 2013 No 13</entry><entry colname="c2">14 March 2013</entry><entry colname="c3">12 April 2013</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.FOEA94.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.FOEA94" type="ext"/>FOREIGN EVIDENCE ACT 1994 (CTH)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act about certain evidentiary matters involving overseas jurisdictions.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.FOEA94.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;6]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.FOEA94.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;6]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.FOEA94.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[320,000] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.FOEA94.S1" type="ext"/>[320,000]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the Foreign Evidence Act 1994.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[320,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.FOEA94.S2" type="ext"/>[320,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.FOEA94.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.FOEA94.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S2.2" remotekey1="REFPTID" service="DOC-ID">subsections (2)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S2.4" remotekey1="REFPTID" service="DOC-ID">(4)</remotelink></ci:content></ci:cite>
+ , this Act commences on the day on which it receives the Royal Assent.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.FOEA94.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S2.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3 </remotelink></ci:content></ci:cite>
+ commences on a day to be fixed by Proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S2.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.FOEA94.S2.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3</remotelink></ci:content></ci:cite>
+ does not commence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S2.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S2.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.FOEA94.S2.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S2.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.PT5" remotekey1="REFPTID" service="DOC-ID">Part 5 </remotelink></ci:content></ci:cite>
+ commences on a day to be fixed by Proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S2.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.FOEA94.S2.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The day fixed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S2.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ must not be a day occurring before the Convention enters into force for Australia.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[320,010] s 3 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.FOEA94.S3" type="ext"/>[320,010]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.FOEA94.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.FOEA94.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, unless the contrary intention appears:</text></p>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.ASC"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.ASC" type="ext"/><emph typestyle="bf">ASC</emph></defterm>  <leg:histnote>
+<p><text>[def  rep Act 55 of 2001   Sch 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.ASIC"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.ASIC" type="ext"/><emph typestyle="bf">ASIC</emph></defterm>  <defdesc>
+<p><text>means the Australian Securities and Investments Commission;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 55 of 2001   Sch 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT" type="ext"/><emph typestyle="bf">Australian court</emph></defterm>  <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.A" type="ext"/>(a)</lilabel>
+<p><text>the High Court; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.B" type="ext"/>(b)</lilabel>
+<p><text>a court exercising federal jurisdiction; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.C"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.C" type="ext"/>(c)</lilabel>
+<p><text>a court of a State or Territory; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.D"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.D" type="ext"/>(d)</lilabel>
+<p><text>a judge, justice or arbitrator under an Australian law; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.E"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-COURT.E" type="ext"/>(e)</lilabel>
+<p><text>a person or body authorised by an Australian law, or by consent of parties, to hear, receive and examine evidence;</text></p>
+</li>
+</l>
+<p><text>and, for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.PT6" remotekey1="REFPTID" service="DOC-ID">Part 6</remotelink></ci:content></ci:cite>
+ , includes a person or body authorised to take or receive evidence, whether on behalf of a court or otherwise and whether or not the person or body is empowered to require the answering of questions or the production of documents;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-LAW"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.AUSTRALIAN-LAW" type="ext"/><emph typestyle="bf">Australian law</emph></defterm>  <defdesc>
+<p><text>means a law (whether written or unwritten) of or in force in the Commonwealth, a State or a Territory;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.BUSINESS"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.BUSINESS" type="ext"/><emph typestyle="bf">business</emph></defterm>  <defdesc>
+<p><text>has a meaning affected by clause 1 of Part 2 of the Dictionary in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EA95" remotekey1="REFPTID" service="DOC-ID" status="unval">Evidence Act 1995</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 55 of 2010  Sch 1[1], effective 4 June 2010]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.BUSINESS-RECORD"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.BUSINESS-RECORD" type="ext"/><emph typestyle="bf">business record</emph></defterm>  <defdesc>
+<p><text>means a document that:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.BUSINESS-RECORD.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.BUSINESS-RECORD.A" type="ext"/>(a)</lilabel>
+<p><text>is or forms part of the records belonging to or kept by a person, body or organisation in the course of, or for the purposes of, a business; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.BUSINESS-RECORD.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.BUSINESS-RECORD.B" type="ext"/>(b)</lilabel>
+<p><text>at any time was or formed part of such a record.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 55 of 2010  Sch 1[2], effective 4 June 2010]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.CIVIL-PROCEEDING"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.CIVIL-PROCEEDING" type="ext"/><emph typestyle="bf">civil proceeding</emph></defterm>  <defdesc>
+<p><text>means a proceeding other than a criminal proceeding;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.CONVENTION"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.CONVENTION" type="ext"/><emph typestyle="bf">Convention</emph></defterm>  <defdesc>
+<p><text>means the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, a copy of the English text of which is set out in the Schedule;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.CRIMINAL-PROCEEDING"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.CRIMINAL-PROCEEDING" type="ext"/><emph typestyle="bf">criminal proceeding</emph></defterm>  <defdesc>
+<p><text>means a prosecution for an offence and includes a proceeding for the committal of a person for trial or sentence for an offence, but does not include a prosecution for an offence that is a prescribed taxation offence within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TAA.PT3" remotekey1="REFPTID" service="DOC-ID" status="unval">Part III</remotelink></ci:content></ci:cite>
+ of the Taxation Administration Act 1953;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE" type="ext"/><emph typestyle="bf">designated offence</emph></defterm>  <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.A" type="ext"/>(a)</lilabel>
+<p><text>an offence against subsection 34L(4) of the Australian Security Intelligence Organisation Act 1979; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.B" type="ext"/>(b)</lilabel>
+<p><text>an offence against section 49 of the Aviation Transport Security Act 2004; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.C"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.C" type="ext"/>(c)</lilabel>
+<p><text>an offence against section 21 of the Charter of the United Nations Act 1945; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.D"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.D" type="ext"/>(d)</lilabel>
+<p><text>an offence against Subdivision A of Division 72 of the Criminal Code; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.E"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.E" type="ext"/>(e)</lilabel>
+<p><text>an offence against Part 5.3 of the Criminal Code; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.F"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.F" type="ext"/>(f)</lilabel>
+<p><text>an offence against Part 5.4 of the Criminal Code; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.G"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.G" type="ext"/>(g)</lilabel>
+<p><text>an offence against section 24AA or 24AB of the Crimes Act 1914; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.H"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.H" type="ext"/>(h)</lilabel>
+<p><text>an offence against Division 1 of Part 2 of the Crimes (Aviation) Act 1991; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.I"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.I" type="ext"/>(i)</lilabel>
+<p><text>an offence against section 8 of the Crimes (Biological Weapons) Act 1976; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.J"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.J" type="ext"/>(j)</lilabel>
+<p><text>an offence against the Crimes (Foreign Incursions and Recruitment) Act 1978; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.K"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.K" type="ext"/>(k)</lilabel>
+<p><text>an offence against section 8 of the Crimes (Hostages) Act 1989; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.L"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.L" type="ext"/>(l)</lilabel>
+<p><text>an offence against the Crimes (Internationally Protected Persons) Act 1976; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.M"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.M" type="ext"/>(m)</lilabel>
+<p><text>an offence against section 6 of the Crimes Act 1914 that relates to an offence mentioned in any of the above paragraphs.</text></p>
+</li>
+</l></defdesc>
+<glp:note id="UCPN.OL.FOEA94.S3.1.DESIGNATED-OFFENCE.LN1">
+<heading><title>Note:</title></heading>
+<p>
+<text>For other ancillary offences, see section 11.6 of the Criminal Code.</text></p></glp:note>
+<leg:histnote>
+<p><text>[def  insrt  Act 136 of 2005  s 3 and Sch 1[22], effective 16 November 2005; am Act 54 of 2006  s 3 and Sch 1, Pt 2[15], effective 20 June 2006 ; Act 3 of 2007 s 3 and Sch 3[5], effective 25 August 2007]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.DOCUMENT"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.DOCUMENT" type="ext"/><emph typestyle="bf">document</emph></defterm>  <defdesc>
+<p><text>means any record of information, and includes:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.DOCUMENT.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DOCUMENT.A" type="ext"/>(a)</lilabel>
+<p><text>anything on which there is writing; and</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DOCUMENT.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DOCUMENT.B" type="ext"/>(b)</lilabel>
+<p><text>anything on which there are marks, figures, symbols or perforations having a meaning for persons qualified to interpret them; and</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DOCUMENT.C"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DOCUMENT.C" type="ext"/>(c)</lilabel>
+<p><text>anything from which sounds, images or writings can be reproduced with or without the aid of anything else; and</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.DOCUMENT.D"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.DOCUMENT.D" type="ext"/>(d)</lilabel>
+<p><text>a map, plan, drawing or photograph;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.EXAMINATION"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.EXAMINATION" type="ext"/><emph typestyle="bf">examination</emph></defterm>  <defdesc>
+<p><text>includes any proceeding that is for the taking of evidence of a person conducted by the judicial authorities of a foreign country in relation to a letter of request issued as a result of an order made by a superior court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.PT2" remotekey1="REFPTID" service="DOC-ID">Part 2</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.FOREIGN-BUSINESS-AUTHORITY"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-BUSINESS-AUTHORITY" type="ext"/><emph typestyle="bf">foreign business authority</emph></defterm>  <defdesc>
+<p><text>means a person or body that has, under a law of a foreign country, functions relating to the administration or enforcement of a law of that country that regulates, or relates to the regulation of, business or persons engaged in business;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.FOREIGN-LAW"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-LAW" type="ext"/><emph typestyle="bf">foreign law</emph></defterm>  <defdesc>
+<p><text>means a law (whether written or unwritten) of or in force in a foreign country;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL" type="ext"/><emph typestyle="bf">foreign material</emph></defterm>  <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.A" type="ext"/>(a)</lilabel>
+<p><text>for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3</remotelink></ci:content></ci:cite>
+ &#x2014; the testimony of a person that:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.A.I"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.A.I" type="ext"/>(i)</lilabel>
+<p><text>was obtained as a result of a request of a kind referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S21" remotekey1="REFPTID" service="DOC-ID">section 21</remotelink></ci:content></ci:cite>
+ ; and</text></p>
+</li><li id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.A.II"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.A.II" type="ext"/>(ii)</lilabel>
+<p><text>complies with the requirements of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S22" remotekey1="REFPTID" service="DOC-ID">section 22</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li></l>
+<p><text>including any exhibit annexed to such testimony; and</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.B" type="ext"/>(b)</lilabel>
+<p><text>for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.PT4" remotekey1="REFPTID" service="DOC-ID">Part 4</remotelink></ci:content></ci:cite>
+ &#x2014; the testimony of a person that:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.B.I"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.B.I" type="ext"/>(i)</lilabel>
+<p><text>was obtained as a result of a request of a kind referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S29" remotekey1="REFPTID" service="DOC-ID">section 29</remotelink></ci:content></ci:cite>
+ ; and</text></p>
+</li><li id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.B.II"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-MATERIAL.B.II" type="ext"/>(ii)</lilabel>
+<p><text>complies with the requirements of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S30" remotekey1="REFPTID" service="DOC-ID">section 30</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li></l>
+<p><text>including any exhibit annexed to such testimony;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.FOREIGN-PUBLIC-DOCUMENT"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.FOREIGN-PUBLIC-DOCUMENT" type="ext"/><emph typestyle="bf">foreign public document</emph></defterm>  <defdesc>
+<p><text>means a document to which Article 1 of the Convention applies, other than a document executed in a foreign country (if any) that has objected to Australia's accession to the Convention;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.INFERIOR-COURT"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.INFERIOR-COURT" type="ext"/><emph typestyle="bf">inferior court</emph></defterm>  <defdesc>
+<p><text>means any of the following courts (other than a superior court):</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.INFERIOR-COURT.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.INFERIOR-COURT.A" type="ext"/>(a)</lilabel>
+<p><text>a court of a State when exercising federal jurisdiction;</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.INFERIOR-COURT.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.INFERIOR-COURT.B" type="ext"/>(b)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S3.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ , a court of a Territory (other than the Northern Territory);</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.INFERIOR-COURT.C"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.INFERIOR-COURT.C" type="ext"/>(c)</lilabel>
+<p><text>a court of the Northern Territory when exercising jurisdiction conferred or vested by an Act of the Parliament;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.PROCEEDS-OF-CRIME-LAW"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.PROCEEDS-OF-CRIME-LAW" type="ext"/><emph typestyle="bf">proceeds of crime law </emph></defterm>  <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PCAC02" remotekey1="REFPTID" service="DOC-ID" status="unval">Proceeds of Crime Act 2002</remotelink></ci:content></ci:cite>
+ or the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PCA87" remotekey1="REFPTID" service="DOC-ID" status="unval">Proceeds of Crime Act 1987</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 55 of 2010  Sch 1[3], effective 4 June 2010]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.RELATED-CIVIL-PROCEEDING"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.RELATED-CIVIL-PROCEEDING" type="ext"/><emph typestyle="bf">related civil proceeding</emph></defterm>  <defdesc>
+<p><text>, in relation to a criminal proceeding, means any civil proceeding arising from the same subject matter from which the criminal proceeding arose, and, in particular, includes:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.RELATED-CIVIL-PROCEEDING.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.RELATED-CIVIL-PROCEEDING.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding under a proceeds of crime law; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.RELATED-CIVIL-PROCEEDING.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.RELATED-CIVIL-PROCEEDING.B" type="ext"/>(b)</lilabel>
+<p><text>a proceeding under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CUSA" remotekey1="REFPTID" service="DOC-ID" status="unval">Customs Act 1901</remotelink></ci:content></ci:cite>
+ ; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.RELATED-CIVIL-PROCEEDING.C"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.RELATED-CIVIL-PROCEEDING.C" type="ext"/>(c)</lilabel>
+<p><text>a proceeding for the recovery of tax, or of any duty, levy or charge, payable to the Commonwealth;</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 86 of 2002   s 3 and Sch 6,   effective 1 January 2003 ; Act 55 of 2010  Sch 1[4], effective 4 June 2010]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT"><defterm><refpt id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT" type="ext"/><emph typestyle="bf">superior court</emph></defterm>  <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.A" type="ext"/>(a)</lilabel>
+<p><text>the High Court; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.B" type="ext"/>(b)</lilabel>
+<p><text>the Federal Court of Australia or the Family Court of Australia; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.C"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.C" type="ext"/>(c)</lilabel>
+<p><text>the Supreme Court of a State, or the Family Court of Western Australia, when exercising federal jurisdiction; or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.D"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.D" type="ext"/>(d)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S3.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ , the Supreme Court of a Territory (other than the Northern Territory); or</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.E"><lilabel><refpt id="UCPN.OL.FOEA94.S3.1.SUPERIOR-COURT.E" type="ext"/>(e)</lilabel>
+<p><text>the Supreme Court of the Northern Territory when exercising jurisdiction conferred or vested by an Act of the Parliament.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.FOEA94.S3.2" type="ext"/><fnr fnrtoken="UCPN.OL.FOEA94.S3.2.FT1-R" fntoken="UCPN.OL.FOEA94.S3.2.FT1">*</fnr>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On and after a day fixed by Proclamation:</text></p>
+<l><li id="UCPN.OL.FOEA94.S3.2.A"><lilabel><refpt id="UCPN.OL.FOEA94.S3.2.A" type="ext"/>(a)</lilabel>
+<p><text>the Supreme Court of the Australian Capital Territory ceases to be a superior court for the purposes of this Act except so far as it exercises jurisdiction conferred or vested by an Act of the Parliament; and</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S3.2.B"><lilabel><refpt id="UCPN.OL.FOEA94.S3.2.B" type="ext"/>(b)</lilabel>
+<p><text>any other court of the Australian Capital Territory ceases to be an inferior court for the purposes of this Act except so far as it exercises jurisdiction conferred or vested by an Act of the Parliament.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[320,015] s 4 References to evidence taken in an examination">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.FOEA94.S4" type="ext"/>[320,015]</edpnum><title searchtype="SECT-TITLE">References to evidence taken in an examination</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to evidence taken in an examination includes a reference to:</text></p>
+<l><li id="UCPN.OL.FOEA94.S4..A"><lilabel><refpt id="UCPN.OL.FOEA94.S4..A" type="ext"/>(a)</lilabel>
+<p><text>a document produced at the examination; and</text></p>
+</li>
+<li id="UCPN.OL.FOEA94.S4..B"><lilabel><refpt id="UCPN.OL.FOEA94.S4..B" type="ext"/>(b)</lilabel>
+<p><text>answers made to any written interrogatories presented at the examination, whether the answers are made in writing or are made orally and put in writing.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[320,020] s 5 External Territories">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.FOEA94.S5" type="ext"/>[320,020]</edpnum><title searchtype="SECT-TITLE">External Territories</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act extends to each external Territory.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.FOEA94.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[320,025] s 6 Act to bind Crown">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.FOEA94.S6" type="ext"/>[320,025]</edpnum><title searchtype="SECT-TITLE">Act to bind Crown</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act binds the Crown in all its capacities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<footnotegrp><footnote fnrtokens="UCPN.OL.FOEA94.S3.2.FT1-R" fntoken="UCPN.OL.FOEA94.S3.2.FT1" type="default"><fnlabel>*</fnlabel><fnbody>
+<h>Editor's note</h>
+<p><refpt id="UCPN.OL.FOEA94.S3.2.FT1" type="ext"/>
+<text>Section 6 of the Foreign Evidence (Transitional Provisions and Consequential Amendments) Act 1994 provides as follows: </text>
+<blockquote><legfragment>
+<leg:level>
+<leg:level-vrnt leveltype="sect">
+<leg:heading inline="true"><title>&quot;Proceedings in courts of the Australian Capital Territory</title><desig><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94.S3.2" remotekey1="REFPTID" service="DOC-ID">Subsection 3(2)</remotelink></ci:content></ci:cite>
+ of the Foreign Evidence Act 1994 does not apply in relation to proceedings before a court of the Australian Capital Territory that began before the day fixed by Proclamation under that subsection.&quot;</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</legfragment></blockquote>
+</p></fnbody></footnote></footnotegrp>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

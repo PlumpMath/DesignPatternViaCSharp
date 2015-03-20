@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>ST</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_593</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>S</title></heading>
+<docinfo:hierlev role="me"><heading><title>ST</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110200</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_593" /><docinfo:metaitem name="parent-filename" value="ucpn254.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="30" month="05" year="2013">30 May 2013</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>ST</title></heading>
+<in:lev1 id="UCPN_IND_593" subdoc="true" toc-caption="Stakeholder's interpleader "><in:entry><in:entry-text><refpt id="STAKEHOLDERS_INTERPLEADER" type="ext"><emph typestyle="bf">Stakeholder's interpleader </emph></refpt></in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="INTERPLEADER" remotekey1="REFPTID" service="DOC-ID" filename="ucpn1660.xml">Interpleader</remotelink></see></in:lev1>
+
+<in:lev1 id="UCPN_IND_594" subdoc="true" toc-caption="Standard of proof"><in:entry><in:entry-text><refpt id="STANDARD_OF_PROOF" type="ext"><emph typestyle="bf">Standard of proof</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>admissibility of evidence <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S142" remotekey1="REFPTID" service="DOC-ID" filename="ea10001093.xml">[51,305]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>civil proceedings <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S140" remotekey1="REFPTID" service="DOC-ID" filename="ea10001093.xml">[51,295]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- "clear and cogent proof of serious allegations" required <remotelink dpsi="05CC" refpt="UCPN.EA.51295-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001093.xml">[51,295.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.EA.51295-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001093.xml">[51,295.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>criminal contempt proceedings <remotelink dpsi="05CC" refpt="UCPN.EA.51300-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001093.xml">[51,300.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>criminal proceedings <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S141" remotekey1="REFPTID" service="DOC-ID" filename="ea10001093.xml">[51,300]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_595" subdoc="true" toc-caption="Standing"><in:entry><in:entry-text><refpt id="STANDING" type="ext"><emph typestyle="bf">Standing</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>beneficiaries, of <remotelink dpsi="05CC" refpt="UCPN.UCPR.7-10-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021063.xml">[7.10.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>representative proceedings, for <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S158" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001102.xml">[s 158]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- against multiple defendants <remotelink dpsi="05CC" refpt="UCPN.CPA.S158-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001102.xml">[s 158.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_596" subdoc="true" toc-caption="Stare decisis"><in:entry><in:entry-text><refpt id="STARE_DECISIS" type="ext"><emph typestyle="bf">Stare decisis</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>application of principles <remotelink dpsi="05CC" refpt="UCPN.PRACDEC.456130" remotekey1="REFPTID" service="DOC-ID" filename="pracdec10101000.xml">[456,130]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_597" subdoc="true" toc-caption="State of mind"><in:entry><in:entry-text><refpt id="STATE_OF_MIND" type="ext"><emph typestyle="bf">State of mind</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>first-hand hearsay about <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S66A" remotekey1="REFPTID" service="DOC-ID" filename="ea10001033.xml">[50,597]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>interrogatories as to <remotelink dpsi="05CC" refpt="UCPN.UCPR.22-1-80" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[22.1.80]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- defamation proceedings <remotelink dpsi="05CC" refpt="UCPN.UCPR.22-1-40" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[22.1.40]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>particulars <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-4" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021159.xml">[r 15.4]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.15-4-2" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021159.xml">[15.4.2]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- good faith <remotelink dpsi="05CC" refpt="UCPN.UCPR.15-4-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021159.xml">[15.4.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- intention and belief <remotelink dpsi="05CC" refpt="UCPN.UCPR.15-4-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021159.xml">[15.4.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- knowledge <remotelink dpsi="05CC" refpt="UCPN.UCPR.15-4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021159.xml">[15.4.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- malice <remotelink dpsi="05CC" refpt="UCPN.UCPR.15-4-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021159.xml">[15.4.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- notice and imputed knowledge <remotelink dpsi="05CC" refpt="UCPN.UCPR.15-4-25" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021159.xml">[15.4.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_598" subdoc="true" toc-caption="Stated case"><in:entry><in:entry-text><refpt id="STATED_CASE" type="ext"><emph typestyle="bf">Stated case</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>deferred questions of law, and <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-34-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021054.xml">[6.34.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S19" remotekey1="REFPTID" service="DOC-ID" filename="sc10001012.xml">[SCA s 19]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>relevant statutory provisions <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-34-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021054.xml">[6.34.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>use of <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-34-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021054.xml">[6.34.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_599" subdoc="true" toc-caption="Statement of claim"><in:entry><in:entry-text><refpt id="STATEMENT_OF_CLAIM" type="ext"><emph typestyle="bf">Statement of claim</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text /></in:entry><see-also><emph typestyle="it">see also</emph>  <remotelink dpsi="05CB" refpt="ORIGINATING_PROCESS" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2100.xml">Originating process</remotelink></see-also></in:lev2>
+
+<in:lev2><in:entry><in:entry-text>aggravated and exemplary damages <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-12-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[6.12.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>amendment <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R19-1" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021180.xml">[r 19.1]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.LCPG.26050" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10121000.xml">[26,050]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text /></in:entry><see-also><emph typestyle="it">see also</emph>  <remotelink dpsi="05CB" refpt="AMENDMENT" remotekey1="REFPTID" service="DOC-ID" filename="ucpn640.xml">Amendment</remotelink></see-also></in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- addition of parties <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R19-2" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021180.xml">[r 19.2]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- cross-claim <remotelink dpsi="05CC" refpt="UCPN.UCPR.9-1-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021090.xml">[9.1.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- multiple <remotelink dpsi="05CC" refpt="UCPN.LCPG.26005" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10121000.xml">[26,005]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- removal of parties <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R19-2" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021180.xml">[r 19.2]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- time for <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R19-1" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021180.xml">[r 19.1]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.LCPG.26030-10" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10121000.xml">[26,030.10]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.LCPG.26050" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10121000.xml">[26,050]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>commercial arbitration <remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S23" remotekey1="REFPTID" service="DOC-ID" filename="ol10101030.xml">[276,510]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>District Court registry practice <remotelink dpsi="05CC" refpt="UCPN.DC.PT2.R4-5" remotekey1="REFPTID" service="DOC-ID" filename="dc10021003.xml">[DCR Pt 2 r 4.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>formal requirements <remotelink dpsi="05CC" refpt="UCPN.LCPG.26030-10" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10121000.xml">[26,030.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>forms <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-1-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021033.xml">[6.1.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-2-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021036.xml">[6.2.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- Form 3A - filing party legally represented <remotelink dpsi="05CC" refpt="UCPN.UCPF.451040" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10041006.xml">[451,040]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- Form 3B - filing party acting in person or authorised officer <remotelink dpsi="05CC" refpt="UCPN.UCPF.451060" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10041009.xml">[451,060]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>Land and Environment Court <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-12" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[r 6.12]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-12-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[6.12.15]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>notice to defendant in <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-13" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[r 6.13]</remotelink></in:entry-text></in:entry>
+
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>proceedings to be commenced by <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-3" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021036.xml">[r 6.3]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- approved forms <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-1-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021033.xml">[6.1.5]</remotelink>, [451,030], <remotelink dpsi="05CC" refpt="UCPN.UCPF.451060" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10041009.xml">[451,060]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- filing <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-1" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021033.xml">[r 6.1]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>proceedings wrongly commenced by <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-6" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021036.xml">[r 6.6]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>relief claimed, statement of <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-12" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[r 6.12]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-12-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[6.12.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>service in debt claims, extension of time for <remotelink dpsi="05CC" refpt="UCPN.PN.DC14" remotekey1="REFPTID" service="DOC-ID" filename="pracnote11101000.xml">[DC (Civil) 14]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>short form statement of claim in Possession list <remotelink dpsi="05CC" refpt="UCPN.UCPR.45-4-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021381.xml">[45.4.10]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.PN.SCCL.PN6" remotekey1="REFPTID" service="DOC-ID" filename="pracnote10501000.xml">[SC CL 6]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_600" subdoc="true" toc-caption="Statement of issues"><in:entry><in:entry-text><refpt id="STATEMENT_OF_ISSUES" type="ext"><emph typestyle="bf">Statement of issues</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>court order for, where trial without further pleadings <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-2" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021144.xml">[r 14.2]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>Form 12 <remotelink dpsi="05CC" refpt="UCPN.UCPF.451280" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10041042.xml">[451,280]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_601" subdoc="true" toc-caption="Statutory authority defence"><in:entry><in:entry-text><refpt id="STATUTORY_AUTHORITY_DEFENCE" type="ext"><emph typestyle="bf">Statutory authority defence</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>specific pleading <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-14-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021147.xml">[14.14.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_602" subdoc="true" toc-caption="Statutory declaration"><in:entry><in:entry-text><refpt id="STATUTORY_DECLARATION" type="ext"><emph typestyle="bf">Statutory declaration</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>administration of <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S18" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,115]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>before whom may be taken <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S26" remotekey1="REFPTID" service="DOC-ID" filename="ol10601009.xml">[395,200]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>blind person <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S24A" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,153]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>deed, verifying <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S22" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,140]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>deponent unable to read <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S24A" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,153]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>false declaration <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S25" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,155]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- material benefit, for <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S25A" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,160]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>fees for taking <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S23" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,145]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>form <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S24" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,150]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.SCH6" remotekey1="REFPTID" service="DOC-ID" filename="ol10601015.xml">[395,300]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.SCH8" remotekey1="REFPTID" service="DOC-ID" filename="ol10601021.xml">[395,320]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.SCH9" remotekey1="REFPTID" service="DOC-ID" filename="ol10601024.xml">[395,330]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>identification of person making <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S34" remotekey1="REFPTID" service="DOC-ID" filename="ol10601012.xml">[395,250]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>illiterate person <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S24A" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,153]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>notification in gazette <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S16" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,105]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>oath, in lieu of <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S13" remotekey1="REFPTID" service="DOC-ID" filename="ol10601003.xml">[395,055]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S15" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,100]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- affidavits, swearing <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S32" remotekey1="REFPTID" service="DOC-ID" filename="ol10601009.xml">[395,240]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- cases not specifically provided for <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S21" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,130]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- excluded oaths <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S19" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,120]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- oath not to be taken after <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S17" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,110]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>receiving without authority, penalty <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S21A" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,135]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>taking without authority, penalty <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S21A" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,135]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>will, verifying <remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S22" remotekey1="REFPTID" service="DOC-ID" filename="ol10601006.xml">[395,140]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_603" subdoc="true" toc-caption="Statutory demand"><in:entry><in:entry-text><refpt id="STATUTORY_DEMAND" type="ext"><emph typestyle="bf">Statutory demand</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>affidavit accompanying <remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80A.R15" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A r 15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.80A-15-1" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A.15.1]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D5.R2" remotekey1="REFPTID" service="DOC-ID" filename="sc10041012.xml">[15,345]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15345-5" remotekey1="REFPTID" service="DOC-ID" filename="sc10041012.xml">[15,345.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- contents of <remotelink dpsi="05CC" refpt="UCPN.SC.15345-5" remotekey1="REFPTID" service="DOC-ID" filename="sc10041012.xml">[15,345.5]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>defective or unreliable debt information, setting aside for <remotelink dpsi="05CC" refpt="UCPN.SC.15345-5" remotekey1="REFPTID" service="DOC-ID" filename="sc10041012.xml">[15,345.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- Form 7 <remotelink dpsi="05CC" refpt="UCPN.SC.15345-5" remotekey1="REFPTID" service="DOC-ID" filename="sc10041012.xml">[15,345.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.F7" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10101018.xml">[455,040]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- Form 154FA <remotelink dpsi="05CC" refpt="UCPN.UCPF.454765" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10061123.xml">[454,765]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>appeals <remotelink dpsi="05CC" refpt="UCPN.SC.15115-60" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.60]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>application for order to set aside <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R4A" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-5" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-15" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.15]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- amendment <remotelink dpsi="05CC" refpt="UCPN.SC.15115-20" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>conditional order <remotelink dpsi="05CC" refpt="UCPN.SC.80A-18-1" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A.18.1]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>costs <remotelink dpsi="05CC" refpt="UCPN.SC.15115-65" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.65]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>debt</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- affidavit verifying <remotelink dpsi="05CC" refpt="UCPN.UCPF.454770" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10061126.xml">[454,770]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- appeal, subject to <remotelink dpsi="05CC" refpt="UCPN.SC.15115-45" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.45]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- due and payable <remotelink dpsi="05CC" refpt="UCPN.SC.15345-5" remotekey1="REFPTID" service="DOC-ID" filename="sc10041012.xml">[15,345.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- existence or enforceability, disputes as to <remotelink dpsi="05CC" refpt="UCPN.SC.15115-45" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.45]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- presently due and payable <remotelink dpsi="05CC" refpt="UCPN.SC.80A-18-1" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A.18.1]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-10" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- stay of enforcement, subject to <remotelink dpsi="05CC" refpt="UCPN.SC.15115-12" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.12]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- stayed judgment, subject to <remotelink dpsi="05CC" refpt="UCPN.SC.15115-13" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.13]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- verification of <remotelink dpsi="05CC" refpt="UCPN.UCPF.454770" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10061126.xml">[454,770]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>defective demand <remotelink dpsi="05CC" refpt="UCPN.SC.80A-18-1" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A.18.1]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-30" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.30]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- types of defect <remotelink dpsi="05CC" refpt="UCPN.SC.15115-35" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>failure to comply, affidavit supporting application <remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80A.R16" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A r 16]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.80A-16-1" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A.16.1]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>genuine dispute <remotelink dpsi="05CC" refpt="UCPN.SC.80A-18-1" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A.18.1]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-45" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.45]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-65" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.65]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- assessment <remotelink dpsi="05CC" refpt="UCPN.SC.15115-45" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.45]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>grounds of dispute <remotelink dpsi="05CC" refpt="UCPN.SC.15115-25" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.25]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>offsetting claim <remotelink dpsi="05CC" refpt="UCPN.SC.15115-50" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.50]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-53" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.53]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>opposing application <remotelink dpsi="05CC" refpt="UCPN.SC.80A-18-1" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A.18.1]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>orders <remotelink dpsi="05CC" refpt="UCPN.SC.15115-55" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.55]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- appeals <remotelink dpsi="05CC" refpt="UCPN.SC.15115-60" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.60]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>overview <remotelink dpsi="05CC" refpt="UCPN.SC.15115-5" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+
+
+<in:lev2><in:entry><in:entry-text>setting aside <remotelink dpsi="05CC" refpt="UCPN.SC.80A-18-1" remotekey1="REFPTID" service="DOC-ID" filename="sc10021258.xml">[SCR Pt 80A.18.1]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-53" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.53]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15345-5" remotekey1="REFPTID" service="DOC-ID" filename="sc10041012.xml">[15,345.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- applications for order for <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R4A" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15130-10" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,130.10]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>affidavit accompanying <remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R4A" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-25" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.25]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>filing of <remotelink dpsi="05CC" refpt="UCPN.SC.15130-10" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,130.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>service of <remotelink dpsi="05CC" refpt="UCPN.SC.15130-10" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,130.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>time for <remotelink dpsi="05CC" refpt="UCPN.SC.15130-10" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,130.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>substantial injustice <remotelink dpsi="05CC" refpt="UCPN.SC.15115-40" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.40]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.15115-53" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.53]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- additional ground, where <remotelink dpsi="05CC" refpt="UCPN.SC.15115-25" remotekey1="REFPTID" service="DOC-ID" filename="sc10041003.xml">[15,115.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_604" subdoc="true" toc-caption="Statutory interpretation "><in:entry><in:entry-text><refpt id="STATUTORY_INTERPRETATION" type="ext"><emph typestyle="bf">Statutory interpretation </emph></refpt></in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="INTERPRETATION_OF_LEGISLATION" remotekey1="REFPTID" service="DOC-ID" filename="ucpn1660.xml">Interpretation of legislation</remotelink></see></in:lev1>
+
+<in:lev1 id="UCPN_IND_605" subdoc="true" toc-caption="Stay of execution"><in:entry><in:entry-text><refpt id="STAY_OF_EXECUTION" type="ext"><emph typestyle="bf">Stay of execution</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>appeal, pending <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.15]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- Supreme Court jurisdiction <remotelink dpsi="05CC" refpt="UCPN.SC.SCAS23-20" remotekey1="REFPTID" service="DOC-ID" filename="sc10001015.xml">[SCA s 23.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>cross-claim outstanding <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.9-10-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021090.xml">[9.10.20]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- bill of exchange or cheque, claim based on <remotelink dpsi="05CC" refpt="UCPN.UCPR.9-10-25" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021090.xml">[9.10.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- mortgagee's claim, based on <remotelink dpsi="05CC" refpt="UCPN.UCPR.9-10-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021090.xml">[9.10.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- summary judgment <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R13-2" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[r 13.2]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.13-2-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[13.2.5]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>third party, claim against <remotelink dpsi="05CC" refpt="UCPN.UCPR.13-2-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[13.2.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>District Court</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- reference to in Act <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S4" remotekey1="REFPTID" service="DOC-ID" filename="dc10001000.xml">[DCA s 4]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>effect <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-10" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>instalment order, pending application for <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R37-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021306.xml">[r 37.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>issue of execution after expiry <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-10" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>power of court <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S135" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>set-off claimed <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>terms, on <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>when appropriate <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.15]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>writ for possession of land <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-8" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.8]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>writ of levy of property <remotelink dpsi="05CC" refpt="UCPN.CPA.S135-7" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001084.xml">[s 135.7]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_606" subdoc="true" toc-caption="Stay of proceedings"><in:entry><in:entry-text><refpt id="STAY_OF_PROCEEDINGS" type="ext"><emph typestyle="bf">Stay of proceedings</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>abuse of process <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>admiralty proceedings, security <remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S29" remotekey1="REFPTID" service="DOC-ID" filename="ol10001009.xml">[250,180]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>appeal, pending <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R50-7" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021435.xml">[r 50.7]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.PRACDEC.456125" remotekey1="REFPTID" service="DOC-ID" filename="pracdec10081000.xml">[456,125]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- Court of Appeal, to </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="APPEAL_TO_COURT_OF_APPEAL" remotekey1="REFPTID" service="DOC-ID" filename="ucpn680.xml">Appeal to Court of Appeal</remotelink></see></in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- District Court, from <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S128" remotekey1="REFPTID" service="DOC-ID" filename="dc10001087.xml">[DCA s 128]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.DC.DCAS128-20" remotekey1="REFPTID" service="DOC-ID" filename="dc10001087.xml">[DCA s 128.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S142O" remotekey1="REFPTID" service="DOC-ID" filename="dc10001111.xml">[DCA s 142O]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>appropriate forum, determining <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-30" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.30]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- clearly inappropriate forum <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-55" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.55]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- inconvenient local forum <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-50" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.50]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>arbitration agreement, commenced by party to <remotelink dpsi="05CC" refpt="UCPN.OL.CARB.S53" remotekey1="REFPTID" service="DOC-ID" filename="ol10081015.xml">[275,445]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.275445-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10081015.xml">[275,445.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- dispute affecting validity of agreement <remotelink dpsi="05CC" refpt="UCPN.OL.275445-15" remotekey1="REFPTID" service="DOC-ID" filename="ol10081015.xml">[275,445.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- expert determination, dispute referred for <remotelink dpsi="05CC" refpt="UCPN.OL.275445-20" remotekey1="REFPTID" service="DOC-ID" filename="ol10081015.xml">[275,445.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>compliance with directions, means of securing <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>concurrent civil and criminal proceedings <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-25" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.25]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>contractual agreement as to forum <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-30" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.30]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>costs unpaid</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- earlier dismissed proceedings <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-35" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- interlocutory costs <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-40" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.40]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>court's powers to control misuse of its procedure <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>criminal proceedings <remotelink dpsi="05CC" refpt="UCPN.CPA.SS67-45" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.45]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>disciplinary tribunals</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- appeal against refusal <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- undue delay <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>District Court <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S156" remotekey1="REFPTID" service="DOC-ID" filename="dc10001123.xml">[DCA s 156]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.DC.DCAS156-5" remotekey1="REFPTID" service="DOC-ID" filename="dc10001123.xml">[DCA s 156.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- appeal, pending <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S128" remotekey1="REFPTID" service="DOC-ID" filename="dc10001087.xml">[DCA s 128]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.DC.DCAS128-20" remotekey1="REFPTID" service="DOC-ID" filename="dc10001087.xml">[DCA s 128.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S142O" remotekey1="REFPTID" service="DOC-ID" filename="dc10001111.xml">[DCA s 142O]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- concurrent proceedings <remotelink dpsi="05CC" refpt="UCPN.DC.DCAS156-30" remotekey1="REFPTID" service="DOC-ID" filename="dc10001123.xml">[DCA s 156.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- contempt proceedings <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S202" remotekey1="REFPTID" service="DOC-ID" filename="dc10001147.xml">[DCA s 202]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+
+
+<in:lev3><in:entry><in:entry-text>- general power <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S156" remotekey1="REFPTID" service="DOC-ID" filename="dc10001123.xml">[DCA s 156]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- implied and incidental power <remotelink dpsi="05CC" refpt="UCPN.DC.DCAS156-12" remotekey1="REFPTID" service="DOC-ID" filename="dc10001123.xml">[DCA s 156.12]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- provisions providing for <remotelink dpsi="05CC" refpt="UCPN.DC.DCAS156-10" remotekey1="REFPTID" service="DOC-ID" filename="dc10001123.xml">[DCA s 156.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- reference to in Act <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S4" remotekey1="REFPTID" service="DOC-ID" filename="dc10001000.xml">[DCA s 4]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>foreign and local proceedings</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- appropriate forum, determining <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-30" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- clearly inappropriate forum <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-55" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.55]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- concurrent proceedings <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-60" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.60]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- inconvenient local forum <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-50" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.50]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- restraining foreign proceedings <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-70" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.70]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>incidental power <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- cases <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- wide scope of <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>inconvenient local forum <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-50" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.50]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>inherent jurisdiction <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>injustice, preventing <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- criminal proceedings <remotelink dpsi="05CC" refpt="UCPN.CPA.SS67-45" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.45]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>interrogatories, failure to answer <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R22-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[r 22.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.22-5-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[22.5.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- form of order <remotelink dpsi="05CC" refpt="UCPN.UCPR.22-5-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[22.5.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>limited <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-10" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>Local Court <remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S64" remotekey1="REFPTID" service="DOC-ID" filename="lc10041042.xml">[LCA07 s 64]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>payment towards liquidated claim <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-17" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[r 6.17]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-17-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[6.17.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-17-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[6.17.10]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- approved form <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-17-2" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[6.17.2]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>Form 34 <remotelink dpsi="05CC" refpt="UCPN.UCPF.451720" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10041108.xml">[451,720]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>permanent <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-10" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>power under CPA <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S67" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- nature and extent <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>removal of stay <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-65" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001039.xml">[s 67.65]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-17-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021042.xml">[6.17.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>Service and Execution of Process Act 1992 (Cth), under <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S20" remotekey1="REFPTID" service="DOC-ID" filename="ol10661003.xml">[415,135]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- application <remotelink dpsi="05CC" refpt="UCPN.OL.415135-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10661003.xml">[415,135.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- enforcement proceedings <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S106" remotekey1="REFPTID" service="DOC-ID" filename="ol10661048.xml">[415,910]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>conditions <remotelink dpsi="05CC" refpt="UCPN.OL.415910-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10661048.xml">[415,910.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- forum non-conveniens <remotelink dpsi="05CC" refpt="UCPN.OL.415135-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10661003.xml">[415,135.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- jurisdiction clause, effect <remotelink dpsi="05CC" refpt="UCPN.OL.415135-10" remotekey1="REFPTID" service="DOC-ID" filename="ol10661003.xml">[415,135.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>Supreme Court</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- equity, matters of <remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S61" remotekey1="REFPTID" service="DOC-ID" filename="sc10001042.xml">[SCA s 61]</remotelink>- [SCA s 61.20]</in:entry-text></in:entry>
+</in:lev3>
+
+
+
+<in:lev3><in:entry><in:entry-text>- jurisdiction <remotelink dpsi="05CC" refpt="UCPN.SC.SCAS23-20" remotekey1="REFPTID" service="DOC-ID" filename="sc10001015.xml">[SCA s 23.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- one division, by, where proceedings pending in another <remotelink dpsi="05CC" refpt="UCPN.SC.SCAS61-10" remotekey1="REFPTID" service="DOC-ID" filename="sc10001042.xml">[SCA s 61.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>transferred proceedings <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S142" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001087.xml">[s 142]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_607" subdoc="true" toc-caption="Strata Schemes Management Act 1996"><in:entry><in:entry-text><refpt id="STRATA_SCHEMES_MANAGEMENT_ACT_1996" type="ext"><emph typestyle="bf">Strata Schemes Management Act 1996</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>claims for recovery of costs, expenses and interest under s 80 <remotelink dpsi="05CC" refpt="UCPN.LCPG.22010-95" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10061000.xml">[22,010.95]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.LCPG.22010-120" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10061000.xml">[22,010.120]</remotelink>, [23,535]</in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>levy of contributions <remotelink dpsi="05CC" refpt="UCPN.OL.SSMN96.S80" remotekey1="REFPTID" service="DOC-ID" filename="ol10701000.xml">[423,000]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- expenses, definition <remotelink dpsi="05CC" refpt="UCPN.OL.SSMN96.423000-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10701000.xml">[423,000.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>spending restrictions <remotelink dpsi="05CC" refpt="UCPN.OL.SSMN96.S80D" remotekey1="REFPTID" service="DOC-ID" filename="ol10701003.xml">[423,020]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- legal action, approval by general meeting for <remotelink dpsi="05CC" refpt="UCPN.OL.SSMN96.S80D" remotekey1="REFPTID" service="DOC-ID" filename="ol10701003.xml">[423,020]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.SSMN96.423020-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10701003.xml">[423,020.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_608" subdoc="true" toc-caption="Striking out"><in:entry><in:entry-text><refpt id="STRIKING_OUT" type="ext"><emph typestyle="bf">Striking out</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>defence</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- interrogatories, failure to answer <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R22-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[r 22.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.22-5-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[22.5.5]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>form of order <remotelink dpsi="05CC" refpt="UCPN.UCPR.22-5-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021210.xml">[22.5.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- want of due despatch <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R12-7" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021132.xml">[r 12.7]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>prejudice to party complaining <remotelink dpsi="05CC" refpt="UCPN.UCPR.12-7-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021132.xml">[12.7.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>prejudice to party responsible <remotelink dpsi="05CC" refpt="UCPN.UCPR.12-7-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021132.xml">[12.7.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>frivolous matter <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[r 4.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.10]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- who may apply <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>irrelevant material <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[r 4.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.20]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- who may apply <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>oppressive matter <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[r 4.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-25" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.25]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- who may apply <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>originating process <remotelink dpsi="05CC" refpt="UCPN.LCPG.26035-15" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10121000.xml">[26,035.15]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>pleadings <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-28" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[r 14.28]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- abuse of process <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-28" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[r 14.28]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-17" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.17]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>concept of <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>improper termination of proceedings <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-12" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.12]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>proceedings for improper purpose <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>res judicata <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.15]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- Anshun estoppel <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- curable defects <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-25" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- evidence <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- examples <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- improper purpose <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- issue estoppel <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-17" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.17]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- no reasonable cause of action <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-28" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[r 14.28]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>factual allegations <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-40" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.40]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>questions of law <remotelink dpsi="05CC" refpt="UCPN.UCPR.14-28-45" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[14.28.45]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- no reasonable defence <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-28" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[r 14.28]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- prejudice, embarrassment or delay <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-28" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021153.xml">[r 14.28]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>proceedings</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- inherent jurisdiction <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-15" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- scope of incidental power to stay <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- Supreme Court jurisdiction <remotelink dpsi="05CC" refpt="UCPN.SC.SCAS23-20" remotekey1="REFPTID" service="DOC-ID" filename="sc10001015.xml">[SCA s 23.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>scandalous matter <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[r 4.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- who may apply <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>Supreme Court jurisdiction <remotelink dpsi="05CC" refpt="UCPN.SC.SCAS23-20" remotekey1="REFPTID" service="DOC-ID" filename="sc10001015.xml">[SCA s 23.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>vexatious matter <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[r 4.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.15]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text /></in:entry><see-also><emph typestyle="it">see also</emph>  <remotelink dpsi="05CB" refpt="VEXATIOUS_LITIGANT" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious litigant</remotelink>; <remotelink dpsi="05CB" refpt="VEXATIOUS_PROCEEDINGS" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious proceedings</remotelink>; <remotelink dpsi="05CB" refpt="VEXATIOUS_PROCEEDINGS_ACT_2008" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2800.xml">Vexatious Proceedings Act 2008</remotelink></see-also></in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- powers of court <remotelink dpsi="05CC" refpt="UCPN.CPA.S67-20" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001036.xml">[s 67.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R13-4" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021138.xml">[r 13.4]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- who may apply <remotelink dpsi="05CC" refpt="UCPN.UCPR.4-15-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021027.xml">[4.15.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

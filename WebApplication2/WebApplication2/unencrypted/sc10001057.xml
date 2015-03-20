@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 2 TRIAL [ss 85&#x2013;90]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCA70.PT6.D2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT ACT 1970</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 6  PROCEDURE [ss 77&#x2013;97]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 2 TRIAL [ss 85&#x2013;90]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70000190</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCA70"/><docinfo:metaitem name="parent-filename" value="sc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 50, 1970</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT ACT 1970</leg:officialname></leg:info><leg:level id="UCPN.SC.SCA70.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.SC.SCA70.PT6"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 6  PROCEDURE [ss 77&#x2013;97]"><leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.PT6.D2"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 2 TRIAL [ss 85&#x2013;90]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCA70.PT6.D2" type="ext"/>DIVISION 2</designum></desig><title searchtype="DIV-TITLE">TRIAL [ss 85&#x2013;90]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S85"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 85] s 85 Trial without jury unless jury required in interests of justice">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S85" type="ext"/>[SCA s 85]</edpnum><title searchtype="SECT-TITLE">Trial without jury unless jury required in interests of justice</title><desig searchtype="SECT-NUM"><designum>85</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S85.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S85.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings in any Division are to be tried without a jury, unless the Court orders otherwise.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S85.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S85.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may make an order under subsection (1) that proceedings are to be tried with a jury if:</text></p>
+<l><li id="UCPN.SC.SCA70.S85.2.A"><lilabel><refpt id="UCPN.SC.SCA70.S85.2.A" type="ext"/>(a)</lilabel>
+<p><text>any party to the proceedings:</text></p>
+<l><li id="UCPN.SC.SCA70.S85.2.A.I"><lilabel><refpt id="UCPN.SC.SCA70.S85.2.A.I" type="ext"/>(i)</lilabel>
+<p><text>files a requisition for trial with a jury; and</text></p>
+</li><li id="UCPN.SC.SCA70.S85.2.A.II"><lilabel><refpt id="UCPN.SC.SCA70.S85.2.A.II" type="ext"/>(ii)</lilabel>
+<p><text>pays the fee prescribed by the regulations made under section 18 of the Civil Procedure Act 2005; and</text></p>
+</li></l></li>
+<li id="UCPN.SC.SCA70.S85.2.B"><lilabel><refpt id="UCPN.SC.SCA70.S85.2.B" type="ext"/>(b)</lilabel>
+<p><text>the Court is satisfied that the interests of justice require a trial by jury in the proceedings.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act No 28 of 2005  Sch 5, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S85.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S85.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The rules may prescribe the time within which a requisition must be filed for the purposes of subsection (2)(a).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S85.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S85.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A fee paid under this section is to be treated as costs in the proceedings, unless the Court orders otherwise.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S85.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S85.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings in which the Court has ordered a trial by jury, the following questions of fact must be tried without the jury:</text></p>
+<l><li id="UCPN.SC.SCA70.S85.5.A"><lilabel><refpt id="UCPN.SC.SCA70.S85.5.A" type="ext"/>(a)</lilabel>
+<p><text>questions of fact on a defence arising under section 63(5) or 64(1)(c) of the Workers&#x2019; Compensation Act 1926 or section 151Z(1)(e) of the Workers Compensation Act 1987;</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S85.5.B"><lilabel><refpt id="UCPN.SC.SCA70.S85.5.B" type="ext"/>(b)</lilabel>
+<p><text>any other question of fact ordered by the Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S85.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S85.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not apply to proceedings in any Division for defamation.</text></p>
+<p><glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>Section 21 of the Defamation Act 2005 makes provision for jury trials in defamation proceedings.</text></p></glp:note></p><leg:histnote>
+<p><text>[subs (6)  insrt Act 77 of 2005  s 48 and Sch 6, effective 1 January 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 85  subst Act 124 of 2001  s 1 and Sch 2]</text></p></leg:histnote><glp:note>
+<h>Editor's note:</h>
+<p>
+<text><emph typestyle="bf">All legislation relevant prior to 18 January 2002 appears below:</emph></text></p>
+<blockquote><legfragment>
+<leg:level>
+<leg:level-vrnt leveltype="sect">
+<leg:heading inline="true"><title>Generally</title><desig><designum>85</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level>
+<leg:level-vrnt leveltype="subsect">
+<leg:heading inline="true"><desig><designum>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S86" remotekey1="REFPTID" service="DOC-ID">sections 86</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S87" remotekey1="REFPTID" service="DOC-ID">87</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S88" remotekey1="REFPTID" service="DOC-ID">88</remotelink></ci:content></ci:cite>
+, proceedings in any Division shall be tried without a jury, unless the Court otherwise orders.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subsect">
+<leg:heading inline="true"><desig><designum>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may order that any questions of fact in any proceedings be tried before any other questions of fact in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subsect">
+<leg:heading inline="true"><desig><designum>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Court makes an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S85.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S87.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 87(1)</remotelink></ci:content></ci:cite>
+, or where proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S88" remotekey1="REFPTID" service="DOC-ID">section 88</remotelink></ci:content></ci:cite>
+ are set down for trial, the plaintiff shall pay the fee prescribed for the purpose of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S86.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 86(1)</remotelink></ci:content></ci:cite>
+ and shall not be entitled to take any further step in the proceedings until the fee is paid.</text></p><leg:histnote>
+<p><text>[subs (3)  insrt Act 18 of 1977  s 78(3) and Sch 7]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subsect">
+<leg:heading inline="true"><desig><designum>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The fee paid under this section or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S86.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 86(1)</remotelink></ci:content></ci:cite>
+ shall be treated as costs in the proceedings, unless the Court otherwise orders.</text></p><leg:histnote>
+<p><text>[subs (4)  insrt Act 18 of 1977  s 78(3) and Sch 7]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</legfragment></blockquote>
+</glp:note>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S85.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS85-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 85.5] Discretion to order trial by jury">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 85.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 86, s 89.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 29.1(6).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS85-5" type="ext"/>[SCA s 85.5] </edpnum><title>Discretion to order trial by jury</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The section permits a discretionary order for trial by jury in any proceedings, other than defamation proceedings involving issues of fact. Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S86" remotekey1="REFPTID" service="DOC-ID">s 86</remotelink></ci:content></ci:cite>
+ there is a &#x201c;reverse&#x201d; discretion to dispense with trial by jury in defamation cases. (The section reflects the wider discretion which applied under the repealed 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S89" remotekey1="REFPTID" service="DOC-ID">s 89</remotelink></ci:content></ci:cite>
+, to a wider class of common law proceedings.) In the exercise of that discretion the normal incidents of jury trial (for example, lengthened hearing time, consequential cost, and potential disruption of the court lists) are impermissible considerations, and the discretion is to be exercised having regard to the circumstances of the particular case: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr001569" spanref="cr001569-001"><ci:reporter value="NSWLR"/><ci:volume num="14"/><ci:page num="387"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pambula District Hospital v Herriman</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001569-001">(1988) 14 NSWLR 387</ci:span></citefragment> <remotelink dpsi="0018" refpt="81759" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The &#x201c;interests of justice&#x201d; criterion for the exercise of the discretion conferred by the present rule is probably also intended to focus on the circumstances of the particular case, so as to preclude any generally perceived disadvantages of jury trial from being determinative considerations. However, while those considerations may not be determinative, they may have practical implications for the parties: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001570" spanref="cr001570-001"><ci:reporter value="urj"/><ci:refnum num="BC200305951"/></ci:caseref><ci:caseref anaphref="cr001570" spanref="cr001570-002"><ci:pinpoint num="26" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Stankowski v Commonwealth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 923; <ci:span spanid="cr001570-001"> BC200305951</ci:span> <ci:span spanid="cr001570-002">at [26]</ci:span></citefragment> <remotelink dpsi="0018" refpt="369817" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; and for that reason, become relevant considerations in the exercise of the discretion: see by way of analogy <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr001571" spanref="cr001571-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="178"/><ci:page num="14"/></ci:caseref><ci:caseref ID="cr001572" spanref="cr001572-002"><ci:reporter value="ALR"/><ci:volume num="112"/><ci:page num="378"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Patton v Buchanan Borehole Collieries Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001571-001" status="unval">(1993) 178 CLR 14</ci:span>; <ci:span spanid="cr001572-002">112 ALR 378</ci:span></citefragment> <remotelink dpsi="0018" refpt="43059" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The power to order trial by jury probably does not preclude a subsequent order being made discharging the jury, and permitting the continuation of the proceedings before a judge alone.</text></p>
+<p>
+<text>For a discussion of the case law and statutory application of the meaning and application of &#x201c;interests of justice&#x201d; criterion see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001573" spanref="cr001573-001"><ci:reporter value="urj"/><ci:refnum num="BC200701510"/></ci:caseref><ci:caseref anaphref="cr001573" spanref="cr001573-002"><ci:pinpoint num="10" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Maroubra Rugby League Football Club Inc v Malo</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 39; <ci:span spanid="cr001573-001"> BC200701510</ci:span> <ci:span spanid="cr001573-002">at [10]ff</ci:span></citefragment> <remotelink dpsi="0018" refpt="434016" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Mason P (personal injury in amateur sport &#x2014; application for jury trial refused). Discussed also are <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2002"/></ci:caseinfo><ci:caseref ID="cr001574" spanref="cr001574-001" status="unval"><ci:reporter value="ATPR"/><ci:page num="41-866"/></ci:caseref><ci:caseref ID="cr001575" spanref="cr001575-002"><ci:reporter value="urj"/><ci:refnum num="BC200201015"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Stalyce Holdings (Australia) Pty Ltd v Cetec Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001574-001" status="unval">(2002) ATPR ¶41-866</ci:span>; [2002] FCA 278; <ci:span spanid="cr001575-002"> BC200201015</ci:span></citefragment> <remotelink dpsi="0018" refpt="343232" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application to transfer proceedings including defamation claim from Federal Court to NSW Supreme Court on the basis that a jury trial was more readily available &#x2014; application refused); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001576" spanref="cr001576-001"><ci:reporter value="urj"/><ci:refnum num="BC200504120"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Muir v Council for Trinity Grammar School</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 555; <ci:span spanid="cr001576-001"> BC200504120</ci:span></citefragment> <remotelink dpsi="0018" refpt="399684" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (Hall J) (negligence claim &#x2014; application for jury trial refused); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr001577" spanref="cr001577-001" status="unval"><ci:reporter value="NSWConvR"/><ci:page num="56-173"/></ci:caseref><ci:caseref ID="cr001578" spanref="cr001578-002"><ci:reporter value="urj"/><ci:refnum num="BC200611294"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cross v Theiss Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001577-001" status="unval">(2007) NSW ConvR ¶56-173</ci:span>; [2006] NSWSC 1465; <ci:span spanid="cr001578-002"> BC200611294</ci:span></citefragment> <remotelink dpsi="0018" refpt="433177" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (Adams J) (industrial accident resulting in personal injuries &#x2014; jury trial ordered).</text></p>
+<p>
+<text>There has been some debate about whether the power in s 85(2) is in the nature of a discretion or a duty to act if the conditions in subs (2) are satisfied: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1971"/></ci:caseinfo><ci:caseref ID="cr001579" spanref="cr001579-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="127"/><ci:page num="106"/></ci:caseref><ci:caseref ID="cr001580" spanref="cr001580-002" status="unval"><ci:reporter value="ALJR"/><ci:volume num="45"/><ci:page num="615"/></ci:caseref><ci:caseref ID="cr001581" spanref="cr001581-003"><ci:reporter value="urj"/><ci:refnum num="BC7100680"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Finance Facilities Pty Ltd v FCT</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001579-001" status="unval">(1971) 127 CLR 106</ci:span>; <ci:span spanid="cr001580-002" status="unval">45 ALJR 615</ci:span>; <ci:span spanid="cr001581-003"> BC7100680</ci:span></citefragment> <remotelink dpsi="0018" refpt="2256" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2002"/></ci:caseinfo><ci:caseref ID="cr001582" spanref="cr001582-001" status="unval"><ci:reporter value="FLR"/><ci:volume num="209"/><ci:page num="140"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Samad v District Court of NSW</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001582-001" status="unval">(2002) 209 FLR 140</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr001583" spanref="cr001583-001"><ci:reporter value="ALR"/><ci:volume num="232"/><ci:page num="325"/></ci:caseref><ci:caseref ID="cr001584" spanref="cr001584-002" status="unval"><ci:reporter value="ALJR"/><ci:volume num="81"/><ci:page num="598"/></ci:caseref><ci:caseref ID="cr001585" spanref="cr001585-003"><ci:reporter value="urj"/><ci:refnum num="BC200700300"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Leach v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001583-001">(2007) 232 ALR 325</ci:span>; <ci:span spanid="cr001584-002" status="unval">81 ALJR 598</ci:span>; [2007] HCA 3; <ci:span spanid="cr001585-003"> BC200700300</ci:span></citefragment> <remotelink dpsi="0018" refpt="431831" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001586" spanref="cr001586-001"><ci:reporter value="urj"/><ci:refnum num="BC200701510"/></ci:caseref><ci:caseref anaphref="cr001586" spanref="cr001586-002"><ci:pinpoint num="14" targettype="para"/></ci:caseref><ci:caseref anaphref="cr001586" spanref="cr001586-003"><ci:pinpoint num="40" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Maroubra Rugby League Football Club Inc v Malo</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 39; <ci:span spanid="cr001586-001"> BC200701510</ci:span> <ci:span spanid="cr001586-002">at [14],</ci:span> <ci:span spanid="cr001586-003">[40]</ci:span></citefragment> <remotelink dpsi="0018" refpt="434016" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and compare &#x201c;may&#x201d; in s 85(3) with &#x201c;must&#x201d; in s 85(5). Whatever its nature the power is only available to be exercised if the conditions in subs (2) are met (especially the condition that the court must be satisfied that the interests of justice require a trial by jury). </text></p>
+<p>
+<text>Section 85(5) means that the presence of particular complex factual issues does not necessarily preclude an order for trial by jury, because those issues can be tried without the jury: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001587" spanref="cr001587-001"><ci:reporter value="urj"/><ci:refnum num="BC200701510"/></ci:caseref><ci:caseref anaphref="cr001587" spanref="cr001587-002"><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Maroubra Rugby League Football Club Inc v Malo</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 39; <ci:span spanid="cr001587-001"> BC200701510</ci:span> <ci:span spanid="cr001587-002">at [15]</ci:span></citefragment> <remotelink dpsi="0018" refpt="434016" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>See 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R29-1.6" remotekey1="REFPTID" service="DOC-ID" status="unval">r 29.1(6)</remotelink></ci:content></ci:cite>
+ of the UCPR for the time limit refered to in s 85(3). </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S86"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 86] s 86 Common law claim &#x2014; defamation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S86" type="ext"/>[SCA s 86]</edpnum><title searchtype="SECT-TITLE">Common law claim &#x2014; defamation</title><desig searchtype="SECT-NUM"><designum>86</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 86  rep Act 77 of 2005  s 48 and Sch 6, effective 1 January 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S87"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 87] s 87 Questions of fact">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S87" type="ext"/>[SCA s 87]</edpnum><title searchtype="SECT-TITLE">Questions of fact</title><desig searchtype="SECT-NUM"><designum>87</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 87  rep Act No 28 of 2005, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S88"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 88] s 88">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S88" type="ext"/>[SCA s 88]</edpnum><desig searchtype="SECT-NUM"><designum>88</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 88  rep Act 124 of 2001  s 1 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S89"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 89] s 89">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S89" type="ext"/>[SCA s 89]</edpnum><desig searchtype="SECT-NUM"><designum>89</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 89  rep Act 124 of 2001  s 1 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S90"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 90] s 90 Special verdict">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S90" type="ext"/>[SCA s 90]</edpnum><title searchtype="SECT-TITLE">Special verdict</title><desig searchtype="SECT-NUM"><designum>90</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>It shall be the duty of a jury to answer any question of fact that may be left to the jury by the presiding Judge at the trial.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S90.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS90-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 90.5] General verdicts &#x2014; the judge's role"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS90-5" type="ext"/>[SCA s 90.5] </edpnum><title>General verdicts &#x2014; the judge's role</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A jury's general verdict must be clearly stated and the trial judge has a duty to assist the jury in ensuring the verdict is unambiguous: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr001588" spanref="cr001588-001"><ci:reporter value="NSWLR"/><ci:volume num="11"/><ci:page num="211"/></ci:caseref><ci:caseref anaphref="cr001588" spanref="cr001588-002" status="unval"><ci:pinpoint num="236" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bromley v Tonkin</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001588-001">(1987) 11 NSWLR 211</ci:span> <ci:span spanid="cr001588-002" status="unval">at 236</ci:span></citefragment> <remotelink dpsi="0018" refpt="83322" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. This obligation may require the judge to ignore a qualification the jury places on its general verdict: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1936"/></ci:caseinfo><ci:caseref ID="cr001589" spanref="cr001589-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="56"/><ci:page num="580"/></ci:caseref><ci:caseref ID="cr001590" spanref="cr001590-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1937"/></ci:edition><ci:page num="133"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mercer v Cmr for Road Transport and Tramways</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001589-001" status="unval">(1936) 56 CLR 580</ci:span>; <ci:span spanid="cr001590-002" status="unval">[1937] ALR 133</ci:span></citefragment> <remotelink dpsi="0018" refpt="23961" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (verdict for plaintiff with a qualification that the defendant was not negligent); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001591" spanref="cr001591-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1968"/></ci:edition><ci:page num="83"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mifsud v Commonwealth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001591-001" status="unval">[1968] 2 NSWR 83</ci:span></citefragment></ci:content></ci:cite> (verdict for defendant with a qualification awarding damages to the plaintiff). It may also oblige the judge to refuse to accept a proffered verdict: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001592" spanref="cr001592-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1990"/></ci:edition><ci:page num="762"/></ci:caseref><ci:caseref anaphref="cr001592" spanref="cr001592-002" status="unval"><ci:pinpoint num="765" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gibbons v Howley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001592-001">[1990] VR 762</ci:span> <ci:span spanid="cr001592-002" status="unval">at 765</ci:span></citefragment> <remotelink dpsi="0018" refpt="19879" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; and to question the jury in order to determine the meaning the jury intended and provide them with an opportunity of amending the verdict to overcome the effect of a manifest error or mistake: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1983"/></ci:caseinfo><ci:caseref ID="cr001593" spanref="cr001593-001"><ci:reporter value="ALR"/><ci:volume num="50"/><ci:page num="519"/></ci:caseref><ci:caseref ID="cr001594" spanref="cr001594-002" status="unval"><ci:reporter value="ALJR"/><ci:volume num="57"/><ci:page num="825"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mourani v Jeldi Manufacturing Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001593-001">(1983) 50 ALR 519</ci:span>; <ci:span spanid="cr001594-002" status="unval">57 ALJR 825</ci:span></citefragment> <remotelink dpsi="0018" refpt="28572" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1926"/></ci:caseinfo><ci:caseref ID="cr001595" spanref="cr001595-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="27"/><ci:page num="15"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bradbury v NZ Loan and Mercantile Agency Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001595-001" status="unval">(1926) 27 SR (NSW) 15</ci:span></citefragment> <remotelink dpsi="0018" refpt="70917" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001596" spanref="cr001596-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1990"/></ci:edition><ci:page num="762"/></ci:caseref><ci:caseref anaphref="cr001596" spanref="cr001596-002" status="unval"><ci:pinpoint num="765" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gibbons v Howley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001596-001">[1990] VR 762</ci:span> <ci:span spanid="cr001596-002" status="unval">at 765</ci:span></citefragment> <remotelink dpsi="0018" refpt="19879" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. But once the jury's verdict is clearly expressed, the trial judge is not entitled to engage in further questioning in an attempt to determine the reasons for the verdict: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1983"/></ci:caseinfo><ci:caseref ID="cr001597" spanref="cr001597-001"><ci:reporter value="ALR"/><ci:volume num="50"/><ci:page num="519"/></ci:caseref><ci:caseref ID="cr001598" spanref="cr001598-002" status="unval"><ci:reporter value="ALJR"/><ci:volume num="57"/><ci:page num="825"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mourani v Jeldi Manufacturing Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001597-001">(1983) 50 ALR 519</ci:span>; <ci:span spanid="cr001598-002" status="unval">57 ALJR 825</ci:span></citefragment> <remotelink dpsi="0018" refpt="28572" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr001599" spanref="cr001599-001"><ci:reporter value="NSWLR"/><ci:volume num="11"/><ci:page num="211"/></ci:caseref><ci:caseref anaphref="cr001599" spanref="cr001599-002" status="unval"><ci:pinpoint num="233" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bromley v Tonkin</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001599-001">(1987) 11 NSWLR 211</ci:span> <ci:span spanid="cr001599-002" status="unval">at 233</ci:span></citefragment> <remotelink dpsi="0018" refpt="83322" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS90-10" leveltype="para0" subdoc="true" toc-caption="[SCA s 90.10] Special verdicts">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 90.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 100.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> r 29.11.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS90-10" type="ext"/>[SCA s 90.10] </edpnum><title>Special verdicts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is often desirable to have a jury provide separate answers to specific questions rather than simply return a general verdict. (The jury should also be asked to return a general verdict &#x2014; though this may be dispensed with if no objection is taken: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr001600" spanref="cr001600-001"><ci:reporter value="NSWLR"/><ci:volume num="11"/><ci:page num="211"/></ci:caseref><ci:caseref anaphref="cr001600" spanref="cr001600-002" status="unval"><ci:pinpoint num="233" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bromley v Tonkin</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001600-001">(1987) 11 NSWLR 211</ci:span> <ci:span spanid="cr001600-002" status="unval">at 233</ci:span></citefragment> <remotelink dpsi="0018" refpt="83322" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr001601" spanref="cr001601-001"><ci:reporter value="VR"/><ci:page num="748"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Anderson v Ntzounas</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001601-001">[1988] VR 748</ci:span></citefragment> <remotelink dpsi="0018" refpt="103829" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.) Such a course might be required because of the complexity of the issues involved or to facilitate the exercise of the discretion in CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S100" remotekey1="REFPTID" service="DOC-ID">s 100</remotelink></ci:content></ci:cite>
+ to award interest, for example by distinguishing between past and future loss: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001602" spanref="cr001602-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="749"/></ci:caseref><ci:caseref anaphref="cr001602" spanref="cr001602-002" status="unval"><ci:pinpoint num="761" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Morosi v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001602-001">[1977] 2 NSWLR 749</ci:span> <ci:span spanid="cr001602-002" status="unval">at 761</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr001603" spanref="cr001603-001"><ci:reporter value="NSWLR"/><ci:volume num="5"/><ci:page num="171"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Otis Elevators Pty Ltd v Zitis</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001603-001">(1986) 5 NSWLR 171</ci:span></citefragment></ci:content></ci:cite>. This section provides a specific authority for such a course. It does not entitle a judge to interrogate the jury about their reasons either for bringing in a general verdict or for the answers to a particular question: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001604" spanref="cr001604-001"><ci:reporter value="urj"/><ci:refnum num="BC200002902"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Assaf v Skalkos</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2000] NSWSC 418; <ci:span spanid="cr001604-001"> BC200002902</ci:span></citefragment> <remotelink dpsi="0018" refpt="312251" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Nor does it compel the jury to respond to any such interrogation. But subject to that prohibition, the judge is entitled, and indeed obliged, to ensure that the answers the jury gives are clearly stated: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1983"/></ci:caseinfo><ci:caseref ID="cr001605" spanref="cr001605-001"><ci:reporter value="ALR"/><ci:volume num="50"/><ci:page num="519"/></ci:caseref><ci:caseref ID="cr001606" spanref="cr001606-002" status="unval"><ci:reporter value="ALJR"/><ci:volume num="57"/><ci:page num="825"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mourani v Jeldi Manufacturing Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001605-001">(1983) 50 ALR 519</ci:span>; <ci:span spanid="cr001606-002" status="unval">57 ALJR 825</ci:span></citefragment> <remotelink dpsi="0018" refpt="28572" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; and in discharging that obligation the judge may embark on a degree of questioning to clarify the jury's answers: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1919"/></ci:caseinfo><ci:caseref ID="cr001607" spanref="cr001607-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="27"/><ci:page num="294"/></ci:caseref><ci:caseref anaphref="cr001607" spanref="cr001607-002" status="unval"><ci:pinpoint num="300" targettype="page"/></ci:caseref><ci:caseref ID="cr001608" spanref="cr001608-003"><ci:reporter value="ALR"/><ci:volume num="25"/><ci:page num="367"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cunningham v Ryan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001607-001" status="unval">(1919) 27 CLR 294</ci:span> <ci:span spanid="cr001607-002" status="unval">at 300&#x2013;6</ci:span>; <ci:span spanid="cr001608-003">25 ALR 367</ci:span></citefragment> <remotelink dpsi="0018" refpt="19878" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. If, at a trial with a jury, a verdict is given or a finding or assessment is made, the court may give judgment as it thinks fit despite the verdict, finding or assessment: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.R29-11" remotekey1="REFPTID" service="DOC-ID" status="unval">r 29.11</remotelink></ci:content></ci:cite>
+ UCPR.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS90-15" leveltype="para0" subdoc="true" toc-caption="[SCA s 90.15] Inconsistency arising from the jury's answers"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS90-15" type="ext"/>[SCA s 90.15] </edpnum><title>Inconsistency arising from the jury's answers</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Inconsistency in the answers given by a jury to particular questions may justify rejection of the verdict on appeal where the inconsistency demonstrates the jury fell into error by, for example, failing to take account of a trial judge's direction: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr001609" spanref="cr001609-001"><ci:reporter value="NSWLR"/><ci:volume num="5"/><ci:page num="171"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Otis Elevators Pty Ltd v Zitis</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001609-001">(1986) 5 NSWLR 171</ci:span></citefragment></ci:content></ci:cite> (alleged inconsistency between general damages and damages for economic loss); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr001610" spanref="cr001610-001" status="unval"><ci:reporter value="NSWJB"/><ci:page num="234"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Quinn v Rocla Concrete Pipes Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001610-001" status="unval">(1986) NSWJB 234</ci:span></citefragment></ci:content></ci:cite> (award of general damages but rejection of special damages including agreed out of pocket expenses); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr001611" spanref="cr001611-001"><ci:reporter value="NSWLR"/><ci:volume num="7"/><ci:page num="428"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cousins v Bradford Kendall Foundries Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001611-001">(1986) 7 NSWLR 428</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001612" spanref="cr001612-001"><ci:reporter value="urj"/><ci:refnum num="BC9201448"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Moon v Lugame Pty Ltd (t/as Bullitt Transmissions, Dubbo)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001612-001"> (NSWCA, Kirby P, Mahoney and Clarke JJ, CA 40461/90, 2 December 1992, unreported, BC9201448)</ci:span></citefragment></ci:content></ci:cite> (jury fixing special damages but failing to award general damages). However, in these cases the court will endeavour to construe the answers consistently and deficiencies in the answers to questions will not justify setting aside the jury's verdict unless the answers are necessarily inconsistent: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr001613" spanref="cr001613-001"><ci:reporter value="NSWLR"/><ci:volume num="7"/><ci:page num="30"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brancato v Australian Telecommunications Commission</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001613-001">(1987) 7 NSWLR 30</ci:span> at 32</citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS90-20" leveltype="para0" subdoc="true" toc-caption="[SCA s 90.20] Specific questions where matter withdrawn">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 90.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> UCPR 29.11.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS90-20" type="ext"/>[SCA s 90.20] </edpnum><title>Specific questions where matter withdrawn</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A judge should be asked to leave questions to the jury under this section where the judge proposes to give judgment notwithstanding verdict under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60.R29-11" remotekey1="REFPTID" service="DOC-ID" status="unval">UCPR 29.11</remotelink></ci:content></ci:cite>
+ or where he or she proposes to make a ruling that an issue be withdrawn from the jury. The reason for this practice being adopted is to allow the verdict or answer to be available on appeal and to avoid the need for a retrial: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr001614" spanref="cr001614-001" status="unval"><ci:reporter value="LGRA"/><ci:volume num="72"/><ci:page num="60"/></ci:caseref><ci:caseref ID="cr001615" spanref="cr001615-002"><ci:reporter value="MVR"/><ci:volume num="12"/><ci:page num="321"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Turner v Ku-ring-gai Municipal Council</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001614-001" status="unval">(1990) 72 LGRA 60</ci:span>; <ci:span spanid="cr001615-002">12 MVR 321</ci:span></citefragment> <remotelink dpsi="0018" refpt="25453" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

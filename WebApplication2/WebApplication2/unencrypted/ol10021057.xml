@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART XII MISCELLANEOUS [rr 74AA&#x2013;83]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.ADR88.PT12</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>ADMIRALTY RULES 1988 (CTH)</title></heading><docinfo:hierlev role="me"><heading><title>PART XII MISCELLANEOUS [rr 74AA&#x2013;83]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140010190</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.ADR88"/><docinfo:metaitem name="parent-filename" value="ol1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">CTH</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 269, 1988</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">ADMIRALTY RULES 1988 (CTH)</leg:officialname></leg:info><leg:level id="UCPN.OL.ADR88.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.PT12"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART XII MISCELLANEOUS [rr 74AA&#x2013;83]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.ADR88.PT12" type="ext"/>PART XII</designum></desig><title searchtype="PART-TITLE">MISCELLANEOUS [rr 74AA&#x2013;83]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R74AA"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,015] r 74AA Definitions for this Part">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R74AA" type="ext"/>[256,015]</edpnum><title searchtype="RUL-TITLE">Definitions for this Part</title><desig searchtype="RUL-NUM"><designum>74AA</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.OL.ADR88.R74AA.INCORPORATED-LEGAL-PRACTICE"><defterm><refpt id="UCPN.OL.ADR88.R74AA.INCORPORATED-LEGAL-PRACTICE" type="ext"/><emph typestyle="bf">incorporated legal practice</emph></defterm> <defdesc>
+<p><text>means a corporation that engages in legal practice in Australia, whether or not it also provides services that are not legal services.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R74AA.LAW-FIRM"><defterm><refpt id="UCPN.OL.ADR88.R74AA.LAW-FIRM" type="ext"/><emph typestyle="bf">law firm</emph></defterm> <defdesc>
+<p><text>means a partnership consisting only of:</text></p>
+<l><li id="UCPN.OL.ADR88.R74AA.LAW-FIRM.A"><lilabel><refpt id="UCPN.OL.ADR88.R74AA.LAW-FIRM.A" type="ext"/>(a)</lilabel>
+<p><text>Australian legal practitioners; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R74AA.LAW-FIRM.B"><lilabel><refpt id="UCPN.OL.ADR88.R74AA.LAW-FIRM.B" type="ext"/>(b)</lilabel>
+<p><text>one or more Australian legal practitioners and one or more Australian-registered foreign lawyers.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R74AA.LAW-PRACTICE"><defterm><refpt id="UCPN.OL.ADR88.R74AA.LAW-PRACTICE" type="ext"/><emph typestyle="bf">law practice</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.ADR88.R74AA.LAW-PRACTICE.A"><lilabel><refpt id="UCPN.OL.ADR88.R74AA.LAW-PRACTICE.A" type="ext"/>(a)</lilabel>
+<p><text>a law firm; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R74AA.LAW-PRACTICE.B"><lilabel><refpt id="UCPN.OL.ADR88.R74AA.LAW-PRACTICE.B" type="ext"/>(b)</lilabel>
+<p><text>a multi-disciplinary partnership; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R74AA.LAW-PRACTICE.C"><lilabel><refpt id="UCPN.OL.ADR88.R74AA.LAW-PRACTICE.C" type="ext"/>(c)</lilabel>
+<p><text>an incorporated legal practice.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R74AA.LEGAL-PRACTITIONER-DIRECTOR"><defterm><refpt id="UCPN.OL.ADR88.R74AA.LEGAL-PRACTITIONER-DIRECTOR" type="ext"/><emph typestyle="bf">legal practitioner director</emph></defterm> <defdesc>
+<p><text>means a director of an incorporated legal practice who is an Australian legal practitioner holding an unrestricted practising certificate.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R74AA.LEGAL-PRACTITIONER-PARTNER"><defterm><refpt id="UCPN.OL.ADR88.R74AA.LEGAL-PRACTITIONER-PARTNER" type="ext"/><emph typestyle="bf">legal practitioner partner</emph></defterm> <defdesc>
+<p><text>means a partner of a multi-disciplinary partnership who is an Australian legal practitioner holding an unrestricted practising certificate.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R74AA.MULTI-DISCIPLINARY-PARTNERSHIP"><defterm><refpt id="UCPN.OL.ADR88.R74AA.MULTI-DISCIPLINARY-PARTNERSHIP" type="ext"/><emph typestyle="bf">multi-disciplinary partnership</emph></defterm> <defdesc>
+<p><text>means a partnership between one or more Australian legal practitioners and one or more persons who are not Australian legal practitioners, where the business of the partnership includes the provision of legal services in Australia as well as other services.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R74AA.PRINCIPAL"><defterm><refpt id="UCPN.OL.ADR88.R74AA.PRINCIPAL" type="ext"/><emph typestyle="bf">principal</emph></defterm> <defdesc>
+<p><text>, of a law practice, means an Australian legal practitioner who is:</text></p>
+<l><li id="UCPN.OL.ADR88.R74AA.PRINCIPAL.A"><lilabel><refpt id="UCPN.OL.ADR88.R74AA.PRINCIPAL.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of a law firm &#x2014; a partner; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R74AA.PRINCIPAL.B"><lilabel><refpt id="UCPN.OL.ADR88.R74AA.PRINCIPAL.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of a multi-disciplinary partnership &#x2014; a legal practitioner partner; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R74AA.PRINCIPAL.C"><lilabel><refpt id="UCPN.OL.ADR88.R74AA.PRINCIPAL.C" type="ext"/>(c)</lilabel>
+<p><text>in the case of a incorporated legal practice &#x2014; a legal practitioner director.</text></p>
+</li>
+</l></defdesc></defitem></deflist><leg:histnote>
+<p><text>[r 74AA  insrt SR 287 of 2006 r 3 and Sch 1.26, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,020] r 75 Solicitor's undertakings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R75" type="ext"/>[256,020]</edpnum><title searchtype="RUL-TITLE">Solicitor's undertakings</title><desig searchtype="RUL-NUM"><designum>75</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any person who fails to comply with an undertaking given to a court under these Rules is liable for committal.</text></p>
+<leg:histnote>
+<p><text>[r 75  am SR 327 of 1993  r 7]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,021] r 75A Undertakings by a law practice">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R75A" type="ext"/>[256,021]</edpnum><title searchtype="RUL-TITLE">Undertakings by a law practice</title><desig searchtype="RUL-NUM"><designum>75A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R75A.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a provision of these Rules requires or provides for an Australian legal practitioner to give an undertaking, the court or the Registrar may instead accept an undertaking given by a law practice if the undertaking is signed by a principal authorised by the law practice to give such an undertaking.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75A.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, under a provision of these Rules, the making of an application by an Australian legal practitioner on behalf of an applicant constitutes an undertaking given by the Australian legal practitioner, the undertaking is taken to be given by the law practice for which the Australian legal practitioner works if a principal authorised by the law practice to give such an undertaking gives to the court a written undertaking to that effect.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75A.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an undertaking is given, or taken to be given, by a law practice in accordance with subrule (1) or (2), any personal undertaking to the court (in accordance with these Rules or otherwise) by a principal is taken to be an undertaking by the principals of the law practice at the time the undertaking is given or taken to be given.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75A.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On application by one or more principals or former principals of the law practice referred to in subrule (1) or (2), the court may add the name of a principal to, or delete the name of a principal or former principal from, the list of principals of the law practice that is subject to the undertaking.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75A.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75A.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may add or delete the name of a principal or former principal on such terms, and with effect from a date, that the court considers appropriate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 75A  insrt SR 287 of 2006 r 3 and Sch 1.27, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75B"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,022] r 75B Use of clean bonds">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R75B" type="ext"/>[256,022]</edpnum><title searchtype="RUL-TITLE">Use of clean bonds</title><desig searchtype="RUL-NUM"><designum>75B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R75B.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75B.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subrule (2) applies if, in an application under these Rules:</text></p>
+<l><li id="UCPN.OL.ADR88.R75B.1.A"><lilabel><refpt id="UCPN.OL.ADR88.R75B.1.A" type="ext"/>(a)</lilabel>
+<p><text>an undertaking is required to be given, or is constituted, to pay the costs and expenses of the Marshal; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R75B.1.B"><lilabel><refpt id="UCPN.OL.ADR88.R75B.1.B" type="ext"/>(b)</lilabel>
+<p><text>the person required to give, or who is taken to have given, the undertaking, or the law practice that may give the undertaking, offers an irrevocable, unconditional bank bond or guarantee that is:</text></p>
+<l><li id="UCPN.OL.ADR88.R75B.1.B.I"><lilabel><refpt id="UCPN.OL.ADR88.R75B.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>issued by an authorised deposit-taking institution; and</text></p>
+</li><li id="UCPN.OL.ADR88.R75B.1.B.II"><lilabel><refpt id="UCPN.OL.ADR88.R75B.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>payable, on demand and either generally or specifically, in favour of the Marshal.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75B.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75B.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the court is satisfied in relation to the bond or guarantee and its amount, and any other matter relevant to the undertaking, the court may, either generally or on terms, make an order:</text></p>
+<l><li id="UCPN.OL.ADR88.R75B.2.A"><lilabel><refpt id="UCPN.OL.ADR88.R75B.2.A" type="ext"/>(a)</lilabel>
+<p><text>varying or dispensing with any rule or other requirement providing for a personal undertaking; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R75B.2.B"><lilabel><refpt id="UCPN.OL.ADR88.R75B.2.B" type="ext"/>(b)</lilabel>
+<p><text>releasing the person required to give, or who is taken to have given, the undertaking, or the law practice that may give the undertaking, from the undertaking, with or without conditions.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 75B  insrt SR 287 of 2006 r 3 and Sch 1.27, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75C"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,023] r 75C Orders relating to undertakings and securities">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R75C" type="ext"/>[256,023]</edpnum><title searchtype="RUL-TITLE">Orders relating to undertakings and securities</title><desig searchtype="RUL-NUM"><designum>75C</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R75C.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75C.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies if the court accepts more than one undertaking or security in relation to the Marshal&#x2019;s costs and expenses.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R75C.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R75C.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may make directions and orders in relation to:</text></p>
+<l><li id="UCPN.OL.ADR88.R75C.2.A"><lilabel><refpt id="UCPN.OL.ADR88.R75C.2.A" type="ext"/>(a)</lilabel>
+<p><text>the just and fair allocation of responsibilities between those undertakings or securities; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R75C.2.B"><lilabel><refpt id="UCPN.OL.ADR88.R75C.2.B" type="ext"/>(b)</lilabel>
+<p><text>if appropriate, the release of a person from an undertaking, with or without conditions.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 75C  insrt SR 287 of 2006 r 3 and Sch 1.27, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R76"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,025] r 76 Wages, collision: security for costs">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R76" type="ext"/>[256,025]</edpnum><title searchtype="RUL-TITLE">Wages, collision: security for costs</title><desig searchtype="RUL-NUM"><designum>76</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The master, or a member of the crew, of a ship who is a plaintiff in a proceeding:</text></p>
+<l><li id="UCPN.OL.ADR88.R76..A"><lilabel><refpt id="UCPN.OL.ADR88.R76..A" type="ext"/>(a)</lilabel>
+<p><text>of the kind mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S4.3.T" remotekey1="REFPTID" service="DOC-ID">paragraph 4(3)(t)</remotelink></ci:content></ci:cite>
+ of the Act; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R76..B"><lilabel><refpt id="UCPN.OL.ADR88.R76..B" type="ext"/>(b)</lilabel>
+<p><text>for loss of goods in a collision between 2 or more ships;</text></p>
+</li>
+</l>
+<p><text>must not be required to give security for costs.</text></p>
+<leg:histnote>
+<p><text>[r 76  am SR 287 of 2006 r 3 and Sch 1.37, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R77"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,030] r 77 Collision proceedings: stay pending security">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R77" type="ext"/>[256,030]</edpnum><title searchtype="RUL-TITLE">Collision proceedings: stay pending security</title><desig searchtype="RUL-NUM"><designum>77</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, in relation to maritime claims arising out of a collision between 2 or more ships:</text></p>
+<l><li id="UCPN.OL.ADR88.R77..A"><lilabel><refpt id="UCPN.OL.ADR88.R77..A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding has been commenced as an action <emph typestyle="it">in rem</emph> and:</text></p>
+<l><li id="UCPN.OL.ADR88.R77..A.I"><lilabel><refpt id="UCPN.OL.ADR88.R77..A.I" type="ext"/>(i)</lilabel>
+<p><text>a counter-claim has been made; or</text></p>
+</li><li id="UCPN.OL.ADR88.R77..A.II"><lilabel><refpt id="UCPN.OL.ADR88.R77..A.II" type="ext"/>(ii)</lilabel>
+<p><text>a cross-action has been commenced, whether as an action <emph typestyle="it">in personam</emph> or an action <emph typestyle="it">in rem</emph>;</text></p>
+</li></l></li>
+<li id="UCPN.OL.ADR88.R77..B"><lilabel><refpt id="UCPN.OL.ADR88.R77..B" type="ext"/>(b)</lilabel>
+<p><text>a ship has been arrested, or security has been given to avoid arrest, by a party; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R77..C"><lilabel><refpt id="UCPN.OL.ADR88.R77..C" type="ext"/>(c)</lilabel>
+<p><text>the other party has not arrested a ship or given such security;</text></p>
+</li>
+</l>
+<p><text>the court may, on application, order that the proceeding be stayed until appropriate security has been given to satisfy a judgment given in favour of the other party on the cross-action or counter-claim.</text></p>
+<leg:histnote>
+<p><text>[r 77  am SR 287 of 2006 r 3 and Sch 1.38, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R78"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,035] r 78 Marshal may make interim demands for costs and expenses">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R78" type="ext"/>[256,035]</edpnum><title searchtype="RUL-TITLE">Marshal may make interim demands for costs and expenses</title><desig searchtype="RUL-NUM"><designum>78</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a person is liable to pay the costs and expenses of a Marshal under these Rules, the Marshal:</text></p>
+<l><li id="UCPN.OL.ADR88.R78.A"><lilabel><refpt id="UCPN.OL.ADR88.R78.A" type="ext"/>(a)</lilabel>
+<p><text>may demand or accept an amount of money that the Marshal considers reasonable as a deposit towards discharging the liability; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R78.B"><lilabel><refpt id="UCPN.OL.ADR88.R78.B" type="ext"/>(b)</lilabel>
+<p><text>may make 1 or more demands for interim payments on account of those costs and expenses.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 78  subst SR 287 of 2006 r 3 and Sch 1.28, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R78A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,036] r 78A Marshal&#x2019;s costs and expenses: aid to other courts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R78A" type="ext"/>[256,036]</edpnum><title searchtype="RUL-TITLE">Marshal&#x2019;s costs and expenses: aid to other courts</title><desig searchtype="RUL-NUM"><designum>78A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R78A.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R78A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a Marshal of a court having jurisdiction under the Act acts in aid of another court having jurisdiction under the Act (the <defterm><emph typestyle="bf">second court</emph></defterm>), the costs and expenses incurred by the Marshal in doing so form part of the costs and expenses of the Marshal of the second court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R78A.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R78A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Marshal may:</text></p>
+<l><li id="UCPN.OL.ADR88.R78A.2.A"><lilabel><refpt id="UCPN.OL.ADR88.R78A.2.A" type="ext"/>(a)</lilabel>
+<p><text>take any step the Marshal would otherwise have been able to take under these Rules in aid of the second court; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R78A.2.B"><lilabel><refpt id="UCPN.OL.ADR88.R78A.2.B" type="ext"/>(b)</lilabel>
+<p><text>request and obtain from the Marshal of the second court reimbursement of all the costs and expenses incurred in aiding the second court.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note</title></heading>
+<p>
+<text>Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.R78B" remotekey1="REFPTID" service="DOC-ID">rule 78B</remotelink></ci:content></ci:cite>
+, the costs and expenses incurred by the Marshal in acting in aid of the second court are fully recoverable without taxation.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 78A  insrt SR 287 of 2006 r 3 and Sch 1.28, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R78B"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,037] r 78B Taxation of Marshal&#x2019;s costs and expenses">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R78B" type="ext"/>[256,037]</edpnum><title searchtype="RUL-TITLE">Taxation of Marshal&#x2019;s costs and expenses</title><desig searchtype="RUL-NUM"><designum>78B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R78B.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R78B.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court orders otherwise, the Marshal&#x2019;s costs and expenses are not subject to taxation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R78B.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R78B.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Marshal&#x2019;s costs and expenses are taxed under an order, the taxing officer must allow all the Marshal&#x2019;s costs and expenses other than those costs and expenses that the taxing officer considers have been incurred unreasonably or otherwise than in good faith.</text></p>
+<leg:histnote>
+<p><text>[r 78B  insrt SR 287 of 2006 r 3 and Sch 1.28, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R79"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,040] r 79 Register of Admiralty proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R79" type="ext"/>[256,040]</edpnum><title searchtype="RUL-TITLE">Register of Admiralty proceedings</title><desig searchtype="RUL-NUM"><designum>79</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Each court that has, under the Act, jurisdiction in proceedings commenced as actions <emph typestyle="it">in rem</emph> must maintain a register in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.SCH1.F29" remotekey1="REFPTID" service="DOC-ID">Form 29</remotelink></ci:content></ci:cite>
+ of all proceedings in the court commenced under the Act to be known as the Register of Admiralty Proceedings.</text></p>
+<leg:histnote>
+<p><text>[r 79  am SR 287 of 2006 r 3 and Sch 1.37, effective 18 November 2006]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.ADR88.R79.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.256040-5" leveltype="para0" subdoc="true" toc-caption="[256,040.5]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [256,040.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_REG_1988-269" remotekey1="REFPTID" service="DOC-ID">Admiralty Rules 1988</remotelink> rr 7&#x2013;14.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.256040-5" type="ext"/>[256,040.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Apart from caveat registers (see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.PT2.R7" remotekey1="REFPTID" service="DOC-ID" status="unval">rr 7&#x2013;14</remotelink></ci:content></ci:cite>
+), each court exercising admiralty jurisdiction keeps a register of admiralty proceedings for all other matters. A potential purchaser of a ship wishing to ensure that no outstanding statutory liens exist against the ship as a result of the commencement of <emph typestyle="it">in rem</emph> proceedings in the court should consult this register.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R80"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,045] r 80 Court may give directions, vary Rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R80" type="ext"/>[256,045]</edpnum><title searchtype="RUL-TITLE">Court may give directions, vary Rules</title><desig searchtype="RUL-NUM"><designum>80</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.A-CTH.R88.R80.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.A-CTH.R88.R80.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, on application or of its own motion and on such terms as are just:</text></p>
+<l><li id="UCPN.OL.ADR88.R80.1.A"><lilabel><refpt id="UCPN.OL.ADR88.R80.1.A" type="ext"/>(a)</lilabel>
+<p><text>give any appropriate direction with respect to a proceeding; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R80.1.B"><lilabel><refpt id="UCPN.OL.ADR88.R80.1.B" type="ext"/>(b)</lilabel>
+<p><text>by order, extend or abridge any time prescribed by these Rules or by rules of court applicable to a proceeding, whether or not the time has ended.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R80.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R80.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, on such terms as are just, dispense with compliance with any of these Rules, either before or after the time for compliance.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R81"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,050] r 81 Review of Registrar's actions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R81" type="ext"/>[256,050]</edpnum><title searchtype="RUL-TITLE">Review of Registrar's actions</title><desig searchtype="RUL-NUM"><designum>81</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R81.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R81.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party to a proceeding may apply to the court for review of a decision or other act of a Registrar in the proceeding.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R81.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R81.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may make such an order on the application as is just.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R82"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,055] r 82 Instruments to be signed by Registrar, sealed">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R82" type="ext"/>[256,055]</edpnum><title searchtype="RUL-TITLE">Instruments to be signed by Registrar, sealed</title><desig searchtype="RUL-NUM"><designum>82</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Each document (including a warrant) issued by or by authority of a court in a proceeding must:</text></p>
+<l><li id="UCPN.OL.ADR88.R82..A"><lilabel><refpt id="UCPN.OL.ADR88.R82..A" type="ext"/>(a)</lilabel>
+<p><text>be signed by the Registrar;</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R82..B"><lilabel><refpt id="UCPN.OL.ADR88.R82..B" type="ext"/>(b)</lilabel>
+<p><text>be sealed with the seal of the court; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R82..C"><lilabel><refpt id="UCPN.OL.ADR88.R82..C" type="ext"/>(c)</lilabel>
+<p><text>show the date on which it was sealed.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 82  am SR 287 of 2006 r 3 and Sch 1.37, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R83"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[256,060] r 83 Inspection of Registers">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R83" type="ext"/>[256,060]</edpnum><title searchtype="RUL-TITLE">Inspection of Registers</title><desig searchtype="RUL-NUM"><designum>83</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any person may inspect a Register without charge.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

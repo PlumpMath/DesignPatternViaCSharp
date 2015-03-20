@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE CASEDOC PUBLIC "-//LEXISNEXIS//DTD GLP Casedoc v005//EN" "casedoc-norm.dtd">
+<CASEDOC type="practicenote" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="3"><docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[SC Eq 5] Practice Note SC Eq 5 Supreme Court Equity Division &#x2014; Expert Evidence in the Equity Division</docinfo:doc-heading><docinfo:doc-id>UCPN_PRACNOTE.SGM_UCPN.PN.SCE.PN5</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>PRACTICE NOTES</title></heading><docinfo:hierlev role="ancestor"><heading><title>Supreme Court Practice Notes</title></heading><docinfo:hierlev role="me"><heading><edpnum>[SC Eq 5]</edpnum><desig><designum>Practice Note SC Eq 5</designum></desig><title>Supreme Court Equity Division &#x2014; Expert Evidence in the Equity Division</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>130340000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.PRACNOTE"/><docinfo:metaitem name="parent-filename" value="pracnote.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_PRACNOTE.SGM_UCPN.PN.SCE.PN5"/><docinfo:metaitem name="parent-filename" value="pracnote1068.xml"/></docinfo:lbu-meta><docinfo:selector>case</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date></docinfo>
+<case:body><heading searchtype="PRACTICE-NOTE"><edpnum><refpt id="UCPN.PN.SCE.PN5" type="ext"/>[SC Eq 5]</edpnum>
+<desig><designum>Practice Note SC Eq 5</designum></desig></heading>
+<case:headnote>
+<case:info><case:casename searchtype="PRACTICE-NOTE">Supreme Court Equity Division &#x2014; Expert Evidence in the Equity Division</case:casename></case:info></case:headnote><case:content>
+<case:judgments><case:judgment><case:judgmentbody>
+<pgrp>
+<heading><title>Commencement</title></heading>
+<p>
+<text>1.&#x2003;This Practice Note was issued on 10 August 2012 and commences on 10 August 2012.</text></p></pgrp>
+<pgrp>
+<heading><title>Application</title></heading>
+<p>
+<text>2.&#x2003;This Practice Note:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>does not affect existing informal practices concerning valuation evidence and/or medical evidence in family provision applications and similar proceedings</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>applies to all new and existing proceedings in the Equity Division.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Definitions</title></heading>
+<p>
+<text>3.&#x2003;In this Practice Note:</text>
+<l>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">Act</emph> means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink></ci:content></ci:cite>
+.</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">UCPR</emph> means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink></ci:content></ci:cite>
+.</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">Expert Evidence Rules</emph> means Part 31, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT31.D2" remotekey1="REFPTID" service="DOC-ID">Division 2</remotelink></ci:content></ci:cite>
+ of the UCPR.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Introduction</title></heading>
+<p>
+<text>4.&#x2003;The object of this Practice Note is to supplement the Expert Evidence Rules and ensure the Court&#x2019;s processes are consistent with the Act&#x2019;s overriding purpose as set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S56" remotekey1="REFPTID" service="DOC-ID">s 56</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>5.&#x2003;This Practice Note aims to:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>encourage prospective parties to discuss the extent to which they intend to rely on expert evidence before commencing proceedings</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>ensure parties promptly obtain expert evidence directions in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-19" remotekey1="REFPTID" service="DOC-ID">UCPR 31.19</remotelink></ci:content></ci:cite>
+,</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>minimise the costs of obtaining expert evidence, and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>reduce the hearing time of a case.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Parties to confer regarding experts before commencing proceedings</title></heading>
+<p>
+<text>6.&#x2003;Where the prospective parties have retained legal representatives the legal representatives of those parties must confer in an endeavour to jointly retain:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>one expert, or</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>one expert for each specified issue or matters in issue.</text></p></li></l></p>
+<p>
+<text>7.&#x2003;Where it is not appropriate or possible to agree on one expert or one expert in each specified issue or matter, the legal representatives should confer as early as possible to minimise the number of expert witnesses.</text></p>
+<p>
+<text>8.&#x2003;Parties must consider whether the expert witnesses should give evidence together as detailed in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-35..C" remotekey1="REFPTID" service="DOC-ID">UCPR 31.35(c)&#x2013;(h)</remotelink></ci:content></ci:cite>
+ inclusive. Generally, the procedure will be that the judge will examine them in chief as witnesses of the Court; cross examination will take place of all witnesses jointly, the order of cross examination being either agreed by counsel or determined by the Judge.</text></p></pgrp>
+<pgrp>
+<heading><title>Restrictions on the number of experts</title></heading>
+<p>
+<text>9.&#x2003;Generally, and in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-20.2" remotekey1="REFPTID" service="DOC-ID">UCPR 31.20(2)</remotelink></ci:content></ci:cite>
+, only one expert per specified issue will be allowed to:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the plaintiff, and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>any one of multiple defendants. Defendants who have the same interest in the expert evidence will be treated as one, and should confer at an early stage to agree on a single expert.</text></p></li></l></p>
+<p>
+<text>10.&#x2003;More than one expert per specified issue may be allowed if good reason is shown in a particular case.</text></p>
+<p>
+<text>11.&#x2003;Generally, the experts engaged in relation to a specified issue should confer before the trial and produce a joint report in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-24" remotekey1="REFPTID" service="DOC-ID">UCPR 31.24</remotelink></ci:content></ci:cite>
+ to include (where relevant):</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>a statement as to their agreed conclusions, and </text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>a statement of their differences and of the apparent reasons thereof.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Directions regarding experts</title></heading>
+<p>
+<text>12.&#x2003;Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-19" remotekey1="REFPTID" service="DOC-ID">UCPR 31.19</remotelink></ci:content></ci:cite>
+, a party considering or intending to adduce expert evidence at trial must promptly seek directions from the court in that regard. A party must seek those directions in accordance with paragraphs 13, 14 and 15 of this Practice Note.</text></p>
+<p>
+<text>13.&#x2003;The court may make directions concerning expert evidence in the absence of the parties provided:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>a request for directions concerning expert evidence is filed in accordance with the form &quot;Request for Expert Evidence Directions&quot; in Annexure A to this Practice Note, and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>all lawyers have signed the form of Request for Expert Evidence Directions.</text></p></li></l></p>
+<p>
+<text>14.&#x2003;If the parties do not agree on the proposed Expert Evidence Directions, the issue should be raised at the next directions hearing. The party who drafted the proposed directions should provide the Court with a copy at least three days before the directions hearing. If there is no upcoming directions hearing, the party may seek to have the proceedings listed before the Court on three days&#x2019; notice to the Court and the other party/parties.</text></p>
+<p>
+<text>15.&#x2003;Directions for expert evidence can be sought:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In the Commercial List and Technology and Construction List, from the List Judge of those Lists on a Friday.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In the Corporations List, from the Judge operating the Corporations List on a Monday.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In the Probate or Protective List, from the Registrar in Probate or from the List Judge on a Monday.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In the Expedition List or Duty List, from the Judge operating that List.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In the Admiralty List, from the Judge operating that List.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In the Revenue List, from the Judge operating that List.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In cases which have been fixed for trial before or are being case managed by a particular Judge, from that Judge.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In cases to be heard by an Associate Judge, from an Associate Judge.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>In cases where special circumstances exist for not making an earlier application, from the Judge conducting the pre trial.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Otherwise from the Registrar in Equity, who in case of serious conflict or difficulty may refer the matter to the Duty Judge.</text></p></li></l></p></pgrp></case:judgmentbody></case:judgment></case:judgments>
+<case:appendix><sigblock>
+<p><text><person><name.text>T F Bathurst</name.text>
+<role>Chief Justice of New South Wales</role></person>
+<date>10 August 2012</date></text></p></sigblock>
+<pgrp>
+<heading><title>Related information</title></heading>
+<p>
+<text>Practice Note SC Gen 5 was issued on 23 December 2008 and commenced on 2 February 2009.</text></p>
+<p>
+<text><remotelink dpsi="05CC" refpt="UCPN.PN.SCG.PN1" remotekey1="REFPTID" service="DOC-ID">Practice Note SC Gen 1</remotelink>
+ Supreme Court &#x2014; Application of Practice Notes</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN1" remotekey1="REFPTID" service="DOC-ID">Practice Note SC Eq 1</remotelink></ci:content></ci:cite>
+ Supreme Court Equity Division &#x2014; Case management</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink></ci:content></ci:cite></text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR" remotekey1="REFPTID" service="DOC-ID" status="unval">Uniform Civil Procedure Rules 2005</remotelink></ci:content></ci:cite></text></p></pgrp>
+<pgrp>
+<heading><title>Amendment history</title></heading>
+<p>
+<text>10 August 2012: the Practice Note issued on 23 December 2008 was replaced to accommodate the addition of the Revenue List to paragraph 15. </text></p></pgrp>
+<h>Annexure A</h>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-19" remotekey1="REFPTID" service="DOC-ID">UCPR 31.19</remotelink></ci:content></ci:cite></text></p>
+<p>
+<text><remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN5" remotekey1="REFPTID" service="DOC-ID">Practice Note SC Eq 5</remotelink></text></p>
+<p>
+<table frame="none" pgwide="1">
+<title>REQUEST FOR EXPERT EVIDENCE DIRECTIONS</title>
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colsep="0" colwidth="10*" rowsep="0"/>
+<colspec colname="col2" colnum="2" colsep="0" colwidth="30*" rowsep="0"/>
+<colspec colname="col3" colnum="3" colsep="0" colwidth="60*" rowsep="0"/>
+<colspec colname="col4" colnum="4" colsep="0" colwidth="20*" rowsep="0"/>
+<colspec colname="colspec0" colnum="5" colsep="0" colwidth="180*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">COURT DETAILS</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Court</entry>
+<entry colsep="0" morerows="0" rowsep="0">Supreme Court of NSW</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">#Division</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">#List</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Registry</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Case number</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">TITLE OF PROCEEDINGS</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">[First] plaintiff</entry>
+<entry colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">[name]</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">#Second plaintiff #Number of plaintiffs (if more than two)</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">[First] defendant</entry>
+<entry colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">[name]</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">#Second defendant #Number of defendants (if more than two)</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">PREPARATION DETAILS</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Prepared for</entry>
+<entry colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">[name]</emph> [role of party eg plaintiff]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">#Legal representative</entry>
+<entry colsep="0" morerows="0" rowsep="0">[solicitor on record] [firm]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">#Legal representative reference</entry>
+<entry colsep="0" morerows="0" rowsep="0">[reference number]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Contact name and telephone</entry>
+<entry colsep="0" morerows="0" rowsep="0">[name] [telephone]</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">REQUEST FOR DIRECTIONS</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">In the absence of the parties, the Court is requested to make the following directions concerning expert evidence to be called in these proceedings.</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="1" morerows="0" nameend="colspec0" namest="col1" rowsep="0">TERMS OF REQUEST</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">The parties request that the court give the following directions:</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col2" rowsep="0">Grant leave for the plaintiff to engage the following experts:</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col3" rowsep="0">[set out details stating names and qualifications or, if names are not available, one person of stated qualification for each specified issue or matter for which expert evidence is to be called]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col2" rowsep="0">Grant leave for the defendant to engage the following experts:</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col3" rowsep="0">[set out details stating names and qualifications or, if names are not available, one person of stated qualification for each specified issue or matter for which expert evidence is to be called]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col2" rowsep="0">Direct that the expert witnesses confer with each other and endeavour to reach agreement in relation to specified matters or on any matters in issue in accordance with <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-24" remotekey1="REFPTID" service="DOC-ID">UCPR 31.24</remotelink></ci:content></ci:cite>
+and deliver their joint report to the trial Judge&#x2019;s Associate at least 4 days before the hearing [#or as agreed].</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">CERTIFICATION</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="1" morerows="0" nameend="colspec0" namest="col1" rowsep="0">Before making this request, I certify that the parties have properly considered:</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col2" rowsep="0">What expert evidence is required in order that these proceedings can be dealt with justly, cheaply and expeditiously.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col2" rowsep="0">The desirability of calling one expert in respect of each specified issue.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col2" rowsep="0">Whether evidence can be given in accordance with <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-35..C" remotekey1="REFPTID" service="DOC-ID">UCPR 31.35(c)&#x2013;(h)</remotelink></ci:content></ci:cite>
+inclusive.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="1" morerows="0" nameend="colspec0" namest="col3" rowsep="0">[ie two or more expert witnesses give evidence at the one time]</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">SIGNATURES</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">[Role of party]</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0">#Signature of legal representative</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0">#Signature of or on behalf of party if not legally represented</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0">Capacity</entry>
+<entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col4" rowsep="0">[eg solicitor, authorised officer, role of party]</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0">Date of signature</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">[repeat as required for each party signing]</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">ORDER FOR DIRECTIONS</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="1" morerows="0" nameend="colspec0" namest="col1" rowsep="0">The Court gives the directions requested as set out under &#x201c;Terms of Request&#x201d; above.</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="colspec0" namest="col1" rowsep="0">SEAL AND SIGNATURE</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Court seal</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Signature</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Capacity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Date made or given</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col4" namest="col1" rowsep="0">Date entered</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</case:appendix>
+</case:content>
+</case:body></CASEDOC>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 PROVISIONS THAT APPLY GENERALLY [rr 8.1, 8.2]</docinfo:doc-heading><docinfo:doc-id>UCPN.LC.LCRN09.PT8.DIV1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Local Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>LOCAL COURT RULES</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 8 MISCELLANEOUS PROVISIONS [rr 8.1&#x2013;8.10]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 PROVISIONS THAT APPLY GENERALLY [rr 8.1, 8.2]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>90030160</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.LC"/><docinfo:metaitem name="parent-filename" value="lc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_LC.SGM_UCPN.LC.LCRN09"/><docinfo:metaitem name="parent-filename" value="lc1006.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 589, 2009</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">LOCAL COURT RULES</leg:officialname></leg:info><leg:level id="UCPN.LC.LCRN09.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.PT8"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 8 MISCELLANEOUS PROVISIONS [rr 8.1&#x2013;8.10]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.LC.LCRN09.PT8" type="ext"/>PART 8</designum></desig><title searchtype="PART-TITLE">MISCELLANEOUS PROVISIONS [rr 8.1&#x2013;8.10]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.PT8.DIV1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 PROVISIONS THAT APPLY GENERALLY [rr 8.1, 8.2]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.LC.LCRN09.PT8.DIV1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">PROVISIONS THAT APPLY GENERALLY [rr 8.1, 8.2]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R8-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 8.1] r 8.1 Court dress">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R8-1" type="ext"/>[LCR09 r 8.1]</edpnum><title searchtype="RUL-TITLE">Court dress</title><desig searchtype="RUL-NUM"><designum>8.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings in the Court or before a Magistrate, no legal practitioner may robe.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R8-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 8.2] r 8.2 Registrar may exercise certain functions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R8-2" type="ext"/>[LCR09 r 8.2]</edpnum><title searchtype="RUL-TITLE">Registrar may exercise certain functions</title><desig searchtype="RUL-NUM"><designum>8.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The following functions of the Court may be exercised by the registrar:</text></p>
+<l><li id="UCPN.LC.LCRN09.R8-2..A"><lilabel><refpt id="UCPN.LC.LCRN09.R8-2..A" type="ext"/>(a)</lilabel>
+<p><text>the functions of the Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCRN09.R2-5" remotekey1="REFPTID" service="DOC-ID">rules 2.5</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCRN09.R2-9" remotekey1="REFPTID" service="DOC-ID">2.9</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCRN09.R4-2" remotekey1="REFPTID" service="DOC-ID">4.2</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCRN09.R4-3" remotekey1="REFPTID" service="DOC-ID">4.3</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCRN09.R5-11" remotekey1="REFPTID" service="DOC-ID">5.11</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R8-2..B"><lilabel><refpt id="UCPN.LC.LCRN09.R8-2..B" type="ext"/>(b)</lilabel>
+<p><text>the function of the Court to adjourn proceedings, without the consent of both parties,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R8-2..C"><lilabel><refpt id="UCPN.LC.LCRN09.R8-2..C" type="ext"/>(c)</lilabel>
+<p><text>the function of the Court to make orders by consent,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R8-2..D"><lilabel><refpt id="UCPN.LC.LCRN09.R8-2..D" type="ext"/>(d)</lilabel>
+<p><text>the function of the Court to set times within which documents (including witnesses&#x2019; statements) must be served or notice given,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R8-2..E"><lilabel><refpt id="UCPN.LC.LCRN09.R8-2..E" type="ext"/>(e)</lilabel>
+<p><text>the function of the Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0073" refpt="CPACT.ACRLEG.SEPA92.PT7" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 7</remotelink></ci:content></ci:cite>
+ of the Service and Execution of Process Act 1992 of the Commonwealth,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R8-2..F"><lilabel><refpt id="UCPN.LC.LCRN09.R8-2..F" type="ext"/>(f)</lilabel>
+<p><text>the function of the Court to determine matters preliminary to the commencement of the hearing of criminal and application proceedings,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R8-2..G"><lilabel><refpt id="UCPN.LC.LCRN09.R8-2..G" type="ext"/>(g)</lilabel>
+<p><text>the functions of the Court with respect to subpoenas.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

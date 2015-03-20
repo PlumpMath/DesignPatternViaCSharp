@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 2 OBTAINING PAYMENT OF DEBT [ss 5&#x2013;13]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CDN97.PT2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CONTRACTORS DEBTS ACT 1997 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 2 OBTAINING PAYMENT OF DEBT [ss 5&#x2013;13]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140080010</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CDN97"/><docinfo:metaitem name="parent-filename" value="ol1016.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 110, 1997</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CONTRACTORS DEBTS ACT 1997 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.CDN97.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2 OBTAINING PAYMENT OF DEBT [ss 5&#x2013;13]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CDN97.PT2" type="ext"/>PART 2</designum></desig><title searchtype="PART-TITLE">OBTAINING PAYMENT OF DEBT [ss 5&#x2013;13]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,065] s 5 Unpaid persons can obtain payment from principal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S5" type="ext"/>[290,065]</edpnum><title searchtype="SECT-TITLE">Unpaid persons can obtain payment from principal</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person (the 
+<deflist><defitem id="UCPN.OL.CDN97.S3.UNPAID-PERSON"><defterm><refpt id="UCPN.OL.CDN97.S3.UNPAID-PERSON" type="ext"/><emph typestyle="bf">unpaid person</emph></defterm></defitem></deflist> ) who is owed money for work carried out for or materials supplied to some other person (the 
+<deflist><defitem id="UCPN.OL.CDN97.S3.DEFAULTING-CONTRACTOR"><defterm><refpt id="UCPN.OL.CDN97.S3.DEFAULTING-CONTRACTOR" type="ext"/><emph typestyle="bf">defaulting contractor</emph></defterm></defitem></deflist> ) can obtain payment of that money in accordance with this Act out of money that is payable or becomes payable to the defaulting contractor by some other person (the 
+<deflist><defitem id="UCPN.OL.CDN97.S3.PRINCIPAL"><defterm><refpt id="UCPN.OL.CDN97.S3.PRINCIPAL" type="ext"/><emph typestyle="bf">principal</emph></defterm></defitem></deflist> ) for work or materials that the principal engaged the defaulting contractor to carry out or supply under a contract.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>However, the unpaid person can obtain payment from the principal under this Act only if the work carried out or materials supplied by the unpaid person are, or are part of or incidental to, the work or materials that the principal engaged the defaulting contractor to carry out or supply.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>A typical example of an unpaid person is a tradesperson, labourer or supplier (including a corporation).</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,070] s 6 Procedure for obtaining payment">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S6" type="ext"/>[290,070]</edpnum><title searchtype="SECT-TITLE">Procedure for obtaining payment</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S6.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The following procedure must be followed to obtain payment of the money owed:</text></p>
+<l><li id="UCPN.OL.CDN97.S6.1.A"><lilabel><refpt id="UCPN.OL.CDN97.S6.1.A" type="ext"/>(a)</lilabel>
+<p><text>firstly, a debt certificate must have been issued for the money owed (as provided for by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CDN97.S7" remotekey1="REFPTID" service="DOC-ID">section 7</remotelink></ci:content></ci:cite>
+ ),</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S6.1.B"><lilabel><refpt id="UCPN.OL.CDN97.S6.1.B" type="ext"/>(b)</lilabel>
+<p><text>secondly, the unpaid person must serve a notice of claim on the principal.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S6.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A notice of claim is a notice in an approved form together with a copy of the debt certificate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,075] s 7 Certification of debt by court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S7" type="ext"/>[290,075]</edpnum><title searchtype="SECT-TITLE">Certification of debt by court</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S7.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>When judgment is given or entered up in any proceedings relating to the recovery of money owed to a person for work carried out or materials supplied, the court may, by order made on the application of the person in whose favour the judgment is given or entered up, issue a certificate (a 
+<deflist><defitem id="UCPN.OL.CDN97.S3.DEBT-CERTIFICATE"><defterm><refpt id="UCPN.OL.CDN97.S3.DEBT-CERTIFICATE" type="ext"/><emph typestyle="bf">debt certificate</emph></defterm></defitem></deflist> ) in respect of the debt under this section.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 120 of 1998   s 3 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S7.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S7.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an adjudication certificate within the meaning of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.BCISPAN99" remotekey1="REFPTID" service="DOC-ID" status="unval">Building and Construction Industry Security of Payment Act 1999</remotelink></ci:content></ci:cite>
+ has been filed as a judgment for a debt in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.BCISPAN99.S25" remotekey1="REFPTID" service="DOC-ID" status="unval">section 25</remotelink></ci:content></ci:cite>
+ of that Act, the court may, by order made on the application by the person who filed the adjudication certificate, issue a debt certificate in respect of the debt under this section.</text></p>
+<leg:histnote>
+<p><text>[subs (1A)  insrt Act 133 of 2003   s 4 and Sch 2 , effective 3 March 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S7.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the debt concerned consists of daily, weekly or monthly wages, and the debt exceeds 120 days' wages, the amount certified in the debt certificate is not to exceed 120 days' wages.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S7.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A debt certificate is not to be issued if the court is satisfied that the work was done on something moveable and it would be practicable for the applicant to exercise a lien by retaining the thing in the applicant's possession.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S7.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S7.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A debt certificate is to be in an approved form.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S7.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S7.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section, 
+<deflist><defitem id="UCPN.OL.CDN97.S7.5.JUDGMENT"><defterm><refpt id="UCPN.OL.CDN97.S7.5.JUDGMENT" type="ext"/><emph typestyle="bf">judgment</emph></defterm></defitem></deflist>  includes a default judgment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,080] s 8 Notice of claim operates as assignment of debt">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S8" type="ext"/>[290,080]</edpnum><title searchtype="SECT-TITLE">Notice of claim operates as assignment of debt</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S8.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of a notice of claim on the principal operates to assign to the unpaid person the obligation of the principal to pay the money owed under the contract to the defaulting contractor.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S8.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The assignment is limited to the amount of the unpaid person's certified debt.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S8.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S8.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The assignment is subject to any prior assignment under this Act that is binding on the principal and the defaulting contractor.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S9"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,085] s 9 Payment of defaulting contractor's debt by principal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S9" type="ext"/>[290,085]</edpnum><title searchtype="SECT-TITLE">Payment of defaulting contractor's debt by principal</title><desig searchtype="SECT-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S9.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>After a notice of claim is served on a principal in accordance with this Part, the principal must pay the money owed to the defaulting contractor to the unpaid person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S9.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The principal must make the payments to the unpaid person as they become payable under the contract with the defaulting contractor until whichever of the following first occurs:</text></p>
+<l><li id="UCPN.OL.CDN97.S9.2.A"><lilabel><refpt id="UCPN.OL.CDN97.S9.2.A" type="ext"/>(a)</lilabel>
+<p><text>the principal receives a discharge notice, or discharge notices, indicating that the certified debt has been fully discharged, or</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S9.2.B"><lilabel><refpt id="UCPN.OL.CDN97.S9.2.B" type="ext"/>(b)</lilabel>
+<p><text>the payments are no longer payable under the contract.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S10"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,090] s 10 Priority of assignments under Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S10" type="ext"/>[290,090]</edpnum><title searchtype="SECT-TITLE">Priority of assignments under Act</title><desig searchtype="SECT-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S10.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The priority of assignments under this Act is to be determined by the order of service of notices of claim on the principal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S10.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>All notices of claim in respect of debts owed by the same defaulting contractor that are served on the principal within the period of 7 days after the first notice in respect of the defaulting contractor is served on the principal are taken to be served at the same time and, accordingly, take equal priority.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S10.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S10.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The principal is not to make any payment to an unpaid person who serves a notice of claim until that 7 day period has elapsed (despite 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CDN97.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite>
+ ).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S10.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S10.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If assignments take equal priority, the principal is to make the payments by distributing the money payable between the unpaid persons who have equal priority pro rata in proportion to the amount of their respective certified debts.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S10.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S10.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The principal must continue to make those payments to each unpaid person until whichever of the following first occurs:</text></p>
+<l><li id="UCPN.OL.CDN97.S10.5.A"><lilabel><refpt id="UCPN.OL.CDN97.S10.5.A" type="ext"/>(a)</lilabel>
+<p><text>the principal receives a discharge notice, or discharge notices, indicating that each certified debt has been fully discharged, or</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S10.5.B"><lilabel><refpt id="UCPN.OL.CDN97.S10.5.B" type="ext"/>(b)</lilabel>
+<p><text>the payments are no longer payable under the contract.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,095] s 11 Right of recovery if principal fails to pay">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S11" type="ext"/>[290,095]</edpnum><title searchtype="SECT-TITLE">Right of recovery if principal fails to pay</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An assignment effected by operation of this Act is valid at law.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Accordingly, if the principal fails to make any payment required to be made by this Act, the unpaid person may sue for and recover the debt assigned to the unpaid person, in the unpaid person's own name.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S11.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings for recovery of the debt may be taken in any manner in which the defaulting contractor might have taken them had there been no assignment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S11.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S11.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An unpaid person's right of recovery under this section is subject to any defence that the principal would have had against recovery of the debt by the defaulting contractor had there been no assignment, other than a defence based on something done by the principal after the notice of claim was served on the principal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>For example, if the principal continues to make the contract payments to the defaulting contractor, rather than the unpaid person, after having been served with a notice of claim, the unpaid person is still entitled to recover the money from the principal.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S12"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,100] s 12 Assignment ceases to operate on discharge of debt">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S12" type="ext"/>[290,100]</edpnum><title searchtype="SECT-TITLE">Assignment ceases to operate on discharge of debt</title><desig searchtype="SECT-NUM"><designum>12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S12.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S12.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the debt owed to an unpaid person by a defaulting contractor is discharged, or the judgment or order that resulted in a debt certificate being issued in respect of the debt is set aside, any assignment effected by operation of this Act in connection with that debt ceases to operate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S12.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S12.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If only part of the debt is discharged, the assignment effected in respect of that part of the debt ceases to operate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S12.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S12.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not affect any payment or dealing that is made by a principal in good faith before the principal receives notice, and sufficient evidence of, the discharge of the debt or the setting aside of the judgment or order. To the extent necessary to give effect to such a payment or dealing, the assignment effected by operation of this Act is taken to continue in force.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>If a principal makes a payment to an unpaid person (as required by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CDN97.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite>
+ ), instead of paying the defaulting contractor, without knowing that the debt owed to the unpaid person has been discharged by the defaulting contractor, this section protects the principal from being required by the defaulting contractor to make the payment to the defaulting contractor.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S13"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,105] s 13 Unpaid person required to provide discharge notice">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S13" type="ext"/>[290,105]</edpnum><title searchtype="SECT-TITLE">Unpaid person required to provide discharge notice</title><desig searchtype="SECT-NUM"><designum>13</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S13.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S13.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a defaulting contractor or principal makes a payment to an unpaid person in partial or full discharge of the debt owed to the unpaid person, the unpaid person must, on the request of the person making the payment, give that person a discharge notice in respect of the payment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S13.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S13.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A discharge notice is a notice in an approved form that acknowledges the payment of the amount paid and is signed by the unpaid person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S13.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S13.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the unpaid person does not give the notice within 7 days of such a payment and request, the unpaid person is to forfeit and pay to the person who made the payment a sum equal to the amount paid. The penalty is recoverable by the person who made the payment as a debt in a court of competent jurisdiction.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

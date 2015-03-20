@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 3 INTERIM PAYMENTS, WHERE INTER-INSURER DISPUTE [ss 42&#x2013;46]</docinfo:doc-heading><docinfo:doc-id>UCPN.DDT.DDTN89.D3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Dust Diseases Tribunal</title></heading><docinfo:hierlev role="ancestor"><heading><title>DUST DISEASES TRIBUNAL ACT 1989 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 6 INTERIM PAYMENTS [ss 40&#x2013;46]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 3 INTERIM PAYMENTS, WHERE INTER-INSURER DISPUTE [ss 42&#x2013;46]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>170000090</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DDT"/><docinfo:metaitem name="parent-filename" value="ddt.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DDT.SGM_UCPN.DDT.DDTN89"/><docinfo:metaitem name="parent-filename" value="ddt1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 63, 1989</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">DUST DISEASES TRIBUNAL ACT 1989 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.DDT.DDTN89.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.DDT.DDTN89.PT6"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 6 INTERIM PAYMENTS [ss 40&#x2013;46]"><leg:levelbody>
+<leg:level id="UCPN.DDT.DDTN89.D3"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 3 INTERIM PAYMENTS, WHERE INTER-INSURER DISPUTE [ss 42&#x2013;46]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.DDT.DDTN89.D3" type="ext"/>DIVISION 3</designum></desig><title searchtype="DIV-TITLE">INTERIM PAYMENTS, WHERE INTER-INSURER DISPUTE [ss 42&#x2013;46]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTN89.S42"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[471,040] s 42 Definition">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTN89.S42" type="ext"/>[471,040]</edpnum><title searchtype="SECT-TITLE">Definition</title><desig searchtype="SECT-NUM"><designum>42</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Division:</text></p>
+<deflist><defitem id="UCPN.DDT.DDTN89.S42.INTERIM.PAYMENT"><defterm><refpt id="UCPN.DDT.DDTN89.S42.INTERIM.PAYMENT" type="ext"/><emph typestyle="bf">interim payment</emph></defterm> <defdesc>
+<p><text>means payment of a part or the whole of damages by a designated insurer:</text></p>
+<l><li id="UCPN.DDT.DDTN89.S42.INTERIM.PAYMENT.A"><lilabel><refpt id="UCPN.DDT.DDTN89.S42.INTERIM.PAYMENT.A" type="ext"/>(a)</lilabel>
+<p><text>in accordance with an order of the Tribunal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S43" remotekey1="REFPTID" service="DOC-ID">section 43</remotelink></ci:content></ci:cite>
+ , or</text></p>
+</li>
+<li id="UCPN.DDT.DDTN89.S42.INTERIM.PAYMENT.B"><lilabel><refpt id="UCPN.DDT.DDTN89.S42.INTERIM.PAYMENT.B" type="ext"/>(b)</lilabel>
+<p><text>voluntarily.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S43"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[471,045] s 43 Interim payments before or after assessment of damages where inter-insurer dispute">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTN89.S43" type="ext"/>[471,045]</edpnum><title searchtype="SECT-TITLE">Interim payments before or after assessment of damages where inter-insurer dispute</title><desig searchtype="SECT-NUM"><designum>43</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTN89.S43.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S43.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>While an inter-insurer dispute remains unresolved, the Tribunal may, in accordance with this section, order a designated insurer who is a party to the dispute to make one or more payments to the plaintiff of part or the whole of the damages sought to be recovered in the proceedings concerned.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S43.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S43.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may make such an order against a designated insurer on the application of the plaintiff at any stage of the proceedings or at any time during the currency of the dispute (whether before or after judgment has been obtained, and whether before or after damages have been assessed).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S43.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S43.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may make such an order if:</text></p>
+<l><li id="UCPN.DDT.DDTN89.S43.3.A"><lilabel><refpt id="UCPN.DDT.DDTN89.S43.3.A" type="ext"/>(a)</lilabel>
+<p><text>the defendant or the designated insurer has admitted liability, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTN89.S43.3.B"><lilabel><refpt id="UCPN.DDT.DDTN89.S43.3.B" type="ext"/>(b)</lilabel>
+<p><text>the plaintiff has obtained judgment against the defendant (whether or not damages have been assessed), or</text></p>
+</li>
+<li id="UCPN.DDT.DDTN89.S43.3.C"><lilabel><refpt id="UCPN.DDT.DDTN89.S43.3.C" type="ext"/>(c)</lilabel>
+<p><text>the Tribunal is satisfied that, if the proceedings proceeded to trial, the plaintiff would obtain judgment for substantial damages against the defendant.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S43.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S43.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may order a designated insurer to make one or more payments of such amounts as it thinks just but not exceeding:</text></p>
+<l><li id="UCPN.DDT.DDTN89.S43.4.A"><lilabel><refpt id="UCPN.DDT.DDTN89.S43.4.A" type="ext"/>(a)</lilabel>
+<p><text>if damages have not been assessed &#x2014; a reasonable proportion of the damages that in the opinion of the Tribunal are likely to be recovered by the plaintiff, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTN89.S43.4.B"><lilabel><refpt id="UCPN.DDT.DDTN89.S43.4.B" type="ext"/>(b)</lilabel>
+<p><text>if damages have been assessed &#x2014; the amount of damages as assessed.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S43.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S43.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In estimating damages that have not been assessed, the Tribunal is to take into account any relevant contributory negligence or any cross-claims on which the defendant may be entitled to rely.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S44"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[471,050] s 44 Interim payment not admission of liability, where inter-insurer dispute">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTN89.S44" type="ext"/>[471,050]</edpnum><title searchtype="SECT-TITLE">Interim payment not admission of liability, where inter-insurer dispute</title><desig searchtype="SECT-NUM"><designum>44</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTN89.S44.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S44.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The fact that a designated insurer makes one or more interim payments is not of itself an admission of liability by the defendant or the designated insurer.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S44.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S44.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The making of, or refusal to make, an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S43" remotekey1="REFPTID" service="DOC-ID">section 43</remotelink></ci:content></ci:cite>
+ is not a finding as to liability in respect of the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S45"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[471,055] s 45 Adjustments, where inter-insurer dispute, before assessment of damages">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTN89.S45" type="ext"/>[471,055]</edpnum><title searchtype="SECT-TITLE">Adjustments, where inter-insurer dispute, before assessment of damages</title><desig searchtype="SECT-NUM"><designum>45</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTN89.S45.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S45.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies to proceedings in which a designated insurer makes one or more interim payments before damages are assessed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S45.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S45.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal or an arbitrator or referee may make such orders with respect to the interim payments as may be just, and in particular may order one or more of the following:</text></p>
+<l><li id="UCPN.DDT.DDTN89.S45.2.A"><lilabel><refpt id="UCPN.DDT.DDTN89.S45.2.A" type="ext"/>(a)</lilabel>
+<p><text>the repayment by the plaintiff of all or part of any interim payment, with or without interest,</text></p>
+</li>
+<li id="UCPN.DDT.DDTN89.S45.2.B"><lilabel><refpt id="UCPN.DDT.DDTN89.S45.2.B" type="ext"/>(b)</lilabel>
+<p><text>the variation or discontinuation of any such payments,</text></p>
+</li>
+<li id="UCPN.DDT.DDTN89.S45.2.C"><lilabel><refpt id="UCPN.DDT.DDTN89.S45.2.C" type="ext"/>(c)</lilabel>
+<p><text>the payment by another party to the proceedings of all or part of any interim payment that the defendant is entitled to recover from that party.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S45.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S45.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may make an order under this section:</text></p>
+<l><li id="UCPN.DDT.DDTN89.S45.3.A"><lilabel><refpt id="UCPN.DDT.DDTN89.S45.3.A" type="ext"/>(a)</lilabel>
+<p><text>in making a final judgment or order, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTN89.S45.3.B"><lilabel><refpt id="UCPN.DDT.DDTN89.S45.3.B" type="ext"/>(b)</lilabel>
+<p><text>in granting the plaintiff leave to discontinue the proceedings or to withdraw the claim, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTN89.S45.3.C"><lilabel><refpt id="UCPN.DDT.DDTN89.S45.3.C" type="ext"/>(c)</lilabel>
+<p><text>on the application of any party, at any other stage in the proceedings.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S45.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S45.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any direction of the Tribunal, an arbitrator or referee may make an order under this section in the course of an arbitration under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S38" remotekey1="REFPTID" service="DOC-ID">section 38</remotelink></ci:content></ci:cite>
+ , on the application of any party.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S46"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[471,060] s 46 Adjustments, where inter-insurer dispute, after assessment of damages">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTN89.S46" type="ext"/>[471,060]</edpnum><title searchtype="SECT-TITLE">Adjustments, where inter-insurer dispute, after assessment of damages</title><desig searchtype="SECT-NUM"><designum>46</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTN89.S46.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S46.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies where a designated insurer makes one or more interim payments after damages are assessed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S46.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S46.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal or an arbitrator or referee may make such orders with respect to the interim payments as may be just, and in particular may order reimbursement of the designated insurer by another insurer to the dispute concerned for all or part of any interim payment, with or without interest.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S46.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S46.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In making such orders, the Tribunal or the arbitrator or referee is to have regard to the provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="009C" refpt="WCN.WCA.WCN.S151AC" remotekey1="REFPTID" service="DOC-ID">section 151AC</remotelink></ci:content></ci:cite>
+ of the Workers Compensation Act 1987 and to such other matters as the Tribunal considers to be relevant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S46.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S46.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may make such an order on the application of any party.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTN89.S46.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTN89.S46.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any direction of the Tribunal, an arbitrator or referee may make such an order in the course of an arbitration under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S38" remotekey1="REFPTID" service="DOC-ID">section 38</remotelink></ci:content></ci:cite>
+ , on the application of any party.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

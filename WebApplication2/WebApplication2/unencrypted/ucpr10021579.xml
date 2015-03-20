@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 LEGISLATION OF NEW SOUTH WALES</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPN05.SCH8.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>[Sch 8] SCHEDULE 8 ASSIGNMENT OF BUSINESS IN THE SUPREME COURT</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 LEGISLATION OF NEW SOUTH WALES</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50011930</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN_UCPR.SGM_SCHEDULE.GRP_4"><leg:level-vrnt leveltype="schedulegrp" searchtype="LEGISLATION SCHEDULEGRP"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.SCH8"><leg:level-vrnt leveltype="schedule" searchtype="LEGISLATION SCHEDULE" subdoc="false" toc-caption="[Sch 8] SCHEDULE 8 ASSIGNMENT OF BUSINESS IN THE SUPREME COURT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><edpnum><refpt id="UCPN.UCPR.UCPRN05.SCH8" type="ext"/>[Sch 8]</edpnum><desig searchtype="SCH-NUM"><designum>SCHEDULE 8</designum></desig><title searchtype="SCH-TITLE">ASSIGNMENT OF BUSINESS IN THE SUPREME COURT</title><leg:empleg>(Rules 1.16 and 45.8)</leg:empleg><leg:histnote>
+<p><text>[Sch 8  insrt Amendment 10 of 2006  r 2 and Sch 1[29], effective 7 July 2006]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPN05.SCH8.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 LEGISLATION OF NEW SOUTH WALES">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPN05.SCH8.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">LEGISLATION OF NEW SOUTH WALES</title><leg:histnote>
+<p><text>[Pt 1  am Act 120 of 2006  s 3 and Sch 2[2.107] , effective 4 December 2006 ; Amendment 13 of 2007  r 3 and Sch 1[12]&#x2013;[13], effective 5 April 2007 ; Amendment 17 of 2007 r 2 and Sch 1[9], effective 5 October 2007 ; Amendment 22 of 2008  r 2 and Sch 1[23], effective 8 August 2008 ; Amendment 24 of 2009  r 2 and Sch 1[18], [19], effective 6 March 2009 ; Amendment 29 of 2009  Sch 1[43], effective 8 October 2009 ; Act 34 of 2010  Sch 2.51, effective 1 July 2010 ; Amendment 40 of 2010  r 2 and Sch 1[2], effective 1 March 2011; Amendment 44 of 2011   Sch 1[9], effective 15 April 2011 ; Amendment 56 of 2012 Sch 1[4], effective 21 January 2013]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="topbot" pgwide="1">
+<tgroup align="left" cols="4" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="8*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="8*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="6*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="4*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Column 1</entry>
+<entry colsep="0" morerows="0" rowsep="0">Column 2</entry>
+<entry colsep="0" morerows="0" rowsep="0">Column 3</entry>
+<entry colsep="0" morerows="0" rowsep="0">Column 4</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="1">Act or instrument</entry>
+<entry colsep="0" morerows="0" rowsep="1">Provisions</entry>
+<entry colsep="0" morerows="0" rowsep="1">Division</entry>
+<entry colsep="0" morerows="0" rowsep="1">List</entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Administrative Decisions Tribunal Act 1997</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 118, 118D or 119</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Adoption Act 2000</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Agricultural Tenancies Act 1990</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Apiaries Act 1985</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 45</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Associations Incorporation Act 1984</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 40, 54, 55B or 58</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Australian Mutual Provident Society (Demutualisation and Reconstruction) Act 1997</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Bishopsgate Insurance Australia Limited Act 1983</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 7</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Building and Construction Industry Long Service Payments Act 1986</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Business Names Act 2002</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Casino Control Act 1992</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 33, 34 or 155</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Charitable Fundraising Act 1991</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Children and Young Persons (Care and Protection) Act 1998</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Children (Care and Protection) Act 1987</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Children (Criminal Proceedings) Act 1987</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Commercial Arbitration Act 1984, except in relation to arbitration proceedings that are appropriate for assignment to the Technology and Construction List</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0">Commercial</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Commercial Arbitration Act 1984, in relation to arbitration proceedings that are appropriate for assignment to the Technology and Construction List</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0">Technology and Construction</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Community Land Development Act 1989</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Community Land Management Act 1989</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Community Services (Complaints, Reviews and Monitoring) Act 1993</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Community Welfare Act 1987</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Companies Act 1961</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 9 or 166B</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Companies (Acquisition of Shares) (New South Wales) Code</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Companies (Application of Laws) Act 1981</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Companies (New South Wales) Code</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Competition Policy Reform (New South Wales) Act 1995</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law or Equity (as appropriate in the circumstances)</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Confiscation of Proceeds of Crime Act 1989</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Constitution Further Amendment (Referendum) Act 1930</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 28</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Consumer, Trader and Tenancy Tribunal Act 2001</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 65, 66 and 67</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Conveyancers Licensing Act 2003</entry>
+<entry colsep="0" morerows="0" rowsep="0">All provisions except in relation to proceedings assigned to the Court of Appeal</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Co-operative Housing and Starr-Bowkett Societies Act 1998</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Co-operatives Act 1992</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Corporations (New South Wales) Act 1990</entry>
+<entry colsep="0" morerows="0" rowsep="0">any &#x201c;national scheme law&#x201d; as defined in section 60</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Crimes Act 1900</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 172</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Crimes (Appeal and Review) Act 2001</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 79</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Crimes (Forensic Procedures) Act 2000</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 74</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Criminal Assets Recovery Act 1990</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Criminal Procedure Act 1986</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 30 or Part 5 of Chapter 4</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Dividing Fences Act 1991</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 19(2) or (3)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Driving Instructors Act 1992</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 39(1)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Drug Misuse and Trafficking Act 1985</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 39R</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Electricity Supply Act 1995</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Evidence on Commission Act 1995</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 33</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Exotic Diseases of Animals Act 1991</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Fair Trading Act 1987</entry>
+<entry colsep="0" morerows="0" rowsep="0">All provisions except in relation to proceedings specified in the Third Schedule to the Supreme Court Act 1970 or assigned by Part 75 of the Supreme Court Rules 1970</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law or Equity (as appropriate in the circumstances)</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Family Provision Act 1982</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Felons (Civil Proceedings) Act 1981</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law or Equity (whichever the other proceedings to which the proceedings relate have been assigned)</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Fines Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 75(9)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Forfeiture Act 1995</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Freedom of Information Act 1989</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 58A(1)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Funeral Funds Act 1979</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 74</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Part 6</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Futures Industry (New South Wales) Code</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Gas Industry Restructuring Act 1986</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Gas Supply Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 17</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Guardianship Act 1987</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Independent Commission Against Corruption Act 1988</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Landlord and Tenant Act 1899</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Law Enforcement (Powers and Responsibilities) Act 2002</entry>
+<entry colsep="0" morerows="0" rowsep="0">Division 2 of Part 17</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Liquor Act 1982</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Listening Devices Act 1984</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Loan Fund Companies Act 1976</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 64</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Local Government Act 1993</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 330 or 485</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Married Persons (Equality of Status) Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 13</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Mental Health Act 2007</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 163 or 166</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Mental Health (Criminal Procedure) Act 1990</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Mining Act 1992</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 319</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Minors (Property and Contracts) Act 1970</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Motor Accidents Act 1988</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Motor Accidents Compensation Act 1999</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Motor Dealers Act 1974</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 38(2), 38(3B)(a) or Part 5A</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Other than proceedings under section 38(2), 38(3B)(a) or Part 5A</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Murray&#x2013;Darling Basin Act 1992</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 27</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Mutual Recognition (New South Wales) Act 1992</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">National Companies and Securities Commission (State Provisions) Act 1981</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">National Electricity (NSW) Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 46 or 48</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">National Trust of Australia (New South Wales) Act 1990</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Native Title (New South Wales) Act 1994</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">New South Wales Crime Commission Act 1985</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">NSW Trustee and Guardian Act 2009</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Offshore Minerals Act 1999</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 49(2), 136(2), 196(2), 351, 354(1) or 355(1)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Ombudsman Act 1974</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 21A, 35A or 35B</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Parliamentary Electorates and Elections Act 1912</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Petroleum (Submerged Lands) Act 1982</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 8 or 73</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Pipelines Act 1967</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 33 or 52</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Police Integrity Commission Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Powers of Attorney Act 2003</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Price Exploitation Code (New South Wales) Act 1999</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law or Equity (as appropriate in the circumstances)</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Prisoners (Interstate Transfer) Act 1982</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 16</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Probate and Administration Act 1898</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0">Probate List</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Professional Standards Act 1994</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 15</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Property (Relationships) Act 1984</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Protection of the Environment Operations Act 1997</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Public Notaries Act 1997</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 6 or 10</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Real Property Act 1900</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Registered Clubs Act 1976</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 42(1)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Residential Tenancies Act 2010</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Restraints of Trade Act 1976</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Restricted Premises Act 1943</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Retail Leases Act 1994</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 62B(1) or (2), 76A, 77(2) or (4)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Retirement Villages Act 1999</entry>
+<entry colsep="0" morerows="0" rowsep="0">All sections other than section 183(1)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Royal Commission (Police Service) Act 1994</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 11B</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Royal Commissions Act 1923</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 18B</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Rural Assistance Act 1989</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 54</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Securities Industry Act 1975</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Securities Industry (Application of Laws) Act 1981</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Securities Industry (New South Wales) Code</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">State Owned Corporations Act 1989</entry>
+<entry colsep="0" morerows="0" rowsep="0">Clause 9 of Schedule 10</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">State Records Act 1998</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 42, 45 or 72</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Status of Children Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Strata Schemes (Freehold Development) Act 1973</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Strata Schemes (Leasehold Development) Act 1986</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Strata Schemes Management Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 200</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Summary Offences Act 1988</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 25 or 26</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Supreme Court Act 1970</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 70</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Surrogacy Act 2010</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Surveying Act 2002</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Taxation Administration Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0">Part 10</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Testator&#x2019;s Family Maintenance and Guardianship of Infants Act 1916</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Totalizator Act 1997</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 39 or 46</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Totalizator Agency Board Privatisation Act 1997</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 44</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0">Administrative Law</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Travel Agents Act 1986</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 39</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Trustee Companies Act 1964</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Uncollected Goods Act 1995</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 18</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Victims Support and Rehabilitation Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Warnervale Airport (Restrictions) Act 1996</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 13</entry>
+<entry colsep="0" morerows="0" rowsep="0">Equity</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Witness Protection Act 1995</entry>
+<entry colsep="0" morerows="0" rowsep="0">Section 17, 19 or 34(2)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Workers Compensation Act 1987</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Common Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

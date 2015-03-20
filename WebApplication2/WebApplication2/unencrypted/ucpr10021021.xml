@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 3  ELECTRONIC CASE MANAGEMENT [rr 3.1&#x2013;r 3.9]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="me"><heading><title>PART 3  ELECTRONIC CASE MANAGEMENT [rr 3.1&#x2013;r 3.9]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010070</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT3"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3  ELECTRONIC CASE MANAGEMENT [rr 3.1&#x2013;r 3.9]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT3" type="ext"/>PART 3</designum></desig><title searchtype="PART-TITLE"> ELECTRONIC CASE MANAGEMENT [rr 3.1&#x2013;r 3.9]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="48*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="54*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Electronic case management &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-1" remotekey1="REFPTID" service="DOC-ID">3.1</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-9" remotekey1="REFPTID" service="DOC-ID">3.9</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">These rules provide for the implementation of a system for the issue, filing and service of court documents by electronic communication. They establish a procedure for registration of electronic users. UCPR <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH4" remotekey1="REFPTID" service="DOC-ID">Sch 4</remotelink></ci:content></ci:cite>
+sets out the kinds of documents to which the ECM system applies. The ECM system may be used for proceedings that can be conducted in the absence of the public.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">This Part applies to all courts in CPA Sch 1: see UCPR <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN_UCPR.UCPRN05.R1-5" remotekey1="REFPTID" service="DOC-ID" status="unval"> r 1.5</remotelink></ci:content></ci:cite>
+and <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN_UCPR.UCPRN05.SCH1" remotekey1="REFPTID" service="DOC-ID" status="unval">Sch 1</remotelink></ci:content></ci:cite>
+.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">These rules are new and complement Electronic Transactions Act 2000 <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.PT2A" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 2A</remotelink></ci:content></ci:cite>
+and <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1" remotekey1="REFPTID" service="DOC-ID" status="unval">Sch 1</remotelink></ci:content></ci:cite>
+. That legislation permits the Attorney-General to establish an Electronic Case Management system for use in particular courts.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="col5" namest="col1" rowsep="0">Quick index</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Affidavits &#x2014; electronic filing&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-5" remotekey1="REFPTID" service="DOC-ID">[r 3.5]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Business in the absence of the public&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-9" remotekey1="REFPTID" service="DOC-ID">[r 3.9]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Consent&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.3-8-10" remotekey1="REFPTID" service="DOC-ID">[3.8.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Consequences of failure to register&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.3-3-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[3.3.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Definitions &#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-1" remotekey1="REFPTID" service="DOC-ID">[r 3.1]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Documents &#x2014; electronic issue&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-7" remotekey1="REFPTID" service="DOC-ID">[r 3.7]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Electronic Transactions Act 2000&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.3-2-5" remotekey1="REFPTID" service="DOC-ID">[3.2.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.3-8-5" remotekey1="REFPTID" service="DOC-ID">[3.8.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Filing by use of ECM system&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-4" remotekey1="REFPTID" service="DOC-ID">[r 3.4]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">JusticeLink eServices&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.R3-4-5" remotekey1="REFPTID" service="DOC-ID">[3.4.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Online court&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.3-9-5" remotekey1="REFPTID" service="DOC-ID">[3.9.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Registration of electronic users&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-3" remotekey1="REFPTID" service="DOC-ID">[r 3.3]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Service &#x2014; consensual electronic service&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-8" remotekey1="REFPTID" service="DOC-ID">[r 3.8]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Wills &#x2014; electronic filing in probate proceedings&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-6" remotekey1="REFPTID" service="DOC-ID">[r 3.6]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Written records&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-4A" remotekey1="REFPTID" service="DOC-ID">[r 3.4A]</remotelink></ci:content></ci:cite></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.1] r 3.1 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-1" type="ext"/>[r 3.1]</edpnum><title searchtype="RUL-TITLE">Definitions</title><desig searchtype="RUL-NUM"><designum>3.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-1.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R3-1.1.ECM-SYSTEM"><defterm><refpt id="UCPN.UCPR.UCPRN05.R3-1.1.ECM-SYSTEM" type="ext"/><emph typestyle="bf">ECM system</emph></defterm> <defdesc>
+<p><text>means an electronic case management system established under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL2" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 2 of Schedule 1 </remotelink></ci:content></ci:cite>
+ to the Electronic Transactions Act 2000.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R3-1.1.REGISTERED-USER"><defterm><refpt id="UCPN.UCPR.UCPRN05.R3-1.1.REGISTERED-USER" type="ext"/><emph typestyle="bf">registered user</emph></defterm> <defdesc>
+<p><text>means a person who is registered as a user of the ECM system under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-3" remotekey1="REFPTID" service="DOC-ID">rule 3.3</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[subr (1)  am Amendment 38 of 2010  s 3(1), effective 15 October 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-1.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part, a reference to <defterm><emph typestyle="bf">filing</emph></defterm> a document in the court includes a reference to any other method of sending a document to the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.2] r 3.2 Application of Part ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-2" type="ext"/>[r 3.2]</edpnum><title searchtype="RUL-TITLE">Application of Part </title><desig searchtype="RUL-NUM"><designum>3.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to those courts, and for those purposes, for which the use of an ECM system is authorised by an order in force under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL3" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 3 of Schedule 1</remotelink></ci:content></ci:cite>
+ to the Electronic Transactions Act 2000.</text></p>
+<leg:histnote>
+<p><text>[r 3.2  am Amendment 38 of 2010  s 3(2), effective 15 October 2010]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT3.R2.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.3-2-5" leveltype="para0" subdoc="true" toc-caption="[3.2.5]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [3.2.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2000-8" remotekey1="REFPTID" service="DOC-ID">Electronic Transactions Act 2000</remotelink> Clause 2, Sch 1 cl 3.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.3-2-5" type="ext"/>[3.2.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL2" remotekey1="REFPTID" service="DOC-ID" status="unval">Clause 2</remotelink></ci:content></ci:cite>
+ of Schedule 1 to the Electronic Transactions Act 2000 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL2" remotekey1="REFPTID" service="DOC-ID" status="unval">Sch 1 cl 2</remotelink></ci:content></ci:cite>
+ (previously s 14B) authorises the establishment of an electronic case management system. Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL3" remotekey1="REFPTID" service="DOC-ID" status="unval">Sch 1 cl 3</remotelink></ci:content></ci:cite>
+ (previously s 14C), the Attorney-General may, by order published in the Gazette, authorise the use of an ECM system by such courts and for such purposes, as are specified in the order.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.3] r 3.3 Registration of users">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-3" type="ext"/>[r 3.3]</edpnum><title searchtype="RUL-TITLE">Registration of users</title><desig searchtype="RUL-NUM"><designum>3.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The registrar of the court may register any person as a user of the ECM system in relation to the court, either generally or for particular proceedings, and may specify the level of access to which the person is entitled, and the conditions of use applicable to the person, as a registered user of the system.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any order of the court, a person may not be registered as a user of the ECM system for particular proceedings unless the person is:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-3.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-3.2.A" type="ext"/>(a)</lilabel>
+<p><text>a party to the proceedings, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-3.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-3.2.B" type="ext"/>(b)</lilabel>
+<p><text>a legal practitioner representing a party to the proceedings, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-3.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-3.2.C" type="ext"/>(c)</lilabel>
+<p><text>a person authorised to use the ECM system in relation to the proceedings by a legal practitioner representing a party to the proceedings, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-3.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-3.2.D" type="ext"/>(d)</lilabel>
+<p><text>a person who, pursuant to rule 4.4(1)(b) or 4.4(3), is authorised to sign documents on behalf of a party in proceedings in the Local Court, but only in connection with proceedings and matters in relation to which that paragraph or subrule authorises documents to be so signed.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subrule (2)  am Amendment 26 of 2009  Sch 1[1], effective 8 May 2009 ; am Amendment 19 of 2007  r 3 and Sch 2[1], effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The senior judicial officer of the court may establish a protocol for the registration of persons as users of the ECM system, either generally or for particular proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Such a protocol may provide for the automatic registration of particular classes of persons as users of the ECM system, and for the automatic specification of the level of access to which persons of such a class are entitled and the conditions of use applicable to persons of such a class as registered users of the system.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-3.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In relation to any proceedings before the court, the level of access to the</text></p>
+<p><text>ECM system to which a registered user is entitled, and the conditions of use applicable to a registered user, are subject to any order of the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.R3-3.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.R3-3-5" leveltype="para0" subdoc="true" toc-caption="[3.3.5] Consequences of failure to register"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.R3-3-5" type="ext"/>[3.3.5] </edpnum><title>Consequences of failure to register</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The court can order legal representatives to apply to the Registrar for registration of themselves and any person authorised by them as users of the ECM system: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000308" spanref="cr000308-001"><ci:reporter value="urj"/><ci:refnum num="BC200603298"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hill v W &amp; F Lechner Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 440; <ci:span spanid="cr000308-001"> BC200603298</ci:span></citefragment> <remotelink dpsi="0018" refpt="416039" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (failure of defendant&#x2019;s solicitor to cause counsel for the defendant to become registered as user of ECM system after repeated requests from judge&#x2019;s associate &#x2014; order requiring registration, potential cost consequences for defendant&#x2019;s solicitor). </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.4] r 3.4 Electronic filing of documents">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-4" type="ext"/>[r 3.4]</edpnum><title searchtype="RUL-TITLE">Electronic filing of documents</title><desig searchtype="RUL-NUM"><designum>3.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-4.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4.1.A" type="ext"/>(a)</lilabel>
+<p><text>in relation to proceedings in any court other than the Land and Environment Court, to documents of a kind referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH4.PT1" remotekey1="REFPTID" service="DOC-ID">Part 1</remotelink></ci:content></ci:cite>
+ of Schedule 4, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-4.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4.1.B" type="ext"/>(b)</lilabel>
+<p><text>in relation to proceedings in the Land and Environment Court, to documents of a kind referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH4.PT2" remotekey1="REFPTID" service="DOC-ID">Part 2</remotelink></ci:content></ci:cite>
+ of Schedule 4.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  subst Amendment 20 of 2007  r 3 and Sch 1[1], effective 28 January 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings, a document so specified may be filed in the court on behalf of a party, by means of the ECM system, by any registered user for the proceedings who is:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-4.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4.2.A" type="ext"/>(a)</lilabel>
+<p><text>a person who is authorised by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-4" remotekey1="REFPTID" service="DOC-ID">rule 4.4</remotelink></ci:content></ci:cite>
+ to sign documents on the party&#x2019;s behalf, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-4.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4.2.B" type="ext"/>(b)</lilabel>
+<p><text>a person who has been directed to file the document by a person who is so authorised.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  subst Amendment 3 of 2005  r 2 and Sch 1[1], effective 30 September 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4.2A"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4.2A" type="ext"/>(2A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>When filed by means of the ECM system, a document that is required to be signed by a person is taken:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-4.2A.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4.2A.A" type="ext"/>(a)</lilabel>
+<p><text>to have been duly signed for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-4" remotekey1="REFPTID" service="DOC-ID">rule 4.4</remotelink></ci:content></ci:cite>
+, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-4.2A.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4.2A.B" type="ext"/>(b)</lilabel>
+<p><text>to have been duly authenticated for the purposes of clause 5 of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 1</remotelink></ci:content></ci:cite>
+ to the Electronic Transactions Act 2000,</text></p>
+</li>
+</l>
+<p><text>if the person&#x2019;s name is printed where his or her signature would otherwise appear.</text></p>
+<leg:histnote>
+<p><text>[subr (2A)  insrt Amendment 3 of 2005  r 2 and Sch 1[1], effective 30 September 2005 ; am Amendment 38 of 2010  s 3(3), effective 15 October 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A document that is filed by means of the ECM system is to be given initial acceptance as soon as it is received by the court, and is to be given final acceptance as soon as it is validated by the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting any other ground on which it may be refused, validation is to be refused if any fee payable with respect to the filing of a document is not received by the court within 24 hours after the document&#x2019;s initial acceptance.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A document that is filed by means of the ECM system is taken to have been filed when it is given final acceptance and, when given final acceptance, is taken to have been filed at the time it was given initial acceptance.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notice of the initial and final acceptance of a document, and of the dates of those acceptances, is to be given, by means of the ECM system, to the registered user by whom the document was filed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4.7"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The date and time at which initial or final acceptance was given must be set out in the notice referred to in subrule (6).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.R3-4.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.R3-4-5" leveltype="para0" subdoc="true" toc-caption="[3.4.5] JusticeLink eServices">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [3.4.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2000-8" remotekey1="REFPTID" service="DOC-ID">Electronic Transactions Act 2000</remotelink> cl 2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.R3-4-5" type="ext"/>[3.4.5] </edpnum><title>JusticeLink eServices</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>JusticeLink eServices is an electronic document lodgment system available to legal practitioners and litigant organisations. It provides for electronic lodgment of up to 100 court documents at a time and for tracking of case activity online. Documents can be lodged and viewed outside Registry opening hours and immediate return of sealed documents is available. A list of the documents currently available for electronic lodgment is available on the Forms page for JusticeLink eServices on the Lawlink NSW website: 
+<remotelink href="www.lawlink.nsw.gov.au/lawlink/eservices/ll_eservices.nsf/pages/eservices_forms" hrefclass="http" newwindow="YES">http://www.lawlink.nsw.gov.au/ lawlink/eservices/ll_eservices.nsf/pages/eservices_forms</remotelink>
+.</text></p>
+<p>
+<text>JusticeLink has been established under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL2" remotekey1="REFPTID" service="DOC-ID" status="unval">cl 2</remotelink></ci:content></ci:cite>
+ of Sch 1 of the Electronic Transactions Act 2000. Pursuant to cl 3 of Sch 1, JusticeLink is authorised to be used by the Supreme Court, District Court, Local Court and the Court of Criminal Appeal: see Electronic Transactions (ECM Courts) Order 2005, esp Cols 1 and 2 of Sch 1 for the authorised use of JusticeLink in the various NSW courts.</text></p>
+<p>
+<text>Registered users can lodge court documents and pay the relevant filing fees online. Remote access is available for the following:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Sealed documents</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Information about case initiation</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Court results</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Listings</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Subpoenaed items</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Exhibits.</text></p></li></l></p>
+<p>
+<text>JusticeLink eService generates an electronic record within the Registry, which is used as the formal court record of the proceedings.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.4A] r 3.4A Written record to be kept of direction to e-file document">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-4A" type="ext"/>[r 3.4A]</edpnum><title searchtype="RUL-TITLE">Written record to be kept of direction to e-file document</title><desig searchtype="RUL-NUM"><designum>3.4A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4A.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who directs that a document be filed as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-4.2.B" remotekey1="REFPTID" service="DOC-ID">rule 3.4(2)(b)</remotelink></ci:content></ci:cite>
+ must make a written record of the fact that he or she has given such a direction.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4A.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the person by whom the direction was given is a legal practitioner, the legal practitioner is taken:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-4A.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4A.2.A" type="ext"/>(a)</lilabel>
+<p><text>to have affirmed to the court that he or she has given the direction, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-4A.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4A.2.B" type="ext"/>(b)</lilabel>
+<p><text>to have undertaken to the court that, if the court so directs, he or she will produce to the court the written record referred to in subrule (1).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4A.2A"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4A.2A" type="ext"/>(2A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the person by whom the direction was given is a person who, pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-4.1.B" remotekey1="REFPTID" service="DOC-ID">rule 4.4(1)(b)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-4.3" remotekey1="REFPTID" service="DOC-ID">4.4(3)</remotelink></ci:content></ci:cite>
+, is authorised to sign documents on behalf of a party in proceedings in the Local Court, that person is taken:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-4A.2A.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4A.2A.A" type="ext"/>(a)</lilabel>
+<p><text>to have affirmed to the court that he or she has given the direction, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-4A.2A.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-4A.2A.B" type="ext"/>(b)</lilabel>
+<p><text>to have undertaken to the court that, if the court so directs, he or she will produce to the court the written record referred to in subrule (1).</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subrule (2A)  insrt Amendment 26 of 2009  Sch 1[2], effective 8 May 2009 ; am Amendment 19 of 2007  r 3 and Sch 2[1], effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4A.2B"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4A.2B" type="ext"/>(2B)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If in any proceedings in which a document has been filed as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-4A.2.B" remotekey1="REFPTID" service="DOC-ID">rule 3.4(2)(b)</remotelink></ci:content></ci:cite>
+ the court directs production of the written record referred to in subrule (1), it may also stay the proceedings until the record is produced.</text></p>
+<leg:histnote>
+<p><text>[subrule (2B)  insrt Amendment 26 of 2009  Sch 1[2], effective 8 May 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-4A.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-4A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A written direction for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-4.2.B" remotekey1="REFPTID" service="DOC-ID">rule 3.4(2)(b)</remotelink></ci:content></ci:cite>
+ is taken to be a written record for the purposes of this rule.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 3.4A  insrt Amendment 3 of 2005  r 2 and Sch 1[2], effective 30 September 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.5] r 3.5 Filing of affidavits">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-5" type="ext"/>[r 3.5]</edpnum><title searchtype="RUL-TITLE">Filing of affidavits</title><desig searchtype="RUL-NUM"><designum>3.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to an affidavit that is filed in the court by means of the</text></p>
+<p><text>ECM system.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In the case of an affidavit filed by a legal practitioner, the legal practitioner is taken:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-5.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-5.2.A" type="ext"/>(a)</lilabel>
+<p><text>to have affirmed to the court that he or she has possession of the original affidavit, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-5.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-5.2.B" type="ext"/>(b)</lilabel>
+<p><text>to have undertaken to the court that, if the court so directs, he or she will file the original affidavit in accordance with the court&#x2019;s directions.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-5.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In the case of an affidavit filed otherwise than by a legal practitioner, the original affidavit must be filed in the court:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-5.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-5.3.A" type="ext"/>(a)</lilabel>
+<p><text>if a practice note so requires or the court so directs, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-5.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-5.3.B" type="ext"/>(b)</lilabel>
+<p><text>if so required or directed, within the time limited by the relevant practice note or direction.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-5.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-5.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any document referred to in an affidavit that cannot be filed by means of the ECM system is taken to be an exhibit, and not an annexure, regardless of the terms of the affidavit.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.6] r 3.6 Filing of wills">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-6" type="ext"/>[r 3.6]</edpnum><title searchtype="RUL-TITLE">Filing of wills</title><desig searchtype="RUL-NUM"><designum>3.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to a will that is required to be filed in the court together with an application for probate of the will, or for administration of a person&#x2019;s estate with the will annexed, if the application is, but the will is not, filed by means of the ECM system.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A will to which this rule applies must be filed in the court:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-6.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-6.2.A" type="ext"/>(a)</lilabel>
+<p><text>at least 2 days before the date of the next hearing in the proceedings in which the will is intended to be used, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-6.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-6.2.B" type="ext"/>(b)</lilabel>
+<p><text>within 7 days after the date on which the application is filed by means of the ECM system, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-6.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-6.2.C" type="ext"/>(c)</lilabel>
+<p><text>within such earlier time as the court may by order direct, whichever first occurs.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-6.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-6.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the application is filed by a legal practitioner, the legal practitioner is taken:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-6.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-6.3.A" type="ext"/>(a)</lilabel>
+<p><text>to have affirmed to the court that he or she has possession of the will, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-6.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-6.3.B" type="ext"/>(b)</lilabel>
+<p><text>to have undertaken to the court that, if the court so directs, he or she will file the will in accordance with the court&#x2019;s directions.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.7] r 3.7 Electronic issuing of a document">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-7" type="ext"/>[r 3.7]</edpnum><title searchtype="RUL-TITLE">Electronic issuing of a document</title><desig searchtype="RUL-NUM"><designum>3.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, by means of the ECM system, issue a document to any party who is a registered user for the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The date and time at which the document was issued must be set out in the document.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-7.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>When issued by means of the ECM system, a document that is required to be signed by a person is taken to have been duly authenticated for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL5" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 5 of Schedule 1</remotelink></ci:content></ci:cite>
+ to the Electronic Transactions Act 2000 if the person&#x2019;s name is printed where his or her signature would otherwise appear.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  insrt Amendment 22 of 2008  r 2 and Sch 1[2], effective 8 August 2008 ; am Amendment 38 of 2010  s 3(3), effective 15 October 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.8] r 3.8 Electronic service of a document">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-8" type="ext"/>[r 3.8]</edpnum><title searchtype="RUL-TITLE">Electronic service of a document</title><desig searchtype="RUL-NUM"><designum>3.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party to any proceedings before the court may use electronic mail to serve a document on any other party to the proceedings, whether by means of the ECM system or otherwise, but only with the consent of the other party.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT3.R8.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.3-8-5" leveltype="para0" subdoc="true" toc-caption="[3.8.5]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [3.8.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2000-8" remotekey1="REFPTID" service="DOC-ID">Electronic Transactions Act 2000</remotelink> cl 13 Sch 1.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.3-8-5" type="ext"/>[3.8.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>See also Electronic Transactions Act 2000, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL13" remotekey1="REFPTID" service="DOC-ID" status="unval">cl 13 Sch 1</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.3-8-10" leveltype="para0" subdoc="true" toc-caption="[3.8.10] Consent"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.3-8-10" type="ext"/>[3.8.10] </edpnum><title>Consent</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Consent to service by electronic mail may be given by including an electronic address for service in a notice of appearance: see 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCG.PN7" remotekey1="REFPTID" service="DOC-ID">Practice Note SC Gen 7</remotelink>
+ para 25.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 3.9] r r 3.9 Use of ECM system in business conducted in the absence of the public">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R3-9" type="ext"/>[r 3.9]</edpnum><title searchtype="RUL-TITLE">Use of ECM system in business conducted in the absence of the public</title><desig searchtype="RUL-NUM"><designum>r 3.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any business that, pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S71" remotekey1="REFPTID" service="DOC-ID">section 71</remotelink></ci:content></ci:cite>
+ of the Civil Procedure Act 2005, may be conducted in the absence of the public may be conducted by electronic communication sent and received by means of the ECM system, as provided by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL9" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 9 of Schedule 1</remotelink></ci:content></ci:cite>
+ to the Electronic Transactions Act 2000.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Amendment 38 of 2010  s 3(4), effective 15 October 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A legal practitioner who is a registered user for any proceedings may participate in any such business:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R3-9.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-9.2.A" type="ext"/>(a)</lilabel>
+<p><text>directly (the legal practitioner sends a communication in his or her own name), or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R3-9.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R3-9.2.B" type="ext"/>(b)</lilabel>
+<p><text>indirectly (someone authorised by the legal practitioner sends a communication in the legal practitioner&#x2019;s name).</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  insrt Amendment 3 of 2005  r 2 and Sch1[3], effective 30 September 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R3-9.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R3-9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A legal practitioner who authorises someone else to send a communication, as referred to in subrule (2)(b), is taken to have affirmed to the court that he or she has actual knowledge of the contents of the communication.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  insrt Amendment 3 of 2005  r 2 and Sch1[3], effective 30 September 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT3.R9.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.3-9-5" leveltype="para0" subdoc="true" toc-caption="[3.9.5] Online court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [3.9.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 71.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2000-8" remotekey1="REFPTID" service="DOC-ID">Electronic Transactions Act 2000</remotelink> cl 9 of Sch 1.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 3.3, r 3.9.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.3-9-5" type="ext"/>[3.9.5] </edpnum><title>Online court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S71" remotekey1="REFPTID" service="DOC-ID">s 71</remotelink>
+ permits a number of different types of proceedings to be conducted in the absence of the public. These include non-contentious proceedings, those not involving any personal appearance, guardianship proceedings and interlocutory proceedings (except to the extent they involve a witness giving oral evidence). The present rule, together with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00.SCH1.CL9" remotekey1="REFPTID" service="DOC-ID" status="unval">cl 9 of Sch 1</remotelink></ci:content></ci:cite>
+ to the Electronic Transactions Act 2000 provides a mechanism to establish procedures to conduct those types of proceedings by electronic communication &#x2014; in an &#x201c;online court&#x201d;. In addition, electronic filing has been introduced in the Corporations and Possession Lists in the Supreme Court and in the &#x201c;online court&#x201d; procedures being introduced into cases selected by judicial officers.</text></p>
+<p>
+<text>Practice Note 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SC.PN12" remotekey1="REFPTID" service="DOC-ID">SC Gen 12</remotelink>
+ sets out a protocol for the conduct of an online court. The essential features of the protocol include the following:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Online court availability is restricted to legal practitioners who are registered users for the purposes of UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-9" remotekey1="REFPTID" service="DOC-ID">r 3.9</remotelink>
+. Registration forms are available at 
+<remotelink href="www.lawlink.nsw.gov.au/lawlink/eservices/ll_eservices.nsf/vwFiles/Application_form_new_user.doc/$file/Application_form_new_user.doc" hrefclass="http" newwindow="YES">http://www.lawlink.nsw.gov.au/lawlink/eservices/ll_eservices.nsf/vwFiles/Application_ form_new_user.doc/$file/Application_form_new_user.doc</remotelink>
+. Completed forms should be emailed to 
+<remotelink href="justicelinksupport@agd.nsw.gov.au" hrefclass="http" newwindow="YES">justicelinksupport@agd.nsw.gov.au</remotelink>
+.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>An online court can only be initiated by a judicial officer, although a legal practitioner may request initiation.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>A judicial officer may order that all directions hearings for a particular matter be conducted via the online court.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Online court participants are allocated unique user identification code(s) and passwords. When a user-id is used to send messages and documents to an online court, the person to who that user-id was allocated will be deemed by the judicial officer presiding over the online court, to be the person who sent the messages and documents and is responsible for their contents.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Documents may be sent to, but cannot be filed in, an online court.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Documents sent to an online court must be in an &#x201c;unlocked&#x201d; (ie editable) PDF format.</text></p></li></l></p>
+<p>
+<text>See <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000309" spanref="cr000309-001"><ci:reporter value="urj"/><ci:refnum num="BC200602004"/></ci:caseref><ci:caseref anaphref="cr000309" spanref="cr000309-002"><ci:pinpoint num="10" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Koompahtoo Local Aboriginal Land Council v KLALC Property &amp; Investments Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 169; <ci:span spanid="cr000309-001"> BC200602004</ci:span> <ci:span spanid="cr000309-002">at [10]</ci:span></citefragment> <remotelink dpsi="0018" refpt="414023" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000310" spanref="cr000310-001"><ci:reporter value="urj"/><ci:refnum num="BC200603298"/></ci:caseref><ci:caseref anaphref="cr000310" spanref="cr000310-002"><ci:pinpoint num="3" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hill v W &amp; F Lechner Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 440; <ci:span spanid="cr000310-001"> BC200603298</ci:span> <ci:span spanid="cr000310-002">at [3]</ci:span></citefragment> <remotelink dpsi="0018" refpt="416039" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> for form of orders establishing ecmCourt for the purpose of directions hearings. See also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000311" spanref="cr000311-001"><ci:reporter value="urj"/><ci:refnum num="BC200603298"/></ci:caseref><ci:caseref anaphref="cr000311" spanref="cr000311-002"><ci:pinpoint num="11" targettype="para"/></ci:caseref><ci:caseref anaphref="cr000311" spanref="cr000311-003"><ci:pinpoint num="12" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hill v W &amp; F Lechner Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWSC 440; <ci:span spanid="cr000311-001"> BC200603298</ci:span> <ci:span spanid="cr000311-002">at [11], </ci:span> <ci:span spanid="cr000311-003">[12]</ci:span></citefragment> <remotelink dpsi="0018" refpt="416039" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> for orders compelling registration of legal representatives using the ecmCourt under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-3" remotekey1="REFPTID" service="DOC-ID">r 3.3</remotelink></ci:content></ci:cite>
+ and possible cost consequences of failure to do so.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

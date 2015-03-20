@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;11A]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.LAN.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>LIMITATION ACT 1969 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;11A]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140290000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.LAN"/><docinfo:metaitem name="parent-filename" value="ol1058.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">LIMITATION ACT 1969 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1969</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 31, 1969</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>Table of Amendments</title></leg:heading>
+<p>
+<text>The Limitation Act 1969 was assented to on 22 June 1990 and commenced operation on 1 September 1990. The Act is based on the official reprint of 12 September 1991. Since that date the extracts have been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1993 No 46</entry><entry colname="c2">15 June 1993</entry><entry colname="c3">15 June 1993</entry></row>
+<row><entry colname="c1">Limitation (Amendment) Act 1993 No 95</entry><entry colname="c2">30 November 1993</entry><entry colname="c3">3 December 1993</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1997 No 147</entry><entry colname="c2">17 December 1997</entry><entry colname="c3">17 March 1998</entry></row>
+<row><entry colname="c1">Workers Compensation Legislation Amendment (Dust Diseases and Other Matters) Act No 130</entry><entry colname="c2">26 November 1998</entry><entry colname="c3">1 December 1998</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act No 31</entry><entry colname="c2">7 July 1999</entry><entry colname="c3">7 July 1999</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1999 No 85</entry><entry colname="c2">3 December 1999</entry><entry colname="c3">3 December 1999</entry></row>
+<row><entry colname="c1">Civil Liability Amendment (Personal Responsibility) Act 2002 No 92</entry><entry colname="c2">28 November 2002</entry><entry colname="c3">Sch 4.6: 6 December 2002</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2005 98</entry><entry colname="c2">24 November 2005</entry><entry colname="c3">24 November 2005</entry></row>
+<row><entry colname="c1">Defamation Act 2005 No 77</entry><entry colname="c2">26 October 2005</entry><entry colname="c3">1 January 2006</entry></row>
+<row><entry colname="c1">Succession Act 2006 No 80</entry><entry colname="c2">27 October 2006</entry><entry colname="c3">1 March 2008</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 1.60: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">NSW Trustee and Guardian Act 2009 No 49</entry><entry colname="c2">26 June 2009</entry><entry colname="c3">Sch 2.35: 1 July 2009 (s 2)</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.LAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.LAN" type="ext"/>LIMITATION ACT 1969 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act to amend and consolidate the law relating to the limitation of actions; to repeal 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="Q.Q.Q.S5" remotekey1="REFPTID" service="DOC-ID" status="unval">section 5</remotelink></ci:content></ci:cite>
+ of the Imperial Act known as the Common Informers Act 1588 and certain other Imperial enactments; to repeal the unrepealed portion of the Act passed in the fourth year of the reign of William the Fourth number seventeen and certain other enactments; to amend the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="008Y" refpt="PIN.LEG.CTRN" remotekey1="REFPTID" service="DOC-ID">Compensation to Relatives Act of 1897</remotelink></ci:content></ci:cite>
+ , as amended by subsequent Acts, and certain other enactments; to make further provision concerning estates tail; and for purposes connected therewith.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.LAN.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;11A]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.LAN.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;11A]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.LAN.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,000] s 1 Short title and commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S1" type="ext"/>[385,000]</edpnum><title searchtype="SECT-TITLE">Short title and commencement</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.LAN.S1.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the Limitation Act 1969.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S1.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act shall commence upon a day to be appointed by the Governor and notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,005] s 2 Construction">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S2" type="ext"/>[385,005]</edpnum><title searchtype="SECT-TITLE">Construction</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is to be read and construed subject to the Commonwealth of Australia Constitution Act and so as not to exceed the legislative power of the State, to the intent that where any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of the provision to other persons or circumstances is not to be affected.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,010] s 3 Division">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S3" type="ext"/>[385,010]</edpnum><title searchtype="SECT-TITLE">Division</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 3  rep Act 31 of 1999  s 3 and Sch 5]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,015] s 4 Repeal, amendment etc">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S4" type="ext"/>[385,015]</edpnum><title searchtype="SECT-TITLE">Repeal, amendment etc</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 4  rep Act 85 of 1999  s 4 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,020] s 5 Saving">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S5" type="ext"/>[385,020]</edpnum><title searchtype="SECT-TITLE">Saving</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.LAN.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IAN1897.S8" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 8</remotelink></ci:content></ci:cite>
+ of the Interpretation Act of 1897 applies to the repeal by this Act in whole or in part of an 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="Q.Q.Q" remotekey1="REFPTID" service="DOC-ID" status="unval">Imperial Act</remotelink></ci:content></ci:cite>
+ in the manner in which that section applies to the repeal in whole or in part of an Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The repeal or amendment of an enactment or Imperial enactment by this Act does not revive anything not in force or existing at the commencement of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,025] s 6 Transitional provisions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S6" type="ext"/>[385,025]</edpnum><title searchtype="SECT-TITLE">Transitional provisions</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.LAN.S6.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S26" remotekey1="REFPTID" service="DOC-ID">section 26</remotelink></ci:content></ci:cite>
+ , to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.PT3.D3" remotekey1="REFPTID" service="DOC-ID">Division 3</remotelink></ci:content></ci:cite>
+ of Part 3 and to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.SCH5" remotekey1="REFPTID" service="DOC-ID">Schedule 5</remotelink></ci:content></ci:cite>
+ , nothing in this Act:</text></p>
+<l><li id="UCPN.OL.LAN.S6.1.A"><lilabel><refpt id="UCPN.OL.LAN.S6.1.A" type="ext"/>(a)</lilabel>
+<p><text>affects an action brought or arbitration commenced before the commencement of this Act;</text></p>
+</li>
+<li id="UCPN.OL.LAN.S6.1.B"><lilabel><refpt id="UCPN.OL.LAN.S6.1.B" type="ext"/>(b)</lilabel>
+<p><text>enables an action or arbitration to be commenced or maintained which is barred at the commencement of this Act by an enactment or an Imperial enactment repealed or amended by this Act;</text></p>
+</li>
+<li id="UCPN.OL.LAN.S6.1.C"><lilabel><refpt id="UCPN.OL.LAN.S6.1.C" type="ext"/>(c)</lilabel>
+<p><text>affects the extinction of the title of a person to land under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="Q.Q.Q.S34" remotekey1="REFPTID" service="DOC-ID" status="unval">section 34</remotelink></ci:content></ci:cite>
+ of the Imperial Act shortly entitled the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="Q.Q.Q" remotekey1="REFPTID" service="DOC-ID" status="unval">Real Property Limitation Act 1833</remotelink></ci:content></ci:cite>
+ , as adopted and applied by the Act passed in the eighth year of the reign of King William the Fourth, number three, where the period limited by that 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="Q.Q.Q" remotekey1="REFPTID" service="DOC-ID" status="unval">Imperial Act</remotelink></ci:content></ci:cite>
+ , as so adopted and applied, to that person for making an entry or distress or bringing any action or suit to recover the land has commenced to run before the commencement of this Act; or</text></p>
+</li>
+<li id="UCPN.OL.LAN.S6.1.D"><lilabel><refpt id="UCPN.OL.LAN.S6.1.D" type="ext"/>(d)</lilabel>
+<p><text>prevents the commencement and maintenance of an action or arbitration within the time allowed by an enactment or an Imperial enactment repealed or amended by this Act on a cause of action which accrued before the commencement of this Act, but this paragraph has effect subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S6.1.B" remotekey1="REFPTID" service="DOC-ID">paragraphs (b)</remotelink></ci:content></ci:cite>
+ and  
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S6.1.C" remotekey1="REFPTID" service="DOC-ID">(c)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S6.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.SCH5" remotekey1="REFPTID" service="DOC-ID">Schedule 5</remotelink></ci:content></ci:cite>
+ has effect.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,030] s 7 Other limitations">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S7" type="ext"/>[385,030]</edpnum><title searchtype="SECT-TITLE">Other limitations</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Act:</text></p>
+<l><li id="UCPN.OL.LAN.S7..A"><lilabel><refpt id="UCPN.OL.LAN.S7..A" type="ext"/>(a)</lilabel>
+<p><text>applies to an action or arbitration for which a limitation period is fixed by or under an enactment other than this Act or by or under an Imperial enactment (not being an enactment or an Imperial enactment repealed or omitted by this Act); or</text></p>
+</li>
+<li id="UCPN.OL.LAN.S7..B"><lilabel><refpt id="UCPN.OL.LAN.S7..B" type="ext"/>(b)</lilabel>
+<p><text>applies to an action or arbitration to which the Crown is a party and for which, if it were between subjects, a period of limitation would be fixed by or under an enactment other than this Act or by or under an Imperial enactment (not being an enactment or an Imperial enactment repealed or omitted by this Act).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,035] s 8 Saving of specified enactments">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S8" type="ext"/>[385,035]</edpnum><title searchtype="SECT-TITLE">Saving of specified enactments</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.LAN.S8.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Act affects the operation of:</text></p>
+<l><li id="UCPN.OL.LAN.S8.1.A"><lilabel><refpt id="UCPN.OL.LAN.S8.1.A" type="ext"/>(a)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.RPN.S45C" remotekey1="REFPTID" service="DOC-ID" status="unval">section 45C</remotelink></ci:content></ci:cite>
+ of the Real Property Act 1900;</text></p>
+</li>
+<li id="UCPN.OL.LAN.S8.1.B"><lilabel><refpt id="UCPN.OL.LAN.S8.1.B" type="ext"/>(b)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CLCN13.S235B" remotekey1="REFPTID" service="DOC-ID" status="unval">section 235B</remotelink></ci:content></ci:cite>
+ of the Crown Lands Consolidation Act 1913; or</text></p>
+</li>
+<li id="UCPN.OL.LAN.S8.1.C"><lilabel><refpt id="UCPN.OL.LAN.S8.1.C" type="ext"/>(c)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CONVA.S50.2" remotekey1="REFPTID" service="DOC-ID" status="unval">subsection (2)</remotelink></ci:content></ci:cite>
+ of section 50 of the Conveyancing Act 1919.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S8.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section has effect subject to of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DDTN89" remotekey1="REFPTID" service="DOC-ID" status="unval">Dust Diseases Tribunal Act 1989</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DDTN89.SCH3.CL7" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 7</remotelink></ci:content></ci:cite>
+ of Schedule 3 to that Act.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  insrt Act 130 of 1998  s 3 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S9"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,040] s 9 Acquiescence etc">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S9" type="ext"/>[385,040]</edpnum><title searchtype="SECT-TITLE">Acquiescence etc</title><desig searchtype="SECT-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Act affects the rules of equity concerning the refusal of relief on the ground of laches acquiescence or otherwise.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S10"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,045] s 10 The Crown">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S10" type="ext"/>[385,045]</edpnum><title searchtype="SECT-TITLE">The Crown</title><desig searchtype="SECT-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.LAN.S10.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S10.3" remotekey1="REFPTID" service="DOC-ID">subsections (3)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S10.4" remotekey1="REFPTID" service="DOC-ID">(4)</remotelink></ci:content></ci:cite>
+ , this Act binds the Crown and the Crown has the benefit of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S10.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act an action by an officer of the Crown as such or a person acting on behalf of the Crown is an action by the Crown.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S10.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S10.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not apply to an action by the Crown:</text></p>
+<l><li id="UCPN.OL.LAN.S10.3.A"><lilabel><refpt id="UCPN.OL.LAN.S10.3.A" type="ext"/>(a)</lilabel>
+<p><text>for the recovery of a tax or duty or of interest on a tax or duty; or</text></p>
+</li>
+<li id="UCPN.OL.LAN.S10.3.B"><lilabel><refpt id="UCPN.OL.LAN.S10.3.B" type="ext"/>(b)</lilabel>
+<p><text>in respect of the forfeiture of a ship.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S10.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S10.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect the prerogative right of the Crown to gold and silver.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,050] s 11 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S11" type="ext"/>[385,050]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.LAN.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, unless the context or subject matter otherwise indicates or requires:</text></p>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.ACTION"><defterm><refpt id="UCPN.OL.LAN.S11.1.ACTION" type="ext"/><emph typestyle="bf">Action</emph></defterm> <defdesc>
+<p><text>includes any proceeding in a court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.BENEFICIARY"><defterm><refpt id="UCPN.OL.LAN.S11.1.BENEFICIARY" type="ext"/><emph typestyle="bf">Beneficiary</emph></defterm> <defdesc>
+<p><text>, when used in relation to an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S60D" remotekey1="REFPTID" service="DOC-ID">section 60D </remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S60H" remotekey1="REFPTID" service="DOC-ID">60H</remotelink></ci:content></ci:cite>
+ or an application for such an order, means a person for whose benefit an action might be, or might have been, brought under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="008Y" refpt="PIN.LEG.CTRN" remotekey1="REFPTID" service="DOC-ID">Compensation to Relatives Act 1897</remotelink></ci:content></ci:cite>
+ .</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.BREACH-OF-DUTY"><defterm><refpt id="UCPN.OL.LAN.S11.1.BREACH-OF-DUTY" type="ext"/><emph typestyle="bf">Breach of duty</emph></defterm> <defdesc>
+<p><text>, when used in relation to a cause of action for damages for personal injury, extends to the breach of any duty (whether arising by statute, contract or otherwise) and includes trespass to the person.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.CROWN"><defterm><refpt id="UCPN.OL.LAN.S11.1.CROWN" type="ext"/><emph typestyle="bf">Crown</emph></defterm> <defdesc>
+<p><text>includes not only the Crown in right of New South Wales but also, so far as the legislative power of Parliament permits, the Crown in all its other capacities.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.DEED"><defterm><refpt id="UCPN.OL.LAN.S11.1.DEED" type="ext"/><emph typestyle="bf">Deed</emph></defterm> <defdesc>
+<p><text>includes an instrument having the effect of a deed under the law of New South Wales or, in the case of an instrument executed pursuant to the law of:</text></p>
+<l><li id="UCPN.OL.LAN.S11.1.DEED.A"><lilabel><refpt id="UCPN.OL.LAN.S11.1.DEED.A" type="ext"/>(a)</lilabel>
+<p><text>the United Kingdom of Great Britain and Northern Ireland;</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.1.DEED.B"><lilabel><refpt id="UCPN.OL.LAN.S11.1.DEED.B" type="ext"/>(b)</lilabel>
+<p><text>another State of the Commonwealth;</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.1.DEED.C"><lilabel><refpt id="UCPN.OL.LAN.S11.1.DEED.C" type="ext"/>(c)</lilabel>
+<p><text>the Commonwealth;</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.1.DEED.D"><lilabel><refpt id="UCPN.OL.LAN.S11.1.DEED.D" type="ext"/>(d)</lilabel>
+<p><text>a Territory of the Commonwealth; or</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.1.DEED.E"><lilabel><refpt id="UCPN.OL.LAN.S11.1.DEED.E" type="ext"/>(e)</lilabel>
+<p><text>New Zealand,</text></p>
+</li>
+</l>
+<p><text>having the effect of a deed under the law pursuant to which it is executed.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.INCOME"><defterm><refpt id="UCPN.OL.LAN.S11.1.INCOME" type="ext"/><emph typestyle="bf">Income</emph></defterm> <defdesc>
+<p><text>includes interest on a judgment and other interest, and includes rent annuities and dividends, but does not include arrears of interest secured by a mortgage and lawfully treated as principal.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.JUDGMENT"><defterm><refpt id="UCPN.OL.LAN.S11.1.JUDGMENT" type="ext"/><emph typestyle="bf">Judgment</emph></defterm> <defdesc>
+<p><text>includes not only a judgment of a court of New South Wales but also a judgment of a court of the United Kingdom of Great Britain and Northern Ireland, a court of another State of the Commonwealth, a court of the Commonwealth, a court of a Territory of the Commonwealth, or a court of any other place.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.LAND"><defterm><refpt id="UCPN.OL.LAN.S11.1.LAND" type="ext"/><emph typestyle="bf">Land</emph></defterm> <defdesc>
+<p><text>includes:</text></p>
+<l><li id="UCPN.OL.LAN.S11.1.LAND.A"><lilabel><refpt id="UCPN.OL.LAN.S11.1.LAND.A" type="ext"/>(a)</lilabel>
+<p><text>corporeal hereditaments and rentcharges and any estate or interest therein whether freehold or leasehold and whether at law or in equity; and</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.1.LAND.B"><lilabel><refpt id="UCPN.OL.LAN.S11.1.LAND.B" type="ext"/>(b)</lilabel>
+<p><text>the interest pending sale of land (including incorporeal hereditaments) held on trust for sale of a person having an interest in the proceeds of sale;</text></p>
+</li>
+</l>
+<p><text>but does not include easements or profits à prendre nor, subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S11.1.LAND.A" remotekey1="REFPTID" service="DOC-ID">paragraphs (a)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S11.1.LAND.B" remotekey1="REFPTID" service="DOC-ID">(b)</remotelink></ci:content></ci:cite>
+ of this definition, other incorporeal hereditaments.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.LANDLORD"><defterm><refpt id="UCPN.OL.LAN.S11.1.LANDLORD" type="ext"/><emph typestyle="bf">Landlord</emph></defterm> <defdesc>
+<p><text>means a person entitled to land subject to a lease.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.MORTGAGE"><defterm><refpt id="UCPN.OL.LAN.S11.1.MORTGAGE" type="ext"/><emph typestyle="bf">Mortgage</emph></defterm> <defdesc>
+<p><text>does not include a possessory lien on goods nor any binding effect on property arising under a writ of execution against the property but otherwise includes a charge or lien on any property for securing money or money's worth and also includes, in relation to land under the provisions of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.RPN" remotekey1="REFPTID" service="DOC-ID" status="unval">Real Property Act 1900</remotelink></ci:content></ci:cite>
+ , a charge within the meaning of that Act.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.MORTGAGEE"><defterm><refpt id="UCPN.OL.LAN.S11.1.MORTGAGEE" type="ext"/><emph typestyle="bf">Mortgagee</emph></defterm> <defdesc>
+<p><text>includes a person claiming a mortgage through an original mortgagee.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.MORTGAGOR"><defterm><refpt id="UCPN.OL.LAN.S11.1.MORTGAGOR" type="ext"/><emph typestyle="bf">Mortgagor</emph></defterm> <defdesc>
+<p><text>includes a person claiming property subject to a mortgage through an original mortgagor.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.PERSONAL-INJURY"><defterm><refpt id="UCPN.OL.LAN.S11.1.PERSONAL-INJURY" type="ext"/><emph typestyle="bf">Personal injury</emph></defterm> <defdesc>
+<p><text>includes any disease and any impairment of the physical or mental condition of a person.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.PERSONAL-REPRESENTATIVE"><defterm><refpt id="UCPN.OL.LAN.S11.1.PERSONAL-REPRESENTATIVE" type="ext"/><emph typestyle="bf">Personal representative</emph></defterm> <defdesc>
+<p><text>means an executor to whom probate has been granted, including an executor by right of representation, or an administrator within the meaning of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.WPAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Probate and Administration Act 1898</remotelink></ci:content></ci:cite>
+, and includes the NSW Trustee and Guardian acting under section 25 of the NSW Trustee and Guardian Act 2009.</text></p>
+</defdesc><leg:histnote>
+<p><text>[defn  am  Act 80 of 2006 s 59 and Sch 3.10, effective 1 March 2008 ; Act 49 of 2009  Sch 2.35[1], effective 1 July 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.PLAINTIFF"><defterm><refpt id="UCPN.OL.LAN.S11.1.PLAINTIFF" type="ext"/><emph typestyle="bf">Plaintiff</emph></defterm> <defdesc>
+<p><text>means a person bringing an action.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.PRINCIPAL-MONEY"><defterm><refpt id="UCPN.OL.LAN.S11.1.PRINCIPAL-MONEY" type="ext"/><emph typestyle="bf">Principal money</emph></defterm> <defdesc>
+<p><text>, in relation to a mortgage, means all money secured by the mortgage, including arrears of interest lawfully treated as principal, but does not include other interest.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.RENT"><defterm><refpt id="UCPN.OL.LAN.S11.1.RENT" type="ext"/><emph typestyle="bf">Rent</emph></defterm> <defdesc>
+<p><text>includes a rent payable under a lease and any other rent service and a rentcharge.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.RENTCHARGE"><defterm><refpt id="UCPN.OL.LAN.S11.1.RENTCHARGE" type="ext"/><emph typestyle="bf">Rentcharge</emph></defterm> <defdesc>
+<p><text>means an annuity or other periodical sum of money, being an annuity or sum charged on or payable out of land, but does not include a rent payable under a lease nor any other rent service nor interest under a mortgage.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.SUCCESSOR"><defterm><refpt id="UCPN.OL.LAN.S11.1.SUCCESSOR" type="ext"/><emph typestyle="bf">Successor</emph></defterm> <defdesc>
+<p><text>, in relation to a person liable on a cause of action, means a person on whom the liability of the firstmentioned person devolves, whether as personal representative or otherwise on death, or on bankruptcy, disposition of property, or determination of a limited estate or interest, or otherwise.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.TRUST"><defterm><refpt id="UCPN.OL.LAN.S11.1.TRUST" type="ext"/><emph typestyle="bf">Trust</emph></defterm> <defdesc>
+<p><text>includes express implied and constructive trusts, whether or not the trustee has a beneficial interest in the trust property, and whether or not the trust arises only by reason of a transaction impeached, and includes the duties incident to the office of personal representative but does not include the duties incident to the estate or interests of a mortgagee in mortgaged property.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.LAN.S11.1.TRUSTEE"><defterm><refpt id="UCPN.OL.LAN.S11.1.TRUSTEE" type="ext"/><emph typestyle="bf">Trustee</emph></defterm> <defdesc>
+<p><text>has a meaning corresponding to the meaning of <defterm><emph typestyle="bf">trust</emph></defterm> .</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act:</text></p>
+<l><li id="UCPN.OL.LAN.S11.2.A"><lilabel><refpt id="UCPN.OL.LAN.S11.2.A" type="ext"/>(a)</lilabel>
+<p><text>a person claims through another person in respect of any property or right if the person is entitled to the property or right by through under or by the act of that other person, but a person entitled to property or a right by virtue of an appointment under a special power of appointment does not, by reason of the appointment, claim the property or right through the appointor;</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.2.B"><lilabel><refpt id="UCPN.OL.LAN.S11.2.B" type="ext"/>(b)</lilabel>
+<p><text>a reference to a cause of action to recover land includes a reference to a right to enter into possession of the land;</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.2.C"><lilabel><refpt id="UCPN.OL.LAN.S11.2.C" type="ext"/>(c)</lilabel>
+<p><text>a thing done to or by or suffered by an agent is done to or by or suffered by his or her principal; and</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.2.D"><lilabel><refpt id="UCPN.OL.LAN.S11.2.D" type="ext"/>(d)</lilabel>
+<p><text>a cause of action to which any of the provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LAN.PT2.D4" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 4</remotelink></ci:content></ci:cite>
+ of Part 2 applies is not a cause of action to recover land or a cause of action to enforce an equitable estate or interest in land.</text></p>
+<p><leg:histnote>
+<p><text>[subs (2)  am Act 147 of 1997  s 3 and Sch 3]</text></p></leg:histnote></p></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S11.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act a person is under a disability:</text></p>
+<l><li id="UCPN.OL.LAN.S11.3.A"><lilabel><refpt id="UCPN.OL.LAN.S11.3.A" type="ext"/>(a)</lilabel>
+<p><text>while the person is under the age of eighteen years; or</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.3.B"><lilabel><refpt id="UCPN.OL.LAN.S11.3.B" type="ext"/>(b)</lilabel>
+<p><text>while the person is, for a continuous period of twenty-eight days or upwards, incapable of, or substantially impeded in, the management of his or her affairs in relation to the cause of action in respect of the limitation period for which the question arises, by reason of:</text></p>
+<l><li id="UCPN.OL.LAN.S11.3.B.I"><lilabel><refpt id="UCPN.OL.LAN.S11.3.B.I" type="ext"/>(i)</lilabel>
+<p><text>any disease or any impairment of his physical or mental condition;</text></p>
+</li><li id="UCPN.OL.LAN.S11.3.B.II"><lilabel><refpt id="UCPN.OL.LAN.S11.3.B.II" type="ext"/>(ii)</lilabel>
+<p><text>restraint of his person, lawful or unlawful, including detention or custody under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MHA58" remotekey1="REFPTID" service="DOC-ID" status="unval">Mental Health Act 1958</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li><li id="UCPN.OL.LAN.S11.3.B.III"><lilabel><refpt id="UCPN.OL.LAN.S11.3.B.III" type="ext"/>(iii)</lilabel>
+<p><text>war or warlike operations; or</text></p>
+</li><li id="UCPN.OL.LAN.S11.3.B.IV"><lilabel><refpt id="UCPN.OL.LAN.S11.3.B.IV" type="ext"/>(iv)</lilabel>
+<p><text>circumstances arising out of war or warlike operations.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[subs (3)  am Act 147 of 1997  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S11.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S11.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, in respect of land which is a rentcharge:</text></p>
+<l><li id="UCPN.OL.LAN.S11.4.A"><lilabel><refpt id="UCPN.OL.LAN.S11.4.A" type="ext"/>(a)</lilabel>
+<p><text>a reference to the possession of land is a reference to the receipt of the rent; and</text></p>
+</li>
+<li id="UCPN.OL.LAN.S11.4.B"><lilabel><refpt id="UCPN.OL.LAN.S11.4.B" type="ext"/>(b)</lilabel>
+<p><text>a reference to the date of dispossession or discontinuance of possession of land is a reference to the date when rent first becomes overdue.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S11.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S11.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Act as to the date of accrual of a cause of action have effect for the purposes of this Act but not for any other purpose.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S11.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LAN.S11.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, a reference to an Act includes amendments of that Act by subsequent Acts.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LAN.S11A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[385,055] s 11A Notes">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LAN.S11A" type="ext"/>[385,055]</edpnum><title searchtype="SECT-TITLE">Notes</title><desig searchtype="SECT-NUM"><designum>11A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes included in this Act do not form part of this Act.</text></p>
+<leg:histnote>
+<p><text>[s 11A  insrt  Act 92 of 2002   s 3 and Sch 4.6 , effective 6 December 2002]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

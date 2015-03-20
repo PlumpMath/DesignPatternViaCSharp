@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 6 SUBPOENAS [rr 6.1&#x2013;6.9]</docinfo:doc-heading><docinfo:doc-id>UCPN.LC.LCRN09.PT6</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Local Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>LOCAL COURT RULES</title></heading><docinfo:hierlev role="me"><heading><title>PART 6 SUBPOENAS [rr 6.1&#x2013;6.9]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>90030140</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.LC"/><docinfo:metaitem name="parent-filename" value="lc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_LC.SGM_UCPN.LC.LCRN09"/><docinfo:metaitem name="parent-filename" value="lc1006.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 589, 2009</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">LOCAL COURT RULES</leg:officialname></leg:info><leg:level id="UCPN.LC.LCRN09.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.PT6"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 6 SUBPOENAS [rr 6.1&#x2013;6.9]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.LC.LCRN09.PT6" type="ext"/>PART 6</designum></desig><title searchtype="PART-TITLE">SUBPOENAS [rr 6.1&#x2013;6.9]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R6-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.1] r 6.1  Application of Part">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-1" type="ext"/>[LCR09 r 6.1]</edpnum><title searchtype="RUL-TITLE"> Application of Part</title><desig searchtype="RUL-NUM"><designum>6.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to summary proceedings and application proceedings.</text></p>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S66" remotekey1="REFPTID" service="DOC-ID">Section 66</remotelink></ci:content></ci:cite>
+ of the Local Court Act 2007 and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006Q" refpt="FLSL.DVN.CDPVAN07.S70" remotekey1="REFPTID" service="DOC-ID">section 70</remotelink></ci:content></ci:cite>
+ of the Crimes (Domestic and Personal Violence) Act 2007 provide that the provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CA.CPROC.C4.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3</remotelink></ci:content></ci:cite>
+ of Chapter 4 of the Criminal Procedure Act 1986 (being provisions relating to subpoenas) apply, with any necessary modifications, to application proceedings in the same way as they apply to proceedings for summary offences under that Act.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.2] r 6.2 Issuing of subpoena">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-2" type="ext"/>[LCR09 r 6.2]</edpnum><title searchtype="RUL-TITLE">Issuing of subpoena</title><desig searchtype="RUL-NUM"><designum>6.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R6-2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A registrar who issues a subpoena in proceedings is to issue it by signing and dating it.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A registrar may refuse to issue a subpoena if satisfied that:</text></p>
+<l><li id="UCPN.LC.LCRN09.R6-2.2.A"><lilabel><refpt id="UCPN.LC.LCRN09.R6-2.2.A" type="ext"/>(a)</lilabel>
+<p><text>the issue of the subpoena would be an abuse of process, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-2.2.B"><lilabel><refpt id="UCPN.LC.LCRN09.R6-2.2.B" type="ext"/>(b)</lilabel>
+<p><text>the issue of the subpoena would be oppressive on the person named, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-2.2.C"><lilabel><refpt id="UCPN.LC.LCRN09.R6-2.2.C" type="ext"/>(c)</lilabel>
+<p><text>if the subpoena is a subpoena to give evidence, the subpoena is returnable on a date on which the Court has not directed the hearing of oral evidence in the proceedings.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-2.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-2.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The registrar is not required to retain a copy of a subpoena issued by the registrar.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.3] r 6.3 Filing of subpoenas by issuing parties">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-3" type="ext"/>[LCR09 r 6.3]</edpnum><title searchtype="RUL-TITLE">Filing of subpoenas by issuing parties</title><desig searchtype="RUL-NUM"><designum>6.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party that issues a subpoena must, if required to do so by the Court, make a copy available for filing on the date that the subpoena is returnable.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.4] r 6.4 Service of subpoenas">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-4" type="ext"/>[LCR09 r 6.4]</edpnum><title searchtype="RUL-TITLE">Service of subpoenas</title><desig searchtype="RUL-NUM"><designum>6.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R6-4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena must be served on the person named in accordance with this rule.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of a subpoena may be effected:</text></p>
+<l><li id="UCPN.LC.LCRN09.R6-4.2.A"><lilabel><refpt id="UCPN.LC.LCRN09.R6-4.2.A" type="ext"/>(a)</lilabel>
+<p><text>by handing it to the person, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-4.2.B"><lilabel><refpt id="UCPN.LC.LCRN09.R6-4.2.B" type="ext"/>(b)</lilabel>
+<p><text>if the person is an inmate of a correctional centre, by handing it to the officer in charge of the correctional centre or by sending it by post or facsimile or other electronic transmission to the officer in charge at the correctional centre, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-4.2.C"><lilabel><refpt id="UCPN.LC.LCRN09.R6-4.2.C" type="ext"/>(c)</lilabel>
+<p><text>if the person is a police officer or a public officer, by sending it by post or facsimile to the person&#x2019;s business address, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-4.2.D"><lilabel><refpt id="UCPN.LC.LCRN09.R6-4.2.D" type="ext"/>(d)</lilabel>
+<p><text>if the person is a police officer or a public officer, by sending it by electronic communication to the person&#x2019;s business email address, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-4.2.E"><lilabel><refpt id="UCPN.LC.LCRN09.R6-4.2.E" type="ext"/>(e)</lilabel>
+<p><text>if the person is not a police officer or a public officer, by sending it by post or facsimile to the person&#x2019;s residential address, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-4.2.F"><lilabel><refpt id="UCPN.LC.LCRN09.R6-4.2.F" type="ext"/>(f)</lilabel>
+<p><text>if the person is not a police officer or a public officer, by sending it by electronic communication to the person&#x2019;s email address, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-4.2.G"><lilabel><refpt id="UCPN.LC.LCRN09.R6-4.2.G" type="ext"/>(g)</lilabel>
+<p><text>with the consent of the relevant legal practitioner for the person, by leaving it at the relevant legal practitioner&#x2019;s address for service or by sending it to that address by post or facsimile or by sending it to the legal practitioner&#x2019;s email address for service by electronic communication.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, on tender of a subpoena, the person refuses to accept it, it may be served by putting it down in the person&#x2019;s presence and telling the person the nature of the notice.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.5] r 6.5 Conduct money">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-5" type="ext"/>[LCR09 r 6.5]</edpnum><title searchtype="RUL-TITLE">Conduct money</title><desig searchtype="RUL-NUM"><designum>6.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The amounts prescribed for the expenses of complying with a subpoena in relation to a day are:</text></p>
+<l><li id="UCPN.LC.LCRN09.R6-5..A"><lilabel><refpt id="UCPN.LC.LCRN09.R6-5..A" type="ext"/>(a)</lilabel>
+<p><text>an amount equivalent to the amount that would be payable for that day, in accordance with the Scale of Allowances Paid to Witnesses published in Government Gazette No 90 of 19 June 2009, at page 3406, in respect of the person named if the party issuing the subpoena were entitled to claim witnesses expenses in respect of that person as costs in the proceedings, and</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-5..B"><lilabel><refpt id="UCPN.LC.LCRN09.R6-5..B" type="ext"/>(b)</lilabel>
+<p><text>in relation to the production of a document, the reasonable expenses of the person named of complying with the requirement to produce the document.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.6] r 6.6 Production by non-party">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-6" type="ext"/>[LCR09 r 6.6]</edpnum><title searchtype="RUL-TITLE">Production by non-party</title><desig searchtype="RUL-NUM"><designum>6.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R6-6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to a subpoena for production issued to a person who is not a party to the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A document or thing that may be produced to the Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CA.CPROC.S226.1" remotekey1="REFPTID" service="DOC-ID">section 226(1)</remotelink></ci:content></ci:cite>
+ of the Criminal Procedure Act 1986 may be produced to the registrar of the Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-6.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-6.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a subpoena for production requires the production of a document, but does not require the production of the original document, the person named may produce a copy of the original document.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-6.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-6.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The person who produces a document pursuant to a subpoena must advise the registrar as to whether the document is an original document or a copy and must elect whether the document is to be disposed of by the registrar or returned to the person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-6.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-6.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a document or thing is produced to a registrar, the registrar must:</text></p>
+<l><li id="UCPN.LC.LCRN09.R6-6.5.A"><lilabel><refpt id="UCPN.LC.LCRN09.R6-6.5.A" type="ext"/>(a)</lilabel>
+<p><text>give a receipt to the person who produced the document or thing, and</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-6.5.B"><lilabel><refpt id="UCPN.LC.LCRN09.R6-6.5.B" type="ext"/>(b)</lilabel>
+<p><text>produce the document or thing as the nature of the case requires, or as directed by the Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-6.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-6.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a subpoena requires production of a document or thing on a date other than the date for hearing the proceedings, the registrar may, at any time after the hearing date, order that the subpoena has ceased to have effect and:</text></p>
+<l><li id="UCPN.LC.LCRN09.R6-6.6.A"><lilabel><refpt id="UCPN.LC.LCRN09.R6-6.6.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of an original document, or a thing, return it to the person who produced it, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-6.6.B"><lilabel><refpt id="UCPN.LC.LCRN09.R6-6.6.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of a document that is a copy, return the document, or dispose of it, in accordance with the election of the person who produced the document.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.7] r 6.7 Subpoena may be set aside">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-7" type="ext"/>[LCR09 r 6.7]</edpnum><title searchtype="RUL-TITLE">Subpoena may be set aside</title><desig searchtype="RUL-NUM"><designum>6.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R6-7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A notice of application to set aside a subpoena (either wholly or in part) is to be in the approved form.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A copy of the notice of application must be served by the applicant on the party on whose request the subpoena was issued, either personally or by forwarding a copy by post to the address of the party as shown on the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-7.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A copy of the notice of application must also be filed by the applicant with the Court before which the subpoena is returnable.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-7.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-7.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless leave is granted by the Court, the time for filing and serving the notice of application by the applicant in accordance with this rule is not less than 3 days before the date that the subpoena is returnable.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-7.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R6-7.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An applicant seeking to set aside a subpoena must appear before the Court on the date that the subpoena is returnable to allow the Court to deal with the application.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.8] r 6.8 Objections to inspection of subpoenaed documents">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-8" type="ext"/>[LCR09 r 6.8]</edpnum><title searchtype="RUL-TITLE">Objections to inspection of subpoenaed documents</title><desig searchtype="RUL-NUM"><designum>6.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CA.CPROC.S228.3.B" remotekey1="REFPTID" service="DOC-ID">section 228(3)(b)</remotelink></ci:content></ci:cite>
+ of the Criminal Procedure Act 1986, notification of an objection to the inspection of subpoenaed documents or things may be raised orally before the Court on the return date of the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R6-9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 6.9] r 6.9 Return of documents and things produced under subpoena">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R6-9" type="ext"/>[LCR09 r 6.9]</edpnum><title searchtype="RUL-TITLE">Return of documents and things produced under subpoena</title><desig searchtype="RUL-NUM"><designum>6.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a subpoena requires production of a document or thing on the date for hearing the proceedings and the proceedings are adjourned, other than to a further date for hearing the proceedings, before the document or thing is produced to the Court, the registrar may, at any time after the hearing date, order that the subpoena has ceased to have effect and:</text></p>
+<l><li id="UCPN.LC.LCRN09.R6-9..A"><lilabel><refpt id="UCPN.LC.LCRN09.R6-9..A" type="ext"/>(a)</lilabel>
+<p><text>in the case of an original document, or a thing, return it to the person who produced it, or</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R6-9..B"><lilabel><refpt id="UCPN.LC.LCRN09.R6-9..B" type="ext"/>(b)</lilabel>
+<p><text>in the case of a document that is a copy, return the document, or dispose of it, in accordance with the election of the person who produced the document.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 3 GENERAL [rr 1.&#x2013;29.]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCR70.SCHD.PT3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT RULES </title></heading><docinfo:hierlev role="ancestor"><heading><title>[SCR Sch D] SCHEDULE D POWERS OF ASSOCIATE JUDGES</title></heading><docinfo:hierlev role="me"><heading><title>PART 3 GENERAL [rr 1.&#x2013;29.]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70010960</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCRC"/><docinfo:metaitem name="parent-filename" value="sc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT RULES </leg:officialname></leg:info><leg:level id="UCPN.SC.SCRC.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN_SC.SGM_SCHEDULE.GRP_2"><leg:level-vrnt leveltype="schedulegrp" searchtype="LEGISLATION SCHEDULEGRP"><leg:levelbody><leg:level id="UCPN.SC.SCR70.SCHD"><leg:level-vrnt leveltype="schedule" searchtype="LEGISLATION SCHEDULE" subdoc="false" toc-caption="[SCR Sch D] SCHEDULE D POWERS OF ASSOCIATE JUDGES"><leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.SCHD.PT3"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3 GENERAL [rr 1.&#x2013;29.]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.PT3" type="ext"/>PART 3</designum></desig><title searchtype="PART-TITLE">GENERAL [rr 1.&#x2013;29.]</title><leg:histnote>
+<p><text>[Pt 3  renum Amendment 77: Gaz 30 of 28 October 1977  p 4718]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL1"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 1.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL1" type="ext"/>1.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of proceedings, where the only matters in question are the amount of damages and costs.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf Act No 2 1899 s 129(1).</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[cl 1  subst Amendment 23: Gaz 25 of 23 February 1973  p 529]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL2"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 2.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL2" type="ext"/>2.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of proceedings where the only matters in question are the value of goods and costs or the amount of damages, the value of goods and costs.</text></p>
+<leg:histnote>
+<p><text>[cl 2  subst Amendment 23: Gaz 25 of 23 February 1973  p 529]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL3"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 3.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL3" type="ext"/>3.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial of proceedings pursuant to a direction under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT56.R9" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 9 of Part 56</remotelink></ci:content></ci:cite>
+ (which relates to interpleader).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL3A"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 3A">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL3A" type="ext"/>3A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><emph typestyle="it">(Interest up to judgment)</emph> Trial of proceedings where the only matters in question are interest under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S94" remotekey1="REFPTID" service="DOC-ID">section 94</remotelink></ci:content></ci:cite>
+ of the Act and costs.</text></p>
+<leg:histnote>
+<p><text>[cl 3A  insrt Amendment 141: Gaz 170 of 9 December 1983  p 5567]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL4"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 4.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL4" type="ext"/>4.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any:</text></p>
+<l><li id="UCPN.SC.SCR70.SCHD.CL4..A"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL4..A" type="ext"/>(a)</lilabel>
+<p><text>trial or hearing of proceedings (except with a jury); or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.SCHD.CL4..B"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL4..B" type="ext"/>(b)</lilabel>
+<p><text>matter (other than a matter of proceedings tried or to be tried with a jury),</text></p>
+</li>
+</l>
+<p><text>where referred to an associate Judge by an order of a Judge or of the Court of Appeal.</text></p>
+<leg:histnote>
+<p><text>[cl 4  subst Amendment 272: Gaz 39 of 23 April 1993  p 1916 ; am Amendment 279: Gaz 104 of 24 September 1993  p 6025 ; Gaz 99 of 5 August 2005 Sch 1, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL5"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 5.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL5" type="ext"/>5.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal from, or an application for prerogative or declaratory relief relating to, the Consumer, Trader and Tenancy Tribunal.</text></p>
+<leg:histnote>
+<p><text>[cl 5  subst Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL5A"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 5A.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL5A" type="ext"/>5A.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings referred to an associate Judge by a Judge where those proceedings are an appeal from, or an application for prerogative or declaratory relief relating to, the Administrative Decisions Tribunal.</text></p>
+<leg:histnote>
+<p><text>[cl 5A  insrt Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003 ; am Gaz 99 of 5 August 2005 Sch 1, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL5B"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 5B.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL5B" type="ext"/>5B.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal from a Local Court in any civil matter.</text></p>
+<leg:histnote>
+<p><text>[cl 5B  insrt Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL6"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 6.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL6" type="ext"/>6.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Punishment for contempt in the face of the Court or in the hearing of the Court, where the Court is constituted by the associate Judge concerned, and punishment for breach of an undertaking given to the Court constituted by an associate Judge.</text></p>
+<leg:histnote>
+<p><text>[cl 6  am Gaz 99 of 5 August 2005 Sch 1, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL7"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 7.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL7" type="ext"/>7.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S16" remotekey1="REFPTID" service="DOC-ID">section 16</remotelink></ci:content></ci:cite>
+ of the Act, the application of the Act to, and the effect of the repeals and amendments made by the Act on, proceedings commenced in the Court before the commencement of the Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL8"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 8.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL8" type="ext"/>8.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><emph typestyle="it">(Possession of land)</emph> Trial or hearing of proceedings (except with a jury) where:</text></p>
+<l><li id="UCPN.SC.SCR70.SCHD.CL8..A"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL8..A" type="ext"/>(a)</lilabel>
+<p><text>the only matter in question is a claim for the possession of land; or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.SCHD.CL8..B"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL8..B" type="ext"/>(b)</lilabel>
+<p><text>the only matters in question are a claim for the possession of land and one or more of the following:</text></p>
+<l><li id="UCPN.SC.SCR70.SCHD.CL8..B.I"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL8..B.I" type="ext"/>(i)</lilabel>
+<p><text>a claim or cross-claim for damages;</text></p>
+</li><li id="UCPN.SC.SCR70.SCHD.CL8..B.II"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL8..B.II" type="ext"/>(ii)</lilabel>
+<p><text>a claim or cross-claim for other money;</text></p>
+</li><li id="UCPN.SC.SCR70.SCHD.CL8..B.III"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL8..B.III" type="ext"/>(iii)</lilabel>
+<p><text>a claim or cross-claim for costs.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[cl 8  subst Amendment 296: Gaz 143 of 24 November 1995  p 8095]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL9"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 9.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL9" type="ext"/>9.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><emph typestyle="it">(Costs)</emph> Hearing of proceedings where the only matter in question is the matter of costs.</text></p>
+<leg:histnote>
+<p><text>[cl 9  am Amendment 231: Gaz 103 of 20 October 1989  p 8663 ]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL10"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 10.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL10" type="ext"/>10.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Payment, transfer or delivery out of Court, and investment, of funds in Court in the Equity Division.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL11"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 11.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL11" type="ext"/>11.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings for perpetuation of testimony.</text></p>
+<leg:histnote>
+<p><text>[cl 11  am Amendment 19: Gaz 110 of 20 October 1972  p 4141]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL12"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 12.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL12" type="ext"/>12.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Orders under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S100" remotekey1="REFPTID" service="DOC-ID" status="unval">section 100</remotelink></ci:content></ci:cite>
+ of the Act (which section relates to any appointment to execute an instrument).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL13"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 13.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL13" type="ext"/>13.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><emph typestyle="it">(Extension of time for action)</emph> Under any provision mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NAOPAN.SCH1" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 1</remotelink></ci:content></ci:cite>
+ of the Notice of Action and Other Privileges Abolition Act 1977, to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.OL.NAOPAN.S3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 3</remotelink></ci:content></ci:cite>
+ of that Act (which section relates to a cause of action accrued before the commencement of that Act) applies.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL14"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 14.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL14" type="ext"/>14.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><emph typestyle="it">(Lost bond or debenture)</emph> Orders under any provision by or under any Act that a debenture or bond issued by a corporation constituted by that Act, or a coupon annexed to that debenture or bond, has been lost or destroyed or defaced and directions by or under that Act for advertisement relating to that debenture, bond or coupon.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL15"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 15.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL15" type="ext"/>15.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Orders under any provision made by or under any Act for the appointment of a receiver of the income of a corporation which is constituted by that Act and which makes default in payment to the holder of any debenture, or coupon, issued or stock inscribed by that corporation.</text></p>
+<leg:histnote>
+<p><text>[cl 15  subst Amendment 116: Gaz 128 of 28 August 1981  p 4600]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL16"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 16.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL16" type="ext"/>16.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S95" remotekey1="REFPTID" service="DOC-ID">section 95</remotelink></ci:content></ci:cite>
+ of the Act (which section relates to interest on money payable under a judgment).</text></p>
+<leg:histnote>
+<p><text>[cl 16  insrt Amendment 116: Gaz 128 of 28 August 1981  p 4600]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL17"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 17.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL17" type="ext"/>17.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><emph typestyle="it">(Running down cases)</emph> Trial (except with a jury) of proceedings to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S87" remotekey1="REFPTID" service="DOC-ID">s 87</remotelink></ci:content></ci:cite>
+ of the Act applies (which section relates to running down cases).</text></p>
+<leg:histnote>
+<p><text>[cl 17  insrt Amendment No 118: Gaz 166 of 30 October 1981  p 5589 ; am Amendment 124: Gaz 61 of 7 May 1982  p 1996]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL17A"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 17A">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL17A" type="ext"/>17A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of proceedings in the Common Law Division on a claim in which:</text></p>
+<l><li id="UCPN.SC.SCR70.SCHD.CL17A..A"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL17A..A" type="ext"/>(a)</lilabel>
+<p><text>damages are claimed in respect of the death of or personal injuries to any person;</text></p>
+</li>
+<li id="UCPN.SC.SCR70.SCHD.CL17A..B"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL17A..B" type="ext"/>(b)</lilabel>
+<p><text>damages are claimed in respect of damage to property and:</text></p>
+<l><li id="UCPN.SC.SCR70.SCHD.CL17A..B.I"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL17A..B.I" type="ext"/>(i)</lilabel>
+<p><text>the proceedings include a claim in respect of the death of or personal injuries to any person; and</text></p>
+</li><li id="UCPN.SC.SCR70.SCHD.CL17A..B.II"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL17A..B.II" type="ext"/>(ii)</lilabel>
+<p><text>if separate proceedings were brought in respect of:</text></p>
+<l><li id="UCPN.SC.SCR70.SCHD.CL17A..B.II.A"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL17A..B.II.A" type="ext"/>(A)</lilabel>
+<p><text>the claim referred to in subparagraph (i); and</text></p>
+</li><li id="UCPN.SC.SCR70.SCHD.CL17A..B.II.B"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL17A..B.II.B" type="ext"/>(B)</lilabel>
+<p><text>the claim in respect of damage to property,</text></p>
+</li></l>
+<p><text>some common question of fact would arise in both claims; or</text></p>
+</li></l></li>
+<li id="UCPN.SC.SCR70.SCHD.CL17A..C"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL17A..C" type="ext"/>(c)</lilabel>
+<p><text>contribution is claimed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LRMP.PT3" remotekey1="REFPTID" service="DOC-ID">Part III</remotelink></ci:content></ci:cite>
+ of the Law Reform (Miscellaneous Provisions) Act 1946 in respect of damages of the nature referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.CL17A..A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.CL17A..B" remotekey1="REFPTID" service="DOC-ID">(b)</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[cl 17A  insrt Amendment 268: Gaz 130 of 30 October 1992  p 7980]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL18"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 18.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL18" type="ext"/>18.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><emph typestyle="it">(Companies Code)</emph> An appeal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S538" remotekey1="REFPTID" service="DOC-ID" status="unval">section 538</remotelink></ci:content></ci:cite>
+ of the Companies (New South Wales) Code in respect of a decision under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S329.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 329(3)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S375.8" remotekey1="REFPTID" service="DOC-ID" status="unval">section 375(8)</remotelink></ci:content></ci:cite>
+ of that Code (which subsections relate to the costs, etc, of a person making a report to a receiver or liquidator).</text></p>
+<leg:histnote>
+<p><text>[cl 18  insrt Amendment 126: Gaz 90 of 30 June 1982  p 2973]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL19"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 19.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL19" type="ext"/>19.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><emph typestyle="it">(Associations Incorporation Act)</emph> Appeal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ASSIA.S58" remotekey1="REFPTID" service="DOC-ID" status="unval">section 58</remotelink></ci:content></ci:cite>
+ of the Associations Incorporation Act 1984, in respect of a decision under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S375.8" remotekey1="REFPTID" service="DOC-ID" status="unval">section 375(8)</remotelink></ci:content></ci:cite>
+ of the Companies Code in relation to an incorporated association (which subsection relates to the costs, etc, of a person making a report to a liquidator).</text></p>
+<leg:histnote>
+<p><text>[cl 19  insrt Amendment 172: Gaz 130 of 20 September 1985  p 5015]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL20"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 20.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL20" type="ext"/>20.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[cl 20  rep Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL21"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 21.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL21" type="ext"/>21.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[cl 21  rep Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL22"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 22.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL22" type="ext"/>22.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.CUSA.S205F.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 205F(1)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.CUSA.S206.6" remotekey1="REFPTID" service="DOC-ID" status="unval">section 206(6)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.CUSA.S207.2" remotekey1="REFPTID" service="DOC-ID" status="unval">section 207(2)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.CUSA.S243T.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 243T(3)</remotelink></ci:content></ci:cite>
+ of the Customs Act 1901 of the Commonwealth.</text></p>
+<leg:histnote>
+<p><text>[cl 22  insrt Amendment 301: Gaz 51 of 26 April 1996  p 1987]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL23"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 23.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL23" type="ext"/>23.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.POSSUM.S69E.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 69E(1)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.POSSUM.S69L" remotekey1="REFPTID" service="DOC-ID" status="unval">section 69L</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.POSSUM.S69R.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 69R(3)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.POSSUM.S69W.4" remotekey1="REFPTID" service="DOC-ID" status="unval">section 69W(4)</remotelink></ci:content></ci:cite>
+ of the Wildlife Protection (Regulation of Exports and Imports) Act 1982 of the Commonwealth.</text></p>
+<leg:histnote>
+<p><text>[cl 23  insrt Amendment 301: Gaz 51 of 26 April 1996  p 1987]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL24"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 24.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL24" type="ext"/>24.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of any proceedings arising out of or under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Partnership Act 1892</remotelink></ci:content></ci:cite>
+ or any question arising in proceedings where the plaintiff alleges the plaintiff and any defendant were partners and that the partnership has terminated.</text></p>
+<leg:histnote>
+<p><text>[cl 24  insrt Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL25"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 25.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL25" type="ext"/>25.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of proceedings for any of the following matters:</text></p>
+<l><li id="UCPN.SC.SCR70.SCHD.CL25..A"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL25..A" type="ext"/>(a)</lilabel>
+<p><text>the foreclosure or redemption of a mortgage or the enforcing of any charge or lien,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.SCHD.CL25..B"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL25..B" type="ext"/>(b)</lilabel>
+<p><text>the specific performance, rectification, delivery up or cancellation of any agreement for the sale or purchase of any property or the lease of any property,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.SCHD.CL25..C"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL25..C" type="ext"/>(c)</lilabel>
+<p><text>relief against fraud or mistake,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.SCHD.CL25..D"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL25..D" type="ext"/>(d)</lilabel>
+<p><text>the execution of a trust or a declaration that a trust subsists,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.SCHD.CL25..E"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL25..E" type="ext"/>(e)</lilabel>
+<p><text>the administration of the estate of a deceased person,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.SCHD.CL25..F"><lilabel><refpt id="UCPN.SC.SCR70.SCHD.CL25..F" type="ext"/>(f)</lilabel>
+<p><text>any equitable claim or demand for recovery of money or damages, whether liquidated or unliquidated (not being a claim or demand of a kind to which paragraph (a), (b), (c), (d) or (e) applies).</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[cl 25  insrt Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL26"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 26.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL26" type="ext"/>26.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of any proceedings in the Equity Division in which all the parties are related to each other by blood or marriage (other than adoption proceedings or matters arising in the Court&#x2019;s parens patriae jurisdiction).</text></p>
+<leg:histnote>
+<p><text>[cl 26  insrt Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL27"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 27.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL27" type="ext"/>27.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Trial (except with a jury) of any proceedings arising out of or under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.FRCN78" remotekey1="REFPTID" service="DOC-ID" status="unval">Frustrated Contracts Act 1978</remotelink></ci:content></ci:cite>
+, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CRA" remotekey1="REFPTID" service="DOC-ID" status="unval">Contracts Review Act 1980</remotelink></ci:content></ci:cite>
+ or the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.FTA87" remotekey1="REFPTID" service="DOC-ID" status="unval">Fair Trading Act 1987</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[cl 27  insrt Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL28"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 28.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL28" type="ext"/>28.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In proceedings in which an associate Judge has jurisdiction to determine a matter under these rules, any inherent jurisdiction of the Court to decide any associated or appendant matter in issue in the proceedings.</text></p>
+<leg:histnote>
+<p><text>[cl 28  insrt Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003 ; am Gaz 99 of 5 August 2005 Sch 1, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.SCHD.CL29"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 29.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.SC.SCR70.SCHD.CL29" type="ext"/>29.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any jurisdiction of the Court that is exercisable by a registrar of the Court.</text></p>
+<leg:histnote>
+<p><text>[cl 29  insrt Amendment 383: Gaz 186 of 28 November 2003  p 10781, effective 28 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

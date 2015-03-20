@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DUST DISEASES TRIBUNAL RULES 1990</docinfo:doc-heading><docinfo:doc-id>UCPN.DDT.DDTR.BODY</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Dust Diseases Tribunal</title></heading><docinfo:hierlev role="ancestor"><heading><title>DUST DISEASES TRIBUNAL RULES 1990</title></heading><docinfo:hierlev role="me"><heading><title>DUST DISEASES TRIBUNAL RULES 1990</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>170020000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DDT"/><docinfo:metaitem name="parent-filename" value="ddt.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DDT.SGM_UCPN.DDT.DDTR"/><docinfo:metaitem name="parent-filename" value="ddt1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">DUST DISEASES TRIBUNAL RULES 1990</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1990</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 91, 1990</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>Dust Diseases Tribunal Rules SR 91 of 1990, notified in Gaz 24 of 16 February 1990, as amended
+<fnr fnrtoken="UCPN.DDT.DDTR.FTN1-R" fntoken="UCPN.DDT.DDTR.FTN1">*</fnr> by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Gazette</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">SR No 157 of 1990</entry><entry colname="c2">16 March 1990</entry><entry colname="c3">16 March 1990</entry></row>
+<row><entry colname="c1">SR No 654 of 1990</entry><entry colname="c2">5 October 1990</entry><entry colname="c3">5 October 1990</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1995 No 21</entry><entry colname="c2">Assent: 19 June 1995</entry><entry colname="c3">1 August 1995</entry></row>
+<row><entry colname="c1">SR No 110 of 1995</entry><entry colname="c2">8 September 1995</entry><entry colname="c3">8 September 1995</entry></row>
+<row><entry colname="c1">SR No 113 of 1996</entry><entry colname="c2">4 October 1996</entry><entry colname="c3">4 October 1996</entry></row>
+<row><entry colname="c1">SR No 146 of 1996</entry><entry colname="c2">13 December 1996</entry><entry colname="c3">13 December 1996</entry></row>
+<row><entry colname="c1">SR No 176 of 1996</entry><entry colname="c2">18 December 1998</entry><entry colname="c3">18 December 1998</entry></row>
+<row><entry colname="c1">SR No 48 of 2002</entry><entry colname="c2">22 February 2002</entry><entry colname="c3">22 February 2002</entry></row>
+<row><entry colname="c1">SR No 297 of 2004</entry><entry colname="c2">4 June 2004</entry><entry colname="c3">4 June 2004</entry></row>
+<row><entry colname="c1">SR No 189 of 2005</entry><entry colname="c2">Gaz 54 of 13 May 2005</entry><entry colname="c3">13 May 2005</entry></row>
+<row><entry colname="c1">Dust Diseases Tribunal Amendment (Claims Resolution) Act 2005 No 22</entry><entry colname="c2">Gaz 64 of 1 June 2005</entry><entry colname="c3">1 July 2005 (Except Sch 1 (items 4, 6, 8, 10&#x2013;13, 17), Sch 3 and Sch 4 (item 1)</entry></row>
+<row><entry colname="c1">Dust Diseases Tribunal Amendment (Claims Resolution) Act 2005 No 22</entry><entry colname="c2">Gaz 104 of 17 August 2005, p 4567</entry><entry colname="c3">17 August 2005 (Sch 4 (item 1))</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) No 98</entry><entry colname="c2">Gaz 148 of 2 December 2005, p 9860</entry><entry colname="c3">24 November 2005</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.DDT.DDTR.BODY" subdoc="false"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.DDT.DDTR" type="ext"/>DUST DISEASES TRIBUNAL RULES 1990</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,700] r 1 Name of Rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R1" type="ext"/>[473,700]</edpnum><title searchtype="RUL-TITLE">Name of Rules</title><desig searchtype="RUL-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These Rules may be cited as the Dust Diseases Tribunal Rules.</text></p>
+<footnotegrp><footnote fnrtokens="UCPN.DDT.DDTR.FTN1-R" fntoken="UCPN.DDT.DDTR.FTN1" type="default"><fnlabel>*</fnlabel><fnbody>
+<h>Editor's note:</h>
+<p><refpt id="UCPN.DDT.DDTR.FTN1" type="ext"/>
+<text>The Dust Diseases Tribunal Rules 1990 SR 91 of 1990, were further amended by Act No 21 of 1995, assented to on 19 June 1995, commenced 1 August 1995.</text></p></fnbody></footnote></footnotegrp>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,705] r 2 Application of Supreme Court Rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R2" type="ext"/>[473,705]</edpnum><title searchtype="RUL-TITLE">Application of Supreme Court Rules</title><desig searchtype="RUL-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If these Rules provide that specified provisions of the rules of court of the Supreme Court apply to proceedings before the Tribunal and to matters in respect of which the Tribunal has jurisdiction, those provisions so apply:</text></p>
+<l><li id="UCPN.DDT.DDTR.R2..A"><lilabel><refpt id="UCPN.DDT.DDTR.R2..A" type="ext"/>(a)</lilabel>
+<p><text>in the same way as they apply in proceedings before the Supreme Court and to matters in respect of which that Court has jurisdiction, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R2..B"><lilabel><refpt id="UCPN.DDT.DDTR.R2..B" type="ext"/>(b)</lilabel>
+<p><text>with necessary modifications and to the extent that they are not inconsistent with the Dust Diseases Tribunal Act 1989.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 2  subst Act 22 of 2005 s 3 and Sch 4, effective 17 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,710] r 3 Registrar may extend limitation period">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R3" type="ext"/>[473,710]</edpnum><title searchtype="RUL-TITLE">Registrar may extend limitation period</title><desig searchtype="RUL-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The registrar may exercise the functions of the Tribunal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.LAN.PT3.D3" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 3</remotelink></ci:content></ci:cite>
+ of Part 3 of the Limitation Act 1969.</text></p>
+<leg:histnote>
+<p><text>[r 3  am SR 157 of 1990   r 1  effective 16 March 1990]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,715] r 4 Interrogatories">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R4" type="ext"/>[473,715]</edpnum><title searchtype="RUL-TITLE">Interrogatories</title><desig searchtype="RUL-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="SCPNSW.SCN.SCR70.PT24" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 24</remotelink></ci:content></ci:cite>
+ (except rule 1(3) of that Part) of the Supreme Court Rules 1970 applies to proceedings before the Tribunal and to matters in respect of which the Tribunal has jurisdiction.</text></p>
+<leg:histnote>
+<p><text>[r 4  insrt Act 22 of 2005 s 6 and Sch 4, effective 1 July 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,720] r 5 Provisional damages">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R5" type="ext"/>[473,720]</edpnum><title searchtype="RUL-TITLE">Provisional damages</title><desig searchtype="RUL-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to proceedings which the Tribunal is satisfied are proceedings to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S11A" remotekey1="REFPTID" service="DOC-ID">section 11A</remotelink></ci:content></ci:cite>
+ of the Act applies.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this rule:</text></p>
+<deflist><defitem id="UCPN.DDT.DDTR.R5.2.FURTHER-DAMAGES"><defterm><refpt id="UCPN.DDT.DDTR.R5.2.FURTHER-DAMAGES" type="ext"/><emph typestyle="bf">further damages</emph></defterm> <defdesc>
+<p><text>means damages as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S11A.2.B" remotekey1="REFPTID" service="DOC-ID">section 11A(2)(b) </remotelink></ci:content></ci:cite>
+ of the Act.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTR.R5.2.PROVISIONAL-DAMAGES"><defterm><refpt id="UCPN.DDT.DDTR.R5.2.PROVISIONAL-DAMAGES" type="ext"/><emph typestyle="bf">provisional damages</emph></defterm> <defdesc>
+<p><text>means damages as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S11A.2.A" remotekey1="REFPTID" service="DOC-ID">section 11A(2)(a) </remotelink></ci:content></ci:cite>
+ of the Act.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R5.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may, subject to this rule, award provisional damages in proceedings, on such terms as the Tribunal thinks just, and give judgment accordingly, if the plaintiff has pleaded a claim for provisional damages in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R5.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R5.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An order for an award of provisional damages must specify the dust-related condition in respect of which an award of further damages may be made.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R5.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R5.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An order for an award of provisional damages may be made in respect of more than one dust-related condition.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R5.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R5.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R5.3" remotekey1="REFPTID" service="DOC-ID">subrule (3)</remotelink></ci:content></ci:cite>
+ , a plaintiff has not pleaded a claim for provisional damages unless the statement of claim in the proceedings specifies the dust-related condition in respect of which the plaintiff claims provisional damages and the other dust-related condition in respect of which the plaintiff seeks an order that further damages may be claimed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R5.7"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R5.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where in proceedings the plaintiff has pleaded a claim for provisional damages and a defendant makes an offer of compromise, the offer may be expressed to be an offer to agree to the making of an award of provisional damages and an offer as to the amount of those damages, and where the plaintiff accepts an offer so expressed the plaintiff must as soon as practicable apply to the Tribunal for an order in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R5.4" remotekey1="REFPTID" service="DOC-ID">subrule (4)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R5.8"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R5.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Tribunal has made an award of provisional damages in proceedings and the plaintiff seeks to claim further damages, the following provisions apply:</text></p>
+<l><li id="UCPN.DDT.DDTR.R5.8.A"><lilabel><refpt id="UCPN.DDT.DDTR.R5.8.A" type="ext"/>(a)</lilabel>
+<p><text>the application must be made by notice of motion served, at least 7 days before the day on which it is returnable, on each defendant in respect of the claim, and if that defendant is to the plaintiff's knowledge insured in respect of the claim, on the insurer,</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R5.8.B"><lilabel><refpt id="UCPN.DDT.DDTR.R5.8.B" type="ext"/>(b)</lilabel>
+<p><text>on the hearing of the application the Tribunal must give such directions as may be appropriate for the future conduct of the proceedings, including, but not limited to, the joinder of parties, the disclosure of medical and other expert reports, and the place and date of the hearing of the application for further damages,</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R5.8.C"><lilabel><refpt id="UCPN.DDT.DDTR.R5.8.C" type="ext"/>(c)</lilabel>
+<p><text>only one application for further damages may be made in respect of each dust-related condition specified in the order for the award of provisional damages, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R5.8.D"><lilabel><refpt id="UCPN.DDT.DDTR.R5.8.D" type="ext"/>(d)</lilabel>
+<p><text>where the Tribunal awards further damages and awards interest in respect of those damages or any part of them, that interest shall, unless the Tribunal otherwise orders, relate only to the period, or part of the period, between the date of the plaintiff's notice given under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R5.8.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ and the date of the award.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5  insrt Gaz 110 of 1995   r 2  effective 8 September 1995]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,725] r 6 Discovery and inspection of documents">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R6" type="ext"/>[473,725]</edpnum><title searchtype="RUL-TITLE">Discovery and inspection of documents</title><desig searchtype="RUL-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 23</remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules 1970, as substituted by Amendment No 303 published in the Government Gazette of 19 July 1996 at page 4336, does not apply to proceedings before the Tribunal or to matters in respect of which the Tribunal has jurisdiction.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 23</remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules 1970, as it was immediately before the amendment referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R6.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ , applies to proceedings before the Tribunal and to matters in respect of which the Tribunal has jurisdiction.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 6  insrt Gaz 113 of 1996   r 2  effective 4 October 1996]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,730] r 7 Discovery and inspection of documents after 1 January 1997">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R7" type="ext"/>[473,730]</edpnum><title searchtype="RUL-TITLE">Discovery and inspection of documents after 1 January 1997</title><desig searchtype="RUL-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R6" remotekey1="REFPTID" service="DOC-ID">Rule 6</remotelink></ci:content></ci:cite>
+ does not apply to proceedings before the Tribunal commenced on or after 1 January 1997.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 23</remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules 1970 applies, subject to the adaptations specified in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R7.3" remotekey1="REFPTID" service="DOC-ID">subrule (3)</remotelink></ci:content></ci:cite>
+ , to proceedings before the Tribunal commenced on or after 1 January 1997.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R7.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The adaptations mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R7.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+ are:</text></p>
+<l><li id="UCPN.DDT.DDTR.R7.3.A"><lilabel><refpt id="UCPN.DDT.DDTR.R7.3.A" type="ext"/>(a)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.5" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 23 rule 3(5)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.6" remotekey1="REFPTID" service="DOC-ID" status="unval">(6)</remotelink></ci:content></ci:cite></text></p>
+<l>
+<li><lilabel> </lilabel>
+<p><text>Omit &#x201c;were later than 6 months prior to the commencement of the proceedings&#x201d; where occurring, insert instead &#x201c;have been&#x201d;,</text></p>
+</li>
+</l></li>
+<li id="UCPN.DDT.DDTR.R7.3.B"><lilabel><refpt id="UCPN.DDT.DDTR.R7.3.B" type="ext"/>(b)</lilabel>
+<p><text>After 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R6" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 23 rule 6</remotelink></ci:content></ci:cite>
+ insert:</text></p>
+<l>
+<li><lilabel> </lilabel>
+<p><text><emph typestyle="bf">Discovery in other proceedings</emph></text></p>
+<l>
+<li><lilabel>7</lilabel>
+<l>
+<li><lilabel>(1)</lilabel>
+<p><text>The Tribunal may, on the application of a party or of its own motion, direct that party B may give discovery in compliance with an order made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.1" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 3(1)</remotelink></ci:content></ci:cite>
+ by serving on party A any list, affidavit, certificate and notice served by party B in compliance with an order for discovery made in other proceedings.</text></p>
+</li>
+<li><lilabel>(2)</lilabel>
+<p><text>A direction under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R7.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ may be given in addition to any other order made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.1" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 3(1)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l></li>
+</l></li>
+<li><lilabel> </lilabel>
+<p><text><emph typestyle="bf">Standard list of documents</emph></text></p>
+<l>
+<li><lilabel>8</lilabel>
+<l>
+<li><lilabel>(1)</lilabel>
+<p><text>If party B:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>has filed with the Tribunal a standard list of documents, affidavit, certificate and undertaking under this rule, and</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>in his appearance or, if no appearance is filed, in his defence elects to rely on the standard list of documents as compliance with any order for discovery made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.1" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 3(1)</remotelink></ci:content></ci:cite>
+ against him in the proceedings,</text></p>
+</li>
+</l>
+<p><text>then, if such an order for discovery is made and the Tribunal does not otherwise direct, the standard list of documents, affidavit and certificate shall be party B's list of documents, affidavit and certificate in the proceedings for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.5" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 3(5)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+<li><lilabel>(2)</lilabel>
+<p><text>Where 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R7.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ takes effect in respect of an order for discovery, the Tribunal may order that it cease to have effect and that party B comply with the order for discovery as though no standard list of documents had been filed.</text></p>
+</li>
+<li><lilabel>(3)</lilabel>
+<p><text>A standard list of documents filed under subrule (1) must be a list, complying with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.6" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 3(6)</remotelink></ci:content></ci:cite>
+ , of all the documents (other than excluded documents) which might reasonably be specified in an order for discovery made against party B in proceedings in the Tribunal and which:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>are in the possession, custody or power of party B, or</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>are not, but have been, in the possession, custody or power of party B.</text></p>
+</li>
+</l></li>
+<li><lilabel>(4)</lilabel>
+<p><text>An affidavit filed under subrule (1) must be an affidavit as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.5.B" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 3(5)(b)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+<li><lilabel>(5)</lilabel>
+<p><text>A certificate filed under subrule (1) must be a certificate as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCR70.PT23.R3.5.C" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 3(5)(c)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+<li><lilabel>(6)</lilabel>
+<p><text>An undertaking filed under subrule (1) must be party B's undertaking that:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>party B waives any objection to the use of the standard list and of copies of any of the documents in the standard list, in proceedings in the Tribunal against party B, on the ground that the standard list or any of the documents has been the subject of an order for discovery in other proceedings, and</text></p>
+</li>
+<li><lilabel>(b)</lilabel>
+<p><text>if party B becomes aware:</text></p>
+<l>
+<li><lilabel>(i)</lilabel>
+<p><text> that any document which should, under subrule (3), be included in part 1 of the standard list, but which is not so included, is within, or has come into, party B's possession, custody or power, or</text></p>
+</li>
+<li><lilabel>(ii)</lilabel>
+<p><text> that any document included in part 1 of the standard list which was claimed to be a privileged document was not, or has ceased to be, a privileged document,</text></p>
+</li>
+</l>
+<p><text>party B will as soon as practicable accordingly amend the standard list under subrule (7).</text></p>
+</li>
+</l></li>
+<li><lilabel>(7)</lilabel>
+<p><text>Party B may at any time amend a standard list of documents filed by him, but must as soon as practicable give notice of the amendment to party A in any proceedings current before the Tribunal in which the standard list is party B's list of documents.</text></p>
+</li>
+<li><lilabel>(8)</lilabel>
+<p><text>Party B may at any time withdraw a standard list of documents filed by him, but where the standard list has become party B's list of documents in any proceedings it shall remain that list of documents despite the withdrawal.</text></p>
+</li>
+<li><lilabel>(9)</lilabel>
+<p><text>Party B must not, by filing a standard list of documents or by relying on the standard list in any proceedings, be taken to admit that any document listed, which came into existence after the last date of the occurrences sued on or particularised in the proceedings, is relevant to the proceedings.</text></p>
+</li>
+<li><lilabel>(10)</lilabel>
+<p><text>The Tribunal shall keep possession of, and maintain a register of, all standard lists of documents filed with it, but shall not make any such list available for search by any person other than the party who filed it.</text></p>
+</li>
+</l></li>
+</l></li>
+</l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7  insrt Gaz 146 of 1996   r 2  effective 13 December 1996]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,735] r 8 Limitation of section 25A (Material already obtained)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R8" type="ext"/>[473,735]</edpnum><title searchtype="RUL-TITLE">Limitation of section 25A (Material already obtained)</title><desig searchtype="RUL-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S25A.1" remotekey1="REFPTID" service="DOC-ID">Section 25A(1)</remotelink></ci:content></ci:cite>
+ of the Act does not apply to a standard list of documents as referred to in rule 7 so as to require the leave of the Tribunal or the consent of any person for the operation of any provision of that rule in respect of the standard list.</text></p>
+<leg:histnote>
+<p><text>[r 8  insrt Gaz 176 of 1998  effective 18 December 1998]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,740] r 9 General issues already determined">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R9" type="ext"/>[473,740]</edpnum><title searchtype="RUL-TITLE">General issues already determined</title><desig searchtype="RUL-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party who intends to rely in any proceedings on the determination in other proceedings of an issue of a general nature, as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S25B.1" remotekey1="REFPTID" service="DOC-ID">section 25B(1)</remotelink></ci:content></ci:cite>
+ of the Act, must within a reasonable time file and serve on all other parties notice of that intention, including full particulars of the precise issue alleged to have been determined and as to when, where and by whom the issue is alleged to have been determined.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subrule (1) does not prevent the Tribunal from determining on its own motion that an issue is an issue to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S25B.1" remotekey1="REFPTID" service="DOC-ID">section 25B(1)</remotelink></ci:content></ci:cite>
+ of the Act applies.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 9  insrt Gaz 176 of 1998  effective 18 December 1998]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,745] r 10 Particulars where expedited hearing sought">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R10" type="ext"/>[473,745]</edpnum><title searchtype="RUL-TITLE">Particulars where expedited hearing sought</title><desig searchtype="RUL-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal otherwise orders, a party applying for an expedited hearing must, at the time the application is made or at such other time as the Tribunal may order, file and serve on all other parties a notice specifying the grounds on which the application is made and, where the application is made on medical grounds, a medical report or reports substantiating those grounds.</text></p>
+<leg:histnote>
+<p><text>[r 10  insrt Gaz 176 of 1998  effective 18 December 1998]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R11"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,750] r 11 Proceedings against more than one alleged tortfeasor">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R11" type="ext"/>[473,750]</edpnum><title searchtype="RUL-TITLE">Proceedings against more than one alleged tortfeasor</title><desig searchtype="RUL-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R11.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal otherwise orders, a plaintiff who settles a claim with one or more but not all the alleged tortfeasors must file the terms of settlement and particulars of amounts paid under the settlement:</text></p>
+<l><li id="UCPN.DDT.DDTR.R11.1.A"><lilabel><refpt id="UCPN.DDT.DDTR.R11.1.A" type="ext"/>(a)</lilabel>
+<p><text>where proceedings on the claim against another or others of the alleged tortfeasors are pending, as soon as practicable, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R11.1.B"><lilabel><refpt id="UCPN.DDT.DDTR.R11.1.B" type="ext"/>(b)</lilabel>
+<p><text>otherwise, on commencement of any proceedings on the claim against another or others of the alleged tortfeasors.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R11.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal otherwise orders, the Tribunal or a member, registrar or other officer of the Tribunal may disclose any terms and particulars filed under subrule (1) to another party to the proceedings, whether or not the terms contain non-disclosure requirements.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 11  insrt Gaz 176 of 1998  effective 18 December 1998]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R12"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,755] r 12 Application of section 151AC of the Workers Compensation Act 1987">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R12" type="ext"/>[473,755]</edpnum><title searchtype="RUL-TITLE">Application of section 151AC of the Workers Compensation Act 1987</title><desig searchtype="RUL-NUM"><designum>12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may if it thinks fit order that all or any of the provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="009C" refpt="WCN.WCA.WCN.S151AC" remotekey1="REFPTID" service="DOC-ID">section 151AC</remotelink></ci:content></ci:cite>
+ of the Workers Compensation Act 1987 do not apply in or in relation to a particular case or in relation to a particular insurer:</text></p>
+<l><li id="UCPN.DDT.DDTR.R12..A"><lilabel><refpt id="UCPN.DDT.DDTR.R12..A" type="ext"/>(a)</lilabel>
+<p><text>on its own motion, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R12..B"><lilabel><refpt id="UCPN.DDT.DDTR.R12..B" type="ext"/>(b)</lilabel>
+<p><text>on application by a party or by an insurer who is not a party.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 12  insrt Gaz 176 of 1998  effective 18 December 1998]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,760] r 13 Arbitration for insurance purposes">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R13" type="ext"/>[473,760]</edpnum><title searchtype="RUL-TITLE">Arbitration for insurance purposes</title><desig searchtype="RUL-NUM"><designum>13</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R13.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this rule:</text></p>
+<deflist><defitem id="UCPN.DDT.DDTR.R13.1.ARBITRATOR"><defterm><refpt id="UCPN.DDT.DDTR.R13.1.ARBITRATOR" type="ext"/><emph typestyle="bf">arbitrator</emph></defterm> <defdesc>
+<p><text>means arbitrator of disputes appointed under this rule.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTR.R13.1.DISPUTE"><defterm><refpt id="UCPN.DDT.DDTR.R13.1.DISPUTE" type="ext"/><emph typestyle="bf">dispute</emph></defterm> <defdesc>
+<p><text>means dispute as to the liability of insurers as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="009C" refpt="WCN.WCA.WCN.S151AC" remotekey1="REFPTID" service="DOC-ID">section 151AC</remotelink></ci:content></ci:cite>
+ of the Workers Compensation Act 1987.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The registrar is appointed as an arbitrator.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The President may appoint as an arbitrator any person approved by the President.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal or the registrar may, if the Tribunal or registrar thinks fit, and whether or not any application is made for the order, by order refer a dispute to an arbitrator named in the order, and may, but need not, in the order specify a place where and a day on which the arbitration of the dispute is to take place.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If no place or day is specified in an order made under subrule (4), the registrar may by direction specify such a place or day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S20.1" remotekey1="REFPTID" service="DOC-ID">section 20(1)</remotelink></ci:content></ci:cite>
+ of the Act, an arbitration under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S38" remotekey1="REFPTID" service="DOC-ID">section 38</remotelink></ci:content></ci:cite>
+ of the Act is a proceeding before the Tribunal, and a subpoena to give evidence issued in respect of an arbitration must be made returnable before the arbitrator.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.7"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In an order made under subrule (4) or a subsequent order:</text></p>
+<l><li id="UCPN.DDT.DDTR.R13.7.A"><lilabel><refpt id="UCPN.DDT.DDTR.R13.7.A" type="ext"/>(a)</lilabel>
+<p><text>the Tribunal or the registrar may specify the insurers or other persons who are or were parties to the original proceedings before the Tribunal and who are to be parties to the arbitration, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R13.7.B"><lilabel><refpt id="UCPN.DDT.DDTR.R13.7.B" type="ext"/>(b)</lilabel>
+<p><text>the Tribunal may join as parties to the arbitration insurers or other persons who were not parties to the original proceedings before the Tribunal.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.8"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An arbitrator must, if not prepared to hear and determine a dispute referred to the arbitrator, so inform the Tribunal or registrar as soon as practicable, specifying the arbitrator's reasons.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.9"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an arbitrator declines or fails to hear and determine a dispute, the Tribunal or registrar must revoke the order referring the dispute to the arbitrator, and may make another order referring the dispute to an arbitrator.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.10"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.10" type="ext"/>(10)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An arbitrator may from time to time adjourn the arbitration of a dispute which the arbitrator has commenced to hear.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.11"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.11" type="ext"/>(11)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to subrule (10), an arbitrator must, on the day (if any) specified under subrule (4) or (5), or to which the arbitration has been adjourned under subrule (10), and in any case within a reasonable time, hear, or continue to hear, and determine the dispute, whether or not in the absence of any party to the dispute.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.12"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.12" type="ext"/>(12)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An arbitrator must within a reasonable time after hearing and determining a dispute reduce the arbitrator's determination to writing, including the reasons for the determination, and, if the arbitrator is not the registrar, forward the determination to the registrar.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.13"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.13" type="ext"/>(13)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The reasons for a determination must be specified to the extent that, in the opinion of the arbitrator, they make the parties to the dispute aware of the arbitrator's view of the case made by each of them.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.14"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.14" type="ext"/>(14)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The registrar must, forthwith after completing or receiving a determination in writing, send a copy of the determination, endorsed with the date of sending, to each party to the dispute.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.15"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.15" type="ext"/>(15)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the arbitrator is not the registrar, the arbitrator's fees may be assessed by consent of the parties to the dispute, and failing any such consent:</text></p>
+<l><li id="UCPN.DDT.DDTR.R13.15.A"><lilabel><refpt id="UCPN.DDT.DDTR.R13.15.A" type="ext"/>(a)</lilabel>
+<p><text>the arbitrator's fees may be determined by the arbitrator in accordance with any applicable scale of fees to arbitrators, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R13.15.B"><lilabel><refpt id="UCPN.DDT.DDTR.R13.15.B" type="ext"/>(b)</lilabel>
+<p><text>if there is no applicable scale of fees to arbitrators, the Tribunal or registrar may determine the arbitrator's fees at an amount not exceeding the amount that would be payable if the work done by the arbitrator had been work done by a legal practitioner.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.16"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.16" type="ext"/>(16)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal or registrar otherwise orders, the fees payable to an arbitrator and any other fees or other expenses incurred in respect of an arbitration are:</text></p>
+<l><li id="UCPN.DDT.DDTR.R13.16.A"><lilabel><refpt id="UCPN.DDT.DDTR.R13.16.A" type="ext"/>(a)</lilabel>
+<p><text>payable equally between parties to the dispute, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R13.16.B"><lilabel><refpt id="UCPN.DDT.DDTR.R13.16.B" type="ext"/>(b)</lilabel>
+<p><text>payable in the first instance by the party (if any) who requested the referral to arbitration, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R13.16.C"><lilabel><refpt id="UCPN.DDT.DDTR.R13.16.C" type="ext"/>(c)</lilabel>
+<p><text>recoverable by any party who has paid them against the other parties to the dispute proportionately.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.17"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.17" type="ext"/>(17)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Costs in respect of an arbitration are within the discretion of the arbitrator, and assessable, as though the arbitration were proceedings before the Tribunal and the arbitrator were the Tribunal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.18"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.18" type="ext"/>(18)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The determination of an arbitrator may be called in question on a matter of fact or law, but only on application made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S38.1" remotekey1="REFPTID" service="DOC-ID">section 38(4)</remotelink></ci:content></ci:cite>
+ of the Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R13.19"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R13.19" type="ext"/>(19)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S38.1" remotekey1="REFPTID" service="DOC-ID">section 38(4)</remotelink></ci:content></ci:cite>
+ of the Act must be made within 28 days of the date of sending endorsed under subrule (14) on the determination the subject of the application.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 13  insrt Gaz 176 of 1998  effective 18 December 1998]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R14"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,765] r 14 Provision of information as to amount recoverable by Dust Diseases Board">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R14" type="ext"/>[473,765]</edpnum><title searchtype="RUL-TITLE">Provision of information as to amount recoverable by Dust Diseases Board</title><desig searchtype="RUL-NUM"><designum>14</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R14.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R14.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The defendant in proceedings referred to in section 8E(3) of the Workers' Compensation (Dust Diseases) Act 1942 (whether the proceedings were commenced before or after the commencement of this rule) must notify the Board under that Act in writing of an award, judgment, settlement or agreement resulting in the final determination of the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R14.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R14.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notification must be given within 28 days after that final determination.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R14.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R14.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notification must be accompanied by the documents that are required to accompany a notification under clause 14 of the Workers Compensation (Dust Diseases) Regulation 1998.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R14.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R14.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this rule: </text></p>
+<deflist><defitem id="UCPN.DDT.DDTR.R14.4.FINAL-DETERMINATION"><defterm><refpt id="UCPN.DDT.DDTR.R14.4.FINAL-DETERMINATION" type="ext"/><emph typestyle="bf">final determination</emph></defterm><defdesc>
+<p><text>, in relation to proceedings, includes a final determination by judgment, verdict, award, settlement, agreement, dismissal, discontinuance or otherwise.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 14  insrt Gaz 48 of 2002  effective 22 February 2002]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R15"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,770] r 15 Intepretation and application">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R15" type="ext"/>[473,770]</edpnum><title searchtype="RUL-TITLE">Intepretation and application</title><desig searchtype="RUL-NUM"><designum>15</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R15.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R15.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this part:</text></p>
+<deflist><defitem id="UCPN.DDT.DDTR.R15.1.ACCESS-ORDER"><defterm><refpt id="UCPN.DDT.DDTR.R15.1.ACCESS-ORDER" type="ext"/><emph typestyle="bf">access order</emph></defterm><defdesc>
+<p><text>, in relation to a subpoena requiring production, means an order of the Tribunal granting access to specified documents or things produced pursuant to the subpoena (whether with or without conditions).</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTR.R15.1.PERSON-NAMED"><defterm><refpt id="UCPN.DDT.DDTR.R15.1.PERSON-NAMED" type="ext"/><emph typestyle="bf">person named</emph></defterm><defdesc>
+<p><text>means, in relation to a subpoena, the person to whom the subpoena is addressed.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING"><defterm><refpt id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING" type="ext"/><emph typestyle="bf">privileged document or thing</emph></defterm><defdesc>
+<p><text>, in relation to a subpoena, means:</text></p>
+<l><li id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.A"><lilabel><refpt id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.A" type="ext"/>(a)</lilabel>
+<p><text>a document or thing of which evidence could not be adduced in an action over the objection of any person, by virtue of the operation of Part 3.10 (other than sections 128 and 130) of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink></ci:content></ci:cite>
+, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.B"><lilabel><refpt id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.B" type="ext"/>(b)</lilabel>
+<p><text>if the party on whom the subpoena is served is a natural person &#x2014; a document or thing the contents or production of which may tend to prove that the party:</text></p>
+<l><li id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.B.I"><lilabel><refpt id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.B.I" type="ext"/>(i)</lilabel>
+<p><text>has committed an offence against or arising under an Australian law or a law of a foreign country, or</text></p>
+</li><li id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.B.II"><lilabel><refpt id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.B.II" type="ext"/>(ii)</lilabel>
+<p><text>is liable to a civil penalty, within the meaning of the Evidence Act 1995, or</text></p>
+</li></l></li>
+<li id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.C"><lilabel><refpt id="UCPN.DDT.DDTR.R15.1.PRIVILEGED-DOCUMENT-OR-THING.C" type="ext"/>(c)</lilabel>
+<p><text>a document that relates to matters of state within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S130" remotekey1="REFPTID" service="DOC-ID">section 130</remotelink></ci:content></ci:cite>
+ of the Evidence Act 1995, unless and until the Tribunal directs that it cease to be a privileged document.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTR.R15.1.REQUESTING-PARTY"><defterm><refpt id="UCPN.DDT.DDTR.R15.1.REQUESTING-PARTY" type="ext"/><emph typestyle="bf">requesting party</emph></defterm><defdesc>
+<p><text>for a subpoena means a person who is requesting, or who has requested, the issue of the subpoena.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTR.R15.1.RETURN-DATE"><defterm><refpt id="UCPN.DDT.DDTR.R15.1.RETURN-DATE" type="ext"/><emph typestyle="bf">return date</emph></defterm><defdesc>
+<p><text>for a subpoena means the date on which the subpoena is returnable.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R15.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R15.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to subpoenas issued on or after the commencement of this Part.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R15.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R15.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Part apply to the exclusion of the equivalent provisions of the rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 15  subst SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R16"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,775] r 16 Conduct money">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R16" type="ext"/>[473,775]</edpnum><title searchtype="RUL-TITLE">Conduct money</title><desig searchtype="RUL-NUM"><designum>16</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R16.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R16.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena must not require the person named to attend or produce any document or thing on any day on which the person&#x2019;s attendance is required unless an amount sufficient to meet the reasonable expenses of the person named of complying with the subpoena in relation to that day is paid or tendered to the person at the time of service of the subpoena or not later than a reasonable time before that day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R16.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R16.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The amount mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT_DDTN89.S20.6" remotekey1="REFPTID" service="DOC-ID" status="unval">section 20(6)</remotelink></ci:content></ci:cite>
+ of the Act is to be, in respect of a person duly served with a subpoena in any proceedings, the amount which would be payable in respect of that person if the party issuing the subpoena were entitled to claim witness&#x2019; expenses in respect of that person as costs in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005 r 2 and Sch 1effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R17"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,780] r 17 Medical expert not called">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R17" type="ext"/>[473,780]</edpnum><title searchtype="RUL-TITLE">Medical expert not called</title><desig searchtype="RUL-NUM"><designum>17</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R17.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R17.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a subpoena is served on a medical expert who is to give evidence of medical matters and the medical expert is not called as a witness, he or she is, unless he or she was given notice, 14 days or more before the date of his or her attendance, that his or her attendance would not be required on that date or unless the Tribunal otherwise orders, be entitled to be paid $167.00 in addition to any amount paid under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R16" remotekey1="REFPTID" service="DOC-ID">clause 16</remotelink></ci:content></ci:cite>
+ (Conduct money).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R17.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R17.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The amount payable under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R17.1" remotekey1="REFPTID" service="DOC-ID"> subclause (1)</remotelink></ci:content></ci:cite>
+ is to be paid by the party who requested the issue of the subpoena to the expert within 30 days after the date for his or her attendance.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R17.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R17.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal otherwise orders the amount paid under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R17.2" remotekey1="REFPTID" service="DOC-ID"> subclause (2)</remotelink></ci:content></ci:cite>
+ is not recoverable from any other party.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R18"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,785] r 18 Production by non-party">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R18" type="ext"/>[473,785]</edpnum><title searchtype="RUL-TITLE">Production by non-party</title><desig searchtype="RUL-NUM"><designum>18</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R18.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R18.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the person named in a subpoena for production of any document or thing is not a party to the proceedings, the subpoena must, unless the Tribunal otherwise orders, permit the person to produce the document or thing to the Registrar not later than the day before the first date on which the persons&#x2019; attendance is required, instead of attending and producing the document or thing as required by the subpoena.</text></p>
+<leg:histnote>
+<p><text>[subcl (1)  am Act 98 of 2005 s 3 and Sch 2[17], effective 24 November 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R18.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R18.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a document or thing is produced to the Registrar pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R18.1" remotekey1="REFPTID" service="DOC-ID"> subclause (1)</remotelink></ci:content></ci:cite>
+, the Registrar must:</text></p>
+<l><li id="UCPN.DDT.DDTR.R18.2.A"><lilabel><refpt id="UCPN.DDT.DDTR.R18.2.A" type="ext"/>(a)</lilabel>
+<p><text>give a receipt to the person producing the document or thing, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R18.2.B"><lilabel><refpt id="UCPN.DDT.DDTR.R18.2.B" type="ext"/>(b)</lilabel>
+<p><text>produce the document or thing as the nature of the case requires or as the Tribunal may direct.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R18.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R18.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a document or thing is produced to the Registrar pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R18.1" remotekey1="REFPTID" service="DOC-ID"> subclause (1)</remotelink></ci:content></ci:cite>
+ and before the document or thing is tendered to the Tribunal the hearing of the proceedings is adjourned, other than to a date then fixed, the subpoena is no longer of any force or effect, and the Registrar is at liberty to return the document or thing to the person who produced it unless the claim is subject to the claims resolution process under 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTAS33-1" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 4</remotelink>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R18.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R18.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R18.3" remotekey1="REFPTID" service="DOC-ID"> Subclause (3)</remotelink></ci:content></ci:cite>
+ does not operate to prevent the issue of a further subpoena requiring the production of a document or thing returned by the Registrar under that subclause.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R18.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R18.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This clause does not apply to so much of a subpoena as requires the person named to attend to testify in any proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R19"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,790] r 19 Retention and return of exhibits">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R19" type="ext"/>[473,790]</edpnum><title searchtype="RUL-TITLE">Retention and return of exhibits</title><desig searchtype="RUL-NUM"><designum>19</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R19.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R19.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may:</text></p>
+<l><li id="UCPN.DDT.DDTR.R19.1.A"><lilabel><refpt id="UCPN.DDT.DDTR.R19.1.A" type="ext"/>(a)</lilabel>
+<p><text>order that exhibits in any proceedings be retained by the Tribunal until the expiry of any period, or the occurrence of any event, specified in the order for the return of the exhibits, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R19.1.B"><lilabel><refpt id="UCPN.DDT.DDTR.R19.1.B" type="ext"/>(b)</lilabel>
+<p><text>order that exhibits in any proceedings that have been returned to the person who originally produced them to the Tribunal or Registrar be returned to the Tribunal for the purposes of the determination of a cross-claim arising out of the proceedings.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R19.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R19.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Exhibits in any proceedings in which judgment is given or a final order is made are to be returned to the persons who produced them to the Tribunal or Registrar:</text></p>
+<l><li id="UCPN.DDT.DDTR.R19.2.A"><lilabel><refpt id="UCPN.DDT.DDTR.R19.2.A" type="ext"/>(a)</lilabel>
+<p><text>if the Tribunal makes no order that the exhibits be retained and no appeal to the Supreme Court is brought in respect of the proceedings within the period provided for an appeal by or under the Supreme Court Act 1970 &#x2014; immediately after the expiry of that period, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R19.2.B"><lilabel><refpt id="UCPN.DDT.DDTR.R19.2.B" type="ext"/>(b)</lilabel>
+<p><text>if the Tribunal makes no order that the exhibits be retained and leave to appeal to the Supreme Court is refused in respect of the judgment or final order in the proceedings &#x2014; immediately after the Tribunal or Registrar is notified of the refusal to grant leave, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R19.2.C"><lilabel><refpt id="UCPN.DDT.DDTR.R19.2.C" type="ext"/>(c)</lilabel>
+<p><text>if the Tribunal makes an order that the exhibits be retained &#x2014; at the expiry of the period, or on the occurrence of the event, specified in the order for the return of the exhibits.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R19.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R19.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person to whom exhibits are to be returned under 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R19.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink>
+ is to obtain the return of, and give the Registrar a receipt for, the exhibits as soon as is practicable after the first day on which exhibits are to be returned.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R19.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R19.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Registrar is responsible for the safe custody of any exhibits only for a period of 14 days after the first day on which exhibits are to be returned.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R19.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R19.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to any exhibits produced in proceedings, whether on subpoena or otherwise.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R20"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,795] r 20 Issue">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R20" type="ext"/>[473,795]</edpnum><title searchtype="RUL-TITLE">Issue</title><desig searchtype="RUL-NUM"><designum>20</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R20.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R20.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On request by a party, the Registrar must issue a subpoena to give evidence or a subpoena for production or a subpoena both to give evidence and for production.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R20.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R20.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R20.1" remotekey1="REFPTID" service="DOC-ID">Subclause (1)</remotelink></ci:content></ci:cite>
+ does not prevent the issue of a subpoena to give evidence and a subpoena for production to the same person in the same proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R20.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R20.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R20.4" remotekey1="REFPTID" service="DOC-ID">subclause (4)</remotelink></ci:content></ci:cite>
+ a party requesting the issue of a subpoena must produce the subpoena to the Registrar in duplicate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R20.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R20.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a party requests in any proceedings the issue of several subpoenas to give evidence in similar terms but addressed to different persons, the party need produce only one original, but that original must contain the name of each person to whom any of the subpoenas is addressed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R20.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R20.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Registrar is not required to place a copy of the subpoena on the Tribunal&#x2019;s file.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R20.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R20.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena for production may be made returnable on the day fixed for the hearing of the proceedings in which it is issued, or, with the leave of the Tribunal or the Registrar, on any other day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R20.7"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R20.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>While a claim is subject to the claims resolution process under Part 4, a subpoena for production of any document or thing:</text></p>
+<l><li id="UCPN.DDT.DDTR.R20.7.A"><lilabel><refpt id="UCPN.DDT.DDTR.R20.7.A" type="ext"/>(a)</lilabel>
+<p><text>is to be made returnable on a day that is no later than 5 business days before the commencement of mediation on the claim under that Part, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R20.7.B"><lilabel><refpt id="UCPN.DDT.DDTR.R20.7.B" type="ext"/>(b)</lilabel>
+<p><text>must permit the person named in the subpoena (whether or not the person is a party) to produce the document or thing to the Registrar.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R21"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,800] r 21 Notice to be given to other parties concerning subpoenas requiring production">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R21" type="ext"/>[473,800]</edpnum><title searchtype="RUL-TITLE">Notice to be given to other parties concerning subpoenas requiring production</title><desig searchtype="RUL-NUM"><designum>21</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R21.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R21.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The requesting party for any subpoena requiring production must serve each other party who has an address for service in the proceedings with a copy of the subpoena:</text></p>
+<l><li id="UCPN.DDT.DDTR.R21.1.A"><lilabel><refpt id="UCPN.DDT.DDTR.R21.1.A" type="ext"/>(a)</lilabel>
+<p><text>if the return date of the subpoena is on a day that is 14 days or more after the subpoena is issued &#x2014; within the period of 7 days after the subpoena is issued, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R21.1.B"><lilabel><refpt id="UCPN.DDT.DDTR.R21.1.B" type="ext"/>(b)</lilabel>
+<p><text>if the return date of the subpoena is on a day that is less than 14 days after the subpoena is issued &#x2014; within 24 hours after the subpoena is issued.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R21.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R21.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The requesting party for a subpoena requiring production who fails to comply with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.1" remotekey1="REFPTID" service="DOC-ID">subclause (1)</remotelink></ci:content></ci:cite>
+ must notify the Tribunal of that failure at the next date on which the subpoena is returnable.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R21.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R21.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The requesting party for a subpoena requiring production must notify each other party to the proceedings who has an address for service in the proceedings of any new return date for the subpoena fixed after the subpoena is first issued:</text></p>
+<l><li id="UCPN.DDT.DDTR.R21.3.A"><lilabel><refpt id="UCPN.DDT.DDTR.R21.3.A" type="ext"/>(a)</lilabel>
+<p><text>if the return date of the subpoena is on a day that is 14 days or more after the new date is fixed &#x2014; within the period of 7 days after the new date is fixed, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R21.3.B"><lilabel><refpt id="UCPN.DDT.DDTR.R21.3.B" type="ext"/>(b)</lilabel>
+<p><text>if the return date of the subpoena is on a day that is less than 14 days after the new date is fixed &#x2014; within 24 hours after the new date is fixed.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R21.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R21.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal or the Registrar may make an order for costs against a requesting party for a subpoena requiring production if that party fails to comply with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.2" remotekey1="REFPTID" service="DOC-ID">subclause (2)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.3" remotekey1="REFPTID" service="DOC-ID">(3)</remotelink></ci:content></ci:cite>
+, but only in respect of costs incurred by reason of that failure.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R21.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R21.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A requesting party for a subpoena requiring production need not comply with a requirement under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.1" remotekey1="REFPTID" service="DOC-ID">subclause (1)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.2" remotekey1="REFPTID" service="DOC-ID">(2)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.3" remotekey1="REFPTID" service="DOC-ID">(3)</remotelink></ci:content></ci:cite>
+ if the person named is excused from compliance with the subpoena by the requesting party under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R29.2" remotekey1="REFPTID" service="DOC-ID">clause 29(2)</remotelink></ci:content></ci:cite>
+ (Alteration to obligations) before the time when the requesting party had to comply with that requirement.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R21.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R21.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this clause affects the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R26" remotekey1="REFPTID" service="DOC-ID">clause 26</remotelink></ci:content></ci:cite>
+ (Subpoena to medical expert).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R22"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,805] r 22 Access to subpoenaed material">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R22" type="ext"/>[473,805]</edpnum><title searchtype="RUL-TITLE">Access to subpoenaed material</title><desig searchtype="RUL-NUM"><designum>22</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R22.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R22.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may make an access order in relation to a subpoena requiring production at the time the subpoena is issued or at any time after it is issued.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R22.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R22.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an access order has effect in relation to a subpoena for production, a party or the party&#x2019;s barrister or solicitor may (subject to the terms of the order):</text></p>
+<l><li id="UCPN.DDT.DDTR.R22.2.A"><lilabel><refpt id="UCPN.DDT.DDTR.R22.2.A" type="ext"/>(a)</lilabel>
+<p><text>inspect documents or things produced in compliance with the subpoena, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R22.2.B"><lilabel><refpt id="UCPN.DDT.DDTR.R22.2.B" type="ext"/>(b)</lilabel>
+<p><text>take copies of any documents so inspected.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R23"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,810] r 23 Proposed access orders">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R23" type="ext"/>[473,810]</edpnum><title searchtype="RUL-TITLE">Proposed access orders</title><desig searchtype="RUL-NUM"><designum>23</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R23.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R23.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal orders otherwise, the requesting party for a subpoena requiring production must endorse a proposed access order on the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R23.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R23.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R22" remotekey1="REFPTID" service="DOC-ID">clause 22</remotelink></ci:content></ci:cite>
+ (Access to subpoenaed material), the Tribunal may:</text></p>
+<l><li id="UCPN.DDT.DDTR.R23.2.A"><lilabel><refpt id="UCPN.DDT.DDTR.R23.2.A" type="ext"/>(a)</lilabel>
+<p><text>endorse a proposed access order on a subpoena requiring production if the requesting party has not endorsed such a proposed order, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R23.2.B"><lilabel><refpt id="UCPN.DDT.DDTR.R23.2.B" type="ext"/>(b)</lilabel>
+<p><text>endorse a proposed access order on a subpoena requiring production in different terms to a proposed order endorsed by the requesting party.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R23.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R23.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal orders otherwise, any such proposed access order has effect as an access order immediately after the next return date for the subpoena if:</text></p>
+<l><li id="UCPN.DDT.DDTR.R23.3.A"><lilabel><refpt id="UCPN.DDT.DDTR.R23.3.A" type="ext"/>(a)</lilabel>
+<p><text>documents or things are produced in compliance with the subpoena on or before that date, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R23.3.B"><lilabel><refpt id="UCPN.DDT.DDTR.R23.3.B" type="ext"/>(b)</lilabel>
+<p><text>no person appears before the Registrar or Tribunal on the return date in opposition to the proposed order.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R23.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R23.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R23.3" remotekey1="REFPTID" service="DOC-ID">subclause (3)</remotelink></ci:content></ci:cite>
+, the Tribunal may take into account a failure to comply with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R23.5" remotekey1="REFPTID" service="DOC-ID">subclause (5)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R23.6" remotekey1="REFPTID" service="DOC-ID">(6)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.1" remotekey1="REFPTID" service="DOC-ID">clause 21(1)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.2" remotekey1="REFPTID" service="DOC-ID">(2)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R21.3" remotekey1="REFPTID" service="DOC-ID">(3)</remotelink></ci:content></ci:cite>
+ in determining whether a proposed access order should have effect according to its tenor or whether an order is to be made to modify or revoke the proposed access order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R23.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R23.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party or a person named in a subpoena requiring production who proposes to object to the proposed access order on the return date for the subpoena must notify the requesting party of the objection:</text></p>
+<l><li id="UCPN.DDT.DDTR.R23.5.A"><lilabel><refpt id="UCPN.DDT.DDTR.R23.5.A" type="ext"/>(a)</lilabel>
+<p><text>if the party or person is served with a copy of the subpoena on a day that is 14 days or more before the return date &#x2014; within the period of 3 days after the party or person is served, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R23.5.B"><lilabel><refpt id="UCPN.DDT.DDTR.R23.5.B" type="ext"/>(b)</lilabel>
+<p><text>if the party or person is served with a copy of the subpoena on a day that is less than 14 days before the return date &#x2014; within the period of 24 hours after the party or person is served.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R23.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R23.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A requesting party who has received notice of an objection to a proposed access order must notify all of the other parties who have an address for service in the proceedings of the objection within 24 hours after receiving that notice.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R24"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,815] r 24 Exercise of functions by Registrar">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R24" type="ext"/>[473,815]</edpnum><title searchtype="RUL-TITLE">Exercise of functions by Registrar</title><desig searchtype="RUL-NUM"><designum>24</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R24.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R24.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The functions of the Tribunal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R22" remotekey1="REFPTID" service="DOC-ID">clauses 22</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R23" remotekey1="REFPTID" service="DOC-ID">23</remotelink></ci:content></ci:cite>
+ may, unless the Tribunal otherwise orders, be exercised by the Registrar.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R25"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,820] r 25 Time for service">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R25" type="ext"/>[473,820]</edpnum><title searchtype="RUL-TITLE">Time for service</title><desig searchtype="RUL-NUM"><designum>25</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R25.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R25.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena must be served on the person named within a reasonable time.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R25.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R25.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without affecting the generality of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R25.1" remotekey1="REFPTID" service="DOC-ID">subclause (1)</remotelink></ci:content></ci:cite>
+, where a subpoena requires attendance or production or both on a specified date, the subpoena may not be served on the person named later than 5 days before the date so specified unless the Tribunal or Registrar otherwise orders.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R25.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R25.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R25.4" remotekey1="REFPTID" service="DOC-ID">subclause (4)</remotelink></ci:content></ci:cite>
+, service of a subpoena for production which requires production on a specified date, being a date not later than 21 days before the hearing of the proceedings in which the subpoena is issued, may be effected by sending a copy of the subpoena by pre-paid post addressed to the person named at that persons&#x2019; usual or last known residence or place of business.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R25.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R25.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R25.3" remotekey1="REFPTID" service="DOC-ID">subclause (3)</remotelink></ci:content></ci:cite>
+ is not effective unless and until the subpoena is actually received by the person named.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R26"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,825] r 26 Subpoena to medical expert">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R26" type="ext"/>[473,825]</edpnum><title searchtype="RUL-TITLE">Subpoena to medical expert</title><desig searchtype="RUL-NUM"><designum>26</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R26.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R26.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a subpoena requires a medical expert to attend in Sydney on a specified date for the purposes of giving evidence on medical matters, the subpoena may not be served on the expert later than 21 days before the date so specified unless the Tribunal otherwise orders.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R26.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R26.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The parties may not by consent abridge the time fixed by or under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R26.1" remotekey1="REFPTID" service="DOC-ID">subclause (1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R26.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R26.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party may request the issue of a subpoena for production in the approved form requiring a medical expert to attend and produce medical records or clear sharp photocopies of them.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R26.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R26.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena requested under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R26.3" remotekey1="REFPTID" service="DOC-ID">subclause (3)</remotelink></ci:content></ci:cite>
+ must not require the person named to attend or produce any document on any date specified unless the amount of $28 is paid or tendered to the person at the time of service of the subpoena or not later than a reasonable time before that specified date.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R26.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R26.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R16" remotekey1="REFPTID" service="DOC-ID">Clause 16</remotelink></ci:content></ci:cite>
+ (Conduct money) does not apply to a subpoena requested under 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.CL26.3" remotekey1="REFPTID" service="DOC-ID" status="unval">subclause (3)</remotelink>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R26.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R26.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R18" remotekey1="REFPTID" service="DOC-ID">Clause 18</remotelink></ci:content></ci:cite>
+ (Production by non-party) applies to the photocopies as it applies to the records.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R27"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,830] r 27 Setting aside">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R27" type="ext"/>[473,830]</edpnum><title searchtype="RUL-TITLE">Setting aside</title><desig searchtype="RUL-NUM"><designum>27</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may, of its own motion or on the motion of any person having a sufficient interest, set aside a subpoena wholly or in part.</text></p>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R28"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,835] r 28 Expense and loss">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R28" type="ext"/>[473,835]</edpnum><title searchtype="RUL-TITLE">Expense and loss</title><desig searchtype="RUL-NUM"><designum>28</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a person named is not a party and, in consequence of service of the subpoena, reasonably incurs expense or loss substantially exceeding any sum paid under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTR.R16" remotekey1="REFPTID" service="DOC-ID">clause 16</remotelink></ci:content></ci:cite>
+ (Conduct money), the Tribunal may order that the party who requested the issue of the subpoena pay to the person named an amount in respect of the expense or loss.</text></p>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R29"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,840] r 29 Alteration to obligations">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R29" type="ext"/>[473,840]</edpnum><title searchtype="RUL-TITLE">Alteration to obligations</title><desig searchtype="RUL-NUM"><designum>29</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTR.R29.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R29.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party who has requested the issue of a subpoena to give evidence may, by written or oral notice to the person named, alter the day specified in the subpoena for attendance to a day which is:</text></p>
+<l><li id="UCPN.DDT.DDTR.R29.1.A"><lilabel><refpt id="UCPN.DDT.DDTR.R29.1.A" type="ext"/>(a)</lilabel>
+<p><text>later than the day specified in the subpoena and the day, if any, as last altered pursuant to this subclause, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTR.R29.1.B"><lilabel><refpt id="UCPN.DDT.DDTR.R29.1.B" type="ext"/>(b)</lilabel>
+<p><text>the day of the hearing of the action.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R29.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTR.R29.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the person named in any subpoena has not been called to give evidence, or produce documents, before the Tribunal in compliance with the subpoena, the party who requested the issue of the subpoena may, by written or oral notice to the person named, excuse that person from compliance with the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTR.R30"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[473,845] r 30 Application of Part 3.10 of Evidence Act 1995">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTR.R30" type="ext"/>[473,845]</edpnum><title searchtype="RUL-TITLE">Application of Part 3.10 of Evidence Act 1995</title><desig searchtype="RUL-NUM"><designum>30</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Part compels a person on whom a subpoena is served to produce a privileged document or thing.</text></p>
+<leg:histnote>
+<p><text>[ insrt SR 189 of 2005  r 2 and Sch 1, effective 13 May 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:body>
+</LEGDOC>

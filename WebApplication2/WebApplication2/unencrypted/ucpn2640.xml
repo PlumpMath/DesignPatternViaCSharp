@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>TH</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_635</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>T</title></heading>
+<docinfo:hierlev role="me"><heading><title>TH</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110700</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_635" /><docinfo:metaitem name="parent-filename" value="ucpn264.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="30" month="05" year="2013">30 May 2013</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>TH</title></heading>
+<in:lev1 id="UCPN_IND_635" subdoc="true" toc-caption="Third parties"><in:entry><in:entry-text><refpt id="THIRD_PARTIES" type="ext"><emph typestyle="bf">Third parties</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text /></in:entry><see-also><emph typestyle="it">see also</emph>  <remotelink dpsi="05CB" refpt="NONPARTY" remotekey1="REFPTID" service="DOC-ID" filename="ucpn1960.xml">Non-party</remotelink></see-also></in:lev2>
+
+<in:lev2><in:entry><in:entry-text>admissions as against <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S83" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,745]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.50745-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,745.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>claims against <remotelink dpsi="05CC" refpt="UCPN.OL.LRMP.S3" remotekey1="REFPTID" service="DOC-ID" filename="ol10481003.xml">[360,060]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>costs orders against <remotelink dpsi="05CC" refpt="UCPN.CPA.S98-25" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001054.xml">[s 98.25]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- circumstances, examples of <remotelink dpsi="05CC" refpt="UCPN.CPA.S98-25" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001054.xml">[s 98.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- false evidence, where <remotelink dpsi="05CC" refpt="UCPN.CPA.S98-25" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001054.xml">[s 98.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- made after entry of judgment <remotelink dpsi="05CC" refpt="UCPN.CPA.S98-40" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001054.xml">[s 98.40]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>costs orders in favour of <remotelink dpsi="05CC" refpt="UCPN.CPA.S98-30" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001054.xml">[s 98.30]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>cross-claims <remotelink dpsi="05CC" refpt="UCPN.CPA.S22-5" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001012.xml">[s 22.5]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.9-1-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021090.xml">[9.1.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>execution against goods of <remotelink dpsi="05CC" refpt="UCPN.UCPR.39-6-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021312.xml">[39.6.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>judgments amended under slip rule, effect on <remotelink dpsi="05CC" refpt="UCPN.UCPR.36-17-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021303.xml">[36.17.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>personal injury damages contributions <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S19" remotekey1="REFPTID" service="DOC-ID" filename="ol10061039.xml">[270,450]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>third party payers <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,007]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- associated third party payers <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,007]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>costs agreement with <remotelink dpsi="05CC" refpt="UCPN.OL.LPRN05.REG110B" remotekey1="REFPTID" service="DOC-ID" filename="ol10561003.xml">[380,030B]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>disclosure to <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S318A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541006.xml">[375,087]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,005]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- obligations for legal costs <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,007]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- terms relating to <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,007]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_636" subdoc="true" toc-caption="Third party claims under LC(CC) Act 1970"><in:entry><in:entry-text><refpt id="THIRD_PARTY_CLAIMS_UNDER_LCCC_ACT_1970" type="ext"><emph typestyle="bf">Third party claims under LC(CC) Act 1970</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>continuance of <remotelink dpsi="05CC" refpt="UCPN.LCPG.26035-25" remotekey1="REFPTID" service="DOC-ID" filename="lcpg10121000.xml">[26,035.25]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_637" subdoc="true" toc-caption="Third party payers "><in:entry><in:entry-text><refpt id="THIRD_PARTY_PAYERS" type="ext"><emph typestyle="bf">Third party payers </emph></refpt></in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="THIRD_PARTIES" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2640.xml">Third parties</remotelink></see></in:lev1>
+
+<in:lev1 id="UCPN_IND_638" subdoc="true" toc-caption="Threat"><in:entry><in:entry-text><refpt id="THREAT" type="ext"><emph typestyle="bf">Threat</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>admission influenced by <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S84" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,750]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.EA.50750-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001042.xml">[50,750.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE CASEDOC PUBLIC "-//LEXISNEXIS//DTD GLP Casedoc v005//EN" "casedoc-norm.dtd">
+<CASEDOC type="practicenote" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="3"><docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[SC Gen 7] Practice Note SC Gen 7 Supreme Court &#x2014; Use Of Technology</docinfo:doc-heading><docinfo:doc-id>UCPN_PRACNOTE.SGM_UCPN.PN.SCG.PN7</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>PRACTICE NOTES</title></heading><docinfo:hierlev role="ancestor"><heading><title>Supreme Court Practice Notes</title></heading><docinfo:hierlev role="me"><heading><edpnum>[SC Gen 7]</edpnum><desig><designum>Practice Note SC Gen 7</designum></desig><title>Supreme Court &#x2014; Use Of Technology</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>130070000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.PRACNOTE"/><docinfo:metaitem name="parent-filename" value="pracnote.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_PRACNOTE.SGM_UCPN.PN.SCG.PN7"/><docinfo:metaitem name="parent-filename" value="pracnote1014.xml"/></docinfo:lbu-meta><docinfo:selector>case</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date></docinfo>
+<case:body><heading searchtype="PRACTICE-NOTE"><edpnum><refpt id="UCPN.PN.SCG.PN7" type="ext"/>[SC Gen 7]</edpnum>
+<desig><designum>Practice Note SC Gen 7</designum></desig></heading>
+<case:headnote>
+<case:info><case:casename searchtype="PRACTICE-NOTE">Supreme Court &#x2014; Use Of Technology</case:casename></case:info></case:headnote><case:content>
+<case:judgments><case:judgment><case:judgmentbody>
+<pgrp>
+<heading><title>Commencement</title></heading>
+<p>
+<text>1.&#x2002;This Practice Note was issued on 9 July 2008 and commenced on 1 August 2008.</text></p></pgrp>
+<pgrp>
+<heading><title>Application</title></heading>
+<p>
+<text>2.&#x2002;This Practice Note applies to new and existing proceedings in the court, except as otherwise stated.</text></p></pgrp>
+<pgrp>
+<heading><title>Definitions</title></heading>
+<p>
+<text>3.&#x2002;In this Practice Note:</text>
+<l>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">SCR</emph> means the Supreme Court Rules 1970</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">UCPR</emph> means the Uniform Civil Procedure Rules 2005</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">Database</emph> means a collection of electronic data that is organised so that its contents can easily be accessed, managed and updated</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">Electronic Data</emph> means information that has been translated into an electronic form that is more convenient to move or process</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">ESI</emph> means electronically stored information and includes emails, webpages, word processing files, images, sound recordings, videos and databases stored in any device</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">Field</emph> means a column of data within a database. Each record (row) can be made up of a number of pieces of information and, therefore, consists of a number of fields. These fields may be displayed as a box to enter or display data (in a form or report)</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">IMAGE</emph> means a picture or photograph that has been created or copied and stored in electronic format</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">Medium</emph> means a mechanism through which a message is communicated</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">Virus</emph> means a computer program designed to replicate itself, usually having some unexpected and undesirable result for its targets. Viruses can be transmitted by downloading programs from infected sites (including internet sites) or they may be present on a storage device received from an infected system </text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">XML</emph> means extensible mark up language used to facilitate the transfer of documents between computer systems</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Introduction</title></heading>
+<p>
+<text>4.&#x2002;The purpose of this Practice Note is to set out a protocol for the use of technology in courtrooms and jury deliberation rooms and, in relation to civil litigation, to:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>encourage the use of information technology as a means of improving the efficiency of litigation in general;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>emphasise the court&#x2019;s power to require the use of technology in particular cases or circumstances in order to provide such efficiencies;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>offer guidelines on the matters parties should to take into account in deciding how to make use of technology; and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>offer examples and suggested standards to assist parties in agreeing upon the extent and manner in which they will use technology to exchange information.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Use of technology in courtrooms and jury deliberation rooms</title></heading>
+<p>
+<text>5.&#x2002;Parties should give the Court as much notice as possible if they require technology in the courtroom or jury deliberation room during a hearing. Equipment and services may be required, such as hardware, software and additional infrastructure and a third party service provider may need to be engaged. Technology may include:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Real time transcript;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Video-conferencing; and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Computers at the bar table.</text></p></li></l></p>
+<p>
+<text>6.&#x2002;The trial or presiding judge must give approval before technology may be installed or used in courtrooms or jury deliberation rooms. Where such a judge has not yet been allocated, parties should obtain approval from the relevant List Judge. Nothing in this practice note is intended to preclude practitioners from using their own laptop computers at the bar table during hearings.</text></p>
+<p>
+<text>7.&#x2002;A judge who approves the use of technology will ask the registry to make all arrangements. In most circumstances the Court will install its own equipment and the parties will be asked to meet all associated costs.</text></p>
+<p>
+<text>8.&#x2002;A document <emph typestyle="it">Technology in the courtroom &#x2014; Protocols and Procedures for Video and Audio Link</emph> is available on the Court&#x2019;s website, along with the relevant forms.</text></p></pgrp>
+<pgrp>
+<heading><title>Encouraging the use of technology in civil litigation</title></heading>
+<p>
+<text>9.&#x2002;All parties are required at all stages of their litigation to consider the prospect of using technology for the purposes of information exchange and at trial itself. In preparing a case for trial the parties are specifically encouraged to:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>exchange electronic versions of documents such as pleadings and statements;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>consider the use of electronic data at trial in accordance with the Court&#x2019;s requirements.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Serve documents electronically</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Electronic exchange of discovery lists and documents</title></heading>
+<p>
+<text>10.&#x2002;Where parties have discoverable ESI, efficiency dictates that any discovery and production of such information be given electronically to avoid the need to convert it to a paper format. In such cases the Court, as a general rule, will require the parties to:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>create electronic lists of their discoverable ESI material</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>give inspection by production of databases containing copies of discoverable ESI created in accordance with an agreed protocol. Host and attachment documents must not be separated in this process and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>change original file names to document identification numbers.</text></p></li></l></p>
+<p>
+<text>11.&#x2002;Where the parties have more than 500 documents that are not ESI, as a general rule the Court will expect the parties to consider the use of technology to discover and inspect such documents along with any ESI. Decisions about the appropriate use of technology will be better informed if the parties have identified early in the proceedings the scope of discovery and the categories of documents likely to be discovered.</text></p>
+<p>
+<text>12.&#x2002;Practitioners must advise their opponents at an early stage of the proceedings of potentially discoverable electronically stored information and meet to agree upon matters including:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the format of the electronic database for the electronic discovery, noting that metadata, mark-up or other &#x201c;hidden&#x201d; data will be automatically discovered if native format is used. Because of potential costs, the Court would ordinarily expect it should only be discovered where the relevance outweighs the cost</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the protocol to be used for the electronic discovery including electronically stored information</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the type and extent of the electronically stored information that is to be discovered</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>how legacy or deleted data is to be dealt with. The existence of ESI that is not reasonably or readily accessible should be disclosed between the parties, but the Court would ordinarily expect that it would not need to be retrieved unless necessary for the conduct of the proceedings</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>whether electronically stored information is to be discovered on an agreed without prejudice basis</text></p>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>without the need to go through the information in detail to categorise it into privileged and non-privileged information and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>without prejudice to an entitlement to subsequently claim privilege over any information that has been discovered and is claimed to be privileged under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S118" remotekey1="REFPTID" service="DOC-ID">s 118</remotelink></ci:content></ci:cite>
+ and/or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S119" remotekey1="REFPTID" service="DOC-ID">s 119</remotelink></ci:content></ci:cite>
+ of the Evidence Act 1995 and/or at common law.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Such ESI could be produced separately on a CD-ROM or DVD and appropriately marked to enable the Court to determine any privilege issue.</text></p></li></l></li></l></p>
+<p>
+<text>13.&#x2002;In many cases where there is a substantial amount of ESI the parties should consider producing the material in its searchable native format, rather than by production of document images.</text></p>
+<p>
+<text>14.&#x2002;If a party chooses to produce document images rather than originals of ESI, the costs of providing access to hardware, software or other resources to enable inspection of original electronic material should be agreed by the parties.</text></p></pgrp>
+<pgrp>
+<heading><title>Agreement by written protocol</title></heading>
+<p>
+<text>15.&#x2002;In any case where there is to be discovery given by production of databases containing discoverable ESI the parties should:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>endeavour to reach agreement early in the proceedings on the protocol to be used and the scope of that protocol; and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>seek either consent orders or directions from the Court, if agreement is not reached, concerning the terms of the protocol.</text></p></li></l></p>
+<p>
+<text>16.&#x2002;The court will expect the protocol to deal with the following matters:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the format of the electronic database for the electronic discovery;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the protocols and data formats to be used for the electronic discovery;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the type and extent of the ESI that is to be discovered; and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>whether ESI is to be discovered on an agreed without prejudice basis;</text></p>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>without the need to go through the information in detail to categorise it into privileged and non privileged information; and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>without prejudice to an entitlement subsequently to maintain a claim for privilege over any information that has been discovered and is claimed to be privileged under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S118" remotekey1="REFPTID" service="DOC-ID">s 118</remotelink></ci:content></ci:cite>
+ and/or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S119" remotekey1="REFPTID" service="DOC-ID">s 119</remotelink></ci:content></ci:cite>
+ of the Evidence Act 1995 and/or at common law.</text></p></li></l></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>whether documents will be produced in native or image format</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>for cost reasons, forensic examination of hard drives is only appropriate when the Court makes specific orders</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Any other terms and conditions of electronic discovery</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Verification of electronic lists</title></heading>
+<p>
+<text>17.&#x2002;Each party shall consider how lists of documents should be verified where data about those documents is to be exchanged electronically. </text></p></pgrp>
+<pgrp>
+<heading><title>Orders to dispense with verifications by affidavit</title></heading>
+<p>
+<text>18.&#x2002;Presently existing rules of Court presuppose that a hard copy list of documents will be verified by affidavit. Where a party believes that it is appropriate to dispense with verification of a hard copy list, that party should ask the Court for an appropriate direction.</text></p></pgrp>
+<pgrp>
+<heading><title>Verification by reference to method of service</title></heading>
+<p>
+<text>19.&#x2002;As an alternative to verification of a hard copy list, the parties may wish to consider asking for a direction that the verifying affidavit identify the documents by reference to the medium by which the data was served and the date of service. For example, the affidavit may refer, in a hypothetical case, to: <emph typestyle="it">the documents described in the database contained on the compact disks served on the defendant under cover of letters date 21 January, 24 January and 29 March 2003</emph>.</text></p></pgrp>
+<pgrp>
+<heading><title>Providing electronic lists of documents to the Court</title></heading>
+<p>
+<text>20.&#x2002;The parties should consider whether data relating to their discoverable documents should be provided to the Court electronically in addition to any hard copy list.</text></p></pgrp>
+<pgrp>
+<heading><title>Directions</title></heading>
+<p>
+<text>21.&#x2002;The Court retains the power to direct parties to use information technology in appropriate cases. Parties shall comply with any directions issued by the Court in relation to the use of technology and shall comply with any requirements published by the Court in relation to issues concerning the use of technology, such as document formats.</text></p>
+<p>
+<text>22.&#x2002;It should be noted that whilst this practice note is generally advisory in nature the Court may mandate the use of the technology standards it describes in cases where the parties fail to agree on exchange and presentation mechanisms within a reasonable time frame.</text></p></pgrp>
+<pgrp>
+<heading><title>Electronic exchange of court documents</title></heading>
+<p>
+<text>23.&#x2002;Where a party serves a pleading, affidavit, statement, list of documents or interrogatory on another party, the recipient may ask the first party to also provide a copy of it in an electronic format.</text></p>
+<p>
+<text>24.&#x2002;The Court expects parties to accede to reasonable requests for copies of court documents in an electronic format. Before copies are provided the parties shall make all reasonable efforts to agree upon: </text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the word processing or other format in which electronic versions will be provided;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the methods by which electronic versions will be exchanged; and</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>any other terms and conditions of electronic exchange.</text></p></li></l></p>
+<p>
+<text>25. Attention is directed to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R3-8" remotekey1="REFPTID" service="DOC-ID">UCPR 3.8</remotelink></ci:content></ci:cite>
+, which provides for electronic service of documents in proceedings. The consent can be given inter alia by including an electronic address for service in a notice of appearance.</text></p></pgrp>
+<pgrp>
+<heading><title>Document formats</title></heading>
+<p>
+<text>26. Where appropriate the parties may wish to agree upon the preparation of a document in a structured format, such as HTML or XML, so that hypertext links can be made where appropriate. For example, if a document refers to a document ID, a hypertext link can be made to the relevant document image.</text></p></pgrp>
+<pgrp>
+<heading><title>Content of court documents</title></heading>
+<p>
+<text>27. A court document provided by a party in electronic format shall contain only the same text as the paper copy. Where a court document contains an annexure, however, the text of the annexure will be expected to be contained within the electronic copy.</text></p></pgrp>
+<pgrp>
+<heading><title>Risk of computer viruses</title></heading>
+<p>
+<text>28. Generally it will not be regarded as unreasonable for a party to provide documents in electronic format subject to a condition that it is the responsibility of the recipient to test it for viruses.</text></p></pgrp>
+<pgrp>
+<heading><title>Providing electronic copies to the court</title></heading>
+<p>
+<text>29. The Court may direct a party to provide the Court with copies of court documents in an electronic format.</text></p></pgrp>
+<pgrp>
+<heading><title>Technology checklist</title></heading>
+<p>
+<text>30.&#x2002;In developing a protocol on electronic exchange the parties should consider the matters described in the annexed Technology Check List. The checklist is a guide only and parties are free to agree on appropriate changes to it. However, if the parties are unable to agree on a protocol then the default options indicated in the checklist will apply as a minimum standard.</text></p></pgrp>
+<pgrp>
+<heading><title>Recommended fields</title></heading>
+<p>
+<text>31.&#x2002;The fields and associated guidelines described in Annexure 2 are those that ought be used for the purpose of electronic exchange and which may be mandated by the Court in a given case, in the absence of agreement to the contrary by the parties.</text></p></pgrp>
+<pgrp>
+<heading><title>Use of technology during a hearing</title></heading>
+<p>
+<text>32.&#x2002;Where parties have used databases or databases and associated documents or images to facilitate discovery and inspection, the parties should consider and make submissions about how best to use technology at the hearing. For example, the parties&#x2019; discovery databases might form the basis of an index to the agreed bundle, or for the creation of a database of documents admitted into evidence and rulings on the admissibility of documents. Early involvement of the court in this process will assist in many cases </text></p></pgrp></case:judgmentbody></case:judgment></case:judgments>
+<case:appendix><sigblock>
+<p><text><person><name.text>J J Spigelman AC</name.text>
+<role>Chief Justice of New South Wales</role></person>
+<date>9 July 2008</date></text></p></sigblock>
+<pgrp>
+<heading><title>Related information</title></heading>
+<p>
+<text>See also:</text>
+<l>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="it">Technology in the courtroom &#x2014; Protocols and Procedures for Video and Audio Link</emph></text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="it">Video-Link call application form</emph></text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="it">Video/audio-link call order form</emph></text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="it">Video-link set-up form</emph></text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Amendment History</title></heading>
+<p>
+<text>This Practice Note was issued on 9 July 2008 and commenced on 1 August 2008. It replaces</text></p>
+<p>
+<text>Practice Note SC Gen 7 issued on 1 September 2006.</text></p>
+<p>
+<text>The Practice Note issued on 1 September 2006 replaced the Note issued on 17 August 2005.</text></p>
+<p>
+<text>The Practice Note issued on 17 August 2005 replaced Former Practice Note No. 127.</text></p></pgrp>
+<h>Annexure 1</h>
+<h>Technology checklist</h>
+<p>
+<text>** = default or minimum standard</text>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="4" colsep="0" rowsep="1">
+<colspec colname="col1" colsep="0" colwidth="80*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="80*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="20*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="120*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Preparation stage</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Type of document</entry>
+<entry colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0" valign="top">Options</entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Pre-Trial</entry>
+<entry colsep="0" morerows="0" rowsep="0">Exchange of Court Documents and Witness Statements</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Hard copy onlyElectronic Copy onlyHard copy and electronic copy**</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Electronic Document Format</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Delimited ASCII text file**Word processing format &#x2026;Excel spreadsheetXMLOther &#x2026;</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Document Exchange Via</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">DXCourierAustralia PostFloppy Disk**Electronic mailCD RomInternet</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Discovery</entry>
+<entry colsep="0" morerows="0" rowsep="0">Exchange of Document Lists</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Hard copy onlyElectronic Copy onlyHard copy and electronic copy**</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Electronic Document List Format</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Delimited ASCII text file**Word processing format &#x2026;Excel spreadsheetXMLOther&#x2026;</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Document Exchange Via</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">DXCourierAustralia PostFloppy Disk**Electronic mailCD RomInternet</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Example Database Formats</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">MS AccessLotus NotesFilemaker ProMS SQLSybaseExcel Spreadsheet**OracleOther &#x2026;</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Document Inspection Format</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Hard copy onlyElectronic/image of hard copyHard copy and electronic/image copy**Non-paper record for example, video/audio tape, database, microfiche, etcOther Medium &#x2026;</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Electronic Image Formats</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">TIFF &#x2014; MultiTIFF &#x2014; Single**PDFGIFOther &#x2026;</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Special Considerations</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Redacting (masking)ConfidentialityOther &#x2026;</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Trial</entry>
+<entry colsep="0" morerows="0" rowsep="0">Exchange of Agreed Bundle/Court Book Indexes</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Hard copy onlyElectronic/image of hard copyHard copy and electronic/image** copyOther Medium &#x2026;</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Electronic Document Index Format</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Delimited ASCII text file**Word processing formatExcel spreadsheetOther</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Document Exchange Via</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">DXCourierAustralia PostFloppy Disk**Electronic mailCD RomInternet/Intranet</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Generally</entry>
+<entry colsep="0" morerows="0" rowsep="0">Image Resolution</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Images may be scanned in at around 200 dpi. Any greater file size may be unworkable.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Filename Structure</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Images may be named identically to the relevant Document ID or according to the agreed folder structure. If images are named in accordance with the naming convention of the full document ID then the dots within the Document ID may be omitted (other than the dot preceding the file extension).</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Special Considerations</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Consideration should be given to:</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0">&#x2022;</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">whether there are any special requirements, such as redacting (masking)</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0">&#x2022;</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">the implications of using technology in respect of information that may be subject to confidentiality orders or undertakings.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">Recommended fields and default fields**</entry>
+<entry align="justify" colsep="0" morerows="0" nameend="col4" namest="col3" rowsep="0">Among the Recommended Fields, the following are the default fields (those which the parties will be expected to use as a minimum standard unless otherwise agreed or ordered):</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0">&#x2022;</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Document ID</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0">&#x2022;</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Date</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0">&#x2022;</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Document type</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0">&#x2022;</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Author/ Author organisation</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0">&#x2022;</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Addressee/ Addressee organisation</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="right" colsep="0" morerows="0" rowsep="0">&#x2022;</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Title</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<h>Annexure 2</h>
+<h>Recommended fields</h>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="3" colsep="0" rowsep="1">
+<colspec colname="col1" colsep="0" colwidth="80*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="80*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="140*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Field</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Data type and length</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Notes</entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Document ID (Default field 1)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text and Numbers (if appropriate) Length &#x2014; depending on field structure</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Each document should be uniquely identified. The field may be broken into different components such as First Page and Last Page providing the parties agree. The field or fields might comprise a four-part number in form AAA.NNN.NNN.NNNN where &#x201c;AAA&#x201d; represents alphabetic shorthand for the party name. The other three sets of numbers could be used to suit the convenience of the parties. It may be useful if the first set is used to refer to an archive box number, the second to the number of the folder within the box, and the third to the page number. Rules for the numbering hierarchy can be agreed prior to discovery and the above is to be used as a guide not the definitive form.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">The parties should consider whether each page should be individually numbered or agree on some other satisfactory arrangement. If agreement is not reached then the parties should seek the Court&#x2019;s direction. If the parties agree not to number each page, consideration should be given to an additional field recording the number of pages in each document. Attachments to documents can be separately listed and numbered. Attachments can be numbered sequentially following the host document. For example, a host document may be numbered XXX.001.001.0001 and its attachments would be numbered as XXX.001.001.0002, XXX.001.001.0003 and XXX.001.001.0004.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">If imaging is to be used the parties can agree to any additional information about document identification. It is recommended that the document ID match the image file name i.e. where the document id is AAA.NNN.NNN.NNNN then the image file name should be AAA.NNN.NNN.NNNN.tiff</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Attachments</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text &amp; Number, Length &#x2014; depending on the number of attachments</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Contains first and last pages of each document physically attached to a discovered document. Does not include documents that are only referred to in a discovered document. Each attachment should be listed separately, with its own discovery number and details. Multiple entries to be separated by commas.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Host Document Number</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text and Number, Length depending on the document ID structure</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Contains First Page and &#x2014; if agreed &#x2014; Last Page of the host document to which an attachment is attached. Should never be multiple entries in this field, as each attachment should only ever have one host document.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Document Group</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 3</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">HWA Host with attachment</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">HNA Host no attachment</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">ATT Attachment</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">This field may be required if parties agree to swap image files.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Date (Default field 2)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Date, 11</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Date can be inserted as:</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">DD/MMM/YYYY for example 05/Sep/1996</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">DD = Day</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">MMM = Month</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">YYYY = Year</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Undated documents: = Documents with no discernible date should be coded to a standard agreed between the parties which the parties will recognise as &#x201c;undated.&#x201d; For example, the date field may be left blank. (Where this option is selected the parties may choose to enter the word &#x201c;undated&#x201d; in an additional text field.)</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Alternatively, an agreed date format such as 01/Jan/1801 should be used. It is important to note that databases that use a Date Type format may not accept text such as 'Undated' or dates that include '00' in the field.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">If there is no way of ascertaining the date of the document*:</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Documents with only the month and year (eg August 1997) can be coded with the first day of the month, the month and the year (eg 01/Aug/1997) and a &#x201c;Yes&#x201d; an entry should be made in the next field &#x2014; &#x201c;Estimated Date&#x201d; field.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Documents with the day and month but no year are considered undated. For example, a document dated 04/Apr will should be coded as &#x201c;undated.&#x201d; as the year cannot be identified. Documents with just the year (eg 1997) should be coded with the first day of January (eg 01/Jan/1997) and a &#x201c;Yes&#x201d; entry should be made in the &#x201c;Estimated Date&#x201d; field. *If there is no way of ascertaining the date of the document, then the parties may agree upon what naming convention to use, for example, &#x201c;Undated&#x201d;, or 00/00/0000, however, it should be noted that some database formats may not recognise these codes.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Document type (Default field 3)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 254</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">This field is completed using commonly received document types eg letter, memo, deed. Parties should endeavour to create a list of agreed document types prior to discovery. If the document has been faxed, this field should include &#x201c;facsimile&#x201d;.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">If a group of documents is being discovered as a bundle, this field should be completed as &#x201c;Bundle of <emph typestyle="it">document type</emph>&#x201d;.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Privilege</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 6</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">This identifies whether a claim of privilege is made over the document. The permissible entries in this field are &#x201c;YES&#x201d;, &#x201c;NO&#x201d; and &#x201c;PART&#x201d;. If this field is completed with &#x201c;YES&#x201d; or &#x201c;PART&#x201d;, the basis of privilege field must also be completed.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Basis of Privilege</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 50 (or combination of text and numbers)</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Identifies basis of privilege claim. Parties should agree how they will identify privilege claims. One possibility is to set out here the basis of the claim that the document is privileged eg, the section or sections of the Evidence Act.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Status</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 10</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">&#x201c;Copy&#x201d; or &#x201c;Original&#x201d; or &#x201c;Fax&#x201d;. &#x201c;Fax&#x201c; should be used for a document that is either the original facsimile document (ie the document sent by the sender) or an original facsimile copy produced by the recipient's facsimile machine.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Author (Default field 4)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 254 or as appropriate</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Person or persons who wrote the document. To be completed using information on the face of the document. Last name First initial only eg &#x201c;Smith B&#x201d;. If more than one author enter as &quot;Brown J; Jones J, &#x2026;&#x201d; etc. If more than one addressee for one company, enter as &#x201c;Brown J; Jones J; &#x2026;&#x201d; etc. Other ways of addressing multiple values can be agreed between the parties.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Author Organisation (Default field 4)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 254 or as appropriate</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Organisation from which the document emanated. To be completed from information on the face of the document. Multiple entries to be separated by commas. Parties should agree on standard spellings or abbreviations for organisations. Other ways of addressing multiple values can be agreed between the parties.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Addressee (Default field 5)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 254 or as appropriate</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Person or persons to whom the document is addressed. Includes persons to whom copies are circulated. To be completed from information on the face of the document. Last name First initial only eg &#x201c;Smith B&#x201d;. Multiple entries to be separated by commas. Other ways of addressing multiple values can be agreed between the parties.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Addressee Organisation (Default field 5)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 254 or as appropriate</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Organisation receiving the document. To be completed from information on the face of the document. Multiple entries to be separated by commas. Parties should agree on standard spellings or abbreviations for organisations. Other ways of addressing multiple values can be agreed between the parties.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Parties</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 254 or as appropriate</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Identifies parties to an agreement or other legal document (not correspondence). Multiple entries to be comma delimited.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Title (Default field 6)</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 254 or as appropriate</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Title of a document such as &#x201c;Report on Technology&#x201d;.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Source</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 20 or as appropriate</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Parties may find this field useful to identify documents that have been obtained from someone other than the party giving discovery, eg documents obtained on subpoena or through some other compulsory process of obtaining access to documents. This field would identify the party from whom such documents were obtained.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Non-paper record</entry>
+<entry colsep="0" morerows="0" rowsep="0">Text, 3</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">This field should be used to identify information recorded using media other than paper, where the relevant information has not been printed out and discovered in hard copy form, eg video and audio tapes, floppy disks and magnetic computer tapes. Permissible entries are &#x201c;YES&#x201d; and &#x201c;NO&#x201d;.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</case:appendix>
+</case:content>
+</case:body></CASEDOC>

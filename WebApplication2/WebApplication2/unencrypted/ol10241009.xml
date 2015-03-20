@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 3 CHOICE OF LAW [s 11]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.DAN05.PT2.D3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>DEFAMATION ACT 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 2 GENERAL PRINCIPLES [ss 6&#x2013;11]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 3 CHOICE OF LAW [s 11]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140120030</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.DAN05"/><docinfo:metaitem name="parent-filename" value="ol1024.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 77, 2005</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">DEFAMATION ACT 2005 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.DAN05.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.OL.DAN05.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2 GENERAL PRINCIPLES [ss 6&#x2013;11]"><leg:levelbody>
+<leg:level id="UCPN.OL.DAN05.PT2.D3"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 3 CHOICE OF LAW [s 11]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.OL.DAN05.PT2.D3" type="ext"/>DIVISION 3</designum></desig><title searchtype="DIV-TITLE">CHOICE OF LAW [s 11]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.DAN05.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[308,290] s 11 Choice of law for defamation proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.DAN05.S11" type="ext"/>[308,290]</edpnum><title searchtype="SECT-TITLE">Choice of law for defamation proceedings</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.DAN05.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.DAN05.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a matter is published wholly within a particular Australian jurisdictional area, the substantive law that is applicable in that area must be applied in this jurisdiction to determine any cause of action for defamation based on the publication.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.DAN05.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.DAN05.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If there is a multiple publication of matter in more than one Australian jurisdictional area, the substantive law applicable in the Australian jurisdictional area with which the harm occasioned by the publication as a whole has its closest connection must be applied in this jurisdiction to determine each cause of action for defamation based on the publication.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.DAN05.S11.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.DAN05.S11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In determining the Australian jurisdictional area with which the harm occasioned by a publication of matter has its closest connection, a court may take into account:</text></p>
+<l><li id="UCPN.OL.DAN05.S11.3.A"><lilabel><refpt id="UCPN.OL.DAN05.S11.3.A" type="ext"/>(a)</lilabel>
+<p><text>the place at the time of publication where the plaintiff was ordinarily resident or, in the case of a corporation that may assert a cause of action for defamation, the place where the corporation had its principal place of business at that time, and</text></p>
+</li>
+<li id="UCPN.OL.DAN05.S11.3.B"><lilabel><refpt id="UCPN.OL.DAN05.S11.3.B" type="ext"/>(b)</lilabel>
+<p><text>the extent of publication in each relevant Australian jurisdictional area, and</text></p>
+</li>
+<li id="UCPN.OL.DAN05.S11.3.C"><lilabel><refpt id="UCPN.OL.DAN05.S11.3.C" type="ext"/>(c)</lilabel>
+<p><text>the extent of harm sustained by the plaintiff in each relevant Australian jurisdictional area, and</text></p>
+</li>
+<li id="UCPN.OL.DAN05.S11.3.D"><lilabel><refpt id="UCPN.OL.DAN05.S11.3.D" type="ext"/>(d)</lilabel>
+<p><text>any other matter that the court considers relevant.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.DAN05.S11.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.DAN05.S11.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this section, the <defterm><emph typestyle="bf">substantive law</emph></defterm> applicable in an Australian jurisdictional area does not include any law prescribing rules for choice of law that differ from the rules prescribed by this section.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.DAN05.S11.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.DAN05.S11.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA"><defterm><refpt id="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA" type="ext"/><emph typestyle="bf">Australian jurisdictional area</emph></defterm><defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA.A"><lilabel><refpt id="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA.A" type="ext"/>(a)</lilabel>
+<p><text>the geographical area of Australia that lies within the territorial limits of a particular State (including its coastal waters), but not including any territory, place or other area referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA.C" remotekey1="REFPTID" service="DOC-ID">paragraph (c)</remotelink></ci:content></ci:cite>
+, or</text></p>
+</li>
+<li id="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA.B"><lilabel><refpt id="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA.B" type="ext"/>(b)</lilabel>
+<p><text>the geographical area of Australia that lies within the territorial limits of a particular Territory (including its coastal waters), but not including any territory, place or other area referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA.C" remotekey1="REFPTID" service="DOC-ID">paragraph (c)</remotelink></ci:content></ci:cite>
+, or</text></p>
+</li>
+<li id="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA.C"><lilabel><refpt id="UCPN.OL.DAN05.S11.5.AUSTRALIAN-JURISDICTIONAL-AREA.C" type="ext"/>(c)</lilabel>
+<p><text>any territory, place or other geographical area of Australia over which the Commonwealth has legislative competence but over which no State or Territory has legislative competence.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.DAN05.S11.5.GEOGRAPHICAL-AREA-OF-AUSTRALIA"><defterm><refpt id="UCPN.OL.DAN05.S11.5.GEOGRAPHICAL-AREA-OF-AUSTRALIA" type="ext"/><emph typestyle="bf">geographical area of Australia</emph></defterm><defdesc>
+<p><text>includes:</text></p>
+<l><li id="UCPN.OL.DAN05.S11.5.GEOGRAPHICAL-AREA-OF-AUSTRALIA.A"><lilabel><refpt id="UCPN.OL.DAN05.S11.5.GEOGRAPHICAL-AREA-OF-AUSTRALIA.A" type="ext"/>(a)</lilabel>
+<p><text>the territorial sea of Australia, and</text></p>
+</li>
+<li id="UCPN.OL.DAN05.S11.5.GEOGRAPHICAL-AREA-OF-AUSTRALIA.B"><lilabel><refpt id="UCPN.OL.DAN05.S11.5.GEOGRAPHICAL-AREA-OF-AUSTRALIA.B" type="ext"/>(b)</lilabel>
+<p><text>the external Territories of the Commonwealth.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.DAN05.S11.5.MULTIPLE-PUBLICATION"><defterm><refpt id="UCPN.OL.DAN05.S11.5.MULTIPLE-PUBLICATION" type="ext"/><emph typestyle="bf">multiple publication</emph></defterm><defdesc>
+<p><text>means publication by a particular person of the same, or substantially the same, matter in substantially the same form to 2 or more persons.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

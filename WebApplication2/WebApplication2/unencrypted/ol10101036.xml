@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 7 RECOURSE AGAINST AWARD [ss 34, 34A]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CAAN10.PT7</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>COMMERCIAL ARBITRATION ACT 2010 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 7 RECOURSE AGAINST AWARD [ss 34, 34A]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140050120</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CAAN10"/><docinfo:metaitem name="parent-filename" value="ol1010.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 61, 2010</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">COMMERCIAL ARBITRATION ACT 2010 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.CAAN10.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.CAAN10.PT7"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 7 RECOURSE AGAINST AWARD [ss 34, 34A]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CAAN10.PT7" type="ext"/>PART 7</designum></desig><title searchtype="PART-TITLE">RECOURSE AGAINST AWARD [ss 34, 34A]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CAAN10.S34"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,745] s 34 Application for setting aside as exclusive recourse against arbitral award">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S34" type="ext"/>[276,745]</edpnum><title searchtype="SECT-TITLE">Application for setting aside as exclusive recourse against arbitral award</title><desig searchtype="SECT-NUM"><designum>34</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf Model Law Art 34)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CAAN10.S34.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Recourse to the Court against an arbitral award may be made only by an application for setting aside in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34.2" remotekey1="REFPTID" service="DOC-ID">subsections (2)</remotelink></ci:content></ci:cite>
+ and
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34.3" remotekey1="REFPTID" service="DOC-ID"> (3)</remotelink></ci:content></ci:cite>
+ or by an appeal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A" remotekey1="REFPTID" service="DOC-ID">section 34A</remotelink></ci:content></ci:cite>
+.</text></p>
+<p><glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>The Model Law does not provide for appeals as under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A" remotekey1="REFPTID" service="DOC-ID">section 34A</remotelink></ci:content></ci:cite>
+.</text></p></glp:note></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An arbitral award may be set aside by the Court only if:</text></p>
+<l><li id="UCPN.OL.CAAN10.S34.2.A"><lilabel><refpt id="UCPN.OL.CAAN10.S34.2.A" type="ext"/>(a)</lilabel>
+<p><text>the party making the application furnishes proof that:</text></p>
+<l><li id="UCPN.OL.CAAN10.S34.2.A.I"><lilabel><refpt id="UCPN.OL.CAAN10.S34.2.A.I" type="ext"/>(i)</lilabel>
+<p><text>a party to the arbitration agreement referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S7" remotekey1="REFPTID" service="DOC-ID">section 7</remotelink></ci:content></ci:cite>
+ was under some incapacity, or the arbitration agreement is not valid under the law to which the parties have subjected it or, failing any indication in it, under the law of this State, or</text></p>
+</li><li id="UCPN.OL.CAAN10.S34.2.A.II"><lilabel><refpt id="UCPN.OL.CAAN10.S34.2.A.II" type="ext"/>(ii)</lilabel>
+<p><text>the party making the application was not given proper notice of the appointment of an arbitral tribunal or of the arbitral proceedings or was otherwise unable to present the party&#x2019;s case, or</text></p>
+</li><li id="UCPN.OL.CAAN10.S34.2.A.III"><lilabel><refpt id="UCPN.OL.CAAN10.S34.2.A.III" type="ext"/>(iii)</lilabel>
+<p><text>the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside, or</text></p>
+</li><li id="UCPN.OL.CAAN10.S34.2.A.IV"><lilabel><refpt id="UCPN.OL.CAAN10.S34.2.A.IV" type="ext"/>(iv)</lilabel>
+<p><text>the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Act from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Act, or</text></p>
+</li></l></li>
+<li id="UCPN.OL.CAAN10.S34.2.B"><lilabel><refpt id="UCPN.OL.CAAN10.S34.2.B" type="ext"/>(b)</lilabel>
+<p><text>the Court finds that:</text></p>
+<l><li id="UCPN.OL.CAAN10.S34.2.B.I"><lilabel><refpt id="UCPN.OL.CAAN10.S34.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>the subject-matter of the dispute is not capable of settlement by arbitration under the law of this State, or</text></p>
+</li><li id="UCPN.OL.CAAN10.S34.2.B.II"><lilabel><refpt id="UCPN.OL.CAAN10.S34.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>the award is in conflict with the public policy of this State.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for setting aside may not be made after 3 months have elapsed from the date on which the party making that application had received the award or, if a request had been made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S33" remotekey1="REFPTID" service="DOC-ID">section 33</remotelink></ci:content></ci:cite>
+, from the date on which that request had been disposed of by the arbitral tribunal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court, when asked to set aside an award, may, where appropriate and so requested by a party, suspend the setting aside of proceedings for a period of time determined by it in order to give the arbitral tribunal an opportunity to resume the arbitral proceedings or to take such other action as in the arbitral tribunal&#x2019;s opinion will eliminate the grounds for setting aside.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,750] s 34A Appeals against awards">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S34A" type="ext"/>[276,750]</edpnum><title searchtype="SECT-TITLE">Appeals against awards</title><desig searchtype="SECT-NUM"><designum>34A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CAAN10.S34A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal lies to the Court on a question of law arising out of an award if:</text></p>
+<l><li id="UCPN.OL.CAAN10.S34A.1.A"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.1.A" type="ext"/>(a)</lilabel>
+<p><text>the parties agree, before the end of the appeal period referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A.6" remotekey1="REFPTID" service="DOC-ID">subsection (6)</remotelink></ci:content></ci:cite>
+, that an appeal may be made under this section, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S34A.1.B"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.1.B" type="ext"/>(b)</lilabel>
+<p><text>the Court grants leave.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal under this section may be brought by any of the parties to an arbitration agreement.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court must not grant leave unless it is satisfied:</text></p>
+<l><li id="UCPN.OL.CAAN10.S34A.3.A"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.3.A" type="ext"/>(a)</lilabel>
+<p><text>that the determination of the question will substantially affect the rights of one or more of the parties, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S34A.3.B"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.3.B" type="ext"/>(b)</lilabel>
+<p><text>that the question is one which the arbitral tribunal was asked to determine, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S34A.3.C"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.3.C" type="ext"/>(c)</lilabel>
+<p><text>that, on the basis of the findings of fact in the award:</text></p>
+<l><li id="UCPN.OL.CAAN10.S34A.3.C.I"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.3.C.I" type="ext"/>(i)</lilabel>
+<p><text>the decision of the tribunal on the question is obviously wrong, or</text></p>
+</li><li id="UCPN.OL.CAAN10.S34A.3.C.II"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.3.C.II" type="ext"/>(ii)</lilabel>
+<p><text>the question is one of general public importance and the decision of the tribunal is at least open to serious doubt, and</text></p>
+</li></l></li>
+<li id="UCPN.OL.CAAN10.S34A.3.D"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.3.D" type="ext"/>(d)</lilabel>
+<p><text>that, despite the agreement of the parties to resolve the matter by arbitration, it is just and proper in all the circumstances for the Court to determine the question.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for leave to appeal must identify the question of law to be determined and state the grounds on which it is alleged that leave to appeal should be granted.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court is to determine an application for leave to appeal without a hearing unless it appears to the Court that a hearing is required.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal may not be made under this section after 3 months have elapsed from the date on which the party making the appeal received the award or, if a request had been made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S33" remotekey1="REFPTID" service="DOC-ID">section 33</remotelink></ci:content></ci:cite>
+, from the date on which that request had been disposed of by the arbitral tribunal (in this section referred to as the <defterm><emph typestyle="bf">appeal period</emph></defterm>).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On the determination of an appeal under this section the Court may by order:</text></p>
+<l><li id="UCPN.OL.CAAN10.S34A.7.A"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.7.A" type="ext"/>(a)</lilabel>
+<p><text>confirm the award, or</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S34A.7.B"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.7.B" type="ext"/>(b)</lilabel>
+<p><text>vary the award, or</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S34A.7.C"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.7.C" type="ext"/>(c)</lilabel>
+<p><text>remit the award, together with the Court&#x2019;s opinion on the question of law which was the subject of the appeal, to the arbitrator for reconsideration or, where a new arbitrator has been appointed, to that arbitrator for consideration, or</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S34A.7.D"><lilabel><refpt id="UCPN.OL.CAAN10.S34A.7.D" type="ext"/>(d)</lilabel>
+<p><text>set aside the award in whole or in part.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court must not exercise its power to set aside an award, in whole or in part, unless it is satisfied that it would be inappropriate to remit the matters in question to the arbitral tribunal for reconsideration.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the award is remitted under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A.7.C" remotekey1="REFPTID" service="DOC-ID">subsection (7)(c)</remotelink></ci:content></ci:cite>
+ the arbitrator must, unless the order otherwise directs, make the award within 3 months after the date of the order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.10"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.10" type="ext"/>(10)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may make any leave which it grants under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A.3.C" remotekey1="REFPTID" service="DOC-ID">subsection (3)(c)</remotelink></ci:content></ci:cite>
+ subject to the applicant complying with any conditions it considers appropriate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S34A.11"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S34A.11" type="ext"/>(11)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the award of an arbitrator is varied on an appeal under this section, the award as varied has effect (except for the purposes of this section) as if it were the award of the arbitrator.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>There is no equivalent to this section in the Model Law.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 6 THE COURT OF APPEAL [ss 42&#x2013;46B]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCA70.PT2.D6</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT ACT 1970</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 2  THE COURT [ss 22&#x2013;46B]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 6 THE COURT OF APPEAL [ss 42&#x2013;46B]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70000100</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCA70"/><docinfo:metaitem name="parent-filename" value="sc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 50, 1970</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT ACT 1970</leg:officialname></leg:info><leg:level id="UCPN.SC.SCA70.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.SC.SCA70.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2  THE COURT [ss 22&#x2013;46B]"><leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.PT2.D6"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 6 THE COURT OF APPEAL [ss 42&#x2013;46B]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCA70.PT2.D6" type="ext"/>DIVISION 6</designum></desig><title searchtype="DIV-TITLE">THE COURT OF APPEAL [ss 42&#x2013;46B]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S42"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 42] s 42 Composition">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S42" type="ext"/>[SCA s 42]</edpnum><title searchtype="SECT-TITLE">Composition</title><desig searchtype="SECT-NUM"><designum>42</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this Part, the Court of Appeal shall consist of&#x2014;</text></p>
+<l><li id="UCPN.SC.SCA70.S42..A"><lilabel><refpt id="UCPN.SC.SCA70.S42..A" type="ext"/>(a)</lilabel>
+<p><text>the Chief Justice who shall, by virtue of his or her office, be a Judge of Appeal and the senior member of the Court of Appeal;</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S42..B"><lilabel><refpt id="UCPN.SC.SCA70.S42..B" type="ext"/>(b)</lilabel>
+<p><text>the President of the Court of Appeal; and</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S42..C"><lilabel><refpt id="UCPN.SC.SCA70.S42..C" type="ext"/>(c)</lilabel>
+<p><text>such other Judges as are appointed to be Judges of Appeal.</text></p>
+</li>
+</l>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 35 of 1900 s 21B(2)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[s 42  am Act 32 of 1994  s 3 and Sch 3 ; Act 91 of 1999  s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S43"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 43] s 43 Sittings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S43" type="ext"/>[SCA s 43]</edpnum><title searchtype="SECT-TITLE">Sittings</title><desig searchtype="SECT-NUM"><designum>43</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S43.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S43.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any 3 or more Judges of Appeal constitute the Court of Appeal.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 35 of 1900 ss 21E, 21G(1), 21H</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subs (1)  am Act 14 of 1994  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S43.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S43.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>At a sitting of the Court of Appeal at which the Chief Justice is present the Chief Justice shall preside.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S43.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S43.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In the absence of the Chief Justice, the President of the Court of Appeal shall preside.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S43.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S43.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In the absence of both the Chief Justice and the President, the senior Judge of Appeal present shall preside.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S43.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S43.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (5)  rep Act 88 of 1995  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S43.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S43.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (6)  rep Act 14 of 1994  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S43.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS43-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 43.5] Constitution of the Court of Appeal by 2 judges">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 43.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 46, s 46A, s 46B, s 46B(2), s 46B(3).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS43-5" type="ext"/>[SCA s 43.5] </edpnum><title>Constitution of the Court of Appeal by 2 judges</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46A" remotekey1="REFPTID" service="DOC-ID">s 46A</remotelink></ci:content></ci:cite>
+, two judges of appeal may constitute the court to hear damages appeals in proceedings relating to death or bodily injury. SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46B" remotekey1="REFPTID" service="DOC-ID">s 46B</remotelink></ci:content></ci:cite>
+ provides that certain other matters (including applications for leave to appeal and interlocutory applications) can be heard and determined by two judges of appeal if the formalities of directions of the Chief Justice under SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46B.2" remotekey1="REFPTID" service="DOC-ID">s 46B(2)</remotelink></ci:content></ci:cite>
+ and the President of the Court of Appeal under SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46B.3" remotekey1="REFPTID" service="DOC-ID">s 46B(3)</remotelink></ci:content></ci:cite>
+ are observed. Lack of notice of such directions to a party does not invalidate the subsequent hearing. Where two judges act in open court to hear and determine an application for leave to appeal, there is a presumption of regularity: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000291" spanref="cr000291-001"><ci:reporter value="urj"/><ci:refnum num="BC201008364"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rahman v Riordan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWCA 288; <ci:span spanid="cr000291-001"> BC201008364</ci:span></citefragment> <remotelink dpsi="0018" refpt="506409" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000292" spanref="cr000292-001"><ci:reporter value="urj"/><ci:refnum num="BC201202353"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rahman v Dubs</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 98; <ci:span spanid="cr000292-001"> BC201202353</ci:span></citefragment> <remotelink dpsi="0018" refpt="550294" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000293" spanref="cr000293-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000293-000" status="unval">at [15]</ci:span></citefragment></ci:content></ci:cite> (orders challenged, among other issues, on the basis that the application for leave to appeal was heard by two judges of appeal only &#x2014; notice of motion dismissed).</text></p>
+<p>
+<text>A single judge of appeal may also exercise the powers conferred by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46" remotekey1="REFPTID" service="DOC-ID">s 46</remotelink></ci:content></ci:cite>
+. Apart from those sections, the Court of Appeal must be constituted by three judges of appeal. It is no longer possible for multiple divisional judges to sit together to determine a test case, as had been the practice under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EQ.S6" remotekey1="REFPTID" service="DOC-ID" status="unval">s 6</remotelink></ci:content></ci:cite>
+ of the Equity Act 1901: see, for example, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000294" spanref="cr000294-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1971"/></ci:edition><ci:page num="164"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Louis</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000294-001">[1971] 1 NSWLR 164</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS43-10" leveltype="para0" subdoc="true" toc-caption="[SCA s 43.10] Reconstitution where hearing is part heard">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 43.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 43(1).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS43-10" type="ext"/>[SCA s 43.10] </edpnum><title>Reconstitution where hearing is part heard</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Ordinarily, once the hearing of a matter has commenced, the court as then constituted should hear and determine all aspects of the matter: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1850"/></ci:caseinfo><ci:caseref ID="cr000295" spanref="cr000295-001" status="unval"><ci:reporter value="SCRNSW"/><ci:volume num="1"/><ci:page num="11"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Marrington</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000295-001" status="unval">(1850) 1 SCR (NSW) App 11</ci:span></citefragment></ci:content></ci:cite> (Appendix 11); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1864"/></ci:caseinfo><ci:caseref ID="cr000296" spanref="cr000296-001" status="unval"><ci:reporter value="SCRNSW"/><ci:volume num="3"/><ci:page num="221"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Ryan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000296-001" status="unval">(1864) 3 SCR (NSW) 221</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000297" spanref="cr000297-001"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1936"/></ci:edition><ci:page num="636"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Fulker v Fulker</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000297-001">[1936] 3 All ER 636</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000298" spanref="cr000298-001"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1939"/></ci:edition><ci:page num="374"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Whittle v Whittle</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000298-001">[1939] 1 All ER 374</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000299" spanref="cr000299-001"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1954"/></ci:edition><ci:page num="667"/></ci:caseref><ci:caseref ID="cr000300" spanref="cr000300-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1954"/></ci:edition><ci:page num="1078"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Munday v Munday</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000299-001">[1954] 2 All ER 667</ci:span>; <ci:span spanid="cr000300-002" status="unval">[1954] 1 WLR 1078</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000301" spanref="cr000301-001" status="unval"><ci:reporter value="KB"/><ci:volume num="1"/><ci:edition><ci:date year="1928"/></ci:edition><ci:page num="776"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Coleshill v Manchester Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000301-001" status="unval">[1928] 1 KB 776</ci:span></citefragment></ci:content></ci:cite>; see generally 
+<remotelink dpsi="05CC" refpt="UCPN.SC.SCAS40-10" remotekey1="REFPTID" service="DOC-ID">[SCA s 40.10]</remotelink>
+.</text></p>
+<p>
+<text>However, this principle is obviously of greater importance in first instance proceedings, where the court must hear and see the various witnesses, than in the case of appeals: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000302" spanref="cr000302-001"><ci:reporter value="urj"/><ci:refnum num="BC201210612"/></ci:caseref><ci:caseref anaphref="cr000302" spanref="cr000302-002"><ci:pinpoint num="50" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bakarich v Commonwealth Bank of Australia (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 390; <ci:span spanid="cr000302-001"> BC201210612</ci:span> <ci:span spanid="cr000302-002">at [50]</ci:span></citefragment> <remotelink dpsi="0018" refpt="571543" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. In an appropriate case (for example, the death or absence of a judge) the Court of Appeal does have power to reconstitute in order to comply with the statutory requirement in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S43.1" remotekey1="REFPTID" service="DOC-ID">s 43(1)</remotelink></ci:content></ci:cite>
+ that three or more judges shall constitute the Court of Appeal: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000303" spanref="cr000303-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:page num="221"/></ci:caseref><ci:caseref anaphref="cr000303" spanref="cr000303-002" status="unval"><ci:pinpoint num="223" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cotogno v Lamb</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000303-001">(1985) 3 NSWLR 221</ci:span> <ci:span spanid="cr000303-002" status="unval">at 223</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000304" spanref="cr000304-001"><ci:reporter value="urj"/><ci:refnum num="BC201208239"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Monaghan Surveyors Pty Ltd v Stratford Glen-Avon Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 347; <ci:span spanid="cr000304-001"> BC201208239</ci:span></citefragment> <remotelink dpsi="0018" refpt="567776" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (Basten JA, McColl JA and Young AJA agreeing) (judge retired between judgment and final orders &#x2014; court reconstituted with retired judge sitting in a different capacity).</text></p>
+<p>
+<text>The power has been applied to permit the reconstitution of the court for the substantive hearing after the determination of a preliminary matter: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cotogno v Lamb</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>; to the reconstitution for the purpose of making final orders after the determination of remitted proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000305" spanref="cr000305-001"><ci:reporter value="urj"/><ci:refnum num="BC201210612"/></ci:caseref><ci:caseref anaphref="cr000305" spanref="cr000305-002"><ci:pinpoint num="60" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bakarich v Commonwealth Bank of Australia (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 390; <ci:span spanid="cr000305-001"> BC201210612</ci:span> <ci:span spanid="cr000305-002">at [60]</ci:span></citefragment> <remotelink dpsi="0018" refpt="571543" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; and to reconstitution for the purpose of dealing with an application vary a punishment for contempt: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000306" spanref="cr000306-001"><ci:reporter value="urj"/><ci:refnum num="BC9508215"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">C v Registrar, Court of Appeal</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [1995] NSWCA 67; <ci:span spanid="cr000306-001"> BC9508215</ci:span></citefragment> <remotelink dpsi="0018" refpt="134732" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS43-15" leveltype="para0" subdoc="true" toc-caption="[SCA s 43.15] Delivery of judgment">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 43.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 45A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS43-15" type="ext"/>[SCA s 43.15] </edpnum><title>Delivery of judgment</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>As 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S45A" remotekey1="REFPTID" service="DOC-ID">s 45A</remotelink></ci:content></ci:cite>
+ expressly provides, it is not necessary for a reserved decision of the Court of Appeal to be announced by a court constituted by the same judges as those who heard the appeal. It is common for the court to be constituted differently and to deal with procedural matters, such as making formal orders in accordance with the published reasons for judgment. If there is controversy about the substance of the orders to be made, it will be necessary to reconstitute the court that heard the appeal.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS43-20" leveltype="para0" subdoc="true" toc-caption="[SCA s 43.20] Audio visual and telephone proceedings">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 43.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Part 36 r 2A, Pt 77 Div 51.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1998-105" remotekey1="REFPTID" service="DOC-ID">Evidence (Audio and Audio Visual Links) Act 1998</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS43-20" type="ext"/>[SCA s 43.20] </edpnum><title>Audio visual and telephone proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT36.R2A" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 36 r 2A</remotelink></ci:content></ci:cite>
+ permits the court to direct proceedings to be conducted by audio visual means or by telephone. Under different legislation, it has been held that if submissions are being made by telephone, the judges may be regarded as &#x201c;sitting together&#x201d; in &#x201c;open court&#x201d; even though they are not physically present in the one room: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1996"/></ci:caseinfo><ci:caseref ID="cr000307" spanref="cr000307-001" status="unval"><ci:reporter value="FLC"/><ci:page num="92674"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Director-General, Dept of Community Services v De Lewinski</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000307-001" status="unval">(1996) FLC ¶92-674</ci:span></citefragment></ci:content></ci:cite>. See also the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98" remotekey1="REFPTID" service="DOC-ID">Evidence (Audio and Audio Visual Links) Act 1998</remotelink></ci:content></ci:cite>
+ behind the &#x201c;Evidence Act&#x201d; guide card and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT77.D51" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 77 Div 51</remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules 1970.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS43-25" leveltype="para0" subdoc="true" toc-caption="[SCA s 43.25] Appeal in stages">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 43.25] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 85.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 31 r 2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS43-25" type="ext"/>[SCA s 43.25] </edpnum><title>Appeal in stages</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>As an incident of the Court of Appeal's power to control its own procedure, an appeal may be heard in several stages or the court may determine separate questions akin to a judge at first instance (see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S85" remotekey1="REFPTID" service="DOC-ID">s 85</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT31.R2" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 31 r 2</remotelink></ci:content></ci:cite>
+): see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000308" spanref="cr000308-001"><ci:reporter value="urj"/><ci:refnum num="BC9702207"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Multicon Engineering Pty Ltd v Federal Airports Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000308-001"> (NSWCA, Powell JA, No 40220/96, 3 June 1997, unreported, BC9702207)</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S43A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 43A] s 43A Multiple sittings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S43A" type="ext"/>[SCA s 43A]</edpnum><title searchtype="SECT-TITLE">Multiple sittings</title><desig searchtype="SECT-NUM"><designum>43A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>More than one sitting of the Court of Appeal (constituted by 2 or more Judges of Appeal) may be held at the same time.</text></p>
+<leg:histnote>
+<p><text>[s 43A  insrt Act 88 of 1995  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S44"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 44] s 44 Jurisdiction">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S44" type="ext"/>[SCA s 44]</edpnum><title searchtype="SECT-TITLE">Jurisdiction</title><desig searchtype="SECT-NUM"><designum>44</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court of Appeal may, in proceedings before it, exercise every power, jurisdiction or authority of the Court, whether at law or in equity or under any Act, Imperial Act or Commonwealth Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 45] s 45 Appeals">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S45" type="ext"/>[SCA s 45]</edpnum><title searchtype="SECT-TITLE">Appeals</title><desig searchtype="SECT-NUM"><designum>45</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S45.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The decision of the Court of Appeal shall be in accordance with the opinion of the majority of the Judges of Appeal present.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 226 of 1989  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Judges of Appeal present are equally divided in opinion the decision of the Court of Appeal shall be in accordance with the opinion of the Chief Justice or other the Judge of Appeal presiding.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 35 of 1900 s 21G(2), (3)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (3)  rep Act 39 of 1999  s 3 and Sch 7]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, in dismissing an appeal, the Court of Appeal is of the unanimous opinion that the appeal does not raise any question of general principle, it may, in accordance with the rules, give reasons for its decision in short form.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  insrt Act 111 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S45.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS45-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 45.5] Majority judgment">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 45.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> SCA s 45(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS45-5" type="ext"/>[SCA s 45.5] </edpnum><title>Majority judgment</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It sometimes occurs that the reasons for judgment are so diverse that it is difficult to obtain a majority in favour of any particular orders to dispose of the proceedings. In these cases it will also be difficult to characterise the court as &#x201c;equally divided in opinion&#x201d; so as to attract 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S45" remotekey1="REFPTID" service="DOC-ID">SCA s 45(2)</remotelink></ci:content></ci:cite>
+. A number of different proposals have been considered as to the appropriate way of resolving difficulties of these kinds: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000309" spanref="cr000309-001"><ci:reporter value="urj"/><ci:refnum num="BC200703790"/></ci:caseref><ci:caseref anaphref="cr000309" spanref="cr000309-002"><ci:pinpoint num="42" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Skulander v Willoughby City Council</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 116; <ci:span spanid="cr000309-001"> BC200703790</ci:span> <ci:span spanid="cr000309-002">at [42]&#x2013;[74]</ci:span></citefragment> <remotelink dpsi="0018" refpt="437472" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. One possibility, and it is described as a convention, is that in cases of disagreement of this kind the judgment of the junior judge is withdrawn and the disposal of the proceedings is determined by the application of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S45" remotekey1="REFPTID" service="DOC-ID">s 45(2)</remotelink></ci:content></ci:cite>
+: in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr000310" spanref="cr000310-001"><ci:reporter value="NSWLR"/><ci:volume num="14"/><ci:page num="601"/></ci:caseref><ci:caseref anaphref="cr000310" spanref="cr000310-002" status="unval"><ci:pinpoint num="641" targettype="page"/></ci:caseref><ci:caseref ID="cr000311" spanref="cr000311-003"><ci:reporter value="ALR"/><ci:volume num="84"/><ci:page num="221"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">O&#x2019;Brien v Tanning Research Laboratories Inc</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000310-001">(1988) 14 NSWLR 601</ci:span> <ci:span spanid="cr000310-002" status="unval">at 641</ci:span>; <ci:span spanid="cr000311-003">84 ALR 221</ci:span></citefragment> <remotelink dpsi="0018" refpt="12363" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000312" spanref="cr000312-001"><ci:reporter value="urj"/><ci:refnum num="BC9101610"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Woolworths Ltd v Kelly (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000312-001"> (NSWCA, Kirby P, Samuels and Mahoney JJA, No 40357/91, 29 August 1991, unreported, BC9101610)</ci:span></citefragment></ci:content></ci:cite> (orders made by majority); <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Government Insurance Office (NSW) v Rosniak</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWCA, 5 September 1991, unreported)</citefragment></ci:content></ci:cite> (acquiescence in orders proposed by a senior judge). Alternatively, a judge whose judgment turns on one particular point, may deliver reasons for judgment that specifically deal with another point on which the other judges have differed: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1935"/></ci:caseinfo><ci:caseref ID="cr000313" spanref="cr000313-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="52"/><ci:page num="157"/></ci:caseref><ci:caseref anaphref="cr000313" spanref="cr000313-002" status="unval"><ci:pinpoint num="183" targettype="page"/></ci:caseref><ci:caseref ID="cr000314" spanref="cr000314-003" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1935"/></ci:edition><ci:page num="157"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Tasmania v Victoria</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000313-001" status="unval">(1935) 52 CLR 157</ci:span> <ci:span spanid="cr000313-002" status="unval">at 183&#x2013;4</ci:span>; <ci:span spanid="cr000314-003" status="unval">[1935] ALR 157</ci:span></citefragment> <remotelink dpsi="0018" refpt="25801" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1940"/></ci:caseinfo><ci:caseref ID="cr000315" spanref="cr000315-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="63"/><ci:page num="232"/></ci:caseref><ci:caseref ID="cr000316" spanref="cr000316-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1940"/></ci:edition><ci:page num="197"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Perpetual Trustee Co Ltd v Tindal</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000315-001" status="unval">(1940) 63 CLR 232</ci:span>; <ci:span spanid="cr000316-002" status="unval">[1940] ALR 197</ci:span></citefragment> <remotelink dpsi="0018" refpt="9300" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000317" spanref="cr000317-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="827"/></ci:caseref><ci:caseref anaphref="cr000317" spanref="cr000317-002" status="unval"><ci:pinpoint num="866" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pennant Hills Restaurants Pty Ltd v Barrell Insurances Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000317-001">[1977] 2 NSWLR 827</ci:span> <ci:span spanid="cr000317-002" status="unval">at 866</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000318" spanref="cr000318-001" status="unval"><ci:reporter value="ACLD"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="879"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ross v Esanda Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000318-001" status="unval">[1977] ACLD 879</ci:span></citefragment></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000319" spanref="cr000319-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="720"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Metropolitan Water Sewerage and Drainage Board v Histon</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000319-001">[1982] 2 NSWLR 720</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000320" spanref="cr000320-001"><ci:reporter value="urj"/><ci:refnum num="BC200703790"/></ci:caseref><ci:caseref anaphref="cr000320" spanref="cr000320-002"><ci:pinpoint num="42" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Skulander v Willoughby City Council</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 116; <ci:span spanid="cr000320-001"> BC200703790</ci:span> <ci:span spanid="cr000320-002">at [42]&#x2013;[74]</ci:span></citefragment> <remotelink dpsi="0018" refpt="437472" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (judge agreeing in contributory negligence despite dissent on liability).</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS45-10" leveltype="para0" subdoc="true" toc-caption="[SCA s 45.10] Short form reasons for decision">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 45.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 51.55.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS45-10" type="ext"/>[SCA s 45.10] </edpnum><title>Short form reasons for decision</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-55" remotekey1="REFPTID" service="DOC-ID">r 51.55</remotelink></ci:content></ci:cite>
+ permits the Court of Appeal to give short form reasons for dismissing an appeal.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45AA"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 45AA] s 45AA Continuation of appeal if one or more Judges unable to continue">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S45AA" type="ext"/>[SCA s 45AA]</edpnum><title searchtype="SECT-TITLE">Continuation of appeal if one or more Judges unable to continue</title><desig searchtype="SECT-NUM"><designum>45AA</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S45AA.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45AA.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an appeal is commenced before 3 or more Judges of Appeal and, before the appeal is determined, one or more of the Judges dies, resigns from office or otherwise becomes unable to continue as a member of the Court of Appeal for the purposes of the appeal, the hearing and determination of the appeal may be completed by the remaining Judges of Appeal so long as at least 2 Judges remain and the parties consent.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45AA.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45AA.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the appeal concerned is to be heard and determined by only 2 Judges of Appeal and those Judges are divided in opinion:</text></p>
+<l><li id="UCPN.SC.SCA70.S45AA.2.A"><lilabel><refpt id="UCPN.SC.SCA70.S45AA.2.A" type="ext"/>(a)</lilabel>
+<p><text>as to the decision determining the appeal &#x2014; the appeal is to be reheard and determined by the Court of Appeal constituted by such 3 or more Judges of Appeal as the President of the Court of Appeal directs (including, if practicable, the 2 Judges of Appeal who completed the hearing of the appeal), or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S45AA.2.B"><lilabel><refpt id="UCPN.SC.SCA70.S45AA.2.B" type="ext"/>(b)</lilabel>
+<p><text>as to any other decision &#x2014; the decision of the Court is to be in accordance with the opinion of the senior Judge present.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45AA.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45AA.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section has effect despite any other provision of this Division.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 45AA  insrt Act 39 of 1999  s 3 and Sch 7]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S45AA.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS45AA-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 45AA.5] Constitution of court"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS45AA-5" type="ext"/>[SCA s 45AA.5] </edpnum><title>Constitution of court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Subject to statutory provisions, it is permissible for another judge to complete a part-heard case, rather than starting the hearing afresh: see 
+<remotelink dpsi="05CC" refpt="UCPN.SC.SCAS40-10" remotekey1="REFPTID" service="DOC-ID">[SCA s 40.10]</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.SC.SCAS43-10" remotekey1="REFPTID" service="DOC-ID">[SCA s 43.10]</remotelink>
+. The principal factors that influence the propriety of reconstituting the court appear to be the likelihood of a significant evidentiary conflict, and the attitude of the parties: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1953"/></ci:caseinfo><ci:caseref ID="cr000321" spanref="cr000321-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="89"/><ci:page num="129"/></ci:caseref><ci:caseref anaphref="cr000321" spanref="cr000321-002" status="unval"><ci:pinpoint num="136" targettype="page"/></ci:caseref><ci:caseref ID="cr000322" spanref="cr000322-003" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1953"/></ci:edition><ci:page num="528"/></ci:caseref><ci:caseref ID="cr000323" spanref="cr000323-004" status="unval"><ci:reporter value="ALJR"/><ci:volume num="27"/><ci:page num="120"/></ci:caseref><ci:caseref ID="cr000324" spanref="cr000324-005"><ci:reporter value="urj"/><ci:refnum num="BC5300600"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brennan v Brennan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000321-001" status="unval">(1953) 89 CLR 129</ci:span> <ci:span spanid="cr000321-002" status="unval">at 136&#x2013;137</ci:span>; <ci:span spanid="cr000322-003" status="unval">[1953] ALR 528</ci:span>; <ci:span spanid="cr000323-004" status="unval">(1953) 27 ALJR 120</ci:span>; <ci:span spanid="cr000324-005"> BC5300600</ci:span></citefragment> <remotelink dpsi="0018" refpt="19588" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000325" spanref="cr000325-001"><ci:reporter value="urj"/><ci:refnum num="BC201210612"/></ci:caseref><ci:caseref anaphref="cr000325" spanref="cr000325-002"><ci:pinpoint num="36" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bakarich v Commonwealth Bank of Australia (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 390; <ci:span spanid="cr000325-001"> BC201210612</ci:span> <ci:span spanid="cr000325-002">at [36]</ci:span></citefragment> <remotelink dpsi="0018" refpt="571543" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Under the general law the consent of the parties to another judge continuing with the case has been regarded as an important consideration in some cases: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1953"/></ci:caseinfo><ci:caseref ID="cr000326" spanref="cr000326-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="89"/><ci:page num="129"/></ci:caseref><ci:caseref ID="cr000327" spanref="cr000327-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1953"/></ci:edition><ci:page num="528"/></ci:caseref><ci:caseref ID="cr000328" spanref="cr000328-003" status="unval"><ci:reporter value="ALJR"/><ci:volume num="27"/><ci:page num="120"/></ci:caseref><ci:caseref ID="cr000329" spanref="cr000329-004"><ci:reporter value="urj"/><ci:refnum num="BC5300600"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brennan v Brennan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000326-001" status="unval">(1953) 89 CLR 129</ci:span>; <ci:span spanid="cr000327-002" status="unval">[1953] ALR 528</ci:span>; <ci:span spanid="cr000328-003" status="unval">(1953) 27 ALJR 120</ci:span>; <ci:span spanid="cr000329-004"> BC5300600</ci:span></citefragment> <remotelink dpsi="0018" refpt="19588" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. But the consent of the parties cannot be determinative if it is inherently impossible for a reconstituted court to determine the contested issues fairly and properly: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bakarich v Commonwealth Bank of Australia (No 2)</emph>
+</citefragment></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000330" spanref="cr000330-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="38" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000330-000">at [38]&#x2013;[49]</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+<p>
+<text>The present rule specifically authorises the Court of Appeal to be effectively constituted by 2 judges where another judge is unable to continue. But the rule is subject to the consent of the parties, and is not the only basis on which the Court of Appeal may be reconstituted for the purpose of disposing of proceedings: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bakarich v Commonwealth Bank of Australia (No 2)</emph>
+</citefragment></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000331" spanref="cr000331-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="33" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000331-000">at [33]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000332" spanref="cr000332-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="49" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000332-000">[49]</ci:span></citefragment></ci:content></ci:cite> &amp; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000333" spanref="cr000333-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="60" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000333-000" status="unval">[60]</ci:span></citefragment></ci:content></ci:cite>; (two members of the court unavailable); see further 
+<remotelink dpsi="05CC" refpt="UCPN.SC.SCAS43.10" remotekey1="REFPTID" service="DOC-ID" status="unval">[SCA s 43.10]</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 45A] s 45A Judgment of Court of Appeal may be delivered by single Judge of Appeal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S45A" type="ext"/>[SCA s 45A]</edpnum><title searchtype="SECT-TITLE">Judgment of Court of Appeal may be delivered by single Judge of Appeal<fnr fnrtoken="UCPN.SC.SCA70.S45A.FT1-R" fntoken="UCPN.SC.SCA70.S45A.FT1">*</fnr></title><desig searchtype="SECT-NUM"><designum>45A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S45A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>When judgment in a proceeding in the Court of Appeal is delivered it is not necessary for any of the Judges of Appeal before whom it was heard to be present in court to state their opinions.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The opinion of any of the Judges of Appeal may be reduced to writing and made public by any Judge of Appeal when judgment in the proceeding is delivered.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The judgment of the Court of Appeal has the same effect as if each Judge of Appeal whose opinion is so made public had been present in court and declared his or her opinion in person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S45A.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S45A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purpose of delivering judgment the Court of Appeal may be constituted by one or more Judges of Appeal.</text></p>
+<leg:histnote>
+<p><text>[s 45A  insrt Act 14 of 1994  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 46] s 46 Powers of Judge of Appeal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S46" type="ext"/>[SCA s 46]</edpnum><title searchtype="SECT-TITLE">Powers of Judge of Appeal</title><desig searchtype="SECT-NUM"><designum>46</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S46.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A Judge of Appeal may exercise the powers of the Court of Appeal&#x2014;</text></p>
+<l><li id="UCPN.SC.SCA70.S46.1.A"><lilabel><refpt id="UCPN.SC.SCA70.S46.1.A" type="ext"/>(a)</lilabel>
+<p><text>to give any judgment by consent or make any order by consent;</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46.1.B"><lilabel><refpt id="UCPN.SC.SCA70.S46.1.B" type="ext"/>(b)</lilabel>
+<p><text>to dismiss an appeal or other proceedings for want of prosecution or for other cause specified in the rules;</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46.1.C"><lilabel><refpt id="UCPN.SC.SCA70.S46.1.C" type="ext"/>(c)</lilabel>
+<p><text>to dismiss an appeal or other proceedings on the application of the appellant or plaintiff; or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46.1.D"><lilabel><refpt id="UCPN.SC.SCA70.S46.1.D" type="ext"/>(d)</lilabel>
+<p><text>to deal with costs and other matters incidental to the matters mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.1.A" remotekey1="REFPTID" service="DOC-ID">paragraphs (a) </remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.1.B" remotekey1="REFPTID" service="DOC-ID">(b)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.1.C" remotekey1="REFPTID" service="DOC-ID">(c)</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 226 of 1989  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A Judge of Appeal may exercise the powers of the Court of Appeal&#x2014;</text></p>
+<l><li id="UCPN.SC.SCA70.S46.2.A"><lilabel><refpt id="UCPN.SC.SCA70.S46.2.A" type="ext"/>(a)</lilabel>
+<p><text>to make any order or give any direction concerning the institution of an appeal or other proceedings in the Court of Appeal; or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46.2.B"><lilabel><refpt id="UCPN.SC.SCA70.S46.2.B" type="ext"/>(b)</lilabel>
+<p><text>to make any order or give any direction in any appeal or other proceedings, but not an order or direction involving the determination or decision of the appeal or other proceedings.</text></p>
+</li>
+</l>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>15 and 16 Geo 5 c 49 s 69(1)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.2" remotekey1="REFPTID" service="DOC-ID">Subsection (2)</remotelink></ci:content></ci:cite>
+ does not authorise a Judge of Appeal to grant or refuse leave to appeal to the Court of Appeal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court of Appeal may discharge or vary a judgment given by a Judge of Appeal, or an order made or direction given by a Judge of Appeal.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>15 and 16 Geo 5 c 49 s 69(2); Act 21 of 1899 s 254A(3); Act 35 of 1900 s 20(3); Court of Appeal Rules r 23</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subs (4)  am Act 226 of 1989  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+, a judgment, order or direction given or made by a Judge of Appeal is to have effect as a judgment, order or direction of the Court of Appeal, whether or not the judgment, order or direction is within the powers of the Judge of Appeal under this section.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  subst Act 226 of 1989  s 3 and Sch 1]</text></p></leg:histnote><leg:histnote>
+<p><text>[s 46  subst Act 41 of 1972  s 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S46.COM1" type="ext"/>NOTES</title></heading>
+<bodytext searchtype="COMMENTARY">
+<footnotegrp><footnote fnrtokens="UCPN.SC.SCA70.S45A.FT1-R" fntoken="UCPN.SC.SCA70.S45A.FT1" type="default"><fnlabel>*</fnlabel><fnbody>
+<h>Editor's note:</h>
+<p><refpt id="UCPN.SC.SCA70.S45A.FT1" type="ext"/>
+<text>Transitional provisions in relation to the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S45A" remotekey1="REFPTID" service="DOC-ID">s 45A</remotelink></ci:content></ci:cite>
+ were inserted in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.SCH4" remotekey1="REFPTID" service="DOC-ID">Fourth Schedule</remotelink></ci:content></ci:cite>
+ of the Supreme Court Act 1970.</text></p></fnbody></footnote></footnotegrp>
+</bodytext>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS46-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 46.5] Power to make any order by consent or any other order not involving determination of an appeal"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS46-5" type="ext"/>[SCA s 46.5] </edpnum><title>Power to make any order by consent or any other order not involving determination of an appeal</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This section is an important means of contributing to the flexibility and efficiency of the work of the court and should be given a broad construction to enable it to contribute to that end: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr000334" spanref="cr000334-001"><ci:reporter value="NSWLR"/><ci:volume num="35"/><ci:page num="726"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wentworth v Wentworth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000334-001">(1994) 35 NSWLR 726</ci:span></citefragment> <remotelink dpsi="0018" refpt="103984" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Mahoney JA.</text></p>
+<p>
+<text>Examples of situations where a single judge of appeal may exercise the powers of the court include the following:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>consent judgments and orders &#x2014; if the parties&#x2019; consent provides a proper and sufficient basis for resolving the matters in issue: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000335" spanref="cr000335-001"><ci:reporter value="urj"/><ci:refnum num="BC201206231"/></ci:caseref><ci:caseref anaphref="cr000335" spanref="cr000335-002"><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Shafron v Australian Securities and Investments Commission</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 255; <ci:span spanid="cr000335-001"> BC201206231</ci:span> <ci:span spanid="cr000335-002">at [5]</ci:span></citefragment> <remotelink dpsi="0018" refpt="560082" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>ff (penalty and disqualification for contravention of the Corporations Act &#x2014; orders not merely dependent on parties consent) (the principles that apply to making orders by consent are discussed 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.36-16-40" remotekey1="REFPTID" service="DOC-ID">[36.1A.5]</remotelink>
+)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>on applications for a stay pending appeal (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000336" spanref="cr000336-001"><ci:reporter value="urj"/><ci:refnum num="BC9101496"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Grose v State Bank of New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000336-001"> (NSWCA, Full Court, 15 October 1991, unreported, BC9101496)</ci:span></citefragment></ci:content></ci:cite>) and in giving directions about the preparation of appeals before the court.</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>dismissing an appeal as incompetent: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000337" spanref="cr000337-001"><ci:reporter value="urj"/><ci:refnum num="BC200908153"/></ci:caseref><ci:caseref anaphref="cr000337" spanref="cr000337-002"><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Macatangay v NSW (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWCA 272; <ci:span spanid="cr000337-001"> BC200908153</ci:span> <ci:span spanid="cr000337-002">at [15]</ci:span></citefragment> <remotelink dpsi="0018" refpt="479665" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Strike out a claim or document (as frivolous, scandalous or without merit): <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000338" spanref="cr000338-001"><ci:reporter value="urj"/><ci:refnum num="BC201204367"/></ci:caseref><ci:caseref anaphref="cr000338" spanref="cr000338-002"><ci:pinpoint num="12" targettype="para"/></ci:caseref><ci:caseref anaphref="cr000338" spanref="cr000338-003"><ci:pinpoint num="13" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hannover Life Re of Australasia Ltd v Dargan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 185; <ci:span spanid="cr000338-001"> BC201204367</ci:span> <ci:span spanid="cr000338-002">at [12],</ci:span> <ci:span spanid="cr000338-003">[13]</ci:span></citefragment> <remotelink dpsi="0018" refpt="554939" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (notice of contention)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>making appropriate restitution orders after the determination of an appeal. Such orders may include an order for the repayment, with interest, of part of a judgment debt paid by a successful appellant pending the appeal: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr000339" spanref="cr000339-001"><ci:reporter value="NSWLR"/><ci:volume num="22"/><ci:page num="380"/></ci:caseref><ci:caseref ID="cr000340" spanref="cr000340-002"><ci:reporter value="urj"/><ci:refnum num="BC9102212"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Government Insurance Office (NSW) v Healy (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000339-001">(1991) 22 NSWLR 380</ci:span>; <ci:span spanid="cr000340-002"> BC9102212</ci:span></citefragment> <remotelink dpsi="0018" refpt="26823" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. As to the court's general powers in relation to restitution, see 
+<remotelink dpsi="05CC" refpt="UCPN.SC.SCAS75A-20" remotekey1="REFPTID" service="DOC-ID">[SCA s 75A.20]</remotelink>
+.</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS46-10" leveltype="para0" subdoc="true" toc-caption="[SCA s 46.10] Discharge or variation of a single judge's orders">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 46.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 121(3), s 19(2), s 46(4).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 49.19, rr 51.2, 51.58.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS46-10" type="ext"/>[SCA s 46.10] </edpnum><title>Discharge or variation of a single judge's orders</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.4" remotekey1="REFPTID" service="DOC-ID">s 46(4)</remotelink></ci:content></ci:cite>
+ are not appeals: see SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S19.2" remotekey1="REFPTID" service="DOC-ID">s 19(2)</remotelink></ci:content></ci:cite>
+ and UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-2" remotekey1="REFPTID" service="DOC-ID">rr 51.2</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-58" remotekey1="REFPTID" service="DOC-ID">51.58</remotelink>
+. Nevertheless, the subsection does not confer an unrestricted right to a new hearing of the matters in contest. Rather, the applicant for review must show that there has been an error of principle in the exercise of the power or that the decision was plainly wrong: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr000341" spanref="cr000341-001"><ci:reporter value="NSWLR"/><ci:volume num="60"/><ci:page num="143"/></ci:caseref><ci:caseref ID="cr000342" spanref="cr000342-002"><ci:reporter value="urj"/><ci:refnum num="BC200402460"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Transglobal Capital Pty Ltd v Yolarno Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000341-001">(2004) 60 NSWLR 143</ci:span>; [2004] NSWCA 136; <ci:span spanid="cr000342-002"> BC200402460</ci:span></citefragment> <remotelink dpsi="0018" refpt="379375" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000343" spanref="cr000343-000"><ci:reporter value="NSWLR"/><ci:volume num="60"/><ci:edition><ci:date year="2004"/></ci:edition><ci:pinpoint num="4" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000343-000">at [4]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000344" spanref="cr000344-000" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="60"/><ci:edition><ci:date year="2004"/></ci:edition><ci:pinpoint num="6" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000344-000" status="unval">[6]</ci:span></citefragment></ci:content></ci:cite>); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000345" spanref="cr000345-001"><ci:reporter value="urj"/><ci:refnum num="BC200708547"/></ci:caseref><ci:caseref anaphref="cr000345" spanref="cr000345-002"><ci:pinpoint num="14" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Te Kanawa v Leading Edge Events Australia Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 274; <ci:span spanid="cr000345-001"> BC200708547</ci:span> <ci:span spanid="cr000345-002">at [14]</ci:span></citefragment> <remotelink dpsi="0018" refpt="444720" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000346" spanref="cr000346-001"><ci:reporter value="urj"/><ci:refnum num="BC200903365"/></ci:caseref><ci:caseref anaphref="cr000346" spanref="cr000346-002"><ci:pinpoint num="29" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lo v Iverach</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWCA 92; <ci:span spanid="cr000346-001"> BC200903365</ci:span> <ci:span spanid="cr000346-002">at [29]</ci:span></citefragment> <remotelink dpsi="0018" refpt="473076" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000347" spanref="cr000347-001"><ci:reporter value="urj"/><ci:refnum num="BC200205001"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Patrick v Howorth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWCA 285; <ci:span spanid="cr000347-001"> BC200205001</ci:span></citefragment> <remotelink dpsi="0018" refpt="351246" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Morrison v State Transit Authority of New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWCA, 3 December 1990, unreported)</citefragment></ci:content></ci:cite> (applicant must show that the single judge's exercise of discretion miscarried); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000348" spanref="cr000348-001"><ci:reporter value="urj"/><ci:refnum num="BC9001908"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Knaggs v Solicitors' Statutory Committee</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000348-001"> (NSWCA, No 04060/90, 8 October 1990, unreported, BC9001908)</ci:span></citefragment></ci:content></ci:cite> (applicant must show that the discretion miscarried); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr000349" spanref="cr000349-001"><ci:reporter value="NSWLR"/><ci:volume num="60"/><ci:page num="143"/></ci:caseref><ci:caseref anaphref="cr000349" spanref="cr000349-002"><ci:pinpoint num="4" targettype="para"/></ci:caseref><ci:caseref anaphref="cr000349" spanref="cr000349-003"><ci:pinpoint num="6" targettype="para"/></ci:caseref><ci:caseref ID="cr000350" spanref="cr000350-004"><ci:reporter value="urj"/><ci:refnum num="BC200708547"/></ci:caseref><ci:caseref anaphref="cr000350" spanref="cr000350-005"><ci:pinpoint num="14" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Kiri Te Kanawa v Leading Edge Events Australia Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000349-001">(2004) 60 NSWLR 143 </ci:span> <ci:span spanid="cr000349-002">(at [4], </ci:span> <ci:span spanid="cr000349-003">[6])</ci:span>; [2007] NSWCA 274; <ci:span spanid="cr000350-004"> BC200708547</ci:span> <ci:span spanid="cr000350-005">at [14]</ci:span></citefragment> <remotelink dpsi="0018" refpt="379375" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (grounds not made out); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000351" spanref="cr000351-001"><ci:reporter value="urj"/><ci:refnum num="BC200903365"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lo v Iverach</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWCA 92; <ci:span spanid="cr000351-001"> BC200903365</ci:span></citefragment> <remotelink dpsi="0018" refpt="473076" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000352" spanref="cr000352-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="29" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000352-000">at [29]</ci:span></citefragment></ci:content></ci:cite> (no discharge or variation of judge&#x2019;s orders); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000353" spanref="cr000353-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC201110513"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rinehart v Welker</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWCA 403; <ci:span spanid="cr000353-001" status="unval"> BC201110513</ci:span></citefragment> <remotelink dpsi="0018" refpt="545115" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (suppression order &#x2014; failure to consider relevant principle). This construction of the power is essentially the same as the accepted principle governing the review of dicretionary decisions: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1936"/></ci:caseinfo><ci:caseref ID="cr000354" spanref="cr000354-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="55"/><ci:page num="499"/></ci:caseref><ci:caseref ID="cr000355" spanref="cr000355-002" status="unval"><ci:reporter value="ALJR"/><ci:volume num="10"/><ci:page num="202"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">House v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000354-001" status="unval">(1936) 55 CLR 499</ci:span>; <ci:span spanid="cr000355-002" status="unval">10 ALJR 202</ci:span></citefragment> <remotelink dpsi="0018" refpt="2218" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and derives either from the legislative context: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr000356" spanref="cr000356-001"><ci:reporter value="NSWLR"/><ci:volume num="35"/><ci:page num="726"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wentworth v Wentworth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000356-001">(1994) 35 NSWLR 726</ci:span></citefragment> <remotelink dpsi="0018" refpt="103984" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Mahoney and Powell JJA, or from the basic proposition that an application to discharge or vary is essentially a matter of practice and procedure in relation to which the restrictive principles set out in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1946"/></ci:caseinfo><ci:caseref ID="cr000357" spanref="cr000357-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="46"/><ci:page num="318"/></ci:caseref><ci:caseref ID="cr000358" spanref="cr000358-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="63"/><ci:page num="176"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Gilbert</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000357-001" status="unval">(1946) 46 SR (NSW) 318</ci:span>; <ci:span spanid="cr000358-002" status="unval">63 WN (NSW) 176</ci:span></citefragment> <remotelink dpsi="0018" refpt="1567" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> will apply: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wentworth v Wentworth</emph>
+</citefragment></ci:content></ci:cite>, above. It should be noted that the approach taken in these cases implies that the SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.4" remotekey1="REFPTID" service="DOC-ID">s 46(4)</remotelink></ci:content></ci:cite>
+ power is more restricted than the analogous powers to review the determinations of masters, registrars and other officers of the court &#x2014; as to which see SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S121.3" remotekey1="REFPTID" service="DOC-ID">s 121(3)</remotelink></ci:content></ci:cite>
+, UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-19" remotekey1="REFPTID" service="DOC-ID">r 49.19</remotelink></ci:content></ci:cite>
+ and note 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.49-19-5" remotekey1="REFPTID" service="DOC-ID">[49.19.5]</remotelink>
+, and <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Patrick v Howorth</emph>
+</citefragment></ci:content></ci:cite>, above, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000359" spanref="cr000359-000"><ci:reporter value="urj"/><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000359-000">at [5]</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS46-15" leveltype="para0" subdoc="true" toc-caption="[SCA s 46.15] Review of decisions made by a registrar">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 46.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 121(3), s 46(4).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 49.19, r 51.59.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> SCR Pt 61 r 4.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS46-15" type="ext"/>[SCA s 46.15] </edpnum><title>Review of decisions made by a registrar</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The power to review a decision of a registrar is properly found in SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S121.3" remotekey1="REFPTID" service="DOC-ID">s 121(3)</remotelink></ci:content></ci:cite>
+ and UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-19" remotekey1="REFPTID" service="DOC-ID">r 49.19</remotelink></ci:content></ci:cite>
+. The fact that a registrar may have exercised the powers of a judge of appeal does not attract the variation power conferred by SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.4" remotekey1="REFPTID" service="DOC-ID">s 46(4)</remotelink></ci:content></ci:cite>
+ in relation to a judgment or order made by a Judge of Appeal: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000360" spanref="cr000360-001"><ci:reporter value="urj"/><ci:refnum num="BC200710980"/></ci:caseref><ci:caseref anaphref="cr000360" spanref="cr000360-002"><ci:pinpoint num="4" targettype="para"/></ci:caseref><ci:caseref anaphref="cr000360" spanref="cr000360-003"><ci:pinpoint num="40" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Tomko v Palasty (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 369; <ci:span spanid="cr000360-001"> BC200710980</ci:span> <ci:span spanid="cr000360-002">at [4],</ci:span> <ci:span spanid="cr000360-003">[40]</ci:span></citefragment> <remotelink dpsi="0018" refpt="449266" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Hodgson and Basten JJA, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000361" spanref="cr000361-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2007"/></ci:edition><ci:pinpoint num="17" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000361-000" status="unval">at [17]</ci:span></citefragment></ci:content></ci:cite> per Ipp J agreeing. (This view differs from those previously expressed, or assumed, in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000362" spanref="cr000362-001"><ci:reporter value="urj"/><ci:refnum num="BC200004852"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Strata Consolidated (Australia) Pty Ltd v Bradshaw</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2000] NSWCA 225; <ci:span spanid="cr000362-001"> BC200004852</ci:span></citefragment> <remotelink dpsi="0018" refpt="316123" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000363" spanref="cr000363-001"><ci:reporter value="urj"/><ci:refnum num="BC200201083"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Emmett v Hornsby Shire Council</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWCA 75; <ci:span spanid="cr000363-001"> BC200201083</ci:span></citefragment> <remotelink dpsi="0018" refpt="343294" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (Sheller JA) and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2002"/></ci:caseinfo><ci:caseref ID="cr000364" spanref="cr000364-001"><ci:reporter value="NSWLR"/><ci:volume num="55"/><ci:page num="638"/></ci:caseref><ci:caseref ID="cr000365" spanref="cr000365-002"><ci:reporter value="urj"/><ci:refnum num="BC200207449"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wentworth v Graham</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000364-001">(2002) 55 NSWLR 638</ci:span>; [2002] NSWCA 397; <ci:span spanid="cr000365-002"> BC200207449</ci:span></citefragment> <remotelink dpsi="0018" refpt="355932" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> &#x2014; a decision involving the former 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT61.R4" remotekey1="REFPTID" service="DOC-ID">SCR Pt 61 r 4</remotelink></ci:content></ci:cite>
+). UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-59" remotekey1="REFPTID" service="DOC-ID">r 51.59</remotelink></ci:content></ci:cite>
+ permits a single Judge of Appeal to review a decision given by the registrar. (The rule resolves the doubts expressed in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000366" spanref="cr000366-001"><ci:reporter value="urj"/><ci:refnum num="BC200704476"/></ci:caseref><ci:caseref anaphref="cr000366" spanref="cr000366-002"><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Penrith Whitewater Stadium Ltd v Lesvos Enterprises Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 131; <ci:span spanid="cr000366-001"> BC200704476</ci:span> <ci:span spanid="cr000366-002">at [5]&#x2013;[10]</ci:span></citefragment> <remotelink dpsi="0018" refpt="438355" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA (proposed orders to be made formally at the hearing of the appeal); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000367" spanref="cr000367-001"><ci:reporter value="urj"/><ci:refnum num="BC200711769"/></ci:caseref><ci:caseref anaphref="cr000367" spanref="cr000367-002"><ci:pinpoint num="6" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Preston v Harbour Pacific Underwriting Management Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 247; <ci:span spanid="cr000367-001"> BC200711769</ci:span> <ci:span spanid="cr000367-002">at [6]</ci:span></citefragment> <remotelink dpsi="0018" refpt="448554" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA, Hoeben JA agreeing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000368" spanref="cr000368-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2007"/></ci:edition><ci:pinpoint num="40" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000368-000">at [40]</ci:span></citefragment></ci:content></ci:cite>.)</text></p>
+<p>
+<text>Note: The review is not an appeal. The scope of the review procedure is discussed in 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.49-19-5" remotekey1="REFPTID" service="DOC-ID">[49.19.5]</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 46A] s 46A Certain appeals may be heard by 2 Judges of Appeal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S46A" type="ext"/>[SCA s 46A]</edpnum><title searchtype="SECT-TITLE">Certain appeals may be heard by 2 Judges of Appeal<fnr fnrtoken="UCPN.SC.SCA70.S46A.FT1-R" fntoken="UCPN.SC.SCA70.S46A.FT1">*</fnr></title><desig searchtype="SECT-NUM"><designum>46A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S46A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies to an appeal to the Court of Appeal:</text></p>
+<l><li id="UCPN.SC.SCA70.S46A.1.A"><lilabel><refpt id="UCPN.SC.SCA70.S46A.1.A" type="ext"/>(a)</lilabel>
+<p><text>from any court, where the appeal relates solely to the amount of damages awarded in respect of the death of, or bodily injury to, a person, or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46A.1.B"><lilabel><refpt id="UCPN.SC.SCA70.S46A.1.B" type="ext"/>(b)</lilabel>
+<p><text>from the Compensation Court or the District Court (in respect of a matter that would have been within the jurisdiction of the Compensation Court had the Compensation Court Repeal Act 2002 not been enacted), where the appeal relates solely to the amount of compensation awarded by that Court, or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46A.1.C"><lilabel><refpt id="UCPN.SC.SCA70.S46A.1.C" type="ext"/>(c)</lilabel>
+<p><text>from the Dust Diseases Tribunal, where the appeal relates solely to the amount of compensation awarded by that Tribunal, or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46A.1.D"><lilabel><refpt id="UCPN.SC.SCA70.S46A.1.D" type="ext"/>(d)</lilabel>
+<p><text>from a court or tribunal (other than the Supreme Court), where:</text></p>
+<l><li id="UCPN.SC.SCA70.S46A.1.D.I"><lilabel><refpt id="UCPN.SC.SCA70.S46A.1.D.I" type="ext"/>(i)</lilabel>
+<p><text>the leave of the Court of Appeal is required in respect of the appeal, and</text></p>
+</li><li id="UCPN.SC.SCA70.S46A.1.D.II"><lilabel><refpt id="UCPN.SC.SCA70.S46A.1.D.II" type="ext"/>(ii)</lilabel>
+<p><text>the appeal is not against a final judgment, order, award or decision of the court or tribunal (other than an order for the payment of costs).</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[subs (1)  subst Act 141 of 1997  s 3 and Sch 1 ; am Act 49 of 1998  s 3 and Sch 23 ; Act 31 of 2000  Sch 13 ; Act 23 of 2002  s 12 and Sch 1, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Chief Justice may direct that such an appeal be heard and determined by such 2 Judges of Appeal as the President of the Court of Appeal directs.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Such a direction may only be given if the Chief Justice is of the opinion that the appeal is not likely to require the resolution of a disputed issue of general principle.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46A.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purpose of an appeal the subject of a direction under this section, the Court of Appeal is constituted by the 2 Judges directed by the President of the Court of Appeal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46A.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46A.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The decision of the Court of Appeal when constituted by 2 Judges is to be in accordance with the opinion of those Judges.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46A.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46A.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Judges are divided in opinion:</text></p>
+<l><li id="UCPN.SC.SCA70.S46A.6.A"><lilabel><refpt id="UCPN.SC.SCA70.S46A.6.A" type="ext"/>(a)</lilabel>
+<p><text>as to the decision determining the proceedings, the appeal is to be reheard and determined by the Court of Appeal constituted by such 3 Judges of Appeal as the President of the Court of Appeal directs (including, if practicable, the 2 Judges who first heard the appeal); or  </text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46A.6.B"><lilabel><refpt id="UCPN.SC.SCA70.S46A.6.B" type="ext"/>(b)</lilabel>
+<p><text>as to any other decision, the decision of the Court is to be in accordance with the opinion of the senior Judge present.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46A.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46A.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings heard by the Court of Appeal constituted by 2 Judges under this section are rendered abortive for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A.1.A1" remotekey1="REFPTID" service="DOC-ID">section 6A(1)(a1)</remotelink></ci:content></ci:cite>
+ of the Suitors' Fund Act 1951 if they are required to be reheard because the judges were divided in opinion as to the decision determining the proceedings. The rehearing of the proceedings is considered to be a new trial for the purposes of that Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 46A  insrt Act 14 of 1994  s 3 and Sch 1 ; am Act 49 of 1998  s 3 and Sch 23]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46B"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 46B] s 46B Certain other matters may be heard by 2 Judges">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S46B" type="ext"/>[SCA s 46B]</edpnum><title searchtype="SECT-TITLE">Certain other matters may be heard by 2 Judges</title><desig searchtype="SECT-NUM"><designum>46B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S46B.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46B.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies to the following applications:</text></p>
+<l><li id="UCPN.SC.SCA70.S46B.1.A"><lilabel><refpt id="UCPN.SC.SCA70.S46B.1.A" type="ext"/>(a)</lilabel>
+<p><text>applications for leave to appeal,</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S46B.1.B"><lilabel><refpt id="UCPN.SC.SCA70.S46B.1.B" type="ext"/>(b)</lilabel>
+<p><text>applications involving a question of practice and procedure in an appeal or other matter in the Court of Appeal (being applications that are not capable of being dealt with by a single Judge of Appeal).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46B.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46B.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Chief Justice may direct that such an application be heard and determined by such 2 Judges of Appeal as the President of the Court of Appeal directs.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46B.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46B.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purpose of hearing and determining an application the subject of a direction under this section, the Court of Appeal is constituted by the 2 Judges directed by the President of the Court of Appeal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46B.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46B.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The decision of the Court of Appeal when constituted by 2 Judges of Appeal is to be in accordance with the opinion of those Judges.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S46B.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S46B.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the judges are divided in opinion, the application is to be reheard and determined by the Court of Appeal constituted by 3 Judges of Appeal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 46B  insrt Act 88 of 1995  s 3 and Sch 1]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S46B.COM1" type="ext"/>NOTES</title></heading>
+<bodytext searchtype="COMMENTARY">
+<footnotegrp><footnote fnrtokens="UCPN.SC.SCA70.S46A.FT1-R" fntoken="UCPN.SC.SCA70.S46A.FT1" type="default"><fnlabel>*</fnlabel><fnbody>
+<h>Editor's note:</h>
+<p><refpt id="UCPN.SC.SCA70.S46A.FT1" type="ext"/>
+<text>Transitional provisions in relation to the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46A" remotekey1="REFPTID" service="DOC-ID">s 46A</remotelink></ci:content></ci:cite>
+ were inserted in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.SCH4" remotekey1="REFPTID" service="DOC-ID">Fourth Schedule</remotelink></ci:content></ci:cite>
+ of the Supreme Court Act 1970.</text></p></fnbody></footnote></footnotegrp>
+</bodytext>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS46B-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 46B.5] Note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 46B.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> ss 46, s 46(1)(b), 46A, 46B.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS46B-5" type="ext"/>[SCA s 46B.5] </edpnum><title>Note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Court of Appeal constituted by two judges of appeal pursuant to SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.1.B" remotekey1="REFPTID" service="DOC-ID">s 46(1)(b)</remotelink></ci:content></ci:cite>
+ may exercise the powers of a single judge. The words in parenthesis &#x201c;being application that are not capable of being dealt with by a single Judge of Appeal&#x201d;, are words of expansion, not exclusion: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000369" spanref="cr000369-001"><ci:reporter value="urj"/><ci:refnum num="BC201201593"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Martin v NSW (No 15)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 47; <ci:span spanid="cr000369-001"> BC201201593</ci:span></citefragment> <remotelink dpsi="0018" refpt="548105" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000370" spanref="cr000370-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="13" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000370-000" status="unval">at [13]</ci:span></citefragment></ci:content></ci:cite> (alleged procedural irregularity by reference to SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46" remotekey1="REFPTID" service="DOC-ID">ss 46</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46A" remotekey1="REFPTID" service="DOC-ID">46A</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46B" remotekey1="REFPTID" service="DOC-ID">46B</remotelink></ci:content></ci:cite>
+ &#x2014; motion dismissed).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

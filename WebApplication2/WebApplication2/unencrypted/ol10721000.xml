@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>SUITORS' FUND ACT 1951 (NSW)</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.SFAN.BODY</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor-me"><heading><title>SUITORS' FUND ACT 1951 (NSW)</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140360000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.SFAN"/><docinfo:metaitem name="parent-filename" value="ol1072.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">SUITORS' FUND ACT 1951 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1951</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 3, 1951</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>Suitors' Fund Act No 3 of 1951, assent 31 May 1951, commencement 1 November 1951, as amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Suitors' Fund (Amendment) Act 1959 No 20</entry><entry colname="c2">19 October 1959</entry><entry colname="c3">s 2: 1 November 1951: s 1(4)</entry></row>
+<row><entry colname="c1">Suitors' Fund (Amendment) Act 1960 No 8</entry><entry colname="c2">24 March 1960</entry><entry colname="c3">s 1(3): 1 November 1951</entry></row>
+<row><entry colname="c1">Decimal Currency Act 1965 No 33</entry><entry colname="c2">29 December 1965</entry><entry colname="c3">s 4: 14 February 1966: ss 1(3), 2(1) and Currency Act 1965 (Cth) s 2(2)</entry></row>
+<row><entry colname="c1">Legal Assistance and Suitors' Fund (Amendment) Act 1970 No 10</entry><entry colname="c2">23 March 1970</entry><entry colname="c3">s 3(1)(c)(ii)(iii): 1 November 1951: s 3(2), s 3(1)(e)(i)(ii)(v)(vi)(vii)(ix): 1 January 1966 (Gaz 164 of 24 December 1965 p 4295): s 3(4), s 3(1)(e)(iii)(iv): 19 October 1959: s 3(6)</entry></row>
+<row><entry colname="c1">Legal Practitioners (Legal Aid) Act 1970 No 37</entry><entry colname="c2">18 August 1970</entry><entry colname="c3">25 January 1971 (Gaz 161 of 18 December 1970 p 5036): s 1(2)</entry></row>
+<row><entry colname="c1">Reprints Act 1972 No 48 (Formerly acts Reprinting Act 1972)</entry><entry colname="c2">9 October 1972</entry><entry colname="c3">Order dated 22 November 1978 notified in Gaz 166 of 24 November 1978 p 4859</entry></row>
+<row><entry colname="c1">Suitors' Fund (Legal Services Commission) Amendment Act 1979 No 84</entry><entry colname="c2">16 May 1979</entry><entry colname="c3">Sch 1: 1 December 1979 (Gaz 171 of 7 December 1979 p 6129): s 2(2)</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Public Finance and Audit) Repeal and Amendment Act 1983 No 153</entry><entry colname="c2">29 December 1983</entry><entry colname="c3">s 4, Sch 1: 6 January 1984 (Gaz 4 of 6 January 1984 p 19): s 2(2)</entry></row>
+<row><entry colname="c1">Suitors' Fund (Land and Environment Court) Amendment Act 1985 No 64</entry><entry colname="c2">15 May 1985</entry><entry colname="c3">11 June 1985 (Gaz 91 of 7 June 1985 p 2511): s 2(2)</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Special Deposits Account) Amendment Act 1985 No 158</entry><entry colname="c2">28 November 1985</entry><entry colname="c3">ss 1, 2: 28 November 1985. Remainder: 20 June 1986 (Gaz 97 of 20 June 1986 p 2796): s 2(2)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1986 No 16</entry><entry colname="c2">1 May 1986</entry><entry colname="c3">s 4 and Sch 23: 1 May 1986</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 1) 1987 No 48</entry><entry colname="c2">28 May 1987</entry><entry colname="c3">1 September 1987</entry></row>
+<row><entry colname="c1">Suitors' Fund (Amendment) Act 1987 No 249, as amended by the Statute Law (Miscellaneous Provisions) Act (No 2) 1988 No 92</entry><entry colname="c2">16 December 1987</entry><entry colname="c3">13 January 1988</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1990 No 46</entry><entry colname="c2">22 June 1990</entry><entry colname="c3">1 August 1990</entry></row>
+<row><entry colname="c1">Supreme Court (Amendment) Act 1994 No 14</entry><entry colname="c2">10 May 1994</entry><entry colname="c3">1 July 1994</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1996 No 30</entry><entry colname="c2">21 June 1996</entry><entry colname="c3">21 September 1996</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1996 No 121</entry><entry colname="c2">3 December 1996</entry><entry colname="c3">3 April 1996</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 1997 No 141</entry><entry colname="c2">17 December 1997</entry><entry colname="c3">2 February 1998</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 1998 No 172</entry><entry colname="c2">14 December 1998</entry><entry colname="c3">1 February 1999</entry></row>
+<row><entry colname="c1">Corporations (Consequential Amendments) Act 2001 No 34</entry><entry colname="c2">28 June 2001</entry><entry colname="c3">Sch 1 and 2: 15 July 2001</entry></row>
+<row><entry colname="c1">Justices Legislation Repeal and Amendment Act 2001 No 121</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">7 July 2003 (Gaz 104 of 27 June 2003 p 5978)</entry></row>
+<row><entry colname="c1">Civil Procedure Act 2005 No 28</entry><entry colname="c2">1 June 2005</entry><entry colname="c3">15 August 2005</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+<leg:comntry><heading><title>TRANSITIONAL PROVISIONS</title></heading><bodytext searchtype="COMMENTARY">
+<p>
+<blockquote><legfragment>
+<p>
+<text><emph typestyle="it">Schedule 2(2) of Act 158 of 1985 provides as follows:</emph></text></p>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Transfer of certain money</title><desig><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>As soon as practicable after the day on which the amendment by this Act of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN" remotekey1="REFPTID" service="DOC-ID">Suitors' Fund Act 1951</remotelink></ci:content></ci:cite>
+ takes effect, the balance standing to the credit of the account which, immediately before that day, was required by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S3.4" remotekey1="REFPTID" service="DOC-ID">section 3(4)</remotelink></ci:content></ci:cite>
+ of that Act to be established in the Special Deposits Account in the Treasury shall be transferred to an account in the Attorney General's Department Account in the Special Deposits Account in accordance with that subsection, as amended by this Act, and the account from which the balance is transferred shall be closed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</legfragment></blockquote>
+</p></bodytext></leg:comntry>
+</leg:prelim>
+<leg:level id="UCPN.OL.SFAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.SFAN" type="ext"/>SUITORS' FUND ACT 1951 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>AN ACT to make further and better provision in respect of the liability for costs of certain litigation; to establish a Suitors' Fund to meet such liability; and for purposes connected therewith.</text></p>
+<p>
+<text>BE it enacted by the King's Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of New South Wales in Parliament assembled, and by the authority of the same, as follows:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.SFAN.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,000] s 1 Short title and commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S1" type="ext"/>[425,000]</edpnum><title searchtype="SECT-TITLE">Short title and commencement</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S1.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the &#x201c;Suitors' Fund Act 1951.&quot;</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S1.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act shall commence upon a day to be appointed by the Governor and notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,005] s 2 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S2" type="ext"/>[425,005]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, unless the context or subject matter otherwise indicates or requires&#x2014;</text></p>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.APPEAL"><defterm><refpt id="UCPN.OL.SFAN.S2.1.APPEAL" type="ext"/><emph typestyle="bf">&#x201c;Appeal&#x201d;</emph></defterm> <defdesc>
+<p><text>includes any motion for a new trial and any proceeding in the nature of an appeal.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.CORPORATION"><defterm><refpt id="UCPN.OL.SFAN.S2.1.CORPORATION" type="ext"/><emph typestyle="bf">&#x201c;Corporation&#x201d;</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in the Corporations Act 2001 of the Commonwealth;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 10 of 1970  s 3 ; subst Act 34 of 2001  Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.COSTS"><defterm><refpt id="UCPN.OL.SFAN.S2.1.COSTS" type="ext"/><emph typestyle="bf">&#x201c;Costs&#x201d;</emph></defterm> <defdesc>
+<p><text>, when used in relation to an appeal in respect of which an indemnity certificate is granted, includes&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S2.1.COSTS.A"><lilabel><refpt id="UCPN.OL.SFAN.S2.1.COSTS.A" type="ext"/>(a)</lilabel>
+<p><text>the costs of the application for the indemnity certificate but, except as provided by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S2.1.COSTS.B" remotekey1="REFPTID" service="DOC-ID">paragraph (b)</remotelink></ci:content></ci:cite>
+ of this definition, does not include costs incurred in a court of first instance;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S2.1.COSTS.B"><lilabel><refpt id="UCPN.OL.SFAN.S2.1.COSTS.B" type="ext"/>(b)</lilabel>
+<p><text>where a new trial is ordered upon the appeal, the costs of the first trial.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  subst Act 190 of 1970  s 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.COSTS-OF-THE-APPEAL"><defterm><refpt id="UCPN.OL.SFAN.S2.1.COSTS-OF-THE-APPEAL" type="ext"/><emph typestyle="bf">&#x201c;Costs of the appeal&#x201d;</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 20 of 1959  s 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.COURT"><defterm><refpt id="UCPN.OL.SFAN.S2.1.COURT" type="ext"/><emph typestyle="bf">&#x201c;Court&#x201d;</emph></defterm> <defdesc>
+<p><text>includes such tribunals or other bodies as are prescribed.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.DIRECTOR-GENERAL"><defterm><refpt id="UCPN.OL.SFAN.S2.1.DIRECTOR-GENERAL" type="ext"/><emph typestyle="bf">&#x201c;Director-General&#x201d;</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.SFAN.S2.1.A"><lilabel><refpt id="UCPN.OL.SFAN.S2.1.A" type="ext"/>(a)</lilabel>
+<p><text>the Director-General of the Attorney General's Department, or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S2.1.B"><lilabel><refpt id="UCPN.OL.SFAN.S2.1.B" type="ext"/>(b)</lilabel>
+<p><text>any person employed within that Department who is authorised in writing by the Director-General to exercise the powers and perform the functions of the Diretor-General under this Act.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.FUND"><defterm><refpt id="UCPN.OL.SFAN.S2.1.FUND" type="ext"/><emph typestyle="bf">&#x201c;Fund&#x201d;</emph></defterm> <defdesc>
+<p><text>means the Suitors' Fund established under this Act.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.INDEMNITY-CERTIFICATE"><defterm><refpt id="UCPN.OL.SFAN.S2.1.INDEMNITY-CERTIFICATE" type="ext"/><emph typestyle="bf">&#x201c;Indemnity certificate&#x201d;</emph></defterm> <defdesc>
+<p><text>means an indemnity certificate granted under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.1" remotekey1="REFPTID" service="DOC-ID">section 6(1)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.1A" remotekey1="REFPTID" service="DOC-ID">(1A)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.1AA" remotekey1="REFPTID" service="DOC-ID">(1AA)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B" remotekey1="REFPTID" service="DOC-ID">6B</remotelink></ci:content></ci:cite>
+ .</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 20 of 1959  s 2 ; am Act 8 of 1960  s 2 ; Act 64 of 1985  s 3 and Sch 1 ; Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.LAND-AND-ENVIRONMENT-COURT"><defterm><refpt id="UCPN.OL.SFAN.S2.1.LAND-AND-ENVIRONMENT-COURT" type="ext"/><emph typestyle="bf">&#x201c;Land and Environment Court&#x201d;</emph></defterm> <defdesc>
+<p><text>means the Land and Environment Court constituted under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LECA79" remotekey1="REFPTID" service="DOC-ID" status="unval">Land and Environment Court Act 1979</remotelink></ci:content></ci:cite>
+ .</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 64 of 1985  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.LEGALLY-ASSISTED-PERSON"><defterm><refpt id="UCPN.OL.SFAN.S2.1.LEGALLY-ASSISTED-PERSON" type="ext"/><emph typestyle="bf">&#x201c;Legally assisted person&#x201d;</emph></defterm> <defdesc>
+<p><text>has the meaning ascribed thereto in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LSA.S4.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 4 (1)</remotelink></ci:content></ci:cite>
+ of the Legal Services Commission Act 1979.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 84 of 1979  Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.SECRETARY"><defterm><refpt id="UCPN.OL.SFAN.S2.1.SECRETARY" type="ext"/><emph typestyle="bf">&#x201c;Secretary&#x201d;</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.SEQUENCE-OF-APPEALS"><defterm><refpt id="UCPN.OL.SFAN.S2.1.SEQUENCE-OF-APPEALS" type="ext"/><emph typestyle="bf">&#x201c;Sequence of appeals&#x201d;</emph></defterm> <defdesc>
+<p><text>means a sequence of appeals in which each appeal that follows next after another appeal in the sequence is an appeal against the decision in that other appeal.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 20 of 1959  s 2 ; am Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SFAN.S2.1.SUPREME-COURT"><defterm><refpt id="UCPN.OL.SFAN.S2.1.SUPREME-COURT" type="ext"/><emph typestyle="bf">&#x201c;Supreme Court&#x201d;</emph></defterm> <defdesc>
+<p><text>means the Supreme Court of New South Wales or a judge thereof.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 20 of 1959  s 2]</text></p></leg:histnote></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act applies to and in respect of&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S2.2.A"><lilabel><refpt id="UCPN.OL.SFAN.S2.2.A" type="ext"/>(a)</lilabel>
+<p><text>a court;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S2.2.B"><lilabel><refpt id="UCPN.OL.SFAN.S2.2.B" type="ext"/>(b)</lilabel>
+<p><text>an appeal to or from a court;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S2.2.C"><lilabel><refpt id="UCPN.OL.SFAN.S2.2.C" type="ext"/>(c)</lilabel>
+<p><text>proceedings or actions before a court; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S2.2.D"><lilabel><refpt id="UCPN.OL.SFAN.S2.2.D" type="ext"/>(d)</lilabel>
+<p><text>a decision of a court,</text></p>
+</li>
+</l>
+<p><text>exercising State or federal jurisdiction.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  insrt Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.SFAN.S2.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.425005-5" leveltype="para0" subdoc="true" toc-caption="[425,005.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425005-5" type="ext"/>[425,005.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The form of indemnity certificate appears at 
+<remotelink dpsi="05CC" refpt="UCPN.OL.425025-35" remotekey1="REFPTID" service="DOC-ID">[425,025.35]</remotelink>
+ .</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,010] s 3 Suitors' Fund">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S3" type="ext"/>[425,010]</edpnum><title searchtype="SECT-TITLE">Suitors' Fund</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>There is to be established in the Attorney General's Department Account a &quot;Suitors' Fund&quot; into which shall be paid the moneys referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S5" remotekey1="REFPTID" service="DOC-ID">section 5</remotelink></ci:content></ci:cite>
+ and from which shall be paid the amounts referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2" remotekey1="REFPTID" service="DOC-ID">sections 6(2)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A" remotekey1="REFPTID" service="DOC-ID">6A</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B" remotekey1="REFPTID" service="DOC-ID">6B</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6C" remotekey1="REFPTID" service="DOC-ID">6C</remotelink></ci:content></ci:cite>
+ .</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 20 of 1959  s 3 ; Act 10 of 1970  s 3 ; Act 84 of 1979  Sch 1 ; Act 249 of 1987  s 2 and Sch 1 ; Act 46 of 1990  s 3 and Sch 1 ; Act 172 of 1998  s 3 and Sch 9]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In addition to the money payable out of the Fund under this Act the following amounts shall be a charge against and shall be paid out of the Fund:</text></p>
+<l><li id="UCPN.OL.SFAN.S3.2.A"><lilabel><refpt id="UCPN.OL.SFAN.S3.2.A" type="ext"/>(a)</lilabel>
+<p><text>all costs of management of the Fund as certified by the Auditor-General;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S3.2.B"><lilabel><refpt id="UCPN.OL.SFAN.S3.2.B" type="ext"/>(b)</lilabel>
+<p><text>any amount considered by the Director-General to be surplus to the Fund's requirements;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S3.2.C"><lilabel><refpt id="UCPN.OL.SFAN.S3.2.C" type="ext"/>(c)</lilabel>
+<p><text>fees payable to consultants retained by the Director-General to advise on the proper investment of the Fund.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  subst Act 249 of 1987  s 2 and Sch 1 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.2A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.2A" type="ext"/>(2A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An amount referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S3.2.B" remotekey1="REFPTID" service="DOC-ID">subsection (2)(b)</remotelink></ci:content></ci:cite>
+ shall not be paid out of the Fund without the concurrence of the Attorney General.</text></p>
+<leg:histnote>
+<p><text>[subs (2A)  insrt Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.2B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.2B" type="ext"/>(2B)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An amount paid out of the Fund under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S3.2.B" remotekey1="REFPTID" service="DOC-ID">subsection (2)(b)</remotelink></ci:content></ci:cite>
+ shall be used for expenditure&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S3.2B.A"><lilabel><refpt id="UCPN.OL.SFAN.S3.2B.A" type="ext"/>(a)</lilabel>
+<p><text>on improving (or on projects designed to lead to improving) court facilities and services; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S3.2B.B"><lilabel><refpt id="UCPN.OL.SFAN.S3.2B.B" type="ext"/>(b)</lilabel>
+<p><text>towards the administrative costs incurred in relation to the operation of  Part 5 of the Civil Procedure Act 2005.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2B)  insrt Act 249 of 1987  s 2 and Sch 1 ; am Act 172 of 1998  s 3 and Sch 9; Act No 28 of 2005  s 5.46 and Sch 5, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Fund shall, subject to this Act and the regulations, be under the direction, control and management of the Director-General.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 249 of 1987  s 2 and Sch 1 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>All moneys payable to the Fund under this Act and interest allowed thereon shall be made available to the Director-General for investment or for the purpose of paying the amounts referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ of section 6 or any other amount properly payable out of the Fund.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 158 of 1985  s 4 and Sch 1 ; Act 249 of 1987  s 2 and Sch 1 ; Act 46 of 1990  s 3 and Sch 1 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Interest at a rate to be determined by the Treasurer shall be allowed on the amount at the credit of the account first referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S3.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ .</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 10 of 1970  s 3 ; Act 158 of 1985  s 4 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Fund shall as far as practicable be invested in securities in which trustees are by law authorised to invest.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Interest derived from the investment of the Fund shall form part thereof.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The income of the Fund shall not be subject to taxation under any Act of this State.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S3.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S3.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Director-General may retain consultants to advise on the proper investment of the Fund.</text></p>
+<leg:histnote>
+<p><text>[subs (9)  insrt Act 249 of 1987  s 2 and Sch 1 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf Act s 3 of 1928 s 15</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,015] s 4 Director-General to be corporation sole">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S4" type="ext"/>[425,015]</edpnum><title searchtype="SECT-TITLE">Director-General to be corporation sole</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[heading  am Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+<leg:level id="UCPN.OL.SFAN.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of the exercise and discharge of the powers, authorities, duties, functions and obligations conferred and imposed upon the Director-General by this Act, the Director-General is hereby declared to be a corporation sole under the name of &#x201c;The Director-General of the Attorney General's Department.&#x201d;</text></p>
+<p><text>The said corporation sole shall have perpetual succession and an official seal and may in the corporate name sue and be sued and shall be capable of purchasing, holding, granting, demising, disposing of and alienating real and personal property and of doing and suffering all such other acts and things as a body corporate may by law do and suffer.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 249 of 1987  s 2 and Sch 1 ; Act 30 of 1996  s 3 and Sch 3 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The assets of the Fund shall be vested in the said corporation sole.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where any property real or personal or the interest therein or charge thereon is vested in or is acquired by the said corporation sole, the same shall unless otherwise disposed of by the said corporation sole pass to and devolve on and vest in its successors.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S4.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The seal of the said corporation sole shall not be affixed to any instrument or writing except in the presence, or by the direction, of the Director-General who shall attest by the Director-General's signature the fact and date of the seal being so affixed.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 20 of 1959  s 2 ; Act 249 of 1987  s 2 and Sch 1 ; Act 30 of 1996  s 3 and Sch 3 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S4.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S4.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The appointment of the Director-General and the Director-General's official seal shall be judicially noticed.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 249 of 1987  s 2 and Sch 1 ; Act 30 of 1996  s 3 and Sch 3 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S4.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S4.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (6)  rep Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,020] s 5 Contributions to the Fund">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S5" type="ext"/>[425,020]</edpnum><title searchtype="SECT-TITLE">Contributions to the Fund</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>As soon as practicable after the last day of each month, there shall be paid to the Fund such percentage, not exceeding in any case ten parts per centum, of the fees of court collected in any court or in any jurisdiction of any court which are paid into the Consolidated Revenue Fund during the month ending on that day, as may be fixed by the Governor, upon the recommendation of the Colonial Treasurer, by proclamation published in the Gazette with respect thereto.</text></p>
+<p><text>The Governor may from time to time in like manner vary or revoke any such proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any proclamation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S5.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ may fix different percentages in respect of&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S5.2.A"><lilabel><refpt id="UCPN.OL.SFAN.S5.2.A" type="ext"/>(a)</lilabel>
+<p><text>different courts;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S5.2.B"><lilabel><refpt id="UCPN.OL.SFAN.S5.2.B" type="ext"/>(b)</lilabel>
+<p><text>different jurisdictions of the same court;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S5.2.C"><lilabel><refpt id="UCPN.OL.SFAN.S5.2.C" type="ext"/>(c)</lilabel>
+<p><text>courts held at different places.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S5.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any amounts payable to the Fund under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S5.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ shall be paid out of the Consolidated Revenue Fund, and are hereby specially appropriated.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,025] s 6 Costs of certain appeals">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S6" type="ext"/>[425,025]</edpnum><title searchtype="SECT-TITLE">Costs of certain appeals</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S6.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an appeal against the decision of a court&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.1.A"><lilabel><refpt id="UCPN.OL.SFAN.S6.1.A" type="ext"/>(a)</lilabel>
+<p><text>to the Supreme Court on a question of law or fact; or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.1.B"><lilabel><refpt id="UCPN.OL.SFAN.S6.1.B" type="ext"/>(b)</lilabel>
+<p><text>to the High Court from a decision of the Supreme Court on a question of law,</text></p>
+</li>
+</l>
+<p><text>succeeds, the Supreme Court may, on application, grant to the respondent to the appeal or to any one or more of several respondents to the appeal an indemnity certificate in respect of the appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where an appeal against the decision of a court to the Industrial Relations Commission of New South Wales or to the District Court of New South Wales on a question of law succeeds, that Commission or Court, as the case may be, may, upon application made in that behalf, grant to the respondent to the appeal or to any one or more of several respondents to the appeal an indemnity certificate in respect of the appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (1A)  insrt Act 8 of 1960  s 2 ; am Act 84 of 1979  Sch 1 ; Act 121 of 1996  s 3 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.1AA"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.1AA" type="ext"/>(1AA)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where an appeal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LECA79.S56A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 56A</remotelink></ci:content></ci:cite>
+ of the Land and Environment Court Act, 1979, to the Land and Environment Court on a question of law succeeds, that Court may, upon application made in that behalf, grant to the respondent to the appeal or to any one or more of several respondents to the appeal an indemnity certificate in respect of the appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (1AA)  insrt Act 64 of 1985  s 3 and Sch 1(2)]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.1B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.1B" type="ext"/>(1B)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this section, a taxing officer of a court shall, when acting as such a taxing officer, be deemed to be exercising the jurisdiction of a court of first instance.</text></p>
+<leg:histnote>
+<p><text>[subs (1B)  insrt Act 10 of 1970  s 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a respondent to an appeal has been granted an indemnity certificate, the certificate shall entitle the respondent to be paid from the Fund&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.2.A"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.A" type="ext"/>(a)</lilabel>
+<p><text>an amount equal to the appellant's costs of&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.2.A.I"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.A.I" type="ext"/>(i)</lilabel>
+<p><text>the appeal in respect of which the certificate was granted; and also</text></p>
+</li><li id="UCPN.OL.SFAN.S6.2.A.II"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.A.II" type="ext"/>(ii)</lilabel>
+<p><text>where that appeal is an appeal in a sequence of appeals, any appeal or appeals in the sequence that preceded the appeal in respect of which the certificate was granted,</text></p>
+</li></l>
+<p><text>ordered to be paid and actually paid by the respondent: Provided that where the Director-General is satisfied that the respondent is unable through lack of means to pay the whole of those costs or part thereof or that payment of those costs or part thereof would cause the respondent undue hardship, or where those costs or part thereof have not been paid by the respondent and the Director-General is satisfied that the respondent cannot be found after such strict inquiry and search as he may require or that the respondent unreasonably refuses or neglects to pay them, the Director-General may, if so requested by the appellant or the respondent, direct in writing that an amount equal to those costs or to the part of those costs not already paid by the respondent be paid from the Fund for and on behalf of the respondent to the appellant and thereupon the appellant shall be entitled to payment from the Fund in accordance with the direction and the Fund shall be discharged from liability to the respondent in respect of those costs to the extent of the amount paid in accordance with the direction;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.2.B"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.B" type="ext"/>(b)</lilabel>
+<p><text>fifty per centum or such other percentage as may be prescribed (at the time when the indemnity certificate is granted) in lieu thereof by the Governor by proclamation published in the Gazette of the amount payable from the Fund pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ or, where no amount is so payable, an amount equal to the costs of&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.2.B.I"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>the appeal in respect of which the certificate was granted; and also</text></p>
+</li><li id="UCPN.OL.SFAN.S6.2.B.II"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>where that appeal is an appeal in a sequence of appeals, any appeal or appeals in the sequence that preceded the appeal in respect of which the certificate was granted,</text></p>
+</li></l>
+<p><text>as taxed, incurred by the respondent and not ordered to be paid by any other party: Provided that where an amount is payable from the Fund pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a) </remotelink></ci:content></ci:cite>
+ , but the Director-General directs that the costs of the appeal or appeals referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.B.I" remotekey1="REFPTID" service="DOC-ID">subparagraph (i)</remotelink></ci:content></ci:cite>
+ or in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.B.I" remotekey1="REFPTID" service="DOC-ID">subparagraphs (i)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.B.II" remotekey1="REFPTID" service="DOC-ID">(ii)</remotelink></ci:content></ci:cite>
+ incurred by the respondent and not ordered to be paid by any other party be taxed at the instance of the respondent or those costs are, without such a direction, taxed at the instance of the respondent, the amount payable from the Fund under this paragraph shall be the amount equal to those costs as so taxed; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.2.C"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.C" type="ext"/>(c)</lilabel>
+<p><text>where the costs referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.B" remotekey1="REFPTID" service="DOC-ID">paragraph (b)</remotelink></ci:content></ci:cite>
+ are taxed at the instance of the respondent, an amount equal to the costs incurred by the respondent in having those costs taxed.</text></p>
+</li>
+</l>
+<p><text>Notwithstanding the foregoing provisions of this subsection&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.2.I"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.I" type="ext"/>(i)</lilabel>
+<p><text>where the costs referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.B" remotekey1="REFPTID" service="DOC-ID">paragraph (b)</remotelink></ci:content></ci:cite>
+ are taxed at the instance of the respondent, the aggregate of the amounts payable from the Fund pursuant to that paragraph and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.C" remotekey1="REFPTID" service="DOC-ID">paragraph (c)</remotelink></ci:content></ci:cite>
+ shall not exceed the amount payable from the Fund pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.2.II"><lilabel><refpt id="UCPN.OL.SFAN.S6.2.II" type="ext"/>(ii)</lilabel>
+<p><text>[repealed]</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act 33 of 1965  s 4 ; Act 10 of 1970  s 3 ; Act 249 of 1987  s 2 and Sch 1 ; Act 30 of 1996  s 3 and Sch 3 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.2A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.2A" type="ext"/>(2A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The maximum amount payable from the Fund for any one appeal is:</text></p>
+<l><li id="UCPN.OL.SFAN.S6.2A.A"><lilabel><refpt id="UCPN.OL.SFAN.S6.2A.A" type="ext"/>(a)</lilabel>
+<p><text>$20,000 in the case of an appeal to the High Court, or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.2A.B"><lilabel><refpt id="UCPN.OL.SFAN.S6.2A.B" type="ext"/>(b)</lilabel>
+<p><text>$10,000 in the case of any other appeal.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2A)  subst Act 249 of 1987  s 2 and Sch 1 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.2B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.2B" type="ext"/>(2B)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If more than one indemnity certificate has been issued in connection with the same appeal, the maximum amount payable from the Fund with respect to any one indemnity certificate is:</text></p>
+<l><li id="UCPN.OL.SFAN.S6.2B.A"><lilabel><refpt id="UCPN.OL.SFAN.S6.2B.A" type="ext"/>(a)</lilabel>
+<p><text>an amount equal to the maximum amount payable from the Fund for that appeal divided by the number of indemnity certificates issued in connection with that appeal, or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.2B.B"><lilabel><refpt id="UCPN.OL.SFAN.S6.2B.B" type="ext"/>(b)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2A" remotekey1="REFPTID" service="DOC-ID">subsection (2A)</remotelink></ci:content></ci:cite>
+ , such other amount as may be determined by the court by which the indemnity certificate is issued.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2B)  insrt Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.2C"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.2C" type="ext"/>(2C)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsections 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2A" remotekey1="REFPTID" service="DOC-ID">(2A)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.2B" remotekey1="REFPTID" service="DOC-ID">(2B)</remotelink></ci:content></ci:cite>
+ do not apply to appeals lodged before the commencement of those subsections.</text></p>
+<leg:histnote>
+<p><text>[subs (2C)  insrt Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An indemnity certificate granted in respect of an appeal to the respondent to the appeal, being an appeal in a sequence of appeals, shall be vacated if&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.3.A"><lilabel><refpt id="UCPN.OL.SFAN.S6.3.A" type="ext"/>(a)</lilabel>
+<p><text>in a later appeal in the sequence the successful party is the one to whom the indemnity certificate was granted; or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.3.B"><lilabel><refpt id="UCPN.OL.SFAN.S6.3.B" type="ext"/>(b)</lilabel>
+<p><text>an indemnity certificate is granted in respect of a later appeal in the sequence and the respondent to the earlier appeal is a party to the later appeal.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<l><li id="UCPN.OL.SFAN.S6.4.A"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.A" type="ext"/>(a)</lilabel>
+<p><text>An indemnity certificate granted in respect of an appeal to the respondent to the appeal shall have no force or effect&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.4.A.I"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.A.I" type="ext"/>(i)</lilabel>
+<p><text>where a time is limited for appealing against the decision in the appeal &#x2014; during the time limited for appealing against the decision in the appeal;</text></p>
+</li><li id="UCPN.OL.SFAN.S6.4.A.II"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.A.II" type="ext"/>(ii)</lilabel>
+<p><text>where an appeal lies against the decision in the appeal but no time is so limited &#x2014; until an application for leave to appeal against the decision in the appeal has been determined and, where leave is granted, the appeal is instituted, or until the respondent lodges with the Director-General an undertaking in writing by the respondent that the respondent will not seek leave to appeal, or appeal pursuant to the leave granted, against the decision in the appeal, whichever first happens;</text></p>
+</li><li id="UCPN.OL.SFAN.S6.4.A.III"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.A.III" type="ext"/>(iii)</lilabel>
+<p><text>notwithstanding anything contained in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.4.A.II" remotekey1="REFPTID" service="DOC-ID">subparagraph (ii)</remotelink></ci:content></ci:cite>
+ where the respondent gives the undertaking referred to in that subparagraph and thereafter seeks leave to appeal, or appeals, against the decision in the appeal &#x2014; until the application for leave has been determined and, where leave is granted, the appeal is instituted;</text></p>
+</li><li id="UCPN.OL.SFAN.S6.4.A.IV"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.A.IV" type="ext"/>(iv)</lilabel>
+<p><text>notwithstanding anything contained in the foregoing provisions of this paragraph where the decision in the appeal is the subject of an appeal &#x2014; during the pendency of the appeal.</text></p>
+</li></l>
+<p><text>Where the appeal and a later appeal or later appeals form a sequence of appeals and the indemnity certificate has not been vacated under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ &#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.4.A.V"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.A.V" type="ext"/>(v)</lilabel>
+<p><text>the reference to the decision in the appeal in the foregoing provisions of this paragraph shall be construed as including a reference to the decision in the later appeal or in each such later appeal, as the case may be; and</text></p>
+</li><li id="UCPN.OL.SFAN.S6.4.A.VI"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.A.VI" type="ext"/>(vi)</lilabel>
+<p><text>the reference to the pendency of the appeal in those provisions shall be construed as including a reference to the pendency of the later appeal or of each such later appeal, as the case may be.</text></p>
+</li></l></li>
+<li id="UCPN.OL.SFAN.S6.4.B"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.B" type="ext"/>(b)</lilabel>
+<p><text>Where an undertaking has been given by a respondent under the foregoing provisions of this subsection and thereafter he seeks leave to appeal or appeals, as the case may be, against the decision to which the undertaking relates, the respondent shall, upon demand made by the Director-General, pay to the Director-General any amount paid to the respondent, or for and on behalf of the respondent, under the indemnity certificate or, if the respondent notifies the Director-General in writing of the respondent's seeking leave to appeal or of the respondent's appeal, as the case may be, any amount paid to the respondent, or for and on behalf of the respondent, under the indemnity certificate before the respondent gave the notification, and the amount concerned may be recovered by the Director-General from the respondent as a debt in any court of competent jurisdiction.</text></p>
+<p><text>Any amount paid to, or recovered by, the Director-General under this subsection shall be paid by the Director-General into the Fund.</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.4.C"><lilabel><refpt id="UCPN.OL.SFAN.S6.4.C" type="ext"/>(c)</lilabel>
+<p><text>Nothing in this subsection affects the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (4)  am Act 249 of 1987  s 2 and Sch 1 ; Act 30 of 1996  s 3 and Sch 3 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The grant or refusal of an indemnity certificate shall, except as provided by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.5A" remotekey1="REFPTID" service="DOC-ID">subsections (5A)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.6" remotekey1="REFPTID" service="DOC-ID">(6)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.7" remotekey1="REFPTID" service="DOC-ID">(7)</remotelink></ci:content></ci:cite>
+ , be in the discretion of the Supreme Court, Land and Environment Court, Industrial Relations Commission of New South Wales or District Court of New South Wales, as the case may be, and no appeal shall lie against any such grant or refusal.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 84 of 1979  Sch 1 ; Act 64 of 1985  s 3 and Sch 1 ; Act 121 of 1996  s 3 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.5A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.5A" type="ext"/>(5A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a respondent to an appeal referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.1A" remotekey1="REFPTID" service="DOC-ID">(1A)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.1AA" remotekey1="REFPTID" service="DOC-ID">(1AA)</remotelink></ci:content></ci:cite>
+ is a legally assisted person, the respondent shall, for the purpose of exercising the discretion referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ and for the purpose of determining the amount which the respondent is entitled to be paid from the Fund&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.5A.A"><lilabel><refpt id="UCPN.OL.SFAN.S6.5A.A" type="ext"/>(a)</lilabel>
+<p><text>be deemed not to be a legally assisted person; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.5A.B"><lilabel><refpt id="UCPN.OL.SFAN.S6.5A.B" type="ext"/>(b)</lilabel>
+<p><text>be deemed to have incurred such costs as have been incurred by any other person in the course of acting for the respondent as a legally assisted person.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (5A)  insrt Act 84 of 1979  Sch 1 ; am Act 64 of 1985  s 3 and Sch 1 ; Act 30 of 1996  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An indemnity certificate shall not be granted in respect of any appeal from proceedings begun in a court of first instance before the commencement of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An indemnity certificate shall not be granted in favour of&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6.7.A"><lilabel><refpt id="UCPN.OL.SFAN.S6.7.A" type="ext"/>(a)</lilabel>
+<p><text>the Crown;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.7.B"><lilabel><refpt id="UCPN.OL.SFAN.S6.7.B" type="ext"/>(b)</lilabel>
+<p><text>a corporation that has a paid-up share capital of two hundred thousand dollars or more; or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6.7.C"><lilabel><refpt id="UCPN.OL.SFAN.S6.7.C" type="ext"/>(c)</lilabel>
+<p><text>a corporation that does not have such a paid-up share capital but that, within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S50" remotekey1="REFPTID" service="DOC-ID">section 50</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001 of the Commonwealth, is related to a body corporate that has such a paid-up share capital, unless the appeal to which the certificate relates was instituted before the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LASF" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Assistance and Suitors' Fund (Amendment) Act 1970</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (7)  subst Act 10 of 1970  s 3 ; am Act 16 of 1986  s 4 and Sch 23 ; Act 34 of 2001  Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 6  subst Act 20 of 1959  s 2 ; am Act 8 of 1960  s 2]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.SFAN.S6.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.425025-5" leveltype="para0" subdoc="true" toc-caption="[425,025.5] Jurisdiction to grant certificate "><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425025-5" type="ext"/>[425,025.5] </edpnum><title>Jurisdiction to grant certificate </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This section only applies to an appeal from a court which is successful on a question of law. Unless these requirements are satisfied there is no jurisdiction to give a certificate under the section. Even if they are satisfied, the grant of such a certificate is discretionary.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425025-10" leveltype="para0" subdoc="true" toc-caption="[425,025.10] Appeal">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [425,025.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1912-16" remotekey1="REFPTID" service="DOC-ID">Criminal Appeal Act 1912</remotelink> s 5B.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 118(3), s 121(3), s 19(2), s 46(4).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> s 127A.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1903-6" remotekey1="REFPTID" service="DOC-ID">Judiciary Act 1903</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425025-10" type="ext"/>[425,025.10] </edpnum><title>Appeal</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This includes an application to the Supreme Court for an order in the nature of prohibition to correct an error made in the Local Courts (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1952"/></ci:caseinfo><ci:caseref ID="cr000519" spanref="cr000519-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="69"/><ci:page num="380"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Parsons</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000519-001" status="unval">(1952) 69 WN (NSW) 380</ci:span></citefragment> <remotelink dpsi="0018" refpt="10714" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>), a reference from a Prothonotary (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1956"/></ci:caseinfo><ci:caseref ID="cr000520" spanref="cr000520-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="73"/><ci:page num="279"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Onions v GIO (NSW)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000520-001" status="unval">(1956) 73 WN (NSW) 279</ci:span></citefragment> <remotelink dpsi="0018" refpt="183994" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>), or a case stated on questions of law under Criminal Appeal Act 1912 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CRIMAP.S5B" remotekey1="REFPTID" service="DOC-ID" status="unval">s 5B</remotelink></ci:content></ci:cite>
+ (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1966"/></ci:caseinfo><ci:caseref ID="cr000521" spanref="cr000521-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1966"/></ci:edition><ci:page num="481"/></ci:caseref><ci:caseref ID="cr000522" spanref="cr000522-002" status="unval"><ci:reporter value="WNPT1NSW"/><ci:volume num="85"/><ci:page num="372"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Neville</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000521-001" status="unval">[1966] 2 NSWR 481</ci:span>; <ci:span spanid="cr000522-002" status="unval">(1966) 85 WN (Pt 1) (NSW) 372</ci:span></citefragment> <remotelink dpsi="0018" refpt="60927" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>), though in this last-mentioned case, it was held that while the proceedings were an appeal, they were not an appeal against the decision of a court, and no certificate could issue.</text></p>
+<p>
+<text>The note as it appears above was referred to in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr000523" spanref="cr000523-001"><ci:reporter value="NSWLR"/><ci:volume num="32"/><ci:page num="345"/></ci:caseref><ci:caseref ID="cr000524" spanref="cr000524-002"><ci:reporter value="urj"/><ci:refnum num="BC9302293"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Hookham (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000523-001">(1993) 32 NSWLR 345</ci:span>; <ci:span spanid="cr000524-002"> BC9302293</ci:span></citefragment> <remotelink dpsi="0018" refpt="58640" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The Supreme Court Act 1970 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S19.2" remotekey1="REFPTID" service="DOC-ID">s 19(2)</remotelink></ci:content></ci:cite>
+ treats a proceeding under a statute or regulation as an appeal only if it is described in the statute, or regulation as an appeal.</text></p>
+<p>
+<text>An application for the setting aside, discharge or variation of an order under of the Supreme Court Act 1970
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.4" remotekey1="REFPTID" service="DOC-ID">s 46(4)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.3" remotekey1="REFPTID" service="DOC-ID">s 118(3)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S121.3" remotekey1="REFPTID" service="DOC-ID">s 121(3)</remotelink></ci:content></ci:cite>
+ is not treated as an &#x201c;appeal&#x201d; for the purposes of that Act and s 121(3). An application for a new trial under District Court Act 1973 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S127A" remotekey1="REFPTID" service="DOC-ID">s 127A</remotelink></ci:content></ci:cite>
+ is an appeal. Compare also the definition of appeal for the purposes of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JA03" remotekey1="REFPTID" service="DOC-ID">Judiciary Act 1903</remotelink></ci:content></ci:cite>
+ as including &quot;an application for a new trial and any proceeding to review or call in question the proceedings, decision or jurisdiction of any court or judge&#x201d;.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425025-15" leveltype="para0" subdoc="true" toc-caption="[425,025.15] Court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [425,025.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1951-3" remotekey1="REFPTID" service="DOC-ID">Suitors' Fund Act 1951</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425025-15" type="ext"/>[425,025.15] </edpnum><title>Court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The fact that the original decision making body is not designated as a court does not mean that it does not fall within the present section: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000525" spanref="cr000525-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="100"/></ci:caseref><ci:caseref anaphref="cr000525" spanref="cr000525-002" status="unval"><ci:pinpoint num="102" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Qidwai v Brown</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000525-001">[1984] 1 NSWLR 100</ci:span> <ci:span spanid="cr000525-002" status="unval">at 102</ci:span></citefragment></ci:content></ci:cite> (Medical Disciplinary Tribunal). In determining whether a tribunal is a &quot;court&quot; for the purposes of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN" remotekey1="REFPTID" service="DOC-ID">Suitors' Fund Act</remotelink></ci:content></ci:cite>
+ regard must be had to the scope of that Act as a whole and to the function and purpose of the tribunal in question: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr000526" spanref="cr000526-001"><ci:reporter value="NSWLR"/><ci:volume num="6"/><ci:page num="497"/></ci:caseref><ci:caseref ID="cr000527" spanref="cr000527-002"><ci:reporter value="ALR"/><ci:volume num="69"/><ci:page num="125"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australian Postal Commission v Dao (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000526-001">(1986) 6 NSWLR 497</ci:span>; <ci:span spanid="cr000527-002">69 ALR 125</ci:span></citefragment></ci:content></ci:cite> (the Equal Opportunity Tribunal is a court for the purposes of the Act.) The Board of Subdivision Appeals was held not to be a court under this Act in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000528" spanref="cr000528-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="1"/><ci:edition><ci:date year="1969"/></ci:edition><ci:page num="59"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gosford Shire Council v Anthony George Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000528-001" status="unval">[1969] 1 NSWR 59</ci:span></citefragment></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1969"/></ci:caseinfo><ci:caseref ID="cr000529" spanref="cr000529-001" status="unval"><ci:reporter value="WNPT1NSW"/><ci:volume num="89"/><ci:page num="350"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gosford Shire Council v Anthony George Pty Ltd (No 3)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000529-001" status="unval">(1969) 89 WN (Pt 1) (NSW) 350</ci:span></citefragment> <remotelink dpsi="0018" refpt="155067" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . The section will also not apply where the appeal is to a Federal Court other than the High Court: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1953"/></ci:caseinfo><ci:caseref ID="cr000530" spanref="cr000530-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="88"/><ci:page num="168"/></ci:caseref><ci:caseref ID="cr000531" spanref="cr000531-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1953"/></ci:edition><ci:page num="569"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Commissioner of Stamp Duties (NSW) v Owens (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000530-001" status="unval">(1953) 88 CLR 168</ci:span>; <ci:span spanid="cr000531-002" status="unval">[1953] ALR 569</ci:span></citefragment> <remotelink dpsi="0018" refpt="60837" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . The section does apply to appeals to the Court of Appeal from a judgment or order of the Supreme Court in a Division: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000532" spanref="cr000532-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:page num="491"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mir Bros Developments Pty Ltd v Atlantic Constructions Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000532-001">(1985) 1 NSWLR 491</ci:span></citefragment></ci:content></ci:cite> .</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425025-20" leveltype="para0" subdoc="true" toc-caption="[425,025.20] On a question of law"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425025-20" type="ext"/>[425,025.20] </edpnum><title>On a question of law</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This does not include a case where it is alleged the jury has made an unreasonable, excessive or inadequate award of damages (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1957"/></ci:caseinfo><ci:caseref ID="cr000533" spanref="cr000533-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="75"/><ci:page num="60"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wagner v Moran</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000533-001" status="unval">(1957) 75 WN (NSW) 60</ci:span></citefragment></ci:content></ci:cite> ) or a situation where the appeal is on both questions of law and quantum of damages where the appeal succeeds on quantum only: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1964"/></ci:caseinfo><ci:caseref ID="cr000534" spanref="cr000534-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="1035"/></ci:caseref><ci:caseref ID="cr000535" spanref="cr000535-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="80[nbsp  ]"/><ci:page num="1365"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cole v Commonwealth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000534-001" status="unval">[1964] NSWR 1035</ci:span>; <ci:span spanid="cr000535-002" status="unval">(1964) 80 WN (NSW) 1365</ci:span></citefragment> <remotelink dpsi="0018" refpt="76847" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . An appeal on a professional disciplinary matter may involve a question of law: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1968"/></ci:caseinfo><ci:caseref ID="cr000536" spanref="cr000536-001" status="unval"><ci:reporter value="WNPT1NSW"/><ci:volume num="88"/><ci:page num="343"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Evatt v New South Wales Bar Assn</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000536-001" status="unval">(1968) 88 WN (Pt 1) (NSW) 343</ci:span></citefragment> <remotelink dpsi="0018" refpt="79167" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000537" spanref="cr000537-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="261"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hermann v Charny</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000537-001">[1976] 1 NSWLR 261</ci:span></citefragment></ci:content></ci:cite> .</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425025-25" leveltype="para0" subdoc="true" toc-caption="[425,025.25] Against a decision of any court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [425,025.25] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1912-16" remotekey1="REFPTID" service="DOC-ID">Criminal Appeal Act 1912</remotelink> s 5B.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425025-25" type="ext"/>[425,025.25] </edpnum><title>Against a decision of any court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This phrase disqualifies from a certificate appeals under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CRIMAP.S5B" remotekey1="REFPTID" service="DOC-ID" status="unval">s 5B</remotelink></ci:content></ci:cite>
+ of the Criminal Appeal Act 1912, see <emph typestyle="it">Ex parte Neville, </emph> above, and also stated cases from the Workers' Compensation Commission pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.WC26N.S37.4" remotekey1="REFPTID" service="DOC-ID" status="unval">s 37(4)</remotelink></ci:content></ci:cite>
+ of the Workers' Compensation Act: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1964"/></ci:caseinfo><ci:caseref ID="cr000538" spanref="cr000538-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="1526"/></ci:caseref><ci:caseref ID="cr000539" spanref="cr000539-002" status="unval"><ci:reporter value="WNPT1NSW"/><ci:volume num="82"/><ci:page num="89"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McNamara v Malco Industries Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000538-001" status="unval">[1964&#x2013;5] NSWR 1526</ci:span>; <ci:span spanid="cr000539-002" status="unval">(1964) 82 WN (Pt 1) (NSW) 89</ci:span></citefragment> <remotelink dpsi="0018" refpt="77566" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . However it would not seem to be necessary that the decision appealed against is one which is finally dispositive of the proceedings in the court below: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000540" spanref="cr000540-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:page num="491"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mir Bros Developments Pty Ltd v Atlantic Constructions Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000540-001">(1985) 1 NSWLR 491</ci:span></citefragment></ci:content></ci:cite> .</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425025-30" leveltype="para0" subdoc="true" toc-caption="[425,025.30] Discretion"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425025-30" type="ext"/>[425,025.30] </edpnum><title>Discretion</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The matter of a certificate is entirely a matter for discretion: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1956"/></ci:caseinfo><ci:caseref ID="cr000541" spanref="cr000541-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="95"/><ci:page num="106"/></ci:caseref><ci:caseref ID="cr000542" spanref="cr000542-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1956"/></ci:edition><ci:page num="691"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gurnett v Macquarie Stevedoring Co Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000541-001" status="unval">(1956) 95 CLR 106</ci:span>; <ci:span spanid="cr000542-002" status="unval">[1956] ALR 691</ci:span></citefragment> <remotelink dpsi="0018" refpt="22976" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000543" spanref="cr000543-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="110"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Reeve v Fowler</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000543-001" status="unval">[1965] NSWR 110</ci:span></citefragment> <remotelink dpsi="0018" refpt="77212" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1965"/></ci:caseinfo><ci:caseref ID="cr000544" spanref="cr000544-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="772"/></ci:caseref><ci:caseref ID="cr000545" spanref="cr000545-002" status="unval"><ci:reporter value="WNPT1NSW"/><ci:volume num="82"/><ci:page num="531"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Aquilina v Dairy Farmers Co-op Milk Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000544-001" status="unval">[1965] NSWR 772</ci:span>; <ci:span spanid="cr000545-002" status="unval">(1965) 82 WN (Pt 1) (NSW) 531</ci:span></citefragment> <remotelink dpsi="0018" refpt="77296" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1966"/></ci:caseinfo><ci:caseref ID="cr000546" spanref="cr000546-001" status="unval"><ci:reporter value="WNPT1NSW"/><ci:volume num="84"/><ci:page num="201"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pataky v Utah Construction &amp; Engineering Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000546-001" status="unval">(1966) 84 WN (Pt 1) (NSW) 201</ci:span></citefragment> <remotelink dpsi="0018" refpt="77892" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000547" spanref="cr000547-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1975"/></ci:edition><ci:page num="85"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">FWB Pty Ltd v Robinson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000547-001">[1975] 1 NSWLR 85</ci:span></citefragment> <remotelink dpsi="0018" refpt="80754" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000548" spanref="cr000548-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1974"/></ci:edition><ci:page num="348"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Steele v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000548-001">[1974] 2 NSWLR 348</ci:span></citefragment></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000549" spanref="cr000549-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="275"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Allard v Murwillumbah Bowling Club Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000549-001">[1976] 1 NSWLR 275</ci:span></citefragment></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000550" spanref="cr000550-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1979"/></ci:edition><ci:page num="607"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Builders Licensing Board v Pride Constructions Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000550-001">[1979] 1 NSWLR 607</ci:span></citefragment></ci:content></ci:cite> .</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425025-35" leveltype="para0" subdoc="true" toc-caption="[425,025.35] Form of certificate">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [425,025.35] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1951-3" remotekey1="REFPTID" service="DOC-ID">Suitors' Fund Act 1951</remotelink> s 6, s 7.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 65 r 1, Sch F, Form 1.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 6.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425025-35" type="ext"/>[425,025.35] </edpnum><title>Form of certificate</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The form is prescribed in Gaz 17 of 16 January 1953 by a regulation made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S7" remotekey1="REFPTID" service="DOC-ID">s 7</remotelink></ci:content></ci:cite>
+ . That form begins:</text> 
+<table frame="none" id="UCPN.OL.10688.T1" pgwide="1">
+<tgroup align="left" cols="3" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="83*" rowsep="0"/>
+<colspec colsep="0" colwidth="49*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="392*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="center" colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0" valign="top">SUITORS' FUND ACT 1951</entry>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">IN THE <nl/>
+(<emph typestyle="it">Insert title   of court   granting the   certificate</emph>)</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">}</entry>
+<entry align="right" colsep="0" morerows="0" rowsep="0" valign="middle">(<emph typestyle="it">Insert title of proceeding</emph>)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<text>It is suggested that the heading and title be set out, not as above, but in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT65.R1" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 65 r 1</remotelink></ci:content></ci:cite>
+ Note 3 of the Explanatory Notes to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHF" remotekey1="REFPTID" service="DOC-ID" status="unval">Sch F</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHF.F1" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 1</remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules 1970. This course is justified by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S6" remotekey1="REFPTID" service="DOC-ID">s 6</remotelink></ci:content></ci:cite>
+ of the Supreme Court Act 1970, which section provided that the Rules supersede Acts in force before 1972 to the extent of any inconsistency. The document should bear the description &quot;CERTIFICATE UNDER 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6" remotekey1="REFPTID" service="DOC-ID">section 6</remotelink></ci:content></ci:cite>
+ OF THE SUITORS' FUND ACT 1951,&quot; in the margin.</text></p>
+<p>
+<text>The body of the form prescribed by the regulation is as follows:</text></p>
+<blockquote>
+<p i="1" indent="1st-line"><text>The<form-chars character=" " num-char="4"/>day of<form-chars character=" " num-char="4"/>19<form-chars character=" " num-char="2"/>(<emph typestyle="it">Insert date certificate granted</emph>.)</text></p>
+<p i="1" indent="1st-line"><text>WHEREAS subsection one of section six of the Suitors' Fund Act 1951, provides that, where an appeal against the decision of any court on a question of law succeeds, the court determining the appeal may grant to the respondent thereto or to any one or more of several respondents a certificate: AND WHEREAS that certificate entitles the respondent to whom it is granted to be paid from the Suitors' Fund established under that Act certain costs of the appeal: AND WHEREAS an appeal to this Court in the above matter on a question of law has succeeded: THIS CERTIFICATE is, under the above recited subsection, granted to (<emph typestyle="it">insert name of respondent</emph>), the respondent to the appeal in the above matter.</text></p>
+<p indent="none"><text align="right">By the Court</text></p>
+<p indent="none"><text align="right">CHIEF CLERK/DEPUTY REGISTRAR</text></p></blockquote>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425025-40" leveltype="para0" subdoc="true" toc-caption="[425,025.40] Documents and other information required for application under s 6">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [425,025.40] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1979-78" remotekey1="REFPTID" service="DOC-ID">Legal Aid Commission Act 1979</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425025-40" type="ext"/>[425,025.40] </edpnum><title>Documents and other information required for application under s 6</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The following documents (originals or certified copies) and other information are required in support of an application:</text>
+<l>
+<li><lilabel>(1)</lilabel>
+<p>
+<text>sealed Indemnity Certificate issued by the court;</text></p></li>
+<li><lilabel>(2)</lilabel>
+<p>
+<text>Minute of Order upholding the appeal or certified copy of a transcript of the judgment on appeal;</text></p></li>
+<li><lilabel>(3)</lilabel>
+<p>
+<text>Either,</text>
+<l>
+<li><lilabel>(a)</lilabel>
+<p>
+<text>Certificate of Assessment of the appellant&#x2019;s costs of the appeal,</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p>
+<text>evidence of an agreement as to costs (evidence of negotiation of costs will be required), or</text></p></li>
+<li><lilabel>(c)</lilabel>
+<p>
+<text>evidence that the appellant&#x2019;s costs are well in excess of $10,000 (evidence in the form of a detailed bill of costs will be required);</text></p></li></l></p></li>
+<li><lilabel>(4)</lilabel>
+<p>
+<text>Either,</text>
+<l>
+<li><lilabel>(a)</lilabel>
+<p>
+<text>evidence that the appellant&#x2019;s costs have been satisfied,</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p>
+<text>statutory declaration from the respondent indicating inability to pay the appellant&#x2019;s costs and requesting the fund pay these costs direct to the appellant, or</text></p></li>
+<li><lilabel>(c)</lilabel>
+<p>
+<text>statutory declaration or affidavit from the appellant setting out the respondent&#x2019;s refusal to pay, or the appellant&#x2019;s inability to locate the respondent, and requesting payment be made direct to the appellant. Substantive evidence in support must be provided;</text></p></li></l></p></li>
+<li><lilabel>(5)</lilabel>
+<p>
+<text>Either,</text>
+<l>
+<li><lilabel>(a)</lilabel>
+<p>
+<text>certificate of assessment of the respondent&#x2019;s costs of the appeal, or</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p>
+<text>election by the respondent to accept 50% of the appellant&#x2019;s assessed costs;</text></p></li></l></p></li>
+<li><lilabel>(6)</lilabel>
+<p>
+<text>confirmation that the respondent is personally liable for the payment of the costs;</text></p></li>
+<li><lilabel>(7)</lilabel>
+<p>
+<text>	where the respondent is a corporation, a copy extract from the annual report or an Australian Securities Commission search which establishes that the respondent does not have a paid up share capital of $200,000 or more and is not related to a corporation with such a paid-up share capital; and</text></p></li>
+<li><lilabel>(8)</lilabel>
+<p>
+<text>where the respondent was in receipt of legal assistance, either under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LACA" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Aid Commission Act 1979</remotelink></ci:content></ci:cite>
+ or from any other source, details of the grant including amounts paid and any contributions imposed on the respondent.</text></p></li></l></p>
+<p>
+<text>Other information which may be required:</text>
+<l>
+<li><lilabel>&#x2022;</lilabel>
+<p>
+<text>authority, witnessed by a Justice of the Peace, if payment is to be made in any name other than the principal; or </text></p></li>
+<li><lilabel>&#x2022;</lilabel>
+<p>
+<text>details of the cause of action and grounds of appeal.</text></p></li></l></p>
+<p>
+<text>See 
+<remotelink href="www.lsb.lawlink.nsw.gov.au/lsb/legal_services_appl_costs/legal_services_suitors_fund.html" hrefclass="http" newwindow="YES">http://www.lsb.lawlink.nsw.gov.au/lsb/legal_services_appl_costs/legal_services_suitors_ fund.html</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,030] s 6A Costs of proceedings not completed by reason of death of judge etc">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S6A" type="ext"/>[425,030]</edpnum><title searchtype="SECT-TITLE">Costs of proceedings not completed by reason of death of judge etc</title><desig searchtype="SECT-NUM"><designum>6A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S6A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where on or after the day on which Her Majesty's assent to the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SFAAN59" remotekey1="REFPTID" service="DOC-ID" status="unval">Suitors' Fund (Amendment) Act 1959</remotelink></ci:content></ci:cite>
+ , is signified&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6A.1.A"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1.A" type="ext"/>(a)</lilabel>
+<p><text>any civil or criminal proceedings are rendered abortive by the death or protracted illness of the judge or magistrate before whom the proceedings were had;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6A.1.A1"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1.A1" type="ext"/>(a1)</lilabel>
+<p><text>any civil or criminal proceedings are rendered abortive for the purposes of this paragraph by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46A" remotekey1="REFPTID" service="DOC-ID">section 46A</remotelink></ci:content></ci:cite>
+ (Appeal against damages may be heard by 2 Judges) of the Supreme Court Act 1970 or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CRIMAP.S6AA" remotekey1="REFPTID" service="DOC-ID" status="unval">section 6AA</remotelink></ci:content></ci:cite>
+ (Appeal against sentence may be heard by 2 judges) of the Criminal Appeal Act 1912, because the judges who heard the proceedings were divided in opinion as to the decision determining the proceedings;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6A.1.B"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1.B" type="ext"/>(b)</lilabel>
+<p><text>an appeal on a question of law against the conviction of a person (in this section referred to as the appellant) convicted on indictment is upheld and a new trial is ordered; or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6A.1.C"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1.C" type="ext"/>(c)</lilabel>
+<p><text>the hearing of any civil or criminal proceedings is discontinued and a new trial ordered by the presiding judge or magistrate for a reason not attributable in any way to disagreement on the part of the jury, where the proceedings were with a jury, or to the act, neglect or default, in the case of civil proceedings, of all or of any one or more of the parties thereto or their counsel or attorneys, or, in the case of criminal proceedings, of the accused or the accused's counsel or attorney, and the presiding judge or magistrate grants a certificate (which certificate the presiding judge or magistrate is hereby authorised to grant)&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6A.1.C.I"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1.C.I" type="ext"/>(i)</lilabel>
+<p><text>in the case of civil proceedings &#x2014; to any party thereto stating the reason why the proceedings were discontinued and a new trial ordered and that the reason was not attributable in any way to disagreement on the part of the jury, where the proceedings were with a jury, or to the act, neglect or default of all or of any one or more of the parties to the proceedings or their counsel or attorneys; or</text></p>
+</li><li id="UCPN.OL.SFAN.S6A.1.C.II"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1.C.II" type="ext"/>(ii)</lilabel>
+<p><text>in the case of criminal proceedings &#x2014; to the accused stating the reason why the proceedings were discontinued and a new trial ordered and that the reason was not attributable in any way to disagreement on the part of the jury or to the act, neglect or default of the accused or the accused's counsel or attorney,</text></p>
+</li></l>
+<p><text>and any party to the civil proceedings or the accused in the criminal proceedings or the appellant, as the case may be, incurs additional costs (in this section referred to as &quot;additional costs&quot;) by reason of the new trial that is had as a consequence of the proceedings being so rendered abortive or as a consequence of the order for a new trial, as the case may be, then the Director-General may, upon application made in that behalf, authorise the payment from the Fund to the party or the accused or the appellant, as the case may be, of the costs (in this section referred to as &quot;original costs&quot;), or such part thereof as the Director-General may determine, incurred by the party or the accused or the appellant, as the case may be, in the proceedings before they were so rendered abortive or the conviction was quashed or the hearing of the proceedings was so discontinued, as the case may be.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 10 of 1970  s 3 ; Act 249 of 1987  s 2 and Sch 1 ; Act 14 of 1994  s 4 ; Act 30 of 1996  s 3 and Sch 3 ; Act 141 of 1997  s 3 and Sch 1 ; Act 121 of 2001  s 2 and Sch 4 , effective 7 July 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6A.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6A.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where, in the opinion of the Director-General&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6A.1A.A"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1A.A" type="ext"/>(a)</lilabel>
+<p><text>the Director-General would, but for this subsection, not be entitled to authorise payment of an amount to a person under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ because that person incurred neither original costs nor additional costs by reason only of the fact that he was a legally assisted person; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6A.1A.B"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1A.B" type="ext"/>(b)</lilabel>
+<p><text>that person would have incurred original costs and additional costs had he not been a legally assisted person,</text></p>
+</li>
+</l>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ shall apply to and in respect of that person as if he had not been a legally assisted person and as if he had incurred such original costs and additional costs as the Director-General determines.</text></p>
+<p><text>Provided that the Director-General may, in lieu of authorising payment under that subsection of an amount to that person, authorise payment of that amount to such person or persons as in the Director-General's opinion is or are entitled to receive payment thereof.</text></p>
+<leg:histnote>
+<p><text>[subs (1A)  insrt Act 10 of 1970  s 3 ; am Act 37 of 1970  s 20 ; Act 84 of 1979  Sch 1 ; Act 249 of 1987  s 2 and Sch 1 ; Act 30 of 1996  s 3 and Sch 3 ; Act 141 of 1997  s 3 and Sch 1 ]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6A.1B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6A.1B" type="ext"/>(1B)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an application has been made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ in respect of proceedings rendered abortive, or a new trial ordered, after the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SFAAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Suitors' Fund (Amendment) Act 1987</remotelink></ci:content></ci:cite>
+ , the amount payable under that subsection to any one person shall, in respect of that application, not exceed&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6A.1B.A"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1B.A" type="ext"/>(a)</lilabel>
+<p><text>$10,000; or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6A.1B.B"><lilabel><refpt id="UCPN.OL.SFAN.S6A.1B.B" type="ext"/>(b)</lilabel>
+<p><text>such other amount as may be prescribed (at the time when the proceedings were rendered abortive or the new trial was ordered).</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1B)  subst Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>No amount shall be paid from the Fund under this section to&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6A.2.A"><lilabel><refpt id="UCPN.OL.SFAN.S6A.2.A" type="ext"/>(a)</lilabel>
+<p><text>the Crown;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6A.2.B"><lilabel><refpt id="UCPN.OL.SFAN.S6A.2.B" type="ext"/>(b)</lilabel>
+<p><text>a corporation that has a paid-up share capital of two hundred thousand dollars or more; or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6A.2.C"><lilabel><refpt id="UCPN.OL.SFAN.S6A.2.C" type="ext"/>(c)</lilabel>
+<p><text>a corporation that does not have such a paid-up share capital but that, within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S50" remotekey1="REFPTID" service="DOC-ID">section 50</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001 of the Commonwealth, is related to a body corporate that has such a paid-up share capital, unless the proceedings were rendered abortive or the new trial was ordered (as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ ) before the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LASF" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Assistance and Suitors' Fund (Amendment) Act 1970</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  subst Act 10 of 1970  s 3 ; am Act 16 of 1986  s 4 and Sch 23 ; Act 34 of 2001  Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 6A  insrt Act 20 of 1959  s 3]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.SFAN.S6A.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.425030-5" leveltype="para0" subdoc="true" toc-caption="[425,030.5] Documents required for application under s 6A">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [425,030.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1951-3" remotekey1="REFPTID" service="DOC-ID">Suitors' Fund Act 1951</remotelink> s 6A(1)(c).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425030-5" type="ext"/>[425,030.5] </edpnum><title>Documents required for application under s 6A</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The following documents are required in support of an application:</text>
+<l>
+<li><lilabel>(1)</lilabel>
+<p>
+<text>original sealed or certified copy of the Indemnity Certificate issued by the court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A.1.C" remotekey1="REFPTID" service="DOC-ID">s 6A(1)(c)</remotelink></ci:content></ci:cite>
+;</text></p></li>
+<li><lilabel>(2)</lilabel>
+<p>
+<text>memorandum indicating details of the costs lost, duplicated or thrown away by reason of the aborted proceedings and subsequent new trial, together with copies of counsel&#x2019;s memoranda and evidence in support of disbursements claimed; and</text></p></li>
+<li><lilabel>(3)</lilabel>
+<p>
+<text>general assessment of costs for the new trial.</text></p></li></l>
+<text>See 
+<remotelink href="www.lawlink.nsw.gov.au/Lawlink/lsb/ll_lsb.nsf/pages/lsb_suitors_fund" hrefclass="http" newwindow="YES">www.lawlink.nsw.gov.au/Lawlink/lsb/ll_lsb.nsf/pages/lsb_suitors_fund</remotelink>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425030-10" leveltype="para0" subdoc="true" toc-caption="[425,030.10] Aborted and discontinued trials">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [425,030.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1951-3" remotekey1="REFPTID" service="DOC-ID">Suitors' Fund Act 1951</remotelink> s 6A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425030-10" type="ext"/>[425,030.10] </edpnum><title>Aborted and discontinued trials</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Before payment can be made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A" remotekey1="REFPTID" service="DOC-ID">s 6A</remotelink></ci:content></ci:cite>
+, additional costs must have been incurred as the result of a new trial being held. No payment can be made where no new trial has been held. Notwithstanding that the previous proceedings have been aborted, if the matter is no-billed, not proceeded with, or settled without a hearing commencing, payment cannot be made from the Fund.</text></p>
+<p>
+<text>See 
+<remotelink href="www.lsb.lawlink.nsw.gov.au/lsb/legal_services_appl_costs/legal_services_suitors_fund.html" hrefclass="http" newwindow="YES">http://www.lsb.lawlink.nsw.gov.au/lsb/legal_services_appl_costs/legal_services_suitors_ fund.html</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6B"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,035] s 6B Costs of certain appeals on ground that damages were excessive or inadequate">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S6B" type="ext"/>[425,035]</edpnum><title searchtype="SECT-TITLE">Costs of certain appeals on ground that damages were excessive or inadequate</title><desig searchtype="SECT-NUM"><designum>6B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S6B.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6B.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where an appeal to the Court of Appeal on the ground that the damages awarded in the action in respect of which the appeal is made were excessive or inadequate succeeds, the respondent to the appeal or any one or more of several respondents to the appeal, shall (if granted an indemnity certificate under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ ) be entitled to be paid from the Fund&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6B.1.A"><lilabel><refpt id="UCPN.OL.SFAN.S6B.1.A" type="ext"/>(a)</lilabel>
+<p><text>an amount equal to the costs of the appellant in the appeal ordered to be paid and actually paid by the respondent: Provided that where the Director-General is satisfied that the respondent is unable through lack of means to pay the whole of those costs or part thereof or that payment of those costs or part thereof would cause the respondent undue hardship, or where those costs or part thereof have not been paid by the respondent and the Director-General is satisfied that the respondent cannot be found after such strict inquiry and search as he may require or that the respondent unreasonably refuses or neglects to pay them, the Director-General may, if so requested by the appellant or the respondent, direct in writing that an amount equal to those costs or to the part of those costs not already paid by the respondent be paid from the Fund for and on behalf of the respondent to the appellant and thereupon the appellant shall be entitled to payment from the Fund in accordance with the direction and the Fund shall be discharged from liability to the respondent in respect of those costs to the extent of the amount paid in accordance with the direction;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6B.1.B"><lilabel><refpt id="UCPN.OL.SFAN.S6B.1.B" type="ext"/>(b)</lilabel>
+<p><text>fifty per centum or such other percentage as may be prescribed (at the time when the indemnity certificate is granted) in lieu thereof by the Governor by proclamation published in the Gazette of the amount payable from the Fund pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B.1.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ or, where no amount is so payable, an amount equal to the costs of the appeal, as taxed, incurred by the respondent and not ordered to be paid by any other party: Provided that where an amount is payable from the Fund pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B.1.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ , but the Director-General directs that the costs of the appeal incurred by the respondent and not ordered to be paid by any other party be taxed at the instance of the respondent or those costs are, without such a direction, taxed at the instance of the respondent, the amount payable from the Fund under this paragraph shall be the amount equal to those costs as so taxed; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6B.1.C"><lilabel><refpt id="UCPN.OL.SFAN.S6B.1.C" type="ext"/>(c)</lilabel>
+<p><text>where the costs referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B.1.B" remotekey1="REFPTID" service="DOC-ID">paragraph (b)</remotelink></ci:content></ci:cite>
+ are taxed at the instance of the respondent, an amount equal to the costs incurred by the respondent in having those costs taxed.</text></p>
+</li>
+</l>
+<p><text>Notwithstanding the foregoing provisions of this subsection&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6B.1.I"><lilabel><refpt id="UCPN.OL.SFAN.S6B.1.I" type="ext"/>(i)</lilabel>
+<p><text>where the costs referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B.1.B" remotekey1="REFPTID" service="DOC-ID">paragraph (b)</remotelink></ci:content></ci:cite>
+ are taxed at the instance of the respondent, the aggregate of the amounts payable from the Fund pursuant to that paragraph and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B.1.C" remotekey1="REFPTID" service="DOC-ID">paragraph (c)</remotelink></ci:content></ci:cite>
+ shall not exceed the amount payable from the Fund pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B.1.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6B.1.II"><lilabel><refpt id="UCPN.OL.SFAN.S6B.1.II" type="ext"/>(ii)</lilabel>
+<p><text>the amount payable from the Fund in respect of the appeal shall not in any case exceed the sum of $10,000 or such other amount as may be fixed (at the time when the indemnity certificate is granted) in lieu thereof by the regulations under this Act.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 33 of 1965  s 4 ; Act 10 of 1970  s 3 ; Act 249 of 1987  s 2 and Sch 1 ; Act 92 of 1988  s 3 and Sch 26 ; Act 30 of 1996  s 3 and Sch 3 ; Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6B.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6B.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an appeal to the Court of Appeal on the ground that the damages awarded in the action in respect of which the appeal is made were excessive or inadequate succeeds, the Court of Appeal may, on application, grant&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6B.2.A"><lilabel><refpt id="UCPN.OL.SFAN.S6B.2.A" type="ext"/>(a)</lilabel>
+<p><text>to the respondent to the appeal; or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6B.2.B"><lilabel><refpt id="UCPN.OL.SFAN.S6B.2.B" type="ext"/>(b)</lilabel>
+<p><text>to any one or more of several respondents to the appeal,</text></p>
+</li>
+</l>
+<p><text>an indemnity certificate in respect of the appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  insrt Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6B.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6B.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The grant or refusal of an indemnity certificate shall, except as provided by this section, be in the discretion of the Court of Appeal and no appeal shall lie against any such grant or refusal.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  insrt Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6B.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6B.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.4.A.I" remotekey1="REFPTID" service="DOC-ID">section 6(4)(a)(i)-(iv)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6.4.B" remotekey1="REFPTID" service="DOC-ID">(b)</remotelink></ci:content></ci:cite>
+ apply to and in respect of an indemnity certificate granted under this section in the same way as they apply to and in respect of an indemnity certificate granted under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6" remotekey1="REFPTID" service="DOC-ID">section 6</remotelink></ci:content></ci:cite>
+ .</text></p>
+<leg:histnote>
+<p><text>[subs (4)  insrt Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6B.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6B.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a respondent to an appeal is a legally assisted person, the person shall, for the purpose of exercising the discretion referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ and for the purpose of determining the amount which the respondent is entitled to be paid from the Fund&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6B.5.A"><lilabel><refpt id="UCPN.OL.SFAN.S6B.5.A" type="ext"/>(a)</lilabel>
+<p><text>be deemed not to be a legally assisted person; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6B.5.B"><lilabel><refpt id="UCPN.OL.SFAN.S6B.5.B" type="ext"/>(b)</lilabel>
+<p><text>be deemed to have incurred such costs as have been incurred by any other person in the course of acting for the respondent as a legally assisted person.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (5)  insrt Act 84 of 1979  Sch 1 and renumbered ; am Act 249 of 1987  s 2 and Sch 1 ; am Act 30 of 1996  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6B.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6B.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An indemnity certificate shall not be granted in favour of&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6B.6.A"><lilabel><refpt id="UCPN.OL.SFAN.S6B.6.A" type="ext"/>(a)</lilabel>
+<p><text>the Crown;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6B.6.B"><lilabel><refpt id="UCPN.OL.SFAN.S6B.6.B" type="ext"/>(b)</lilabel>
+<p><text>a corporation that has a paid-up share capital of two hundred thousand dollars or more; or</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6B.6.C"><lilabel><refpt id="UCPN.OL.SFAN.S6B.6.C" type="ext"/>(c)</lilabel>
+<p><text>a corporation that does not have such a paid-up share capital but that, within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S50" remotekey1="REFPTID" service="DOC-ID">section 50</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001 of the Commonwealth, is related to a body corporate that has such a paid-up share capital, unless the appeal was instituted before the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LASF" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Assistance and Suitor's Fund (Amendment) Act 1970</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (6)  subst Act 10 of 1970  s 3 ; am Act 16 of 1986  s 4 and Sch 23 and renumbered ; am Act 249 of 1987  s 2 and Sch 1 ; Act 34 of 2001  Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 6B  insrt Act 20 of 1959  s 3]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.SFAN.S6B.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.425035-5" leveltype="para0" subdoc="true" toc-caption="[425,035.5] Documents and other information required for application under s 6B"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425035-5" type="ext"/>[425,035.5] </edpnum><title>Documents and other information required for application under s 6B</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>See list of documents at 
+<remotelink dpsi="05CC" refpt="UCPN.OL.425025-40" remotekey1="REFPTID" service="DOC-ID">[425,025.40]</remotelink>
+. See further 
+<remotelink href="www.lsb.lawlink.nsw.gov.au/lsb/legal_services_appl_costs/legal_services_suitors_fund.html" hrefclass="http" newwindow="YES">http://www.lsb.lawlink.nsw.gov.au/lsb/legal_services_ appl_costs/legal_services_suitors_fund.html</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6C"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,040] s 6C Payments not otherwise authorised by this Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S6C" type="ext"/>[425,040]</edpnum><title searchtype="SECT-TITLE">Payments not otherwise authorised by this Act</title><desig searchtype="SECT-NUM"><designum>6C</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S6C.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6C.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6C.1.A"><lilabel><refpt id="UCPN.OL.SFAN.S6C.1.A" type="ext"/>(a)</lilabel>
+<p><text>a party to an appeal or other proceedings incurs or is liable to pay costs in the appeal or proceedings;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6C.1.B"><lilabel><refpt id="UCPN.OL.SFAN.S6C.1.B" type="ext"/>(b)</lilabel>
+<p><text>the party is not otherwise entitled to a payment from the Fund in respect of the costs; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6C.1.C"><lilabel><refpt id="UCPN.OL.SFAN.S6C.1.C" type="ext"/>(c)</lilabel>
+<p><text>the Director-General is of the opinion that a payment from the Fund in respect of the costs, although not authorised by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6" remotekey1="REFPTID" service="DOC-ID">section 6</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A" remotekey1="REFPTID" service="DOC-ID">6A</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B" remotekey1="REFPTID" service="DOC-ID">6B</remotelink></ci:content></ci:cite>
+ , would be within the spirit and intent of those sections,</text></p>
+</li>
+</l>
+<p><text>the Director-General may, with the concurrence of the Attorney General, pay from the Fund to the party such amount towards the costs as is assessed by the Director-General having regard to the circumstances of the case.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6C.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S6C.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A payment under this section shall not exceed $10,000.</text></p>
+<leg:histnote>
+<p><text>[s 6C  insrt Act 249 of 1987  s 2 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.SFAN.S6C.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.425040-5" leveltype="para0" subdoc="true" toc-caption="[425,040.5] &#x201c;Not otherwise entitled to payment from the Fund&#x201d;">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [425,040.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1951-3" remotekey1="REFPTID" service="DOC-ID">Suitors' Fund Act 1951</remotelink> s 6, 6A, s 6A(1)(c), 6B, s 6C.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425040-5" type="ext"/>[425,040.5] </edpnum><title>&#x201c;Not otherwise entitled to payment from the Fund&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This provision applies if an application cannot be paid from the Fund under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6" remotekey1="REFPTID" service="DOC-ID">s 6</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A" remotekey1="REFPTID" service="DOC-ID">6A</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6B" remotekey1="REFPTID" service="DOC-ID">6B</remotelink></ci:content></ci:cite>
+. For example, if a judicial officer resigns before finalising a matter, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6A.1.C" remotekey1="REFPTID" service="DOC-ID">s 6A(1)(c)</remotelink></ci:content></ci:cite>
+ does not apply because that section only provides for the death or protracted illness of a judge. No payment can be made pursuant to s 6A(1)(c) either as the proceedings have not been discontinued and a new trial has not been ordered. The claim can therefore be considered under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S6C" remotekey1="REFPTID" service="DOC-ID">s 6C</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.425040-10" leveltype="para0" subdoc="true" toc-caption="[425,040.10] &#x201c;Spirit and intent&#x201d; of the Act"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.425040-10" type="ext"/>[425,040.10] </edpnum><title>&#x201c;Spirit and intent&#x201d; of the Act</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The general intent of the Act is to mitigate costs incurred in certain circumstances in proceedings, through no fault of the parties. The underlying principle is that parties should not have two sets of proceedings to determine the one matter. The Act is not intended to assist in meeting costs unreasonably incurred, or incurred through the vicissitudes of litigation (including where proceedings are adjourned).</text></p>
+<p>
+<text>See 
+<remotelink href="www.lsb.lawlink.nsw.gov.au/lsb/legal_services_appl_costs/legal_services_suitors_fund.html" hrefclass="http" newwindow="YES">http://www.lsb.lawlink.nsw.gov.au/lsb/legal_services_appl_costs/legal_services_suitors_ fund.html</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S6D"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,045] s 6D Reduction of payment if taxation of costs not contested">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S6D" type="ext"/>[425,045]</edpnum><title searchtype="SECT-TITLE">Reduction of payment if taxation of costs not contested</title><desig searchtype="SECT-NUM"><designum>6D</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Director-General may, if&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S6D..A"><lilabel><refpt id="UCPN.OL.SFAN.S6D..A" type="ext"/>(a)</lilabel>
+<p><text>an amount is payable from the Fund under this Act in relation to costs incurred in an appeal; and</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S6D..B"><lilabel><refpt id="UCPN.OL.SFAN.S6D..B" type="ext"/>(b)</lilabel>
+<p><text>taxation of the costs was not contested by the other party to the appeal,</text></p>
+</li>
+</l>
+<p><text>reduce the amount payable to an amount that would, in the Director-General's opinion, have been payable had the taxation been contested.</text></p>
+<leg:histnote>
+<p><text>[s 6D  insrt Act 249 of 1987  s 2 and Sch 1 ; am Act 141 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,050] s 7 Regulations">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S7" type="ext"/>[425,050]</edpnum><title searchtype="SECT-TITLE">Regulations</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SFAN.S7.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may make regulations not inconsistent with this Act prescribing all matters which, by this Act, are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S7.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without prejudice to the generality of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.S7.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ the regulations may make provision with respect to the manner of operating on the Fund and the custody of documents evidencing investment of the Fund and with respect to the taxation, for the purposes of this Act, of the costs of an appeal incurred by a respondent and with respect to all matters relating thereto, including but without limiting the generality of the foregoing provisions of this subsection&#x2014;</text></p>
+<l><li id="UCPN.OL.SFAN.S7.2.A"><lilabel><refpt id="UCPN.OL.SFAN.S7.2.A" type="ext"/>(a)</lilabel>
+<p><text>the specification of the principles to be followed in the preparation of a bill of those costs and in the taxation of such a bill;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S7.2.B"><lilabel><refpt id="UCPN.OL.SFAN.S7.2.B" type="ext"/>(b)</lilabel>
+<p><text>the specification of who shall be the taxing officer of such a bill and in relation thereto that different persons or officers shall be the taxing officers in respect of bills that relate to different courts or different jurisdictions of a court;</text></p>
+</li>
+<li id="UCPN.OL.SFAN.S7.2.C"><lilabel><refpt id="UCPN.OL.SFAN.S7.2.C" type="ext"/>(c)</lilabel>
+<p><text>the persons to be served with a copy of such a bill.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act 8 of 1960  s 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S7.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SFAN.S7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (3)  rep Act 48 of 1987  s 3 and Sch 32]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SFAN.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[425,055] s 8 Savings and transitional provisions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SFAN.S8" type="ext"/>[425,055]</edpnum><title searchtype="SECT-TITLE">Savings and transitional provisions</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SFAN.SCH1" remotekey1="REFPTID" service="DOC-ID">Schedule 1</remotelink></ci:content></ci:cite>
+ has effect.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

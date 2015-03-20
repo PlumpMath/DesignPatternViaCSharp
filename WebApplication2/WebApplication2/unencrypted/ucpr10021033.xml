@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 GENERAL [rr 6.1, 6.1A]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT6.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 6  COMMENCING PROCEEDINGS AND APPEARANCE [rr 6.1&#x2013;6.45]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 GENERAL [rr 6.1, 6.1A]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010110</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT6"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 6  COMMENCING PROCEEDINGS AND APPEARANCE [rr 6.1&#x2013;6.45]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT6" type="ext"/>PART 6</designum></desig><title searchtype="PART-TITLE"> COMMENCING PROCEEDINGS AND APPEARANCE [rr 6.1&#x2013;6.45]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="48*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="54*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 1 &#x2014; General &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-1" remotekey1="REFPTID" service="DOC-ID">Rule 6.1</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Rule imposes a general requirement for parties to file originating process, or an appearance, before taking any step in proceedings.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 2 &#x2014; Originating process &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-2" remotekey1="REFPTID" service="DOC-ID">Rules 6.2&#x2013;6.8</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division provides for two forms of originating process: statement of claim or summons. It describes the circumstances in which each form is required and permits remedial directions where the inappropriate form has been used.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 3 &#x2014; Defendant to proceedings to enter appearance &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-9" remotekey1="REFPTID" service="DOC-ID">Rules 6.9&#x2013;6.11</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division (read with <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-3" remotekey1="REFPTID" service="DOC-ID">r 14.3</remotelink></ci:content></ci:cite>
+) requires defendants to file a defence or notice of appearance, within 28 days.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 4 &#x2014; Contents of statement of claim and summons &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-12" remotekey1="REFPTID" service="DOC-ID">Rules 6.12&#x2013;6.17</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules define some of the formal contents of originating process including a statement of the relief claimed, the return date of any summons and various notices required to be given to defendants.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 5 &#x2014; Joinder of causes of action and joinder of parties &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-18" remotekey1="REFPTID" service="DOC-ID">Rules 6.18&#x2013;6.28</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division describes the circumstances in which multiple causes of action and parties can be included in the same proceedings.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 6 &#x2014; Removal of parties &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-29" remotekey1="REFPTID" service="DOC-ID">Rules 6.29&#x2013;6.31</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division allows the court to remove unnecessary parties from proceedings. It contains specific rules governing the conduct of proceedings after the death or bankruptcy of a party.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 7 &#x2014; Orders as to future conduct of proceedings &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-32" remotekey1="REFPTID" service="DOC-ID">Rule 6.32</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Rule allows the court to give directions about the conduct of proceedings where orders are made in relation to the joinder of parties or causes of action.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 8 &#x2014; Referred questions of law and stated cases &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-33" remotekey1="REFPTID" service="DOC-ID">Rules 6.33&#x2013;6.41</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules prescribe the form and contents of originating process in proceedings where questions of law, or stated cases, are referred to the Supreme Court.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 9 &#x2014; Issues arising under foreign law &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-42" remotekey1="REFPTID" service="DOC-ID">Rules 6.42&#x2013;6.45</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules set out the requirements for commencing and continuing proceedings where an issue arises in relation to a law of a foreign country.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Divisions 1, 3 and 5&#x2013;7 of this Part apply to all courts in CPA Sch 1 except as set out below. Divisions 2 and 4 apply to all courts other than in relation to class 1, 2 or 3 proceedings in the Land and Environment Court. Divisions 8 and 9 apply only to proceedings in the Supreme Court. Part 6 does not apply to the Industrial Court or the Industrial Relations Commission.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical Note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The rules are based substantially on the former SCR Parts 4, 5, 7, 8 and 11; DCR Part 7; and LCR Part 6. The rules relating to the choice of originating process are slightly more prescriptive than the previous rules. The rules relating to joinder are substantially the same as the previous Supreme Court Rules. The rules relating to stated cases and referred questions of law are based on the previous SCR Pt 32 r 7 and FCR O 50.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="col5" namest="col1" rowsep="0">Quick index</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Abatement&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-30-10" remotekey1="REFPTID" service="DOC-ID">[6.30.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Action commenced in name of deceased person&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-23-15" remotekey1="REFPTID" service="DOC-ID">[6.23.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Annexure of reasons for judgment&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-36-15" remotekey1="REFPTID" service="DOC-ID">[6.36.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Appearance &#x2014; form and timing&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-9" remotekey1="REFPTID" service="DOC-ID">[r 6.9]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-10" remotekey1="REFPTID" service="DOC-ID">[r 6.10]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Appearance not genuine &#x2014; name of the party appearing&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-9-20" remotekey1="REFPTID" service="DOC-ID">[6.9.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Approved form&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-1-5" remotekey1="REFPTID" service="DOC-ID">[6.1.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-2-5" remotekey1="REFPTID" service="DOC-ID">[6.2.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-8-5" remotekey1="REFPTID" service="DOC-ID">[6.8.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-9-1" remotekey1="REFPTID" service="DOC-ID" status="unval">[6.9.1]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-17-2" remotekey1="REFPTID" service="DOC-ID">[6.17.2]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Arguable case&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-29-5" remotekey1="REFPTID" service="DOC-ID">[6.29.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Bankrupt defendant&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-30-20" remotekey1="REFPTID" service="DOC-ID">[6.30.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">But a cause of action survives&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-30-5" remotekey1="REFPTID" service="DOC-ID">[6.30.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Cause of action&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-18-5" remotekey1="REFPTID" service="DOC-ID">[6.18.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Causes of actions, joinder of&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-18" remotekey1="REFPTID" service="DOC-ID">[r 6.18]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Claims for interest&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-3-30" remotekey1="REFPTID" service="DOC-ID">[6.3.30]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Commencement of proceedings&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-1A-5" remotekey1="REFPTID" service="DOC-ID">[6.1A.5]</remotelink>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-2" remotekey1="REFPTID" service="DOC-ID">[r 6.2]</remotelink></ci:content></ci:cite>
+,<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-2-10" remotekey1="REFPTID" service="DOC-ID">[6.2.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Concise statement of relevant facts&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-36-10" remotekey1="REFPTID" service="DOC-ID">[6.36.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Conditional appearance&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-9-5" remotekey1="REFPTID" service="DOC-ID">[6.9.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Corporation &#x2014; changes of name and winding-up&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-30-25" remotekey1="REFPTID" service="DOC-ID">[6.30.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Costs consequences &#x2014; examples of &#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-11-15" remotekey1="REFPTID" service="DOC-ID">[6.11.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Date of commencement of proceedings against added party&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-28-5" remotekey1="REFPTID" service="DOC-ID">[6.28.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Death of defendant&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-30-15" remotekey1="REFPTID" service="DOC-ID">[6.30.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Death of party&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-30" remotekey1="REFPTID" service="DOC-ID">[r 6.30]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-31" remotekey1="REFPTID" service="DOC-ID">[r 6.31]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">&#x201c;Debt or other liquidated demand&#x201d;&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-3-10" remotekey1="REFPTID" service="DOC-ID">[6.3.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Defendant &#x2014; joinder opposed by plaintiff&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-35" remotekey1="REFPTID" service="DOC-ID">[6.24.35]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Defendant &#x2014; joinder sought by plaintiff&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-40" remotekey1="REFPTID" service="DOC-ID">[6.24.40]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Defendant &#x2014; no joinder where no relief claimed against&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-30" remotekey1="REFPTID" service="DOC-ID">[6.24.30]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Description of land&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-8-25" remotekey1="REFPTID" service="DOC-ID">[6.8.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Directions after misjoinder or removal&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-22" remotekey1="REFPTID" service="DOC-ID">[r 6.22]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-25" remotekey1="REFPTID" service="DOC-ID">[r 6.25]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-32" remotekey1="REFPTID" service="DOC-ID">[r 6.32]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Disabled persons&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-30-30" remotekey1="REFPTID" service="DOC-ID">[6.30.30]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Disadvantages of joinder&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-19-20" remotekey1="REFPTID" service="DOC-ID">[6.19.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Dispensing with service&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-8-18" remotekey1="REFPTID" service="DOC-ID">[6.8.18]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">District Court&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-2.25" remotekey1="REFPTID" service="DOC-ID">[6.2.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Effect of misjoinder and non-joinder&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-23" remotekey1="REFPTID" service="DOC-ID">[r 6.23]</remotelink></ci:content></ci:cite>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-23-5" remotekey1="REFPTID" service="DOC-ID">[6.23.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Exceptions&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-20-10" remotekey1="REFPTID" service="DOC-ID">[6.20.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">&#x201c;Except with his or her consent&#x201d;&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-25-5" remotekey1="REFPTID" service="DOC-ID">[6.25.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Executor or administrator &#x2014; claims against&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-18-10" remotekey1="REFPTID" service="DOC-ID">[6.18.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Exemplary and aggravated damages&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-12-10" remotekey1="REFPTID" service="DOC-ID">[6.12.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Extension of time for service&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-2-15" remotekey1="REFPTID" service="DOC-ID">[6.2.15]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-2-17" remotekey1="REFPTID" service="DOC-ID" status="unval">[6.2.17]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Foreign court proceedings, determination of issues arising in&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-45" remotekey1="REFPTID" service="DOC-ID">[r 6.45]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Future conduct of proceedings &#x2014; court order&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-32" remotekey1="REFPTID" service="DOC-ID">[r 6.32]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Hearing, determination of&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-7" remotekey1="REFPTID" service="DOC-ID">[r 6.7]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Inconvenient joinder&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-22-5" remotekey1="REFPTID" service="DOC-ID">[6.22.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Inferences&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-40" remotekey1="REFPTID" service="DOC-ID">[r 6.40]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Insufficient case and powers of the Supreme Court&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-39" remotekey1="REFPTID" service="DOC-ID">[r 6.39]</remotelink></ci:content></ci:cite>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-39-5" remotekey1="REFPTID" service="DOC-ID">[6.39.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Insurer &#x2014; joinder of defendants&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-19-30" remotekey1="REFPTID" service="DOC-ID">[6.19.30]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Interest passing by assignment&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-30-35" remotekey1="REFPTID" service="DOC-ID">[6.30.35]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Intervention &#x2014; amicus curiae&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-60" remotekey1="REFPTID" service="DOC-ID">[6.24.60]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Intervention by non parties &#x2014; discretion&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-55" remotekey1="REFPTID" service="DOC-ID">[6.24.55]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Intervention by non parties &#x2014; power to permit&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-50" remotekey1="REFPTID" service="DOC-ID">[6.24.50]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Intervention &#x2014; special rule in probate cases&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-70" remotekey1="REFPTID" service="DOC-ID">[6.24.70]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Intervention &#x2014; status of intervener&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-65" remotekey1="REFPTID" service="DOC-ID">[6.24.65]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Issues arising under foreign law&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-42" remotekey1="REFPTID" service="DOC-ID">[r 6.42]&#x2013;[r 6.45]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joinder not to defeat accrued limitation defence&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-45" remotekey1="REFPTID" service="DOC-ID">[6.24.45]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joinder of defendants &#x2014; examples of joinder&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-19-25" remotekey1="REFPTID" service="DOC-ID">[6.19.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joinder of persons jointly liable&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-21-5" remotekey1="REFPTID" service="DOC-ID">[6.21.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joinder on application of third party&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-27" remotekey1="REFPTID" service="DOC-ID">[r 6.27]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joinder permissible in originating process &#x2014; general considerations&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-19-5" remotekey1="REFPTID" service="DOC-ID">[6.19.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joinder to recover costs&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-26" remotekey1="REFPTID" service="DOC-ID">[r 6.26]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joint entitlement or liability&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-20" remotekey1="REFPTID" service="DOC-ID">[r 6.20]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-21" remotekey1="REFPTID" service="DOC-ID">[r 6.21]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joint entitlement &#x2014; exceptions to mandatory joinder&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-20-10" remotekey1="REFPTID" service="DOC-ID">[6.20.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Joint entitlement &#x2014; mandatory joinder&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-20-5" remotekey1="REFPTID" service="DOC-ID">[6.20.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Land and Environment Court&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-2-20" remotekey1="REFPTID" service="DOC-ID" status="unval">[6.2.20]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-12-15" remotekey1="REFPTID" service="DOC-ID">[6.12.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Land, claim for possession of&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-8" remotekey1="REFPTID" service="DOC-ID">[r 6.8]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Leave to join &#x2014; permissive discretion&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-19-35" remotekey1="REFPTID" service="DOC-ID">[6.19.35]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Leave to join causes of action&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-18-15" remotekey1="REFPTID" service="DOC-ID">[6.18.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Leave to proceed&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-1-10" remotekey1="REFPTID" service="DOC-ID">[6.1.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Left on the land&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-8-20" remotekey1="REFPTID" service="DOC-ID">[6.8.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Liquidated claims &#x2014; examples&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-3-20" remotekey1="REFPTID" service="DOC-ID">[6.3.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Liquidated claims &#x2014; instalment contracts for the sale of land&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-3-15" remotekey1="REFPTID" service="DOC-ID">[6.3.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Matters in dispute&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-15" remotekey1="REFPTID" service="DOC-ID">[6.24.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Meaning of &#x201c;party&#x201d;&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-19-40" remotekey1="REFPTID" service="DOC-ID">[6.19.40]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Misjoinder &#x2014; consequences of&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-18-20" remotekey1="REFPTID" service="DOC-ID">[6.18.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Misnomer and misjoinder&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-23-10" remotekey1="REFPTID" service="DOC-ID">[6.23.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Necessary to ensure all matters completely adjudicated&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-20" remotekey1="REFPTID" service="DOC-ID">[6.24.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Necessity for joinder &#x2014; indirect practical effect&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-25" remotekey1="REFPTID" service="DOC-ID">[6.24.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">No joinder to recast proceedings&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-10" remotekey1="REFPTID" service="DOC-ID">[6.24.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Non-joinder&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-20-15" remotekey1="REFPTID" service="DOC-ID">[6.20.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">No step without originating process or notice of appearance&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-1" remotekey1="REFPTID" service="DOC-ID">[r 6.1]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notes&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-7-5" remotekey1="REFPTID" service="DOC-ID">[6.7.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-27-5" remotekey1="REFPTID" service="DOC-ID">[6.27.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Occupier&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-8-15" remotekey1="REFPTID" service="DOC-ID">[6.8.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Parties in different capacities&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-18-25" remotekey1="REFPTID" service="DOC-ID">[6.18.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Parties, joinder of&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-19" remotekey1="REFPTID" service="DOC-ID">[r 6.19]</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-21" remotekey1="REFPTID" service="DOC-ID">[r 6.21]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-24" remotekey1="REFPTID" service="DOC-ID">[r 6.24]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-28" remotekey1="REFPTID" service="DOC-ID">[r 6.28]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Parties that ought to be joined&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-5" remotekey1="REFPTID" service="DOC-ID">[6.24.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Payment towards liquidated claim stays proceeding on claim&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-17" remotekey1="REFPTID" service="DOC-ID">[r  6.17]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Plaintiff &#x2014; joinder opposed by existing plaintiff&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-75" remotekey1="REFPTID" service="DOC-ID">[6.24.75]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Possession List&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-8A" remotekey1="REFPTID" service="DOC-ID">[r 6.8A]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Possession List &#x2014; coversheet &#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-8A-5" remotekey1="REFPTID" service="DOC-ID">[6.8A.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Proceedings where no defendant required&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-1A" remotekey1="REFPTID" service="DOC-ID">[r 6.1A]</remotelink></ci:content></ci:cite>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-1A-5" remotekey1="REFPTID" service="DOC-ID">[6.1A.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Proceedings for order in the nature of prerogative writ&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-12A" remotekey1="REFPTID" service="DOC-ID">[r 6.12A]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Purpose&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-8-10" remotekey1="REFPTID" service="DOC-ID">[6.8.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Question to be decided in &#x201c;special&#x201d; case&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-36-5" remotekey1="REFPTID" service="DOC-ID">[6.36.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Referred matters &#x2014; section 28 of the Constitution&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-41" remotekey1="REFPTID" service="DOC-ID">[r 6.41]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Removal of Parties&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-29" remotekey1="REFPTID" service="DOC-ID">[r 6.29]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Removal of the stay&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-17-10" remotekey1="REFPTID" service="DOC-ID">[6.17.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Return day&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-14-5" remotekey1="REFPTID" service="DOC-ID">[6.14.5]</remotelink>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-15" remotekey1="REFPTID" service="DOC-ID">[r 6.15]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Return day, alteration of&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-16" remotekey1="REFPTID" service="DOC-ID">[r 6.16]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Same transactions or series of transactions &#x2014; common questions of law or fact &#x2014; entitlement to join interested parties&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-19-10" remotekey1="REFPTID" service="DOC-ID">[6.19.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Service of documents&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-32-5" remotekey1="REFPTID" service="DOC-ID">[6.32.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Special case, form of&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-36" remotekey1="REFPTID" service="DOC-ID">[r 6.36]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Special case, procedure for preparing&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-37" remotekey1="REFPTID" service="DOC-ID">[r 6.37]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Special procedure for debts or other liquidated demands&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-3-5" remotekey1="REFPTID" service="DOC-ID">[6.3.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Stated cases and referred questions of law&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-33" remotekey1="REFPTID" service="DOC-ID">[r 6.33]&#x2013;[r 6.40]</remotelink></ci:content></ci:cite>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-34-5" remotekey1="REFPTID" service="DOC-ID">[6.34.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Statement of claim &#x2014; formalities&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-3" remotekey1="REFPTID" service="DOC-ID">[r 6.3]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-12" remotekey1="REFPTID" service="DOC-ID">[r 6.12]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-13" remotekey1="REFPTID" service="DOC-ID">[r 6.13]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Statement of claim &#x2014; proceedings wrongly commenced&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-5" remotekey1="REFPTID" service="DOC-ID">[r 6.5]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Stay of claim for liquidated demand&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-17-5" remotekey1="REFPTID" service="DOC-ID">[6.17.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-17-10" remotekey1="REFPTID" service="DOC-ID">[6.17.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Statement of the relief claimed&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-12-5" remotekey1="REFPTID" service="DOC-ID">[6.12.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Submission to orders &#x201c;save as to costs&#x201d;&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-11-10" remotekey1="REFPTID" service="DOC-ID">[6.11.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Submitting appearances&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-9-10" remotekey1="REFPTID" service="DOC-ID">[6.9.10]</remotelink>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-11" remotekey1="REFPTID" service="DOC-ID">[r 6.11]</remotelink></ci:content></ci:cite>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-11-5" remotekey1="REFPTID" service="DOC-ID">[6.11.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Substitution&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-32-10" remotekey1="REFPTID" service="DOC-ID">[6.32.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Substitution of parties&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-80" remotekey1="REFPTID" service="DOC-ID">[6.24.80]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Such order as the court thinks fit&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-22-10" remotekey1="REFPTID" service="DOC-ID">[6.22.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Summons &#x2014; formalities&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-4" remotekey1="REFPTID" service="DOC-ID">[r 6.4]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-12" remotekey1="REFPTID" service="DOC-ID">[r 6.12]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-14" remotekey1="REFPTID" service="DOC-ID">[r 6.14]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Summons &#x2014; proceedings wrongly commenced&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-6" remotekey1="REFPTID" service="DOC-ID">[r 6.6]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Time for making application&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-24-85" remotekey1="REFPTID" service="DOC-ID">[6.24.85]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.6-29-10" remotekey1="REFPTID" service="DOC-ID">[6.29.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Timing of service&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-8-17" remotekey1="REFPTID" service="DOC-ID">[6.8.17]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Unconditional appearances&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-9-15" remotekey1="REFPTID" service="DOC-ID">[6.9.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Unliquidated claims &#x2014; examples&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-3-25" remotekey1="REFPTID" service="DOC-ID">[6.3.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Withdrawal of submitting appearance &#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.6-11-7" remotekey1="REFPTID" service="DOC-ID">[6.11.7]</remotelink></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.PT6.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 GENERAL [rr 6.1, 6.1A]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT6.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">GENERAL [rr 6.1, 6.1A]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R6-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 6.1] r 6.1 No step without originating process or notice of appearance (cf SCR Part 11, rule 2)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R6-1" type="ext"/>[r 6.1]</edpnum><title searchtype="RUL-TITLE">No step without originating process or notice of appearance (cf SCR Part 11, rule 2)</title><desig searchtype="RUL-NUM"><designum>6.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R6-1.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R6-1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except by leave of the court, a party may not take any step in proceedings, including any appearance in court, unless the party has filed a statement of claim or summons in the proceedings or has entered an appearance in the proceedings.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Amendment 7 of 2006  r 2 and Sch 1[1], effective 10 March 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R6-1.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R6-1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subrule (1) does not apply to:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R6-1.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R6-1.2.A" type="ext"/>(a)</lilabel>
+<p><text>a defendant who applies for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R12.11" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 12.11</remotelink></ci:content></ci:cite>
+ (Setting aside originating process etc), or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R6-1.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R6-1.2.B" type="ext"/>(b)</lilabel>
+<p><text>a plaintiff who applies for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R25.2" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 25.2</remotelink></ci:content></ci:cite>
+ (Order in urgent case before commencement of proceedings), or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R6-1.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R6-1.2.C" type="ext"/>(c)</lilabel>
+<p><text>a defendant who makes an application in relation to the setting aside or enforcement of any judgment.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  subst ; Amendment 7 of 2006  r 2 and Sch 1[2],effective 10 March 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R6-1.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R6-1.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings, a person (not being a party and not having filed a notice of motion) may not take any step in the proceedings (including any appearance in court) unless he or she has filed a notice of address for service.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  subst ; Amendment 7 of 2006  r 2 and Sch 1[3], effective 10 March 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT6.R1.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.6-1-5" leveltype="para0" subdoc="true" toc-caption="[6.1.5] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.6-1-5" type="ext"/>[6.1.5] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved forms are:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Statement of Claim: 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130040" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 3A</remotelink>
+ (where the filing party is legally represented) and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130060" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 3B</remotelink>
+ (where the filing party is acting in person or by authorised officer).</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Summons: 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130080" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 4A</remotelink>
+ (where the filing party is legally represented) and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130100" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 4B</remotelink>
+ (where the filing party is acting in person or by authorised officer).</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Notice of Appearance: 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130140" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 6</remotelink>
+.</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.6-1-10" leveltype="para0" subdoc="true" toc-caption="[6.1.10] Leave to proceed">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [6.1.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 14.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 25.2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.6-1-10" type="ext"/>[6.1.10] </edpnum><title>Leave to proceed</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The &#x201c;except by leave&#x201d; qualification to which the rule is subject obviously contemplates that leave applications may be made before filing either initiating process or an appearance. And, despite the absence of any express qualification in subrule 6.1(3), the present rule does not prevent the court from exercising its general power to dispense with the requirements of the rules in appropriate cases: see under CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S14" remotekey1="REFPTID" service="DOC-ID">s 14</remotelink></ci:content></ci:cite>
+. Appropriate circumstances to justify the exercise of either discretion will exist if the contemplated &#x201c;step&#x201d; in the proceedings involves either urgency or pedestrian formality, and the desirable regularity of procedure intended by the rule can otherwise be appropriately obtained. Consistent with that generality, it is relatively common for the court, particularly in urgent cases, to accept an undertaking to file an appearance within a limited time and, upon such an undertaking, grant leave to a defendant to take steps in the proceedings. Sub-rule 6.1(2) expressly excludes the present rule from applying to applications to set aside either originating process or judgments, or to applications for urgent relief under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R25-2" remotekey1="REFPTID" service="DOC-ID">r 25.2</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R6-1A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 6.1A] r 6.1A Proceedings that do not require a defendant (cf SCR Part 58, rule 1, Part 70, rule 11, Part 73, rule 4 and Schedule J)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R6-1A" type="ext"/>[r 6.1A]</edpnum><title searchtype="RUL-TITLE">Proceedings that do not require a defendant (cf SCR Part 58, rule 1, Part 70, rule 11, Part 73, rule 4 and Schedule J)</title><desig searchtype="RUL-NUM"><designum>6.1A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court otherwise orders, proceedings that may be commenced without joining any person as a defendant include the following:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R6-1A..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R6-1A..A" type="ext"/>(a)</lilabel>
+<p><text>proceedings under the Adoption Act 2000,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R6-1A..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R6-1A..B" type="ext"/>(b)</lilabel>
+<p><text>proceedings under section 33 of the Evidence on Commission Act 1995,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R6-1A..C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R6-1A..C" type="ext"/>(c)</lilabel>
+<p><text>proceedings under the Jury Act 1977,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R6-1A..D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R6-1A..D" type="ext"/>(d)</lilabel>
+<p><text>proceedings under section 17 of the Witness Protection Act 1995,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R6-1A..E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R6-1A..E" type="ext"/>(e)</lilabel>
+<p><text>proceedings under rule 55.9.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 6.1A  insrt Amendment 17 of 2007 r 2 and Sch 1[1], effective 5 October 2007]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT6.R1A.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.6-1A-5" leveltype="para0" subdoc="true" toc-caption="[6.1A.5] Commencement of proceedings">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [6.1A.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> UCPR r 52.1, UCPR r 55.9, UCPR r 56.2.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-26" remotekey1="REFPTID" service="DOC-ID">Evidence on Commission Act 1995</remotelink> s 33.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1925-14" remotekey1="REFPTID" service="DOC-ID">Trustee Act 1925</remotelink>.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2000-75" remotekey1="REFPTID" service="DOC-ID">Adoption Act 2000</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.6-1A-5" type="ext"/>[6.1A.5] </edpnum><title>Commencement of proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Other provisions of the rules may apply to proceedings to which the present rule applies: see also 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R52-1" remotekey1="REFPTID" service="DOC-ID">UCPR r 52.1</remotelink></ci:content></ci:cite>
+ for procedure under Evidence on Commission Act 1995 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ECA95.S33" remotekey1="REFPTID" service="DOC-ID" status="unval">s 33</remotelink></ci:content></ci:cite>
+; 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R55.9" remotekey1="REFPTID" service="DOC-ID" status="unval">UCPR r 55.9</remotelink></ci:content></ci:cite>
+ for cases where proceedings are required for payment into court under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.TAN" remotekey1="REFPTID" service="DOC-ID">Trustee Act 1925</remotelink></ci:content></ci:cite>
+; 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R56-2" remotekey1="REFPTID" service="DOC-ID">UCPR r 56.2</remotelink></ci:content></ci:cite>
+ for commencement of proceedings under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.AAN00" remotekey1="REFPTID" service="DOC-ID" status="unval">Adoption Act 2000</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>The present rule is inclusive. Other proceedings may be permissible even though they do not name an identified entity as a defendant to the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2008"/></ci:caseinfo><ci:caseref ID="cr000494" spanref="cr000494-001"><ci:reporter value="ALR"/><ci:volume num="251"/><ci:page num="479"/></ci:caseref><ci:caseref ID="cr000495" spanref="cr000495-002" status="unval"><ci:reporter value="FLR"/><ci:volume num="232"/><ci:page num="37"/></ci:caseref><ci:caseref ID="cr000496" spanref="cr000496-003" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200809816"/></ci:caseref><ci:caseref anaphref="cr000496" spanref="cr000496-004" status="unval"><ci:pinpoint num="143" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">International Finance Trust Co Ltd v NSW Crime Commission</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000494-001">(2008) 251 ALR 479</ci:span>; <ci:span spanid="cr000495-002" status="unval">232 FLR 37</ci:span>; [2008] NSWCA 291; <ci:span spanid="cr000496-003" status="unval"> BC200809816</ci:span> <ci:span spanid="cr000496-004" status="unval">at [143]</ci:span></citefragment> <remotelink dpsi="0018" refpt="465674" remotekey1="REFPTID" service="DOC-ID" status="unval"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (proceedings under the Criminal Assets Recovery Act 1900 (NSW) &#x2014; the proceedings had a statutory &#x201c;in rem&#x201d; effect against the property concerned and were properly brought). </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

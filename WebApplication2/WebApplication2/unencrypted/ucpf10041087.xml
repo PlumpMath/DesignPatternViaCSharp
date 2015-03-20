@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="leg-inst" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[451,570] Form 26A Subpoena to produce with subpoena notice and declaration</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPF.451570</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Forms</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE FORMS</title></heading><docinfo:hierlev role="me"><heading><title>[451,570] Form 26A Subpoena to produce with subpoena notice and declaration</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>150020290</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPF"/><docinfo:metaitem name="parent-filename" value="ucpf.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPF.SGM_UCPN.UCPF.FORMGROUP"/><docinfo:metaitem name="parent-filename" value="ucpf1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>legislation</docinfo:selector><docinfo:load-date><date day="15" month="11" year="2011">15 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode><docinfo:topiccode>#PA#BUSM#</docinfo:topiccode><docinfo:topiccode>#PA#PINM#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE FORMS</leg:officialname></leg:info><leg:level id="UCPN.UCPF.FORMGROUP.BODY"><leg:level-vrnt leveltype="forms" searchtype="LEGISLATION FORMS"><leg:levelbody>
+<leg:level id="UCPN.UCPF.451570"><leg:level-vrnt leveltype="form" searchtype="LEGISLATION FORM" subdoc="false" toc-caption="[451,570] Form 26A Subpoena to produce with subpoena notice and declaration">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><edpnum><refpt id="UCPN.UCPF.451570" type="ext"/>[451,570]</edpnum><desig searchtype="FORM-NUM"><designum>Form 26A</designum></desig><title searchtype="FORM-TITLE">Subpoena to produce with subpoena notice and declaration</title><leg:empleg>UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R33-3" remotekey1="REFPTID" service="DOC-ID">r 33.3</remotelink></leg:empleg></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>
+<link filename="g451570.doc" type="wordprocess">Click here to access Microsoft® Word Document g451570.doc</link>
+</text></p>
+<form>
+<bodytext searchtype="FORM">
+<p><text>Form 26A (version 2) UCPR 33.3</text></p><h align="center">SUBPOENA TO PRODUCE with SUBPOENA NOTICE AND DECLARATION</h>
+<table colsep="0" rowsep="0">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="619*"/>
+<colspec colname="col2" colnum="2" colwidth="395*"/>
+<tbody>
+<row><entry nameend="col2" namest="col1" valign="top">  <emph typestyle="bf">COURT DETAILS</emph>
+ </entry></row>
+<row><entry colname="col1" valign="top">  Court
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  #Division
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  #List
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  Registry
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  Case number
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry nameend="col2" namest="col1" valign="top">  <emph typestyle="bf">TITLE OF PROCEEDINGS</emph>
+ </entry></row>
+<row><entry colname="col1" valign="top">  [First] plaintiff
+ </entry><entry colname="col2" valign="top">  <emph typestyle="bf">[name]</emph>
+ </entry></row>
+<row><entry colname="col1" valign="top">  #Second plaintiff #Number of plaintiffs (if more than two)
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">   
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  [First] defendant
+ </entry><entry colname="col2" valign="top">  <emph typestyle="bf">[name]</emph>
+ </entry></row>
+<row><entry colname="col1" valign="top">  #Second defendant #Number of defendants (if more than two)
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry nameend="col2" namest="col1" valign="top">  <emph typestyle="bf">ISSUING DETAILS</emph>
+ </entry></row>
+<row><entry colname="col1" valign="top">  Issued at request of
+ </entry><entry colname="col2" valign="top">  <emph typestyle="bf">[name]</emph> [role of party eg plaintiff]
+ </entry></row>
+<row><entry colname="col1" valign="top">  #Legal representative
+ </entry><entry colname="col2" valign="top">  [solicitor on record] [firm]
+ </entry></row>
+<row><entry colname="col1" valign="top">  #Legal representative reference
+ </entry><entry colname="col2" valign="top">  [reference number]
+ </entry></row>
+<row><entry colname="col1" valign="top">  Contact name and telephone
+ </entry><entry colname="col2" valign="top">  [name] [telephone]
+ </entry></row>
+<row><entry colname="col1" valign="top">  #Contact email
+ </entry><entry colname="col2" valign="top">  [email address]
+ </entry></row>
+<row><entry colname="col1" valign="top">  Address for service
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry nameend="col2" namest="col1" valign="top">  <emph typestyle="bf">ORDER TO THE SUBPOENA RECIPIENT</emph>
+ </entry></row>
+<row><entry colname="col1" valign="top">  Name
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  Address
+ </entry><entry colname="col2" valign="top">   
+ </entry></row></tbody></tgroup></table>
+<p><text>You are ordered to produce this subpoena or a copy of it and the documents or things specified in the Schedule to the court.</text></p>
+<p><text><emph typestyle="bf">Note:</emph> The person to whom this subpoena is addressed to is the &quot;addressee&quot; defined in UCPR 33.1(1) and is referred to in this document as the &quot;subpoena recipient&quot;.</text></p>
+<table colsep="0" rowsep="0">
+<tgroup cols="1" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="619*"/>
+<tbody>
+<row><entry colname="col1" valign="top">  
+ #<emph typestyle="bf">PROPOSED ACCESS ORDER</emph>
+ </entry></row></tbody></tgroup></table>
+<p><text>[This section to be completed by the issuing party if the Court issuing the subpoena requires a proposed access order to be specified.  The court will make the default access order appropriate for the jurisdiction unless you state the proposed access order for the subpoenaed material and accompanying reasons for that order.] </text></p>
+<p><text>#[Role of party eg Plaintiff] to have first access for
+[number of days eg 7] days because [#that party may be entitled to claim privilege #specify other reasons]; thereafter, in the absence of further application, access to all parties.</text></p>
+<p><text>#Access granted to all parties, because [#no claims for privilege are likely to arise #specify other reasons].</text></p>
+<p><text>#[Specify proposed alternative access order with reason/s.]</text></p>
+<table colsep="0" rowsep="0">
+<tgroup cols="1" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="619*"/>
+<tbody>
+<row><entry colname="col1" valign="top">  <emph typestyle="bf">NOTICE TO THE SUBPOENA RECIPIENT</emph>
+ </entry></row></tbody></tgroup></table>
+<p><text>1                 
+ Failure to comply with this subpoena without lawful excuse is a contempt of court and may result in your arrest.</text></p>
+<p><text>2                 
+ The last day for service of this subpoena is [date] (see note 1).</text></p>
+<p><text>[Note: date must be 5 days before the earliest date on which the addressee is required to comply with the subpoena or an earlier or later date fixed by the court (UCPR 33.3), unless the subpoena is to be served outside NSW, but in Australia.]</text></p>
+<p><text>3                 
+ Please read notes 1 to 15 included in this document.</text></p>
+<p><text>4                 
+ You must complete the Declaration appearing on the last page of this document and attach it to the subpoena or copy of the subpoena that accompanies the documents or things produced to the Court under the subpoena.</text></p>
+<p><text>Any enquiries concerning compliance with the subpoena should be directed to the Contact person named above.</text></p>
+<table colsep="0" rowsep="0">
+<tgroup cols="1" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="619*"/>
+<tbody>
+<row><entry colname="col1" valign="top">  <emph typestyle="bf">HOW TO RESPOND</emph>
+ </entry></row></tbody></tgroup></table>
+<p><text>You must comply with this subpoena:</text></p>
+<p><text>·                            
+ by attending to produce this subpoena or a copy of it and the documents or things specified in the Schedule below to the address below at the time, date and place specified for production, or</text></p>
+<p><text>·                            
+ by delivering or sending this subpoena or a copy of it and the documents or things specified in the Schedule below to the address below so that they are received not less than 2 clear days before the date specified for production.  (See notes 5 &#x2013; 9.)</text></p>
+<table>
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="619*"/>
+<colspec colname="col2" colnum="2" colwidth="395*"/>
+<tbody>
+<row><entry nameend="col2" namest="col1" valign="top">  <emph typestyle="bf">DATE TIME AND PLACE AT WHICH YOU MUST ATTEND TO PRODUCE THE SUBPOENA OR A COPY OF IT AND DOCUMENTS OR THINGS</emph>
+ </entry></row>
+<row><entry colname="col1" valign="top">  Date
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  Time
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  Place
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry nameend="col2" namest="col1" valign="top">  <emph typestyle="bf">ADDRESS TO WHICH THE SUBPOENA (OR COPY) AND DOCUMENTS OR THINGS MAY BE DELIVERED OR POSTED</emph>
+ </entry></row></tbody></tgroup></table>
+<p><text>[insert registry address]</text></p>
+<table colsep="0" rowsep="0">
+<tgroup cols="1" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="619*"/>
+<tbody>
+<row><entry colname="col1" valign="top">  <emph typestyle="bf">SCHEDULE</emph>
+ </entry></row></tbody></tgroup></table>
+<p><text>The documents or things you must produce are as follows:</text></p>
+<p><text>[List the documents or things.  Attach another sheet if there is insufficient space.  You may specify whether and what electronic form of document production is acceptable.]</text></p>
+<p><text>[on separate page]</text></p>
+<table colsep="0" rowsep="0">
+<tgroup cols="1" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="619*"/>
+<tbody>
+<row><entry colname="col1" valign="top">  <emph typestyle="bf">NOTES</emph>
+ </entry></row></tbody></tgroup></table><h align="left">Last day for service</h>
+<p><text>1                 
+ You need not comply with the subpoena unless it is served on you on or before the date specified in the subpoena as the last date for serving the subpoena.</text></p><h align="left">Informal service</h>
+<p><text>2                 
+ Even if this subpoena has not been served personally on you in accordance with the rules, you must, nevertheless, comply with its requirements, if you have, by the last date for service of the subpoena, actual knowledge of the subpoena and of its requirements.</text></p><h align="left">Addressee a corporation</h>
+<p><text>3                 
+ If the subpoena is addressed to a corporation, the corporation must comply with the subpoena by its appropriate or proper officer.</text></p><h align="left">Conduct money</h>
+<p><text>4                 
+ You need not comply with the subpoena in so far as it requires you to attend to give evidence unless conduct money sufficient to meet your reasonable expenses of attending as required by the subpoena is handed or tendered to you a reasonable time before the date on which your attendance is required.</text></p><h align="left">Production of subpoena or copy of it and documents or things by delivery or post</h>
+<p><text>5                 
+ In so far as this subpoena requires production of the subpoena or a copy of it and a document or thing, instead of attending to produce the subpoena or a copy of it and the document or thing, you may comply with the subpoena <emph typestyle="un">by delivering or sending the subpoena or a copy of it and the document or thing</emph> to the Registrar at the address specified in the subpoena for the purpose, or if more than one address is so specified, to any one of those addresses, so that they are received not less than 2 clear days before the date specified in the subpoena for attendance and production.</text></p>
+<p><text>6                 
+ If you object to a document or thing produced in response to this subpoena being inspected by a party to the proceeding or any other person, you must, at the time of production, notify the registrar in writing of your objection and of the grounds of your objection.</text></p>
+<p><text>7                 
+ Unless the court otherwise orders, if you do not object to a document or thing produced by you in response to the subpoena being inspected by any party to the proceeding, the registrar may permit the parties to the proceeding to inspect the document or thing.</text></p><h align="left">Production of a number of documents or things</h>
+<p><text>8                 
+ If you produce more than one document or thing, you must, if requested by the registrar, produce a list of the documents or things produced.</text></p><h align="left">Production of copy instead of original</h>
+<p><text>9                 
+ If the subpoena requires you to produce a document, you may produce a copy of the document unless the subpoena specifically requires you to produce the original.</text></p>
+<p><text>9A           The copy of a document may be:</text></p>
+<p><text>(a)           a photocopy; or</text></p>
+<p><text>(b)           in any electronic form that the issuing party has indicated will be acceptable.</text></p>
+<p><text>10               
+<emph typestyle="un">You must complete the Declaration appearing on the last page of this document and attach it to the subpoena or copy of the subpoena that accompanies the documents or things produced to the Court under the subpoena.</emph></text></p>
+<p><text>11               
+ If you declare that the material you produce is copies of documents, the Registrar may, without further notice to you, destroy the copies after the expiry of a period of four months from the conclusion of the proceeding or, if the documents become exhibits in the proceeding, when they are no longer required in connection with the proceeding, including on any appeal.</text></p>
+<p><text>12               
+ If the material you produce to the Court is or includes any original document, the Court will return all of the material to you at the address specified by you in the Declaration below.</text></p><h align="left">Applications in relation to subpoena</h>
+<p><text>13               
+ You have the right to apply to the Court:</text></p>
+<p><text>(a)              
+ for an order setting aside the subpoena (or a part of it) or for relief in respect of the subpoena, and</text></p>
+<p><text>(b)              
+ for an order with respect to your claim for privilege, public interest immunity or confidentiality in relation to any document or thing the subject of the subpoena.</text></p><h align="left">Loss or expense of compliance</h>
+<p><text>14               
+ If you are not a party to the proceeding, you may apply to the court for an order that the issuing party pay an amount (in addition to conduct money and any witness&#x2019;s expenses) in respect of the loss or expense, including legal costs, reasonably incurred in complying with the subpoena.</text></p><h align="left">Failure to comply with subpoena&#x2014;arrest</h>
+<p><text>15               
+ Failure to comply with a subpoena without lawful excuse:</text></p>
+<p><text>(a)              
+ is a contempt of court and may be dealt with accordingly.</text></p>
+<p><text>(b)              
+ may lead to your arrest under section 97 Civil Procedure Act or under rules of the court to enforce compliance with a subpoena.</text></p>
+<p><text>[on separate page]</text></p>
+<table colsep="0" rowsep="0">
+<tgroup cols="1" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="619*"/>
+<tbody>
+<row><entry colname="col1" valign="top">  <emph typestyle="bf">DECLARATION BY SUBPOENA RECIPIENT</emph>
+ </entry></row></tbody></tgroup></table>
+<p><text>[tick the relevant option below, (provide your address as appropriate), sign and date] </text></p>
+<p><text><emph typestyle="bf">All</emph> of the material I am providing to the Court in compliance with the attached subpoena is copies of documents. I acknowledge that the Court will destroy the copies once they are no longer required, without further notice to me.</text></p>
+<p><text><emph typestyle="bf">Some or all</emph> of the material I am providing to the Court in compliance with the attached subpoena is an <emph typestyle="bf">original</emph> document. Once the material is no longer required, all of the material should be returned to me at the following address:</text></p>
+<p><text> </text></p>
+<table colsep="0" rowsep="0">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colnum="1" colwidth="243*"/>
+<colspec colname="col2" colnum="2" colwidth="376*"/>
+<tbody>
+<row><entry colname="col1" valign="top">  Address at which produced items should be returned (if applicable)
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">   
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">   
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">   
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">   
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  Signature of subpoena recipient
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  Name of subpoena recipient
+ </entry><entry colname="col2" valign="top">   
+ </entry></row>
+<row><entry colname="col1" valign="top">  Date of signature
+ </entry><entry colname="col2" valign="top">   
+ </entry></row></tbody></tgroup></table>
+<p><text> </text></p></bodytext></form>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

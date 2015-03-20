@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1.1 FORMAL MATTERS [ss 1&#x2013;3]</docinfo:doc-heading><docinfo:doc-id>UCPN.EA.EAN95.C1.PT1-1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Evidence</title></heading><docinfo:hierlev role="ancestor"><heading><title>EVIDENCE ACT 1995 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>CHAPTER 1  PRELIMINARY [ss 1&#x2013;11]</title></heading><docinfo:hierlev role="me"><heading><title>PART 1.1 FORMAL MATTERS [ss 1&#x2013;3]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110000000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.EA"/><docinfo:metaitem name="parent-filename" value="ea.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_EA.SGM_UCPN.EA.EAN95"/><docinfo:metaitem name="parent-filename" value="ea1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">EVIDENCE ACT 1995 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1995</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 25, 1995</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Evidence Act 1995 No 25 was assented to on 19 June 1995. Part 1.1 and the Dictionary commenced on assent, the remainder on 1 September 1995. Since that date the Act has been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1995 No 99</entry><entry colname="c2">21 December 1995</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1997 No 55</entry><entry colname="c2">2 July 1997</entry><entry colname="c3">1 August 1997</entry></row>
+<row><entry colname="c1">Evidence Amendment (Confidential Communications) Act 1997 No 122</entry><entry colname="c2">12 December 1997</entry><entry colname="c3">1 January 1998</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1998 No 54</entry><entry colname="c2">30 June 1998</entry><entry colname="c3">30 June 1998</entry></row>
+<row><entry colname="c1">Children and Young Persons Legislation (Repeal and Amendment) Act 1998 No 158</entry><entry colname="c2">14 December 1998</entry><entry colname="c3">9 December 2011</entry></row>
+<row><entry colname="c1">Criminal Procedure Amendment (Sexual Assault Communications Privilege) Act 1999 No 48 </entry><entry colname="c2">1 November 1999</entry><entry colname="c3">5 November 1999</entry></row>
+<row><entry colname="c1">Crimes Legislation Amendment (Sentencing) Act 1999 No 94</entry><entry colname="c2">8 December 1999</entry><entry colname="c3">Sch 4.70: 1 January 2000; Sch 4.21: 25 February 2000</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2000 No 53</entry><entry colname="c2">29 June 2000</entry><entry colname="c3">29 June 2000</entry></row>
+<row><entry colname="c1">Corporations (Consequential Amendments) Act 2001 No 34</entry><entry colname="c2">28 June 2001</entry><entry colname="c3">Sch 4: 15 July 2001</entry></row>
+<row><entry colname="c1">Evidence Legislation Amendment Act 2001 No 109</entry><entry colname="c2">14 December 2001</entry><entry colname="c3">26 July 2002 (Gaz 122 of 26 July 2002 p 5541)</entry></row>
+<row><entry colname="c1">Miscellaneous Acts Amendment (Relationships) Act 2002 No 73</entry><entry colname="c2">1 October 2002</entry><entry colname="c3">1 November 2002 (Gaz 201 of 1 November 2002 p 9302)</entry></row>
+<row><entry colname="c1">Justices Legislation Repeal and Amendment Act 2001 No 121</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">7 July 2003 (Gaz 104 of 27 June 2003 p 5978)</entry></row>
+<row><entry colname="c1">Criminal Procedure Further Amendment (Evidence) Act 2005 No 25 </entry><entry colname="c2">31 May 2005</entry><entry colname="c3">12 August 2005 (Gaz 102 of 12 August 2005 p 4309)</entry></row>
+<row><entry colname="c1">Evidence Amendment Act 2007 No 46</entry><entry colname="c2">1 November 2007</entry><entry colname="c3">1 January 2009 (Gaz 158 of 19 December 2008 p 12305)</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 2: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">Evidence Amendment Act 2010 No 69</entry><entry colname="c2">28 September 2010</entry><entry colname="c3">14 January 2011 (LW 14 January 2011)</entry></row>
+<row><entry colname="c1">Evidence Amendment (Journalist Privilege) Act 2011 No 18</entry><entry colname="c2">21 June 2011</entry><entry colname="c3">21 June 2011</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+<leg:comntry><heading><title>TRANSITIONAL INFORMATION</title></heading><level id="UCPN_EA.SGM_UCPN.EA.50000" leveltype="para0" subdoc="true" toc-caption="[50,000] Transitional and other provisions">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,000] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-27" remotekey1="REFPTID" service="DOC-ID">Evidence (Consequential and Other Provisions) Act 1995</remotelink>.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> Sch 2 Pt 2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50000" type="ext"/>[50,000] </edpnum><title>Transitional and other provisions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EVCO" remotekey1="REFPTID" service="DOC-ID" status="unval">Evidence (Consequential and Other Provisions) Act 1995 (NSW)</remotelink></ci:content></ci:cite>
+ No 27 of 1995 effected transitional and other provisions relating to the Evidence Act 1995. These transitional provisions have now been inserted in the Evidence Act 1995 at 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.SCH2.PT2" remotekey1="REFPTID" service="DOC-ID">Sch 2 Pt 2</remotelink></ci:content></ci:cite>
+ by the Evidence Amendment Act 2007 No 46 (s 3 and Sch 2[79]), commencing 1 January 2009. They are now reproduced at p 50,907.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:prelim>
+<leg:level id="UCPN.EA.EAN95.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.EA.EAN95" type="ext"/>EVIDENCE ACT 1995 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>The Legislature of New South Wales enacts:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.EA.EAN95.C1"><leg:level-vrnt leveltype="chapter" searchtype="LEGISLATION CHAPTER" subdoc="false" toc-caption="CHAPTER 1  PRELIMINARY [ss 1&#x2013;11]">
+<leg:heading><desig searchtype="CHAP-NUM"><designum><refpt id="UCPN.EA.EAN95.C1" type="ext"/>CHAPTER 1</designum></desig><title searchtype="CHAP-TITLE"> PRELIMINARY [ss 1&#x2013;11]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:heading><title>INTRODUCTORY NOTE</title></leg:heading>
+<pgrp>
+<heading><title>Outline of this Act</title></heading>
+<p>
+<text>This Act sets out the State rules of evidence. Generally speaking, the Act applies to proceedings in State courts and before other persons or bodies required to apply the laws of evidence (see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S4" remotekey1="REFPTID" service="DOC-ID">section 4</remotelink></ci:content></ci:cite>
+).</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C2" remotekey1="REFPTID" service="DOC-ID">Chapter 2</remotelink></ci:content></ci:cite>
+ is about how evidence is adduced in proceedings.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C3" remotekey1="REFPTID" service="DOC-ID">Chapter 3</remotelink></ci:content></ci:cite>
+ is about admissibility of evidence in proceedings.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C4" remotekey1="REFPTID" service="DOC-ID">Chapter 4</remotelink></ci:content></ci:cite>
+ is about proof of matters in proceedings.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C5" remotekey1="REFPTID" service="DOC-ID">Chapter 5</remotelink></ci:content></ci:cite>
+ deals with miscellaneous matters.</text></p>
+<p>
+<text>The 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1" remotekey1="REFPTID" service="DOC-ID">Dictionary</remotelink></ci:content></ci:cite>
+ at the end of this Act defines terms and expressions used in this Act.</text></p></pgrp>
+<pgrp>
+<heading><title>Related legislation</title></heading>
+<p>
+<text>This Act is in most respects uniform with the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink></ci:content></ci:cite>
+ of the Commonwealth. The 2 Acts are drafted in identical terms except so far as differences are identified by appropriate annotations to the texts, and except so far as minor drafting variations are required because one Act is a New South Wales Act and one Act is a Commonwealth Act.</text></p>
+<p>
+<text>If one Act contains a provision that is not included in the other Act, the numbering of the other Act has a gap in the numbering in order to maintain consistent numbering for the other provisions.</text></p>
+<p>
+<text>In relation to the taking of evidence outside New South Wales for the purposes of proceedings in the State and in relation to the taking of evidence in the State for the purposes of proceedings outside New South Wales see the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ECA95" remotekey1="REFPTID" service="DOC-ID" status="unval">Evidence on Commission Act 1995</remotelink></ci:content></ci:cite>
+.</text></p></pgrp>
+</leg:bodytext>
+<leg:level id="UCPN.EA.EAN95.C1.PT1-1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1.1 FORMAL MATTERS [ss 1&#x2013;3]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.EA.EAN95.C1.PT1-1" type="ext"/>PART 1.1</designum></desig><title searchtype="PART-TITLE">FORMAL MATTERS [ss 1&#x2013;3]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,005] s 1 Name of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S1" type="ext"/>[50,005]</edpnum><title searchtype="SECT-TITLE">Name of Act</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is the Evidence Act 1995.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,010] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S2" type="ext"/>[50,010]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part and the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1" remotekey1="REFPTID" service="DOC-ID">Dictionary</remotelink></ci:content></ci:cite>
+ at the end of this Act commence on the date of assent.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The remaining provisions of this Act commence on a day or days to be appointed by proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,015] s 3 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S3" type="ext"/>[50,015]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Expressions used in this Act (or in a particular provision of this Act) that are defined in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1" remotekey1="REFPTID" service="DOC-ID">Dictionary</remotelink></ci:content></ci:cite>
+ at the end of this Act have the meanings given to them in the Dictionary.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes included in this Act are explanatory notes and do not form part of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the effect of, and subject to, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S34" remotekey1="REFPTID" service="DOC-ID">section 34</remotelink></ci:content></ci:cite>
+ of the Interpretation Act 1987, material that may be used in the interpretation of a provision of this Act includes any relevant report of a Law Reform Commission laid before either House of the Parliament of the Commonwealth before the provision was enacted.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Notes:</title><desig><designum>1</designum></desig></heading>
+<p>
+<text>Some expressions used in this Act are defined in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN" remotekey1="REFPTID" service="DOC-ID">Interpretation Act 1987</remotelink></ci:content></ci:cite>
+ and have the meanings given to them in that Act.</text></p></glp:note>
+<glp:note>
+<heading><desig><designum>2</designum></desig></heading>
+<p>
+<text>The Commonwealth Act includes a different 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S3.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+. This is to the same effect as 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S6" remotekey1="REFPTID" service="DOC-ID">section 6</remotelink></ci:content></ci:cite>
+ of the Interpretation Act 1987. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S3.3" remotekey1="REFPTID" service="DOC-ID">Subsection (3)</remotelink></ci:content></ci:cite>
+ of the NSW Act is covered by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.AIA.S15AB" remotekey1="REFPTID" service="DOC-ID" status="unval">section 15AB</remotelink></ci:content></ci:cite>
+ of the Acts Interpretation Act 1901 of the Commonwealth.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

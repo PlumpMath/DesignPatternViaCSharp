@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 GENERAL PROVISIONS [ss 1&#x2013;6]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CAAN10.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>COMMERCIAL ARBITRATION ACT 2010 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 GENERAL PROVISIONS [ss 1&#x2013;6]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140050010</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CAAN10"/><docinfo:metaitem name="parent-filename" value="ol1010.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 61, 2010</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">COMMERCIAL ARBITRATION ACT 2010 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.CAAN10.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.CAAN10.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 GENERAL PROVISIONS [ss 1&#x2013;6]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CAAN10.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">GENERAL PROVISIONS [ss 1&#x2013;6]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CAAN10.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,060] s 1 Scope of application">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S1" type="ext"/>[276,060]</edpnum><title searchtype="SECT-TITLE">Scope of application</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf Model Law Art 1)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CAAN10.S1.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act applies to domestic commercial arbitrations.</text></p>
+<p><glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>The 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IAA74" remotekey1="REFPTID" service="DOC-ID" status="unval">International Arbitration Act 1974</remotelink></ci:content></ci:cite>
+ of the Commonwealth covers international commercial arbitrations and the enforcement of foreign arbitral awards.</text></p></glp:note></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S1.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Act, except 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S8" remotekey1="REFPTID" service="DOC-ID">sections 8</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S9" remotekey1="REFPTID" service="DOC-ID">9</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S17H" remotekey1="REFPTID" service="DOC-ID">17H</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S17I" remotekey1="REFPTID" service="DOC-ID">17I</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S17J" remotekey1="REFPTID" service="DOC-ID">17J</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S35" remotekey1="REFPTID" service="DOC-ID">35</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S36" remotekey1="REFPTID" service="DOC-ID">36</remotelink></ci:content></ci:cite>
+, apply only if the place of arbitration is in New South Wales.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S1.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S1.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An arbitration is <defterm><emph typestyle="bf">domestic</emph></defterm> if:</text></p>
+<l><li id="UCPN.OL.CAAN10.S1.3.A"><lilabel><refpt id="UCPN.OL.CAAN10.S1.3.A" type="ext"/>(a)</lilabel>
+<p><text>the parties to an arbitration agreement have, at the time of the conclusion of that agreement, their places of business in Australia, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S1.3.B"><lilabel><refpt id="UCPN.OL.CAAN10.S1.3.B" type="ext"/>(b)</lilabel>
+<p><text>the parties have (whether in the arbitration agreement or in any other document in writing) agreed that any dispute that has arisen or may arise between them is to be settled by arbitration, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S1.3.C"><lilabel><refpt id="UCPN.OL.CAAN10.S1.3.C" type="ext"/>(c)</lilabel>
+<p><text>it is not an arbitration to which the Model Law (as given effect by the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IAA74" remotekey1="REFPTID" service="DOC-ID" status="unval">International Arbitration Act 1974</remotelink></ci:content></ci:cite>
+ of the Commonwealth) applies.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S1.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S1.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S1.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+:</text></p>
+<l><li id="UCPN.OL.CAAN10.S1.4.A"><lilabel><refpt id="UCPN.OL.CAAN10.S1.4.A" type="ext"/>(a)</lilabel>
+<p><text>if a party has more than one place of business, the place of business is that which has the closest relationship to the arbitration agreement, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S1.4.B"><lilabel><refpt id="UCPN.OL.CAAN10.S1.4.B" type="ext"/>(b)</lilabel>
+<p><text>if a party does not have a place of business, reference is to be made to the party&#x2019;s habitual residence.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S1.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S1.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect any other Act by virtue of which certain disputes may not be submitted to arbitration or may be submitted to arbitration only according to provisions other than those of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S1.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S1.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S1.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+, this Act applies to arbitrations provided for in any other Act as if:</text></p>
+<l><li id="UCPN.OL.CAAN10.S1.6.A"><lilabel><refpt id="UCPN.OL.CAAN10.S1.6.A" type="ext"/>(a)</lilabel>
+<p><text>the other Act were an arbitration agreement, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S1.6.B"><lilabel><refpt id="UCPN.OL.CAAN10.S1.6.B" type="ext"/>(b)</lilabel>
+<p><text>the arbitration were pursuant to an arbitration agreement, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S1.6.C"><lilabel><refpt id="UCPN.OL.CAAN10.S1.6.C" type="ext"/>(c)</lilabel>
+<p><text>the parties to the dispute which, by virtue of the other Act, is referred to arbitration were the parties to the arbitration agreement,</text></p>
+</li>
+</l>
+<p><text>except in so far as the other Act otherwise indicates or requires.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Model Law note.</title></heading>
+<p>
+<text>The term &#x201c;commercial&#x201d; should be given a wide interpretation so as to cover matters arising from all relationships of a commercial nature, whether contractual or not. Relationships of a commercial nature include, but are not limited to, the following transactions: any trade transaction for the supply or exchange of goods or services; distribution agreement; commercial representation or agency; factoring; leasing; construction of works; consulting; engineering; licensing; investment; financing; banking; insurance; exploitation agreement or concession; joint venture and other forms of industrial or business co-operation; carriage of goods or passengers by air, sea, rail or road.</text></p></glp:note>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>This section differs from the Model Law to the extent necessary to apply Art 1 as incorporated in this Act to domestic commercial arbitrations. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S40" remotekey1="REFPTID" service="DOC-ID">Section 40</remotelink></ci:content></ci:cite>
+ contains provisions that also relate to the application of this Act.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,065] s 2 Definitions and rules of interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S2" type="ext"/>[276,065]</edpnum><title searchtype="SECT-TITLE">Definitions and rules of interpretation</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf Model Law Art 2)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CAAN10.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act:</text></p>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.ARBITRAL-TRIBUNAL"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.ARBITRAL-TRIBUNAL" type="ext"/><emph typestyle="bf">arbitral tribunal</emph></defterm><defdesc>
+<p><text>means a sole arbitrator or a panel of arbitrators.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.ARBITRATION"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.ARBITRATION" type="ext"/><emph typestyle="bf">arbitration</emph></defterm><defdesc>
+<p><text>means any domestic commercial arbitration whether or not administered by a permanent arbitral institution.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.ARBITRATION-AGREEMENT"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.ARBITRATION-AGREEMENT" type="ext"/><emph typestyle="bf">arbitration agreement</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S7" remotekey1="REFPTID" service="DOC-ID">section 7</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION" type="ext"/><emph typestyle="bf">confidential information</emph></defterm><defdesc>
+<p><text>, in relation to arbitral proceedings, means information that relates to the arbitral proceedings or to an award made in those proceedings and includes the following:</text></p>
+<l><li id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.A"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.A" type="ext"/>(a)</lilabel>
+<p><text>the statement of claim, statement of defence and all other pleadings, submissions, statements or other information supplied to the arbitral tribunal by a party,</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.B"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.B" type="ext"/>(b)</lilabel>
+<p><text>any information supplied by a party to another party in compliance with a direction of the arbitral tribunal,</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.C"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.C" type="ext"/>(c)</lilabel>
+<p><text>any evidence (whether documentary or otherwise) supplied to the arbitral tribunal,</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.D"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.D" type="ext"/>(d)</lilabel>
+<p><text>any notes made by the arbitral tribunal of oral evidence or submissions given before the arbitral tribunal,</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.E"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.E" type="ext"/>(e)</lilabel>
+<p><text>any transcript of oral evidence or submissions given before the arbitral tribunal,</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.F"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.F" type="ext"/>(f)</lilabel>
+<p><text>any rulings of the arbitral tribunal,</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.G"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.CONFIDENTIAL-INFORMATION.G" type="ext"/>(g)</lilabel>
+<p><text>any award of the arbitral tribunal.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.DISCLOSE"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.DISCLOSE" type="ext"/><emph typestyle="bf">disclose</emph></defterm><defdesc>
+<p><text>, in relation to confidential information, includes publishing or communicating or otherwise supplying the confidential information.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.DOMESTIC-COMMERCIAL-ARBITRATION"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.DOMESTIC-COMMERCIAL-ARBITRATION" type="ext"/><emph typestyle="bf">domestic commercial arbitration</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S1" remotekey1="REFPTID" service="DOC-ID">section 1</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.EXERCISE"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.EXERCISE" type="ext"/><emph typestyle="bf">exercise</emph></defterm><defdesc>
+<p><text>a function includes perform a duty.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.FUNCTION"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.FUNCTION" type="ext"/><emph typestyle="bf">function</emph></defterm><defdesc>
+<p><text>includes a power, authority or duty.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.INTERIM-MEASURE"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.INTERIM-MEASURE" type="ext"/><emph typestyle="bf">interim measure</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S17" remotekey1="REFPTID" service="DOC-ID">section 17</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.MODEL-LAW"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.MODEL-LAW" type="ext"/><emph typestyle="bf">Model Law</emph></defterm><defdesc>
+<p><text>means the UNCITRAL Model Law on International Commercial Arbitration (as adopted by the United Nations Commission on International Trade Law on 21 June 1985, and as amended by the United Nations Commission on International Trade Law on 7 July 2006).</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.PARTY"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.PARTY" type="ext"/><emph typestyle="bf">party</emph></defterm><defdesc>
+<p><text>means a party to an arbitration agreement and includes:</text></p>
+<l><li id="UCPN.OL.CAAN10.S2.1.PARTY.A"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.PARTY.A" type="ext"/>(a)</lilabel>
+<p><text>any person claiming through or under a party to the arbitration agreement, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S2.1.PARTY.B"><lilabel><refpt id="UCPN.OL.CAAN10.S2.1.PARTY.B" type="ext"/>(b)</lilabel>
+<p><text>in any case where an arbitration does not involve all of the parties to the arbitration agreement, those parties to the arbitration agreement who are parties to the arbitration.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CAAN10.S2.1.THE-COURT"><defterm><refpt id="UCPN.OL.CAAN10.S2.1.THE-COURT" type="ext"/><emph typestyle="bf">the Court</emph></defterm><defdesc>
+<p><text>means, subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S6.2" remotekey1="REFPTID" service="DOC-ID">section 6(2)</remotelink></ci:content></ci:cite>
+, the Supreme Court.</text></p>
+</defdesc></defitem></deflist>
+<p><glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>The definitions of <defterm><emph typestyle="bf">arbitration agreement</emph></defterm>, <defterm><emph typestyle="bf">confidential information</emph></defterm>, <defterm><emph typestyle="bf">disclose</emph></defterm>, <defterm><emph typestyle="bf">domestic commercial arbitration</emph></defterm>, <defterm><emph typestyle="bf">exercise</emph></defterm>, <defterm><emph typestyle="bf">function</emph></defterm>, <defterm><emph typestyle="bf">interim measure</emph></defterm>, <defterm><emph typestyle="bf">Model Law</emph></defterm>, <defterm><emph typestyle="bf">party</emph></defterm> and <defterm><emph typestyle="bf">the Court</emph></defterm> are not included in the Model Law.</text></p></glp:note></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a provision of this Act, except 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S28" remotekey1="REFPTID" service="DOC-ID">section 28</remotelink></ci:content></ci:cite>
+, leaves the parties free to determine a certain issue, such freedom includes the right of the parties to authorise a third party, including an institution, to make that determination.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a provision of this Act refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules referred to in that agreement.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a provision of this Act, other than 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S25.1.A" remotekey1="REFPTID" service="DOC-ID">sections 25(1)(a)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S32.2.A" remotekey1="REFPTID" service="DOC-ID">32(2)(a)</remotelink></ci:content></ci:cite>
+, refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes (other than the Model Law note to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S1" remotekey1="REFPTID" service="DOC-ID">section 1</remotelink></ci:content></ci:cite>
+) included in this Act do not form part of this Act.</text></p>
+<p><glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>This provision is not included in the Model Law.</text></p></glp:note></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,070] s 2A International origin and general principles">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S2A" type="ext"/>[276,070]</edpnum><title searchtype="SECT-TITLE">International origin and general principles</title><desig searchtype="SECT-NUM"><designum>2A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf Model Law Art 2A)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CAAN10.S2A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S1C" remotekey1="REFPTID" service="DOC-ID">section 1C</remotelink></ci:content></ci:cite>
+, in the interpretation of this Act, regard is to be had to the need to promote so far as practicable uniformity between the application of this Act to domestic commercial arbitrations and the application of the provisions of the Model Law (as given effect by the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IAA74" remotekey1="REFPTID" service="DOC-ID" status="unval">International Arbitration Act 1974</remotelink></ci:content></ci:cite>
+ of the Commonwealth) to international commercial arbitrations and the observance of good faith.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>This section differs from the Model Law. Art 2A(1) has been changed as a consequence of the application of the Act to domestic (instead of international) commercial arbitrations. Art 2A(2) is omitted because it is covered by the provision referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S1C.4" remotekey1="REFPTID" service="DOC-ID">section 1C(4)</remotelink></ci:content></ci:cite>
+. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S2A.3" remotekey1="REFPTID" service="DOC-ID">Subsections (3)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S2A.4" remotekey1="REFPTID" service="DOC-ID">(4)</remotelink></ci:content></ci:cite>
+ reflect 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IAA74.S17" remotekey1="REFPTID" service="DOC-ID" status="unval">section 17</remotelink></ci:content></ci:cite>
+ of the International Arbitration Act 1974 of the Commonwealth.</text></p></glp:note></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S2A.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+, in interpreting this Act, reference may be made to the documents relating to the Model Law of:</text></p>
+<l><li id="UCPN.OL.CAAN10.S2A.3.A"><lilabel><refpt id="UCPN.OL.CAAN10.S2A.3.A" type="ext"/>(a)</lilabel>
+<p><text>the United Nations Commission on International Trade Law, and</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S2A.3.B"><lilabel><refpt id="UCPN.OL.CAAN10.S2A.3.B" type="ext"/>(b)</lilabel>
+<p><text>its working groups for the preparation of the Model Law.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S2A.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S2A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S2A.3" remotekey1="REFPTID" service="DOC-ID">Subsection (3)</remotelink></ci:content></ci:cite>
+ does not affect the application of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34" remotekey1="REFPTID" service="DOC-ID">section 34</remotelink></ci:content></ci:cite>
+ (Use of extrinsic material in the interpretation of Acts and statutory rules) of the Interpretation Act 1987 for the purposes of interpreting this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,075] s 3 Receipt of written communications">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S3" type="ext"/>[276,075]</edpnum><title searchtype="SECT-TITLE">Receipt of written communications</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf Model Law Art 3)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CAAN10.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless otherwise agreed by the parties:</text></p>
+<l><li id="UCPN.OL.CAAN10.S3.1.A"><lilabel><refpt id="UCPN.OL.CAAN10.S3.1.A" type="ext"/>(a)</lilabel>
+<p><text>any written communication is taken to be received if:</text></p>
+<l><li id="UCPN.OL.CAAN10.S3.1.A.I"><lilabel><refpt id="UCPN.OL.CAAN10.S3.1.A.I" type="ext"/>(i)</lilabel>
+<p><text>it is delivered to the addressee personally, or</text></p>
+</li><li id="UCPN.OL.CAAN10.S3.1.A.II"><lilabel><refpt id="UCPN.OL.CAAN10.S3.1.A.II" type="ext"/>(ii)</lilabel>
+<p><text>it is delivered at the addressee&#x2019;s place of business, habitual residence or mailing address, or</text></p>
+</li><li id="UCPN.OL.CAAN10.S3.1.A.III"><lilabel><refpt id="UCPN.OL.CAAN10.S3.1.A.III" type="ext"/>(iii)</lilabel>
+<p><text>if none of these can be found after making a reasonable inquiry, it is delivered to the addressee&#x2019;s last-known place of business, habitual residence or mailing address by registered letter or any other means which provides a record of the attempt to deliver it, and</text></p>
+</li></l></li>
+<li id="UCPN.OL.CAAN10.S3.1.B"><lilabel><refpt id="UCPN.OL.CAAN10.S3.1.B" type="ext"/>(b)</lilabel>
+<p><text>the communication is taken to have been received on the day it is so delivered.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this section do not apply to communications in court proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,080] s 4 Waiver of right to object">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S4" type="ext"/>[276,080]</edpnum><title searchtype="SECT-TITLE">Waiver of right to object</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf Model Law Art 4)</ci:content></ci:cite></text></p></glp:note>
+<p><text>A party who knows that any provision of this Act from which the parties may derogate or any requirement under the arbitration agreement has not been complied with and yet proceeds with the arbitration without stating the party&#x2019;s objection to such non-compliance without undue delay or, if a time-limit is provided for stating the party&#x2019;s objection, within such period of time, is taken to have waived the party&#x2019;s right to object.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,085] s 5 Extent of court intervention">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S5" type="ext"/>[276,085]</edpnum><title searchtype="SECT-TITLE">Extent of court intervention</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf Model Law Art 5)</ci:content></ci:cite></text></p></glp:note>
+<p><text>In matters governed by this Act, no court must intervene except where so provided by this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[276,090] s 6 Court for certain functions of arbitration assistance and supervision">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CAAN10.S6" type="ext"/>[276,090]</edpnum><title searchtype="SECT-TITLE">Court for certain functions of arbitration assistance and supervision</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf Model Law Art 6)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CAAN10.S6.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The functions referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S11.3" remotekey1="REFPTID" service="DOC-ID">sections 11(3)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S11.4" remotekey1="REFPTID" service="DOC-ID">(4)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S13.4" remotekey1="REFPTID" service="DOC-ID">13(4)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S14.2" remotekey1="REFPTID" service="DOC-ID">14(2)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S16.9" remotekey1="REFPTID" service="DOC-ID">16(9)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S17H" remotekey1="REFPTID" service="DOC-ID">17H&#x2013;17J</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S19.6" remotekey1="REFPTID" service="DOC-ID">19(6)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S27" remotekey1="REFPTID" service="DOC-ID">27&#x2013;27B</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S27H" remotekey1="REFPTID" service="DOC-ID">27H&#x2013;27J</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S33D" remotekey1="REFPTID" service="DOC-ID">33D</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34" remotekey1="REFPTID" service="DOC-ID">34</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A" remotekey1="REFPTID" service="DOC-ID">34A</remotelink></ci:content></ci:cite>
+ are, subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S6.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+, to be performed by the Supreme Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CAAN10.S6.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CAAN10.S6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.OL.CAAN10.S6.2.A"><lilabel><refpt id="UCPN.OL.CAAN10.S6.2.A" type="ext"/>(a)</lilabel>
+<p><text>an arbitration agreement provides that the District Court or Local Court is to have jurisdiction under this Act, or</text></p>
+</li>
+<li id="UCPN.OL.CAAN10.S6.2.B"><lilabel><refpt id="UCPN.OL.CAAN10.S6.2.B" type="ext"/>(b)</lilabel>
+<p><text>the parties to an arbitration agreement have agreed in writing that the District Court or Local Court is to have jurisdiction under this Act and that agreement is in force,</text></p>
+</li>
+</l>
+<p><text>the functions are to be performed, in relation to that agreement, by the District Court or Local Court, as the case requires.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>This section differs from the Model Law to the extent that it relates to functions conferred on the Court with respect to domestic commercial arbitrations that are not referred to in the Model Law.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

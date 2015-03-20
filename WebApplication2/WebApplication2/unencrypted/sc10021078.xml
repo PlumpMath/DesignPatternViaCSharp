@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 APPLICATION FOR ADMISSION [rr 1&#x2013;5]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCR70.PT65C.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT RULES </title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 65C ADMISSION AS LEGAL PRACTITIONER [rr 1&#x2013;10]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 APPLICATION FOR ADMISSION [rr 1&#x2013;5]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70010260</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCRC"/><docinfo:metaitem name="parent-filename" value="sc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT RULES </leg:officialname></leg:info><leg:level id="UCPN.SC.SCRC.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT65C"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 65C ADMISSION AS LEGAL PRACTITIONER [rr 1&#x2013;10]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.SC.SCR70.PT65C" type="ext"/>PART 65C</designum></desig><title searchtype="PART-TITLE">ADMISSION AS LEGAL PRACTITIONER [rr 1&#x2013;10]</title><leg:histnote>
+<p><text>[Pt 65C  subst Amendment 285: Gaz 83 of 24 June 1994  p 3198]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT65C.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 APPLICATION FOR ADMISSION [rr 1&#x2013;5]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCR70.PT65C.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">APPLICATION FOR ADMISSION [rr 1&#x2013;5]</title><leg:histnote>
+<p><text>[Div 1  am Amendment 309: Gaz 28 of 21 March 1997  p 1566]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT65C.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 65C r 1] r 1 Application by person approved by a Board">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT65C.R1" type="ext"/>[SCR Pt 65C r 1]</edpnum><title searchtype="RUL-TITLE">Application by person approved by a Board</title><desig searchtype="RUL-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who has been approved by:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R1..A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R1..A" type="ext"/>(a)</lilabel>
+<p><text>the former Barristers Admission Board or the former Solicitors Admission Board as a suitable candidate for admission as a barrister or as a solicitor; or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R1..B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R1..B" type="ext"/>(b)</lilabel>
+<p><text>the Legal Practitioners Admission Board as a suitable candidate for admission as a legal practitioner,</text></p>
+</li>
+</l>
+<p><text>may, unless the Court otherwise orders, apply for admission without having filed any originating process in the Court.</text></p>
+<leg:histnote>
+<p><text>[r 1  am Amendment 317: Gaz 149 of 19 December 1997  p 10205]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 65C r 2] r 2 Admission, other than of interstate applicant">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT65C.R2" type="ext"/>[SCR Pt 65C r 2]</edpnum><title searchtype="RUL-TITLE">Admission, other than of interstate applicant</title><desig searchtype="RUL-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT65C.R2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to an application for admission as a legal practitioner other than an application to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT65C.R3" remotekey1="REFPTID" service="DOC-ID">rule 3</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT65C.R4" remotekey1="REFPTID" service="DOC-ID">rule 4</remotelink></ci:content></ci:cite>
+ applies.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Amendment 317: Gaz 149 of 19 December 1997  p 10205]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Every person applying for admission as a legal practitioner shall personally attend in Court and shall on such admission:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R2.2.A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R2.2.A" type="ext"/>(a)</lilabel>
+<p><text>take the oath of office as a legal practitioner; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R2.2.B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R2.2.B" type="ext"/>(b)</lilabel>
+<p><text>sign the Roll of Legal Practitioners in the Court,</text></p>
+</li>
+</l>
+<p><text>and shall be entitled to receive a certificate bearing the seal of the Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 65C r 3] r 3 Interstate applicant, other than under the Mutual Recognition Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT65C.R3" type="ext"/>[SCR Pt 65C r 3]</edpnum><title searchtype="RUL-TITLE">Interstate applicant, other than under the Mutual Recognition Act</title><desig searchtype="RUL-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT65C.R3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to an application for admission as a legal practitioner by a person whose name is on the Roll of Barristers, the Roll of Solicitors, the Roll of Barristers and Solicitors or the Roll of Legal Practitioners of the Supreme Court of any other State or Territory of Australia.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application to which this rule applies may, at the request of the applicant, be determined or dealt with by the Court in the absence of the public and without any attendance by or on behalf of the applicant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A request under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT65C.R3.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+ may be included in the applicant's form of application for admission under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LPARN" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Practitioners Admission Rules 1994</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the applicant makes a request under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT65C.R3.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+ and the applicant is admitted, he or she shall, at the request of this Court, attend at the office of the Supreme Court of his or her State or Territory and:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R3.4.A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R3.4.A" type="ext"/>(a)</lilabel>
+<p><text>take the oath of office as a Legal Practitioner in Form 70AA, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R3.4.B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R3.4.B" type="ext"/>(b)</lilabel>
+<p><text>sign a Roll of Legal Practitioners (being a Roll kept in the office of that court for the purpose of this rule).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R3.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>When this Court has received from the other court:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R3.5.A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R3.5.A" type="ext"/>(a)</lilabel>
+<p><text>the form of oath of office duly completed; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R3.5.B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R3.5.B" type="ext"/>(b)</lilabel>
+<p><text>notification of the signing of a Roll under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT65C.R3.4.B" remotekey1="REFPTID" service="DOC-ID">subrule (4)(b)</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+</l>
+<p><text>then:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R3.5.C"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R3.5.C" type="ext"/>(c)</lilabel>
+<p><text>the Prothonotary shall enter or cause to be entered the name of the person admitted in the Roll of Legal Practitioners in this State, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R3.5.D"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R3.5.D" type="ext"/>(d)</lilabel>
+<p><text>the person admitted shall be entitled to receive a certificate bearing the seal of this Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R3.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R3.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule does not apply to proceedings commenced by notice under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MRA.S19.1" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 19(1) </remotelink></ci:content></ci:cite>
+ of the Mutual Recognition Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT79.R3.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.65C-3-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 65C.3.1] Form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.65C-3-1" type="ext"/>[SCR Pt 65C.3.1] </edpnum><title>Form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>See [454,306] for Form 70AA Oath of Office.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 65C r 4] r 4 Application under the Mutual Recognition Act or the Trans-Tasman Mutual Recognition Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT65C.R4" type="ext"/>[SCR Pt 65C r 4]</edpnum><title searchtype="RUL-TITLE">Application under the Mutual Recognition Act or the Trans-Tasman Mutual Recognition Act</title><desig searchtype="RUL-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to proceedings commenced by notice under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MRA.S19.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 19(1)</remotelink></ci:content></ci:cite>
+ of the Mutual Recognition Act or under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.QQQ.S18.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 18(1)</remotelink></ci:content></ci:cite>
+ of the Trans-Tasman Mutual Recognition Act.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  subst Amendment 319: Gaz 71 of 24 April 1998  p 2868]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notice must, unless the Court otherwise orders:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.2.A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.A" type="ext"/>(a)</lilabel>
+<p><text>be lodged by filing it in the registry at Sydney;</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.2.B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.B" type="ext"/>(b)</lilabel>
+<p><text>show the name, residential address and business address of the applicant;</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.2.C"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.C" type="ext"/>(c)</lilabel>
+<p><text>where the applicant is represented by a solicitor show:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.2.C.I"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.C.I" type="ext"/>(i)</lilabel>
+<p><text>the name, address and telephone number of the solicitor; and</text></p>
+</li><li id="UCPN.SC.SCR70.PT65C.R4.2.C.II"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.C.II" type="ext"/>(ii)</lilabel>
+<p><text>if that solicitor has another solicitor as agent in the proceedings &#x2014; the name, address and telephone number of the agent;</text></p>
+</li></l></li>
+<li id="UCPN.SC.SCR70.PT65C.R4.2.D"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.D" type="ext"/>(d)</lilabel>
+<p><text>show an address for service;</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.2.E"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.E" type="ext"/>(e)</lilabel>
+<p><text>be dated not more than 14 days before the date on which it is filed; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.2.F"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.F" type="ext"/>(f)</lilabel>
+<p><text>be accompanied by a certificate which:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.2.F.I"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.F.I" type="ext"/>(i)</lilabel>
+<p><text>evidences the existing registration which gives rise to the entitlement of the applicant to entry in the Roll of Legal Practitioners;</text></p>
+</li><li id="UCPN.SC.SCR70.PT65C.R4.2.F.II"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.F.II" type="ext"/>(ii)</lilabel>
+<p><text>is given by the proper officer:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.2.F.II.A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.F.II.A" type="ext"/>(A)</lilabel>
+<p><text>of the Supreme Court of the State or Territory where such registration occurred or, where applicable, of the High Court of New Zealand; or</text></p>
+</li><li id="UCPN.SC.SCR70.PT65C.R4.2.F.II.B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.F.II.B" type="ext"/>(B)</lilabel>
+<p><text>of a body, having functions similar to the Legal Practitioners Admission Board, of the State or Territory where such existing registration occurred or, where applicable, of New Zealand; and</text></p>
+</li></l></li><li id="UCPN.SC.SCR70.PT65C.R4.2.F.III"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.2.F.III" type="ext"/>(iii)</lilabel>
+<p><text>is dated not more than 28 days before the date on which it is filed,</text></p>
+</li></l>
+<p><text>unless the document mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MRA.S19.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 19(3)</remotelink></ci:content></ci:cite>
+ of the Mutual Recognition Act or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.QQQ.S18.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 18(3)</remotelink></ci:content></ci:cite>
+ of the Trans-Tasman Mutual Recognition Act, accompanying the notice, fulfils the requirements of this paragraph.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Amendment 317: Gaz 149 of 19 December 1997  p 10205 ; Amendment 319: Gaz 71 of 24 April 1998  p 2868]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The applicant shall, on or before the day of filing, serve the notice and accompanying documents on the Legal Practitioners Admission Board, the New South Wales Bar Association, and the Law Society of New South Wales and shall file an affidavit of service within 14 days of filing the notice.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The applicant shall:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.4.A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.4.A" type="ext"/>(a)</lilabel>
+<p><text>prior to; or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.4.B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.4.B" type="ext"/>(b)</lilabel>
+<p><text>within 14 days after,</text></p>
+</li>
+</l>
+<p><text>filing the notice attend:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.4.C"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.4.C" type="ext"/>(c)</lilabel>
+<p><text>at a registry of the Court;</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.4.D"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.4.D" type="ext"/>(d)</lilabel>
+<p><text>at the office of the Supreme Court of his or her State or Territory; or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.4.E"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.4.E" type="ext"/>(e)</lilabel>
+<p><text>where application is made under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.QQQ" remotekey1="REFPTID" service="DOC-ID" status="unval">Trans-Tasman Mutual Recognition Act</remotelink></ci:content></ci:cite>
+ &#x2014; a person in New Zealand authorised under New Zealand law to take oaths,</text></p>
+</li>
+</l>
+<p><text>and take the oath of office as a legal practitioner in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SC.SCF.F70AA" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 70AA</remotelink></ci:content></ci:cite>
+, and cause the certificate included in that Form to be completed and shall:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.4.F"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.4.F" type="ext"/>(f)</lilabel>
+<p><text>at the time of; or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.4.G"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.4.G" type="ext"/>(g)</lilabel>
+<p><text>within 14 days after</text></p>
+</li>
+</l>
+<p><text>filing the notice, file the form of oath and the certificate.</text></p>
+<leg:histnote>
+<p><text>[subr (4)  subst Amendment 319: Gaz 271 of 24 April 1998  p 2868]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R4.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Despite rule 31.2 of the Uniform Civil Procedure Rules 2005:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.5.A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.5.A" type="ext"/>(a)</lilabel>
+<p><text>the statements and other information in the notice which are verified by statutory declaration;</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.5.B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.5.B" type="ext"/>(b)</lilabel>
+<p><text>the document mentioned in:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.5.B.I"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.5.B.I" type="ext"/>(i)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MRA.S19.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 19(3)</remotelink></ci:content></ci:cite>
+ of the Mutual Recognition Act, certified under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MRA.S19.4" remotekey1="REFPTID" service="DOC-ID" status="unval">section 19(4)</remotelink></ci:content></ci:cite>
+ of that Act; or</text></p>
+</li><li id="UCPN.SC.SCR70.PT65C.R4.5.B.II"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.5.B.II" type="ext"/>(ii)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.QQQ.S18.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 18(3)</remotelink></ci:content></ci:cite>
+ of the Trans-Tasman Mutual Recognition Act, certified under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.QQQ.S18.4" remotekey1="REFPTID" service="DOC-ID" status="unval">section 18(4)</remotelink></ci:content></ci:cite>
+ of that Act,</text></p>
+</li></l>
+<p><text>accompanying the notice; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.5.C"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.5.C" type="ext"/>(c)</lilabel>
+<p><text>the certificate referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT65C.R4.2.F" remotekey1="REFPTID" service="DOC-ID">subrule (2)(f)</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+</l>
+<p><text>are admissible in evidence and, unless the Court otherwise orders, shall not be the subject of oral evidence by the applicant.</text></p>
+<leg:histnote>
+<p><text>[subr (5)  am Amendment 319: Gaz 71 of 24 April 1998  p 2868 ; Gaz 99 of 5 August 2005 r 3 and Sch 1 item [58], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R4.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subr (6)  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [59], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4.7"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R4.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The application for enrolment made by the notice may be determined or dealt with by the Court in the absence of the public and without any attendance by or on behalf of the applicant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R4.8"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R4.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court is satisfied that the applicant is entitled to enrolment, it shall order that the applicant be admitted as a legal practitioner and:</text></p>
+<l><li id="UCPN.SC.SCR70.PT65C.R4.8.A"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.8.A" type="ext"/>(a)</lilabel>
+<p><text>the Prothonotary shall enter or cause to be entered the name of the person admitted in the Roll of Legal Practitioners; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT65C.R4.8.B"><lilabel><refpt id="UCPN.SC.SCR70.PT65C.R4.8.B" type="ext"/>(b)</lilabel>
+<p><text>the person admitted shall be entitled to receive a certificate bearing the seal of the Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT65C.R4.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.65C-4-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 65C.4.1]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.65C-4-1" type="ext"/>[SCR Pt 65C.4.1] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Practice Note 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCG.PN8" remotekey1="REFPTID" service="DOC-ID">SC Gen 8</remotelink>
+ contains forms of notice under the subject Act and references to other relevant rules.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 65C r 5] r 5 Administering oaths for other courts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT65C.R5" type="ext"/>[SCR Pt 65C r 5]</edpnum><title searchtype="RUL-TITLE">Administering oaths for other courts</title><desig searchtype="RUL-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT65C.R5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A registrar may administer the oath of office of a Supreme Court of another State or Territory of Australia to a New South Wales legal practitioner who is required to take the oath for the purpose of being admitted as a lawyer by that court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT65C.R5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT65C.R5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT65C.R5.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ &quot;oath of office&quot; and &quot;oath&quot; include any affirmation or declaration that may be taken in lieu of the oath of office.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5  insrt Amendment 295: Gaz 116 of 22 September 1995  p 6896]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

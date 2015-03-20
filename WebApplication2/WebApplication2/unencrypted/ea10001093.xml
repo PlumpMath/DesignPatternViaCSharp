@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 4.1 STANDARD OF PROOF [ss 140&#x2013;142]</docinfo:doc-heading><docinfo:doc-id>UCPN.EA.EAN95.C4.PT4-1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Evidence</title></heading><docinfo:hierlev role="ancestor"><heading><title>EVIDENCE ACT 1995 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>CHAPTER 4 PROOF [ss 140&#x2013;181]</title></heading><docinfo:hierlev role="me"><heading><title>PART 4.1 STANDARD OF PROOF [ss 140&#x2013;142]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110000310</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.EA"/><docinfo:metaitem name="parent-filename" value="ea.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_EA.SGM_UCPN.EA.EAN95"/><docinfo:metaitem name="parent-filename" value="ea1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 25, 1995</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">EVIDENCE ACT 1995 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.EA.EAN95.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.C4"><leg:level-vrnt leveltype="chapter" searchtype="LEGISLATION CHAPTER" subdoc="false" toc-caption="CHAPTER 4 PROOF [ss 140&#x2013;181]">
+<leg:heading><desig searchtype="CHAP-NUM"><designum><refpt id="UCPN.EA.EAN95.C4" type="ext"/>CHAPTER 4</designum></desig><title searchtype="CHAP-TITLE">PROOF [ss 140&#x2013;181]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:heading><title>INTRODUCTORY NOTE</title></leg:heading>
+<pgrp>
+<heading><title>Outline of this Chapter</title></heading>
+<p>
+<text>This Chapter is about the proof of matters in a proceeding.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C4.PT4-1" remotekey1="REFPTID" service="DOC-ID">Part 4.1</remotelink></ci:content></ci:cite>
+ is about the standard of proof in civil proceedings and in criminal proceedings.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C4.PT4-2" remotekey1="REFPTID" service="DOC-ID">Part 4.2</remotelink></ci:content></ci:cite>
+ is about matters that do not require proof in a proceeding.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C4.PT4-3" remotekey1="REFPTID" service="DOC-ID">Part 4.3</remotelink></ci:content></ci:cite>
+ makes easier the proof of the matters dealt with in that Part.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C4.PT4-4" remotekey1="REFPTID" service="DOC-ID">Part 4.4</remotelink></ci:content></ci:cite>
+ is about requirements that evidence be corroborated.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C4.PT4-5" remotekey1="REFPTID" service="DOC-ID">Part 4.5</remotelink></ci:content></ci:cite>
+ requires judges to warn juries about the potential unreliability of certain kinds of evidence.</text></p>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C4.PT4-6" remotekey1="REFPTID" service="DOC-ID">Part 4.6</remotelink></ci:content></ci:cite>
+ sets out procedures for proving certain other matters.</text></p></pgrp>
+</leg:bodytext>
+<leg:level id="UCPN.EA.EAN95.C4.PT4-1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 4.1 STANDARD OF PROOF [ss 140&#x2013;142]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.EA.EAN95.C4.PT4-1" type="ext"/>PART 4.1</designum></desig><title searchtype="PART-TITLE">STANDARD OF PROOF [ss 140&#x2013;142]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S140"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[51,295] s 140 Civil proceedings: standard of proof">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S140" type="ext"/>[51,295]</edpnum><title searchtype="SECT-TITLE">Civil proceedings: standard of proof</title><desig searchtype="SECT-NUM"><designum>140</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S140.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S140.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In a civil proceeding, the court must find the case of a party proved if it is satisfied that the case has been proved on the balance of probabilities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S140.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S140.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the matters that the court may take into account in deciding whether it is so satisfied, it is to take into account:</text></p>
+<l><li id="UCPN.EA.EAN95.S140.2.A"><lilabel><refpt id="UCPN.EA.EAN95.S140.2.A" type="ext"/>(a)</lilabel>
+<p><text>the nature of the cause of action or defence, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S140.2.B"><lilabel><refpt id="UCPN.EA.EAN95.S140.2.B" type="ext"/>(b)</lilabel>
+<p><text>the nature of the subject-matter of the proceeding, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S140.2.C"><lilabel><refpt id="UCPN.EA.EAN95.S140.2.C" type="ext"/>(c)</lilabel>
+<p><text>the gravity of the matters alleged.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S140.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.51295-5" leveltype="para0" subdoc="true" toc-caption="[51,295.5] Defined terms"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.51295-5" type="ext"/>[51,295.5] </edpnum><title>Defined terms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The term &#x201c;civil proceeding&#x201d; is defined in the Dictionary.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.51295-10" leveltype="para0" subdoc="true" toc-caption="[51,295.10] Civil Proceedings">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [51,295.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 140(2)(c).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.51295-10" type="ext"/>[51,295.10] </edpnum><title>Civil Proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S140.2.C" remotekey1="REFPTID" service="DOC-ID">s 140(2)(c)</remotelink></ci:content></ci:cite>
+ are generally consistent with the judgment of the High Court in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1938"/></ci:caseinfo><ci:caseref ID="cr001626" spanref="cr001626-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="60"/><ci:page num="336"/></ci:caseref><ci:caseref ID="cr001627" spanref="cr001627-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1938"/></ci:edition><ci:page num="334"/></ci:caseref><ci:caseref ID="cr001628" spanref="cr001628-003"><ci:reporter value="urj"/><ci:refnum num="BC3800027"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Briginshaw v Briginshaw</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001626-001" status="unval">(1938) 60 CLR 336</ci:span>; <ci:span spanid="cr001627-002" status="unval">[1938] ALR 334</ci:span>; <ci:span spanid="cr001628-003"> BC3800027</ci:span></citefragment> <remotelink dpsi="0018" refpt="5185" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Neither the present section, nor the views expressed in <emph typestyle="it">Briginshaw</emph>, alter the standard of proof required in any particular case. What is evident from both s 140(2) and from <emph typestyle="it">Briginshaw</emph> is that the quality of the evidence that will justify a court&#x2019;s conclusion it is &#x201c;satisfied&#x201d; about proof on the balance of probabilities is necessarily influenced by the nature of the proceedings and the gravity of the matters alleged. Under both formulations there should be clear and cogent proof of serious allegations: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001629" spanref="cr001629-001"><ci:reporter value="urj"/><ci:refnum num="BC200809085"/></ci:caseref><ci:caseref anaphref="cr001629" spanref="cr001629-002"><ci:pinpoint num="47" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Director-General of the Department of Community Services; Re Sophie</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWCA 250; <ci:span spanid="cr001629-001"> BC200809085</ci:span> <ci:span spanid="cr001629-002">at [47]&#x2013;[50]</ci:span></citefragment> <remotelink dpsi="0018" refpt="464623" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S141"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[51,300] s 141 Criminal proceedings: standard of proof">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S141" type="ext"/>[51,300]</edpnum><title searchtype="SECT-TITLE">Criminal proceedings: standard of proof</title><desig searchtype="SECT-NUM"><designum>141</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S141.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S141.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In a criminal proceeding, the court is not to find the case of the prosecution proved unless it is satisfied that it has been proved beyond reasonable doubt.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S141.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S141.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In a criminal proceeding, the court is to find the case of a defendant proved if it is satisfied that the case has been proved on the balance of probabilities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S141.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.51300-5" leveltype="para0" subdoc="true" toc-caption="[51,300.5] Proceedings for criminal contempt"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.51300-5" type="ext"/>[51,300.5] </edpnum><title>Proceedings for criminal contempt</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Proceedings for criminal contempt are criminal proceedings for the purposes of the Act. In that regard, the Act displaces the decision in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1995"/></ci:caseinfo><ci:caseref ID="cr001630" spanref="cr001630-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="183"/><ci:page num="525"/></ci:caseref><ci:caseref ID="cr001631" spanref="cr001631-002"><ci:reporter value="ALR"/><ci:volume num="131"/><ci:page num="401"/></ci:caseref><ci:caseref ID="cr001632" spanref="cr001632-003"><ci:reporter value="urj"/><ci:refnum num="BC9506443"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Witham v Holloway</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001630-001" status="unval">(1995) 183 CLR 525</ci:span>; <ci:span spanid="cr001631-002">131 ALR 401</ci:span>; [1995] HCA 3; <ci:span spanid="cr001632-003"> BC9506443</ci:span></citefragment> <remotelink dpsi="0018" refpt="107897" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> that the criminal onus applies to all charges of criminal contempt whether classified as civil or criminal: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001633" spanref="cr001633-001"><ci:reporter value="urj"/><ci:refnum num="BC201103166"/></ci:caseref><ci:caseref anaphref="cr001633" spanref="cr001633-002"><ci:pinpoint num="93" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australian Securities and Investments Commission (ASIC) v Sigalla (No 4)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWSC 62; <ci:span spanid="cr001633-001"> BC201103166</ci:span> <ci:span spanid="cr001633-002">at [93]&#x2013;[95]</ci:span></citefragment> <remotelink dpsi="0018" refpt="533365" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001634" spanref="cr001634-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="127"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Jendell Australia Pty Ltd v Kesby</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001634-001">[1983] 1 NSWLR 127</ci:span></citefragment> <remotelink dpsi="0018" refpt="4492" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S142"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[51,305] s 142 Admissibility of evidence: standard of proof">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S142" type="ext"/>[51,305]</edpnum><title searchtype="SECT-TITLE">Admissibility of evidence: standard of proof</title><desig searchtype="SECT-NUM"><designum>142</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S142.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S142.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as otherwise provided by this Act, in any proceeding the court is to find that the facts necessary for deciding:</text></p>
+<l><li id="UCPN.EA.EAN95.S142.1.A"><lilabel><refpt id="UCPN.EA.EAN95.S142.1.A" type="ext"/>(a)</lilabel>
+<p><text>a question whether evidence should be admitted or not admitted, whether in the exercise of a discretion or not, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S142.1.B"><lilabel><refpt id="UCPN.EA.EAN95.S142.1.B" type="ext"/>(b)</lilabel>
+<p><text>any other question arising under this Act,</text></p>
+</li>
+</l>
+<p><text>have been proved if it is satisfied that they have been proved on the balance of probabilities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S142.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S142.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In determining whether it is so satisfied, the matters that the court must take into account include:</text></p>
+<l><li id="UCPN.EA.EAN95.S142.2.A"><lilabel><refpt id="UCPN.EA.EAN95.S142.2.A" type="ext"/>(a)</lilabel>
+<p><text>the importance of the evidence in the proceeding, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S142.2.B"><lilabel><refpt id="UCPN.EA.EAN95.S142.2.B" type="ext"/>(b)</lilabel>
+<p><text>the gravity of the matters alleged in relation to the question.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

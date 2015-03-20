@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 7 WARRANTS [rr 7.1&#x2013;7.6]</docinfo:doc-heading><docinfo:doc-id>UCPN.LC.LCRN09.PT7</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Local Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>LOCAL COURT RULES</title></heading><docinfo:hierlev role="me"><heading><title>PART 7 WARRANTS [rr 7.1&#x2013;7.6]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>90030150</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.LC"/><docinfo:metaitem name="parent-filename" value="lc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_LC.SGM_UCPN.LC.LCRN09"/><docinfo:metaitem name="parent-filename" value="lc1006.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 589, 2009</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">LOCAL COURT RULES</leg:officialname></leg:info><leg:level id="UCPN.LC.LCRN09.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.PT7"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 7 WARRANTS [rr 7.1&#x2013;7.6]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.LC.LCRN09.PT7" type="ext"/>PART 7</designum></desig><title searchtype="PART-TITLE">WARRANTS [rr 7.1&#x2013;7.6]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R7-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 7.1] r 7.1 Application of Part">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R7-1" type="ext"/>[LCR09 r 7.1]</edpnum><title searchtype="RUL-TITLE">Application of Part</title><desig searchtype="RUL-NUM"><designum>7.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to committal proceedings, summary proceedings and application proceedings.</text></p>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S67" remotekey1="REFPTID" service="DOC-ID">Section 67</remotelink></ci:content></ci:cite>
+ of the Local Court Act 2007 and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006Q" refpt="FLSL.DVN.CDPVAN07.S71" remotekey1="REFPTID" service="DOC-ID">section 71</remotelink></ci:content></ci:cite>
+ of the Crimes (Domestic and Personal Violence) Act 2007 provide that the provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CA.CPROC.C4.PT4" remotekey1="REFPTID" service="DOC-ID">Part 4</remotelink></ci:content></ci:cite>
+ of Chapter 4 of the Criminal Procedure Act 1986 (being provisions relating to warrants) apply, with any necessary modifications, to warrants of arrest, or warrants of commitment, issued under this Act in the same way as they apply to warrants of arrest or warrants of commitment issued under that Act.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 7.2] r 7.2 Applications for the issue of arrest warrants">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R7-2" type="ext"/>[LCR09 r 7.2]</edpnum><title searchtype="RUL-TITLE">Applications for the issue of arrest warrants</title><desig searchtype="RUL-NUM"><designum>7.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for the issue of a warrant to arrest an accused person before the date the person is first required to attend at court for the hearing of proceedings is to be made in the approved form.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 7.3] r 7.3 Matters to be considered in determining whether to issue arrest warrant">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R7-3" type="ext"/>[LCR09 r 7.3]</edpnum><title searchtype="RUL-TITLE">Matters to be considered in determining whether to issue arrest warrant</title><desig searchtype="RUL-NUM"><designum>7.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R7-3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R7-3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This clause applies to proceedings commenced by a court attendance notice.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R7-3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of determining whether to issue a warrant to arrest an accused person before the date the person is first required to attend at court for the hearing of proceedings, an authorised officer may take into account the following matters:</text></p>
+<l><li id="UCPN.LC.LCRN09.R7-3.2.A"><lilabel><refpt id="UCPN.LC.LCRN09.R7-3.2.A" type="ext"/>(a)</lilabel>
+<p><text>whether the offence the subject of the proceedings is serious enough to justify the issue of a warrant, having regard to whether the offence is punishable by imprisonment and, in the case of proceedings taken by a person other than a police officer or a public officer, the nature of the case against the accused person,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R7-3.2.B"><lilabel><refpt id="UCPN.LC.LCRN09.R7-3.2.B" type="ext"/>(b)</lilabel>
+<p><text>whether there is, and the nature of, any risk to the safety of an alleged victim, witness or other person if the accused person is not arrested and brought before the court,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R7-3.2.C"><lilabel><refpt id="UCPN.LC.LCRN09.R7-3.2.C" type="ext"/>(c)</lilabel>
+<p><text>whether the accused person is the subject of any other warrant to arrest in respect of any other offences,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R7-3.2.D"><lilabel><refpt id="UCPN.LC.LCRN09.R7-3.2.D" type="ext"/>(d)</lilabel>
+<p><text>if the warrant is sought on the basis that a court attendance notice has not been served:</text></p>
+<l><li id="UCPN.LC.LCRN09.R7-3.2.D.I"><lilabel><refpt id="UCPN.LC.LCRN09.R7-3.2.D.I" type="ext"/>(i)</lilabel>
+<p><text>whether reasonable attempts have been made to serve the court attendance notice, and</text></p>
+</li><li id="UCPN.LC.LCRN09.R7-3.2.D.II"><lilabel><refpt id="UCPN.LC.LCRN09.R7-3.2.D.II" type="ext"/>(ii)</lilabel>
+<p><text>whether an order for substituted service should be made rather than the issue of the warrant.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R7-3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an application for a warrant to arrest an accused person is refused by an authorised officer, the court attendance notice must be listed before the Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 7.4] r 7.4 Forms of warrants">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R7-4" type="ext"/>[LCR09 r 7.4]</edpnum><title searchtype="RUL-TITLE">Forms of warrants</title><desig searchtype="RUL-NUM"><designum>7.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R7-4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R7-4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A warrant to arrest a person is to be in the approved form.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R7-4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A warrant to commit a person is to be in the approved form.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 7.5] r 7.5 Procedure after arrest">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R7-5" type="ext"/>[LCR09 r 7.5]</edpnum><title searchtype="RUL-TITLE">Procedure after arrest</title><desig searchtype="RUL-NUM"><designum>7.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCRN09.R7-5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R7-5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who executes a warrant to arrest a person issued in proceedings to which this Part applies must, when the person is brought before a Magistrate or an authorised officer, produce the following:</text></p>
+<l><li id="UCPN.LC.LCRN09.R7-5.1.A"><lilabel><refpt id="UCPN.LC.LCRN09.R7-5.1.A" type="ext"/>(a)</lilabel>
+<p><text>a copy of the warrant,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R7-5.1.B"><lilabel><refpt id="UCPN.LC.LCRN09.R7-5.1.B" type="ext"/>(b)</lilabel>
+<p><text>a court cover sheet,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R7-5.1.C"><lilabel><refpt id="UCPN.LC.LCRN09.R7-5.1.C" type="ext"/>(c)</lilabel>
+<p><text>a summary of the relevant facts,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R7-5.1.D"><lilabel><refpt id="UCPN.LC.LCRN09.R7-5.1.D" type="ext"/>(d)</lilabel>
+<p><text>details of the antecedents of the accused person.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCRN09.R7-5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court attendance notice on which a warrant is issued is to be filed with the Court or the Magistrate or authorised officer before whom the person is brought and is to be dealt with by that Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCRN09.R7-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[LCR09 r 7.6] r 7.6 Warrants to commit">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCRN09.R7-6" type="ext"/>[LCR09 r 7.6]</edpnum><title searchtype="RUL-TITLE">Warrants to commit</title><desig searchtype="RUL-NUM"><designum>7.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A warrant to commit a person may be directed to any of the following persons for execution by that person:</text></p>
+<l><li id="UCPN.LC.LCRN09.R7-6..A"><lilabel><refpt id="UCPN.LC.LCRN09.R7-6..A" type="ext"/>(a)</lilabel>
+<p><text>a police officer,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R7-6..B"><lilabel><refpt id="UCPN.LC.LCRN09.R7-6..B" type="ext"/>(b)</lilabel>
+<p><text>the general manager of a correctional centre,</text></p>
+</li>
+<li id="UCPN.LC.LCRN09.R7-6..C"><lilabel><refpt id="UCPN.LC.LCRN09.R7-6..C" type="ext"/>(c)</lilabel>
+<p><text>a correctional officer.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 7A DISCHARGE OF JURORS [ss 53A&#x2013;53C]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.JURAN.PT7A</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>JURY ACT 1977 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 7A DISCHARGE OF JURORS [ss 53A&#x2013;53C]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140210090</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.JURAN"/><docinfo:metaitem name="parent-filename" value="ol1042.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 18, 1977</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">JURY ACT 1977 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.JURAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.PT7A"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 7A DISCHARGE OF JURORS [ss 53A&#x2013;53C]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.JURAN.PT7A" type="ext"/>PART 7A</designum></desig><title searchtype="PART-TITLE">DISCHARGE OF JURORS [ss 53A&#x2013;53C]</title><leg:histnote>
+<p><text>[Pt 7A  insrt Act 24 of 2008 s 3 and Sch 1[7] , effective 1 July 2008]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S53A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,530] s 53A Mandatory discharge of individual juror">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S53A" type="ext"/>[345,530]</edpnum><title searchtype="SECT-TITLE">Mandatory discharge of individual juror</title><desig searchtype="SECT-NUM"><designum>53A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S53A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S53A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court or coroner must discharge a juror if, in the course of any trial or coronial inquest:</text></p>
+<l><li id="UCPN.OL.JURAN.S53A.1.A"><lilabel><refpt id="UCPN.OL.JURAN.S53A.1.A" type="ext"/>(a)</lilabel>
+<p><text>it is found that the juror was mistakenly or irregularly empanelled, whether because the juror was disqualified or ineligible to serve as a juror or was otherwise not returned and selected in accordance with this Act, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S53A.1.B"><lilabel><refpt id="UCPN.OL.JURAN.S53A.1.B" type="ext"/>(b)</lilabel>
+<p><text>the juror becomes disqualified from serving, or ineligible to serve, as a juror, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S53A.1.C"><lilabel><refpt id="UCPN.OL.JURAN.S53A.1.C" type="ext"/>(c)</lilabel>
+<p><text>the juror has engaged in misconduct in relation to the trial or coronial inquest.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S53A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S53A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.JURAN.S53A.2.MISCONDUCT"><defterm><refpt id="UCPN.OL.JURAN.S53A.2.MISCONDUCT" type="ext"/><emph typestyle="bf">misconduct</emph></defterm>, <defdesc>
+<p><text>in relation to a trial or coronial inquest, means:</text></p>
+<l><li id="UCPN.OL.JURAN.S53A.2.A"><lilabel><refpt id="UCPN.OL.JURAN.S53A.2.A" type="ext"/>(a)</lilabel>
+<p><text>conduct that constitutes an offence against this Act, or</text></p>
+<p>
+<glp:note id="UCPN.OL.JURAN.S53A.2.A.LGN1">
+<heading><title>Note.</title></heading>
+<p>
+<text>For example, under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S68C" remotekey1="REFPTID" service="DOC-ID">section 68C</remotelink></ci:content></ci:cite>
+ it is an offence for a juror to make certain inquiries except in the proper exercise of his or her functions as a juror.</text></p></glp:note>
+</p></li>
+<li id="UCPN.OL.JURAN.S53A.2.B"><lilabel><refpt id="UCPN.OL.JURAN.S53A.2.B" type="ext"/>(b)</lilabel>
+<p><text>any other conduct that, in the opinion of the court or coroner, gives rise to the risk of a substantial miscarriage of justice in the trial or inquest.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S53B"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,535] s 53B Discretionary discharge of individual juror">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S53B" type="ext"/>[345,535]</edpnum><title searchtype="SECT-TITLE">Discretionary discharge of individual juror</title><desig searchtype="SECT-NUM"><designum>53B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court or coroner may, in the course of any trial or coronial inquest, discharge a juror if:</text></p>
+<l><li id="UCPN.OL.JURAN.S53B..A"><lilabel><refpt id="UCPN.OL.JURAN.S53B..A" type="ext"/>(a)</lilabel>
+<p><text>the juror (though able to discharge the duties of a juror) has, in the judge&#x2019;s or coroner&#x2019;s opinion, become so ill or infirm as to be likely to become ineligible to serve as a juror before the jury delivers their verdict or has become so ill as to be a health risk to other jurors or persons present at the trial or coronial inquest, or</text></p>
+<p>
+<glp:note id="UCPN.OL.JURAN.S53B..A.LGN1">
+<heading><title>Note.</title></heading>
+<p>
+<text>Under clause 12 of Schedule 2, a juror who because of sickness or infirmity is unable to discharge the duties of a juror is ineligible to serve as a juror.</text></p></glp:note>
+</p></li>
+<li id="UCPN.OL.JURAN.S53B..B"><lilabel><refpt id="UCPN.OL.JURAN.S53B..B" type="ext"/>(b)</lilabel>
+<p><text>it appears to the court or coroner (from the juror&#x2019;s own statements or from evidence before the court or coroner) that the juror may not be able to give impartial consideration to the case because of the juror&#x2019;s familiarity with the witnesses, parties or legal representatives in the trial or coronial inquest, any reasonable apprehension of bias or conflict of interest on the part of the juror or any similar reason, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S53B..C"><lilabel><refpt id="UCPN.OL.JURAN.S53B..C" type="ext"/>(c)</lilabel>
+<p><text>a juror refuses to take part in the jury&#x2019;s deliberations, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S53B..D"><lilabel><refpt id="UCPN.OL.JURAN.S53B..D" type="ext"/>(d)</lilabel>
+<p><text>it appears to the court or coroner that, for any other reason affecting the juror&#x2019;s ability to perform the functions of a juror, the juror should not continue to act as a juror.</text></p>
+<p>
+<glp:note id="UCPN.OL.JURAN.S53B..D.LGN1">
+<heading><title>Note.</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S22" remotekey1="REFPTID" service="DOC-ID">Section 22</remotelink></ci:content></ci:cite>
+ provides for the continuation of a trial or inquest on the death or discharge of a juror.</text></p></glp:note>
+</p></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S53C"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,540] s 53C Discretion to continue trial or coronial inquest or discharge whole jury">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S53C" type="ext"/>[345,540]</edpnum><title searchtype="SECT-TITLE">Discretion to continue trial or coronial inquest or discharge whole jury</title><desig searchtype="SECT-NUM"><designum>53C</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S53C.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S53C.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a juror dies, or the court or coroner discharges a juror in the course of a trial or coronial inquest, the court or coroner must:</text></p>
+<l><li id="UCPN.OL.JURAN.S53C.1.A"><lilabel><refpt id="UCPN.OL.JURAN.S53C.1.A" type="ext"/>(a)</lilabel>
+<p><text>discharge the jury if the court or coroner is of the opinion that to continue the trial or coronial inquest with the remaining jurors would give rise to the risk of a substantial miscarriage of justice, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S53C.1.B"><lilabel><refpt id="UCPN.OL.JURAN.S53C.1.B" type="ext"/>(b)</lilabel>
+<p><text>if of the opinion that there is no such risk and subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S22" remotekey1="REFPTID" service="DOC-ID">section 22</remotelink></ci:content></ci:cite>
+, order that the trial or coronial inquest continue with a reduced number of jurors.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S53C.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S53C.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A court or coroner that discharges a jury under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S53C.1.A" remotekey1="REFPTID" service="DOC-ID">subsection (1)(a)</remotelink></ci:content></ci:cite>
+ may stay the proceedings on such terms as the court or coroner thinks fit if a party gives notice of an intention to lodge an application for leave to appeal for review of the decision under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CRIMAP.S5G" remotekey1="REFPTID" service="DOC-ID" status="unval">section 5G</remotelink></ci:content></ci:cite>
+ of the Criminal Appeal Act 1912.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S53C.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S53C.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a jury in civil proceedings is discharged under this section, the proceedings may, without any new process for that purpose, be set down for trial either at the same or any subsequent sittings, as the court may order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

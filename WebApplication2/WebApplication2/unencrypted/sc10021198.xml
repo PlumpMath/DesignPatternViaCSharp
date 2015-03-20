@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 11 ACCOUNTS AND COMMISSION [rr 75&#x2013;89]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCR70.PT78.D11</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT RULES </title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 78 PROBATE AND ADMINISTRATION [rr 1&#x2013;94]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 11 ACCOUNTS AND COMMISSION [rr 75&#x2013;89]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70010660</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCRC"/><docinfo:metaitem name="parent-filename" value="sc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT RULES </leg:officialname></leg:info><leg:level id="UCPN.SC.SCRC.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN.SC.SCR70.PT78"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 78 PROBATE AND ADMINISTRATION [rr 1&#x2013;94]"><leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT78.D11"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 11 ACCOUNTS AND COMMISSION [rr 75&#x2013;89]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCR70.PT78.D11" type="ext"/>DIVISION 11</designum></desig><title searchtype="DIV-TITLE">ACCOUNTS AND COMMISSION [rr 75&#x2013;89]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT78.R75"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 75] r 75 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R75" type="ext"/>[SCR Pt 78 r 75]</edpnum><title searchtype="RUL-TITLE">Definitions</title><desig searchtype="RUL-NUM"><designum>75</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Division:</text></p>
+<deflist><defitem id="UCPN.SC.SCR70.PT78.R75.COMMISION"><defterm><refpt id="UCPN.SC.SCR70.PT78.R75.COMMISION" type="ext"/><emph typestyle="bf">commission</emph></defterm><defdesc>
+<p><text>means commission referred to in section 86 of the Probate and Administration Act 1898.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT78.R75.PARENT-PROCEEDINGS"><defterm><refpt id="UCPN.SC.SCR70.PT78.R75.PARENT-PROCEEDINGS" type="ext"/><emph typestyle="bf">parent proceedings</emph></defterm><defdesc>
+<p><text>, in respect of an estate the subject of proceedings for the passing of accounts, means the proceedings in which:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R75.PARENT-PROCEEDINGS.A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R75.PARENT-PROCEEDINGS.A" type="ext"/>(a)</lilabel>
+<p><text>probate or administration has been granted, or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R75.PARENT-PROCEEDINGS.B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R75.PARENT-PROCEEDINGS.B" type="ext"/>(b)</lilabel>
+<p><text>a foreign grant has been resealed,</text></p>
+</li>
+</l>
+<p><text>in respect of the estate.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT78.R75.PROCEEDINGS-FOR-THE-PASSING-OF-ACCOUNTS"><defterm><refpt id="UCPN.SC.SCR70.PT78.R75.PROCEEDINGS-FOR-THE-PASSING-OF-ACCOUNTS" type="ext"/><emph typestyle="bf">proceedings for the passing of accounts</emph></defterm><defdesc>
+<p><text>means proceedings for an order passing accounts under section 85 of the Probate and Administration Act 1898.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R76"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 76] r 76 Commencement of proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R76" type="ext"/>[SCR Pt 78 r 76]</edpnum><title searchtype="RUL-TITLE">Commencement of proceedings</title><desig searchtype="RUL-NUM"><designum>76</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 75)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT78.R76.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R76.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings for the passing of accounts for an estate must be commenced by notice of motion in the parent proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R76.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R76.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notice may, but need not, request the Court to allow the applicant to be paid commission from the assets of the estate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R77"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 77] r 77 Further requirements where applicant seeks commission">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R77" type="ext"/>[SCR Pt 78 r 77]</edpnum><title searchtype="RUL-TITLE">Further requirements where applicant seeks commission</title><desig searchtype="RUL-NUM"><designum>77</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 85)</ci:content></ci:cite></text></p></glp:note>
+<p><text>If the applicant seeks commission he or she must file with the notice of motion commencing the proceedings:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R77..A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R77..A" type="ext"/>(a)</lilabel>
+<p><text>an affidavit in support of the application, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R77..B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R77..B" type="ext"/>(b)</lilabel>
+<p><text>where the accounts were not filed within the time fixed by the rules or any order of the Court, an affidavit explaining the delay.</text></p>
+</li>
+</l>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT78.R77.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.78-77-5" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.77.5] Commission">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 78.77.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1898-13" remotekey1="REFPTID" service="DOC-ID">Wills, Probate and Administration Act 1898</remotelink> ss 86, 86A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-77-5" type="ext"/>[SCR Pt 78.77.5] </edpnum><title>Commission</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under the general law (unless the testator&#x2019;s will made specific provision) trustees, executors or administrators were not entitled to payment for carrying out the functions of their office: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003058" spanref="cr003058-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="196"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Sheldon</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003058-001">[1972] 1 NSWLR 196</ci:span></citefragment> <remotelink dpsi="0018" refpt="80317" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003059" spanref="cr003059-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="714"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Sheppard</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003059-001">[1972] 2 NSWLR 714</ci:span></citefragment> <remotelink dpsi="0018" refpt="80446" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. That position is altered by the court&#x2019;s statutory discretions to allow a &#x201c;just and reasonable&#x201d; commission, and to disallow excessive commission: Probate and Administration Act 1898 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S86" remotekey1="REFPTID" service="DOC-ID">ss 86</remotelink></ci:content></ci:cite>
+ &amp; 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S86A" remotekey1="REFPTID" service="DOC-ID">86A</remotelink></ci:content></ci:cite>
+. The power to allow commission includes compensation for professional work undertaken by the executor in connection with the estate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1952"/></ci:caseinfo><ci:caseref ID="cr003060" spanref="cr003060-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="52"/><ci:page num="265"/></ci:caseref><ci:caseref ID="cr003061" spanref="cr003061-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="69"/><ci:page num="205"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Craig</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003060-001" status="unval">(1952) 52 SR (NSW) 265</ci:span>; <ci:span spanid="cr003061-002" status="unval">69 WN (NSW) 205</ci:span></citefragment> <remotelink dpsi="0018" refpt="73225" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>The court&#x2019;s power to allow commission is ordinarily contingent on the executor or administrator filing their estate accounts, and having them passed by the court. If executors do not file their accounts the court will only grant commission in exceptional circumstances: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1933"/></ci:caseinfo><ci:caseref ID="cr003062" spanref="cr003062-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="50"/><ci:page num="226"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Bye</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003062-001" status="unval">(1933) 50 WN (NSW) 226</ci:span></citefragment></ci:content></ci:cite>; but see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1916"/></ci:caseinfo><ci:caseref ID="cr003063" spanref="cr003063-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="16"/><ci:page num="135"/></ci:caseref><ci:caseref ID="cr003064" spanref="cr003064-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="33"/><ci:page num="23"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Estate of Watkins</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003063-001" status="unval">(1916) 16 SR (NSW) 135</ci:span>; <ci:span spanid="cr003064-002" status="unval">33 WN (NSW) 23</ci:span></citefragment> <remotelink dpsi="0018" refpt="69675" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The entitlement of a trustee or executor to commission depends on the propriety and utility of their conduct. Trustees or executors will not be entitled to commission, at least not without appropriate discount, where they have been guilty of wilful default or neglect in the administration of the estate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1901"/></ci:caseinfo><ci:caseref ID="cr003065" spanref="cr003065-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="1"/><ci:page num="48"/></ci:caseref><ci:caseref ID="cr003066" spanref="cr003066-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="18"/><ci:page num="121"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Sherringham</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003065-001" status="unval">(1901) 1 SR (NSW) B&amp;P 48</ci:span>; <ci:span spanid="cr003066-002" status="unval">18 WN (NSW) 121</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1911"/></ci:caseinfo><ci:caseref ID="cr003067" spanref="cr003067-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="11"/><ci:page num="21"/></ci:caseref><ci:caseref ID="cr003068" spanref="cr003068-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="28"/><ci:page num="17"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Greer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003067-001" status="unval">(1911) 11 SR (NSW) 21</ci:span>; <ci:span spanid="cr003068-002" status="unval">28 WN (NSW) 17a</ci:span></citefragment> <remotelink dpsi="0018" refpt="69042" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. In its equitable jurisdiction, although not pursuant to the powers contained in s 86, the court may authorise trustees to deduct their commission from moneys which they receive in the future: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1915"/></ci:caseinfo><ci:caseref ID="cr003069" spanref="cr003069-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="15"/><ci:page num="192"/></ci:caseref><ci:caseref ID="cr003070" spanref="cr003070-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="32"/><ci:page num="40"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Gaukrodger</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003069-001" status="unval">(1915) 15 SR (NSW) 192</ci:span>; <ci:span spanid="cr003070-002" status="unval">32 WN (NSW) 40</ci:span></citefragment> <remotelink dpsi="0018" refpt="69571" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.78-77-10" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.77.10] Testamentary gifts to executors &#x2014; commission and charges">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 78.77.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1898-13" remotekey1="REFPTID" service="DOC-ID">Wills, Probate and Administration Act 1898</remotelink> s 86.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-77-10" type="ext"/>[SCR Pt 78.77.10] </edpnum><title>Testamentary gifts to executors &#x2014; commission and charges</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where the will provides a legacy to the executors there is a presumption that it was intended to be full and sufficient compensation for their work as executors: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1915"/></ci:caseinfo><ci:caseref ID="cr003071" spanref="cr003071-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="15"/><ci:page num="247"/></ci:caseref><ci:caseref ID="cr003072" spanref="cr003072-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="32"/><ci:page num="66"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Steele</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003071-001" status="unval">(1915) 15 SR (NSW) 247</ci:span>; <ci:span spanid="cr003072-002" status="unval">32 WN (NSW) 66</ci:span></citefragment> <remotelink dpsi="0018" refpt="69593" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003073" spanref="cr003073-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="371"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Oddie</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003073-001">[1976] 1 NSWLR 371</ci:span></citefragment> <remotelink dpsi="0018" refpt="81093" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. This presumption is not rebutted merely by proof of the close friendship between testators and executors.</text></p>
+<p>
+<text>The authorities suggest that there is a distinction between a legacy that is given to an executor by virtue of their office, and a legacy that is expressed to be a substitute for any right to commission.</text></p>
+<p>
+<text>Where the legacy has been granted to executors &#x201c;by virtue of their office&#x201d;, they may reject the legacy and apply for an allowance of &#x201c;just and reasonable&#x201d; commission: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1919"/></ci:caseinfo><ci:caseref ID="cr003074" spanref="cr003074-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="19"/><ci:page num="277"/></ci:caseref><ci:caseref ID="cr003075" spanref="cr003075-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="36"/><ci:page num="104"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Bomlin</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003074-001" status="unval">(1919) 19 SR (NSW) 277</ci:span>; <ci:span spanid="cr003075-002" status="unval">36 WN (NSW) 104b</ci:span></citefragment> <remotelink dpsi="0018" refpt="69974" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1912"/></ci:caseinfo><ci:caseref ID="cr003076" spanref="cr003076-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="29"/><ci:page num="98"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Wheelihan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003076-001" status="unval">(1912) 29 WN (NSW) 98</ci:span></citefragment> <remotelink dpsi="0018" refpt="81096" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1933"/></ci:caseinfo><ci:caseref ID="cr003077" spanref="cr003077-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="33"/><ci:page num="125"/></ci:caseref><ci:caseref ID="cr003078" spanref="cr003078-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="50"/><ci:page num="42"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Public Trustee v Molloy</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003077-001" status="unval">(1933) 33 SR (NSW) 125</ci:span>; <ci:span spanid="cr003078-002" status="unval">50 WN (NSW) 42</ci:span></citefragment> <remotelink dpsi="0018" refpt="71690" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. And if an executor is permitted by the will to charge for any professional services they provide, the executors may either make such charges and have the amounts moderated in the passing of their accounts, or they may make no charges and apply for commission in the usual way. If an executor is also permitted by the will to charge for non-professional services they may also elect whether to charge or to apply for commission: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1926"/></ci:caseinfo><ci:caseref ID="cr003079" spanref="cr003079-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="43"/><ci:page num="170"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Marsden</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003079-001" status="unval">(1926) 43 WN (NSW) 170</ci:span></citefragment> <remotelink dpsi="0018" refpt="182297" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1933"/></ci:caseinfo><ci:caseref ID="cr003080" spanref="cr003080-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="50"/><ci:page num="207"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Phair</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003080-001" status="unval">(1933) 50 WN (NSW) 207</ci:span></citefragment></ci:content></ci:cite>. In these instances, therefore, executors must elect whether to take the legacy in the will or to renounce it and apply for commission under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S86" remotekey1="REFPTID" service="DOC-ID">s 86</remotelink></ci:content></ci:cite>
+ of the Probate and Administration Act 1898: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1885"/></ci:caseinfo><ci:caseref ID="cr003081" spanref="cr003081-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="1"/><ci:page num="167"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Levy</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003081-001" status="unval">(1885) 1 WN (NSW) 167</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1909"/></ci:caseinfo><ci:caseref ID="cr003082" spanref="cr003082-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="26"/><ci:page num="51"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Pauton</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003082-001" status="unval">(1909) 26 WN (NSW) 51</ci:span></citefragment> <remotelink dpsi="0018" refpt="180907" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>Where the legacy has been granted as a substitute for commission, executors take office on the basis that they have accepted the condition, and the sufficiency of the legacy. In that case they cannot be allowed additional commission: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1901"/></ci:caseinfo><ci:caseref ID="cr003083" spanref="cr003083-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="1"/><ci:page num="1"/></ci:caseref><ci:caseref ID="cr003084" spanref="cr003084-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="18"/><ci:page num="156"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Burkedin</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003083-001" status="unval">(1901) 1 SR (NSW) B&amp;P 1</ci:span>; <ci:span spanid="cr003084-002" status="unval">18 WN (NSW) 156</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1933"/></ci:caseinfo><ci:caseref ID="cr003085" spanref="cr003085-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="50"/><ci:page num="88"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Morrison</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003085-001" status="unval">(1933) 50 WN (NSW) 88</ci:span></citefragment> <remotelink dpsi="0018" refpt="81097" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003086" spanref="cr003086-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="371"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Oddie</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003086-001">[1976] 1 NSWLR 371</ci:span></citefragment> <remotelink dpsi="0018" refpt="81093" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R78"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 78] r 78 Objection prior to proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R78" type="ext"/>[SCR Pt 78 r 78]</edpnum><title searchtype="RUL-TITLE">Objection prior to proceedings</title><desig searchtype="RUL-NUM"><designum>78</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 77A)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT78.R78.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R78.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>At any time prior to the commencement of proceedings for the passing of accounts for an estate in respect of which:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R78.1.A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R78.1.A" type="ext"/>(a)</lilabel>
+<p><text>probate or administration has been granted, or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R78.1.B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R78.1.B" type="ext"/>(b)</lilabel>
+<p><text>a foreign grant has been resealed,</text></p>
+</li>
+</l>
+<p><text>any person (<defterm><emph typestyle="bf">the objector</emph></defterm>) may, by filing a notice of his or her intention to do so, object to the passing of accounts or the allowance of commission, as the case may be.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R78.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R78.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The address for service shown in the notice is taken to be the objector&#x2019;s address for service in any such proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R78.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R78.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On the commencement of any such proceedings, the registrar must serve a copy of the notice on the applicant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R78.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R78.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>As soon as practicable after being served with such a copy, the applicant in any such proceedings must serve a copy of the originating process on the objector.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT78.R78.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.78-78-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.78.1] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-78-1" type="ext"/>[SCR Pt 78.78.1] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved form for a notice of intended objection to estate accounts is UCPR Form 143.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R79"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 79] r 79 Notice of proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R79" type="ext"/>[SCR Pt 78 r 79]</edpnum><title searchtype="RUL-TITLE">Notice of proceedings</title><desig searchtype="RUL-NUM"><designum>79</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rules 76 and 87)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT78.R79.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R79.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>At least 14 days before the commencement of proceedings for the passing of accounts, the applicant must cause to be published a notice of:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R79.1.A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R79.1.A" type="ext"/>(a)</lilabel>
+<p><text>the filing of the accounts, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R79.1.B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R79.1.B" type="ext"/>(b)</lilabel>
+<p><text>the order or orders claimed in the proceedings.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R79.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R79.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notice must be published:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R79.2.A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R79.2.A" type="ext"/>(a)</lilabel>
+<p><text>if, when he or she died, the deceased was resident in New South Wales, in a newspaper circulating in the district where the deceased resided, or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R79.2.B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R79.2.B" type="ext"/>(b)</lilabel>
+<p><text>in any other case, in a Sydney daily newspaper.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R79.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R79.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The applicant must file an affidavit of compliance with this rule.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R79.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R79.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may order the applicant to give notice of the proceedings to any person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT78.R79.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.78-79-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.79.1] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-79-1" type="ext"/>[SCR Pt 78.79.1] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved form for a notice of filing of an executor or administrator&#x2019;s accounts is UCPR Form 144.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R80"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 80] r 80 Sureties">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R80" type="ext"/>[SCR Pt 78 r 80]</edpnum><title searchtype="RUL-TITLE">Sureties</title><desig searchtype="RUL-NUM"><designum>80</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 77)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT78.R80.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R80.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>At least 14 days before the commencement of proceedings for the passing of accounts for an estate in respect of which an administration bond has been executed under section 64 of the Probate and Administration Act 1898, the plaintiff must serve on each surety to the bond a copy of the notice referred to in rule 79(1).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R80.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R80.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The plaintiff must file an affidavit of compliance with subrule (1).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R80.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R80.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Instead of or in addition to complying with subrules (1) and (2) in respect of any surety, the plaintiff may file the consent of the surety to an order passing the accounts, with an affidavit verifying the consent endorsed on the document containing the consent.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R81"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 81] r 81 Inspection and appearance">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R81" type="ext"/>[SCR Pt 78 r 81]</edpnum><title searchtype="RUL-TITLE">Inspection and appearance</title><desig searchtype="RUL-NUM"><designum>81</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 78)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT78.R81.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R81.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies if proceedings for the passing of accounts have been commenced but the hearing of the proceedings has not been completed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R81.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R81.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any person may inspect the accounts at any time after the commencement of the proceedings, without leave, unless the registrar otherwise directs.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R81.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R81.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any person intending to object to the passing of the accounts may, at any time before completion of the hearing, enter an appearance in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R81.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R81.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any person entering an appearance in the proceedings is to be joined as a defendant in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R82"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 82] r 82 Vouching">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R82" type="ext"/>[SCR Pt 78 r 82]</edpnum><title searchtype="RUL-TITLE">Vouching</title><desig searchtype="RUL-NUM"><designum>82</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 79)</ci:content></ci:cite></text></p></glp:note>
+<p><text>Unless the Court otherwise directs, accounts are to be vouched:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R82..A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R82..A" type="ext"/>(a)</lilabel>
+<p><text>in the absence of the public, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R82..B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R82..B" type="ext"/>(b)</lilabel>
+<p><text>without the appearance before the Court of any person, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R82..C"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R82..C" type="ext"/>(c)</lilabel>
+<p><text>without an appointment being obtained for the vouching.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R83"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 83] r 83 Court may require further evidence, documents and notices">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R83" type="ext"/>[SCR Pt 78 r 83]</edpnum><title searchtype="RUL-TITLE">Court may require further evidence, documents and notices</title><desig searchtype="RUL-NUM"><designum>83</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 80)</ci:content></ci:cite></text></p></glp:note>
+<p><text>In any proceedings for the passing of accounts, the Court:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R83..A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R83..A" type="ext"/>(a)</lilabel>
+<p><text>may require further evidence to be furnished, further documents to be filed and further notices to be given, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R83..B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R83..B" type="ext"/>(b)</lilabel>
+<p><text>if satisfied that the accounts are correct, may make an order passing the accounts, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R83..C"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R83..C" type="ext"/>(c)</lilabel>
+<p><text>if satisfied that any commission that is sought is appropriate, may make an order allowing commission.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R84"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 84] r 84 Certificate as to passing of accounts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R84" type="ext"/>[SCR Pt 78 r 84]</edpnum><title searchtype="RUL-TITLE">Certificate as to passing of accounts</title><desig searchtype="RUL-NUM"><designum>84</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 81)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT78.R84.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R84.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court makes an order passing accounts, the registrar is to issue the applicant with a certificate as to the balance of the accounts.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R84.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R84.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court makes an order allowing commission, the certificate must also certify as to:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R84.2.A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R84.2.A" type="ext"/>(a)</lilabel>
+<p><text>the amount of capital realised, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R84.2.B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R84.2.B" type="ext"/>(b)</lilabel>
+<p><text>the amount of income collected, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R84.2.C"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R84.2.C" type="ext"/>(c)</lilabel>
+<p><text>the value of any assets transferred to beneficiaries, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R84.2.D"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R84.2.D" type="ext"/>(d)</lilabel>
+<p><text>where a business was carried on, the gross receipts and net profit earned or loss incurred,</text></p>
+</li>
+</l>
+<p><text>during the period to which the accounts relate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT78.R84.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.78-84-5" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.84.5] Passing of accounts">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 78.84.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1898-13" remotekey1="REFPTID" service="DOC-ID">Wills, Probate and Administration Act 1898</remotelink> s 85(3), Section 87.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-84-5" type="ext"/>[SCR Pt 78.84.5] </edpnum><title>Passing of accounts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>As a general rule commission will only be allowed as an incident of the passing of accounts. But, commission may not be the only reason to induce executors or administrators to wish to have their accounts passed by the court.</text></p>
+<p>
+<text>&#x201c;In some cases an executor might be unhappy about the reception of his accounts by the beneficiaries and wish to have them approved. In other cases, he might be one of a number of trustees of a deceased estate and desire the handling of the estate moneys by the others to be approved, or he might wish to retire and to obtain a complete clearance for himself and his own estate. The court itself, on removal of a trustee and appointment of a new trustee may, in order to give the former trustee a clearance, order the accounts of the retiring trustee to be passed&#x201d;: Vance, <emph typestyle="it">Executors' Commission</emph> at 45.</text></p>
+<p>
+<text>It is to serve these wider purposes and to give an additional incentive to comply with the primary obligations that 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S85.3" remotekey1="REFPTID" service="DOC-ID">s 85(3)</remotelink></ci:content></ci:cite>
+ of the Probate and Administration Act 1898 provides that the order of the court allowing the account shall be prima facie evidence of the correctness of the same and shall after the expiration of three years from the date of such order, operate as a limited form of release to the person filing the same. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S87" remotekey1="REFPTID" service="DOC-ID">Section 87</remotelink></ci:content></ci:cite>
+ of the Probate and Administration Act 1898 provides power to compel the passing of accounts and also the repayment of any amount disallowed to the estate.</text></p>
+<p>
+<text>For a discussion generally in relation to accounts including costs and disbursements which might properly be claimed by solicitors see Executors' Accounts (1993) 67 <emph typestyle="it">ALJ</emph> 309.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R85"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 85] r 85 Time for filing etc accounts under section 85 of P&amp;A Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R85" type="ext"/>[SCR Pt 78 r 85]</edpnum><title searchtype="RUL-TITLE">Time for filing etc accounts under section 85 of P&amp;A Act</title><desig searchtype="RUL-NUM"><designum>85</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rules 71 and 73)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT78.R85.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R85.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of section 85(1) and (1AA) of the Probate and Administration Act 1898, the time within which accounts for an estate in respect of which:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R85.1.A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R85.1.A" type="ext"/>(a)</lilabel>
+<p><text>probate or administration has been granted, or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R85.1.B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R85.1.B" type="ext"/>(b)</lilabel>
+<p><text>a foreign grant has been resealed,</text></p>
+</li>
+</l>
+<p><text>must be filed, verified and filed or verified, filed and passed, as the case requires, is 12 months after the relevant grant or resealing.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R85.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R85.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An executor or administrator may, in the proceedings for the grant of probate or administration or the resealing of a foreign grant, move for an order extending the period for compliance with section 85(1) or (1AA) of the Probate and Administration Act 1898, including an order extending the period until the further order of the Court, without the prior filing or service of notice of the motion.</text></p>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>These rules do not fix a time limit under section 85(1A), (1B) or (5) of the Probate and Administration Act 1898. Subject to any order made by the Court, no time limit will therefore apply under those subsections.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT78.R85.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.78-85-5" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.85.5] Time for filing estate accounts">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 78.85.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1898-13" remotekey1="REFPTID" service="DOC-ID">Wills, Probate and Administration Act 1898</remotelink> s 85(1), s 85(1A), (1AA).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-85-5" type="ext"/>[SCR Pt 78.85.5] </edpnum><title>Time for filing estate accounts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This rule sets the general time limits for the filing of estate accounts, and provides for the court to grant an extension time for the filing of accounts: see Probate and Administration Act 1898 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S85.1" remotekey1="REFPTID" service="DOC-ID">s 85(1)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S85.1AA" remotekey1="REFPTID" service="DOC-ID">(1AA)</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>The overriding effect of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S85.1AA" remotekey1="REFPTID" service="DOC-ID">s 85(1AA)</remotelink></ci:content></ci:cite>
+ of the Probate and Administration Act 1898 is that the manner and timing of the filing of estate accounts is subject to the court&#x2019;s order. The court may impose a requirement to file accounts, but in the absence of such an order the automatic requirement to file accounts generally only applies to executors or administrators who are either creditors or guardians, or where a substantial part of the estate passes to a charity or benevolent institution.</text></p>
+<p>
+<text>The practical effect of these provisions is that there are instances where there is no requirement to file accounts &#x2014; even though there is no specific provision for dispensing with the filing of the accounts. One instance where it is appropriate not to require the filing of estate accounts is where executors had merely transferred the estate assets to a trustee company who accepted them without requiring accounts to be passed: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1901"/></ci:caseinfo><ci:caseref ID="cr003087" spanref="cr003087-001" status="unval"><ci:reporter value="VLR"/><ci:volume num="27"/><ci:page num="228"/></ci:caseref><ci:caseref ID="cr003088" spanref="cr003088-002" status="unval"><ci:reporter value="ALRCN"/><ci:volume num="8"/><ci:page num="1"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Green</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003087-001" status="unval">(1901) 27 VLR 228</ci:span>; <ci:span spanid="cr003088-002" status="unval">8 ALR (CN) 1b</ci:span></citefragment> <remotelink dpsi="0018" refpt="90446" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. As to whether the poverty of the estate is a reason for making an order, see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003089" spanref="cr003089-001" status="unval"><ci:reporter value="QWN"/><ci:edition><ci:date year="1902"/></ci:edition><ci:page num="81"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Evans</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003089-001" status="unval">[1902] QWN 81</ci:span></citefragment> <remotelink dpsi="0018" refpt="106796" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1899"/></ci:caseinfo><ci:caseref ID="cr003090" spanref="cr003090-001" status="unval"><ci:reporter value="QLJNC"/><ci:volume num="9"/><ci:page num="55"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re King</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003090-001" status="unval">(1899) 9 QLJ (NC) 55</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+<p>
+<text>Where there is a requirement to file accounts the court may, in any event, extend the time for compliance: Probate and Administration Act 1898 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S85.1A" remotekey1="REFPTID" service="DOC-ID">s 85(1A)</remotelink></ci:content></ci:cite>
+. The most common case where such an order will be made is where a grant has been made to all of the persons beneficially entitled to the estate and where there is evidence that debts, funeral and testamentary expenses have been paid &#x2014; or are otherwise fully protected: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1893"/></ci:caseinfo><ci:caseref ID="cr003091" spanref="cr003091-001" status="unval"><ci:reporter value="LRNSW"/><ci:volume num="14"/><ci:page num="102"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Goods of Rolland</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003091-001" status="unval">(1893) 14 LR (NSW) B &amp; P 102</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1896"/></ci:caseinfo><ci:caseref ID="cr003092" spanref="cr003092-001" status="unval"><ci:reporter value="QLJ"/><ci:volume num="7"/><ci:page num="89"/></ci:caseref><ci:caseref ID="cr003093" spanref="cr003093-002" status="unval"><ci:reporter value="QLJNC"/><ci:volume num="7"/><ci:page num="47"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Thompson's Will</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003092-001" status="unval">(1896) 7 QLJ 89</ci:span>; <ci:span spanid="cr003093-002" status="unval">7 QLJ (NC) N47</ci:span></citefragment> <remotelink dpsi="0018" refpt="105577" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1898"/></ci:caseinfo><ci:caseref ID="cr003094" spanref="cr003094-001" status="unval"><ci:reporter value="QLJNC"/><ci:volume num="9"/><ci:page num="30"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Murray's Will</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003094-001" status="unval">(1898) 9 QLJ (NC) 30</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003095" spanref="cr003095-001" status="unval"><ci:reporter value="QWN"/><ci:edition><ci:date year="1943"/></ci:edition><ci:page num="27"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Jordan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003095-001" status="unval">[1943] QWN 27</ci:span></citefragment> <remotelink dpsi="0018" refpt="110898" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003096" spanref="cr003096-001" status="unval"><ci:reporter value="QWN"/><ci:edition><ci:date year="1954"/></ci:edition><ci:page num="19"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Milineaux</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003096-001" status="unval">[1954] QWN 19</ci:span></citefragment> <remotelink dpsi="0018" refpt="111426" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003097" spanref="cr003097-001" status="unval"><ci:reporter value="QWN"/><ci:edition><ci:date year="1955"/></ci:edition><ci:page num="49"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Brown</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003097-001" status="unval">[1955] QWN 49</ci:span></citefragment> <remotelink dpsi="0018" refpt="111786" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003098" spanref="cr003098-001" status="unval"><ci:reporter value="QWN"/><ci:edition><ci:date year="1955"/></ci:edition><ci:page num="14"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Farmer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003098-001" status="unval">[1955] QWN 14</ci:span></citefragment> <remotelink dpsi="0018" refpt="112151" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003099" spanref="cr003099-001" status="unval"><ci:reporter value="QWN"/><ci:edition><ci:date year="1957"/></ci:edition><ci:page num="15"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Irving</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003099-001" status="unval">[1957] QWN 15</ci:span></citefragment> <remotelink dpsi="0018" refpt="112046" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R86"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 86] r 86 Renunciation of commission under section 86 (3) of P&amp;A Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R86" type="ext"/>[SCR Pt 78 r 86]</edpnum><title searchtype="RUL-TITLE">Renunciation of commission under section 86 (3) of P&amp;A Act</title><desig searchtype="RUL-NUM"><designum>86</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 86)</ci:content></ci:cite></text></p></glp:note>
+<p><text>If, in any proceedings for the passing of accounts, the applicant wishes to renounce his or her right to commission:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R86..A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R86..A" type="ext"/>(a)</lilabel>
+<p><text>the applicant may do so, at any time before the hearing of the proceedings, by filing a renunciation of commission, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R86..B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R86..B" type="ext"/>(b)</lilabel>
+<p><text>if the applicant does so, the accounts must be allowed in accordance with the indemnity referred to in section 86(3) of the Probate and Administration Act 1898.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>Under section 86(3) of the Probate and Administration Act 1898, an executor, administrator or trustee who renounces their right to commission for work carried out in relation to a deceased&#x2019;s estate, and engages a legal practitioner to do that work (being non-professional work) on their behalf, is entitled to be indemnified by the estate, up to the amount of commission to which they would otherwise be entitled, for the legal practitioner&#x2019;s charges and disbursements in connection with that work.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R87"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 87] r 87 Reduction of excessive commission under section 86A of P&amp;A Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R87" type="ext"/>[SCR Pt 78 r 87]</edpnum><title searchtype="RUL-TITLE">Reduction of excessive commission under section 86A of P&amp;A Act</title><desig searchtype="RUL-NUM"><designum>87</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 75A)</ci:content></ci:cite></text></p></glp:note>
+<p><text>Proceedings for an order under section 86A of the Probate and Administration Act 1898 are to be commenced by notice of motion in the parent proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R88"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 88] r 88 Notices and orders under section 87 of P&amp;A Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R88" type="ext"/>[SCR Pt 78 r 88]</edpnum><title searchtype="RUL-TITLE">Notices and orders under section 87 of P&amp;A Act</title><desig searchtype="RUL-NUM"><designum>88</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 72)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT78.R88.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R88.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A notice or order under section 87 of the Probate and Administration Act 1898 may be served by sending it to the executor, administrator or trustee concerned at his or her address for service in relation to the parent proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R88.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT78.R88.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an order has been made under section 87 of the Probate and Administration Act 1898 requiring an executor, administrator or trustee to show cause, any application for an order extending the period referred to in section 87(1) of that Act must be made on the day appointed for showing cause.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT78.R88.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.78-88-5" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.88.5] Accounts">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 78.88.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1898-13" remotekey1="REFPTID" service="DOC-ID">Wills, Probate and Administration Act 1898</remotelink> s 87.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-88-5" type="ext"/>[SCR Pt 78.88.5] </edpnum><title>Accounts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under the general law all trustees (including executors and administrators) have stringent obligations to keep and to render proper accounts and to give full information to beneficiaries when required: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1952"/></ci:caseinfo><ci:caseref ID="cr003100" spanref="cr003100-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="52"/><ci:page num="265"/></ci:caseref><ci:caseref ID="cr003101" spanref="cr003101-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="69"/><ci:page num="205"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Craig</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003100-001" status="unval">(1952) 52 SR (NSW) 265</ci:span>; <ci:span spanid="cr003101-002" status="unval">69 WN (NSW) 205</ci:span></citefragment> <remotelink dpsi="0018" refpt="73225" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and R P Meagher and W M C Gummow, <emph typestyle="it">Jacob's Law of Trusts in Australia</emph>, 4th ed, Butterworths, Sydney, 1977, at [1712]&#x2013;[1713]. This obligation is reinforced by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.PAA.WPAN.S87" remotekey1="REFPTID" service="DOC-ID">s 87</remotelink></ci:content></ci:cite>
+ of the Probate and Administration Act 1898. That section permits the Court to limit the time by which an executor, administrator or trustee must file estate accounts and it imposes a fine liability for non-compliance with the requirement to file the estate accounts.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT78.R89"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 78 r 89] r 89 Order to file etc accounts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT78.R89" type="ext"/>[SCR Pt 78 r 89]</edpnum><title searchtype="RUL-TITLE">Order to file etc accounts</title><desig searchtype="RUL-NUM"><designum>89</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf former Part 78, rule 74)</ci:content></ci:cite></text></p></glp:note>
+<p><text>Proceedings for an order that an executor, administrator or trustee of a deceased person&#x2019;s estate do any of the following:</text></p>
+<l><li id="UCPN.SC.SCR70.PT78.R89..A"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R89..A" type="ext"/>(a)</lilabel>
+<p><text>file an inventory,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R89..B"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R89..B" type="ext"/>(b)</lilabel>
+<p><text>verify and file an inventory,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R89..C"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R89..C" type="ext"/>(c)</lilabel>
+<p><text>file accounts,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R89..D"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R89..D" type="ext"/>(d)</lilabel>
+<p><text>verify and file accounts,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R89..E"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R89..E" type="ext"/>(e)</lilabel>
+<p><text>file and pass accounts,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R89..F"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R89..F" type="ext"/>(f)</lilabel>
+<p><text>verify, file and pass accounts,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT78.R89..G"><lilabel><refpt id="UCPN.SC.SCR70.PT78.R89..G" type="ext"/>(g)</lilabel>
+<p><text>pass accounts filed,</text></p>
+</li>
+</l>
+<p><text>must be commenced by notice of motion in the parent proceedings.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT78.R89.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.78-89-5" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.89.5] Principles relating to the form of accounts"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-89-5" type="ext"/>[SCR Pt 78.89.5] </edpnum><title>Principles relating to the form of accounts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Because of the almost infinite variety of estates no form has been prescribed for accounts to be filed. In <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1908"/></ci:caseinfo><ci:caseref ID="cr003102" spanref="cr003102-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="8"/><ci:page num="582"/></ci:caseref><ci:caseref anaphref="cr003102" spanref="cr003102-002" status="unval"><ci:pinpoint num="585" targettype="page"/></ci:caseref><ci:caseref ID="cr003103" spanref="cr003103-003" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="25"/><ci:page num="187"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of White</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003102-001" status="unval">(1908) 8 SR (NSW) 582</ci:span> <ci:span spanid="cr003102-002" status="unval">at 585&#x2013;6</ci:span>; <ci:span spanid="cr003103-003" status="unval">25 WN (NSW) 187</ci:span></citefragment> <remotelink dpsi="0018" refpt="41625" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> Street J said:</text>
+<blockquote>
+<p>
+<text>Accounts as brought in before the Registrar may often consist merely of an indiscriminate mass of receipts on the one side and disbursements on the other. I think that in every case separate accounts should be brought in of capital and income, showing the receipts and disbursements on account of each; and where the amounts include the accounts of a business carried on by executors, I think that there should be separate trading accounts, either in the form of a balance sheet and a profit and loss account, or in such other form as may be sufficient to show clearly and accurately the result of the year's operations.</text></p></blockquote></p>
+<p>
+<text>See also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003104" spanref="cr003104-001" status="unval"><ci:reporter value="SASR"/><ci:edition><ci:date year="1955"/></ci:edition><ci:page num="98"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Bowman</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003104-001" status="unval">[1955] SASR 98</ci:span></citefragment> <remotelink dpsi="0018" refpt="118085" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and Executors' Accounts (1993) 67 <emph typestyle="it">ALJ</emph> 309.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.78-89-10" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.89.10] The function of the court in passing accounts">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 78.89.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> r 94(3).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-89-10" type="ext"/>[SCR Pt 78.89.10] </edpnum><title>The function of the court in passing accounts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The registrar has no jurisdiction to determine, on the passing of executor's accounts, any questions as to which assets are comprised in a particular estate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1925"/></ci:caseinfo><ci:caseref ID="cr003105" spanref="cr003105-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="42"/><ci:page num="186"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Sarina</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003105-001" status="unval">(1925) 42 WN (NSW) 186</ci:span></citefragment></ci:content></ci:cite>. But the registrar otherwise has authority to allow executor's accounts (see SCR Pt 78 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT78.R94.3" remotekey1="REFPTID" service="DOC-ID">r 94(3)</remotelink></ci:content></ci:cite>
+). There is therefore no necessity in the ordinary case to apply to the court for the passing of accounts, and the costs of any such application will be disallowed: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1903"/></ci:caseinfo><ci:caseref ID="cr003106" spanref="cr003106-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="4"/><ci:page num="240"/></ci:caseref><ci:caseref ID="cr003107" spanref="cr003107-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="20"/><ci:page num="254"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Ewer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003106-001" status="unval">(1903) 4 SR (NSW) 240</ci:span>; <ci:span spanid="cr003107-002" status="unval">20 WN (NSW) 254</ci:span></citefragment> <remotelink dpsi="0018" refpt="68029" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; followed <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1915"/></ci:caseinfo><ci:caseref ID="cr003108" spanref="cr003108-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="32"/><ci:page num="95"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Walker</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003108-001" status="unval">(1915) 32 WN (NSW) 95</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+<p>
+<text>On the one hand the registrar may allow proper disbursements, even where they are not specifically provided for in the will: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1923"/></ci:caseinfo><ci:caseref ID="cr003109" spanref="cr003109-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="24"/><ci:page num="108"/></ci:caseref><ci:caseref ID="cr003110" spanref="cr003110-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="41"/><ci:page num="11"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chesterman v Mitchell</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003109-001" status="unval">(1923) 24 SR (NSW) 108</ci:span>; <ci:span spanid="cr003110-002" status="unval">41 WN (NSW) 11</ci:span></citefragment> <remotelink dpsi="0018" refpt="70506" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1908"/></ci:caseinfo><ci:caseref ID="cr003111" spanref="cr003111-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="24"/><ci:page num="211"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Macarthur</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003111-001" status="unval">(1908) 24 WN (NSW) 211</ci:span></citefragment></ci:content></ci:cite> (costs of the erection of a monument over the testator's grave). In addition, the cost of obtaining a surety may in some circumstances be allowed: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1917"/></ci:caseinfo><ci:caseref ID="cr003112" spanref="cr003112-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="17"/><ci:page num="239"/></ci:caseref><ci:caseref ID="cr003113" spanref="cr003113-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="34"/><ci:page num="101"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Estate of Gracey</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003112-001" status="unval">(1917) 17 SR (NSW) 239</ci:span>; <ci:span spanid="cr003113-002" status="unval">34 WN (NSW) 101</ci:span></citefragment> <remotelink dpsi="0018" refpt="69814" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>On the other hand, the registrar may disallow disbursements that appear to have been made in breach of trust or are not properly chargeable against the estate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1931"/></ci:caseinfo><ci:caseref ID="cr003114" spanref="cr003114-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="49"/><ci:page num="18"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Lucas-Tooth (No 1)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003114-001" status="unval">(1931) 49 WN (NSW) 18</ci:span></citefragment> <remotelink dpsi="0018" refpt="41619" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; on appeal <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1932"/></ci:caseinfo><ci:caseref ID="cr003115" spanref="cr003115-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="50"/><ci:page num="86"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the Will of Lucas-Tooth (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003115-001" status="unval">(1932) 50 WN (NSW) 86</ci:span></citefragment> <remotelink dpsi="0018" refpt="41620" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.78-89-15" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 78.89.15] Power of registrar to modify accounts"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.78-89-15" type="ext"/>[SCR Pt 78.89.15] </edpnum><title>Power of registrar to modify accounts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In passing the accounts filed for the executors the Registrar may moderate bills for costs for which the executor seeks reimbursement out of the estate, notwithstanding that the bills have not yet been paid: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2011"/></ci:caseinfo><ci:caseref ID="cr003116" spanref="cr003116-001" status="unval"><ci:reporter value="ASTLR"/><ci:volume num="5"/><ci:page num="320"/></ci:caseref><ci:caseref ID="cr003117" spanref="cr003117-002"><ci:reporter value="urj"/><ci:refnum num="BC201108915"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Shave v Shave; Estate of Shave</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003116-001" status="unval">(2011) 5 ASTLR 320</ci:span>; [2011] NSWSC 1356; <ci:span spanid="cr003117-002"> BC201108915</ci:span></citefragment> <remotelink dpsi="0018" refpt="542463" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

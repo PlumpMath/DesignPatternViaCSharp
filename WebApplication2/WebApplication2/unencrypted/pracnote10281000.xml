@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE CASEDOC PUBLIC "-//LEXISNEXIS//DTD GLP Casedoc v005//EN" "casedoc-norm.dtd">
+<CASEDOC type="practicenote" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="3"><docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[SC Gen 14] Practice Note SC Gen 14 Supreme Court &#x2014; Freezing Orders (also known as &#x2018;Mareva orders&#x2019; or &#x2018;asset preservation orders&#x2019;)</docinfo:doc-heading><docinfo:doc-id>UCPN_PRACNOTE.SGM_UCPN.PN.SC.PN14</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>PRACTICE NOTES</title></heading><docinfo:hierlev role="ancestor"><heading><title>Supreme Court Practice Notes</title></heading><docinfo:hierlev role="me"><heading><edpnum>[SC Gen 14]</edpnum><desig><designum>Practice Note SC Gen 14</designum></desig><title>Supreme Court &#x2014; Freezing Orders (also known as &#x2018;Mareva orders&#x2019; or &#x2018;asset preservation orders&#x2019;)</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>130140000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.PRACNOTE"/><docinfo:metaitem name="parent-filename" value="pracnote.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_PRACNOTE.SGM_UCPN.PN.SC.PN14"/><docinfo:metaitem name="parent-filename" value="pracnote1028.xml"/></docinfo:lbu-meta><docinfo:selector>case</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date></docinfo>
+<case:body><heading searchtype="PRACTICE-NOTE"><edpnum><refpt id="UCPN.PN.SC.PN14" type="ext"/>[SC Gen 14]</edpnum>
+<desig><designum>Practice Note SC Gen 14</designum></desig></heading>
+<case:headnote>
+<case:info><case:casename searchtype="PRACTICE-NOTE">Supreme Court &#x2014; Freezing Orders (also known as &#x2018;Mareva orders&#x2019; or &#x2018;asset preservation orders&#x2019;)</case:casename></case:info></case:headnote><case:content>
+<case:judgments><case:judgment><case:judgmentbody>
+<pgrp>
+<heading><title>Application</title></heading>
+<p>
+<text>This Practice Note applies to the Court of Appeal and to the Common Law and the Equity Divisions of the Supreme Court.</text></p></pgrp>
+<pgrp>
+<heading><title>Commencement</title></heading>
+<p>
+<text>This Practice Note was issued on 16 June 2010 and commences on 1 July 2010.</text></p></pgrp>
+<pgrp>
+<heading><title>Freezing Orders</title></heading>
+<p>
+<l>
+<li>
+<lilabel>1.</lilabel>
+<p><text>This Practice Note supplements 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT25.D2" remotekey1="REFPTID" service="DOC-ID">Division 2</remotelink></ci:content></ci:cite>
+ of Part 25 of the Uniform Civil Procedure Rules 2005 (UCPR) relating to freezing orders (also known as &#x2018;<emph typestyle="it">Mareva</emph> orders&#x2019; after <emph typestyle="it">Mareva Compania Naviera SA v International Bulkcarriers SA (The Mareva)</emph> [1975] 2 Lloyd&#x2019;s Rep 509, or &#x2018;asset preservation orders&#x2019;).</text></p></li>
+<li>
+<lilabel>2.</lilabel>
+<p><text>This Practice Note addresses (among other things) the Court&#x2019;s usual practice relating to the making of a freezing order and the usual terms of such an order. While a standard practice has benefits, this Practice Note and the example form of order annexed to it do not, and cannot, limit the judicial discretion to make such order as is appropriate in the circumstances of the particular case.</text></p></li>
+<li>
+<lilabel>3.</lilabel>
+<p><text>Words and expressions in this Practice Note that are defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R25-10" remotekey1="REFPTID" service="DOC-ID">UCPR rule 25.10</remotelink></ci:content></ci:cite>
+ have the meanings given to them in that rule.</text></p></li>
+<li>
+<lilabel>4.</lilabel>
+<p><text>An example form of ex parte freezing order is annexed to this Practice Note. The example form may be adapted to meet the circumstances of the particular case. It may be adapted for an inter partes freezing order as indicated in the footnotes to the example form (the footnotes and references to footnotes should not form part of the order as made). The example form contains provisions aimed at achieving the permissible objectives of the order consistently with the proper protection of the respondent and third parties.</text></p></li>
+<li>
+<lilabel>5.</lilabel>
+<p><text>The purpose of a freezing order is to prevent frustration or abuse of the process of the Court, not to provide security in respect of a judgment or order.</text></p></li>
+<li>
+<lilabel>6.</lilabel>
+<p><text>A freezing order should be viewed as an extraordinary interim remedy because it can restrict the right to deal with assets even before judgment, and is commonly granted ex parte.</text></p></li>
+<li>
+<lilabel>7.</lilabel>
+<p><text>The respondent is often the person said to be liable on a substantive cause of action of the applicant. However, the respondent may also be a third party, in the sense of a person who has possession, custody or control, or even ownership, of assets which he or she may be obliged ultimately to disgorge to help satisfy a judgment against another person. Subrule 5(5) addresses the minimum requirements that must ordinarily be satisfied on an application for a freezing order against such a third party before the discretion is enlivened. The third party will not necessarily be a party to the substantive proceeding, (see <emph typestyle="it">Cardile v LED Builders Pty Ltd</emph> (1999) 198 CLR 380) but will be a respondent to the application for the freezing or ancillary order. Where a freezing order against a third party seeks only to freeze the assets of another person in the third party&#x2019;s possession, custody or control (but not ownership), the example form will require adaptation. In particular, the references to &#x2018;<emph typestyle="it">your assets</emph>&#x2019; and &#x2018;<emph typestyle="it">in your name</emph>&#x2019; should be changed to refer to the other person&#x2019;s assets or name (eg &#x2018;<emph typestyle="it">John Smith&#x2019;s assets</emph>&#x2019;, &#x2018;<emph typestyle="it">in John Smith&#x2019;s name</emph>&#x2019;).</text></p></li>
+<li>
+<lilabel>8.</lilabel>
+<p><text>A freezing or ancillary order may be limited to assets in Australia or in a defined part of Australia, or may extend to assets anywhere in the world, and may cover all assets without limitation, assets of a particular class, or specific assets (such as the amounts standing to the credit of identified bank accounts). </text></p></li>
+<li>
+<lilabel>9.</lilabel>
+<p><text>The duration of an ex parte freezing order should be limited to a period terminating on the return day of the motion, which should be as early as practicable (usually not more than a day or two) after the order is made, when the respondent will have the opportunity to be heard. The applicant will then bear the onus of satisfying the Court that the order should be continued or renewed.</text></p></li>
+<li>
+<lilabel>10.</lilabel>
+<p><text>A freezing order should reserve liberty for the respondent to apply on short notice. An application by the respondent to discharge or vary a freezing order will normally be treated by the Court as urgent.</text></p></li>
+<li>
+<lilabel>11.</lilabel>
+<p><text>The value of the assets covered by a freezing order should not exceed the likely maximum amount of the applicant&#x2019;s claim, including interest and costs. Sometimes it may not be possible to satisfy this principle (for example, an employer may discover that an employee has been making fraudulent misappropriations, but does not know how much has been misappropriated at the time of the discovery and at the time of the approach to the Court).</text></p></li>
+<li>
+<lilabel>12.</lilabel>
+<p><text>The order should, where appropriate, exclude dealings by the respondent with its assets for legitimate purposes, in particular:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>payment of ordinary living expenses;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>payment of reasonable legal expenses;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>dealings and dispositions in the ordinary and proper course of the respondent&#x2019;s business, including paying business expenses bona fide and properly incurred; and</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>dealings and dispositions in the discharge of obligations bona fide and properly incurred under a contract entered into before the order was made.</text></p></li></l></li>
+<li>
+<lilabel>13.</lilabel>
+<p><text>Where a freezing order extends to assets outside Australia, the order should provide for the protection of persons outside Australia and third parties. Such provisions are included in the example form of freezing order.</text></p></li>
+<li>
+<lilabel>14.</lilabel>
+<p><text>The Court may make ancillary orders. The most common example of an ancillary order is an order for disclosure of assets. The annexed example form provides for such an order in paragraph 8 and for the privilege against self-incrimination in paragraph 9. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S128A" remotekey1="REFPTID" service="DOC-ID">Section 128A</remotelink></ci:content></ci:cite>
+ of the Evidence Act 1995 (Cth) and Evidence Act 1995 (NSW) govern objection to compliance on the self-incrimination ground in relation to a freezing order. In particular subsections, (3)ff of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S128A" remotekey1="REFPTID" service="DOC-ID">s 128A</remotelink></ci:content></ci:cite>
+ govern the procedure to be followed after objection is taken in accordance with paragraph 9 of the example form of freezing order annexed to this Practice Note.</text></p></li>
+<li>
+<lilabel>15.</lilabel>
+<p><text>The rules of court confirm that certain restrictions expressed in <emph typestyle="it">The Siskina</emph> [1979] AC 210 do not apply in this jurisdiction. First, the Court may make a freezing order before a cause of action has accrued (a &#x2018;<emph typestyle="it">prospective</emph>&#x2019; cause of action). Secondly, the Court may make a free-standing freezing order in aid of foreign proceedings in prescribed circumstances. Thirdly, where there are assets in Australia, service out of Australia is permitted under a new &#x2018;long arm&#x2019; service rule.</text></p></li>
+<li>
+<lilabel>16.</lilabel>
+<p><text>As a condition of the making of a freezing order, the Court will normally require appropriate undertakings by the applicant to the Court, including the usual undertaking as to damages.</text></p></li>
+<li>
+<lilabel>17.</lilabel>
+<p><text>If it is demonstrated that the applicant has or may have insufficient assets within the jurisdiction of the Court to provide substance for the usual undertaking as to damages, the applicant may be required to support the undertaking by providing security. There is provision for such security in the example form of freezing order.</text></p></li>
+<li>
+<lilabel>18.</lilabel>
+<p><text>The order to be served should be endorsed with a notice which meets the requirements of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R40-7" remotekey1="REFPTID" service="DOC-ID">UCPR rule 40.7</remotelink></ci:content></ci:cite>
+.</text></p></li>
+<li>
+<lilabel>19.</lilabel>
+<p><text>An applicant for an ex parte freezing order is under a duty to make full and frank disclosure of all material facts to the Court. This includes disclosure of possible defences known to the applicant and of any information which may cast doubt on the applicant&#x2019;s ability to meet the usual undertaking as to damages from assets within Australia.</text></p></li>
+<li>
+<lilabel>20.</lilabel>
+<p><text>The affidavits relied on in support of an application for a freezing or ancillary order should, if possible, address the following:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>information about the judgment that has been obtained, or, if no judgment has been obtained, the following information about the cause of action:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>the basis of the claim for substantive relief;</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>the amount of the claim; and</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>if the application is made without notice to the respondent, the applicant&#x2019;s knowledge of any possible defence;</text></p></li></l></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>the nature and value of the respondent&#x2019;s assets, so far as they are known to the applicant, within and outside Australia;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>the matters referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R25-14" remotekey1="REFPTID" service="DOC-ID">UCPR rule 25.14</remotelink></ci:content></ci:cite>
+; and</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>the identity of any person, other than the respondent, who, the applicant believes, may be affected by the order, and how that person may be affected by it.</text></p></li></l></li></l></p></pgrp></case:judgmentbody></case:judgment></case:judgments>
+<case:appendix><sigblock>
+<p><text>
+<date>16 June 2010</date><person><name.text>J J Spigelman AC</name.text>
+<role>Chief Justice of New South Wales</role></person></text></p></sigblock>
+<pgrp>
+<heading><title>Amendment history</title></heading>
+<p>
+<text>16 June 2010: This Practice Note replaces the previous version of SC Gen 14 that was issued and commenced on 14 June 2006.</text></p>
+<p>
+<blockquote>
+<p indent="none"><text align="center"><emph typestyle="bf">Example form of ex parte Freezing Order</emph></text></p>
+<p indent="none"><text align="center">[Title of Proceeding]</text></p>
+<p indent="none"><text align="center"><emph typestyle="bf">PENAL NOTICE</emph></text></p>
+<p indent="none"><text><emph typestyle="bf">TO:</emph>&#x2003;[<emph typestyle="it">name of person against whom the order is made</emph>]</text></p>
+<p indent="none"><text><emph typestyle="bf">IF YOU:</emph></text></p>
+<p i="1.6" indent="1st-line"><text><emph typestyle="bf">(A)&#x2002;REFUSE OR NEGLECT TO DO ANY ACT WITHIN THE TIME SPECIFIED IN THIS ORDER FOR THE DOING OF THE ACT; OR</emph></text></p>
+<p i="1.6" indent="1st-line"><text><emph typestyle="bf">(B)&#x2002;DISOBEY THE ORDER BY DOING AN ACT WHICH THE ORDER REQUIRES YOU TO ABSTAIN FROM DOING, YOU WILL BE LIABLE TO IMPRISONMENT, SEQUESTRATION OF PROPERTY OR OTHER PUNISHMENT.</emph></text></p>
+<p indent="none"><text><emph typestyle="bf">ANY OTHER PERSON WHO KNOWS OF THIS ORDER AND DOES ANYTHING WHICH HELPS OR PERMITS YOU TO BREACH THE TERMS OF THIS ORDER MAY BE SIMILARLY PUNISHED.</emph></text></p>
+<p indent="none"><text><emph typestyle="bf">TO:</emph>&#x2003;[<emph typestyle="it">name of person against whom the order is made</emph>]</text></p>
+<p indent="none"><text>This is a &#x2018;<emph typestyle="bf">freezing order</emph>&#x2019; made against you on [<emph typestyle="it">insert date</emph>] by Justice [<emph typestyle="it">insert name of Judge</emph>] at a hearing without notice to you after the Court was given the undertakings set out in Schedule A to this order and after the Court read the affidavits listed in Schedule B to this order
+<fnr fnrtoken="UCPN.PN.SC.PN14.FTN1-R" fntoken="UCPN.PN.SC.PN14.FTN1">1</fnr></text></p>
+<p indent="none"><text><emph typestyle="bf">THE COURT ORDERS:</emph></text></p></blockquote></p></pgrp>
+<pgrp>
+<heading><title>INTRODUCTION</title></heading>
+<p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>The application for this order is made returnable immediately. </text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>The time for service of the application, supporting affidavits and originating process is abridged and service is to be effected by [<emph typestyle="it">insert time and date</emph>].
+<fnr fnrtoken="UCPN.PN.SC.PN14.FTN2-R" fntoken="UCPN.PN.SC.PN14.FTN2">2</fnr></text></p></li></l>
+<text>Subject to the next paragraph, this order has effect up to and including [<emph typestyle="it">insert date</emph>] (&#x2018;<emph typestyle="bf">the return day</emph>&#x2019;). On the return day at [<emph typestyle="it">insert time</emph>] am/pm there will be a further hearing in respect of this order before the Court.
+<fnr fnrtoken="UCPN.PN.SC.PN14.FTN3-R" fntoken="UCPN.PN.SC.PN14.FTN3">3</fnr></text></p>
+<p>
+<text>Anyone served with or notified of this order, including you, may apply to the Court at any time to vary or discharge this order or so much of it as affects the person served or notified.</text></p>
+<p>
+<text>In this order:</text>
+<l>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">applicant</emph>, if there is more than one applicant, includes all the applicants;</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">you</emph>, where there is more than one of you, includes all of you and includes you if you are a corporation;</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">third party </emph> means a person other than you and the applicant;</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text><emph typestyle="bf">unencumbered value </emph> means value free of mortgages, charges, liens or other encumbrances; and</text></p></li></l>
+<text>if you are ordered to do or not to do something you must do it or not do it yourself or through directors, officers, partners, employees, agents or others acting on your behalf or on your instructions or with your encouragement or in any other way.</text></p>
+<p>
+<l>
+<li><lilabel>5.</lilabel>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>If you are ordered to do something, you must do it by yourself or through directors, officers, partners, employees, agents or others acting on your behalf or on your instructions.</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>If you are ordered not to do something, you must not do it yourself or through directors, officers, partners, employees, agents or others acting on your behalf or on your instructions or with your encouragement or in any other way.</text></p></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>FREEZING OF ASSETS</title></heading>
+<p>
+<text>[<emph typestyle="it">For order limited to assets in Australia</emph>]</text>
+<l>
+<li><lilabel>6.</lilabel>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>You must not remove from Australia or in any way dispose of, deal with or diminish the value of any of your assets in Australia (<emph typestyle="bf">Australian assets</emph>) up to the unencumbered value of AUD$&#x2003; (<emph typestyle="bf">the Relevant Amount</emph>).</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>If the unencumbered value of your Australian assets exceeds the Relevant Amount, you may remove any of those assets from Australia or dispose of or deal with them or diminish their value, so long as the total unencumbered value of your Australian assets still exceeds the Relevant Amount.</text></p></li></l></li></l>
+<text>[<emph typestyle="it">If the Court makes a worldwide order, the following additional paragraph (c) also applies.</emph>] </text></p>
+<p>
+<l>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>If the unencumbered value of your Australian assets is less than the Relevant Amount, and you have assets outside Australia (<emph typestyle="bf">ex-Australian assets</emph>):</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>You must not dispose of, deal with or diminish the value of any of your Australian assets and ex-Australian assets up to the unencumbered value of your Australian and ex-Australian assets of the Relevant Amount; and</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>You may dispose of, deal with or diminish the value of any of your ex-Australian assets, so long as the unencumbered value of your Australian assets and ex-Australian assets still exceeds the Relevant Amount.</text></p></li></l></li></l>
+<text>[<emph typestyle="it">For either form of order</emph>] </text></p>
+<p>
+<l>
+<li>
+<lilabel>7.</lilabel>
+<p><text>For the purposes of this order,</text></p>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>your assets include:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>all your assets, whether or not they are in your name and whether they are solely or co-owned;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>any asset which you have the power, directly or indirectly, to dispose of or deal with as if it were your own (you are to be regarded as having such power if a third party holds or controls the asset in accordance with your direct or indirect instructions); and</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>the following assets in particular:</text></p>
+<l>
+<li>
+<lilabel> </lilabel>
+<p><text>the property known as [<emph typestyle="it">title/address</emph>] or, if it has been sold, the net proceeds of the sale;</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text>the assets of your business [known as [<emph typestyle="it">name</emph>]] [carried on at [<emph typestyle="it">address</emph>]] or, if any or all of the assets have been sold, the net proceeds of the sale ; and</text></p></li>
+<li>
+<lilabel> </lilabel>
+<p><text>any money in account [<emph typestyle="it">numbered account number</emph>] [<emph typestyle="it">in the name of </emph>] at [<emph typestyle="it">name of bank and name and address of branch</emph>].</text></p></li></l></li></l></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>the value of your assets is the value of the interest you have individually in your assets.</text></p></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>PROVISION OF INFORMATION
+<!-- NotMgr::footnote::parent== OK  ancestry[COMM.ATT::PARA.GRP::TITLE::FOOTNOTE]  -->
+<fnr fnrtoken="UCPN.PN.SC.PN14.FTN4-R" fntoken="UCPN.PN.SC.PN14.FTN4">4</fnr></title></heading>
+<p>
+<l>
+<li>
+<lilabel>8.</lilabel>
+<p><text>Subject to paragraph 9, you must:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>at or before the further hearing on the return day (or within such further time as the Court may allow) to the best of your ability inform the applicant in writing of all your assets in [<emph typestyle="it">Australia</emph>] [<emph typestyle="it">world wide</emph>], giving their value, location and details (including any mortgages, charges or other encumbrances to which they are subject) and the extent of your interest in the assets;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>within [&#x2003;&#x2003;&#x2003;] working days after being served with this order, swear and serve on the applicant an affidavit setting out the above information.</text></p></li></l></li>
+<li><lilabel>9.</lilabel>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>This paragraph (9) applies if you are not a corporation and you wish to object to complying with paragraph 8 on the grounds that some or all of the information required to be disclosed may tend to prove that you:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>have committed an offence against or arising under an Australian law or a law of a foreign country; or</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>are liable to a civil penalty.</text></p></li></l></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>This paragraph (9) also applies if you are a corporation and all of the persons who are able to comply with paragraph 8 on your behalf and with whom you have been able to communicate, wish to object to your complying with paragraph 8 on the grounds that some or all of the information required to be disclosed may tend to prove that they respectively:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>have committed an offence against or arising under an Australian law or a law of a foreign country; or</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>are liable to a civil penalty.</text></p></li></l></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>You must:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>disclose so much of the information required to be disclosed to which no objection is taken; and</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>prepare an affidavit containing so much of the information required to be disclosed to which objection is taken, and deliver it to the Court in a sealed envelope; and</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>file and serve on each other party a separate affidavit setting out the basis of the objection.</text></p></li></l></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>EXCEPTIONS TO THIS ORDER</title></heading>
+<p>
+<l>
+<li>
+<lilabel>10.</lilabel>
+<p><text>This order does not prohibit you from:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>paying [up to $&#x2009;&#x2026; a week/day on] [your ordinary] living expenses;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>paying [$&#x2009;&#x2026; on] [your reasonable] legal expenses;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>dealing with or disposing of any of your assets in the ordinary and proper course of your business, including paying business expenses bona fide and properly incurred; and</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>in relation to matters not falling within (a), (b) or (c), dealing with or disposing of any of your assets in discharging obligations bona fide and properly incurred under a contract entered into before this order was made, provided that before doing so you give the applicant, if possible, at least two working days written notice of the particulars of the obligation.</text></p></li></l></li>
+<li>
+<lilabel>11.</lilabel>
+<p><text>You and the applicant may agree in writing that the exceptions in the preceding paragraph are to be varied. In that case the applicant or you must as soon as practicable file with the Court and serve on the other a minute of a proposed consent order recording the variation signed by or on behalf of the applicant and you, and the Court may order that the exceptions are varied accordingly.</text></p></li>
+<li><lilabel>12.</lilabel>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>This order will cease to have effect if you:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>pay the sum of $&#x2009;&#x2026; into Court; or</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>pay that sum into a joint bank account in the name of your solicitor and the solicitor for the applicant as agreed in writing between them; or</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>provide security in that sum by a method agreed in writing with the applicant to be held subject to the order of the Court.</text></p></li></l></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>Any such payment and any such security will not provide the applicant with any priority over your other creditors in the event of your insolvency.</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>If this order ceases to have effect pursuant (a), you must as soon as practicable file with the Court and serve on the applicant notice of that fact.</text></p></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>COSTS</title></heading>
+<p>
+<l>
+<li>
+<lilabel>13.</lilabel>
+<p><text>The costs of this application are reserved to the judge hearing the application on the return day.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>PERSONS OTHER THAN THE APPLICANT AND RESPONDENT</title></heading>
+<p>
+<l>
+<li>
+<lilabel>14.</lilabel>
+<p><text><emph typestyle="bf">Set off by banks </emph></text></p>
+<p><text>This order does not prevent any bank from exercising any right of set off it has in respect of any facility which it gave you before it was notified of this order.</text></p></li></l></p>
+<p>
+<l>
+<li>
+<lilabel>15.</lilabel>
+<p><text><emph typestyle="bf">Bank withdrawals by the respondent </emph></text></p>
+<p><text>No bank need inquire as to the application or proposed application of any money withdrawn by you if the withdrawal appears to be permitted by this order.</text></p></li></l></p>
+<p>
+<text>[<emph typestyle="it">For world wide order</emph>]</text></p>
+<p>
+<l>
+<li><lilabel>16.</lilabel>
+<p>
+<text><emph typestyle="bf">Persons outside Australia</emph></text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>Except as provided in subparagraph (b) below, the terms of this order do not affect or concern anyone outside Australia.</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>The terms of this order will affect the following persons outside Australia:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>you and your directors, officers, employees and agents (except banks and financial institutions);</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>any person (including a bank or financial institution) who:</text></p>
+<l>
+<li>
+<lilabel>(A)</lilabel>
+<p><text>is subject to the jurisdiction of this Court; and</text></p></li>
+<li>
+<lilabel>(B)</lilabel>
+<p><text>has been given written notice of this order, or has actual knowledge of the substance of the order and of its requirements; and</text></p></li>
+<li>
+<lilabel>(C)</lilabel>
+<p><text>is able to prevent or impede acts or omissions outside Australia which constitute or assist in a disobedience breach of the terms of this order; and</text></p></li></l></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>any other person (including a bank of financial institution), only to the extent that this order is declared enforceable by or is enforced by a court in a country or state that has jurisdiction over that person or over any of that person&#x2019;s assets.</text></p></li></l></li></l></li></l></p>
+<p>
+<text>[<emph typestyle="it">For world wide order</emph>] </text></p>
+<p>
+<l>
+<li>
+<lilabel>17.</lilabel>
+<p><text><emph typestyle="bf">Assets located outside Australia </emph></text></p>
+<p><text>Nothing in this order shall, in respect of assets located outside Australia, prevent any third party from complying or acting in conformity with what it reasonably believes to be its bona fide and properly incurred legal obligations, whether contractual or pursuant to a court order or otherwise, under the law of the country or state in which those assets are situated or under the proper law of any contract between a third party and you, provided that in the case of any future order of a court of that country or state made on your or the third party&#x2019;s application, reasonable written notice of the making of the application is given to the applicant.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>UNDERTAKINGS GIVEN TO THE COURT BY THE APPLICANT</title></heading>
+<p>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>The applicant undertakes to submit to such order (if any) as the Court may consider to be just for the payment of compensation (to be assessed by the Court or as it may direct) to any person (whether or not a party) affected by the operation of the order.</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>As soon as practicable, the applicant will file and serve upon the respondent copies of:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>this order;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>the summons or notice of motion to be relied on at the hearing on the return day;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>the following material in so far as it was relied on by the applicant at the hearing when the order was made:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>affidavits (or draft affidavits);</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>exhibits capable of being copied;</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>any written submission; and</text></p></li>
+<li>
+<lilabel>(iv)</lilabel>
+<p><text>any other document that was provided to the Court.</text></p></li></l></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>a transcript, or, if none is available, a note, of any exclusively oral allegation of fact that was made and of any exclusively oral submission that was put, to the Court; </text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>the originating process, or, if none was filed, any draft originating process produced to the Court.</text></p></li></l></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text>As soon as practicable, the applicant will cause anyone notified of this order to be given a copy of it.</text></p></li>
+<li>
+<lilabel>(4)</lilabel>
+<p><text>The applicant will pay the reasonable costs of anyone other than the respondent which have been incurred as a result of this order, including the costs of finding out whether that person holds any of the respondent&#x2019;s assets.</text></p></li>
+<li>
+<lilabel>(5)</lilabel>
+<p><text>If this order ceases to have effect
+<fnr fnrtoken="UCPN.PN.SC.PN14.FTN5-R" fntoken="UCPN.PN.SC.PN14.FTN5">5</fnr> the applicant will promptly take all reasonable steps to inform in writing anyone who has been notified of this order, or who he has reasonable grounds for supposing may act upon this order, that it has ceased to have effect.</text></p></li>
+<li>
+<lilabel>(6)</lilabel>
+<p><text>The applicant will not, without leave of the Court, use any information obtained as a result of this order for the purpose of any civil or criminal proceedings, either in or outside Australia, other than this proceeding.</text></p></li>
+<li>
+<lilabel>(7)</lilabel>
+<p><text>The applicant will not, without leave of the Court, seek to enforce this order in any country outside Australia or seek in any country outside Australia an order of a similar nature or an order conferring a charge or other security against the respondent or the respondent&#x2019;s assets.</text></p></li>
+<li>
+<lilabel>[(8)</lilabel>
+<p><text>The applicant will:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>on or before [<emph typestyle="it">date</emph>] cause an irrevocable undertaking to pay in the sum of $&#x2003;&#x2003;&#x2003;&#x2003; to be issued by a bank with a place of business within Australia, in respect of any order the court may make pursuant to undertaking (1) above; and</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>immediately upon issue of the irrevocable undertaking, cause a copy of it to be served on the respondent.]
+<fnr fnrtoken="UCPN.PN.SC.PN14.FTN6-R" fntoken="UCPN.PN.SC.PN14.FTN6">6</fnr></text></p></li></l></li></l></p>
+<p>
+<blockquote>
+<p indent="none"><text align="center"><emph typestyle="bf">SCHEDULE B</emph>
+<fnr fnrtoken="UCPN.PN.SC.PN14.FTN7-R" fntoken="UCPN.PN.SC.PN14.FTN7">7</fnr></text></p>
+<p indent="none"><text align="center"><emph typestyle="bf">AFFIDAVITS RELIED ON</emph></text></p></blockquote>
+<table frame="none" pgwide="1">
+<tgroup align="left" cols="3" colsep="1" rowsep="1">
+<colspec colname="col1" colsep="0" colwidth="10*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="218*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="300*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry align="center" colname="col1" colsep="0" morerows="0" nameend="col2" namest="col1" rowsep="0"><emph typestyle="bf">Name of Deponent</emph></entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">Date affidavit made</emph></entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">(1)</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">(2)</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">(3)</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0"><emph typestyle="bf">NAME AND ADDRESS OF APPLICANT'S LEGAL REPRESENTATIVES</emph></entry>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" nameend="col2" namest="col1" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" nameend="col2" namest="col1" rowsep="0">The applicant&#x2019;s legal representatives are:</entry>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0">[<emph typestyle="it">Name, address, reference, fax and telephone numbers both in and out of office hours and email</emph>].</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p></pgrp>
+<footnotegrp><footnote fnrtokens="UCPN.PN.SC.PN14.FTN1-R" fntoken="UCPN.PN.SC.PN14.FTN1" type="default"><fnlabel>1</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN14.FTN1" type="ext"/>
+<text>The words &#x2018;<emph typestyle="it">without notice to you</emph>&#x2019; and &#x2018;<emph typestyle="it">and after the Court has read the affidavits listed in Schedule B to this order</emph>&#x2019; are appropriate only in the case of an ex parte order.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.PN.SC.PN14.FTN2-R" fntoken="UCPN.PN.SC.PN14.FTN2" type="default"><fnlabel>2</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN14.FTN2" type="ext"/>
+<text>Paragraph 1 is appropriate only in the case of an ex parte order.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.PN.SC.PN14.FTN3-R" fntoken="UCPN.PN.SC.PN14.FTN3" type="default"><fnlabel>3</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN14.FTN3" type="ext"/>
+<text>Paragraph 2 is appropriate only in the case of an ex parte order.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.PN.SC.PN14.FTN4-R" fntoken="UCPN.PN.SC.PN14.FTN4" type="default"><fnlabel>4</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN14.FTN4" type="ext"/>
+<text>See Practice Note paragraph 14.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.PN.SC.PN14.FTN5-R" fntoken="UCPN.PN.SC.PN14.FTN5" type="default"><fnlabel>5</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN14.FTN5" type="ext"/>
+<text>For example, if the respondent pays money into Court or provides security, as provided for in paragraph 12 of this Order.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.PN.SC.PN14.FTN6-R" fntoken="UCPN.PN.SC.PN14.FTN6" type="default"><fnlabel>6</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN14.FTN6" type="ext"/>
+<text>See Practice Note paragraph 17.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.PN.SC.PN14.FTN7-R" fntoken="UCPN.PN.SC.PN14.FTN7" type="default"><fnlabel>7</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN14.FTN7" type="ext"/>
+<text>Schedule B is appropriate only in the case of an ex parte order.</text></p></fnbody></footnote></footnotegrp>
+</case:appendix>
+</case:content>
+</case:body></CASEDOC>

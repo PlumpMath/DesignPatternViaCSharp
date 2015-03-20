@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 GENERAL [rr 47.1&#x2013;47.8]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT47.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 47 MATTERS ARISING UNDER THE COMMERCIAL ARBITRATION ACT 2010 [rr 47.1&#x2013;47.20]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 GENERAL [rr 47.1&#x2013;47.8]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50011320</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT47"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 47 MATTERS ARISING UNDER THE COMMERCIAL ARBITRATION ACT 2010 [rr 47.1&#x2013;47.20]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT47" type="ext"/>PART 47</designum></desig><title searchtype="PART-TITLE">MATTERS ARISING UNDER THE COMMERCIAL ARBITRATION ACT 2010 [rr 47.1&#x2013;47.20]</title><leg:histnote>
+<p><text>[Pt 47  insrt Amendment 10 of 2006  r 2 and Sch 1[12], effective 7 July 2006 ; am Amendment 37 of 2010  Sch 1[1], effective 5 October 2010]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT47.R0.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.47-0-0" leveltype="para0" subdoc="true" toc-caption="[47.0.0] Introductory note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [47.0.0] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1984-160" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 1984</remotelink>.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1974-136" remotekey1="REFPTID" service="DOC-ID">International Arbitration Act 1974</remotelink>.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2010-61" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 2010</remotelink> ss 1C, 2A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.47-0-0" type="ext"/>[47.0.0] </edpnum><title>Introductory note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Commercial Arbitration Act 2010 repealed and replaced the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CARB" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 1984</remotelink></ci:content></ci:cite>
+ on 1 October 2010. The provisions of the Commercial Arbitration Act 2010 are based upon the UNCITRAL Model Law on International Commercial Arbitration (as adopted by the United Nations Commission on International Trade Law on 21 June 1985 with amendments as adopted by that Commission in 2006).</text></p>
+<p>
+<text>Australian arbitration law has always been &#x201c;dualist&#x201d; &#x2014; one law for international (Commonwealth) and another for domestic (State). The international arbitration regime is governed by a federal statute, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IAA74" remotekey1="REFPTID" service="DOC-ID" status="unval">International Arbitration Act 1974</remotelink></ci:content></ci:cite>
+ (Cth) (itself significantly reformed to apply the UNCITRAL Model Law); the domestic arbitration regime in NSW is governed by the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CAAN10" remotekey1="REFPTID" service="DOC-ID" status="unval">Commercial Arbitration Act 2010</remotelink></ci:content></ci:cite>
+ (NSW). The Commercial Arbitration Act 2010 and similar Acts introduced in other Australian state jurisdictions and the reforms to the International Arbitration Act 1974 (Cth) are intended to narrow the gap between laws applicable to domestic and international arbitration. While in each state there will still be separate statutes for domestic and international arbitration, the intention is to achieve general consistency between the state and federal statutes (all based on the UNCITRAL Model Law). </text></p>
+<p>
+<text>The paramount object of the Commercial Arbitration Act 2010, as set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CAAN10.S1C" remotekey1="REFPTID" service="DOC-ID" status="unval">ss 1C</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CAAN10.S2A" remotekey1="REFPTID" service="DOC-ID" status="unval">2A</remotelink></ci:content></ci:cite>
+, is to facilitate the fair and final resolution of commercial disputes by impartial arbitral tribunals without unnecessary delay or expense. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CAAN10.S2A" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 2A</remotelink></ci:content></ci:cite>
+ requires the Commercial Arbitration Act 2010 (NSW) to be interpreted in a manner consistent with the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IAA74" remotekey1="REFPTID" service="DOC-ID" status="unval">International Arbitration Act 1974</remotelink></ci:content></ci:cite>
+ (Cth) (thus expertise developed under one regime can be applied under the other). NSW courts are bound to supervise arbitrations in a manner that is consistent with the paramount objectives.</text></p>
+<p>
+<text>The conduct or arbitral proceedings (Pt 5) under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CAAN10" remotekey1="REFPTID" service="DOC-ID" status="unval">Commercial Arbitration Act 2010</remotelink></ci:content></ci:cite>
+ differs from that under the Commercial Arbitration Act 1984:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>individuals without legal qualifications are expressly permitted to represent parties at the hearing of commercial dispute: s 24A(2)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>the tribunal may appoint one or more experts to report to it on specific issues and may compel parties to provide evidence to the expert: s 26</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>a right of appeal is only available if both parties agree or opt-in: s 34A</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>reduction in the circumstances where court intervention can be sought: ss 34&#x2013;34A</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>removes the court&#x2019;s discretion on whether to stay legal proceedings where there is a valid arbitration agreement</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>widens the powers available to arbitrators (arbitrators can order discovery, security for costs, issue a subpoena); arbitrators have the power to order interim relief and specific performance</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>NSW courts no longer have a discretion as to whether to enforce an agreement to arbitrate. On the application of a party to an arbitration agreement, the court must stay any court proceedings begun in breach of an arbitration; s 8 agreement unless the agreement is &#x201c;null and void, inoperative or incapable of being performed&#x201d;: s 8.</text></p></li></l></p>
+</bodytext>
+</level></leg:comntry>
+<p>
+<table frame="all" id="UCPN.UCPR.UCPRN05.PT47.T1" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="48*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="54*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 1 &#x2014; General &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-1" remotekey1="REFPTID" service="DOC-ID">47.1</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-8" remotekey1="REFPTID" service="DOC-ID">47.8</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division sets out the general rules governing applications arising out of the <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 2010</remotelink></ci:content></ci:cite>
+(NSW).</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 2 &#x2014; Offer of Compromise &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-10" remotekey1="REFPTID" service="DOC-ID">47.10</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-20" remotekey1="REFPTID" service="DOC-ID">47.20</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division governs the making, acceptance, withdrawal, execution, disclosure and compliance with offers of compromise in arbitration proceedings.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">This Part applies to proceedings in the Supreme Court and where the arbitration agreement so provides, to some types of District Court and Local Court proceedings: see Commercial Arbitration Act 2010 <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S2.1" remotekey1="REFPTID" service="DOC-ID">ss 2(1)</remotelink></ci:content></ci:cite>
+(definition of &#x201c;the court&#x201d;), <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S6" remotekey1="REFPTID" service="DOC-ID">6</remotelink></ci:content></ci:cite>
+.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The rules in this Part of the UCPR are based on the former SCR Pt 72A. The rules are virtually identical with the former SCR Pt 72A.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="col5" namest="col1" rowsep="0">Quick index</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Appeal&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-7" remotekey1="REFPTID" service="DOC-ID">[r 47.7]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Commercial Arbitration List&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.47-1-10" remotekey1="REFPTID" service="DOC-ID">[47.1.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Costs in arbitration&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.47-11-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[47.11.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Definition of court&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.47-1-5" remotekey1="REFPTID" service="DOC-ID">[47.1.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Enforcement of award&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-6" remotekey1="REFPTID" service="DOC-ID">[r 47.6]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Entry into the Commercial Arbitration List&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-8" remotekey1="REFPTID" service="DOC-ID">[r 47.8]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Examination of award&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-5" remotekey1="REFPTID" service="DOC-ID">[r 47.5]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Interim awards&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-11" remotekey1="REFPTID" service="DOC-ID">[r 47.11]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Interlocutory orders&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-13" remotekey1="REFPTID" service="DOC-ID">[r 47.13]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Introductory note&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.47-0-0" remotekey1="REFPTID" service="DOC-ID">[47.0.0]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Offer of compromise&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-10" remotekey1="REFPTID" service="DOC-ID">[r 47.10]</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-20" remotekey1="REFPTID" service="DOC-ID">[r 47.20]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Subpoena&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-4" remotekey1="REFPTID" service="DOC-ID">[r 47.4]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Time for application and appeals&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-2" remotekey1="REFPTID" service="DOC-ID">[r 47.2]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-3" remotekey1="REFPTID" service="DOC-ID">[r 47.3]</remotelink></ci:content></ci:cite>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.47-3-5" remotekey1="REFPTID" service="DOC-ID">[47.3.5]</remotelink></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.PT47.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 GENERAL [rr 47.1&#x2013;47.8]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT47.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">GENERAL [rr 47.1&#x2013;47.8]</title><leg:histnote>
+<p><text>[Div 1  subst Amendment 37 of 2010  Sch 1[2], effective 5 October 2010]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 47.1] r 47.1 Definitions (cf SCR Part 72A, rule 1)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R47-1" type="ext"/>[r 47.1]</edpnum><title searchtype="RUL-TITLE">Definitions (cf SCR Part 72A, rule 1)</title><desig searchtype="RUL-NUM"><designum>47.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R47-1.ARBITRAL-TRIBUNAL"><defterm><refpt id="UCPN.UCPR.UCPRN05.R47-1.ARBITRAL-TRIBUNAL" type="ext"/><emph typestyle="bf">arbitral tribunal</emph></defterm><defdesc>
+<p><text>has the same meaning as it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 2010</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R47-1.ARBITRATION"><defterm><refpt id="UCPN.UCPR.UCPRN05.R47-1.ARBITRATION" type="ext"/><emph typestyle="bf">arbitration</emph></defterm><defdesc>
+<p><text>has the same meaning as it has in the Commercial Arbitration Act 2010.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R47-1.THE-COURT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R47-1.THE-COURT" type="ext"/><emph typestyle="bf">the court</emph></defterm><defdesc>
+<p><text>means the Supreme Court or a court exercising functions under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S6.2" remotekey1="REFPTID" service="DOC-ID">section 6(2)</remotelink></ci:content></ci:cite>
+ of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 2010</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT47.R1.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.47-1-5" leveltype="para0" subdoc="true" toc-caption="[47.1.5] Definition of court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [47.1.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2010-61" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 2010</remotelink> s 6.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.47-1-5" type="ext"/>[47.1.5] </edpnum><title>Definition of court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>If an arbitration agreement provides (or the parties have otherwise agreed in writing) that the District Court or the Local Court has jurisdiction under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 2010</remotelink></ci:content></ci:cite>
+, then either of these courts may perform the functions of arbitration assistance and supervision specified in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S6" remotekey1="REFPTID" service="DOC-ID">s 6</remotelink></ci:content></ci:cite>
+ of the Act as required.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.47-1-10" leveltype="para0" subdoc="true" toc-caption="[47.1.10] Commercial Arbitration List"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.47-1-10" type="ext"/>[47.1.10] </edpnum><title>Commercial Arbitration List</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Practice Note SC Eq 9 sets out the case management procedures for the Commercial Arbitration List to facilitate the prompt resolution of disputes arising in the context of arbitral proceedings in which the Supreme Court has jurisdiction whether by virtue of the Commercial Arbitration Act 2010, the provision of an arbitration agreement or otherwise. The objective is to provide parties with a quick and effective mechanism for resolving disputes in relation to arbitration agreements or which may arise in the context or out of arbitral proceedings.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 47.2] r 47.2 Preliminary point of law (cf SCR Part 72A, rule 3)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R47-2" type="ext"/>[r 47.2]</edpnum><title searchtype="RUL-TITLE">Preliminary point of law (cf SCR Part 72A, rule 3)</title><desig searchtype="RUL-NUM"><designum>47.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application to the court for a determination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S27J" remotekey1="REFPTID" service="DOC-ID">section 27J</remotelink></ci:content></ci:cite>
+ of the Commercial Arbitration Act 2010 must be made within 14 days after the date on which the consent of the arbitral tribunal or the consents of all other parties have been obtained.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 47.3] r 47.3 Time for applications and appeals (cf SCR Part 72A, rule 5)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R47-3" type="ext"/>[r 47.3]</edpnum><title searchtype="RUL-TITLE">Time for applications and appeals (cf SCR Part 72A, rule 5)</title><desig searchtype="RUL-NUM"><designum>47.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<l><li id="UCPN.UCPR.UCPRN05.R47-3.1"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.1" type="ext"/>(1)</lilabel>
+<p><text>An application made to the Court pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34" remotekey1="REFPTID" service="DOC-ID">section 34</remotelink></ci:content></ci:cite>
+ of the Commercial Arbitration Act 2010 must include:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R47-3.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.1.A" type="ext"/>(a)</lilabel>
+<p><text>a statement by the applicant as to the date that the party received the award, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.1.B" type="ext"/>(b)</lilabel>
+<p><text>if a request has been made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S33" remotekey1="REFPTID" service="DOC-ID">section 33</remotelink></ci:content></ci:cite>
+ of that Act, the date on which that request was disposed of by the arbitral tribunal.</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R47-3.2"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.2" type="ext"/>(2)</lilabel>
+<p><text>If a party appeals on a question of law arising out of an award and the parties have agreed before the end of the appeal period specified in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A.6" remotekey1="REFPTID" service="DOC-ID">section 34A(6)</remotelink></ci:content></ci:cite>
+ of the Commercial Arbitration Act 2010 that an appeal may be made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A.1" remotekey1="REFPTID" service="DOC-ID">section 34A(1)</remotelink></ci:content></ci:cite>
+, the originating process for the appeal is to contain a statement:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R47-3.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.2.A" type="ext"/>(a)</lilabel>
+<p><text>providing the date (or dates if there are more than two parties) that such agreement was reached, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.2.B" type="ext"/>(b)</lilabel>
+<p><text>identifying the question of law, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.2.C" type="ext"/>(c)</lilabel>
+<p><text>describing the nature of the dispute with sufficient particularity for an understanding as to the context in which the question of law arises under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A.3" remotekey1="REFPTID" service="DOC-ID">section 34A(3)</remotelink></ci:content></ci:cite>
+ and (4), and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.2.D" type="ext"/>(d)</lilabel>
+<p><text>specifying the respects in which it is asserted that the arbitral tribunal fell into error.</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R47-3.3"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3" type="ext"/>(3)</lilabel>
+<p><text>If a party seeks leave to appeal on a question of law arising out of an award, the originating process for the application for leave is to contain a statement of the party&#x2019;s case:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R47-3.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.A" type="ext"/>(a)</lilabel>
+<p><text>providing the dates relevant to the calculation of the appeal period specified in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S34A.6" remotekey1="REFPTID" service="DOC-ID">section 34A(6)</remotelink></ci:content></ci:cite>
+ of the Commercial Arbitration Act 2010, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.B" type="ext"/>(b)</lilabel>
+<p><text>describing the nature of the case with sufficient particularity for an understanding of the matters referred to in the statement, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.3.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.C" type="ext"/>(c)</lilabel>
+<p><text>identifying the question of law, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.3.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.D" type="ext"/>(d)</lilabel>
+<p><text>specifying how the determination of the question will substantially affect the rights of one or more of the parties, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.3.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.E" type="ext"/>(e)</lilabel>
+<p><text>specifying that the question is one which the arbitral tribunal was asked to determine, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.3.F"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.F" type="ext"/>(f)</lilabel>
+<p><text>specifying the reasons for which it is asserted that, on the basis of the findings of fact in the award:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R47-3.3.F.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.F.I" type="ext"/>(i)</lilabel>
+<p><text>the decision of the tribunal on the question is obviously wrong, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R47-3.3.F.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.F.II" type="ext"/>(ii)</lilabel>
+<p><text>the question is one of general public importance and the decision is at least open to serious doubt, and</text></p>
+</li></l></li><li id="UCPN.UCPR.UCPRN05.R47-3.3.G"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-3.3.G" type="ext"/>(g)</lilabel>
+<p><text>specifying the reasons for which, despite the agreement of the parties to resolve the matter by arbitration, it is just and proper in all the circumstances for the court to determine the question.</text></p>
+</li></l></li>
+</l>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT47.R3.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.47-3-5" leveltype="para0" subdoc="true" toc-caption="[47.3.5] Appeal period"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.47-3-5" type="ext"/>[47.3.5] </edpnum><title>Appeal period</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The appeal period is 3 months after the proposed appellant receives a copy of the arbitral award or any subsequent clarification or correction of the award: see Commercial Arbitration Act 2010 s 34A(6).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 47.4] r 47.4 Subpoena (cf SCR Part 72A, rule 7)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R47-4" type="ext"/>[r 47.4]</edpnum><title searchtype="RUL-TITLE">Subpoena (cf SCR Part 72A, rule 7)</title><desig searchtype="RUL-NUM"><designum>47.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT33" remotekey1="REFPTID" service="DOC-ID">Part 33</remotelink></ci:content></ci:cite>
+ applies to the issue of a subpoena under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S27A" remotekey1="REFPTID" service="DOC-ID">section 27A</remotelink></ci:content></ci:cite>
+ of the Commercial Arbitration Act 2010 in the same way as it applies to the issue of a subpoena in proceedings in the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena for production before an arbitral tribunal may, with the leave of the court or the arbitral tribunal, require production on any day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court otherwise orders, a subpoena requiring production of any document or thing before an arbitral tribunal must permit the person named, instead of attending and producing it before the arbitral tribunal, to produce the document or thing:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R47-4.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-4.3.A" type="ext"/>(a)</lilabel>
+<p><text>to a person, and at a place, nominated in writing by the arbitral tribunal and stated in the subpoena, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R47-4.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-4.3.B" type="ext"/>(b)</lilabel>
+<p><text>by hand or by post,</text></p>
+</li>
+</l>
+<p><text>so that the person nominated receives it not later than 2 days before the first date on which production before the arbitral tribunal is required.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-4.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a document or thing is produced in accordance with subrule (3) the person nominated:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R47-4.4.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-4.4.A" type="ext"/>(a)</lilabel>
+<p><text>if required to do so, must give a receipt to the person producing the document or thing, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R47-4.4.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-4.4.B" type="ext"/>(b)</lilabel>
+<p><text>must produce the document or thing as the nature of the case requires or as the arbitral tribunal may direct.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-4.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-4.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R47-4.3" remotekey1="REFPTID" service="DOC-ID">Subrule (3)</remotelink></ci:content></ci:cite>
+ does not apply to so much of a subpoena as requires a person to attend to give evidence.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 47.5] r 47.5 Court assistance in taking evidence (cf SCR Part 72A, rule 8)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R47-5" type="ext"/>[r 47.5]</edpnum><title searchtype="RUL-TITLE">Court assistance in taking evidence (cf SCR Part 72A, rule 8)</title><desig searchtype="RUL-NUM"><designum>47.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies where a request for assistance of the court is made by an arbitral tribunal or party to an arbitration with the approval of an arbitral tribunal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R23-3" remotekey1="REFPTID" service="DOC-ID">Rule 24.3</remotelink></ci:content></ci:cite>
+ applies to an arbitration under the Commercial Arbitration Act 2010 in the same way as it applies to proceedings in the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-5.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If any order is made pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R23-3" remotekey1="REFPTID" service="DOC-ID">rule 24.3</remotelink></ci:content></ci:cite>
+ as so applied, the other provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT24" remotekey1="REFPTID" service="DOC-ID">Part 24</remotelink></ci:content></ci:cite>
+ apply as if:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R47-5.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-5.3.A" type="ext"/>(a)</lilabel>
+<p><text>a reference in that Part to proceedings included a reference to the arbitration proceedings, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R47-5.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R47-5.3.B" type="ext"/>(b)</lilabel>
+<p><text>the provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R24-14.4" remotekey1="REFPTID" service="DOC-ID">rule 24.14(4), (5) and (6)</remotelink></ci:content></ci:cite>
+ were omitted.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-5.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-5.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court otherwise orders, the examiner must send the transcript of evidence, any document that constitutes an audio-visual recording and the exhibits to the registrar.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-5.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-5.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On receiving the transcript of evidence, the registrar must file it in the proceedings on the examination.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-5.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-5.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may make orders for the transmission to the arbitral tribunal of the transcript of evidence, document, any exhibit or copy of any exhibit and any such transcript, document, exhibit or copy is taken to have been taken or received (as the case requires) in the course of the arbitration proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 47.6] r 47.6 Application to enforce award (cf SCR Part 72A, rule 9)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R47-6" type="ext"/>[r 47.6]</edpnum><title searchtype="RUL-TITLE">Application to enforce award (cf SCR Part 72A, rule 9)</title><desig searchtype="RUL-NUM"><designum>47.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application to the court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S35" remotekey1="REFPTID" service="DOC-ID">section 35</remotelink></ci:content></ci:cite>
+ of the Commercial Arbitration Act 2010 must join the party who seeks enforcement of the award as plaintiff and the party against whom the enforcement is sought as defendant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R47-6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IAA74.S9" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 9</remotelink></ci:content></ci:cite>
+ of the International Arbitration Act 1974 of the Commonwealth applies to proceedings in which a person seeks leave under section 35 of the Commercial Arbitration Act 2010 to enforce an award in the same way as it applies to proceedings in which a person seeks the enforcement of a foreign award by virtue of the Commonwealth Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 47.7] r 47.7 Leave to appeal (cf SCR Part 72A, rule 10)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R47-7" type="ext"/>[r 47.7]</edpnum><title searchtype="RUL-TITLE">Leave to appeal (cf SCR Part 72A, rule 10)</title><desig searchtype="RUL-NUM"><designum>47.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal does not lie from a direction or decision in proceedings in the court under the Commercial Arbitration Act 2010 except by leave of the court to which the appeal is to be made.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R47-8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 47.8] r 47.8 Method of entry into the Commercial Arbitration List">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R47-8" type="ext"/>[r 47.8]</edpnum><title searchtype="RUL-TITLE">Method of entry into the Commercial Arbitration List</title><desig searchtype="RUL-NUM"><designum>47.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application made to the court pursuant to the Commercial Arbitration Act 2010 (including an application for an interim measure pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10.S17J" remotekey1="REFPTID" service="DOC-ID">section 17J</remotelink></ci:content></ci:cite>
+ of that Act) and the rules is to be made by summons and entered in the Commercial Arbitration List in the manner specified in the 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN9" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration List Practice Note</remotelink>
+ as amended from time to time.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT47.R47.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.47-8-5" leveltype="para0" subdoc="true" toc-caption="[47.8.5] Practice note"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.47-8-5" type="ext"/>[47.8.5] </edpnum><title>Practice note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>See Practice Note SC Eq 9 Commercial Arbitration List (see esp paras 10&#x2013;14).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

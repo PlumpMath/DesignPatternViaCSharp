@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 2 QUALIFICATIONS AND LIABILITY FOR JURY SERVICE [ss 5&#x2013;8]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.JURAN.PT2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>JURY ACT 1977 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 2 QUALIFICATIONS AND LIABILITY FOR JURY SERVICE [ss 5&#x2013;8]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140210010</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.JURAN"/><docinfo:metaitem name="parent-filename" value="ol1042.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 18, 1977</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">JURY ACT 1977 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.JURAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2 QUALIFICATIONS AND LIABILITY FOR JURY SERVICE [ss 5&#x2013;8]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.JURAN.PT2" type="ext"/>PART 2</designum></desig><title searchtype="PART-TITLE">QUALIFICATIONS AND LIABILITY FOR JURY SERVICE [ss 5&#x2013;8]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,075] s 5 Persons qualified and liable to serve as jurors">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S5" type="ext"/>[345,075]</edpnum><title searchtype="SECT-TITLE">Persons qualified and liable to serve as jurors</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this Act, every person who is enrolled as an elector for the Legislative Assembly of New South Wales pursuant to the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PEEN" remotekey1="REFPTID" service="DOC-ID" status="unval">Parliamentary Electorates and Elections Act 1912</remotelink></ci:content></ci:cite>
+ , is qualified and liable to serve as a juror.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,080] s 6 Persons not qualified or liable to serve as jurors">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S6" type="ext"/>[345,080]</edpnum><title searchtype="SECT-TITLE">Persons not qualified or liable to serve as jurors</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person is not qualified or liable to serve as a juror if that person is, for the time being&#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S6..A"><lilabel><refpt id="UCPN.OL.JURAN.S6..A" type="ext"/>(a)</lilabel>
+<p><text>disqualified from serving as a juror, being a person referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.SCH1" remotekey1="REFPTID" service="DOC-ID">Schedule 1</remotelink></ci:content></ci:cite>
+ ; or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S6..B"><lilabel><refpt id="UCPN.OL.JURAN.S6..B" type="ext"/>(b)</lilabel>
+<p><text>ineligible to serve as a juror, being a person referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.SCH2" remotekey1="REFPTID" service="DOC-ID">Schedule 2</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,085] s 7 Persons entitled to be exempted from serving as jurors">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S7" type="ext"/>[345,085]</edpnum><title searchtype="SECT-TITLE">Persons entitled to be exempted from serving as jurors</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.SCH3" remotekey1="REFPTID" service="DOC-ID">Schedule 3</remotelink></ci:content></ci:cite>
+ is entitled as of right to be exempted from serving as a juror if that person claims exemption in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S13" remotekey1="REFPTID" service="DOC-ID">section 13</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S18.3" remotekey1="REFPTID" service="DOC-ID">18(3)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,090] s 8 Amendment of Schedule 1, 2 or 3">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S8" type="ext"/>[345,090]</edpnum><title searchtype="SECT-TITLE">Amendment of Schedule 1, 2 or 3</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Regulations may be made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S76" remotekey1="REFPTID" service="DOC-ID">section 76</remotelink></ci:content></ci:cite>
+ for the purpose of adding any matter to, deleting any matter from or altering any matter in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.SCH1" remotekey1="REFPTID" service="DOC-ID">Schedule 1</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.SCH2" remotekey1="REFPTID" service="DOC-ID">2</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.SCH3" remotekey1="REFPTID" service="DOC-ID">3</remotelink></ci:content></ci:cite>
+ .</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

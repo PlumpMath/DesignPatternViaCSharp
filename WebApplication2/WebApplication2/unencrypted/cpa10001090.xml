@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 2  TRANSFER OF PROCEEDINGS FROM HIGHER TO LOWER COURT [ss 145&#x2013;149]</docinfo:doc-heading><docinfo:doc-id>UCPN.CPA.CPAN05.PT9.D2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Civil Procedure Act 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>CIVIL PROCEDURE ACT 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 9  TRANSFER OF PROCEEDINGS BETWEEN COURTS [ss 139&#x2013;154]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 2  TRANSFER OF PROCEEDINGS FROM HIGHER TO LOWER COURT [ss 145&#x2013;149]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>40000300</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.CPA"/><docinfo:metaitem name="parent-filename" value="cpa.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_CPA.SGM_UCPN.CPA.CPAN05"/><docinfo:metaitem name="parent-filename" value="cpa1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 28, 2005</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CIVIL PROCEDURE ACT 2005</leg:officialname></leg:info><leg:level id="UCPN.CPA.CPAN05.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.CPA.CPAN05.PT9"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 9  TRANSFER OF PROCEEDINGS BETWEEN COURTS [ss 139&#x2013;154]"><leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.PT9.D2"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 2  TRANSFER OF PROCEEDINGS FROM HIGHER TO LOWER COURT [ss 145&#x2013;149]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.CPA.CPAN05.PT9.D2" type="ext"/>DIVISION 2</designum></desig><title searchtype="DIV-TITLE"> TRANSFER OF PROCEEDINGS FROM HIGHER TO LOWER COURT [ss 145&#x2013;149]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S145"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 145] s 145 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S145" type="ext"/>[s 145]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>145</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Division:</text></p>
+<deflist><defitem id="UCPN.CPA.CPAN05.S145.HIGHER-COURT"><defterm><refpt id="UCPN.CPA.CPAN05.S145.HIGHER-COURT" type="ext"/><emph typestyle="bf">higher court</emph></defterm> <defdesc>
+<p><text>means the court from which proceedings are transferred, or are proposed to be transferred, by a transfer order.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CPA.CPAN05.S145.LOWER-COURT"><defterm><refpt id="UCPN.CPA.CPAN05.S145.LOWER-COURT" type="ext"/><emph typestyle="bf">lower court</emph></defterm> <defdesc>
+<p><text>means the court to which proceedings are transferred, or are proposed to be transferred, by a transfer order.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CPA.CPAN05.S145.TRANSFER-ORDER"><defterm><refpt id="UCPN.CPA.CPAN05.S145.TRANSFER-ORDER" type="ext"/><emph typestyle="bf">transfer order</emph></defterm> <defdesc>
+<p><text>means an order referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S146" remotekey1="REFPTID" service="DOC-ID">section 146</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S145.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S145-5" leveltype="para0" subdoc="true" toc-caption="[s 145.5] Application note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 145.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> ss 139&#x2013;153.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S145-5" type="ext"/>[s 145.5] </edpnum><title>Application note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This Part (
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S25" remotekey1="REFPTID" service="DOC-ID">ss 139&#x2013;153</remotelink>
+) of the CPA does not apply to proceedings in the Dust Diseases Tribunal.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S146"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 146] s 146 Transfer of proceedings to lower court (cf Act No 9 1973, section 143; Act No 11 1970, section 21F)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S146" type="ext"/>[s 146]</edpnum><title searchtype="SECT-TITLE">Transfer of proceedings to lower court (cf Act No 9 1973, section 143; Act No 11 1970, section 21F)</title><desig searchtype="SECT-NUM"><designum>146</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S146.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S146.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Supreme Court is satisfied, in relation to proceedings before it:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S146.1.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.1.A" type="ext"/>(a)</lilabel>
+<p><text>that the proceedings could properly have been commenced in the District Court or the Local Court, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S146.1.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.1.B" type="ext"/>(b)</lilabel>
+<p><text>that any cross-claim in the proceedings could properly have been brought as a cross-claim in the District Court or the Local Court, </text></p>
+</li>
+</l>
+<p><text>the Supreme Court may order that the proceedings, including any such cross-claim, be transferred to the District Court or to the Local Court, as the case requires.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S146.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S146.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the District Court is satisfied, in relation to proceedings before it:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S146.2.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.2.A" type="ext"/>(a)</lilabel>
+<p><text>that the proceedings could properly have been commenced in the Local Court, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S146.2.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.2.B" type="ext"/>(b)</lilabel>
+<p><text>that any cross-claim in the proceedings could properly have been brought as a cross-claim in the Local Court, </text></p>
+</li>
+</l>
+<p><text>the District Court may order that the proceedings, including any such cross-claim, be transferred to the Local Court.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S146.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S146.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In determining:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S146.3.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.3.A" type="ext"/>(a)</lilabel>
+<p><text>whether any proceedings could properly have been commenced in the lower court, or</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S146.3.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.3.B" type="ext"/>(b)</lilabel>
+<p><text>whether any cross-claim could properly have been brought in the lower court, </text></p>
+</li>
+</l>
+<p><text>the higher court must have regard to the current limits of the lower court&#x2019;s jurisdiction as if they had been the limits of that jurisdiction when the proceedings were commenced, or the cross-claim brought, in the higher court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S146.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S146.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings in the Supreme Court on a claim for damages arising from personal injury or death are to be transferred under this section unless the Supreme Court is satisfied:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S146.4.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.4.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of a motor accident claim or workplace injury damages claim:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S146.4.A.I"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.4.A.I" type="ext"/>(i)</lilabel>
+<p><text>that the amount to be awarded to the plaintiff, if successful, is likely to be more than $1,000,000, and</text></p>
+</li><li id="UCPN.CPA.CPAN05.S146.4.A.II"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.4.A.II" type="ext"/>(ii)</lilabel>
+<p><text>that the case involves complex legal issues or issues of general public importance, or</text></p>
+</li></l></li>
+<li id="UCPN.CPA.CPAN05.S146.4.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.4.B" type="ext"/>(b)</lilabel>
+<p><text>in any other case:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S146.4.B.I"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.4.B.I" type="ext"/>(i)</lilabel>
+<p><text>that the amount to be awarded to the plaintiff, if successful, is likely to exceed the jurisdictional limit of the District Court, or</text></p>
+</li><li id="UCPN.CPA.CPAN05.S146.4.B.II"><lilabel><refpt id="UCPN.CPA.CPAN05.S146.4.B.II" type="ext"/>(ii)</lilabel>
+<p><text>that there is other sufficient reason for hearing the proceedings in the Supreme Court.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S146.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S146.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section extends to proceedings that have been transferred to the Supreme Court or the District Court pursuant to a previous transfer order under Division 1.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S146.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S146-5" leveltype="para0" subdoc="true" toc-caption="[s 146.5] Jurisdictional limit on transfer">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 146.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 149.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> s 44(1)(e).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S146-5" type="ext"/>[s 146.5] </edpnum><title>Jurisdictional limit on transfer</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under the present section proceedings may be transferred to a lower court by either the Supreme Court or the District Court. In either case, the power depends on satisfaction that the proceedings, as presently constituted, could properly have been commenced in, ie fall within the current jurisdictional limit of, the transferee court: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Spence v Davidson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWSC, Cohen M in Eq, No 2765/77, 2 March 1978, unreported)</citefragment></ci:content></ci:cite> (claim for specific performance abandoned &#x2014; remaining claim for damages within the District Court's jurisdiction). Where proceedings are transferred under the present section the transferee court retains the jurisdiction of the transferring court: see CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S149" remotekey1="REFPTID" service="DOC-ID">s 149</remotelink></ci:content></ci:cite>
+ and District Court Act 1973 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S44.1.E" remotekey1="REFPTID" service="DOC-ID">s 44(1)(e)</remotelink></ci:content></ci:cite>
+. But the potential application of this enlarged jurisdiction to the transferred proceedings is not relevant to the proper exercise of the power to transfer under the present section: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002775" spanref="cr002775-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200106501"/></ci:caseref><ci:caseref anaphref="cr002775" spanref="cr002775-002"><ci:pinpoint num="20" targettype="para"/></ci:caseref><ci:caseref anaphref="cr002775" spanref="cr002775-003" status="unval"><ci:pinpoint num="28" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Yu Ge v River Island Clothing Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWSC 935; <ci:span spanid="cr002775-001" status="unval"> BC200106501</ci:span> <ci:span spanid="cr002775-002">at [20],</ci:span> <ci:span spanid="cr002775-003" status="unval">[28]</ci:span></citefragment> <remotelink dpsi="0018" refpt="336017" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (simultaneous applications to transfer proceedings to and from the Supreme Court as means of overcoming jurisdictional limits constitute an abuse of process).</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S146-10" leveltype="para0" subdoc="true" toc-caption="[s 146.10] Defamation proceedings"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S146-10" type="ext"/>[s 146.10] </edpnum><title>Defamation proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The District Court has a substantial jurisdiction in defamation proceedings and within that jurisdiction there is scope to transfer proceedings from the Supreme Court&#x201d; (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002776" spanref="cr002776-001"><ci:reporter value="urj"/><ci:refnum num="BC9906934"/></ci:caseref><ci:caseref anaphref="cr002776" spanref="cr002776-002"><ci:pinpoint num="12" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hoser v Hartcher</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [1999]
+NSWSC 1060; <ci:span spanid="cr002776-001"> BC9906934</ci:span> <ci:span spanid="cr002776-002">at [12]</ci:span></citefragment> <remotelink dpsi="0018" refpt="303945" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>) &#x2014; departing from comments made in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002777" spanref="cr002777-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="80"/></ci:caseref><ci:caseref anaphref="cr002777" spanref="cr002777-002" status="unval"><ci:pinpoint num="81" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brown v Mirror Newspapers Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002777-001">[1983] 2 NSWLR 80</ci:span> <ci:span spanid="cr002777-002" status="unval">at 81</ci:span></citefragment> <remotelink dpsi="0018" refpt="82820" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Factors against transfer of defamation proceedings include the fact that there are practical advantages in conducting litigation in the Supreme Court Defamation List: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brown v Mirror Newspapers Ltd</emph>
+</citefragment></ci:content></ci:cite>, above, at 81. Factors relevant to the discretion to transfer such proceedings include the status of the plaintiff and the circulation of the newspaper: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002778" spanref="cr002778-001"><ci:reporter value="urj"/><ci:refnum num="BC9802277"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cohen v Nationwide News Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002778-001"> (NSWSC, Levine J, No 21422/96, 29 May 1998, unreported, BC9802277)</ci:span></citefragment></ci:content></ci:cite>; the amount of the likely damages, whether the seriousness of the imputations alleged, whether the proceedings involve matters of principle that would warrant the consideration of the Supreme Court: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hoser v Hartcher</emph>
+</citefragment></ci:content></ci:cite>, above at [8] and
+[17]; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002779" spanref="cr002779-001"><ci:reporter value="urj"/><ci:refnum num="BC9806779"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Murrihy v Radio 2UE Sydney Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002779-001"> (NSWSC, Levine J, 11 December 1998, unreported, BC9806779)</ci:span></citefragment></ci:content></ci:cite>; the prospects of the matter being dealt with more quickly in either the Supreme Court or the District Court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002780" spanref="cr002780-001"><ci:reporter value="urj"/><ci:refnum num="BC9901407"/></ci:caseref><ci:caseref anaphref="cr002780" spanref="cr002780-002"><ci:pinpoint num="3" targettype="para"/></ci:caseref><ci:caseref anaphref="cr002780" spanref="cr002780-003"><ci:pinpoint num="4" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ieremia v Skalkos</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [1999] NSWSC 315; <ci:span spanid="cr002780-001"> BC9901407</ci:span> <ci:span spanid="cr002780-002">at [3]</ci:span> <ci:span spanid="cr002780-003">[4]</ci:span></citefragment> <remotelink dpsi="0018" refpt="295280" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; whether or not the matter is appropriate for a jury and consequentially whether there are different entitlements to a jury in the respective courts: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Murrihy v Radio 2UE Sydney Pty Ltd</emph>
+</citefragment></ci:content></ci:cite>, above.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S147"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 147] s 147 Transfer orders (cf Act No 11 1970, section 21F)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S147" type="ext"/>[s 147]</edpnum><title searchtype="SECT-TITLE">Transfer orders (cf Act No 11 1970, section 21F)</title><desig searchtype="SECT-NUM"><designum>147</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S147.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S147.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A transfer order takes effect when it is made.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S147.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S147.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A transfer order does not invalidate any order made or other thing done in the proceedings before the transfer order was made.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S148"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 148] s 148 Proceedings after transfer (cf Act No 11 1970, section 21G)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S148" type="ext"/>[s 148]</edpnum><title searchtype="SECT-TITLE">Proceedings after transfer (cf Act No 11 1970, section 21G)</title><desig searchtype="SECT-NUM"><designum>148</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S148.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S148.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the rules of court applicable in the lower court, any proceedings with respect to which a transfer order takes effect continue in the lower court:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S148.1.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S148.1.A" type="ext"/>(a)</lilabel>
+<p><text>as if the proceedings had been duly commenced in the lower court on the date on which they were commenced in the higher court, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S148.1.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S148.1.B" type="ext"/>(b)</lilabel>
+<p><text>as if any cross-claim in the proceedings had been duly made in the lower court on the date on which it was made in the higher court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S148.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S148.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of any proceedings continued in the lower court, any admission duly made in the higher court is to be treated as if it had been duly made in the lower court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S148.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S148.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the rules of court applicable in the lower court, the power of the lower court to make orders as to costs includes a power to make orders with respect to the costs of:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S148.3.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S148.3.A" type="ext"/>(a)</lilabel>
+<p><text>the application for, and the making of, the transfer order, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S148.3.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S148.3.B" type="ext"/>(b)</lilabel>
+<p><text>any step taken in the proceedings before the transfer order was made.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S149"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 149] s 149 Jurisdiction of lower court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S149" type="ext"/>[s 149]</edpnum><title searchtype="SECT-TITLE">Jurisdiction of lower court</title><desig searchtype="SECT-NUM"><designum>149</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The lower court has, and may exercise, all of the jurisdiction of the higher court in relation to any proceedings to which a transfer order relates, including jurisdiction to determine any question arising in any such proceedings.</text></p>
+<leg:histnote>
+<p><text>[s 149  am Act 56 of 2007 s 3 and Sch 2[7], effective 28 January 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

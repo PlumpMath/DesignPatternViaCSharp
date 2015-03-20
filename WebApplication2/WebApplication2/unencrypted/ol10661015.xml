@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 2 SERVICE OF SUBPOENAS ADDRESSED TO PERSONS IN PRISON [ss 38&#x2013;46]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.SEPA92.PT3.D2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>SERVICE AND EXECUTION OF PROCESS ACT 1992 (CTH)</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 3 SERVICE OF SUBPOENAS [ss 28&#x2013;46]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 2 SERVICE OF SUBPOENAS ADDRESSED TO PERSONS IN PRISON [ss 38&#x2013;46]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140330050</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.SEPA92"/><docinfo:metaitem name="parent-filename" value="ol1066.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">CTH</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 172, 1992</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SERVICE AND EXECUTION OF PROCESS ACT 1992 (CTH)</leg:officialname></leg:info><leg:level id="UCPN.OL.SEPA92.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.OL.SEPA92.PT3"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3 SERVICE OF SUBPOENAS [ss 28&#x2013;46]"><leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.PT3.D2"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 2 SERVICE OF SUBPOENAS ADDRESSED TO PERSONS IN PRISON [ss 38&#x2013;46]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.OL.SEPA92.PT3.D2" type="ext"/>DIVISION 2</designum></desig><title searchtype="DIV-TITLE">SERVICE OF SUBPOENAS ADDRESSED TO PERSONS IN PRISON [ss 38&#x2013;46]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S38"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,310] s 38 Application of Division">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S38" type="ext"/>[415,310]</edpnum><title searchtype="SECT-TITLE">Application of Division</title><desig searchtype="SECT-NUM"><designum>38</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Division applies to a subpoena, issued by a court or an authority, that is addressed to a person (in this Division called the &quot;prisoner&quot;) who:</text></p>
+<l><li id="UCPN.OL.SEPA92.S38..A"><lilabel><refpt id="UCPN.OL.SEPA92.S38..A" type="ext"/>(a)</lilabel>
+<p><text>is in prison in a State other than the place of issue; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S38..B"><lilabel><refpt id="UCPN.OL.SEPA92.S38..B" type="ext"/>(b)</lilabel>
+<p><text>is required to:</text></p>
+<l><li id="UCPN.OL.SEPA92.S38.B.I"><lilabel><refpt id="UCPN.OL.SEPA92.S38.B.I" type="ext"/>(i)</lilabel>
+<p><text>attend before a court, authority or person for the purpose of complying with the subpoena; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S38.B.II"><lilabel><refpt id="UCPN.OL.SEPA92.S38.B.II" type="ext"/>(ii)</lilabel>
+<p><text>give oral evidence, by audio link or audiovisual link, to a court, authority or person.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[s 38  am Act 77 of 2009  s 3 and Sch 2[8], effective 7 September 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S39"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,315] s 39 Order for production">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S39" type="ext"/>[415,315]</edpnum><title searchtype="SECT-TITLE">Order for production</title><desig searchtype="SECT-NUM"><designum>39</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S39.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S39.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court of issue or the authority of issue may order that the prisoner be produced at the time and place specified in the subpoena as the time and place at which compliance with the subpoena is required.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S39.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S39.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court or authority may make an order only if it is satisfied that:</text></p>
+<l><li id="UCPN.OL.SEPA92.S39.2.A"><lilabel><refpt id="UCPN.OL.SEPA92.S39.2.A" type="ext"/>(a)</lilabel>
+<p><text>the giving of the evidence that the prisoner is likely to give, or the production of a document or thing specified in the subpoena, is necessary in the interests of justice; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S39.2.B"><lilabel><refpt id="UCPN.OL.SEPA92.S39.2.B" type="ext"/>(b)</lilabel>
+<p><text>there will be enough time:</text></p>
+<l><li id="UCPN.OL.SEPA92.S39.2.B.I"><lilabel><refpt id="UCPN.OL.SEPA92.S39.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>for compliance with the order; and</text></p>
+</li><li id="UCPN.OL.SEPA92.S39.2.B.II"><lilabel><refpt id="UCPN.OL.SEPA92.S39.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>to permit the making of applications under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S43" remotekey1="REFPTID" service="DOC-ID">sections 43</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S44" remotekey1="REFPTID" service="DOC-ID">44</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S39.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S39.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Before making an order the court or authority may:</text></p>
+<l><li id="UCPN.OL.SEPA92.S39.3.A"><lilabel><refpt id="UCPN.OL.SEPA92.S39.3.A" type="ext"/>(a)</lilabel>
+<p><text>require the person (if any) at whose request the subpoena was issued to give such security as the court or authority specifies for ensuring compliance with an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S45" remotekey1="REFPTID" service="DOC-ID">section 45</remotelink></ci:content></ci:cite>
+ ; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S39.3.B"><lilabel><refpt id="UCPN.OL.SEPA92.S39.3.B" type="ext"/>(b)</lilabel>
+<p><text>stay the proceeding for the making of the order until the security is given.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S39.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S39.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An order:</text></p>
+<l><li id="UCPN.OL.SEPA92.S39.4.A"><lilabel><refpt id="UCPN.OL.SEPA92.S39.4.A" type="ext"/>(a)</lilabel>
+<p><text>may be made subject to specified conditions; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S39.4.B"><lilabel><refpt id="UCPN.OL.SEPA92.S39.4.B" type="ext"/>(b)</lilabel>
+<p><text>must be addressed to the custodian of the prisoner.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S40"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,320] s 40 Service of order for production">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S40" type="ext"/>[415,320]</edpnum><title searchtype="SECT-TITLE">Service of order for production</title><desig searchtype="SECT-NUM"><designum>40</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S40.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S40.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any conditions specified under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S39.4.A" remotekey1="REFPTID" service="DOC-ID">paragraph 39(4)(a)</remotelink></ci:content></ci:cite>
+ , the order for production and the subpoena, or a copy of both the order and the subpoena, must be served on the custodian of the prisoner, together with a copy, or a further copy, of both the order and the subpoena for service on the prisoner.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S40.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S40.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of the order for production and subpoena must be effected in the same way as service of a subpoena in the place of issue.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S40.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S40.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of the order for production and subpoena is effective only if the subpoena contains an address for service of the person (if any) at whose request the subpoena was issued.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S40.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S40.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The custodian, or, if more than one person is the custodian of the prisoner, any such custodian, must comply with the order for production even if that custodian:</text></p>
+<l><li id="UCPN.OL.SEPA92.S40.4.A"><lilabel><refpt id="UCPN.OL.SEPA92.S40.4.A" type="ext"/>(a)</lilabel>
+<p><text>is not the person named in the order as the custodian of the prisoner; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S40.4.B"><lilabel><refpt id="UCPN.OL.SEPA92.S40.4.B" type="ext"/>(b)</lilabel>
+<p><text>is not the custodian who was served with the order for production and subpoena.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S40.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S40.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>As soon as practicable after receiving the order for production and subpoena, the custodian must serve a copy of the order and a copy of the subpoena on the prisoner.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S40.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S40.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.OL.SEPA92.S40.6.A"><lilabel><refpt id="UCPN.OL.SEPA92.S40.6.A" type="ext"/>(a)</lilabel>
+<p><text>the copies are so served; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S40.6.B"><lilabel><refpt id="UCPN.OL.SEPA92.S40.6.B" type="ext"/>(b)</lilabel>
+<p><text>the prisoner is released from prison at a time sufficiently prior to the date for compliance with the subpoena to make compliance with the subpoena reasonably practicable;</text></p>
+</li>
+</l>
+<p><text>then:</text></p>
+<l><li id="UCPN.OL.SEPA92.S40.6.C"><lilabel><refpt id="UCPN.OL.SEPA92.S40.6.C" type="ext"/>(c)</lilabel>
+<p><text>the prisoner:</text></p>
+<l><li id="UCPN.OL.SEPA92.S40.6.C.I"><lilabel><refpt id="UCPN.OL.SEPA92.S40.6.C.I" type="ext"/>(i)</lilabel>
+<p><text>is taken to have been served with the subpoena under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S29" remotekey1="REFPTID" service="DOC-ID">section 29</remotelink></ci:content></ci:cite>
+ ; and</text></p>
+</li><li id="UCPN.OL.SEPA92.S40.6.C.II"><lilabel><refpt id="UCPN.OL.SEPA92.S40.6.C.II" type="ext"/>(ii)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S42.2.B" remotekey1="REFPTID" service="DOC-ID">paragraph 42(2)(b)</remotelink></ci:content></ci:cite>
+ , is required to comply with the subpoena; and</text></p>
+</li></l></li>
+<li id="UCPN.OL.SEPA92.S40.6.D"><lilabel><refpt id="UCPN.OL.SEPA92.S40.6.D" type="ext"/>(d)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S35" remotekey1="REFPTID" service="DOC-ID">sections 35</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S36" remotekey1="REFPTID" service="DOC-ID">36</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S37" remotekey1="REFPTID" service="DOC-ID">37</remotelink></ci:content></ci:cite>
+ apply in relation to the subpoena as if it had been issued under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.PT3.D1" remotekey1="REFPTID" service="DOC-ID">Division 1</remotelink></ci:content></ci:cite>
+ ; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S40.6.E"><lilabel><refpt id="UCPN.OL.SEPA92.S40.6.E" type="ext"/>(e)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S36" remotekey1="REFPTID" service="DOC-ID">section 36</remotelink></ci:content></ci:cite>
+ so applies as if the subpoena had been served on the day of release.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S40.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S40.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The custodian need not comply with the order for production if the person to whom the subpoena is addressed is released from prison before the time for compliance.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S41"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,325] s 41 Information to be provided">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S41" type="ext"/>[415,325]</edpnum><title searchtype="SECT-TITLE">Information to be provided</title><desig searchtype="SECT-NUM"><designum>41</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of the subpoena is effective only if copies of such notices as are prescribed are attached to the subpoena, or copy of the subpoena, served.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S42"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,330] s 42 Expenses">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S42" type="ext"/>[415,330]</edpnum><title searchtype="SECT-TITLE">Expenses</title><desig searchtype="SECT-NUM"><designum>42</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S42.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S42.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of the order for production is effective only if, at the time of service or at some other reasonable time before the date for compliance with the order, there are paid or tendered to the custodian the allowances and travelling expenses that would have been required under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S32" remotekey1="REFPTID" service="DOC-ID">section 32</remotelink></ci:content></ci:cite>
+ to have been paid or tendered to the prisoner if he or she were not in prison.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S42.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S42.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, before the time for compliance with the order for production, the person to whom the order relates is released from prison:</text></p>
+<l><li id="UCPN.OL.SEPA92.S42.2.A"><lilabel><refpt id="UCPN.OL.SEPA92.S42.2.A" type="ext"/>(a)</lilabel>
+<p><text>the custodian, or a person acting on his or her behalf, must, as soon as practicable, pay or tender to the person the allowances and travelling expenses paid or tendered to the custodian under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S42.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ ; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S42.2.B"><lilabel><refpt id="UCPN.OL.SEPA92.S42.2.B" type="ext"/>(b)</lilabel>
+<p><text>the person is not required to comply with the subpoena to which the order relates unless the allowances and travelling expenses were paid or tendered to the person, by the custodian or another person, no later than a reasonable time after the time when the person ceased to be in prison.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,335] s 43 Application for relief from subpoena">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S43" type="ext"/>[415,335]</edpnum><title searchtype="SECT-TITLE">Application for relief from subpoena</title><desig searchtype="SECT-NUM"><designum>43</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S43.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies if the prisoner has a right under the law of the place of issue to apply to a court or authority to set aside or obtain other relief in respect of the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the ways in which, under the law of the place of issue, the application may be made, it may be made by transmitting the application to the court or authority by fax.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Within 24 hours after making the application, the prisoner must cause a copy of the application to be served on the person (if any) at whose request the subpoena was issued at the person's address for service.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of calculating the 24 hour period, a day that is:</text></p>
+<l><li id="UCPN.OL.SEPA92.S43.4.A"><lilabel><refpt id="UCPN.OL.SEPA92.S43.4.A" type="ext"/>(a)</lilabel>
+<p><text>a Saturday; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S43.4.B"><lilabel><refpt id="UCPN.OL.SEPA92.S43.4.B" type="ext"/>(b)</lilabel>
+<p><text>a Sunday; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S43.4.C"><lilabel><refpt id="UCPN.OL.SEPA92.S43.4.C" type="ext"/>(c)</lilabel>
+<p><text>a public holiday or bank holiday in the place in which the application is to be served;</text></p>
+</li>
+</l>
+<p><text>does not count.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the ways in which, under the law of the place of issue, service may be effected, it may be effected by transmitting the copy to that address by fax.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court or authority may determine the application without a hearing unless the prisoner, or the person (if any) at whose request the subpoena was issued, objects.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of determining the application, the court or authority may hold a hearing by audio link or audiovisual link.</text></p>
+<leg:histnote>
+<p><text>[subs (7)  am Act 77 of 2009  s 3 and Sch 2[9], effective 7 September 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who is entitled to practise as a barrister, solicitor or both before a court in:</text></p>
+<l><li id="UCPN.OL.SEPA92.S43.8.A"><lilabel><refpt id="UCPN.OL.SEPA92.S43.8.A" type="ext"/>(a)</lilabel>
+<p><text>the place of issue of the subpoena; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S43.8.B"><lilabel><refpt id="UCPN.OL.SEPA92.S43.8.B" type="ext"/>(b)</lilabel>
+<p><text>another State in which a person is participating in the hearing by audio link or audiovisual link;</text></p>
+</li>
+</l>
+<p><text>has a right of audience before the court or authority at the hearing.</text></p>
+<leg:histnote>
+<p><text>[subs (8)  am Act 77 of 2009  s 3 and Sch 2[10], effective 7 September 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S43.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S43.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the court or authority sets aside or grants other relief in respect of the subpoena, it is to make any necessary consequential order in respect of the order for production.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,340] s 44 Application for relief from order for production">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S44" type="ext"/>[415,340]</edpnum><title searchtype="SECT-TITLE">Application for relief from order for production</title><desig searchtype="SECT-NUM"><designum>44</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S44.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S44.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ , the court or authority that made the order for production may, on application by the custodian or the prisoner, set aside or vary the order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The prisoner may only make an application on the ground that compliance with the order would have a substantial detrimental effect on his or her health or safety.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the ways in which, under the law of the place of issue, the application may be made, it may be made by transmitting the application to the court or authority by fax.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Within 24 hours after making the application, the applicant must cause copies of the application to be served:</text></p>
+<l><li id="UCPN.OL.SEPA92.S44.4.A"><lilabel><refpt id="UCPN.OL.SEPA92.S44.4.A" type="ext"/>(a)</lilabel>
+<p><text>on the person (if any) at whose request the subpoena was issued at the person's address for service; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S44.4.B"><lilabel><refpt id="UCPN.OL.SEPA92.S44.4.B" type="ext"/>(b)</lilabel>
+<p><text>if the applicant is the custodian&#x2014;on the prisoner; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S44.4.C"><lilabel><refpt id="UCPN.OL.SEPA92.S44.4.C" type="ext"/>(c)</lilabel>
+<p><text>if the applicant is the prisoner&#x2014;on the custodian.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of calculating the 24 hour period, a day that is:</text></p>
+<l><li id="UCPN.OL.SEPA92.S44.5.A"><lilabel><refpt id="UCPN.OL.SEPA92.S44.5.A" type="ext"/>(a)</lilabel>
+<p><text>a Saturday; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S44.5.B"><lilabel><refpt id="UCPN.OL.SEPA92.S44.5.B" type="ext"/>(b)</lilabel>
+<p><text>a Sunday; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S44.5.C"><lilabel><refpt id="UCPN.OL.SEPA92.S44.5.C" type="ext"/>(c)</lilabel>
+<p><text>a public holiday or bank holiday in the place in which the application is to be served;</text></p>
+</li>
+</l>
+<p><text>does not count.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the ways in which, under the law of the place of issue, service on the person under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S44.4.A" remotekey1="REFPTID" service="DOC-ID">paragraph(4)(a) </remotelink></ci:content></ci:cite>
+ may be effected, it may be effected by transmitting the copy to that address by fax.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the matters that the court or authority may take into account in determining the application, the court or authority is to take into account:</text></p>
+<l><li id="UCPN.OL.SEPA92.S44.7.A"><lilabel><refpt id="UCPN.OL.SEPA92.S44.7.A" type="ext"/>(a)</lilabel>
+<p><text>public safety; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S44.7.B"><lilabel><refpt id="UCPN.OL.SEPA92.S44.7.B" type="ext"/>(b)</lilabel>
+<p><text>the prisoner's health and safety.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court or authority may determine the application without a hearing unless the custodian, the prisoner, or the person (if any) at whose request the subpoena was issued, objects.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of determining the application, the court or authority may hold a hearing by audio link or audiovisual link.</text></p>
+<leg:histnote>
+<p><text>[subs (9)  am Act 77 of 2009  s 3 and Sch 2[11], effective 7 September 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.10"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.10" type="ext"/>(10)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who is entitled to practise as a barrister, solicitor or both before a court in:</text></p>
+<l><li id="UCPN.OL.SEPA92.S44.10.A"><lilabel><refpt id="UCPN.OL.SEPA92.S44.10.A" type="ext"/>(a)</lilabel>
+<p><text>the place of issue of the subpoena; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S44.10.B"><lilabel><refpt id="UCPN.OL.SEPA92.S44.10.B" type="ext"/>(b)</lilabel>
+<p><text>another State in which a person is participating in the hearing by audio link or audiovisual link;</text></p>
+</li>
+</l>
+<p><text>has a right of audience before the court or authority at the hearing.</text></p>
+<leg:histnote>
+<p><text>[subs (10)  am Act 77 of 2009  s 3 and Sch 2[12], effective 7 September 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S44.11"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S44.11" type="ext"/>(11)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the court or authority sets aside or varies the order for production, it is to make any necessary consequential order in respect of the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S45"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,345] s 45 Entitlement to expenses">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S45" type="ext"/>[415,345]</edpnum><title searchtype="SECT-TITLE">Entitlement to expenses</title><desig searchtype="SECT-NUM"><designum>45</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S45.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S45.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who has incurred reasonable expenses as a result of compliance (by that person or another person) with the order for production is entitled to payment of an amount equal to those expenses.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S45.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S45.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The amount must be paid:</text></p>
+<l><li id="UCPN.OL.SEPA92.S45.2.A"><lilabel><refpt id="UCPN.OL.SEPA92.S45.2.A" type="ext"/>(a)</lilabel>
+<p><text>if the subpoena was issued at the request of a person&#x2014;by that person; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S45.2.B"><lilabel><refpt id="UCPN.OL.SEPA92.S45.2.B" type="ext"/>(b)</lilabel>
+<p><text>in any other case&#x2014;by the State in which the subpoena was issued.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S45.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S45.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court or authority that issued the order for production may make orders to ensure that the person who incurred those expenses receives the exact amount of those expenses.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S45.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S45.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the subpoena was issued by a court, the orders may be made by an officer of the court if the rules governing the procedure of the court so provide.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S45.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S45.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this section affects the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.XMAS.S11AA.9" remotekey1="REFPTID" service="DOC-ID" status="unval">subsection 11AA(9) </remotelink></ci:content></ci:cite>
+ of the Christmas Island Act 1958 or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.COCOS.S15AC.9" remotekey1="REFPTID" service="DOC-ID" status="unval">subsection 15AC(9)</remotelink></ci:content></ci:cite>
+ of the Cocos (Keeling) Islands Act 1955.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S46"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,350] s 46 Custody of prisoner etc">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S46" type="ext"/>[415,350]</edpnum><title searchtype="SECT-TITLE">Custody of prisoner etc</title><desig searchtype="SECT-NUM"><designum>46</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S46.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S46.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The custodian of the prisoner, and any escort of the prisoner arranged by the custodian, have:</text></p>
+<l><li id="UCPN.OL.SEPA92.S46.1.A"><lilabel><refpt id="UCPN.OL.SEPA92.S46.1.A" type="ext"/>(a)</lilabel>
+<p><text>custody of the prisoner; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S46.1.B"><lilabel><refpt id="UCPN.OL.SEPA92.S46.1.B" type="ext"/>(b)</lilabel>
+<p><text>while the prisoner is outside the State in which he or she was in prison&#x2014;the same powers of detention and disposition of the prisoner as the custodian has in relation to the prisoner in that State; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S46.1.C"><lilabel><refpt id="UCPN.OL.SEPA92.S46.1.C" type="ext"/>(c)</lilabel>
+<p><text>power to do such things as are necessary to ensure that the prisoner is:</text></p>
+<l><li id="UCPN.OL.SEPA92.S46.1.C.I"><lilabel><refpt id="UCPN.OL.SEPA92.S46.1.C.I" type="ext"/>(i)</lilabel>
+<p><text>produced in compliance with the order; and</text></p>
+</li><li id="UCPN.OL.SEPA92.S46.1.C.II"><lilabel><refpt id="UCPN.OL.SEPA92.S46.1.C.II" type="ext"/>(ii)</lilabel>
+<p><text>afterwards returned to the prison in which the prisoner was in prison.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S46.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S46.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S46.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , the custodian or the escort may, in any State, require that a person in charge of a prison in the State:</text></p>
+<l><li id="UCPN.OL.SEPA92.S46.2.A"><lilabel><refpt id="UCPN.OL.SEPA92.S46.2.A" type="ext"/>(a)</lilabel>
+<p><text>receive the prisoner and keep the prisoner in custody for such time as the custodian or the escort requires; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S46.2.B"><lilabel><refpt id="UCPN.OL.SEPA92.S46.2.B" type="ext"/>(b)</lilabel>
+<p><text>surrender custody of the prisoner to the custodian or the escort at the time and in the way that the custodian or the escort requires.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S46.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S46.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The person so required must comply with such requirements as are reasonable.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S46.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S46.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any conditions specified in writing by the custodian as conditions to be complied with while the prisoner is outside the State in which he or she was in prison, the law in force in the State that relates to the liability of a person who escapes from lawful custody applies to the prisoner while the prisoner is outside the State for the purposes of compliance with the order for production.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S46.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S46.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S46.4" remotekey1="REFPTID" service="DOC-ID">Subsection (4)</remotelink></ci:content></ci:cite>
+ does not apply to lawful custody in respect of an offence against a law of the Commonwealth.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S46.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S46.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who is serving a sentence of imprisonment in a State is taken to be serving that sentence while the person is outside the State for the purposes of compliance with the order for production so long as the person remains in the custody of the custodian or escort, or in custody arranged by the custodian or escort.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

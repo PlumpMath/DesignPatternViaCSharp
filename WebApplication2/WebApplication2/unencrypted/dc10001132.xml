@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 4 THE CRIMINAL JURISDICTION OF THE COURT [ss 165&#x2013;176]</docinfo:doc-heading><docinfo:doc-id>UCPN.DC.DCAN.PT4</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>District Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>DISTRICT COURT ACT 1973 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 4 THE CRIMINAL JURISDICTION OF THE COURT [ss 165&#x2013;176]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>80000440</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DC"/><docinfo:metaitem name="parent-filename" value="dc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DC.SGM_UCPN.DC.DCAN"/><docinfo:metaitem name="parent-filename" value="dc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 999, 1973</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">DISTRICT COURT ACT 1973 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.DC.DCAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.PT4"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 4 THE CRIMINAL JURISDICTION OF THE COURT [ss 165&#x2013;176]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.DC.DCAN.PT4" type="ext"/>PART 4</designum></desig><title searchtype="PART-TITLE">THE CRIMINAL JURISDICTION OF THE COURT [ss 165&#x2013;176]</title><leg:histnote>
+<p><text>[Pt 4  am Act 170 of 1984  s 5 and Sch 4]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S165"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 165] s 165 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S165" type="ext"/>[DCA s 165]</edpnum><title searchtype="SECT-TITLE">Interpretation</title><desig searchtype="SECT-NUM"><designum>165</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part&#x2014;</text></p>
+<deflist><defitem id="UCPN.DC.DCAN.S165.APPOINTED-PLACE"><defterm><refpt id="UCPN.DC.DCAN.S165.APPOINTED-PLACE" type="ext"/><emph typestyle="bf">appointed place</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 210 of 1986  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S165.INSTRUMENT"><defterm><refpt id="UCPN.DC.DCAN.S165.INSTRUMENT" type="ext"/><emph typestyle="bf">instrument</emph></defterm> <defdesc>
+<p><text>means an Act (other than this Act) enacted before the commencement of this Act, or a rule, by-law, regulation or ordinance, or any other instrument or document whatsoever, of the same or a different kind or nature, made, proclaimed, issued or published before the commencement of this Act.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S166"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 166] s 166 Criminal jurisdiction of the Court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S166" type="ext"/>[DCA s 166]</edpnum><title searchtype="SECT-TITLE">Criminal jurisdiction of the Court</title><desig searchtype="SECT-NUM"><designum>166</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S166.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S166.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court has the criminal jurisdiction conferred or imposed on it by or under this Act, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPROC" remotekey1="REFPTID" service="DOC-ID" status="unval">Criminal Procedure Act 1986</remotelink></ci:content></ci:cite>
+ or any other Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S166.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S166.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court has generally the same criminal jurisdiction as each Court of Quarter Sessions had immediately before the commencement of this Act, except as regards any offences prescribed for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPROC.S46" remotekey1="REFPTID" service="DOC-ID" status="unval">section 46</remotelink></ci:content></ci:cite>
+ of the Criminal Procedure Act 1986.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 94 of 1999  s 6 and Sch 4 ; Act 121 of 2001  s 4 and Sch 2, effective 7 July 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 166  subst Act 210 of 1986  s 3 and Sch 1]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.DC.DCAN.S166.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_DC.SGM_UCPN.DC.DCAS166-5" leveltype="para0" subdoc="true" toc-caption="[DCA s 166.5] Historical "><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS166-5" type="ext"/>[DCA s 166.5] </edpnum><title>Historical </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Previously the District Courts had no criminal jurisdiction, but the judges in their capacity as chairmen of Quarter Sessions exercised an extensive criminal jurisdiction.</text></p>
+</bodytext>
+</level><level id="UCPN_DC.SGM_UCPN.DC.DCAS166-10" leveltype="para0" subdoc="true" toc-caption="[DCA s 166.10] Appeals">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 166.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1912-16" remotekey1="REFPTID" service="DOC-ID">Criminal Appeal Act 1912</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS166-10" type="ext"/>[DCA s 166.10] </edpnum><title>Appeals</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Care must be taken with respect to appeals from a judge exercising the criminal jurisdiction as unless there is a stated right of appeal in the relevant Act, for example, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CRIMAP" remotekey1="REFPTID" service="DOC-ID" status="unval">Criminal Appeal Act 1912 </remotelink></ci:content></ci:cite>
+, there may be no available appeal: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000559" spanref="cr000559-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="627"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Grzybowicz v Smiljanic</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000559-001">[1980] 1 NSWLR 627</ci:span></citefragment></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000560" spanref="cr000560-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="100"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Maric v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000560-001">[1981] 2 NSWLR 100</ci:span></citefragment></ci:content></ci:cite> (bail).</text></p>
+</bodytext>
+</level><level id="UCPN_DC.SGM_UCPN.DC.DCAS166-15" leveltype="para0" subdoc="true" toc-caption="[DCA s 166.15] Contempt"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS166-15" type="ext"/>[DCA s 166.15] </edpnum><title>Contempt</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Care must also be taken as to the power of a judge to commit for contempt when exercising the criminal jurisdiction: see <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attorney-General (NSW) v Davis</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWCA, Moffit P, Hope and Hutley JJA, 23 July 1980, unreported)</citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_DC.SGM_UCPN.DC.DCAS166-20" leveltype="para0" subdoc="true" toc-caption="[DCA s 166.20] Costs">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 166.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> section.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS166-20" type="ext"/>[DCA s 166.20] </edpnum><title>Costs</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In the exercise of its criminal jurisdiction the court does not have the power to award costs unless such jurisdiction is expressly provided for by statute: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr000561" spanref="cr000561-001"><ci:reporter value="NSWLR"/><ci:volume num="34"/><ci:page num="523"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Director of Public Prosecutions v Deeks</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000561-001">(1994) 34 NSWLR 523</ci:span></citefragment> <remotelink dpsi="0018" refpt="62503" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. As to the limited extent of any implied power which arises from the jurisdiction conferred by the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S166" remotekey1="REFPTID" service="DOC-ID">section</remotelink></ci:content></ci:cite>
+ see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr000562" spanref="cr000562-001"><ci:reporter value="NSWLR"/><ci:volume num="61"/><ci:page num="344"/></ci:caseref><ci:caseref ID="cr000563" spanref="cr000563-002"><ci:reporter value="ACSR"/><ci:volume num="50"/><ci:page num="380"/></ci:caseref><ci:caseref ID="cr000564" spanref="cr000564-003"><ci:reporter value="urj"/><ci:refnum num="BC200406122"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">John Fairfax Publications Pty Ltd v District Court of New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000562-001">(2004) 61 NSWLR 344</ci:span>; <ci:span spanid="cr000563-002">50 ACSR 380</ci:span>; [2004] NSWCA 324; <ci:span spanid="cr000564-003"> BC200406122</ci:span></citefragment> <remotelink dpsi="0018" refpt="386342" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_DC.SGM_UCPN.DC.DCAS166-25" leveltype="para0" subdoc="true" toc-caption="[DCA s 166.25] Jurisdiction ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 166.25] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> s 166.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1973-1" remotekey1="REFPTID" service="DOC-ID">District Court Rules 1973</remotelink> Div 2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS166-25" type="ext"/>[DCA s 166.25] </edpnum><title>Jurisdiction </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It seems DCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S166" remotekey1="REFPTID" service="DOC-ID">s 166</remotelink></ci:content></ci:cite>
+ does not in terms confer powers to issue a subpoena. The power of a registrar of the District Court to issue a subpoena in relation to a criminal trial, subject to any statutory constraints, is conferred by DCR Pt 53, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT53.D2" remotekey1="REFPTID" service="DOC-ID">Div 2</remotelink></ci:content></ci:cite>
+: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000565" spanref="cr000565-001"><ci:reporter value="urj"/><ci:refnum num="BC201206760"/></ci:caseref><ci:caseref anaphref="cr000565" spanref="cr000565-002"><ci:pinpoint num="13" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">KS v Veitch</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCCA 186; <ci:span spanid="cr000565-001"> BC201206760</ci:span> <ci:span spanid="cr000565-002">at [13]&#x2013;[14]</ci:span></citefragment> <remotelink dpsi="0018" refpt="562475" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (subpoena issued pre-arraignment for hospital medical records).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S167"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 167] s 167 Abolition of Courts of Quarter Sessions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S167" type="ext"/>[DCA s 167]</edpnum><title searchtype="SECT-TITLE">Abolition of Courts of Quarter Sessions</title><desig searchtype="SECT-NUM"><designum>167</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Courts of Quarter Sessions are abolished.</text></p>
+<leg:histnote>
+<p><text>[s 167  am Act 1 of 1975  s 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S168"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 168] s 168 References to Courts of Quarter Sessions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S168" type="ext"/>[DCA s 168]</edpnum><title searchtype="SECT-TITLE">References to Courts of Quarter Sessions</title><desig searchtype="SECT-NUM"><designum>168</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in any instrument to a Court of Quarter Sessions shall, in relation to the exercise of that Court's criminal jurisdiction, be construed as a reference to the District Court in its criminal jurisdiction.</text></p>
+<leg:histnote>
+<p><text>[s 168  subst Act 170 of 1984  s 5 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S169"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 169] s 169 Judges">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S169" type="ext"/>[DCA s 169]</edpnum><title searchtype="SECT-TITLE">Judges</title><desig searchtype="SECT-NUM"><designum>169</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S169.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S169.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A Judge exercising the criminal jurisdiction of the Court has, in relation to proceedings in the Court in that jurisdiction, the same powers, authorities, duties and functions as a Chairman of Quarter Sessions would have had, in relation to the like proceedings in a Court of Quarter Sessions, had this Act not been enacted.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 170 of 1984  s 5 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S169.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S169.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except where express provision to the contrary is made by any other Act&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S169.2.A"><lilabel><refpt id="UCPN.DC.DCAN.S169.2.A" type="ext"/>(a)</lilabel>
+<p><text>the trial of all issues arising in the Court in the exercise of its criminal jurisdiction;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S169.2.B"><lilabel><refpt id="UCPN.DC.DCAN.S169.2.B" type="ext"/>(b)</lilabel>
+<p><text>the hearing of any application, or the making of any order, in relation to any such issues; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S169.2.C"><lilabel><refpt id="UCPN.DC.DCAN.S169.2.C" type="ext"/>(c)</lilabel>
+<p><text>all other matters relating to the exercise of that jurisdiction;</text></p>
+</li>
+</l>
+<p><text>shall be held before or dealt with by a Judge sitting alone.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  subst Act 170 of 1984  s 5 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S169.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S169.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in any instrument to a Chairman of Quarter Sessions shall, in relation to a Court of Quarter Sessions in its criminal jurisdiction, be construed as a reference to a Judge exercising the criminal jurisdiction of the District Court.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  subst Act 170 of 1984  s 5 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S170"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 170] s 170">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S170" type="ext"/>[DCA s 170]</edpnum><desig searchtype="SECT-NUM"><designum>170</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 170  rep Act 210 of 1986  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 171] s 171 Criminal procedure rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S171" type="ext"/>[DCA s 171]</edpnum><title searchtype="SECT-TITLE">Criminal procedure rules</title><desig searchtype="SECT-NUM"><designum>171</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S171.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S171.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Rule Committee may make rules, not inconsistent with this Act or any other Act, for or with respect to any matter that by this Act is required or permitted to be prescribed for the purposes of, or in connection with, the exercise by the Court of its criminal jurisdiction or that is necessary or convenient to be prescribed for carrying out or giving effect to this Part and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT2.D3" remotekey1="REFPTID" service="DOC-ID">Division 3</remotelink></ci:content></ci:cite>
+ of Part II or any Act under or by virtue of which rules under this Part apply, and in particular for or with respect to providing for the procedure and practice to be followed in the Court in all proceedings in which, and with respect to which, the Court has for the time being criminal jurisdiction and regulating or providing for any matters incidental to, or relating to, any such procedure or practice.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S171.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the generality of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S171.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+, rules may be made under that subsection for or with respect to any of the following&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S171.2.A"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.A" type="ext"/>(a)</lilabel>
+<p><text>prescribing the duties and functions of the Judicial Registrar, other registrars and other officers of the Court and the records to be kept by them in relation to or for the purposes of any proceedings;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.B"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.B" type="ext"/>(b)</lilabel>
+<p><text>conferring on a registrar in particular proceedings power, subject to the rules, to issue on behalf of a defendant or an appellant in those proceedings&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S171.2.B.I"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>a subpoena requiring a person specified in the subpoena to attend and give evidence in the proceedings; or</text></p>
+</li><li id="UCPN.DC.DCAN.S171.2.B.II"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>a subpoena requiring a person specified in the subpoena to attend and produce, for the purpose of evidence, in the proceedings any document or thing that is in the possession or under the control of that person;</text></p>
+</li></l></li>
+<li id="UCPN.DC.DCAN.S171.2.C"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.C" type="ext"/>(c)</lilabel>
+<p><text>providing for the sittings of the Court and the regulation of business at those sittings;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.D"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.D" type="ext"/>(d)</lilabel>
+<p><text>prescribing and providing for the places at which particular proceedings may be held and, subject to any enactment or rule of law which confers powers on the Attorney General with respect to the venue or changes of venue of proceedings providing for the venue of proceedings to be changed and prescribing the circumstances in which, and the conditions subject to which, any such change may be made;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.E"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.E" type="ext"/>(e)</lilabel>
+<p><text>providing for the vacations and holidays of the Court and the hearing and disposal of proceedings during any such vacations or holidays;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.F"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.F" type="ext"/>(f)</lilabel>
+<p><text>providing for all procedural matters relating to or incidental to the indictment and arraignment of an accused person, including motions to quash or stay indictments;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.G"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.G" type="ext"/>(g)</lilabel>
+<p><text>providing for all matters relating to the conduct of proceedings, including matters concerning the representation of defendants and appellants in proceedings;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.H"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.H" type="ext"/>(h)</lilabel>
+<p><text>providing for evidentiary matters in proceedings, including matters relating to the giving of expert evidence;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.I"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.I" type="ext"/>(i)</lilabel>
+<p><text>prescribing the procedure and practice with respect to the delivery of verdicts, the convicting and sentencing of persons found by the Court guilty of offences and the acquittal of persons found by the Court not guilty of offences;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.J"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.J" type="ext"/>(j)</lilabel>
+<p><text>prescribing the procedure for proceedings in the Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPROC.S438" remotekey1="REFPTID" service="DOC-ID" status="unval">section 126</remotelink></ci:content></ci:cite>
+ of the Criminal Procedure Act 1986 and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.VCN96.PT4" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 4</remotelink></ci:content></ci:cite>
+ of the Victims Compensation Act 1996;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.JA"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.JA" type="ext"/>(ja)</lilabel>
+<p><text>conferring on the Court the same powers as the Supreme Court has to make an order for a view of real property for the purposes of any proceedings;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.2.K"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.K" type="ext"/>(k)</lilabel>
+<p><text>subject to the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CCCA" remotekey1="REFPTID" service="DOC-ID" status="unval">Costs in Criminal Cases Act 1967</remotelink></ci:content></ci:cite>
+, providing for matters relating to the payment of the costs of or in relation to proceedings and, in particular&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S171.2.K.I"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.K.I" type="ext"/>(i)</lilabel>
+<p><text>empowering the Court to order an Australian legal practitioner appearing in particular proceedings to disclose the amount of any costs that the Australian legal practitioner intends to retain out of any sum ordered by the Court to be paid to the Australian legal practitioner's client; and</text></p>
+</li><li id="UCPN.DC.DCAN.S171.2.K.II"><lilabel><refpt id="UCPN.DC.DCAN.S171.2.K.II" type="ext"/>(ii)</lilabel>
+<p><text>empowering the Court to order the Australian legal practitioner for a party to particular proceedings personally to pay specified costs of the proceedings and to order further that the costs so specified not be recoverable by the Australian legal practitioner from the party.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act 210 of 1986  s 3 and Sch 1 ; Act 238 of 1987  s 3 and Sch 1 ; Act 80 of 1993  s 3 and Sch 2 ; Act 120 of 1998  s 3 and Sch 2.13, effective 26 November 1998 ; Act 94 of 1999  s 6 and Sch 4 ; Act 68 of 2004  s 3 and Sch 7, effective 6 July 2004; Act 120 of 2006  s 3 and Sch 3[3.8] , effective 4 December 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S171.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A provision of the rules may&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S171.3.A"><lilabel><refpt id="UCPN.DC.DCAN.S171.3.A" type="ext"/>(a)</lilabel>
+<p><text>apply generally or be limited in its application by reference to specified exceptions or factors;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.3.B"><lilabel><refpt id="UCPN.DC.DCAN.S171.3.B" type="ext"/>(b)</lilabel>
+<p><text>apply differently according to different factors of a specified kind; or</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S171.3.C"><lilabel><refpt id="UCPN.DC.DCAN.S171.3.C" type="ext"/>(c)</lilabel>
+<p><text>authorise any matter or thing to be from time to time determined, applied or regulated by any specified person or body,</text></p>
+</li>
+</l>
+<p><text>or may do any combination of those things.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S171.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (4)  rep Act 86 of 1997  s 5 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S171.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Despite any other provision of this Act, the provisions of Part 3 of Chapter 4 of the Criminal Procedure Act 1986 and any rules under that Part apply to proceedings in the Court in its criminal jurisdiction.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  insrt Act 107 of 2006 Sch 1.13[2], effective 29 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 171A] s 171A">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S171A" type="ext"/>[DCA s 171A]</edpnum><desig searchtype="SECT-NUM"><designum>171A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 171A  rep Act 48 of 1987  s 3 and Sch 32]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171B"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 171B] s 171B">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S171B" type="ext"/>[DCA s 171B]</edpnum><desig searchtype="SECT-NUM"><designum>171B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 171B  rep Act 48 of 1987  s 3 and Sch 32]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171C"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 171C] s 171C">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S171C" type="ext"/>[DCA s 171C]</edpnum><desig searchtype="SECT-NUM"><designum>171C</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 171C  rep Act 48 of 1987  s 3 and Sch 32]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S171D"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 171D] s 171D Practice and procedure of Supreme Court to be followed unless other provision made">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S171D" type="ext"/>[DCA s 171D]</edpnum><title searchtype="SECT-TITLE">Practice and procedure of Supreme Court to be followed unless other provision made</title><desig searchtype="SECT-NUM"><designum>171D</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this Act and the rules, the procedure and practice of the District Court when exercising its criminal jurisdiction shall, so far as practicable, be the same as the procedure and practice of the Supreme Court when exercising similar jurisdiction.</text></p>
+<leg:histnote>
+<p><text>[s 171D  insrt Act 170 of 1984  s 5 and Sch 4]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.DC.DCAN.S171D.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_DC.SGM_UCPN.DC.DCAS171D-5" leveltype="para0" subdoc="true" toc-caption="[DCA s 171D.5] Powers in Criminal Jurisdiction">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 171D.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> s 171D.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS171D-5" type="ext"/>[DCA s 171D.5] </edpnum><title>Powers in Criminal Jurisdiction</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Supreme Court of New South Wales has the power to issue a bench warrant to bring a person against whom a periodic detention order has been made before the court so that the person can be dealt with. Consequently, the District Court has a similar power pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S171D" remotekey1="REFPTID" service="DOC-ID">s 171D</remotelink></ci:content></ci:cite>
+: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr000566" spanref="cr000566-001"><ci:reporter value="NSWLR"/><ci:volume num="43"/><ci:page num="256"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Webster</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000566-001">(1998) 43 NSWLR 256</ci:span></citefragment> <remotelink dpsi="0018" refpt="261489" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S172"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 172] s 172">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S172" type="ext"/>[DCA s 172]</edpnum><desig searchtype="SECT-NUM"><designum>172</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 172  rep Act 210 of 1986  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S173"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 173] s 173 Directions as to sittings of Court in its criminal jurisdiction">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S173" type="ext"/>[DCA s 173]</edpnum><title searchtype="SECT-TITLE">Directions as to sittings of Court in its criminal jurisdiction</title><desig searchtype="SECT-NUM"><designum>173</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S173.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S173.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Chief Judge is, by order in writing, to direct that the Court is, during a specified calendar year, to sit in its criminal jurisdiction at such proclaimed places or other places within the State and at such times as may be specified in the order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S173.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S173.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Chief Judge is to consult with the Attorney General before making a direction under subsection (1) that substantially alters the frequency of sittings at a particular place compared with the previous calendar year.</text></p>
+<leg:histnote>
+<p><text>[subs (1A)  insrt Act 107 of 2006 Sch 1.13[3], effective 29 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S173.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S173.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a place specified in a direction under subsection (1) is not a proclaimed place, the specified place is, for the purposes of this Act or any other law and while the direction remains in force, taken to form part of the nearest proclaimed place to the specified place.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S173.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S173.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (2) ceases to have effect if and when the specified place becomes a proclaimed place.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S173.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S173.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A direction under subsection (1) may be given in respect of a particular calendar year before the commencement of that year or, in respect of the remaining portion of that year, after the commencement of that year.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 173  subst Act 71 of 2003  s 3 and Sch 3, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S174"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 174] s 174 General provisions as to sittings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S174" type="ext"/>[DCA s 174]</edpnum><title searchtype="SECT-TITLE">General provisions as to sittings</title><desig searchtype="SECT-NUM"><designum>174</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S174.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S174.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this Part&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S174.1.A"><lilabel><refpt id="UCPN.DC.DCAN.S174.1.A" type="ext"/>(a)</lilabel>
+<p><text>the Court may sit simultaneously at different sitting places in its criminal jurisdiction;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S174.1.B"><lilabel><refpt id="UCPN.DC.DCAN.S174.1.B" type="ext"/>(b)</lilabel>
+<p><text>a Judge shall preside at such sittings of the Court in its criminal jurisdiction at such sitting places as the Chief Judge may from time to time direct; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S174.1.C"><lilabel><refpt id="UCPN.DC.DCAN.S174.1.C" type="ext"/>(c)</lilabel>
+<p><text>two or more Judges may preside simultaneously at separate sittings of the Court in its criminal jurisdiction at the one sitting place.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 170 of 1984  s 5 and Sch 4 ; Act 210 of 1986  s 3 and Sch 1 ; Act 71 of 2003  s 3 and Sch 3, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S174.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S174.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a sitting of the Court in its criminal jurisdiction is to be held and the Judge who is to preside at that sitting is not present at the time appointed for the sitting to commence, a registrar may adjourn the sitting to another time.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 170 of 1984  s 5 and Sch 4 ; Act 121 of 2001  s 4 and Sch 2, effective 7 July 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S175"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 175] s 175 Hearing of appeals">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S175" type="ext"/>[DCA s 175]</edpnum><title searchtype="SECT-TITLE">Hearing of appeals</title><desig searchtype="SECT-NUM"><designum>175</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S175.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S175.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An appeal to the Court in its criminal jurisdiction may be heard and disposed of by the Court sitting at any sitting place.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 71 of 2003  s 3 and Sch 3, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S175.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S175.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S175.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ has effect subject to any other Act or any instrument under any other Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 175  subst Act 210 of 1986  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S176"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 176] s 176 No proceedings in the nature of certiorari ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S176" type="ext"/>[DCA s 176]</edpnum><title searchtype="SECT-TITLE">No proceedings in the nature of certiorari </title><desig searchtype="SECT-NUM"><designum>176</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>No adjudication on appeal of the District Court is to be removed by any order into the Supreme Court.</text></p>
+<leg:histnote>
+<p><text>[s 176  insrt Act 121 of 2001  s 4 and Sch 2, effective 7 July 2003]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.DC.DCAN.S176.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_DC.SGM_UCPN.DC.DCAS176-5" leveltype="para0" subdoc="true" toc-caption="[DCA s 176.5] Certiorari excluded">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 176.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> s 176.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS176-5" type="ext"/>[DCA s 176.5] </edpnum><title>Certiorari excluded</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>DCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S176" remotekey1="REFPTID" service="DOC-ID">s 176</remotelink></ci:content></ci:cite>
+ is a form of privative clause that excludes the availability of relief in the nature of certiorari based on error of law on the face of the record. It does not preclude relief for jurisdictional error: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2010"/></ci:caseinfo><ci:caseref ID="cr000567" spanref="cr000567-001"><ci:reporter value="NSWLR"/><ci:volume num="78"/><ci:page num="499"/></ci:caseref><ci:caseref ID="cr000568" spanref="cr000568-002"><ci:reporter value="ALR"/><ci:volume num="272"/><ci:page num="705"/></ci:caseref><ci:caseref ID="cr000569" spanref="cr000569-003"><ci:reporter value="urj"/><ci:refnum num="BC201006774"/></ci:caseref><ci:caseref anaphref="cr000569" spanref="cr000569-004"><ci:pinpoint num="133" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Downey v Acting District Court Judge Boulton (No 5)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000567-001">(2010) 78 NSWLR 499</ci:span>; <ci:span spanid="cr000568-002">272 ALR 705</ci:span>; [2010] NSWCA 240; <ci:span spanid="cr000569-003"> BC201006774</ci:span> <ci:span spanid="cr000569-004">at [133]&#x2013;[134]</ci:span></citefragment> <remotelink dpsi="0018" refpt="503043" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2011"/></ci:caseinfo><ci:caseref ID="cr000570" spanref="cr000570-001"><ci:reporter value="NSWLR"/><ci:volume num="80"/><ci:page num="620"/></ci:caseref><ci:caseref ID="cr000571" spanref="cr000571-002"><ci:reporter value="urj"/><ci:refnum num="BC201103235"/></ci:caseref><ci:caseref anaphref="cr000571" spanref="cr000571-003"><ci:pinpoint num="10" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Garde v Dowd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000570-001">(2011) 80 NSWLR 620</ci:span>; [2011] NSWCA 115; <ci:span spanid="cr000571-002"> BC201103235</ci:span> <ci:span spanid="cr000571-003">at [10]</ci:span></citefragment> <remotelink dpsi="0018" refpt="533492" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000572" spanref="cr000572-001"><ci:reporter value="urj"/><ci:refnum num="BC201207370"/></ci:caseref><ci:caseref anaphref="cr000572" spanref="cr000572-002"><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Elias v DPP</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 302; <ci:span spanid="cr000572-001"> BC201207370</ci:span> <ci:span spanid="cr000572-002">at [5]</ci:span></citefragment> <remotelink dpsi="0018" refpt="565868" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000573" spanref="cr000573-001"><ci:reporter value="urj"/><ci:refnum num="BC200802890"/></ci:caseref><ci:caseref anaphref="cr000573" spanref="cr000573-002"><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Spanos v Lazaris</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWCA 74; <ci:span spanid="cr000573-001"> BC200802890</ci:span> <ci:span spanid="cr000573-002">at [15]</ci:span></citefragment> <remotelink dpsi="0018" refpt="455656" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA (Beazley and Bell JJA agreeing); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2009"/></ci:caseinfo><ci:caseref ID="cr000574" spanref="cr000574-001" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="193"/><ci:page num="552"/></ci:caseref><ci:caseref ID="cr000575" spanref="cr000575-002"><ci:reporter value="urj"/><ci:refnum num="BC200901816"/></ci:caseref><ci:caseref anaphref="cr000575" spanref="cr000575-003"><ci:pinpoint num="18" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Director of Public Prosecutions v Emanuel</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000574-001" status="unval">(2009) 193 A Crim R 552</ci:span>; [2009] NSWCA 42; <ci:span spanid="cr000575-002"> BC200901816</ci:span> <ci:span spanid="cr000575-003">at [18]</ci:span></citefragment> <remotelink dpsi="0018" refpt="471319" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (Spigelman CJ) and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000576" spanref="cr000576-000" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="193"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="45" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000576-000" status="unval">[45]</ci:span></citefragment></ci:content></ci:cite> (Basten JA); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000577" spanref="cr000577-001"><ci:reporter value="urj"/><ci:refnum num="BC201006394"/></ci:caseref><ci:caseref anaphref="cr000577" spanref="cr000577-002"><ci:pinpoint num="3" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hoffenberg v District Court of New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWCA 142; <ci:span spanid="cr000577-001"> BC201006394</ci:span> <ci:span spanid="cr000577-002">at [3]&#x2013;[5]</ci:span></citefragment> <remotelink dpsi="0018" refpt="502225" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Basten JA; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2010"/></ci:caseinfo><ci:caseref ID="cr000578" spanref="cr000578-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="239"/><ci:page num="531"/></ci:caseref><ci:caseref ID="cr000579" spanref="cr000579-002"><ci:reporter value="ALR"/><ci:volume num="262"/><ci:page num="569"/></ci:caseref><ci:caseref ID="cr000580" spanref="cr000580-003"><ci:reporter value="urj"/><ci:refnum num="BC201000230"/></ci:caseref><ci:caseref anaphref="cr000580" spanref="cr000580-004"><ci:pinpoint num="100" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Kirk v Industrial Relations Commission (NSW)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000578-001" status="unval">(2010) 239 CLR 531</ci:span>; <ci:span spanid="cr000579-002">262 ALR 569</ci:span>; [2010] HCA 1; <ci:span spanid="cr000580-003"> BC201000230</ci:span> <ci:span spanid="cr000580-004">at [100]</ci:span></citefragment> <remotelink dpsi="0018" refpt="487676" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>A failure to accord procedural fairness, and ostensible or apprehended bias, may involve jurisdictional error: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2010"/></ci:caseinfo><ci:caseref ID="cr000581" spanref="cr000581-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="239"/><ci:page num="531"/></ci:caseref><ci:caseref ID="cr000582" spanref="cr000582-002"><ci:reporter value="ALR"/><ci:volume num="262"/><ci:page num="569"/></ci:caseref><ci:caseref ID="cr000583" spanref="cr000583-003"><ci:reporter value="urj"/><ci:refnum num="BC201000230"/></ci:caseref><ci:caseref anaphref="cr000583" spanref="cr000583-004"><ci:pinpoint num="60" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Kirk v Industrial Relations Commission (NSW)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000581-001" status="unval">(2010) 239 CLR 531</ci:span>; <ci:span spanid="cr000582-002">262 ALR 569</ci:span>; [2010] HCA 1; <ci:span spanid="cr000583-003"> BC201000230</ci:span> <ci:span spanid="cr000583-004">at [60]</ci:span></citefragment> <remotelink dpsi="0018" refpt="487676" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2001"/></ci:caseinfo><ci:caseref ID="cr000584" spanref="cr000584-001"><ci:reporter value="ALR"/><ci:volume num="179"/><ci:page num="513"/></ci:caseref><ci:caseref ID="cr000585" spanref="cr000585-002"><ci:reporter value="urj"/><ci:refnum num="BC200102953"/></ci:caseref><ci:caseref anaphref="cr000585" spanref="cr000585-003"><ci:pinpoint num="10" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Refugee Review Tribunal; Ex parte HB</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000584-001">(2001) 179 ALR 513</ci:span>; [2001] HCA 34; <ci:span spanid="cr000585-002"> BC200102953</ci:span> <ci:span spanid="cr000585-003">at [10]</ci:span></citefragment> <remotelink dpsi="0018" refpt="329067" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

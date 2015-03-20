@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;5]</docinfo:doc-heading><docinfo:doc-id>UCPN.CSN.CSNOAN10.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Court Suppression and Non-publication Orders Act 2010 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>COURT SUPPRESSION AND NON-PUBLICATION ORDERS ACT 2010 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;5]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>120000000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.CSN"/><docinfo:metaitem name="parent-filename" value="csn.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_CSN.SGM_UCPN.CSN.CSNOAN10"/><docinfo:metaitem name="parent-filename" value="csn1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">COURT SUPPRESSION AND NON-PUBLICATION ORDERS ACT 2010 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">2010</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 106, 2010</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Court Suppression and Non-publication Orders Act 2010 No 106 was assented to on 29 November 2010, commencing 1 July 2011. The Act is yet to be amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1"/><entry colname="c2"/><entry colname="c3"/></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.CSN.CSNOAN10.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.CSN.CSNOAN10" type="ext"/>COURT SUPPRESSION AND NON-PUBLICATION ORDERS ACT 2010 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act to provide for the making of suppression and non-publication orders by courts.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.CSN.CSNOAN10.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;5]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.CSN.CSNOAN10.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;5]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CSN.CSNOAN10.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[60,000] s 1 Name of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CSN.CSNOAN10.S1" type="ext"/>[60,000]</edpnum><title searchtype="SECT-TITLE">Name of Act</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is the Court Suppression and Non-publication Orders Act 2010.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CSN.CSNOAN10.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[60,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CSN.CSNOAN10.S2" type="ext"/>[60,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act commences on a day or days to be appointed by proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CSN.CSNOAN10.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[60,010] s 3 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CSN.CSNOAN10.S3" type="ext"/>[60,010]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act:</text></p>
+<deflist><defitem id="UCPN.CSN.CSNOAN10.S3.COURT"><defterm><refpt id="UCPN.CSN.CSNOAN10.S3.COURT" type="ext"/><emph typestyle="bf">court</emph></defterm><defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.CSN.CSNOAN10.S3.COURT.A"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S3.COURT.A" type="ext"/>(a)</lilabel>
+<p><text>the Supreme Court, Land and Environment Court, Industrial Court, District Court, Local Court or Children&#x2019;s Court, or</text></p>
+</li>
+<li id="UCPN.CSN.CSNOAN10.S3.COURT.B"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S3.COURT.B" type="ext"/>(b)</lilabel>
+<p><text>any other court or tribunal, or a person or body having power to act judicially, prescribed by the regulations as a court for the purposes of this Act.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CSN.CSNOAN10.S3.INFORMATION"><defterm><refpt id="UCPN.CSN.CSNOAN10.S3.INFORMATION" type="ext"/><emph typestyle="bf">information</emph></defterm><defdesc>
+<p><text>includes any document.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CSN.CSNOAN10.S3.NEWS-MEDIA-ORGANISATION"><defterm><refpt id="UCPN.CSN.CSNOAN10.S3.NEWS-MEDIA-ORGANISATION" type="ext"/><emph typestyle="bf">news media organisation</emph></defterm><defdesc>
+<p><text>means a commercial enterprise that engages in the business of broadcasting or publishing news or a public broadcasting service that engages in the dissemination of news through a public news medium.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CSN.CSNOAN10.S3.NON-PUBLICATION-ORDER"><defterm><refpt id="UCPN.CSN.CSNOAN10.S3.NON-PUBLICATION-ORDER" type="ext"/><emph typestyle="bf">non-publication order</emph></defterm><defdesc>
+<p><text>means an order that prohibits or restricts the publication of information (but that does not otherwise prohibit or restrict the disclosure of information).</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CSN.CSNOAN10.S3.PARTY"><defterm><refpt id="UCPN.CSN.CSNOAN10.S3.PARTY" type="ext"/><emph typestyle="bf">party</emph></defterm><defdesc>
+<p><text>to proceedings includes the complainant or victim (or alleged victim) in criminal proceedings and any person named in evidence given in proceedings and, in relation to proceedings that have concluded, means a person who was a party to the proceedings before the proceedings concluded.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CSN.CSNOAN10.S3.PROCEEDINGS"><defterm><refpt id="UCPN.CSN.CSNOAN10.S3.PROCEEDINGS" type="ext"/><emph typestyle="bf">proceedings</emph></defterm><defdesc>
+<p><text>means civil or criminal proceedings.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CSN.CSNOAN10.S3.PUBLISH"><defterm><refpt id="UCPN.CSN.CSNOAN10.S3.PUBLISH" type="ext"/><emph typestyle="bf">publish</emph></defterm><defdesc>
+<p><text>means disseminate or provide access to the public or a section of the public by any means, including by:</text></p>
+<l><li id="UCPN.CSN.CSNOAN10.S3.PUBLISH.A"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S3.PUBLISH.A" type="ext"/>(a)</lilabel>
+<p><text>publication in a book, newspaper, magazine or other written publication, or</text></p>
+</li>
+<li id="UCPN.CSN.CSNOAN10.S3.PUBLISH.B"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S3.PUBLISH.B" type="ext"/>(b)</lilabel>
+<p><text>broadcast by radio or television, or</text></p>
+</li>
+<li id="UCPN.CSN.CSNOAN10.S3.PUBLISH.C"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S3.PUBLISH.C" type="ext"/>(c)</lilabel>
+<p><text>public exhibition, or</text></p>
+</li>
+<li id="UCPN.CSN.CSNOAN10.S3.PUBLISH.D"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S3.PUBLISH.D" type="ext"/>(d)</lilabel>
+<p><text>broadcast or publication by means of the Internet.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CSN.CSNOAN10.S3.SUPPRESSION-ORDER"><defterm><refpt id="UCPN.CSN.CSNOAN10.S3.SUPPRESSION-ORDER" type="ext"/><emph typestyle="bf">suppression order</emph></defterm><defdesc>
+<p><text>means an order that prohibits or restricts the disclosure of information (by publication or otherwise).</text></p>
+</defdesc></defitem></deflist>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CSN.CSNOAN10.S3.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_CSN.SGM_UCPN.OL.60010-5" leveltype="para0" subdoc="true" toc-caption="[60,010.5] Suppression and non-publication orders"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.60010-5" type="ext"/>[60,010.5] </edpnum><title>Suppression and non-publication orders</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The terms &#x201c;suppression order&#x201d; and &#x201c;non-publication order&#x201d; have often been used interchangeably when referring to orders restricting the release of court information. &#x201c;Suppression order&#x201d; and &#x201c;non-publication order&#x201d; are now defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CSN.CSNOAN10.S3" remotekey1="REFPTID" service="DOC-ID">s 3.</remotelink></ci:content></ci:cite>
+ </text></p>
+<p>
+<text>Suppression order is the more restrictive term referring to the prohibition or restriction of access to, or disclosure of something, such as certain documents. A non-publication order is more specific, prohibiting or restricting publication only, thereby allowing the media and general public to access information, but not to publish it. This could include, for example, the name and address of a party or witness.</text></p>
+</bodytext>
+</level><level id="UCPN_CSN.SGM_UCPN.OL.60010-7" leveltype="para0" subdoc="true" toc-caption="[60,010.7] &#x201c;news media organisation&#x201d;"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.60010-7" type="ext"/>[60,010.7] </edpnum><title>&#x201c;news media organisation&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The CS&amp;NPO Act defines this term as including &#x201c;a <emph typestyle="it">commercial enterprise</emph> that engages in the business of broadcasting or publishing &#x2026;&#x201d; (emphasis added). This definition is arguably more narrow than the expression &#x201c;news publisher&#x201d; (&#x201c;a <emph typestyle="it">person</emph> engaged in the business of publishing news &#x2026;&#x201d; contained in the Access to Justice (Federal Jurisdiction) Amendment Bill 2011 (Cth) and the model bill proposed by the Standing Committee of Attorneys General. The CS&amp;NPO Act definition may preclude &#x201c;non-comercial&#x201d; publishers (eg social media platforms, bloggers and not for profit internet organisations) from having automatic standing under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CSN.CSNOAN10.S9.2" remotekey1="REFPTID" service="DOC-ID">ss 9(2)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CSN.CSNOAN10.S13.2.D" remotekey1="REFPTID" service="DOC-ID">13(2)(d)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CSN.CSNOAN10.S14.3.D" remotekey1="REFPTID" service="DOC-ID">14(3)(d)</remotelink></ci:content></ci:cite>
+ of the CS&amp;NPO Act. The standing of non-commercial publishers would depend on their ability to satisfy the court that they had &#x201c;a sufficient interest&#x201d;: see CS&amp;NPO Act 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CSN.CSNOAN10.S9.2.E" remotekey1="REFPTID" service="DOC-ID">s 9(2)(e)</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_CSN.SGM_UCPN.OL.60010-10" leveltype="para0" subdoc="true" toc-caption="[60,010.10] &#x201c;Party&#x201d;"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.60010-10" type="ext"/>[60,010.10] </edpnum><title>&#x201c;Party&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>&#x201c;Party&#x201d; is broadly defined in s 3. It includes any person named in evidence given in proceedings.</text></p>
+</bodytext>
+</level><level id="UCPN_CSN.SGM_UCPN.OL.60010-15" leveltype="para0" subdoc="true" toc-caption="[60,010.15] Publish &#x2014; &#x201c;disseminate or provide access to&#x201d;"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.60010-15" type="ext"/>[60,010.15] </edpnum><title>Publish &#x2014; &#x201c;disseminate or provide access to&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The definition of publish includes the provision of internet access to information. Internet publication involves &#x201c;uploading&#x201d; information to a particular internet address, and then permitting other internet users to access that address: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2002"/></ci:caseinfo><ci:caseref ID="cr000001" spanref="cr000001-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="210"/><ci:page num="575"/></ci:caseref><ci:caseref ID="cr000002" spanref="cr000002-002"><ci:reporter value="ALR"/><ci:volume num="194"/><ci:page num="433"/></ci:caseref><ci:caseref ID="cr000003" spanref="cr000003-003"><ci:reporter value="urj"/><ci:refnum num="BC200207411"/></ci:caseref><ci:caseref anaphref="cr000003" spanref="cr000003-004"><ci:pinpoint num="75" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Dow Jones &amp; Company Inc v Gutnick</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000001-001" status="unval">(2002) 210 CLR 575</ci:span>; <ci:span spanid="cr000002-002">194 ALR 433</ci:span>; [2002] HCA 56; <ci:span spanid="cr000003-003"> BC200207411</ci:span> <ci:span spanid="cr000003-004">at [75]</ci:span></citefragment> <remotelink dpsi="0018" refpt="355872" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. One consequence of this dual aspect of internet &#x201c;publication&#x201d; is that it is continuous or repeated conduct for so long as the address is publicly accessible: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000004" spanref="cr000004-001"><ci:reporter value="urj"/><ci:refnum num="BC201204176"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Fairfax Digital Australia &amp; New Zealand Pty Ltd v Ibrahim </emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCCA 125; <ci:span spanid="cr000004-001"> BC201204176</ci:span></citefragment> <remotelink dpsi="0018" refpt="554474" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000005" spanref="cr000005-000"><ci:reporter value="NSWCCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="43" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000005-000">at [43]</ci:span></citefragment></ci:content></ci:cite>. Another consequence is that the power to prohibit internet publication in NSW can affect the conduct of persons who would, for other purposes, be outside the territorial jurisdiction of state laws: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref spanref="cr000005-001" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2011"/></ci:edition><ci:pinpoint num="24" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Debs</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWSC 1248 <ci:span spanid="cr000005-001" status="unval">at [24]</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CSN.CSNOAN10.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[60,015] s 4 Inherent jurisdiction and powers of courts not affected">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CSN.CSNOAN10.S4" type="ext"/>[60,015]</edpnum><title searchtype="SECT-TITLE">Inherent jurisdiction and powers of courts not affected</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not limit or otherwise affect any inherent jurisdiction or any powers that a court has apart from this Act to regulate its proceedings or to deal with a contempt of the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CSN.CSNOAN10.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[60,020] s 5 Other laws not affected">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CSN.CSNOAN10.S5" type="ext"/>[60,020]</edpnum><title searchtype="SECT-TITLE">Other laws not affected</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not limit or otherwise affect the operation of a provision made by or under any other Act that prohibits or restricts, or authorises a court to prohibit or restrict, the publication or other disclosure of information in connection with proceedings.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CSN.CSNOAN10.S5.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CSN.SGM_UCPN.OL.60020-5" leveltype="para0" subdoc="true" toc-caption="[60,020.5] Other laws not affected">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [60,020.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2000-75" remotekey1="REFPTID" service="DOC-ID">Adoption Act 2000</remotelink> ss 180, 186(2).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1978-161" remotekey1="REFPTID" service="DOC-ID">Bail Act 1978</remotelink> s 36C.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2004-46" remotekey1="REFPTID" service="DOC-ID">Child Protection (Offenders Prohibition Orders) Act 2004</remotelink> s 18.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1998-157" remotekey1="REFPTID" service="DOC-ID">Children and Young Persons (Care and Protection) Act 1998</remotelink> s 29(1)(f).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2009-41" remotekey1="REFPTID" service="DOC-ID">Coroners Act 2009</remotelink> s 74.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1900-40" remotekey1="REFPTID" service="DOC-ID">Crimes Act 1900</remotelink> s 578A.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2001-120" remotekey1="REFPTID" service="DOC-ID">Crimes (Appeal and Review) Act 2001</remotelink> s 111.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2007-80" remotekey1="REFPTID" service="DOC-ID">Crimes (Domestic and Personal Violence) Act 2007</remotelink> s 45(1).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2000-59" remotekey1="REFPTID" service="DOC-ID">Crimes (Forensic Procedures) Act 2000</remotelink>.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1999-92" remotekey1="REFPTID" service="DOC-ID">Crimes (Sentencing Procedure) Act 1999</remotelink> 100H, ss 51B.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 126E(b), s 195.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1998-105" remotekey1="REFPTID" service="DOC-ID">Evidence (Audio and Audio Visual Links) Act 1998</remotelink> s 15.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1997-136" remotekey1="REFPTID" service="DOC-ID">Law Enforcement (Controlled Operations) Act 1997</remotelink> s 28.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1991-10" remotekey1="REFPTID" service="DOC-ID">Public Health Act 1991</remotelink> s 35.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1996-76" remotekey1="REFPTID" service="DOC-ID">Status of Children Act 1996</remotelink> s 25.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2007-64" remotekey1="REFPTID" service="DOC-ID">Surveillance Devices Act 2007</remotelink> s 42(5).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2002-115" remotekey1="REFPTID" service="DOC-ID">Terrorism (Police Powers) Act 2002</remotelink> ss 26P, 27ZA.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-87" remotekey1="REFPTID" service="DOC-ID">Witness Protection Act 1995</remotelink> s 26.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1914-12" remotekey1="REFPTID" service="DOC-ID">Crimes Act 1914</remotelink> s 15MK(4).</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1975-53" remotekey1="REFPTID" service="DOC-ID">Family Law Act 1975</remotelink> s 121.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1992-172" remotekey1="REFPTID" service="DOC-ID">Service and Execution of Process Act 1992</remotelink> s 96.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1994-124" remotekey1="REFPTID" service="DOC-ID">Witness Protection Act 1994</remotelink> s 28(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.60020-5" type="ext"/>[60,020.5] </edpnum><title>Other laws not affected</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>There are numerous legislative non-publication and suppression provisions contained in different legislation. The Court Suppression and Non-publication Orders Act is not intended to affect the operation of the specific legislative protections. They include:</text>
+<l>
+<li>
+<lilabel> </lilabel>
+<p><text>NSW statutory provisions empowering non-publication or suppression:</text></p>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Adoption Act 2000: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006Q" refpt="FLSL.ADN.AAN00.S180" remotekey1="REFPTID" service="DOC-ID">ss 180</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006Q" refpt="FLSL.ADN.AAN00.S186.2" remotekey1="REFPTID" service="DOC-ID">186(2)</remotelink></ci:content></ci:cite>
+ (adoptions)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Bail Act 1978: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.BA.BLN.S36C" remotekey1="REFPTID" service="DOC-ID">s 36C</remotelink></ci:content></ci:cite>
+ (bail surety)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Child Protection (Offenders Prohibition Orders) 2004: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.OLNSW.CPOPOAN04.S18" remotekey1="REFPTID" service="DOC-ID">s 18</remotelink></ci:content></ci:cite>
+ (identity of registrable persons and victims)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Children and Young Persons (Care and Protection) Act 1998: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006Q" refpt="FLSL.CWN.CYPCPN98.S29.1.F" remotekey1="REFPTID" service="DOC-ID">s 29(1)(f)</remotelink></ci:content></ci:cite>
+ (children &#x2014; related proceedings)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CL.CHCP" remotekey1="REFPTID" service="DOC-ID">Children (Criminal Proceedings) Act 1987</remotelink></ci:content></ci:cite>
+: (criminal proceedings where young people involved)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Coroners Act 2009: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CO.CAN09.S74" remotekey1="REFPTID" service="DOC-ID">s 74</remotelink></ci:content></ci:cite>
+ (coronial matters)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Crimes Act 1900: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="037A" refpt="CFL.CM.CAN.S578A" remotekey1="REFPTID" service="DOC-ID" status="unval">s 578A</remotelink></ci:content></ci:cite>
+ (publication of matters identifying a complainant in proceedings in respect of a prescribed sexual offence)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Crimes (Appeal and Review) Act 2001: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.APPLOC.CLCARAN01.S111" remotekey1="REFPTID" service="DOC-ID">s 111</remotelink></ci:content></ci:cite>
+ (publication of details concerning particular acquitted persons)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Crimes (Domestic and Personal Violence) Act 2007: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006Q" refpt="FLSL.DVN.CDPVAN07.S45.1" remotekey1="REFPTID" service="DOC-ID">s 45(1)</remotelink></ci:content></ci:cite>
+ (children in AVO proceedings)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.IN.CFPAN00" remotekey1="REFPTID" service="DOC-ID">Crimes (Forensic Procedures) Act 2000</remotelink></ci:content></ci:cite>
+: (forensic procedures)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Crimes (Sentencing Procedure) Act 1999: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.ST.CSPN99.S51B" remotekey1="REFPTID" service="DOC-ID">ss 51B</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.ST.CSPN99.S100H" remotekey1="REFPTID" service="DOC-ID">100H</remotelink></ci:content></ci:cite>
+ ( name specified in parole orders and non-association orders (other than the offender)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Evidence Act 1995: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S126E..B" remotekey1="REFPTID" service="DOC-ID">s 126E(b)</remotelink></ci:content></ci:cite>
+ (professional confidential relationship privilege); 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S195" remotekey1="REFPTID" service="DOC-ID">s 195</remotelink></ci:content></ci:cite>
+ (disallowed questions)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Evidence (Audio and Audio-visual Links) Act 1998: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.S15" remotekey1="REFPTID" service="DOC-ID">s 15</remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Law Enforcement (Controlled Operations) Act 1997: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.IN.LECOAN97.S28" remotekey1="REFPTID" service="DOC-ID">s 28</remotelink></ci:content></ci:cite>
+ (assumed identitiy)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Law Enforcement and National Security (Assumed Identities) Act 2010: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.OLNSW.LENSRN10.S34" remotekey1="REFPTID" service="DOC-ID" status="unval">s 34</remotelink></ci:content></ci:cite>
+ (assumed identity)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Lie Detectors Act 1983: 
+<remotelink dpsi="05CC" refpt="OTH.LD83.S6.3" remotekey1="REFPTID" service="DOC-ID" status="unval">s 6(3)</remotelink>
+ (publication of unlawfully obtained evidence from lie detectors)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Public Health Act 1991: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PUBH91.S35" remotekey1="REFPTID" service="DOC-ID" status="unval">s 35</remotelink></ci:content></ci:cite>
+ (public health)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Status of Children Act 1996: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006Q" refpt="FLSL.SCN.SCN96.S25" remotekey1="REFPTID" service="DOC-ID">s 25</remotelink></ci:content></ci:cite>
+ (persons applying for or subject to application for parentage or parentage annulment order)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Surveillance Devices Act 2007: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.IN.SDAN07.S42.5" remotekey1="REFPTID" service="DOC-ID">s 42(5)</remotelink></ci:content></ci:cite>
+&#x2013;(6) (information revealing details of surveillance device technology or methods of installation, use or retrieval of devices)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Terrorism (Police Powers) Act 2002: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.INVEST.TPPAN02.S26P" remotekey1="REFPTID" service="DOC-ID">ss 26P</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.INVEST.TPPAN02.S27ZA" remotekey1="REFPTID" service="DOC-ID">27ZA</remotelink></ci:content></ci:cite>
+ (terrorism).</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Witness Protection Act 1995: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.OLNSW.WPN.S26" remotekey1="REFPTID" service="DOC-ID">s 26</remotelink></ci:content></ci:cite>
+ (ensure identity of participant in witness protection program is not disclosed)</text></p></li></l></li>
+<li>
+<lilabel> </lilabel>
+<p><text>Commonwealth statutory provisions empowering non-publication or suppression:</text></p>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Crimes Act 1914 (Cth): 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007O" refpt="CLSA.CTHL.CRIMA14.S15MK.4" remotekey1="REFPTID" service="DOC-ID" status="unval">s 15MK(4)</remotelink></ci:content></ci:cite>
+ (&#x201c;operative&#x201d; for whom a witness identity certificate has been filed)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Family Law Act 1975 (Cth) 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006P" refpt="AFL.FL.FLA75.S121" remotekey1="REFPTID" service="DOC-ID">s 121</remotelink></ci:content></ci:cite>
+ (family proceedings)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Director of Public Prosecutions Act 1983 (Cth): s 16A (prohibit publication of evidence or information in proceedings related to the DPP&#x2019;s civil remedies function or proceedings under the Proceeds of Crimes Act 2002)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Service and Execution of Process Act 1992 (Cth): 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0073" refpt="CPACT.ACRLEG.SEPA92.S96" remotekey1="REFPTID" service="DOC-ID" status="unval">s 96</remotelink></ci:content></ci:cite>
+ (proceedings relating to persons apprehended under a warrant)</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Witness Protection Act 1994 (Cth): 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.WPA.S28.2" remotekey1="REFPTID" service="DOC-ID" status="unval">s 28(2)</remotelink></ci:content></ci:cite>
+ (identity of participant in National Witness Protection Program).</text></p></li></l></li></l></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

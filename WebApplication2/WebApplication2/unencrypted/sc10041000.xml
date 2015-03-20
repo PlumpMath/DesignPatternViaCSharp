@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 PRELIMINARY [rr 1.1&#x2013;1.10]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.CLRUN00.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT (CORPORATIONS) RULES 1999</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 PRELIMINARY [rr 1.1&#x2013;1.10]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70020000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.CLRUN00"/><docinfo:metaitem name="parent-filename" value="sc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">SUPREME COURT (CORPORATIONS) RULES 1999</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1999</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 703, 1999</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Corporations Law Rules 2000 were notified in Gaz 144 of 24 December 1999 p 12,279 and commenced 1 March 2000. The title of the Rules was amended to Supreme Court (Corporations) Rules 1999 by the Corporations Law Amendment (No 3) Rules 2003, Gaz 197 of 19 December 2003 p 11377. The Rules have been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Gazette</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Supreme Court Rules (Amendment No 340) 2000</entry><entry colname="c2">81 of 30 June 2000 p 5789</entry><entry colname="c3">30 June 2000</entry></row>
+<row><entry colname="c1">Corporations Law Amendment (No 1) Rules 2000</entry><entry colname="c2">168 of 22 December 2000 p 13,608</entry><entry colname="c3">1 January 2001</entry></row>
+<row><entry colname="c1">Corporations Law Amendment (No 2) Rules 2001</entry><entry colname="c2">93 of 1 June 2001 p 3023</entry><entry colname="c3">30 June 2001</entry></row>
+<row><entry colname="c1">Corporations Law Amendment (No 3) Rules 2003</entry><entry colname="c2">197 of 19 December 2003 p 11377</entry><entry colname="c3">1 January 2004</entry></row>
+<row><entry colname="c1">Supreme Court (Corporations) Amendment (No 4) Rules 2004</entry><entry colname="c2">91 of 28 May 2004 p 3285</entry><entry colname="c3">28 May 2004</entry></row>
+<row><entry colname="c1">Supreme Court (Corporations) Amendment (No 5) Rules 2005</entry><entry colname="c2">77 of 24 June 2005 p 3080</entry><entry colname="c3">24 June 2005</entry></row>
+<row><entry colname="c1">Supreme Court (Corporations) Amendment (No 6) Rules 2007</entry><entry colname="c2">48 of 5 April 2007 p 2118</entry><entry colname="c3">5 April 2007</entry></row>
+<row><entry colname="c1">Supreme Court (Corporations) Amendment (No 7) Rules 2007</entry><entry colname="c2">116 of 7 September 2007, p 6896</entry><entry colname="c3">7 September 2007</entry></row>
+<row><entry colname="c1">Supreme Court (Corporations) Amendment (No 8) Rules 2008</entry><entry colname="c2">53 of 16 May 2008 p 3892</entry><entry colname="c3">16 May 2008</entry></row>
+<row><entry colname="c1">Supreme Court (Corporations) Amendment (No 9) Rules 2008</entry><entry colname="c2">132 of 17 October 2008</entry><entry colname="c3">17 October 2008</entry></row>
+<row><entry colname="c1">Supreme Court (Corporations) Amendment (No 10) Rules 2009</entry><entry colname="c2">LW 25 September 2009</entry><entry colname="c3">25 September 2009 (s 2)</entry></row>
+<row><entry colname="c1">Supreme Court (Corporations) Amendment (No 11) Rules 2010</entry><entry colname="c2">LW 26 March 2010</entry><entry colname="c3">26 March 2010 (s 2)</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.SC.CLRUN00.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.SC.CLRUN00" type="ext"/>SUPREME COURT (CORPORATIONS) RULES 1999</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 PRELIMINARY [rr 1.1&#x2013;1.10]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.CLRUN00.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">PRELIMINARY [rr 1.1&#x2013;1.10]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D1.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,000] r 1.1 Citation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R1" type="ext"/>[15,000]</edpnum><title searchtype="RUL-TITLE">Citation</title><desig searchtype="RUL-NUM"><designum>1.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These Rules may be cited as the Supreme Court (Corporations) Rules 1999.</text></p>
+<leg:histnote>
+<p><text>[r 1.1  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D1.R1.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15000-5" leveltype="para0" subdoc="true" toc-caption="[15,000.5] Introductory note"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15000-5" type="ext"/>[15,000.5] </edpnum><title>Introductory note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>These Rules effectively replace the provisions of Pt 80A for matters commenced under the Corporations Law after 1 March 2000.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,005] r 1.2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R2" type="ext"/>[15,005]</edpnum><title searchtype="RUL-TITLE">Commencement</title><desig searchtype="RUL-NUM"><designum>1.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These Rules commence on 1 March 2000.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,010] r 1.3 Application of these Rules and other rules of the Court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R3" type="ext"/>[15,010]</edpnum><title searchtype="RUL-TITLE">Application of these Rules and other rules of the Court</title><desig searchtype="RUL-NUM"><designum>1.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D1.R3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D1.R3.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R3.1.A" type="ext"/>(a)</lilabel>
+<p><text>these Rules apply to a proceeding in the Court under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+, or the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC Act</remotelink></ci:content></ci:cite>
+, that is commenced on or after the commencement of these Rules, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D1.R3.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R3.1.B" type="ext"/>(b)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A" remotekey1="REFPTID" service="DOC-ID">Division 15A</remotelink></ci:content></ci:cite>
+ applies to a proceeding in the Court under the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act</remotelink>
+.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  subst Gaz 132 of 17 October 2008  r 2 and Sch 1[1], effective 17 October 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The other rules of the Court apply, to the extent that they are relevant and not inconsistent with these Rules:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D1.R3.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R3.2.A" type="ext"/>(a)</lilabel>
+<p><text>to a proceeding in the Court under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+, or the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC Act</remotelink></ci:content></ci:cite>
+, that is commenced on or after the commencement of these Rules, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D1.R3.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R3.2.B" type="ext"/>(b)</lilabel>
+<p><text>to a proceeding in the Court under the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act</remotelink>
+ that is commenced on or after the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D15A" remotekey1="REFPTID" service="DOC-ID">Division 15A</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  subst Gaz 132 of 17 October 2008  r 2 and Sch 1[1], effective 17 October 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, the rules applying to a proceeding in the Court under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+, or the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC Act</remotelink></ci:content></ci:cite>
+, as in force immediately before the commencement of these Rules, continue to apply to a proceeding under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+, or the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC Act</remotelink></ci:content></ci:cite>
+, that was commenced before the commencement of these Rules.</text></p>
+<glp:note>
+<heading><title>Note</title></heading>
+<p>
+<text>By virtue of the definition of <defterm><emph typestyle="bf">this Act</emph></defterm> in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite>
+ of the Corporations Act, a reference to the Corporations Act includes a reference to the Corporations Regulations.</text></p></glp:note><leg:histnote>
+<p><text>[subr (3)  am Gaz 168 of 22 December 2000  p 13608]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 1.3  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,015] r 1.4 Expressions used in the Corporations Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R4" type="ext"/>[15,015]</edpnum><title searchtype="RUL-TITLE">Expressions used in the Corporations Act</title><desig searchtype="RUL-NUM"><designum>1.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the contrary intention appears, an expression used in these Rules and in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+ has the same meaning in these Rules as it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+.</text></p>
+<glp:note>
+<heading><title>Note</title></heading>
+<p>
+<text>Expressions used in these Rules (including the notes to these Rules) that are defined in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+ include:</text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.ABN"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.ABN" type="ext"/><emph typestyle="bf">ABN</emph></defterm> <defdesc>
+<p><text>(short for &#x201c;Australian Business Number&#x201d;) &#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 116 of 7 September 2007  cl 2 and Sch 1[1], effective 7 September 2007]</text></p></leg:histnote></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.ACN"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.ACN" type="ext"/><emph typestyle="bf">ACN</emph></defterm> <defdesc>
+<p><text>(short for &#x201c;Australian Company Number&#x201d;) &#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.ARBN"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.ARBN" type="ext"/><emph typestyle="bf">ARBN</emph></defterm> <defdesc>
+<p><text>(short for &#x201c;Australian Registered Body Number&#x201d;) &#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.ASIC"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.ASIC" type="ext"/><emph typestyle="bf">ASIC</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 53 of 16 May 2008  r 2 and Sch 1[1], effective 16 May 2008]</text></p></leg:histnote></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.BODY"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.BODY" type="ext"/><emph typestyle="bf">body</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.BODY-CORPORATE"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.BODY-CORPORATE" type="ext"/><emph typestyle="bf">body corporate</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.BOOKS"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.BOOKS" type="ext"/><emph typestyle="bf">books</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.COMMISSION"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.COMMISSION" type="ext"/><emph typestyle="bf">Commission</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 53 of 16 May 2008  r 2 and Sch 1[2], effective 16 May 2008]</text></p></leg:histnote></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.COMPANY"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.COMPANY" type="ext"/><emph typestyle="bf">company</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.CORPORATION"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.CORPORATION" type="ext"/><emph typestyle="bf">corporation</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S57A" remotekey1="REFPTID" service="DOC-ID">section 57A</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.DAILY-NEWSPAPER"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.DAILY-NEWSPAPER" type="ext"/><emph typestyle="bf">daily newspaper</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.FOREIGN-COUNTRY"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.FOREIGN-COUNTRY" type="ext"/><emph typestyle="bf">foreign country</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.FUTURES-BROKER"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.FUTURES-BROKER" type="ext"/><emph typestyle="bf">futures broker</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.GAZETTE"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.GAZETTE" type="ext"/><emph typestyle="bf">Gazette</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.OFFICER"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.OFFICER" type="ext"/><emph typestyle="bf">officer</emph></defterm> <defdesc>
+<p><text>, in relation to a body corporate &#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S82A" remotekey1="REFPTID" service="DOC-ID">section 82A</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.OFFICIAL-LIQUIDATOR"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.OFFICIAL-LIQUIDATOR" type="ext"/><emph typestyle="bf">official liquidator</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.PART5.1-BODY"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.PART5.1-BODY" type="ext"/><emph typestyle="bf">Part 5.1 body</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.PART5.7-BODY"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.PART5.7-BODY" type="ext"/><emph typestyle="bf">Part 5.7 body</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.REGISTER"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.REGISTER" type="ext"/><emph typestyle="bf">register</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.REGISTERED-LIQUIDATOR"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.REGISTERED-LIQUIDATOR" type="ext"/><emph typestyle="bf">registered liquidator</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.REGISTERED-OFFICE"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.REGISTERED-OFFICE" type="ext"/><emph typestyle="bf">registered office</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist></text><text>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R4.LEGN1.STATUTORY-DEMAND"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R4.LEGN1.STATUTORY-DEMAND" type="ext"/><emph typestyle="bf">statutory demand</emph></defterm> <defdesc>
+<p><text>&#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist></text></p></glp:note><leg:histnote>
+<p><text>[r 1.4  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,020] r 1.5 Definitions for these Rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R5" type="ext"/>[15,020]</edpnum><title searchtype="RUL-TITLE">Definitions for these Rules</title><desig searchtype="RUL-NUM"><designum>1.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In these Rules, unless the contrary intention appears:</text></p>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.APPLICANT"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.APPLICANT" type="ext"/><emph typestyle="bf">applicant</emph></defterm> <defdesc>
+<p><text>means a person claiming interlocutory relief in a proceeding.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.ASIC-ACT"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.ASIC-ACT" type="ext"/><emph typestyle="bf">ASIC Act</emph></defterm> <defdesc>
+<p><text>means the Australian Securities and Investments Commission Act 2001 of the Commonwealth.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.CORPORATIONS-ACT"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.CORPORATIONS-ACT" type="ext"/><emph typestyle="bf">Corporations Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink></ci:content></ci:cite>
+ of the Commonwealth.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.CORPORATIONS-REGULATIONS"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.CORPORATIONS-REGULATIONS" type="ext"/><emph typestyle="bf">Corporations Regulations</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CREG" remotekey1="REFPTID" service="DOC-ID">Corporations Regulations 2001</remotelink></ci:content></ci:cite>
+ of the Commonwealth.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.CROSS-BORDER-INSOLVENCY-ACT"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.CROSS-BORDER-INSOLVENCY-ACT" type="ext"/><emph typestyle="bf">Cross-Border Insolvency Act</emph></defterm><defdesc>
+<p><text>means the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act 2008</remotelink>
+ of the Commonwealth including, unless the contrary intention appears, the Model Law.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 132 of 17 October 2008  r 2 and Sch 1[2], effective 17 October 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.DEFENDANT"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.DEFENDANT" type="ext"/><emph typestyle="bf">defendant</emph></defterm> <defdesc>
+<p><text>means a person against whom relief (except interlocutory relief) is claimed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">the Corporations Act</remotelink></ci:content></ci:cite>
+, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC Act</remotelink></ci:content></ci:cite>
+ or the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act</remotelink>
+, whether in the originating process or not.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Gaz 168 of 22 December 2000  p 13608  ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 132 of 17 October 2008  r 2 and Sch 1[3], effective 17 October 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.INTERLOCUTORY-PROCESS"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.INTERLOCUTORY-PROCESS" type="ext"/><emph typestyle="bf">interlocutory process</emph></defterm> <defdesc>
+<p><text>means an interlocutory process in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPF.CLRUN00.SCH1.FORM3" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 3</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.MODEL-LAW"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.MODEL-LAW" type="ext"/><emph typestyle="bf">Model Law</emph></defterm><defdesc>
+<p><text>means the Model Law on Cross-Border Insolvency of the United Nations Commission on International Trade Law, the English text of which is set out in Schedule 1 to the Cross-Border Insolvency Act, with the modifications set out in Part 2 of that Act.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 132 of 17 October 2008  r 2 and Sch 1[4], effective 17 October 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.ORIGINATING-PROCESS"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.ORIGINATING-PROCESS" type="ext"/><emph typestyle="bf">originating process</emph></defterm> <defdesc>
+<p><text>means an originating process in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.SCH1.FORM2" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 2</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.PLAINTIFF"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.PLAINTIFF" type="ext"/><emph typestyle="bf">plaintiff</emph></defterm> <defdesc>
+<p><text>means a person claiming relief (except interlocutory relief) under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">the Corporations Act</remotelink></ci:content></ci:cite>
+, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC Act</remotelink></ci:content></ci:cite>
+ or the 
+<remotelink dpsi="05CC" refpt="OTH.CBIAC08" remotekey1="REFPTID" service="DOC-ID" status="unval">Cross-Border Insolvency Act</remotelink>
+, whether in the originating process or not.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 132 of 17 October 2008  r 2 and Sch 1[5], effective 17 October 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.RESPONDENT"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.RESPONDENT" type="ext"/><emph typestyle="bf">respondent</emph></defterm> <defdesc>
+<p><text>means a person against whom interlocutory relief is claimed in a proceeding.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.CLRUN00.D1.R5.THE-LAW"><defterm><refpt id="UCPN.SC.CLRUN00.D1.R5.THE-LAW" type="ext"/><emph typestyle="bf">the Law</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote></defitem></deflist><leg:histnote>
+<p><text>[r 1.5  am Gaz 168 of 22 December 2000  p 13608]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,025] r 1.6 References to Rules and Forms">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R6" type="ext"/>[15,025]</edpnum><title searchtype="RUL-TITLE">References to Rules and Forms</title><desig searchtype="RUL-NUM"><designum>1.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In these Rules, unless the contrary intention appears:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D1.R6..A"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R6..A" type="ext"/>(a)</lilabel>
+<p><text>a reference to a rule is a reference to a rule in these Rules; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D1.R6..B"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R6..B" type="ext"/>(b)</lilabel>
+<p><text>a reference to a form followed by a number is a reference to the form so numbered in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.SCH1" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 1</remotelink></ci:content></ci:cite>
+ to these Rules.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,030] r 1.7 Substantial compliance with forms">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R7" type="ext"/>[15,030]</edpnum><title searchtype="RUL-TITLE">Substantial compliance with forms</title><desig searchtype="RUL-NUM"><designum>1.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D1.R7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>It is sufficient compliance with these Rules in relation to a document that is required to be in accordance with a form in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.SCH1" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 1</remotelink></ci:content></ci:cite>
+ if the document is substantially in accordance with the form required or has only such variations as the nature of the case requires.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R7.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+, the Court or the Court officer must not reject a document for filing only because a term used to describe a party in the document differs from the term used in these Rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D1.R7.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15030-5" leveltype="para0" subdoc="true" toc-caption="[15,030.5] Irregularities">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,030.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 1322.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15030-5" type="ext"/>[15,030.5] </edpnum><title>Irregularities</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S1322.1" remotekey1="REFPTID" service="DOC-ID">Section 1322</remotelink></ci:content></ci:cite>
+ Corporations Act 2001 confers on the court a wide power to give legal effect to proceedings where there has been an omission or irregularity which would otherwise invalidate the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1962"/></ci:caseinfo><ci:caseref ID="cr003179" spanref="cr003179-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1963"/></ci:edition><ci:page num="1416"/></ci:caseref><ci:caseref ID="cr003180" spanref="cr003180-002" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="80"/><ci:page num="1218"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Omega Estates Pty Ltd v Ganke</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003179-001" status="unval">[1963] NSWR 1416</ci:span>; <ci:span spanid="cr003180-002" status="unval">(1962) 80 WN (NSW) 1218</ci:span></citefragment> <remotelink dpsi="0018" refpt="5235" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Meetings and resolutions are &#x201c;proceedings&#x201d;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr003181" spanref="cr003181-001"><ci:reporter value="ACLR"/><ci:volume num="13"/><ci:page num="762"/></ci:caseref><ci:caseref ID="cr003182" spanref="cr003182-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="6"/><ci:page num="970"/></ci:caseref><ci:caseref ID="cr003183" spanref="cr003183-003"><ci:reporter value="urj"/><ci:refnum num="BC8800999"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bell Resources Ltd v Turnbridge Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003181-001">(1988) 13 ACLR 762</ci:span>; <ci:span spanid="cr003182-002" status="unval">6 ACLC 970</ci:span>; <ci:span spanid="cr003183-003"> BC8800999</ci:span></citefragment> <remotelink dpsi="0018" refpt="8605" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.
+No irregularity invalidates proceedings under the Corporations Act unless the court considers that (i) it cannot be remedied and (ii) may cause substantial injustice: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2009"/></ci:caseinfo><ci:caseref ID="cr003184" spanref="cr003184-001"><ci:reporter value="ACSR"/><ci:volume num="74"/><ci:page num="531"/></ci:caseref><ci:caseref ID="cr003185" spanref="cr003185-002" status="unval"><ci:reporter value="FLR"/><ci:volume num="239"/><ci:page num="288"/></ci:caseref><ci:caseref ID="cr003186" spanref="cr003186-003"><ci:reporter value="urj"/><ci:refnum num="BC200909671"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">JSBG Developments Pty Ltd v Kozlowski</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003184-001">(2009) 74 ACSR 531</ci:span>; <ci:span spanid="cr003185-002" status="unval">239 FLR 288</ci:span>; [2009]
+NSWSC 1128; <ci:span spanid="cr003186-003"> BC200909671</ci:span></citefragment> <remotelink dpsi="0018" refpt="482000" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003187" spanref="cr003187-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="21" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003187-000" status="unval">at [21]&#x2013;[30]</ci:span></citefragment></ci:content></ci:cite> per Barrett J (the irregular commencement of proceedings by a director, without the intervention of a solicitor &#x2014; separate question answered &#x2014; no evidence adduced or submissions made in relation to &#x201c;substantial injustice&#x201d; issue).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,035] r 1.8 Court's power to give directions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R8" type="ext"/>[15,035]</edpnum><title searchtype="RUL-TITLE">Court's power to give directions</title><desig searchtype="RUL-NUM"><designum>1.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may give directions in relation to the practice and procedure to be followed in a proceeding if it is satisfied, in the circumstances of the proceeding, that:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D1.R8..A"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R8..A" type="ext"/>(a)</lilabel>
+<p><text>the provisions of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC Act</remotelink></ci:content></ci:cite>
+, or the rules of this Court do not adequately provide for the practice and procedure to be followed in the proceeding; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D1.R8..B"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R8..B" type="ext"/>(b)</lilabel>
+<p><text>a difficulty arises, or doubt exists, in relation to the practice and procedure to be followed in the proceeding.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 1.8  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D1.R8.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15035-5" leveltype="para0" subdoc="true" toc-caption="[15,035.5] Directions">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,035.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> ss 14, 61.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> r 2.1.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15035-5" type="ext"/>[15,035.5] </edpnum><title>Directions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This rule complements the court&#x2019;s general directions powers under CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S14" remotekey1="REFPTID" service="DOC-ID">ss 14</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61" remotekey1="REFPTID" service="DOC-ID">61</remotelink></ci:content></ci:cite>
+, and UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.R2-1" remotekey1="REFPTID" service="DOC-ID" status="unval">r 2.1</remotelink>
+. It permits, for example, dispensation with the requirements of particular rules, where the court is satisfied that they do not adequately provide for the particular circumstances: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003188" spanref="cr003188-001"><ci:reporter value="urj"/><ci:refnum num="BC201106164"/></ci:caseref><ci:caseref anaphref="cr003188" spanref="cr003188-002"><ci:pinpoint num="11" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Tumut River Orchard Management Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWSC 915; <ci:span spanid="cr003188-001"> BC201106164</ci:span> <ci:span spanid="cr003188-002">at [11]&#x2013;[13]</ci:span></citefragment> <remotelink dpsi="0018" refpt="537760" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Hammerschlag J (application by equitable assignee to fill liquidator&#x2019;s vacancy &#x2014; direction dispensing with Corporations Rules r 7.2 requirement for application by ASIC, a creditor or a contributory).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,040] r 1.9 Calculation of time">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R9" type="ext"/>[15,040]</edpnum><title searchtype="RUL-TITLE">Calculation of time</title><desig searchtype="RUL-NUM"><designum>1.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D1.R9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, for any purpose, these Rules:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D1.R9.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R9.1.A" type="ext"/>(a)</lilabel>
+<p><text>prohibit, permit or require an act or thing to be done within, by, or before the end of; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D1.R9.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D1.R9.1.B" type="ext"/>(b)</lilabel>
+<p><text>otherwise prescribe, allow or provide for;</text></p>
+</li>
+</l>
+<p><text>a period of time before or after a particular day, act or event, the period is to be calculated without counting that day, or the day of the act or event, as the case may be.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R9.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+, in calculating how many days a particular day, act or event is before or after another day, act or event, only the first day, or the day of the first act or event, is to be counted.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R9.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the last day of any period prescribed or allowed by these Rules for an act or thing to be done falls on a day that is not a business day in the place where the act or thing is to be or may be done, the act or thing may be done on the first business day in the place after that day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R9.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D1.R9.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In calculating a period of time for the purposes of these Rules, the period beginning on 25 December in a year and ending at the end of 1 January in the next year is not to be counted.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D1.R10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,045] r 1.10 Extension and abridgment of time">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D1.R10" type="ext"/>[15,045]</edpnum><title searchtype="RUL-TITLE">Extension and abridgment of time</title><desig searchtype="RUL-NUM"><designum>1.10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC Act</remotelink></ci:content></ci:cite>
+, or these Rules otherwise provide, the rules of this Court that provide for the extension or abridgment of a period of time fixed for the doing of any act or thing in relation to a proceeding apply to a proceeding to which these Rules apply.</text></p>
+<leg:histnote>
+<p><text>[r 1.10  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

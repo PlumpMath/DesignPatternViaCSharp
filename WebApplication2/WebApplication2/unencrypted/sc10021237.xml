@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 PRELIMINARY [rr 1A&#x2013;4]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCR70.PT80A.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT RULES </title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 80A CORPORATIONS LAW AND ASC LAW [rr 1A&#x2013;38]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 PRELIMINARY [rr 1A&#x2013;4]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70010790</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCRC"/><docinfo:metaitem name="parent-filename" value="sc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT RULES </leg:officialname></leg:info><leg:level id="UCPN.SC.SCRC.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT80A"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 80A CORPORATIONS LAW AND ASC LAW [rr 1A&#x2013;38]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.SC.SCR70.PT80A" type="ext"/>PART 80A</designum></desig><title searchtype="PART-TITLE">CORPORATIONS LAW AND ASC LAW [rr 1A&#x2013;38]</title>
+<glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>Part 80A is effectively substituted by the commencement of the Supreme Court (Corporations) Rules 1999 &#x2014; see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R1" remotekey1="REFPTID" service="DOC-ID">[15,000]</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>However, Pt 80A continues to have effect for matters begun prior to the commencement of the Corporations Law Rules on 1 March 2000: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R3" remotekey1="REFPTID" service="DOC-ID">[15,010]</remotelink></ci:content></ci:cite>
+.</text></p></glp:note><leg:histnote>
+<p><text>[Pt 80A  insrt Amendment 281: Gaz 136 of 10 December 1993  p 7224 ; am Amendment 324: Gaz 152 of 23 October 1998  p 8427]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="Commentary">
+<level id="UCPN_SC.SGM_UCPN.SC.PT80A-0-0" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80A.0.0] Priority over UCP Rules">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 80A.0.0] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 1.7, Sch 2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.PT80A-0-0" type="ext"/>[SCR Pt 80A.0.0] </edpnum><title>Priority over UCP Rules</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-7" remotekey1="REFPTID" service="DOC-ID">r 1.7</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH2" remotekey1="REFPTID" service="DOC-ID">Sch 2</remotelink></ci:content></ci:cite>
+ provide that SCR Pt 80A prevail notwithstanding any inconsistency with provisions of the UCPR.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.80A-0-5" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80A.0.5] Introductory note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 80A.0.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 80, Pt 80A r 2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.80A-0-5" type="ext"/>[SCR Pt 80A.0.5] </edpnum><title>Introductory note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This part governs proceedings commenced and applications made, whenever proceedings commenced, after 30 January 1994 under the Corporations Law: see SCR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80A.R2" remotekey1="REFPTID" service="DOC-ID">Pt 80A r 2</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>For proceedings in respect of a matter under the Companies (New South Wales) Code, the provisions of SCR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80" remotekey1="REFPTID" service="DOC-ID">Pt 80</remotelink></ci:content></ci:cite>
+ still apply. SCR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80" remotekey1="REFPTID" service="DOC-ID">Pt 80</remotelink></ci:content></ci:cite>
+ also applies to proceedings commenced prior to 31 January 1994 under the Corporations Law.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT80A.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 PRELIMINARY [rr 1A&#x2013;4]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCR70.PT80A.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">PRELIMINARY [rr 1A&#x2013;4]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT80A.R1A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80A r 1A] r 1A Amendment to Corporations Law">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80A.R1A" type="ext"/>[SCR Pt 80A r 1A]</edpnum><title searchtype="RUL-TITLE">Amendment to Corporations Law</title><desig searchtype="RUL-NUM"><designum>1A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 1A  rep Amendment 324: Gaz 152 of 23 October 1998  p 8427]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80A r 1] r 1 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80A.R1" type="ext"/>[SCR Pt 80A r 1]</edpnum><title searchtype="RUL-TITLE">Interpretation</title><desig searchtype="RUL-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part, unless the contrary intention appears:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80A.R1..A"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R1..A" type="ext"/>(a)</lilabel>
+<p><text>
+<deflist><defitem id="UCPN.SC.SCR70.PT80A.R1..A.SUBJECT-ACT"><defterm><refpt id="UCPN.SC.SCR70.PT80A.R1..A.SUBJECT-ACT" type="ext"/><emph typestyle="bf">subject Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CSAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Corporations (New South Wales) Act 1990</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist></text></p>
+<deflist><defitem id="UCPN.SC.SCR70.PT80A.R1..A.ADVERTISED"><defterm><refpt id="UCPN.SC.SCR70.PT80A.R1..A.ADVERTISED" type="ext"/><emph typestyle="bf">advertised</emph></defterm> <defdesc>
+<p><text>means published in the Commonwealth of Australia Gazette and in a prescribed newspaper.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT80A.R1..A.ASC-LAW"><defterm><refpt id="UCPN.SC.SCR70.PT80A.R1..A.ASC-LAW" type="ext"/><emph typestyle="bf">ASC Law</emph></defterm> <leg:histnote>
+<p><text>[def  rep Amendment 324: Gaz 152 of 23 October 1998  p 8427]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT80A.R1..A.COMMISSION"><defterm><refpt id="UCPN.SC.SCR70.PT80A.R1..A.COMMISSION" type="ext"/><emph typestyle="bf">Commission</emph></defterm> <leg:histnote>
+<p><text>[def  rep Amendment 324: Gaz 152 of 23 October 1998  p 8427]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT80A.R1..A.CORPORATIONS-LAW"><defterm><refpt id="UCPN.SC.SCR70.PT80A.R1..A.CORPORATIONS-LAW" type="ext"/><emph typestyle="bf">Corporations Law</emph></defterm> <defdesc>
+<p><text>has the meaning given by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S13" remotekey1="REFPTID" service="DOC-ID" status="unval">section 13</remotelink></ci:content></ci:cite>
+ of the subject Act.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT80A.R1..A.PRESCRIBED-NEWSPAPER"><defterm><refpt id="UCPN.SC.SCR70.PT80A.R1..A.PRESCRIBED-NEWSPAPER" type="ext"/><emph typestyle="bf">prescribed newspaper</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+</defdesc></defitem></deflist>
+<l><li id="UCPN.SC.SCR70.PT80A.R1..A.I"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R1..A.I" type="ext"/>(i)</lilabel>
+<p><text>where the registered office of the subject corporation is within 100 kilometres of the General Post Office, Sydney &#x2014; a daily newspaper circulating generally in Sydney;</text></p>
+</li><li id="UCPN.SC.SCR70.PT80A.R1..A.II"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R1..A.II" type="ext"/>(ii)</lilabel>
+<p><text>where the subject corporation does not have a registered office, and its principal place of business or last known principal place of business is or was within 100 kilometres of the General Post Office, Sydney &#x2014; a daily newspaper circulating generally in Sydney; or</text></p>
+</li><li id="UCPN.SC.SCR70.PT80A.R1..A.III"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R1..A.III" type="ext"/>(iii)</lilabel>
+<p><text>in any other case &#x2014; a newspaper circulating generally in the district in which the registered office of the subject corporation is situated or, if it does not have a registered office, in which its principal place of business or last known principal place of business is or was situated.</text></p>
+</li></l>
+<deflist><defitem id="UCPN.SC.SCR70.PT80.R1..A.SUBJECT-CORPORATION"><defterm><refpt id="UCPN.SC.SCR70.PT80.R1..A.SUBJECT-CORPORATION" type="ext"/><emph typestyle="bf">subject corporation</emph></defterm> <defdesc>
+<p><text>means corporation to which the application relates.</text></p>
+</defdesc></defitem></deflist></li>
+<li id="UCPN.SC.SCR70.PT80A.R1..B"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R1..B" type="ext"/>(b)</lilabel>
+<p><text>subject to this rule, a word or expression defined in the Corporations Law (other than for the purposes of limited parts thereof) has the meaning as so defined.</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80A.R1..C"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R1..C" type="ext"/>(c)</lilabel>
+<p><text>a reference to a section is a reference to a section of the Corporations Law.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80A r 2] r 2 Application">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80A.R2" type="ext"/>[SCR Pt 80A r 2]</edpnum><title searchtype="RUL-TITLE">Application</title><desig searchtype="RUL-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any order of the Court, this Part applies to:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80A.R2..A"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R2..A" type="ext"/>(a)</lilabel>
+<p><text>proceedings under the Corporations Law or the ASC Law commenced in the Court after 30 January 1994 and before the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink></ci:content></ci:cite>
+ commence; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80A.R2..B"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R2..B" type="ext"/>(b)</lilabel>
+<p><text>applications made under the Corporations Law or the ASC Law after 30 January 1994 in proceedings in the Court commenced before the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink></ci:content></ci:cite>
+ commence.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 2  subst Amendment 336: Gaz 144 of 24 December 1999  p 12364 ; am Amendment 386: Gaz 197 of 19 December 2003  p 11429, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80A r 3] r 3 Commencement of proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80A.R3" type="ext"/>[SCR Pt 80A r 3]</edpnum><title searchtype="RUL-TITLE">Commencement of proceedings</title><desig searchtype="RUL-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT80A.R3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80A.R3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to rule 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-1" remotekey1="REFPTID" service="DOC-ID">18.1</remotelink></ci:content></ci:cite>
+ of the Uniform Civil Procedure Rules 2005 (which relates to applications by motion) and to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80A.R3.2" remotekey1="REFPTID" service="DOC-ID">subrules (2)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80A.R3.4" remotekey1="REFPTID" service="DOC-ID">(4)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80A.R3.5" remotekey1="REFPTID" service="DOC-ID">(5)</remotelink></ci:content></ci:cite>
+, proceedings in the Court for relief under the Corporations Law or the ASC Law must be commenced by summons under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT5.R4B" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 5 rule 4B</remotelink></ci:content></ci:cite>
+ (as in force at the relevant time before the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink></ci:content></ci:cite>
+).</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Amendment 376: Gaz 97 of 13 June 2003  p 5701, effective 16 June 2003 ; Amendment 386: Gaz 197 of 19 December 2003  p 11429, effective 1 January 2004 ; Gaz 99 of 5 August 2005 r 3 and Sch 1 item [137], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80A.R3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings in the Court on an application:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80A.R3.2.A"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.2.A" type="ext"/>(a)</lilabel>
+<p><text>for an order for the winding up of a corporation shall be commenced by summons under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT5.R4A" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 5 rule 4A</remotelink></ci:content></ci:cite>
+ (as in force at the relevant time before the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink></ci:content></ci:cite>
+);</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80A.R3.2.B"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.2.B" type="ext"/>(b)</lilabel>
+<p><text>for other relief under the Corporations Law where:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80A.R3.2.B.I"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>it is necessary to obtain an early appointment for hearing; and</text></p>
+</li><li id="UCPN.SC.SCR70.PT80A.R3.2.B.II"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>the plaintiff intends to be ready to proceed at the time appointed,</text></p>
+</li></l>
+<p><text>whether for final or interlocutory relief or directions, may be commenced by summons under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT5.R4A" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 5 rule 4A</remotelink></ci:content></ci:cite>
+ (as in force at the relevant time before the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink></ci:content></ci:cite>
+).</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Amendment 376: Gaz 97 of 13 June 2003  p 5701, effective 16 June 2003 ; am Amendment 386: Gaz 197 of 19 December 2003  p 11429, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80A.R3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The summons must state above the title:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80A.R3.3.A"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.3.A" type="ext"/>(a)</lilabel>
+<p><text>the name of the subject corporation followed, where appropriate, by the words &quot;(in liquidation)&quot;, &quot;(provisional liquidator appointed)&quot;, &quot;(receiver appointed)&quot;, &quot;(receiver and manager appointed)&quot;, &quot;(under official management)&quot; or &quot;(administrator appointed)&quot;;</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80A.R3.3.B"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.3.B" type="ext"/>(b)</lilabel>
+<p><text>(if applicable) the registered number of the subject corporation preceded by the words &quot;Australian Company Number&quot; (which may be abbreviated to &quot;ACN&quot;) or &quot;Australian Registered Body Number&quot; (which may be abbreviated to &quot;ARBN&quot;) as the case may be; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80A.R3.3.C"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.3.C" type="ext"/>(c)</lilabel>
+<p><text>the words &quot;and the Corporations Law&quot; or &quot;and the ASC Law&quot;, as the case may be.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80A.R3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the generality of rule 18.1 of the Uniform Civil Procedure Rules 2005, application of the following kinds must be made by motion in the relevant winding up proceedings, namely:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80A.R3.4.A"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.4.A" type="ext"/>(a)</lilabel>
+<p><text>an application for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S467.7" remotekey1="REFPTID" service="DOC-ID" status="unval">section 467(7)</remotelink></ci:content></ci:cite>
+ (which relates to staying existing proceedings);</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80A.R3.4.B"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.4.B" type="ext"/>(b)</lilabel>
+<p><text>an application for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S468" remotekey1="REFPTID" service="DOC-ID" status="unval">section 468</remotelink></ci:content></ci:cite>
+ (which relates to avoidance of dispositions of property);</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80A.R3.4.C"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.4.C" type="ext"/>(c)</lilabel>
+<p><text>an application for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S472" remotekey1="REFPTID" service="DOC-ID" status="unval">section 472</remotelink></ci:content></ci:cite>
+ (which relates to provisional liquidators); and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80A.R3.4.D"><lilabel><refpt id="UCPN.SC.SCR70.PT80A.R3.4.D" type="ext"/>(d)</lilabel>
+<p><text>any application in the winding up of the subject corporation.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (4)  am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [137], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R3.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80A.R3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S471B" remotekey1="REFPTID" service="DOC-ID" status="unval">section 471B</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S500.2" remotekey1="REFPTID" service="DOC-ID" status="unval">section 500(2)</remotelink></ci:content></ci:cite>
+ in respect of existing proceedings in the Court in a Division may be made by motion in those proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R3.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80A.R3.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notwithstanding 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80A.R3.4" remotekey1="REFPTID" service="DOC-ID">subrule (4)</remotelink></ci:content></ci:cite>
+ and rule 18.1 of the Uniform Civil Procedure Rules 2005, an application for the issue of an Examination Summons under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S596A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 596A</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S596B" remotekey1="REFPTID" service="DOC-ID" status="unval">section 596B</remotelink></ci:content></ci:cite>
+ must be made by summons.</text></p>
+<leg:histnote>
+<p><text>[subr (6)  am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [137], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT80A.R3.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.80A-3-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80A.3.1]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 80A.3.1] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 14.1.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.80A-3-1" type="ext"/>[SCR Pt 80A.3.1] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>See Supreme Court (Corporations) Rules 1999 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D14.R1" remotekey1="REFPTID" service="DOC-ID">rule 14.1</remotelink></ci:content></ci:cite>
+ and [15,995.5].</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80A r 4] r 4 Registration of transfer of shares etc (s 1092(3))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80A.R4" type="ext"/>[SCR Pt 80A r 4]</edpnum><title searchtype="RUL-TITLE">Registration of transfer of shares etc (s 1092(3))</title><desig searchtype="RUL-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT80A.R4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80A.R4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application to the Court for an order for the issue of a summons, under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S1092.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 1092(3)</remotelink></ci:content></ci:cite>
+ may be made, without serving the summons by which the application is made on any person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80A.R4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80A.R4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A summons under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S1092.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 1092(3)</remotelink></ci:content></ci:cite>
+ may be in 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.133755" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 154BA</remotelink>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

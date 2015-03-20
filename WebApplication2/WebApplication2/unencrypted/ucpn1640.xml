@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>IM</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_308</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>I</title></heading>
+<docinfo:hierlev role="me"><heading><title>IM</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>105700</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_308" /><docinfo:metaitem name="parent-filename" value="ucpn164.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="13" month="07" year="2012">13 July 2012</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>IM</title></heading>
+<in:lev1 id="UCPN_IND_308" subdoc="true" toc-caption="Imprisonment"><in:entry><in:entry-text><refpt id="IMPRISONMENT" type="ext"><emph typestyle="bf">Imprisonment</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>false, pleading</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- particulars <remotelink dpsi="05CC" refpt="UCPN.UCPR.15-1-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021159.xml">[15.1.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- verification, exclusion <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R14-22" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021150.xml">[r 14.22]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>fines, enforcement of </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="FINES" remotekey1="REFPTID" service="DOC-ID" filename="ucpn1380.xml">Fines</remotelink></see></in:lev2>
+
+<in:lev2><in:entry><in:entry-text>liability of producing party, where order for production <remotelink dpsi="05CC" refpt="UCPN.UCPF.451620" remotekey1="REFPTID" service="DOC-ID" filename="ucpf10041093.xml">[451,620]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>prisoner </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="PRISONER_OR_DETAINEE" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2240.xml">Prisoner or detainee</remotelink></see></in:lev2>
+
+<in:lev2><in:entry><in:entry-text>subpoenas, service on prisoners </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="SERVICE_OF_SUBPOENAS" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2400.xml">Service of subpoenas</remotelink></see></in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_309" subdoc="true" toc-caption="Imputations"><in:entry><in:entry-text><refpt id="IMPUTATIONS" type="ext"><emph typestyle="bf">Imputations</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>defamation </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="DEFAMATION_PROCEEDINGS" remotekey1="REFPTID" service="DOC-ID" filename="ucpn1040.xml">Defamation proceedings</remotelink></see></in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

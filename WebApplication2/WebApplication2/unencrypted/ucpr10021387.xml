@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 GENERAL [rr 46.1&#x2013;46.9]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT46.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 46 ACCOUNTS AND INQUIRIES [rr 46.1&#x2013;46.28]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 GENERAL [rr 46.1&#x2013;46.9]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50011290</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT46"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 46 ACCOUNTS AND INQUIRIES [rr 46.1&#x2013;46.28]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT46" type="ext"/>PART 46</designum></desig><title searchtype="PART-TITLE">ACCOUNTS AND INQUIRIES [rr 46.1&#x2013;46.28]</title><leg:histnote>
+<p><text>[Pt 46  insrt Amendment 10 of 2006  r 2 and Sch 1[12], effective 7 July 2006]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="all" id="UCPN.UCPR.UCPRN05.PT46.T1" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="48*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="54*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 1 &#x2014; General &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-1" remotekey1="REFPTID" service="DOC-ID">46.1</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-9" remotekey1="REFPTID" service="DOC-ID">46.9</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division deals with the general procedure for accounts and inquiries under judgments and orders.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 2 &#x2014; Equity Division of the Supreme Court: General &#x2014;Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-10" remotekey1="REFPTID" service="DOC-ID">46.10</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-18" remotekey1="REFPTID" service="DOC-ID">46.18</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division sets out the procedure for taking account in the equity division of the Supreme Court (other than proceedings in some of the specialist lists). It applies to judgments in proceedings for the administration of a deceased estate, the execution of a trust and the sale of property.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 3 &#x2014; Equity Division of the Supreme Court: administration accounts and inquiries etc &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-19" remotekey1="REFPTID" service="DOC-ID">46.19</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-28" remotekey1="REFPTID" service="DOC-ID"> 46.28</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division applies to proceedings the Supreme Court in relation to the administration of a deceased estate and to proceedings for the administration of a trust.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The rules in <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT45.D1" remotekey1="REFPTID" service="DOC-ID">Division 1</remotelink></ci:content></ci:cite>
+(<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-1" remotekey1="REFPTID" service="DOC-ID">rr 46.1&#x2013;46.9</remotelink></ci:content></ci:cite>
+) apply generally. The remaining rules in this Part only apply to proceedings in the Equity Division of the Supreme Court. This part does not apply to the Industrial Relations Commission (when constituted otherwise than as the Industrial Court): see r 1.5 and Sch 1.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The rules in this Part are based on the former SCR Pts 48 and 49. The rules are virtually identical with the former SCR Pts 48 and 49.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="col5" namest="col1" rowsep="0">Quick index</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Account of profits&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-4-5" remotekey1="REFPTID" service="DOC-ID">[46.4.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Accounting after trial&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-3-10" remotekey1="REFPTID" service="DOC-ID">[46.3.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Adjudication&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-27-5" remotekey1="REFPTID" service="DOC-ID">[46.27.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Advertisement&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-20" remotekey1="REFPTID" service="DOC-ID">[r 46.20]</remotelink></ci:content></ci:cite>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.46-20-5" remotekey1="REFPTID" service="DOC-ID">[46.20.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Allowances&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-8" remotekey1="REFPTID" service="DOC-ID">[r 46.8]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Books of account&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-4-10" remotekey1="REFPTID" service="DOC-ID">[46.4.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Charge or error&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-7" remotekey1="REFPTID" service="DOC-ID">[r 46.7]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Claims&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-21" remotekey1="REFPTID" service="DOC-ID">[r 46.21]</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-28" remotekey1="REFPTID" service="DOC-ID">[r 46.28]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Common form accounts&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-4-15" remotekey1="REFPTID" service="DOC-ID">[46.4.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Costs&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-15" remotekey1="REFPTID" service="DOC-ID">[r 46.15]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Cross-examination&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-5-5" remotekey1="REFPTID" service="DOC-ID">[46.5.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Delay&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-9" remotekey1="REFPTID" service="DOC-ID">[r 46.9]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Directions&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-13" remotekey1="REFPTID" service="DOC-ID">[r 46.13]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Evidence&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-27-10" remotekey1="REFPTID" service="DOC-ID">[46.27.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Expenses and commissions&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-8-10" remotekey1="REFPTID" service="DOC-ID">[46.8.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Filing and service&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-4" remotekey1="REFPTID" service="DOC-ID" status="unval">[r 46.4]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Form and verification&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-5" remotekey1="REFPTID" service="DOC-ID">[r 46.5]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Interest&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-17" remotekey1="REFPTID" service="DOC-ID">[r 46.17]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-18" remotekey1="REFPTID" service="DOC-ID">[r 46.18]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Interest on legacies&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-18-5" remotekey1="REFPTID" service="DOC-ID">[46.18.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Just allowances&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-8-5" remotekey1="REFPTID" service="DOC-ID">[46.8.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Latecomers&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-21-5" remotekey1="REFPTID" service="DOC-ID">[46.21.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Motion to proceed&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-11" remotekey1="REFPTID" service="DOC-ID" status="unval">[r 46.11]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Next-of-kin inquiry&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-19-5" remotekey1="REFPTID" service="DOC-ID">[46.19.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Non-parties&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-12-5" remotekey1="REFPTID" service="DOC-ID">[46.12.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Note&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-20-10" remotekey1="REFPTID" service="DOC-ID">[46.20.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice of cross-examination&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-5-10" remotekey1="REFPTID" service="DOC-ID">[46.5.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Preliminary accounts&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-3-5" remotekey1="REFPTID" service="DOC-ID">[46.3.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Procedure &#x2014; next-of-kin inquiry&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-19-10" remotekey1="REFPTID" service="DOC-ID">[46.19.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Summary order&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-2" remotekey1="REFPTID" service="DOC-ID">[r 46.2]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Surcharge and falsification&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-7-5" remotekey1="REFPTID" service="DOC-ID">[46.7.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Time for accounting or inquiries&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-3" remotekey1="REFPTID" service="DOC-ID">[r 46.3]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Undue delay&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-9-5" remotekey1="REFPTID" service="DOC-ID">[46.9.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Usual directions&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-4-25" remotekey1="REFPTID" service="DOC-ID">[46.4.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Wilful default&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-4-20" remotekey1="REFPTID" service="DOC-ID">[46.4.20]</remotelink></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.PT46.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 GENERAL [rr 46.1&#x2013;46.9]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT46.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">GENERAL [rr 46.1&#x2013;46.9]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.1] r 46.1 Application of Part (cf SCR Part 49, rule 1)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-1" type="ext"/>[r 46.1]</edpnum><title searchtype="RUL-TITLE">Application of Part (cf SCR Part 49, rule 1)</title><desig searchtype="RUL-NUM"><designum>46.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-1.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to accounts, inquiries and other matters under an order in the same way as it applies to accounts, inquiries and other matters under a judgment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-1.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In the application of this Part to accounts, inquiries and other matters under an order:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-1.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-1.2.A" type="ext"/>(a)</lilabel>
+<p><text>references in this Part to a judgment extend to an order, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-1.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-1.2.B" type="ext"/>(b)</lilabel>
+<p><text>references in this Part to the giving of judgment extend to the making of an order.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.2] r 46.2 Account: summary order (cf SCR Part 48, rule 1)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-2" type="ext"/>[r 46.2]</edpnum><title searchtype="RUL-TITLE">Account: summary order (cf SCR Part 48, rule 1)</title><desig searchtype="RUL-NUM"><designum>46.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a party claims an account or makes a claim which involves taking an account, the court may, on application by that party at any stage of the proceedings:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-2.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-2.1.A" type="ext"/>(a)</lilabel>
+<p><text>order that an account be taken, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-2.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-2.1.B" type="ext"/>(b)</lilabel>
+<p><text>order that any amount certified on taking the account to be due to any party be paid to him or her.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may not make an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-2.1.A" remotekey1="REFPTID" service="DOC-ID">subrule (1)(a)</remotelink></ci:content></ci:cite>
+:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-2.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-2.2.A" type="ext"/>(a)</lilabel>
+<p><text>against a defendant who has not filed an appearance, unless he or she is in default of appearance, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-2.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-2.2.B" type="ext"/>(b)</lilabel>
+<p><text>if it appears that there is some preliminary question to be determined.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.3] r 46.3 Account or inquiry at any stage (cf SCR Part 48, rule 2)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-3" type="ext"/>[r 46.3]</edpnum><title searchtype="RUL-TITLE">Account or inquiry at any stage (cf SCR Part 48, rule 2)</title><desig searchtype="RUL-NUM"><designum>46.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may make orders for the taking of any account or the making of any inquiry.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT46.R3.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-3-5" leveltype="para0" subdoc="true" toc-caption="[46.3.5] Preliminary accounts"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-3-5" type="ext"/>[46.3.5] </edpnum><title>Preliminary accounts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This Part was derived from the previous English Orders 43 (pre-trial accounts) and 44 (accounts after final judgments and orders). This distinction is not maintained in the current NSW rules: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011218" spanref="cr011218-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="395"/></ci:caseref><ci:caseref anaphref="cr011218" spanref="cr011218-002" status="unval"><ci:pinpoint num="398" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hagan v Waterhouse</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011218-001">[1983] 2 NSWLR 395</ci:span> <ci:span spanid="cr011218-002" status="unval">at 398</ci:span></citefragment> <remotelink dpsi="0018" refpt="82844" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Orders for accounts to be taken before trial are limited to such accounts and inquiries as are necessary to determine the rights of the parties and which would otherwise be directed at the trial: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1885"/></ci:caseinfo><ci:caseref ID="cr011219" spanref="cr011219-001" status="unval"><ci:reporter value="ChD"/><ci:volume num="29"/><ci:page num="566"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Garnham v Skipper</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011219-001" status="unval">(1885) 29 Ch D 566</ci:span></citefragment> <remotelink dpsi="0018" refpt="113433" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011220" spanref="cr011220-001" status="unval"><ci:reporter value="Qd R"/><ci:edition><ci:date year="1971"/></ci:edition><ci:page num="82"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rapid Metal Developments (Aust) Pty Ltd v Rosato</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011220-001" status="unval">[1971] Qd R 82</ci:span></citefragment> <remotelink dpsi="0018" refpt="113431" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Ordinarily, accounts should not be ordered until the plaintiff's right to such account has been admitted or established: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1887"/></ci:caseinfo><ci:caseref ID="cr011221" spanref="cr011221-001" status="unval"><ci:reporter value="ChD"/><ci:volume num="36"/><ci:page num="269"/></ci:caseref><ci:caseref anaphref="cr011221" spanref="cr011221-002" status="unval"><ci:pinpoint num="276" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Batthyany v Walford</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011221-001" status="unval">(1887) 36 Ch D 269</ci:span> <ci:span spanid="cr011221-002" status="unval">at 276&#x2013;7</ci:span></citefragment> <remotelink dpsi="0018" refpt="276168" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. A judgment need not set out reasons for holding that a party is in an accounting relationship with respect to a particular transaction: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011222" spanref="cr011222-001"><ci:reporter value="urj"/><ci:refnum num="BC9203908"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sharpe v Goodhew</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011222-001"> (FCA, Drummond J, 11 December 1992, unreported, BC9203908)</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.46-3-10" leveltype="para0" subdoc="true" toc-caption="[46.3.10] Accounting after trial"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-3-10" type="ext"/>[46.3.10] </edpnum><title>Accounting after trial</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>All the affidavits in evidence before the judge may be used at the subsequent accounting or inquiry. The practice is for notice to be given which identifies the parts of the transcript and affidavit material that is to be relied upon. If it is desired to conduct any further cross-examination notice must be given: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1886"/></ci:caseinfo><ci:caseref ID="cr011223" spanref="cr011223-001" status="unval"><ci:reporter value="ChD"/><ci:volume num="32"/><ci:page num="133"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">de Mora v Concha</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011223-001" status="unval">(1886) 32 Ch D 133</ci:span></citefragment> <remotelink dpsi="0018" refpt="275969" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Exhibits in evidence before the judge that are intended to be used in the taking of accounts are put in evidence again and remarked. Any new evidence to be adduced in the inquiry is taken in the same way as it would be in an ordinary hearing.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46.4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.4] r 46.4 Account: directions (cf SCR Part 48, rule 3)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46.4" type="ext"/>[r 46.4]</edpnum><title searchtype="RUL-TITLE">Account: directions (cf SCR Part 48, rule 3)</title><desig searchtype="RUL-NUM"><designum>46.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the court makes an order for the taking of an account, the court, by the same or a subsequent order:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R46-4..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-4..A" type="ext"/>(a)</lilabel>
+<p><text>may give directions concerning the manner of taking or vouching the account, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R46-4..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R46-4..B" type="ext"/>(b)</lilabel>
+<p><text>without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-4..A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+, may direct that in taking the account the relevant books of account are taken to be evidence of the matters contained in them.</text></p>
+</li>
+</l>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT46.R4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-4-5" leveltype="para0" subdoc="true" toc-caption="[46.4.5] Account of profits"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-4-5" type="ext"/>[46.4.5] </edpnum><title>Account of profits</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A fiduciary may also be ordered to account for profits derived as a result of some specific instance of misconduct. The form of accounting will depend on the precise circumstances. Sometimes the accounting may be limited to a specific transaction. In other instances, the accounting may extend to the whole of the profits of a business created as a result of the fiduciaries' misconduct: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011224" spanref="cr011224-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="488"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Timber Engineering Co Pty Ltd v Anderson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011224-001">[1980] 2 NSWLR 488</ci:span></citefragment> <remotelink dpsi="0018" refpt="11629" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. But the court retains an overriding discretion to direct the scope of the accounting according to the particular circumstances: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1995"/></ci:caseinfo><ci:caseref ID="cr011225" spanref="cr011225-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="182"/><ci:page num="544"/></ci:caseref><ci:caseref ID="cr011226" spanref="cr011226-002"><ci:reporter value="ALR"/><ci:volume num="128"/><ci:page num="201"/></ci:caseref><ci:caseref ID="cr011227" spanref="cr011227-003"><ci:reporter value="urj"/><ci:refnum num="BC9506414"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Warman International Ltd v Dwyer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011225-001" status="unval">(1995) 182 CLR 544</ci:span>; <ci:span spanid="cr011226-002">128 ALR 201</ci:span>; [1995] HCA 18; <ci:span spanid="cr011227-003"> BC9506414</ci:span></citefragment> <remotelink dpsi="0018" refpt="88353" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.46-4-10" leveltype="para0" subdoc="true" toc-caption="[46.4.10] Books of account">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [46.4.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-4-10" type="ext"/>[46.4.10] </edpnum><title>Books of account</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where the accounting party has kept appropriate financial records, they will often be admissible under the &#x201c;business records&#x201d; provisions of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink></ci:content></ci:cite>
+. Aside from that basis of admissibility, it has been held that the books of account are admissible in partnership suits as prima facie evidence under the general law: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1878"/></ci:caseinfo><ci:caseref ID="cr011228" spanref="cr011228-001" status="unval"><ci:reporter value="ChD"/><ci:volume num="9"/><ci:page num="547"/></ci:caseref><ci:caseref anaphref="cr011228" spanref="cr011228-002" status="unval"><ci:pinpoint num="551" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gething v Keighley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011228-001" status="unval">(1878) 9 Ch D 547</ci:span> <ci:span spanid="cr011228-002" status="unval">at 551</ci:span></citefragment> <remotelink dpsi="0018" refpt="273017" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. In other kinds of proceedings it may be necessary to obtain a specific direction in relation to the use to be made of the books of account: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1863"/></ci:caseinfo><ci:caseref ID="cr011229" spanref="cr011229-001" status="unval"><ci:reporter value="WR"/><ci:volume num="11"/><ci:page num="871"/></ci:caseref><ci:caseref ID="cr011230" spanref="cr011230-002" status="unval"><ci:reporter value="NewRep"/><ci:volume num="3"/><ci:page num="97"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cookes v Cookes</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011229-001" status="unval">(1863) 11 WR 871</ci:span>; <ci:span spanid="cr011230-002" status="unval">3 New Rep 97</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.46-4-15" leveltype="para0" subdoc="true" toc-caption="[46.4.15] Common form accounts">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [46.4.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 46.7.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-4-15" type="ext"/>[46.4.15] </edpnum><title>Common form accounts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The usual form of order is for the taking of accounts in common form, that is, &#x201c;common accounts&#x201d;. To obtain an order for common accounts, a plaintiff does not need to establish any particular misconduct by the defendant. The claim may be based either on the defendant&#x2019;s general failure to provide a satisfactory accounting in the course of the administration of the estate or trust, or on a specific allegation of breach of duty, for example, neglect in relation to the proper administration of the relevant estate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011231" spanref="cr011231-001" status="unval"><ci:reporter value="Ch"/><ci:volume num="1"/><ci:edition><ci:date year="1908"/></ci:edition><ci:page num="789"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Wrightson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011231-001" status="unval">[1908] 1 Ch 789</ci:span></citefragment> <remotelink dpsi="0018" refpt="167132" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (failure to acquire proper security). Where the claim for accounting is based on a specific allegation of breach of duty, it is generally not appropriate to seek to rely on other allegations of misconduct to seek to change the basis of the subsequent accounting: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Wrightson</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011232" spanref="cr011232-001"><ci:reporter value="urj"/><ci:refnum num="BC9902403"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gava v Grljusich</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [1999] WASC 13; <ci:span spanid="cr011232-001"> BC9902403</ci:span></citefragment> <remotelink dpsi="0018" refpt="297649" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011233" spanref="cr011233-001"><ci:reporter value="urj"/><ci:refnum num="BC200100163"/></ci:caseref><ci:caseref anaphref="cr011233" spanref="cr011233-002"><ci:pinpoint num="56" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Glazier Holdings Pty Ltd v Australian Men's Health Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWSC 6; <ci:span spanid="cr011233-001"> BC200100163</ci:span> <ci:span spanid="cr011233-002">at [56]</ci:span></citefragment> <remotelink dpsi="0018" refpt="323493" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. However, if the evidence, either at the initial hearing or in the course of the subsequent taking of accounts, establishes instances of wilful default, they may be taken into account: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1885"/></ci:caseinfo><ci:caseref ID="cr011234" spanref="cr011234-001" status="unval"><ci:reporter value="ChD"/><ci:volume num="30"/><ci:page num="421"/></ci:caseref><ci:caseref anaphref="cr011234" spanref="cr011234-002"><ci:pinpoint num="431" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Youngs</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011234-001" status="unval">(1885) 30 Ch D 421</ci:span> <ci:span spanid="cr011234-002">at 431&#x2013;2</ci:span></citefragment> <remotelink dpsi="0018" refpt="149377" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1882"/></ci:caseinfo><ci:caseref ID="cr011235" spanref="cr011235-001" status="unval"><ci:reporter value="ChD"/><ci:volume num="21"/><ci:page num="757"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Symons</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011235-001" status="unval">(1882) 21 Ch D 757</ci:span></citefragment> <remotelink dpsi="0018" refpt="246990" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011236" spanref="cr011236-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2001"/></ci:edition><ci:pinpoint num="78" targettype="para"/></ci:caseref><ci:caseref anaphref="cr011236" spanref="cr011236-001"><ci:pinpoint num="82" targettype="para"/></ci:caseref><ci:caseref anaphref="cr011236" spanref="cr011236-002" status="unval"><ci:pinpoint num="93" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Glazier Holdings Pty Ltd v Australian Men's Health Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF">, <emph typestyle="it">above</emph><ci:span spanid="cr011236-000" status="unval">at [78],</ci:span> <ci:span spanid="cr011236-001">[82]</ci:span> <ci:span spanid="cr011236-002" status="unval">[93]</ci:span></citefragment></ci:content></ci:cite>. The accounts must identify the property received, expenses incurred and the distribution of the surplus. The other parties to the accounting may then challenge the sufficiency and accuracy of the accounts by invoking the procedure permitted by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-7" remotekey1="REFPTID" service="DOC-ID">r 46.7</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.46-4-20" leveltype="para0" subdoc="true" toc-caption="[46.4.20] Wilful default">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [46.4.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 15.3.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-4-20" type="ext"/>[46.4.20] </edpnum><title>Wilful default</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Accounts may also be ordered on the basis of wilful default. An order for the taking of accounts on the basis of wilful default should be specifically pleaded: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011237" spanref="cr011237-001"><ci:reporter value="urj"/><ci:refnum num="BC200100163"/></ci:caseref><ci:caseref anaphref="cr011237" spanref="cr011237-002"><ci:pinpoint num="91" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Glazier Holdings Pty Ltd v Australian Men's Health Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWSC 6; <ci:span spanid="cr011237-001"> BC200100163</ci:span> <ci:span spanid="cr011237-002"> at [91]&#x2013;[94]</ci:span></citefragment> <remotelink dpsi="0018" refpt="323493" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011238" spanref="cr011238-001"><ci:reporter value="urj"/><ci:refnum num="BC201006158"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Juul v Northey</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWCA 211; <ci:span spanid="cr011238-001"> BC201006158</ci:span></citefragment> <remotelink dpsi="0018" refpt="501856" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011239" spanref="cr011239-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2010"/></ci:edition><ci:pinpoint num="191" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr011239-000">at [191]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011240" spanref="cr011240-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2010"/></ci:edition><ci:pinpoint num="204" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr011240-000" status="unval">[204]&#x2013;[206]</ci:span></citefragment></ci:content></ci:cite> (absence of specificity obscured the factual findings required to sustain the claim) see also UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R15-3" remotekey1="REFPTID" service="DOC-ID">r 15.3</remotelink></ci:content></ci:cite>
+. Such a claim requires a plaintiff to show that the accounting party has been guilty of at least one instance of misconduct that has led to the loss of property that would otherwise have been received or retained as part of the estate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1857"/></ci:caseinfo><ci:caseref ID="cr011241" spanref="cr011241-001" status="unval"><ci:reporter value="K&amp;J"/><ci:volume num="3"/><ci:page num="292"/></ci:caseref><ci:caseref ID="cr011242" spanref="cr011242-002" status="unval"><ci:reporter value="ER"/><ci:volume num="69"/><ci:page num="1119"/></ci:caseref><ci:caseref anaphref="cr011242" spanref="cr011242-003" status="unval"><ci:pinpoint num="1121" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sleight v Lawson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011241-001" status="unval">(1857) 3 K &amp; J 292</ci:span>; <ci:span spanid="cr011242-002" status="unval">69 ER 1119</ci:span> <ci:span spanid="cr011242-003" status="unval">at 1121&#x2013;2</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1858"/></ci:caseinfo><ci:caseref ID="cr011243" spanref="cr011243-001" status="unval"><ci:reporter value="Drew"/><ci:volume num="4"/><ci:page num="253"/></ci:caseref><ci:caseref anaphref="cr011243" spanref="cr011243-002" status="unval"><ci:pinpoint num="255" targettype="page"/></ci:caseref><ci:caseref ID="cr011244" spanref="cr011244-003" status="unval"><ci:reporter value="ER"/><ci:volume num="62"/><ci:page num="98"/></ci:caseref><ci:caseref anaphref="cr011244" spanref="cr011244-004" status="unval"><ci:pinpoint num="98" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Partington v Reynolds</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011243-001" status="unval">(1858) 4 Drew 253</ci:span> <ci:span spanid="cr011243-002" status="unval">at 255&#x2013;6</ci:span>; <ci:span spanid="cr011244-003" status="unval">62 ER 98</ci:span> <ci:span spanid="cr011244-004" status="unval">at 98&#x2013;9</ci:span></citefragment> <remotelink dpsi="0018" refpt="310114" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011245" spanref="cr011245-001" status="unval"><ci:reporter value="Ch"/><ci:volume num="1"/><ci:edition><ci:date year="1898"/></ci:edition><ci:page num="162"/></ci:caseref><ci:caseref anaphref="cr011245" spanref="cr011245-002" status="unval"><ci:pinpoint num="171" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Stevens</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011245-001" status="unval">[1898] 1 Ch 162</ci:span> <ci:span spanid="cr011245-002" status="unval">at 171</ci:span></citefragment> <remotelink dpsi="0018" refpt="56027" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Although the concept of &#x201c;wilful default&#x201d; is not confined to instances of deliberate wrongdoing: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011246" spanref="cr011246-001" status="unval"><ci:reporter value="Ch"/><ci:volume num="1"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="515"/></ci:caseref><ci:caseref anaphref="cr011246" spanref="cr011246-002" status="unval"><ci:pinpoint num="546" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bartlett v Barclays Bank Trust Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011246-001" status="unval">[1980] 1 Ch 515</ci:span> <ci:span spanid="cr011246-002" status="unval">at 546</ci:span></citefragment></ci:content></ci:cite>, mere delay in collecting property, or poor record keeping, even if it has caused additional expense, does not justify an order for accounting on the basis of wilful default: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Stevens</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2002"/></ci:caseinfo><ci:caseref ID="cr011247" spanref="cr011247-001"><ci:reporter value="NSWLR"/><ci:volume num="54"/><ci:page num="146"/></ci:caseref><ci:caseref ID="cr011248" spanref="cr011248-002"><ci:reporter value="urj"/><ci:refnum num="BC200200709"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meehan v Glazier Holdings Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011247-001">(2002) 54 NSWLR 146</ci:span>; [2002] NSWCA 22; <ci:span spanid="cr011248-002"> BC200200709</ci:span></citefragment> <remotelink dpsi="0018" refpt="342572" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. But, even where some instance of proven misconduct has been established, the court retains a discretion to refuse an order for the taking of accounts on the basis of wilful default, and may do so unless it is satisfied that the conduct of the accounting party gives rise to a reasonable inference that there have been other instances of misconduct: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011249" spanref="cr011249-001"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="858"/></ci:caseref><ci:caseref anaphref="cr011249" spanref="cr011249-002" status="unval"><ci:pinpoint num="863" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Tebbs</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011249-001">[1976] 2 All ER 858</ci:span> <ci:span spanid="cr011249-002" status="unval">at 863</ci:span></citefragment> <remotelink dpsi="0018" refpt="297651" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1891"/></ci:caseinfo><ci:caseref ID="cr011250" spanref="cr011250-001" status="unval"><ci:reporter value="VLR"/><ci:volume num="17"/><ci:page num="729"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Russell v Russell</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011250-001" status="unval">(1891) 17 VLR 729</ci:span></citefragment> <remotelink dpsi="0018" refpt="87939" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Where accounts are ordered on this basis, the accounting party must bring to account every instance of misconduct, whether or not it was specifically pleaded and established in the proceedings leading to the making of the orders: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bartlett v Barclays Bank Trust Co Ltd</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011251" spanref="cr011251-001"><ci:reporter value="urj"/><ci:refnum num="BC9902403"/></ci:caseref><ci:caseref anaphref="cr011251" spanref="cr011251-002"><ci:pinpoint num="22" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gava v Grljusich</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [1999] WASC 13; <ci:span spanid="cr011251-001"> BC9902403</ci:span> <ci:span spanid="cr011251-002">at [22]</ci:span></citefragment> <remotelink dpsi="0018" refpt="297649" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The accounting party must account for both property actually received and also property that might have been received had it not been for the default. If an accounting on the basis of wilful default establishes that estate funds have been wrongly dealt with, the accounting party will be ordered to make appropriate restitution: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011252" spanref="cr011252-001"><ci:reporter value="urj"/><ci:refnum num="BC200100163"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Glazier Holdings Pty Ltd v Australian Men's Health Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWSC 6; <ci:span spanid="cr011252-001"> BC200100163</ci:span></citefragment> <remotelink dpsi="0018" refpt="323493" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.46-4-25" leveltype="para0" subdoc="true" toc-caption="[46.4.25] Usual directions"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-4-25" type="ext"/>[46.4.25] </edpnum><title>Usual directions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This Part sets out the procedure which is to be followed in the taking of accounts however, it does not constitute an exhaustive code: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011253" spanref="cr011253-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="395"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hagan v Waterhouse</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011253-001">[1983] 2 NSWLR 395</ci:span></citefragment></ci:content></ci:cite>. In <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011254" spanref="cr011254-001"><ci:reporter value="urj"/><ci:refnum num="BC201201198"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Iacullo v Iacullo</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 189; <ci:span spanid="cr011254-001"> BC201201198</ci:span></citefragment> <remotelink dpsi="0018" refpt="547491" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> orders were made by consent for the appointment of trustees in relation to a sale of property and that the trustees take accounts relating to the sale of the property. Thereafter each party challenged separate aspects of the trustee&#x2019;s determination. Black J determined that the trustees determination should be treated as a referee&#x2019;s report under UCPR Pt 20 Div 3, and that the principles that apply to the adoption of reports of that kind should also apply to the assessment of the trustees accounts.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.5] r 46.5 Account: form and verification (cf SCR Part 48, rule 4)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-5" type="ext"/>[r 46.5]</edpnum><title searchtype="RUL-TITLE">Account: form and verification (cf SCR Part 48, rule 4)</title><desig searchtype="RUL-NUM"><designum>46.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The items on each side of an account must be numbered consecutively.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court otherwise orders, an accounting party must verify his or her account by affidavit and the account must be made an exhibit to the affidavit.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT46.R5.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-5-5" leveltype="para0" subdoc="true" toc-caption="[46.5.5] Cross-examination"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-5-5" type="ext"/>[46.5.5] </edpnum><title>Cross-examination</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The accounting party is liable to be cross-examined by the non-accounting party on his accounts before surcharges and falsifications (see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.46-7-5" remotekey1="REFPTID" service="DOC-ID">[46.7.5]</remotelink>
+) are filed, and this right is usually reflected in directions which are given under this Part: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1856"/></ci:caseinfo><ci:caseref ID="cr011255" spanref="cr011255-001" status="unval"><ci:reporter value="Beav"/><ci:volume num="22"/><ci:page num="398"/></ci:caseref><ci:caseref ID="cr011256" spanref="cr011256-002" status="unval"><ci:reporter value="ER"/><ci:volume num="52"/><ci:page num="1161"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wormsley v Sturt</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011255-001" status="unval">(1856) 22 Beav 398</ci:span>; <ci:span spanid="cr011256-002" status="unval">52 ER 1161</ci:span></citefragment> <remotelink dpsi="0018" refpt="427193" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1866"/></ci:caseinfo><ci:caseref ID="cr011257" spanref="cr011257-001" status="unval"><ci:reporter value="LR2Eq"/><ci:page num="605"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lord v Lord</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011257-001" status="unval">(1866) LR 2 Eq 605</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1873"/></ci:caseinfo><ci:caseref ID="cr011258" spanref="cr011258-001" status="unval"><ci:reporter value="LR16Eq"/><ci:page num="102"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Meacham v Cooper</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011258-001" status="unval">(1873) LR 16 Eq 102</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1899"/></ci:caseinfo><ci:caseref ID="cr011259" spanref="cr011259-001" status="unval"><ci:reporter value="VLR"/><ci:volume num="25"/><ci:page num="210"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Arons v McInerny (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011259-001" status="unval">(1899) 25 VLR 210</ci:span></citefragment> <remotelink dpsi="0018" refpt="89890" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011260" spanref="cr011260-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="395"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hagan v Waterhouse</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011260-001">[1983] 2 NSWLR 395</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.46-5-10" leveltype="para0" subdoc="true" toc-caption="[46.5.10] Notice of cross-examination"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-5-10" type="ext"/>[46.5.10] </edpnum><title>Notice of cross-examination</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Before being cross-examined, the accounting party is entitled to notice of the points on which they are to be cross-examined: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1866"/></ci:caseinfo><ci:caseref ID="cr011261" spanref="cr011261-001" status="unval"><ci:reporter value="LR2Eq"/><ci:page num="605"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lord v Lord</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011261-001" status="unval">(1866) LR 2 Eq 605</ci:span></citefragment></ci:content></ci:cite>. It is not sufficient to state that all the items but one are objected to: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1872"/></ci:caseinfo><ci:caseref ID="cr011262" spanref="cr011262-001" status="unval"><ci:reporter value="LR15Eq"/><ci:page num="102"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McArthur v Dudgeon</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011262-001" status="unval">(1872) LR 15 Eq 102</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1872"/></ci:caseinfo><ci:caseref ID="cr011263" spanref="cr011263-001" status="unval"><ci:reporter value="WR"/><ci:volume num="20"/><ci:page num="408"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Glover v Ellison</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011263-001" status="unval">(1872) 20 WR 408</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.6] r 46.6 Account: filing and service (cf SCR Part 48, rule 5)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-6" type="ext"/>[r 46.6]</edpnum><title searchtype="RUL-TITLE">Account: filing and service (cf SCR Part 48, rule 5)</title><desig searchtype="RUL-NUM"><designum>46.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court otherwise orders, an accounting party must file his or her account and verifying affidavit.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.7] r 46.7 Account: notice of charge or error (cf SCR Part 48, rule 6)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-7" type="ext"/>[r 46.7]</edpnum><title searchtype="RUL-TITLE">Account: notice of charge or error (cf SCR Part 48, rule 6)</title><desig searchtype="RUL-NUM"><designum>46.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a party seeks to charge an accounting party with an amount beyond that in respect of which the accounting party by his or her account admits receipt, he or she must give to the accounting party notice of the charge, stating, so far as he or she is able, the amount that he or she seeks to charge, with brief particulars.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R46-7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a party alleges that any item in the account of an accounting party is erroneous in amount or otherwise, he or she must give to the accounting party notice of the allegation, stating the grounds for alleging the error.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT46.R7.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-7-5" leveltype="para0" subdoc="true" toc-caption="[46.7.5] Surcharge and falsification">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [46.7.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 46.7(1), r 46.7(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-7-5" type="ext"/>[46.7.5] </edpnum><title>Surcharge and falsification</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The practice is to call the charge referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-7.1" remotekey1="REFPTID" service="DOC-ID">r 46.7(1)</remotelink></ci:content></ci:cite>
+ a surcharge and that referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R46-7.2" remotekey1="REFPTID" service="DOC-ID">r 46.7(2)</remotelink></ci:content></ci:cite>
+ a falsification. Both surcharges and falsifications may be based on matters of fact or law. Surcharges are usually dealt with first. The onus is on the surcharging party who begins. With falsifications, the onus is on the accounting party who accordingly begins: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1754"/></ci:caseinfo><ci:caseref ID="cr011264" spanref="cr011264-001" status="unval"><ci:reporter value="VesSen"/><ci:volume num="2"/><ci:page num="565"/></ci:caseref><ci:caseref ID="cr011265" spanref="cr011265-002" status="unval"><ci:reporter value="ER"/><ci:volume num="28"/><ci:page num="360"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pit v Cholmondeley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011264-001" status="unval">(1754) 2 Ves Sen 565</ci:span>; <ci:span spanid="cr011265-002" status="unval">28 ER 360</ci:span></citefragment> <remotelink dpsi="0018" refpt="386168" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011266" spanref="cr011266-001"><ci:reporter value="urj"/><ci:refnum num="BC200909615"/></ci:caseref><ci:caseref anaphref="cr011266" spanref="cr011266-002"><ci:pinpoint num="14" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Magafas v Carantinos</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 1124; <ci:span spanid="cr011266-001"> BC200909615</ci:span> <ci:span spanid="cr011266-002">at [14]</ci:span></citefragment> <remotelink dpsi="0018" refpt="481918" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>ff. No form of notice is prescribed in the UCPR but there is an appropriate form in precedent 3(11) in A G Nevill &amp; A W Ashe, <emph typestyle="it">Equity Proceedings with Precedents (NSW)</emph>, Butterworths, 1981 and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011267" spanref="cr011267-001"><ci:reporter value="urj"/><ci:refnum num="BC200907418"/></ci:caseref><ci:caseref anaphref="cr011267" spanref="cr011267-002"><ci:pinpoint num="14" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gray v BNY Trust Co of Aust Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 789; <ci:span spanid="cr011267-001"> BC200907418</ci:span> <ci:span spanid="cr011267-002">at [14]</ci:span></citefragment> <remotelink dpsi="0018" refpt="478619" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>ff.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.8] r 46.8 Account: allowances (cf SCR Part 48, rule 7)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-8" type="ext"/>[r 46.8]</edpnum><title searchtype="RUL-TITLE">Account: allowances (cf SCR Part 48, rule 7)</title><desig searchtype="RUL-NUM"><designum>46.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In taking an account under a judgment, all just allowances must be made.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT46.R8.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-8-5" leveltype="para0" subdoc="true" toc-caption="[46.8.5] Just allowances"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-8-5" type="ext"/>[46.8.5] </edpnum><title>Just allowances</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>What are just allowances depends very much on the circumstances of the case and the matter is usually left to be decided on the taking of the accounts: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1821"/></ci:caseinfo><ci:caseref ID="cr011268" spanref="cr011268-001" status="unval"><ci:reporter value="Jac"/><ci:page num="284"/></ci:caseref><ci:caseref anaphref="cr011268" spanref="cr011268-002" status="unval"><ci:pinpoint num="294" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brown v de Tastet</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011268-001" status="unval">(1821) Jac 284</ci:span> <ci:span spanid="cr011268-002" status="unval">at 294</ci:span></citefragment> <remotelink dpsi="0018" refpt="5028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. See also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1977"/></ci:caseinfo><ci:caseref ID="cr011269" spanref="cr011269-001" status="unval"><ci:reporter value="FLR"/><ci:volume num="29"/><ci:page num="393"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Marriage of Elias</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011269-001" status="unval">(1977) 29 FLR 393</ci:span></citefragment> <remotelink dpsi="0018" refpt="17357" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1999"/></ci:caseinfo><ci:caseref ID="cr011270" spanref="cr011270-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="88"/><ci:page num="568"/></ci:caseref><ci:caseref ID="cr011271" spanref="cr011271-002"><ci:reporter value="ALR"/><ci:volume num="162"/><ci:page num="505"/></ci:caseref><ci:caseref ID="cr011272" spanref="cr011272-003"><ci:reporter value="urj"/><ci:refnum num="BC9901851"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Apand Pty Ltd v Kettle Chip Co Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011270-001" status="unval">(1999) 88 FCR 568</ci:span>; <ci:span spanid="cr011271-002">162 ALR 505</ci:span>; [1999] FCA 483; <ci:span spanid="cr011272-003"> BC9901851</ci:span></citefragment> <remotelink dpsi="0018" refpt="295713" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (allowance for overhead expenses).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.46-8-10" leveltype="para0" subdoc="true" toc-caption="[46.8.10] Expenses and commissions"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-8-10" type="ext"/>[46.8.10] </edpnum><title>Expenses and commissions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An accounting party who is an agent who would normally charge commission he would normally be allowed something in respect of commission. See for example, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1899"/></ci:caseinfo><ci:caseref ID="cr011273" spanref="cr011273-001" status="unval"><ci:reporter value="LT"/><ci:volume num="81"/><ci:page num="722"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Berwick v Lane</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011273-001" status="unval">(1899) 81 LT 722</ci:span></citefragment></ci:content></ci:cite>. Further, an executor will be allowed all reasonable expenses incurred in the conduct of his office.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R46-9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 46.9] r 46.9 Delay (cf SCR Part 48, rule 8)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R46-9" type="ext"/>[r 46.9]</edpnum><title searchtype="RUL-TITLE">Delay (cf SCR Part 48, rule 8)</title><desig searchtype="RUL-NUM"><designum>46.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If it appears to the court that there is delay in the prosecution of any account, inquiry or other matter under a judgment, the court may make such orders as it thinks fit for staying or expediting the proceedings or for the conduct of the proceedings.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT46.R9.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.46-9-5" leveltype="para0" subdoc="true" toc-caption="[46.9.5] Undue delay"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.46-9-5" type="ext"/>[46.9.5] </edpnum><title>Undue delay</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An instance of undue delay in taking of accounts is provided by <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011274" spanref="cr011274-001" status="unval"><ci:reporter value="WN"/><ci:edition><ci:date year="1918"/></ci:edition><ci:page num="377"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Cornish Tin Lands Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011274-001" status="unval">[1918] WN 377</ci:span></citefragment></ci:content></ci:cite>, where nothing happened for 3 years and the proceedings were stayed with costs.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

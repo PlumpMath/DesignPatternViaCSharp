@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 PRELIMINARY [rr 51.1&#x2013;51.3]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT51.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 51 COURT OF APPEAL [rr 51.1&#x2013;51.61]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 PRELIMINARY [rr 51.1&#x2013;51.3]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50011510</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT51"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 51 COURT OF APPEAL [rr 51.1&#x2013;51.61]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT51" type="ext"/>PART 51</designum></desig><title searchtype="PART-TITLE">COURT OF APPEAL [rr 51.1&#x2013;51.61]</title><leg:histnote>
+<p><text>[Pt 51  insrt Amendment 16 of 2007 r 3 and Sch 1[1], effective 1 January 2008]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="48*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="54*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 1 &#x2014; Preliminary &#x2014; Rules 51.1&#x2013;51.3</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">Definitions and application provisions.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 2 &#x2014; Parties and Appearances &#x2014; Rules 51.4&#x2013;51.5</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules deal with adding, joining and removing Parties to, and the need for appearance in, appeal proceedings.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 3 &#x2014; Notices of intention to appeal &#x2014; Rules 51.6&#x2013;51.9</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules prescribe requirements, time limits and effect of a notice of intention to appeal.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 4 &#x2014; Applications for leave to appeal or cross appeal &#x2014; Rules 51.10&#x2013;51.15</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules deal with the formal procedures for leave applications, and the manner in which they are determined. Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-12" remotekey1="REFPTID" service="DOC-ID">51.12</remotelink></ci:content></ci:cite>
+and <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-13" remotekey1="REFPTID" service="DOC-ID">51.13</remotelink></ci:content></ci:cite>
+prescribe the contents of the White Folder parties must provide for leave applications.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 5 &#x2014; Appeals and cross appeals &#x2014; Rules 51.16&#x2013;51.45</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules set out the requirements for the content, filing, service and amendment of notices of appeal and cross appeal, notices of contention and objections to the competency of appeals.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">Parties must provide Red, Black, Blue and Orange appeal books for the hearing of any appeal. The contents, and the time for their provision, are prescribed in rr <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-24" remotekey1="REFPTID" service="DOC-ID">51.24&#x2013;51.33</remotelink></ci:content></ci:cite>
+.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">Written appeal submissions and chronologies are required for any appeal. The contents, and the time for their provision, are prescribed in rr <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-34" remotekey1="REFPTID" service="DOC-ID">51.34&#x2013;51.38</remotelink></ci:content></ci:cite>
+.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 6 &#x2014; Effect of applications for leave and appeals on court below &#x2014; Rules 51.42&#x2013;51.44</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules deal with various formalities relating to the retention of exhibits and the effect of an appeal on the original decision.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 7 &#x2014; Proceedings other than appeal proceedings &#x2014; Rule 51.45</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">Proceedings other than appeals must be commenced by summons with written submissions.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 8 &#x2014; Miscellaneous &#x2014; Rule 51.46&#x2013;51.61</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules deal with a range of matters including offers of compromise, security for the costs of appeal proceedings, the admission of additional evidence, powers in relation to ordering a new trial, expedition and discontinuance of appeals.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">This Part nominally applies to all courts in <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH1" remotekey1="REFPTID" service="DOC-ID">Sch 1</remotelink></ci:content></ci:cite>
+of the CPA: see UCPR <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-5" remotekey1="REFPTID" service="DOC-ID">r 1.5</remotelink>
+and <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH1" remotekey1="REFPTID" service="DOC-ID">Sch 1</remotelink>
+. The Part specifically applies to any proceedings (whether or not appeal proceedings) that are assigned to the Court of Appeal. Cf UCPR <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT50" remotekey1="REFPTID" service="DOC-ID">Pt 50</remotelink>
+which applies to appeals to the Supreme Court that are not assigned to the Court of Appeal under the SCA: see <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R50-1.A" remotekey1="REFPTID" service="DOC-ID" status="unval">UCPR r 50.1(a)</remotelink>
+. Subject to any relevant practice note, this Part extends to proceedings commenced before 1 January 2008: however, see also CPA <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S14" remotekey1="REFPTID" service="DOC-ID">s 14</remotelink></ci:content></ci:cite>
+.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">&#x2003;</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">&#x2003;</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The rule is based on the former SCR <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT51" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 51</remotelink></ci:content></ci:cite>
+.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="col5" namest="col1" rowsep="0">Quick index to notes</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Adjournment or amendment, refusal of&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-85" remotekey1="REFPTID" service="DOC-ID">[51.53.85]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Appeal books &#x2014; outline of requirements&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-24-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.24.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Appeal from GREAT&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-7-5" remotekey1="REFPTID" service="DOC-ID">[51.7.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-22-10" remotekey1="REFPTID" service="DOC-ID">[51.22.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Approved forms&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-6-2" remotekey1="REFPTID" service="DOC-ID">[51.6.2]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-10-5" remotekey1="REFPTID" service="DOC-ID">[51.10.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-16-2" remotekey1="REFPTID" service="DOC-ID">[51.16.2]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-18-2" remotekey1="REFPTID" service="DOC-ID">[51.18.2]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-20-5" remotekey1="REFPTID" service="DOC-ID">[51.20.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-40-2" remotekey1="REFPTID" service="DOC-ID">[51.40.2]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Appellate jurisdiction &#x2014; Court of Appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-22-10" remotekey1="REFPTID" service="DOC-ID">[51.22.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Bias, trial judge&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53.55" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.53.55]&#x2013;[51.53.80]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Black Book contents and timing&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-24-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.24.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Blue Book contents and timing&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-24-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.24.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-29-5" remotekey1="REFPTID" service="DOC-ID">[51.29.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-34-5" remotekey1="REFPTID" service="DOC-ID">[51.34.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Chronology&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-34-5" remotekey1="REFPTID" service="DOC-ID">[51.34.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-35-5" remotekey1="REFPTID" service="DOC-ID">[51.35.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Combined Book&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-24-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.24.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Competency of appeal, objections&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-41-5" remotekey1="REFPTID" service="DOC-ID">[51.41.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-41-10" remotekey1="REFPTID" service="DOC-ID">[51.41.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Concurrent hearings&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-14-5" remotekey1="REFPTID" service="DOC-ID">[51.14.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Cross appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-1-3" remotekey1="REFPTID" service="DOC-ID">[51.1.3]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-17-5" remotekey1="REFPTID" service="DOC-ID">[51.17.5]</remotelink>
+,<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-17-10" remotekey1="REFPTID" service="DOC-ID">[51.17.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Damages, excessive or inadequate&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-100" remotekey1="REFPTID" service="DOC-ID">.[51.53.100]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Discontinuance&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-56-5" remotekey1="REFPTID" service="DOC-ID">.[51.56.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Effect on third parties&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-52-10" remotekey1="REFPTID" service="DOC-ID">[51.52.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Evidence, additional or fresh&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.R5-1-51" remotekey1="REFPTID" service="DOC-ID" status="unval">[r 51.51]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-51-5" remotekey1="REFPTID" service="DOC-ID">[51.51.5]&#x2013;[51.51.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Evidence, findings against&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-95" remotekey1="REFPTID" service="DOC-ID">[51.53.95]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Evidence, wrongful rejection or admission&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-25" remotekey1="REFPTID" service="DOC-ID">[51.53.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Expedition&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-60-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.60.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-16-5" remotekey1="REFPTID" service="DOC-ID">[51.16.5]&#x2013;[51.16.30]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Extension of time&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-9-5" remotekey1="REFPTID" service="DOC-ID">[51.9.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-16-5" remotekey1="REFPTID" service="DOC-ID">[51.16.5]&#x2013;[51.16.30]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Fraud&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-135" remotekey1="REFPTID" service="DOC-ID">[51.53.135]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Grounds of appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-18-5" remotekey1="REFPTID" service="DOC-ID">[51.18.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Grounds of appeal &#x2014; amendment&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-18-10" remotekey1="REFPTID" service="DOC-ID">[51.18.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Legal representation, inadequacy&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.15-53-145" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.53.145]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">List of authorities&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-12-5" remotekey1="REFPTID" service="DOC-ID">[51.12.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-13-5" remotekey1="REFPTID" service="DOC-ID">[51.13.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-34-5" remotekey1="REFPTID" service="DOC-ID">[51.34.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Material date&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-2-5" remotekey1="REFPTID" service="DOC-ID">[51.2.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-2-10" remotekey1="REFPTID" service="DOC-ID">[51.2.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Misconduct of jury&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-90" remotekey1="REFPTID" service="DOC-ID">[51.53.90]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Misdirection by trial judge&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-30" remotekey1="REFPTID" service="DOC-ID">[51.53.30]&#x2013;[51.53.45]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Natural justice, failure to afford party&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-50" remotekey1="REFPTID" service="DOC-ID">[51.53.50]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">New trial&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-5" remotekey1="REFPTID" service="DOC-ID">[51.53.5]&#x2013;[51.53.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice of appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-1-3" remotekey1="REFPTID" service="DOC-ID">[51.1.3]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-16" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.16]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice of contention&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-1-3" remotekey1="REFPTID" service="DOC-ID">[51.1.3]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-40-5" remotekey1="REFPTID" service="DOC-ID">[51.40.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice of cross-appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-1-3" remotekey1="REFPTID" service="DOC-ID">[51.1.3]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice of intention to appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-1-3" remotekey1="REFPTID" service="DOC-ID">[51.1.3]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-8-5" remotekey1="REFPTID" service="DOC-ID">[51.8.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice of motion to be supported by affidavit&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.52-61-5" remotekey1="REFPTID" service="DOC-ID">[51.61.5] </remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Objection to competency&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-1-3" remotekey1="REFPTID" service="DOC-ID">[51.1.3]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Offers of compromise in Court of Appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-47-5" remotekey1="REFPTID" service="DOC-ID">[51.47.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Orange Book, contents and timing&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-24-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.24.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Perjury&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-140" remotekey1="REFPTID" service="DOC-ID">[51.53.140]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Points not taken at trial&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-105" remotekey1="REFPTID" service="DOC-ID">[51.53.105]&#x2013;[51.53.130]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Powers of Court of Appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-52-5" remotekey1="REFPTID" service="DOC-ID">[51.52.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-52-10" remotekey1="REFPTID" service="DOC-ID">[51.52.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Practice Note&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT51.51-1-2" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.1.2]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Precedent&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-1-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.1.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Procedures in Court of Appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT51.51-1-2" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.1.2]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Reasons for decision, inadequate&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT51.53-150" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.53.150]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Red Book, contents and timing&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-24-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.24.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Registrar of the Court of Appeal &#x2014; powers&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-2-15" remotekey1="REFPTID" service="DOC-ID">[51.2.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Reinstatement or restitution&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-54-5" remotekey1="REFPTID" service="DOC-ID">[51.54.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Restitution, interest&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-54-10" remotekey1="REFPTID" service="DOC-ID">[51.54.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Restrictions on right of appeal, statutory&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-22-5" remotekey1="REFPTID" service="DOC-ID">[51.22.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Review, order of Judge of Appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-58-5" remotekey1="REFPTID" service="DOC-ID">[51.58.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Security for costs, corporate appellant&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-50-10" remotekey1="REFPTID" service="DOC-ID">[51.50.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Security for costs, dismissal for failure to provide&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-50-20" remotekey1="REFPTID" service="DOC-ID">[51.50.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Security for costs, multiple appellants&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-50-15" remotekey1="REFPTID" service="DOC-ID">[51.50.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Security of costs&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-50-5" remotekey1="REFPTID" service="DOC-ID">[51.50.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Service of notice on parties&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-4-5" remotekey1="REFPTID" service="DOC-ID">[51.4.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Stay of proceedings, appeal not operate as&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-44-5" remotekey1="REFPTID" service="DOC-ID">[51.44.5]&#x2013;[51.44.40]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Stay pending appeal to High Court&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-44-45" remotekey1="REFPTID" service="DOC-ID">[51.44.45]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Submissions with leave&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-34-15" remotekey1="REFPTID" service="DOC-ID">[51.34.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Times for: notice of intention, leave &amp; appeal&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-6" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.6]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-10" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.10]</remotelink>
+&amp; <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-16" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.16]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Trial judge, bias of&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="51-53-55" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.53.55]&#x2013;[51.53.80]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">White Folder, contents and timing&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-14.5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.14.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-24.5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.24.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Written submissions&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-34-5" remotekey1="REFPTID" service="DOC-ID">[51.34.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-34-10" remotekey1="REFPTID" service="DOC-ID">[51.34.10]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-34-15" remotekey1="REFPTID" service="DOC-ID">[51.34.15]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-36-5" remotekey1="REFPTID" service="DOC-ID">[51.36.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.51-37-5" remotekey1="REFPTID" service="DOC-ID">[51.37.5]</remotelink></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.PT51.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 PRELIMINARY [rr 51.1&#x2013;51.3]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT51.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">PRELIMINARY [rr 51.1&#x2013;51.3]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R51-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 51.1] r 51.1 Application of Part (cf SCR Part 51, rule 3)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R51-1" type="ext"/>[r 51.1]</edpnum><title searchtype="RUL-TITLE">Application of Part (cf SCR Part 51, rule 3)</title><desig searchtype="RUL-NUM"><designum>51.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R51-1.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R51-1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to any proceedings (whether or not appeal proceedings) that are assigned to the Court of Appeal.</text></p>
+<glp:note>
+<heading><title>Note 1.</title></heading>
+<p>
+<text><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT50" remotekey1="REFPTID" service="DOC-ID">Part 50</remotelink>
+ applies to appeals to the Supreme Court that are not assigned to the Court of Appeal under the Supreme Court Act 1970. See 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R50-1..A" remotekey1="REFPTID" service="DOC-ID">rule 50.1(a)</remotelink>
+.</text></p></glp:note>
+<glp:note>
+<heading><title>Note 2.</title></heading>
+<p>
+<text>References in this Part to proceedings in the Court generally are references to any proceedings in the Court (including appeal proceedings), except in so far as the context or subject-matter otherwise indicates or requires.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R51-1.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R51-1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any relevant practice note, this Part extends to proceedings in the Court commenced before 1 January 2008.</text></p>
+<glp:note>
+<heading><title>Note 1.</title></heading>
+<p>
+<text><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN.05.S8.1" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 14</remotelink>
+ of the Civil Procedure Act 2005 also provides that, in relation to particular civil proceedings, a court may, by order, dispense with any requirement of rules of court if satisfied that it is appropriate to do so in the circumstances of the case.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R51-1.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R51-1.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this Part, the other provisions of these rules apply, so far as applicable, to proceedings in the Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R51-1.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R51-1.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the avoidance of doubt, the rules referred to in subrule (3) have effect subject to the following modifications:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-1.4.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-1.4.A" type="ext"/>(a)</lilabel>
+<p><text>a reference to a plaintiff includes a reference to a person who commences proceedings in the Court (whether as an appellant or otherwise),</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-1.4.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-1.4.B" type="ext"/>(b)</lilabel>
+<p><text>a reference to a defendant includes a reference to a respondent (or cross-respondent) in proceedings in the Court,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-1.4.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-1.4.C" type="ext"/>(c)</lilabel>
+<p><text>a reference to an originating process includes a reference to a notice of appeal or notice of cross-appeal,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-1.4.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-1.4.D" type="ext"/>(d)</lilabel>
+<p><text>such other modifications as are necessary.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT51.R1.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.51-1-2" leveltype="para0" subdoc="true" toc-caption="[51.1.2] Specific procedures in the Court of Appeal"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.51-1-2" type="ext"/>[51.1.2] </edpnum><title>Specific procedures in the Court of Appeal</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The present rules, and the related Practice Note 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCCA.PN1" remotekey1="REFPTID" service="DOC-ID">SC CA 1</remotelink>
+, prescribe the requirements for conducting proceedings in the Court of Appeal. By their nature, appeal proceedings impose particular demands on the court, legal representatives and parties. These procedural requirements are intended to facilitate the efficient conduct of appeal proceedings. Persons conducting appeal proceedings, and especially their legal representatives, must accept responsibility for understanding, and complying conscientiously with, the procedural requirements. The more important of these requirements relate to:</text>
+<l>
+<li><lilabel> </lilabel>
+<p>
+<text>Appeal Books &#x2014; see the detailed summary at 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-24-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[51.24.5]</remotelink></text></p></li>
+<li><lilabel> </lilabel>
+<p>
+<text>Grounds of Appeal &#x2014; see the detailed summary at 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-18-5" remotekey1="REFPTID" service="DOC-ID">[51.18.5]</remotelink></text></p></li>
+<li><lilabel> </lilabel>
+<p>
+<text>Written submissions &#x2014; see the detailed summary at 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-34-5" remotekey1="REFPTID" service="DOC-ID">[51.34.5]</remotelink></text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.51-1-3" leveltype="para0" subdoc="true" toc-caption="[51.1.3] Time limits &#x2014; outline of requirements">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [51.1.3] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 51.10, 51.10(2), r 51.11, 51.11(2), r 51.13, r 51.16, r 51.17, [r 51.2], r 51.40, r 51.41, r 51.8, rr 51.9, rr 51.9(1)(b), r 51.9A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.51-1-3" type="ext"/>[51.1.3] </edpnum><title>Time limits &#x2014; outline of requirements</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Appeal proceedings may involve a range of procedures &#x2014; from Notices of Intention to Appeal, Applications for Leave, Applications for extension of time, to Notices of Appeal. Various time limits apply to all of these procedures (subject to the powers of extension in UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-9.1.B" remotekey1="REFPTID" service="DOC-ID">rr 51.9(1)(b)</remotelink></ci:content></ci:cite>
+ (originating process), 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-10.2" remotekey1="REFPTID" service="DOC-ID">51.10(2)</remotelink></ci:content></ci:cite>
+ (summons seeking leave to appeal), and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-11.2" remotekey1="REFPTID" service="DOC-ID">51.11(2)</remotelink></ci:content></ci:cite>
+ (cross-summons seeking leave to appeal) and subject to any specific contrary legislative provision (see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-7-5" remotekey1="REFPTID" service="DOC-ID">[51.7.5]</remotelink>
+). Typically the time limits apply by reference to the &#x201c;material date&#x201d; of the decision appealed: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-2" remotekey1="REFPTID" service="DOC-ID">[r 51.2]</remotelink></ci:content></ci:cite>
+. That date will usually be the date the actual judgment or order is made. Adopting that generalisation the relevant time limits, and the provisions to which they relate, are as follows.</text></p>
+<pgrp>
+<heading><title>Applications for leave to appeal</title></heading>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="3" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="30*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="40*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="20*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">Time</emph></entry>
+<entry colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">Provision</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Notice of intention</entry>
+<entry colsep="0" morerows="0" rowsep="0">28 days after judgment order</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-8" remotekey1="REFPTID" service="DOC-ID">r 51.8</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Summons</entry>
+<entry colsep="0" morerows="0" rowsep="0">28 days after judgment order, or</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-10" remotekey1="REFPTID" service="DOC-ID">r 51.10</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">3 months after judgment order(where notice of intention toappeal has been given)</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-10" remotekey1="REFPTID" service="DOC-ID">r 51.10</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Cross-summons</entry>
+<entry colsep="0" morerows="0" rowsep="0">28 days after summons forleave or notice of appeal</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-11" remotekey1="REFPTID" service="DOC-ID">r 51.11</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Response</entry>
+<entry colsep="0" morerows="0" rowsep="0">28 days after filing of White Folder</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-13" remotekey1="REFPTID" service="DOC-ID">r 51.13</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p></pgrp>
+<pgrp>
+<heading><title>Appeals and Cross-appeals</title></heading>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="3" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="30*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="40*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="20*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">Time</emph></entry>
+<entry colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">Provision</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Notice of intention</entry>
+<entry colsep="0" morerows="0" rowsep="0">28 days after judgment order, or</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-8" remotekey1="REFPTID" service="DOC-ID">r 51.8</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">14 days after receiving notice of intention to appeal</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-9A" remotekey1="REFPTID" service="DOC-ID" status="unval">r 51.9A</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Notice of appeal</entry>
+<entry colsep="0" morerows="0" rowsep="0">7 days after leave to appeal, or</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-16" remotekey1="REFPTID" service="DOC-ID">r 51.16</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">28 days after judgment order, or</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-16" remotekey1="REFPTID" service="DOC-ID">r 51.16</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">3 months after judgment order (where notice of intention to appeal hasbeen given), or</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-9" remotekey1="REFPTID" service="DOC-ID">rr 51.9</remotelink></ci:content></ci:cite>, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-16" remotekey1="REFPTID" service="DOC-ID">51.16</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">3 months and 28 days after thejudgment order (where another partygave notice of intention but didnot file a notice of appeal)</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-9A" remotekey1="REFPTID" service="DOC-ID" status="unval">r 51.9A</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Notice of cross-appeal</entry>
+<entry colsep="0" morerows="0" rowsep="0">7 days after leave, or</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-17" remotekey1="REFPTID" service="DOC-ID">r 51.17</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0">14 days after the summons forleave or notice of appeal</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-17" remotekey1="REFPTID" service="DOC-ID">r 51.17</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Notices of contention</entry>
+<entry colsep="0" morerows="0" rowsep="0">28 days after notice of appeal</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-40" remotekey1="REFPTID" service="DOC-ID">r 51.40</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">Objections to competency</entry>
+<entry colsep="0" morerows="0" rowsep="0">28 days after notice of appeal</entry>
+<entry colsep="0" morerows="0" rowsep="0"><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-41" remotekey1="REFPTID" service="DOC-ID">r 51.41</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p></pgrp>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05.PT51.51-1-5" leveltype="para0" subdoc="true" toc-caption="[51.1.5] Precedent"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.UCPRN05.PT51.51-1-5" type="ext"/>[51.1.5] </edpnum><title>Precedent</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Court of Appeal is required to follow any binding decision of the High Court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr011428" spanref="cr011428-001"><ci:reporter value="NSWLR"/><ci:volume num="19"/><ci:page num="317"/></ci:caseref><ci:caseref ID="cr011429" spanref="cr011429-002" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="48"/><ci:page num="420"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Adler v District Court of New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011428-001">(1990) 19 NSWLR 317</ci:span>; <ci:span spanid="cr011429-002" status="unval">48 A Crim R 420</ci:span></citefragment> <remotelink dpsi="0018" refpt="20333" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr011430" spanref="cr011430-001"><ci:reporter value="NSWLR"/><ci:volume num="9"/><ci:page num="172"/></ci:caseref><ci:caseref ID="cr011431" spanref="cr011431-002" status="unval"><ci:reporter value="AustTortsReports"/><ci:volume num=""/><ci:page num="80104"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Swan v Williams (Demolition) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011430-001">(1987) 9 NSWLR 172</ci:span>; <ci:span spanid="cr011431-002" status="unval">Aust Torts Reports ¶80-104</ci:span></citefragment> <remotelink dpsi="0018" refpt="4680" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>The Court of Appeal is not bound by decisions of the House of Lords: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1978"/></ci:caseinfo><ci:caseref ID="cr011432" spanref="cr011432-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="141"/><ci:page num="88"/></ci:caseref><ci:caseref anaphref="cr011432" spanref="cr011432-002" status="unval"><ci:pinpoint num="121" targettype="page"/></ci:caseref><ci:caseref ID="cr011433" spanref="cr011433-003"><ci:reporter value="ALR"/><ci:volume num="18"/><ci:page num="257"/></ci:caseref><ci:caseref ID="cr011434" spanref="cr011434-004"><ci:reporter value="urj"/><ci:refnum num="BC7800022"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Viro v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011432-001" status="unval">(1978) 141 CLR 88</ci:span> <ci:span spanid="cr011432-002" status="unval">at 121</ci:span>; <ci:span spanid="cr011433-003">18 ALR 257</ci:span>; <ci:span spanid="cr011434-004"> BC7800022</ci:span></citefragment> <remotelink dpsi="0018" refpt="507" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr011435" spanref="cr011435-001"><ci:reporter value="NSWLR"/><ci:volume num="9"/><ci:page num="575"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">X v Amalgamated Television Services Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011435-001">(1987) 9 NSWLR 575</ci:span></citefragment> <remotelink dpsi="0018" refpt="5267" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> explaining <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1983"/></ci:caseinfo><ci:caseref ID="cr011436" spanref="cr011436-001" status="unval"><ci:reporter value="ASC"/><ci:volume num=""/><ci:page num="55251"/></ci:caseref><ci:caseref ID="cr011437" spanref="cr011437-002"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="431"/></ci:caseref><ci:caseref anaphref="cr011437" spanref="cr011437-003"><ci:pinpoint num="433" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lifesavers (Australasia) Ltd v Frigmobile Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011436-001" status="unval">(1983) ASC 55-251</ci:span>; <ci:span spanid="cr011437-002">[1983] 1 NSWLR 431</ci:span> <ci:span spanid="cr011437-003">at 433</ci:span></citefragment> <remotelink dpsi="0018" refpt="3481" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Before the abolition of Privy Council appeals, decisions of the Privy Council were binding on the Court of Appeal: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Viro v R</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>, CLR <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011438" spanref="cr011438-000" status="unval"><ci:reporter value="CLR"/><ci:volume num="141"/><ci:edition><ci:date year="1978"/></ci:edition><ci:pinpoint num="121" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr011438-000" status="unval">at 121</ci:span></citefragment></ci:content></ci:cite>. Since the abolition of those Privy Council appeals, the view has been expressed that opinions of the Privy Council are no longer binding on Australian courts: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr011439" spanref="cr011439-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="162"/><ci:page num="376"/></ci:caseref><ci:caseref anaphref="cr011439" spanref="cr011439-002" status="unval"><ci:pinpoint num="390" targettype="page"/></ci:caseref><ci:caseref ID="cr011440" spanref="cr011440-003"><ci:reporter value="ALR"/><ci:volume num="68"/><ci:page num="353"/></ci:caseref><ci:caseref ID="cr011441" spanref="cr011441-004" status="unval"><ci:reporter value="AustTortsReports"/><ci:volume num=""/><ci:page num="80061"/></ci:caseref><ci:caseref ID="cr011442" spanref="cr011442-005"><ci:reporter value="urj"/><ci:refnum num="BC8601384"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cook v Cook</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011439-001" status="unval">(1986) 162 CLR 376</ci:span> <ci:span spanid="cr011439-002" status="unval">at 390</ci:span>; <ci:span spanid="cr011440-003">68 ALR 353</ci:span>; <ci:span spanid="cr011441-004" status="unval">Aust Torts Reports ¶80-061</ci:span>; <ci:span spanid="cr011442-005"> BC8601384</ci:span></citefragment> <remotelink dpsi="0018" refpt="802" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr011443" spanref="cr011443-001"><ci:reporter value="NSWLR"/><ci:volume num="5"/><ci:page num="109"/></ci:caseref><ci:caseref anaphref="cr011443" spanref="cr011443-002" status="unval"><ci:pinpoint num="137" targettype="page"/></ci:caseref><ci:caseref ID="cr011444" spanref="cr011444-003" status="unval"><ci:reporter value="AustTortsReports"/><ci:page num="80018"/></ci:caseref><ci:caseref ID="cr011445" spanref="cr011445-004" status="unval"><ci:reporter value="NSWConvR "/><ci:volume num=""/><ci:page num="55295"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hawkins v Clayton (t/as Clayton Utz &amp; Co) </emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011443-001">(1986) 5 NSWLR 109</ci:span> <ci:span spanid="cr011443-002" status="unval">at 137</ci:span>; <ci:span spanid="cr011444-003" status="unval">Aust Torts Reports ¶80-018</ci:span>; <ci:span spanid="cr011445-004" status="unval">NSW ConvR ¶55-295</ci:span></citefragment> <remotelink dpsi="0018" refpt="1338" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr011446" spanref="cr011446-001"><ci:reporter value="NSWLR"/><ci:volume num="9"/><ci:page num="575"/></ci:caseref><ci:caseref anaphref="cr011446" spanref="cr011446-002" status="unval"><ci:pinpoint num="585" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">X v Amalgamated Television Services Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011446-001">(1987) 9 NSWLR 575</ci:span> <ci:span spanid="cr011446-002" status="unval">at 585</ci:span></citefragment> <remotelink dpsi="0018" refpt="5267" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>The NSW Court of Appeal is not bound by decisions of other Australian full courts, or courts of appeal, but should follow those decisions unless it is satisfied that they are clearly wrong: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr011447" spanref="cr011447-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="230"/><ci:page num="89"/></ci:caseref><ci:caseref ID="cr011448" spanref="cr011448-002"><ci:reporter value="ALR"/><ci:volume num="236"/><ci:page num="209"/></ci:caseref><ci:caseref ID="cr011449" spanref="cr011449-003"><ci:reporter value="urj"/><ci:refnum num="BC200703851"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Farah Constructions Pty Ltd v Say-Dee Pty Ltd </emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011447-001" status="unval">(2007) 230 CLR 89</ci:span>; <ci:span spanid="cr011448-002">236 ALR 209</ci:span>; [2007] HCA 22; <ci:span spanid="cr011449-003"> BC200703851</ci:span></citefragment> <remotelink dpsi="0018" refpt="437516" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr011450" spanref="cr011450-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="177"/><ci:page num="485"/></ci:caseref><ci:caseref ID="cr011451" spanref="cr011451-002"><ci:reporter value="ALR"/><ci:volume num="112"/><ci:page num="627"/></ci:caseref><ci:caseref ID="cr011452" spanref="cr011452-003"><ci:reporter value="ACSR"/><ci:volume num="10"/><ci:page num="230"/></ci:caseref><ci:caseref ID="cr011453" spanref="cr011453-004"><ci:reporter value="urj"/><ci:refnum num="BC9303569"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australian Securities Commission v Marlborough Gold Mines Ltd </emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011450-001" status="unval">(1993) 177 CLR 485</ci:span>; <ci:span spanid="cr011451-002">112 ALR 627</ci:span>; <ci:span spanid="cr011452-003">10 ACSR 230</ci:span>; <ci:span spanid="cr011453-004"> BC9303569</ci:span></citefragment> <remotelink dpsi="0018" refpt="43085" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr011454" spanref="cr011454-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="162"/><ci:page num="376"/></ci:caseref><ci:caseref ID="cr011455" spanref="cr011455-002"><ci:reporter value="ALR"/><ci:volume num="68"/><ci:page num="353"/></ci:caseref><ci:caseref ID="cr011456" spanref="cr011456-003" status="unval"><ci:reporter value="AustTortsReports"/><ci:page num="80061"/></ci:caseref><ci:caseref ID="cr011457" spanref="cr011457-004"><ci:reporter value="urj"/><ci:refnum num="BC8601384"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cook v Cook</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011454-001" status="unval">(1986) 162 CLR 376</ci:span>; <ci:span spanid="cr011455-002">68 ALR 353</ci:span>; <ci:span spanid="cr011456-003" status="unval">Aust Torts Reports ¶80-061</ci:span>; <ci:span spanid="cr011457-004"> BC8601384</ci:span></citefragment> <remotelink dpsi="0018" refpt="802" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>The Court of Appeal does not regard itself as bound by its previous decisions: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr011458" spanref="cr011458-001"><ci:reporter value="NSWLR"/><ci:volume num="18"/><ci:page num="86"/></ci:caseref><ci:caseref anaphref="cr011458" spanref="cr011458-002" status="unval"><ci:pinpoint num="100" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Clutha Developments Pty Ltd v Barry</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011458-001">(1989) 18 NSWLR 86</ci:span> <ci:span spanid="cr011458-002" status="unval">at 100</ci:span></citefragment> <remotelink dpsi="0018" refpt="17570" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011459" spanref="cr011459-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="761"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Flanagan v H C Buckman &amp; Son Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011459-001">[1972] 2 NSWLR 761</ci:span></citefragment> <remotelink dpsi="0018" refpt="37344" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1967"/></ci:caseinfo><ci:caseref ID="cr011460" spanref="cr011460-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="67"/><ci:page num="426"/></ci:caseref><ci:caseref ID="cr011461" spanref="cr011461-002" status="unval"><ci:reporter value="WNPt2NSW"/><ci:volume num="85"/><ci:page num="135"/></ci:caseref><ci:caseref ID="cr011462" spanref="cr011462-003" status="unval"><ci:reporter value="NSWR"/><ci:volume num="1"/><ci:edition><ci:date year="1967"/></ci:edition><ci:page num="502"/></ci:caseref><ci:caseref anaphref="cr011462" spanref="cr011462-004"><ci:pinpoint num="430" targettype="page"/></ci:caseref><ci:caseref anaphref="cr011462" spanref="cr011462-005" status="unval"><ci:pinpoint num="432" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bennett &amp; Wood Ltd v Orange City Council</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011460-001" status="unval">(1967) 67 SR (NSW) 426</ci:span>; <ci:span spanid="cr011461-002" status="unval">85 WN (Pt 2) (NSW) 135</ci:span>; <ci:span spanid="cr011462-003" status="unval">[1967] 1 NSWR 502</ci:span> <ci:span spanid="cr011462-004">at 430,</ci:span> <ci:span spanid="cr011462-005" status="unval">432</ci:span></citefragment> <remotelink dpsi="0018" refpt="12324" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1964"/></ci:caseinfo><ci:caseref ID="cr011463" spanref="cr011463-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="64"/><ci:page num="502"/></ci:caseref><ci:caseref ID="cr011464" spanref="cr011464-002" status="unval"><ci:reporter value="WNPt2NSW"/><ci:volume num="81"/><ci:page num="85"/></ci:caseref><ci:caseref ID="cr011465" spanref="cr011465-003" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1964"/></ci:edition><ci:page num="105"/></ci:caseref><ci:caseref anaphref="cr011465" spanref="cr011465-004" status="unval"><ci:pinpoint num="508" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Richardson v Mayer (No2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011463-001" status="unval">(1964) 64 SR (NSW) 502</ci:span>; <ci:span spanid="cr011464-002" status="unval">81 WN (Pt 2) (NSW) 85</ci:span>; <ci:span spanid="cr011465-003" status="unval">[1964-5] NSWR 105</ci:span> <ci:span spanid="cr011465-004" status="unval">at 508</ci:span></citefragment> <remotelink dpsi="0018" refpt="76913" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. But the Court of Appeal will not depart from its own previous decision unless it has a strong conviction that the previous decision was &#x201c;plainly wrong&#x201d;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2009"/></ci:caseinfo><ci:caseref ID="cr011466" spanref="cr011466-001"><ci:reporter value="ALR"/><ci:volume num="254"/><ci:page num="504"/></ci:caseref><ci:caseref ID="cr011467" spanref="cr011467-002"><ci:reporter value="urj"/><ci:refnum num="BC200902489"/></ci:caseref><ci:caseref anaphref="cr011467" spanref="cr011467-003"><ci:pinpoint num="294" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gett v Tabet</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011466-001">(2009) 254 ALR 504</ci:span>; [2009] NSWCA 76; <ci:span spanid="cr011467-002"> BC200902489</ci:span> <ci:span spanid="cr011467-003">at [294]&#x2013;[301]</ci:span></citefragment> <remotelink dpsi="0018" refpt="472181" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr011468" spanref="cr011468-001"><ci:reporter value="NSWLR"/><ci:volume num="18"/><ci:page num="86"/></ci:caseref><ci:caseref anaphref="cr011468" spanref="cr011468-002" status="unval"><ci:pinpoint num="99" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Clutha Developments Pty Ltd v Barry</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011468-001">(1989) 18 NSWLR 86</ci:span> <ci:span spanid="cr011468-002" status="unval">at 99&#x2013;100</ci:span></citefragment> <remotelink dpsi="0018" refpt="17570" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Gleeson CJ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1967"/></ci:caseinfo><ci:caseref ID="cr011469" spanref="cr011469-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="67"/><ci:page num="426"/></ci:caseref><ci:caseref ID="cr011470" spanref="cr011470-002" status="unval"><ci:reporter value="WNPt2NSW"/><ci:volume num="85"/><ci:page num="135"/></ci:caseref><ci:caseref ID="cr011471" spanref="cr011471-003" status="unval"><ci:reporter value="NSWR"/><ci:volume num="1"/><ci:edition><ci:date year="1967"/></ci:edition><ci:page num="502"/></ci:caseref><ci:caseref anaphref="cr011471" spanref="cr011471-004"><ci:pinpoint num="432" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bennett &amp; Wood Ltd v Orange City Council</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011469-001" status="unval">(1967) 67 SR (NSW) 426</ci:span>; <ci:span spanid="cr011470-002" status="unval">85 WN (Pt 2) (NSW) 135</ci:span>; <ci:span spanid="cr011471-003" status="unval">[1967] 1 NSWR 502</ci:span> <ci:span spanid="cr011471-004">at 432</ci:span></citefragment> <remotelink dpsi="0018" refpt="12324" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Walsh JA. In <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011472" spanref="cr011472-001"><ci:reporter value="urj"/><ci:refnum num="BC201210043"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Donnellan v Woodland</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 433; <ci:span spanid="cr011472-001"> BC201210043</ci:span></citefragment> <remotelink dpsi="0018" refpt="570712" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (dealing with advocate&#x2019;s immunity), Beazley JA (Basten, Barrett, Hoeben JJA and Sackville AJA agreeing) <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011473" spanref="cr011473-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="192" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr011473-000" status="unval">at [192]</ci:span></citefragment></ci:content></ci:cite> (whilst obiter) suggests that an earlier decision of the court is &#x201c;plainly wrong&#x201d; if it satisfies two conditions:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>The later court must form the view that the earlier decision was erroneous &#x2014; a mere preference by the later court for a different approach to that taken by the earlier court does not render an earlier decision erroneous;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>The later court must be capable of demonstrating error in the earlier decision by application of correct legal analysis: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2008"/></ci:caseinfo><ci:caseref ID="cr011474" spanref="cr011474-001"><ci:reporter value="VR"/><ci:volume num="21"/><ci:page num="526"/></ci:caseref><ci:caseref ID="cr011475" spanref="cr011475-002" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="192"/><ci:page num="156"/></ci:caseref><ci:caseref ID="cr011476" spanref="cr011476-003"><ci:reporter value="urj"/><ci:refnum num="BC200811220"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">RJE v Secretary to the Department of Justice</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011474-001">(2008) 21 VR 526</ci:span>; <ci:span spanid="cr011475-002" status="unval">192 A Crim R 156</ci:span>; [2008] VSCA 265; <ci:span spanid="cr011476-003"> BC200811220</ci:span></citefragment> <remotelink dpsi="0018" refpt="467745" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p></li></l></p>
+<p>
+<text>Leave is required before a party is entitled to argue a point that would involve the Court of Appeal departing from a previous decision: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011477" spanref="cr011477-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="166"/></ci:caseref><ci:caseref anaphref="cr011477" spanref="cr011477-002" status="unval"><ci:pinpoint num="171" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Proctor v Jetway Aviation Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011477-001">[1984] 1 NSWLR 166</ci:span> <ci:span spanid="cr011477-002" status="unval">at 171</ci:span></citefragment> <remotelink dpsi="0018" refpt="4275" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr011478" spanref="cr011478-001"><ci:reporter value="NSWLR"/><ci:volume num="24"/><ci:page num="305"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">King &amp; Mergen Holdings Pty Ltd v McKenzie</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011478-001">(1991) 24 NSWLR 305</ci:span></citefragment> <remotelink dpsi="0018" refpt="32228" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr011479" spanref="cr011479-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:page num="591"/></ci:caseref><ci:caseref ID="cr011480" spanref="cr011480-002"><ci:reporter value="Fam LR"/><ci:volume num="10"/><ci:page num="181"/></ci:caseref><ci:caseref ID="cr011481" spanref="cr011481-003" status="unval"><ci:reporter value="AustTortsReports"/><ci:page num="80734"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">AA Tegel Pty Ltd v Madden</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011479-001">(1985) 2 NSWLR 591</ci:span>; <ci:span spanid="cr011480-002">10 Fam LR 181</ci:span>; <ci:span spanid="cr011481-003" status="unval">Aust Torts Reports ¶80-734</ci:span></citefragment> <remotelink dpsi="0018" refpt="10753" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (leave granted); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr011482" spanref="cr011482-001" status="unval"><ci:reporter value="DDCR"/><ci:volume num="5"/><ci:page num="358"/></ci:caseref><ci:caseref ID="cr011483" spanref="cr011483-002" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200707682"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ebb v Fast Fix Steel Fixing Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011482-001" status="unval">(2007) 5 DDCR 358</ci:span>; [2007] NSWCA 236; <ci:span spanid="cr011483-002" status="unval"> BC200707682</ci:span></citefragment> <remotelink dpsi="0018" refpt="443151" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (leave to re-open granted; discussion of factors relevant to grant of leave). Practice Note SC CA 1 at [38] requires parties to give notice to the registrar of any challenge to the correctness of a prior decision of the Court of Appeal or of any other intermediate Australian appellate court .</text></p>
+<p>
+<text>Judges at first instance are bound to follow previous decisions of the Court of Appeal that authoritatively determine the point in issue: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011484" spanref="cr011484-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="166"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Proctor v Jetway Aviation Pty Ltd </emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011484-001">[1984] 1 NSWLR 166</ci:span></citefragment> <remotelink dpsi="0018" refpt="4275" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011485" spanref="cr011485-001" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="340"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Metlej v Kavanagh</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr011485-001" status="unval">[1981] 2 NSWLR 340</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R51-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 51.2] r 51.2 Interpretation (cf SCR Part 51, rule 2)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R51-2" type="ext"/>[r 51.2]</edpnum><title searchtype="RUL-TITLE">Interpretation (cf SCR Part 51, rule 2)</title><desig searchtype="RUL-NUM"><designum>51.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.APPEAL"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPEAL" type="ext"/><emph typestyle="bf">appeal</emph></defterm><defdesc>
+<p><text>:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-2.APPEAL.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPEAL.A" type="ext"/>(a)</lilabel>
+<p><text>includes an appeal from a decision in proceedings in the Supreme Court or a specified tribunal within the meaning of 
+<remotelink dpsi="05CC" refpt="SCPNSW.SCN.SCA70.S49.1.A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 48(1)(a)</remotelink>
+ of the Supreme Court Act 1970, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.APPEAL.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPEAL.B" type="ext"/>(b)</lilabel>
+<p><text>does not include proceedings to which 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT28" remotekey1="REFPTID" service="DOC-ID">Part 28</remotelink>
+ applies (except an appeal from a decision of the Supreme Court in proceedings to which that Part applies), and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.APPEAL.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPEAL.C" type="ext"/>(c)</lilabel>
+<p><text>does not include an application for the variation or discharge of an order of a Judge of Appeal or of the Registrar.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.APPEAL-BOOK"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPEAL-BOOK" type="ext"/><emph typestyle="bf">Appeal Book</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-25" remotekey1="REFPTID" service="DOC-ID">rules 51.25</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-26" remotekey1="REFPTID" service="DOC-ID">51.26</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.APPEAL-PROCEEDINGS"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPEAL-PROCEEDINGS" type="ext"/><emph typestyle="bf">appeal proceedings</emph></defterm><defdesc>
+<p><text>means proceedings in the Court that are commenced by filing and serving a summons seeking leave to appeal or a notice of appeal.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.APPELLANT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPELLANT" type="ext"/><emph typestyle="bf">appellant</emph></defterm><defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-2.APPELLANT.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPELLANT.A" type="ext"/>(a)</lilabel>
+<p><text>a party that files a notice of appeal in the Court, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.APPELLANT.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPELLANT.B" type="ext"/>(b)</lilabel>
+<p><text>any other party joined as an appellant.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT" type="ext"/><emph typestyle="bf">applicant</emph></defterm><defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT.A" type="ext"/>(a)</lilabel>
+<p><text>in relation to a notice of intention to appeal, the person that files and serves the notice under this Part, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT.B" type="ext"/>(b)</lilabel>
+<p><text>in relation to any proceedings in the Court (other than an appeal or cross-appeal):</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT.B.I" type="ext"/>(i)</lilabel>
+<p><text>a party that files originating process for the proceedings, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.APPLICANT.B.II" type="ext"/>(ii)</lilabel>
+<p><text>any other party joined as an applicant.</text></p>
+</li></l></li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.BLACK-BOOK"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.BLACK-BOOK" type="ext"/><emph typestyle="bf">Black Book</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-26.1.B" remotekey1="REFPTID" service="DOC-ID">rules 51.26(1)(b)</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-28" remotekey1="REFPTID" service="DOC-ID">51.28</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.BLUE-BOOK"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.BLUE-BOOK" type="ext"/><emph typestyle="bf">Blue Book</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-26.1.C" remotekey1="REFPTID" service="DOC-ID">rules 51.26(1)(c)</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-29" remotekey1="REFPTID" service="DOC-ID">51.29</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.COMBINED-BOOK"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.COMBINED-BOOK" type="ext"/><emph typestyle="bf">Combined Book</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-26.2" remotekey1="REFPTID" service="DOC-ID">rule 51.26(2)</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.COURT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.COURT" type="ext"/><emph typestyle="bf">Court</emph></defterm><defdesc>
+<p><text>means the Court of Appeal.</text></p>
+<glp:note id="UCPN.UCPR.UCPRN05.R51-2.COURT.LGN1">
+<heading><title>Note.</title></heading>
+<p>
+<text><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN.05.S8.3" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 13</remotelink>
+ of the Civil Procedure Act 2005 enables the Chief Justice of the Supreme Court, by instrument in writing, to direct that any function of the Court under that Act or these rules may be exercised by such registrars or other officers of the Supreme Court, and in such circumstances and subject to such conditions, as are specified in the instrument.</text></p></glp:note>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.COURT-BELOW"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.COURT-BELOW" type="ext"/><emph typestyle="bf">court below</emph></defterm><defdesc>
+<p><text>means the court, person or body that made the decision to which a notice of intention to appeal or appeal proceedings relate.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.CROSS-APPELLANT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.CROSS-APPELLANT" type="ext"/><emph typestyle="bf">cross-appellant</emph></defterm><defdesc>
+<p><text>means a respondent in appeal proceedings who has filed a notice of cross-appeal.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.DECISION"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.DECISION" type="ext"/><emph typestyle="bf">decision</emph></defterm><defdesc>
+<p><text>includes a judgment, order, verdict, opinion, direction or determination.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.DECISION-BELOW"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.DECISION-BELOW" type="ext"/><emph typestyle="bf">decision below</emph></defterm><defdesc>
+<p><text>means the decision of the court below to which a notice of intention to appeal or appeal proceedings relate.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.EXHIBIT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.EXHIBIT" type="ext"/><emph typestyle="bf">exhibit</emph></defterm><defdesc>
+<p><text>includes a document or thing marked for identification (whether or not it is admitted in evidence).</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.INTERESTED-PARTY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.INTERESTED-PARTY" type="ext"/><emph typestyle="bf">interested party</emph></defterm><defdesc>
+<p><text>means an appellant or interested respondent.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.INTERESTED-RESPONDENT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.INTERESTED-RESPONDENT" type="ext"/><emph typestyle="bf">interested respondent</emph></defterm><defdesc>
+<p><text>means a respondent (other than a respondent who is a submitting party).</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE" type="ext"/><emph typestyle="bf">material date</emph></defterm><defdesc>
+<p><text>, in relation to a decision below to which a notice of intention to appeal or appeal proceedings relate, means:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of a judgment given in proceedings in the Supreme Court &#x2014; the date on which the judgment is given, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of any other judgment in proceedings in the Supreme Court &#x2014; the date of entry, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.C" type="ext"/>(c)</lilabel>
+<p><text>in the case of an order in proceedings in the Supreme Court &#x2014; the date on which the order is made, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.D" type="ext"/>(d)</lilabel>
+<p><text>in the case of a verdict in proceedings in the Supreme Court &#x2014; the date on which the verdict is given, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.MATERIAL-DATE.E" type="ext"/>(e)</lilabel>
+<p><text>in the case of any other decision (whether in proceedings in the Supreme Court or not) &#x2014; the date on which the decision is pronounced or given.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.NECESSARY-PARTY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.NECESSARY-PARTY" type="ext"/><emph typestyle="bf">necessary party</emph></defterm><defdesc>
+<p><text>means a person required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-4" remotekey1="REFPTID" service="DOC-ID">rule 51.4</remotelink>
+ to be joined in the proceedings.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.NOTICE-OF-INTENTION-TO-APPEAL"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.NOTICE-OF-INTENTION-TO-APPEAL" type="ext"/><emph typestyle="bf">notice of intention to appeal</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-6" remotekey1="REFPTID" service="DOC-ID">rule 51.6</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.ORANGE-BOOK"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.ORANGE-BOOK" type="ext"/><emph typestyle="bf">Orange Book</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-26.1.D" remotekey1="REFPTID" service="DOC-ID">rules 51.26(1)(d)</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-30" remotekey1="REFPTID" service="DOC-ID">51.30</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.PROPER-OFFICER"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.PROPER-OFFICER" type="ext"/><emph typestyle="bf">proper officer</emph></defterm><defdesc>
+<p><text>, in relation to a court or tribunal, means:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-2.PROPER-OFFICER.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.PROPER-OFFICER.A" type="ext"/>(a)</lilabel>
+<p><text>the registrar, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.PROPER-OFFICER.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.PROPER-OFFICER.B" type="ext"/>(b)</lilabel>
+<p><text>if there is no registrar, the officer who is responsible for the custody of records and exhibits in the proceedings concerned.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.PROSPECTIVE-RESPONDENT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.PROSPECTIVE-RESPONDENT" type="ext"/><emph typestyle="bf">prospective respondent</emph></defterm><defdesc>
+<p><text>, in relation to a notice of intention to appeal, means:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-2.PROSPECTIVE-RESPONDENT.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.PROSPECTIVE-RESPONDENT.A" type="ext"/>(a)</lilabel>
+<p><text>a party in the court below, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.PROSPECTIVE-RESPONDENT.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.PROSPECTIVE-RESPONDENT.B" type="ext"/>(b)</lilabel>
+<p><text>any other person who would be required by 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-4" remotekey1="REFPTID" service="DOC-ID">rule 51.4</remotelink>
+ to be joined in appeal proceedings.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.RED-BOOK"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.RED-BOOK" type="ext"/><emph typestyle="bf">Red Book</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-26.1.A" remotekey1="REFPTID" service="DOC-ID">rules 51.26(1)(a)</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-27" remotekey1="REFPTID" service="DOC-ID">51.27</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.REGISTRAR"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.REGISTRAR" type="ext"/><emph typestyle="bf">Registrar</emph></defterm><defdesc>
+<p><text>means the Registrar of the Court.</text></p>
+<glp:note id="UCPN.UCPR.UCPRN05.R51-2.1.REGISTRAR.LGN1">
+<heading><title>Note.</title></heading>
+<p>
+<text><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN.05.S8.3" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 13</remotelink>
+ of the Civil Procedure Act 2005 enables the Chief Justice of the Supreme Court, by instrument in writing, to direct that any function of the Court under that Act or these rules may be exercised by such registrars or other officers of the Supreme Court, and in such circumstances and subject to such conditions, as are specified in the instrument.</text></p></glp:note>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.RELEVANT-ORIGINATING-PROCESS"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.RELEVANT-ORIGINATING-PROCESS" type="ext"/><emph typestyle="bf">relevant originating process</emph></defterm><defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R51-2.RELEVANT-ORIGINATING-PROCESS.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.RELEVANT-ORIGINATING-PROCESS.A" type="ext"/>(a)</lilabel>
+<p><text>if leave to appeal or cross-appeal is required &#x2014; a summons seeking leave to appeal or a cross-summons seeking leave to cross-appeal, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R51-2.RELEVANT-ORIGINATING-PROCESS.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R51-2.RELEVANT-ORIGINATING-PROCESS.B" type="ext"/>(b)</lilabel>
+<p><text>in any other case &#x2014; a notice of appeal or cross-appeal.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.REPORTING-SERVICES-BRANCH"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.REPORTING-SERVICES-BRANCH" type="ext"/><emph typestyle="bf">Reporting Services Branch</emph></defterm><defdesc>
+<p><text>means the Reporting Services Branch of the Attorney General&#x2019;s Department.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.RESPONDENT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.RESPONDENT" type="ext"/><emph typestyle="bf">respondent</emph></defterm><defdesc>
+<p><text>means any party other than an appellant or applicant.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.SUBMITTING-PARTY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.SUBMITTING-PARTY" type="ext"/><emph typestyle="bf">submitting party</emph></defterm><defdesc>
+<p><text>means a party that has submitted to the judgment of the Court by filing a notice of appearance under 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-11" remotekey1="REFPTID" service="DOC-ID">rule 6.11</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.VERDICT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.VERDICT" type="ext"/><emph typestyle="bf">verdict</emph></defterm><defdesc>
+<p><text>includes a finding or assessment.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R51-2.WHITE-FOLDER"><defterm><refpt id="UCPN.UCPR.UCPRN05.R51-2.WHITE-FOLDER" type="ext"/><emph typestyle="bf">White Folder</emph></defterm><defdesc>
+<p><text>&#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-12.1" remotekey1="REFPTID" service="DOC-ID">rule 51.12(1)</remotelink>
+.</text></p>
+</defdesc></defitem></deflist>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT51.R2.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.51-2-5" leveltype="para0" subdoc="true" toc-caption="[51.2.5] Material date &#x2014; judgments and orders"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.51-2-5" type="ext"/>[51.2.5] </edpnum><title>Material date &#x2014; judgments and orders</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A judge may deliver reasons for judgment and stand the proceedings over for the making of formal orders and for any argument on costs. In such a case, the material date is the later date when the formal orders are actually made: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Erasmus v Jackson </emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWSC, Wootten J, 15 April 1975, unreported)</citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr011486" spanref="cr011486-001"><ci:reporter value="urj"/><ci:refnum num="BC201103234"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Blackmore v Browne</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWCA 114; <ci:span spanid="cr011486-001"> BC201103234</ci:span></citefragment> <remotelink dpsi="0018" refpt="533491" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (trial judge delivered reasons for judgment on 16 November 2010 and left it to the parties to calculate interest and costs; supplementary judgment on 1 December 2010 making orders &#x2014; material date was the date of making the orders).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.51-2-10" leveltype="para0" subdoc="true" toc-caption="[51.2.10] Material date &#x2014; verdicts"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.51-2-10" type="ext"/>[51.2.10] </edpnum><title>Material date &#x2014; verdicts</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The word &#x201c;verdict&#x201d; is generally used to refer to a jury decision. It is defined in UCPR r 51.2 to include a finding or assessment. The fact that the definition is inclusive suggests an extended meaning for the word, but the practical significance of any such extended meaning is not clear. Even where the trial is before a judge and jury, provisions such as SCA s 90 and DCA s 80 (which permit the court to require a jury to provide a special verdict on a particular question of fact) necessarily permit the court to proceed to give judgment in accordance with the special verdict. When a trial is conducted before a judge sitting alone, the judge does not pronounce a verdict but merely gives judgment or makes an order. (In such a case SCA s 8(1)(g) deems that any reference to &#x201c;verdict&#x201d; in the Supreme Court Act includes such a judgment.) The extended verdict definition may merely be intended to clarify the position that applies where some part of the proceedings are referred for final assessment after the determination of the principal questions of liability, for example, the assessment of damages in personal injury or contract proceedings, or the taking of accounts in partnership or trustee proceedings.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.51-2-15" leveltype="para0" subdoc="true" toc-caption="[51.2.15] Registrar of the Court of Appeal &#x2014; powers">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [51.2.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 13.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.51-2-15" type="ext"/>[51.2.15] </edpnum><title>Registrar of the Court of Appeal &#x2014; powers</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The powers of the Registrar of the Court of Appeal are the subject of a direction by the Chief Justice of the Supreme Court pursuant to CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S13" remotekey1="REFPTID" service="DOC-ID">s 13</remotelink></ci:content></ci:cite>
+: see [17,010] or at 
+<remotelink href="www.lawlink.nsw.gov.au/lawlink/Supreme_Court/ll_sc.nsf/vwPrint1/SCO_ca_registrar" hrefclass="http" newwindow="YES">http://www.lawlink.nsw.gov.au/lawlink/Supreme_Court/ll_sc.nsf/vwPrint1/SCO_ca_registrar</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R51-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 51.3] r 51.3 Application of rules to notices of cross-appeal (cf SCR Part 51, rule 18 (3))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R51-3" type="ext"/>[r 51.3]</edpnum><title searchtype="RUL-TITLE">Application of rules to notices of cross-appeal (cf SCR Part 51, rule 18 (3))</title><desig searchtype="RUL-NUM"><designum>51.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this Part (particularly, 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R5-17" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 51.17</remotelink>
+), the rules relating to a notice of appeal extend to a notice of cross-appeal with necessary modifications.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

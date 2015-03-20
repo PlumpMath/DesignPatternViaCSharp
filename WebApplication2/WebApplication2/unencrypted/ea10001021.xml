@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 2.2  DOCUMENTS [ss 47&#x2013;51]</docinfo:doc-heading><docinfo:doc-id>UCPN.EA.EAN95.C2.PT2-2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Evidence</title></heading><docinfo:hierlev role="ancestor"><heading><title>EVIDENCE ACT 1995 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>CHAPTER 2  ADDUCING EVIDENCE [ss 12&#x2013;54]</title></heading><docinfo:hierlev role="me"><heading><title>PART 2.2  DOCUMENTS [ss 47&#x2013;51]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110000070</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.EA"/><docinfo:metaitem name="parent-filename" value="ea.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_EA.SGM_UCPN.EA.EAN95"/><docinfo:metaitem name="parent-filename" value="ea1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 25, 1995</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">EVIDENCE ACT 1995 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.EA.EAN95.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.EA.EAN95.C2"><leg:level-vrnt leveltype="chapter" searchtype="LEGISLATION CHAPTER" subdoc="false" toc-caption="CHAPTER 2  ADDUCING EVIDENCE [ss 12&#x2013;54]"><leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.C2.PT2-2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2.2  DOCUMENTS [ss 47&#x2013;51]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.EA.EAN95.C2.PT2-2" type="ext"/>PART 2.2</designum></desig><title searchtype="PART-TITLE"> DOCUMENTS [ss 47&#x2013;51]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S47"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,390] s 47 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S47" type="ext"/>[50,390]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>47</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S47.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S47.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Part to a document in question is a reference to a document as to the contents of which it is sought to adduce evidence.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S47.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S47.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Part to a copy of a document in question includes a reference to a document that is not an exact copy of the document in question but that is identical to the document in question in all relevant respects.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S48"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,395] s 48 Proof of contents of documents">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S48" type="ext"/>[50,395]</edpnum><title searchtype="SECT-TITLE">Proof of contents of documents</title><desig searchtype="SECT-NUM"><designum>48</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S48.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S48.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party may adduce evidence of the contents of a document in question by tendering the document in question or by any one or more of the following methods:</text></p>
+<l><li id="UCPN.EA.EAN95.S48.1.A"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.A" type="ext"/>(a)</lilabel>
+<p><text>adducing evidence of an admission made by another party to the proceeding as to the contents of the document in question,</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S48.1.B"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.B" type="ext"/>(b)</lilabel>
+<p><text>tendering a document that:</text></p>
+<l><li id="UCPN.EA.EAN95.S48.1.B.I"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>is or purports to be a copy of the document in question, and</text></p>
+</li><li id="UCPN.EA.EAN95.S48.1.B.II"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>has been produced, or purports to have been produced, by a device that reproduces the contents of documents,</text></p>
+</li></l></li>
+<li id="UCPN.EA.EAN95.S48.1.C"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.C" type="ext"/>(c)</lilabel>
+<p><text>if the document in question is an article or thing by which words are recorded in such a way as to be capable of being reproduced as sound, or in which words are recorded in a code (including shorthand writing) &#x2014; tendering a document that is or purports to be a transcript of the words,</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S48.1.D"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.D" type="ext"/>(d)</lilabel>
+<p><text>if the document in question is an article or thing on or in which information is stored in such a way that it cannot be used by the court unless a device is used to retrieve, produce or collate it &#x2014; tendering a document that was or purports to have been produced by use of the device,</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S48.1.E"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.E" type="ext"/>(e)</lilabel>
+<p><text>tendering a document that:</text></p>
+<l><li id="UCPN.EA.EAN95.S48.1.E.I"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.E.I" type="ext"/>(i)</lilabel>
+<p><text>forms part of the records of or kept by a business (whether or not the business is still in existence), and</text></p>
+</li><li id="UCPN.EA.EAN95.S48.1.E.II"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.E.II" type="ext"/>(ii)</lilabel>
+<p><text>is or purports to be a copy of, or an extract from or a summary of, the document in question, or is or purports to be a copy of such an extract or summary,</text></p>
+</li></l></li>
+<li id="UCPN.EA.EAN95.S48.1.F"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.F" type="ext"/>(f)</lilabel>
+<p><text>if the document in question is a public document &#x2014; tendering a document that is or purports to be a copy of the document in question and that is or purports to have been printed:</text></p>
+<l><li id="UCPN.EA.EAN95.S48.1.F.I"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.F.I" type="ext"/>(i)</lilabel>
+<p><text>by a person authorised by or on behalf of the government to print the document or by the Government Printer of the Commonwealth or by the government or official printer of another State or a Territory, or</text></p>
+</li><li id="UCPN.EA.EAN95.S48.1.F.II"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.F.II" type="ext"/>(ii)</lilabel>
+<p><text>by the authority of the Government or administration of the State, the Commonwealth, another State, a Territory or a foreign country, or</text></p>
+</li><li id="UCPN.EA.EAN95.S48.1.F.III"><lilabel><refpt id="UCPN.EA.EAN95.S48.1.F.III" type="ext"/>(iii)</lilabel>
+<p><text>by authority of an Australian Parliament, a House of an Australian Parliament, a committee of such a House or a committee of an Australian Parliament.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S48.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S48.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S48.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ applies to a document in question whether the document in question is available to the party or not.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S48.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S48.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the party adduces evidence of the contents of a document under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S48.1.A" remotekey1="REFPTID" service="DOC-ID">subsection (1)(a)</remotelink></ci:content></ci:cite>
+, the evidence may only be used:</text></p>
+<l><li id="UCPN.EA.EAN95.S48.3.A"><lilabel><refpt id="UCPN.EA.EAN95.S48.3.A" type="ext"/>(a)</lilabel>
+<p><text>in respect of the party's case against the other party who made the admission concerned, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S48.3.B"><lilabel><refpt id="UCPN.EA.EAN95.S48.3.B" type="ext"/>(b)</lilabel>
+<p><text>in respect of the other party's case against the party who adduced the evidence in that way.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S48.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S48.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party may adduce evidence of the contents of a document in question that is not available to the party, or the existence and contents of which are not in issue in the proceeding, by:</text></p>
+<l><li id="UCPN.EA.EAN95.S48.4.A"><lilabel><refpt id="UCPN.EA.EAN95.S48.4.A" type="ext"/>(a)</lilabel>
+<p><text>tendering a document that is a copy of, or an extract from or summary of, the document in question, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S48.4.B"><lilabel><refpt id="UCPN.EA.EAN95.S48.4.B" type="ext"/>(b)</lilabel>
+<p><text>adducing from a witness evidence of the contents of the document in question.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs 4  am Act No 53 of 2000  Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Notes:</title></heading>
+<p>
+<l>
+<li><lilabel>1</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT2.CL5" remotekey1="REFPTID" service="DOC-ID">Clause 5</remotelink></ci:content></ci:cite>
+ of Part 2 of the Dictionary is about the availability of documents.</text></p>
+</li>
+<li><lilabel>2</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S182" remotekey1="REFPTID" service="DOC-ID">Section 182</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act gives 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S48" remotekey1="REFPTID" service="DOC-ID">section 48</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act a wider application in relation to Commonwealth records and certain Commonwealth documents.</text></p>
+</li>
+</l></p></glp:note>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S48.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50395-5" leveltype="para0" subdoc="true" toc-caption="[50,395.5] ALRC reference"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50395-5" type="ext"/>[50,395.5] </edpnum><title>ALRC reference</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>ALRC 26 vol 1 paras 654&#x2013;656</text></p>
+<p>
+<blockquote>
+<p i="9" indent="hang"><text>&#x2002;ALRC 38 para 229</text></p></blockquote></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50395-10" leveltype="para0" subdoc="true" toc-caption="[50,395.10] Defined terms">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,395.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> cl 5.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50395-10" type="ext"/>[50,395.10] </edpnum><title>Defined terms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The term &#x201c;document&#x201d; is defined in the Dictionary. The circumstances in which documents are to be taken as &quot;available&quot; to parties are set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT2.CL5" remotekey1="REFPTID" service="DOC-ID">cl 5</remotelink></ci:content></ci:cite>
+ of Pt 2 of the Dictionary.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50395-15" leveltype="para0" subdoc="true" toc-caption="[50,395.15] Copy documents">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,395.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1898-11" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1898</remotelink> s 34.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50395-15" type="ext"/>[50,395.15] </edpnum><title>Copy documents</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>There have been long standing provisions allowing the tender of machine copies of documents: eg, Evidence Act 1898 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EAN.S34" remotekey1="REFPTID" service="DOC-ID" status="unval">s 34</remotelink></ci:content></ci:cite>
+. Those provisions required the court to be satisfied that the copy had been made from the original, but expressly dispensed with any requirement that the copy had been compared with the original: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1894"/></ci:caseinfo><ci:caseref ID="cr000325" spanref="cr000325-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="10"/><ci:page num="146"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Fanning v Griffiths</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000325-001" status="unval">(1894) 10 WN (NSW) 146</ci:span></citefragment></ci:content></ci:cite>. The present section, having regard to the court's power to admit documents that purport to be copies of an original, is consistent with the previous statutory provisions.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50395-20" leveltype="para0" subdoc="true" toc-caption="[50,395.20] Secondary evidence"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50395-20" type="ext"/>[50,395.20] </edpnum><title>Secondary evidence</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under the common law, the &#x201c;best evidence rule&#x201d; restricted the circumstances in which secondary evidence could be given of the contents of a document: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1962"/></ci:caseinfo><ci:caseref ID="cr000326" spanref="cr000326-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="106"/><ci:page num="535"/></ci:caseref><ci:caseref ID="cr000327" spanref="cr000327-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1962"/></ci:edition><ci:page num="406"/></ci:caseref><ci:caseref ID="cr000328" spanref="cr000328-003" status="unval"><ci:reporter value="ALJR"/><ci:volume num="35"/><ci:page num="416"/></ci:caseref><ci:caseref ID="cr000329" spanref="cr000329-004"><ci:reporter value="urj"/><ci:refnum num="BC6200060"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Commissioner for Railways (NSW) v Young</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000326-001" status="unval">(1962) 106 CLR 535</ci:span>; <ci:span spanid="cr000327-002" status="unval">[1962] ALR 406</ci:span>; <ci:span spanid="cr000328-003" status="unval">(1962) 35 ALJR 416</ci:span>; <ci:span spanid="cr000329-004"> BC6200060</ci:span></citefragment> <remotelink dpsi="0018" refpt="12412" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1820"/></ci:caseinfo><ci:caseref ID="cr000330" spanref="cr000330-001" status="unval"><ci:reporter value="B&amp;Ald"/><ci:volume num="3"/><ci:page num="566"/></ci:caseref><ci:caseref ID="cr000331" spanref="cr000331-002" status="unval"><ci:reporter value="ER"/><ci:volume num="106"/><ci:page num="768"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Hunt</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000330-001" status="unval">(1820) 3 B &amp; Ald 566</ci:span>; <ci:span spanid="cr000331-002" status="unval">106 ER 768</ci:span></citefragment></ci:content></ci:cite>. However, the failure of a party to produce a document allowed the opposing party to give secondary evidence of its contents: see 
+<remotelink dpsi="05CC" refpt="UCPN.EA.50395-20" remotekey1="REFPTID" service="DOC-ID">[50,275.10]</remotelink>
+. The present section adopts substantially the same approach by allowing a party to give secondary evidence of the contents of documents that are not available to the party: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000332" spanref="cr000332-001" status="unval"><ci:reporter value="NSWIRComm"/><ci:edition><ci:date year="2003"/></ci:edition><ci:page num="148"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Campbell v Hitchcock</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000332-001" status="unval">[2003] NSWIRComm 148</ci:span></citefragment> <remotelink dpsi="0018" refpt="389539" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000333" spanref="cr000333-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200406795"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Roads and Traffic Authority of NSW v Tetley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2004] NSWSC 925; <ci:span spanid="cr000333-001" status="unval"> BC200406795</ci:span></citefragment> <remotelink dpsi="0018" refpt="387652" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50395-25" leveltype="para0" subdoc="true" toc-caption="[50,395.25] Authenticity of documents"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50395-25" type="ext"/>[50,395.25] </edpnum><title>Authenticity of documents</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This section does not dispense with the need to establish the authenticity of documents, for example, where the relevance of a document depends on its authenticity as a record of business. Depending on the circumstances, it may be that neither the form nor the content of the document, nor even its production under subpoena, provide a sufficient basis for determining the authenticity of the document: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000334" spanref="cr000334-001" status="unval"><ci:volume num=""/><ci:page num=""/></ci:caseref><ci:caseref ID="cr000335" spanref="cr000335-002"><ci:reporter value="urj"/><ci:refnum num="BC9902958"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">National Australia Bank Ltd v Rusu</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000334-001" status="unval">(1999) 47 NSWLR 309</ci:span> esp at 314&#x2013;315; [1999] NSWSC 539; <ci:span spanid="cr000335-002"> BC9902958</ci:span></citefragment> <remotelink dpsi="0018" refpt="298509" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. In the case of a transcript of a tape recording, no oral or other evidence is required in order to authenticate the document, it is sufficient if it purports to be a transcript of the words spoken: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2002"/></ci:caseinfo><ci:caseref ID="cr000336" spanref="cr000336-001" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="140"/><ci:page num="1"/></ci:caseref><ci:caseref ID="cr000337" spanref="cr000337-002"><ci:reporter value="urj"/><ci:refnum num="BC200204619"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Giovannone</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000336-001" status="unval">(2002) 140 A Crim R 1</ci:span>; [2002] NSWCCA 323; <ci:span spanid="cr000337-002"> BC200204619</ci:span></citefragment> <remotelink dpsi="0018" refpt="350623" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000338" spanref="cr000338-001"><ci:reporter value="urj"/><ci:refnum num="BC9902633"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Cassar</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [1999] NSWSC 436; <ci:span spanid="cr000338-001"> BC9902633</ci:span></citefragment> <remotelink dpsi="0018" refpt="296677" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The fact that a document may be a &#x201c;copy of a copy&#x201d; does not prevent it from being a &#x201c;copy&#x201d; within the meaning of s 48(4): see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000339" spanref="cr000339-001"><ci:reporter value="urj"/><ci:refnum num="BC200205032"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lewis v Nortex Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWSC 337; <ci:span spanid="cr000339-001"> BC200205032</ci:span></citefragment> <remotelink dpsi="0018" refpt="351287" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S49"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,400] s 49 Documents in foreign countries">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S49" type="ext"/>[50,400]</edpnum><title searchtype="SECT-TITLE">Documents in foreign countries</title><desig searchtype="SECT-NUM"><designum>49<fnr fnrtoken="UCPN.EA.EAN95.S49.FT1-R" fntoken="UCPN.EA.EAN95.S49.FT1">*</fnr></designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>No paragraph of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S48.1" remotekey1="REFPTID" service="DOC-ID">section 48(1)</remotelink></ci:content></ci:cite>
+ (other than 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S48.1.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+) applies to a document that is in a foreign country unless:</text></p>
+<l><li id="UCPN.EA.EAN95.S49..A"><lilabel><refpt id="UCPN.EA.EAN95.S49..A" type="ext"/>(a)</lilabel>
+<p><text>the party who adduces evidence of the contents of the document in question has, not less than 28 days (or such other period as may be prescribed by the regulations or by rules of court) before the day on which the evidence is adduced, served on each other party a copy of the document proposed to be tendered, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S49..B"><lilabel><refpt id="UCPN.EA.EAN95.S49..B" type="ext"/>(b)</lilabel>
+<p><text>the court directs that it is to apply.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S182" remotekey1="REFPTID" service="DOC-ID">Section 182</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act gives 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S49" remotekey1="REFPTID" service="DOC-ID">section 49</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act a wider application in relation to Commonwealth records and certain Commonwealth documents.</text></p></glp:note><leg:histnote>
+<p><text>[s 49  am Act No 53 of 2000  Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S50"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,405] s 50 Proof of voluminous or complex documents">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S50" type="ext"/>[50,405]</edpnum><title searchtype="SECT-TITLE">Proof of voluminous or complex documents</title><desig searchtype="SECT-NUM"><designum>50</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S50.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S50.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, on the application of a party, direct that the party may adduce evidence of the contents of 2 or more documents in question in the form of a summary if the court is satisfied that it would not otherwise be possible conveniently to examine the evidence because of the volume or complexity of the documents in question.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst Act No 46 of 2007  s 3 and Sch 1[13], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S50.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S50.2" type="ext"/>(2)<fnr fnrtoken="UCPN.EA.EAN95.S50.2.FT2-R" fntoken="UCPN.EA.EAN95.S50.2.FT2">**</fnr></designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may only make such a direction if the party seeking to adduce the evidence in the form of a summary has:</text></p>
+<l><li id="UCPN.EA.EAN95.S50.2.A"><lilabel><refpt id="UCPN.EA.EAN95.S50.2.A" type="ext"/>(a)</lilabel>
+<p><text>served on each other party a copy of the summary that discloses the name and address of the person who prepared the summary, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S50.2.B"><lilabel><refpt id="UCPN.EA.EAN95.S50.2.B" type="ext"/>(b)</lilabel>
+<p><text>given each other party a reasonable opportunity to examine or copy the documents in question.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S50.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S50.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The opinion rule does not apply to evidence adduced in accordance with a direction under this section.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S50.COM1" type="ext"/>NOTE</title></heading>
+<bodytext searchtype="COMMENTARY">
+<footnotegrp><footnote fnrtokens="UCPN.EA.EAN95.S49.FT1-R" fntoken="UCPN.EA.EAN95.S49.FT1" type="default"><fnlabel>*</fnlabel><fnbody>
+<h>Editor's note:</h>
+<p><refpt id="UCPN.EA.EAN95.S49.FT1" type="ext"/>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S49..A" remotekey1="REFPTID" service="DOC-ID">Sections 49(a)</remotelink></ci:content></ci:cite>
+ is a notification provision for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.SCH2.PT2.CL3.1" remotekey1="REFPTID" service="DOC-ID">Sch 2 Pt 2 cl 3(1)</remotelink></ci:content></ci:cite>
+ of the Evidence Act 1995, reproduced at 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.SCH2" remotekey1="REFPTID" service="DOC-ID">[51,865]</remotelink></ci:content></ci:cite>
+.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.EA.EAN95.S50.2.FT2-R" fntoken="UCPN.EA.EAN95.S50.2.FT2" type="default"><fnlabel>**</fnlabel><fnbody>
+<h>Editor's note:</h>
+<p><refpt id="UCPN.EA.EAN95.S50.2.FT2" type="ext"/>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S50.2.A" remotekey1="REFPTID" service="DOC-ID">Section 50(2)(a)</remotelink></ci:content></ci:cite>
+ is a notification provision for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.SCH2.PT2.CL4" remotekey1="REFPTID" service="DOC-ID">Sch 2 Pt 2 cl 4</remotelink></ci:content></ci:cite>
+ of the Evidence Act 1995, reproduced at 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.SCH2" remotekey1="REFPTID" service="DOC-ID">[51,865]</remotelink></ci:content></ci:cite>
+.</text></p></fnbody></footnote></footnotegrp>
+</bodytext>
+<level id="UCPN_EA.SGM_UCPN.EA.50405-5" leveltype="para0" subdoc="true" toc-caption="[50,405.5] Voluminous or complex documents"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50405-5" type="ext"/>[50,405.5] </edpnum><title>Voluminous or complex documents</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The section makes no provision for the time when an application must be made. Importantly, it does not require that such application can only be made <emph typestyle="it">before</emph> the commencement of the hearing.</text></p>
+<p>
+<text>It has been observed in the context of a similar provision in Victoria that the construction of s 50 should be approached on the basis that it should not be given a restrictive or narrow interpretation: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2011"/></ci:caseinfo><ci:caseref ID="cr000340" spanref="cr000340-001"><ci:reporter value="ACSR"/><ci:volume num="85"/><ci:page num="144"/></ci:caseref><ci:caseref ID="cr000341" spanref="cr000341-002"><ci:reporter value="urj"/><ci:refnum num="BC201106038"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Thackray v Gunns Plantations Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000340-001">(2011) 85 ACSR 144</ci:span>; [2011] VSC 380; <ci:span spanid="cr000341-002"> BC201106038</ci:span></citefragment> <remotelink dpsi="0018" refpt="537577" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000342" spanref="cr000342-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC201203607"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">In the matter of Idylic Solutions Pty Ltd; Australian Securities and Investments Commission v Hobbs</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 568; <ci:span spanid="cr000342-001" status="unval"> BC201203607</ci:span></citefragment> <remotelink dpsi="0018" refpt="553502" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and the authorities cited therein <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000343" spanref="cr000343-000" status="unval"><ci:reporter value="urj"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="19" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000343-000" status="unval">at [19]</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S51"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,410] s 51 Original document rule abolished">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S51" type="ext"/>[50,410]</edpnum><title searchtype="SECT-TITLE">Original document rule abolished</title><desig searchtype="SECT-NUM"><designum>51</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The principles and rules of the common law that relate to the means of proving the contents of documents are abolished.</text></p>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EA95.S182" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 182</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act gives the provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EA95.PT2.2" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 2.2</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act a wider application in relation to Commonwealth records and certain Commonwealth documents.</text></p></glp:note><leg:histnote>
+<p><text>[s 51  am Act No 53 of 2000  Sch 1]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S51.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50410-5" leveltype="para0" subdoc="true" toc-caption="[50,410.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50410-5" type="ext"/>[50,410.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The abolition, by s 51, of the common law rules as to proof of the contents of documents does not abolish, or in any way affect, the need to prove in a particular case that a document which is tendered is, in fact, the document it purports to be: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1999"/></ci:caseinfo><ci:caseref ID="cr000344" spanref="cr000344-001"><ci:reporter value="NSWLR"/><ci:volume num="47"/><ci:page num="309"/></ci:caseref><ci:caseref anaphref="cr000344" spanref="cr000344-002" status="unval"><ci:pinpoint num="314" targettype="page"/></ci:caseref><ci:caseref ID="cr000345" spanref="cr000345-003"><ci:reporter value="urj"/><ci:refnum num="BC9902958"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">National Australia Bank v Rusu</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000344-001">(1999) 47 NSWLR 309</ci:span> <ci:span spanid="cr000344-002" status="unval">at 314</ci:span>; [1999] NSWSC 539; <ci:span spanid="cr000345-003"> BC9902958</ci:span></citefragment> <remotelink dpsi="0018" refpt="298509" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

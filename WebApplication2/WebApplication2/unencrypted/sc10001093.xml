@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[SCA Sch 3] THIRD SCHEDULE CRIMINAL PROCEEDINGS</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCA70.SCH3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT ACT 1970</title></heading><docinfo:hierlev role="me"><heading><title>[SCA Sch 3] THIRD SCHEDULE CRIMINAL PROCEEDINGS</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70000310</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCA70"/><docinfo:metaitem name="parent-filename" value="sc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 50, 1970</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT ACT 1970</leg:officialname></leg:info><leg:level id="UCPN.SC.SCA70.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN_SC.SGM_SCHEDULE.GRP_1"><leg:level-vrnt leveltype="schedulegrp" searchtype="LEGISLATION SCHEDULEGRP"><leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.SCH3"><leg:level-vrnt leveltype="schedule" searchtype="LEGISLATION SCHEDULE" subdoc="false" toc-caption="[SCA Sch 3] THIRD SCHEDULE CRIMINAL PROCEEDINGS">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><edpnum><refpt id="UCPN.SC.SCA70.SCH3" type="ext"/>[SCA Sch 3]</edpnum><desig searchtype="SCH-NUM"><designum>THIRD SCHEDULE</designum></desig><title searchtype="SCH-TITLE">CRIMINAL PROCEEDINGS</title><leg:histnote>
+<p><text>[heading  am Act 88 of 1979  s 3 and Sch 1]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p>
+<text>Proceedings in the Court for the prosecution of offenders on indictment (&#x201c;indictment&#x201d; including any information presented or filed as provided by law for the prosecution of offenders) including the sentencing or otherwise dealing with persons convicted;</text><leg:histnote>
+<p><text>[para (a)  am Act 250 of 1987  s 3 and Sch 2 ; Act 20 of 1988  s 3 and Sch 18]</text></p></leg:histnote></p></li>
+<li><lilabel>(a1)</lilabel>
+<p>
+<text>proceedings (including committal proceedings) for the prosecution of offenders on indictment (&#x201c;indictment&#x201d; including any information presented or filed as provided by law for the prosecution of offenders) in the Court or in the District Court;</text><leg:histnote>
+<p><text>[para (a1)  subst Act 20 of 1988  s 3 and Sch 18]</text></p></leg:histnote></p></li>
+<li><lilabel>(a2)</lilabel>
+<p>
+<text>proceedings (whether in the Court or the District Court) under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPROC.C3.PT2.D5" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 5</remotelink></ci:content></ci:cite>
+ of Part 2 of Chapter 3 of the Criminal Procedure Act 1986.</text><leg:histnote>
+<p><text>[para (a2)  insrt Act 20 of 1988  s 3 and Sch 18 ; am Act 121 of 2001  s 4 and Sch 2, effective 7 July 2003]</text></p></leg:histnote></p></li>
+<li><lilabel>(b)</lilabel>
+<p>
+<text>gaol delivery;</text></p></li>
+<li><lilabel>(c)</lilabel>
+<p>
+<text>proceedings in the Court under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CM.CAN" remotekey1="REFPTID" service="DOC-ID">Crimes Act 1900</remotelink></ci:content></ci:cite>
+, other than proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CM.CAN.S88" remotekey1="REFPTID" service="DOC-ID">section 88</remotelink></ci:content></ci:cite>
+ of that Act and applications for leave to institute prosecutions under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CM.CAN.S172" remotekey1="REFPTID" service="DOC-ID" status="unval">section 172</remotelink></ci:content></ci:cite>
+ of that Act;</text><leg:histnote>
+<p><text>[para (c)  am Act 153 of 1984  s 5 and Sch 16 ; subst Act No 94 of 1999  Sch 4.56]</text></p></leg:histnote></p></li>
+<li><lilabel>(d)</lilabel>
+<p>
+<text>proceedings in the Court under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.APP.CRIMAP" remotekey1="REFPTID" service="DOC-ID">Criminal Appeal Act of 1912</remotelink></ci:content></ci:cite>
+;</text></p></li>
+<li><lilabel>(e)</lilabel>
+<p><leg:histnote>
+<p><text>[para (e)  rep Act 1 of 2013  Sch 1 item 1.18[3], effective 28 February 2013]</text></p></leg:histnote></p></li>
+<li><lilabel>(f)</lilabel>
+<p>
+<text>proceedings in the Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CL.CHCP.PT2" remotekey1="REFPTID" service="DOC-ID">Part 2</remotelink></ci:content></ci:cite>
+ of the Children (Criminal Proceedings) Act 1987;</text><leg:histnote>
+<p><text>[para (f)  am Act 58 of 1987  s 7 and Sch 3]</text></p></leg:histnote></p></li>
+<li><lilabel>(g)</lilabel>
+<p>
+<text>proceedings in the Court under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.OLNSW.HCRIM" remotekey1="REFPTID" service="DOC-ID">Habitual Criminals Act 1957</remotelink></ci:content></ci:cite>
+;</text></p></li>
+<li><lilabel>(h)</lilabel>
+<p>
+<text>proceedings in the Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MHA58.S23" remotekey1="REFPTID" service="DOC-ID" status="unval">section twenty-three</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MHA58.S26" remotekey1="REFPTID" service="DOC-ID" status="unval">section twenty-six</remotelink></ci:content></ci:cite>
+ of the Mental Health Act 1958;</text></p></li>
+<li><lilabel>(i)</lilabel>
+<p>
+<text>proceedings in the Court for the grant of certificate under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.DE.CCCA" remotekey1="REFPTID" service="DOC-ID">Costs in Criminal Cases Act 1967</remotelink></ci:content></ci:cite>
+;</text></p></li>
+<li><lilabel>(j)</lilabel>
+<p><leg:histnote>
+<p><text>[para (j)  rep Act 238 of 1987  s 4 and Sch 1]</text></p></leg:histnote></p></li>
+<li><lilabel>(k)</lilabel>
+<p><leg:histnote>
+<p><text>[para (k)  rep Act 96 of 1979  s 7]</text></p></leg:histnote></p></li>
+</l></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

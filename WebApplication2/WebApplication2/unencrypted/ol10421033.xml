@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 9 OFFENCES [ss 60&#x2013;71]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.JURAN.PT9</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>JURY ACT 1977 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 9 OFFENCES [ss 60&#x2013;71]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140210110</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.JURAN"/><docinfo:metaitem name="parent-filename" value="ol1042.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 18, 1977</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">JURY ACT 1977 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.JURAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.PT9"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 9 OFFENCES [ss 60&#x2013;71]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.JURAN.PT9" type="ext"/>PART 9</designum></desig><title searchtype="PART-TITLE">OFFENCES [ss 60&#x2013;71]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S60"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,670] s 60 Definition">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S60" type="ext"/>[345,670]</edpnum><title searchtype="SECT-TITLE">Definition</title><desig searchtype="SECT-NUM"><designum>60</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S60.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S60.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Part to a person who fails to attend for jury service is a reference to a person who&#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S60.1.A"><lilabel><refpt id="UCPN.OL.JURAN.S60.1.A" type="ext"/>(a)</lilabel>
+<p><text>is duly summoned to attend at a court or coronial inquest;</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S60.1.B"><lilabel><refpt id="UCPN.OL.JURAN.S60.1.B" type="ext"/>(b)</lilabel>
+<p><text>fails to attend on the first or on any subsequent day on which the persons attendance is required; and</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S60.1.C"><lilabel><refpt id="UCPN.OL.JURAN.S60.1.C" type="ext"/>(c)</lilabel>
+<p><text>is not duly excused from that attendance.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 95 of 1994  s 3 and Sch 3 ; Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S60.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S60.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the sheriff notifies a person of an alteration in the time or place at which the person is required by a summons to attend for jury service, the person does not fail to attend for jury service for the purposes of this Part if the person attends at the altered time or place as so notified to the person.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  insrt Act 34 of 1981  Sch 1 ; am Act 95 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S61"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,675] s 61 Offences relating to responding to questionnaire">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S61" type="ext"/>[345,675]</edpnum><title searchtype="SECT-TITLE">Offences relating to responding to questionnaire</title><desig searchtype="SECT-NUM"><designum>61</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S61.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S61.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who is sent a notice under section 13 about the person's inclusion on a supplementary jury roll and who is required to return to the sheriff the questionnaire included in the notice must not, except with good cause, fail to do so within the time specified in the notice.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S61.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S61.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The person must not, except with good cause, return such a questionnaire to the sheriff without complete answers to all of the questions in it.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S61.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S61.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The person must not return such a questionnaire to the sheriff if it contains any answer or other information that the person knows to be false or misleading in a material respect.</text></p>
+<p><text>Maximum penalty: 10 penalty units.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 61  subst Act 4 of 1996  s 4 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S62"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,680] s 62 Supply of false or misleading information to sheriff">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S62" type="ext"/>[345,680]</edpnum><title searchtype="SECT-TITLE">Supply of false or misleading information to sheriff</title><desig searchtype="SECT-NUM"><designum>62</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S62.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S62.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person must not provide any information to the sheriff that the person knows to be false or misleading in a material respect:</text></p>
+<l><li id="UCPN.OL.JURAN.S62.1.A"><lilabel><refpt id="UCPN.OL.JURAN.S62.1.A" type="ext"/>(a)</lilabel>
+<p><text>when claiming to be disqualified from serving as a juror or to be ineligible to serve as a juror or to be entitled as of right to be exempted from serving as a juror, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S62.1.B"><lilabel><refpt id="UCPN.OL.JURAN.S62.1.B" type="ext"/>(b)</lilabel>
+<p><text>when claiming otherwise that the person is not or will not be available for jury service.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S62.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S62.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person must not cause or permit any representation the person knows to be false or misleading in a material respect to be made to the sheriff on the person's behalf, or on behalf of another person, for the purpose of evading jury service.</text></p>
+<p><text>Maximum penalty: 10 penalty units.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 62  subst Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S62A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,685] s 62A Failure to inform sheriff of disqualification or ineligibility">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S62A" type="ext"/>[345,685]</edpnum><title searchtype="SECT-TITLE">Failure to inform sheriff of disqualification or ineligibility</title><desig searchtype="SECT-NUM"><designum>62A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person summoned to attend at a court or coronial inquest who knows that he or she is disqualified from serving as a juror or ineligible to serve as a juror must, before the day on which the person's attendance is required, inform the sheriff of that fact and the reason for the disqualification or ineligibility.</text></p>
+<p><text>Maximum penalty: 10 penalty units.</text></p>
+<leg:histnote>
+<p><text>[s 62A  insrt Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S63"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,690] s 63 Failure to attend for jury service">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S63" type="ext"/>[345,690]</edpnum><title searchtype="SECT-TITLE">Failure to attend for jury service</title><desig searchtype="SECT-NUM"><designum>63</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S63.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S63.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64" remotekey1="REFPTID" service="DOC-ID">sections 64</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S66" remotekey1="REFPTID" service="DOC-ID">66</remotelink></ci:content></ci:cite>
+ , a person who fails to attend for jury service contravenes this section and is liable to a penalty not exceeding 20 penalty units.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S63.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S63.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings for an offence under this section, a document purporting to be signed by the sheriff and to certify:</text></p>
+<l><li id="UCPN.OL.JURAN.S63.2.A"><lilabel><refpt id="UCPN.OL.JURAN.S63.2.A" type="ext"/>(a)</lilabel>
+<p><text>that a specified person is recorded as having failed to attend for jury service, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S63.2.B"><lilabel><refpt id="UCPN.OL.JURAN.S63.2.B" type="ext"/>(b)</lilabel>
+<p><text>that a specified person has declined to be dealt with under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64" remotekey1="REFPTID" service="DOC-ID">section 64</remotelink></ci:content></ci:cite>
+ ,</text></p>
+</li>
+</l>
+<p><text>is evidence of the matter so certified.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  insrt Act 4 of 1996  s 3 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S63.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S63.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>It is a defence to a prosecution for an offence under this section if the person prosecuted proves that the person had a reasonable excuse for his or her failure to attend for jury service.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  insrt Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 63  am Act 286 of 1987  s 3 and Sch 1 ; Act 20 of 1988  s 3 and Sch 7 ; Act 108 of 1990  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S64"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,695] s 64 Procedure for failure to attend for jury service">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S64" type="ext"/>[345,695]</edpnum><title searchtype="SECT-TITLE">Procedure for failure to attend for jury service</title><desig searchtype="SECT-NUM"><designum>64</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S64.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S64.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a person fails to attend for jury service at a court or coronial inquest, a record of that fact is to be made on the relevant panel by order of the court, of the coroner holding the inquest or of any court in which trials for which the panel was prepared are held.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S64.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S64.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The sheriff shall serve, on a person who is recorded under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ as having failed to attend for jury service, a notice to the effect that, if the person does not desire to have the matter referred to a court, the person&#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S64.2.A"><lilabel><refpt id="UCPN.OL.JURAN.S64.2.A" type="ext"/>(a)</lilabel>
+<p><text>pay to an officer specified in the notice at a place and within a time specified in the notice an amount of penalty equal to 10 penalty units prescribed for that failure if dealt with under this section; or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S64.2.B"><lilabel><refpt id="UCPN.OL.JURAN.S64.2.B" type="ext"/>(b)</lilabel>
+<p><text>show cause to the sheriff within the time specified in the notice why a penalty should not be imposed for that failure.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act 286 of 1987  s 3 and Sch 1 ; Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S64.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S64.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The sheriff may require a person who shows cause under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64.2.B" remotekey1="REFPTID" service="DOC-ID">subsection (2)(b)</remotelink></ci:content></ci:cite>
+ to verify the persons statements by statutory declaration.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 95 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S64.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S64.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the sheriff determines that a person has not shown reasonable cause under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64.2.B" remotekey1="REFPTID" service="DOC-ID">subsection (2)(b)</remotelink></ci:content></ci:cite>
+ for the persons failure to attend for jury service, the sheriff shall inform that person accordingly and specify a further period of time within which the person may pay the amount of penalty referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64.2.A" remotekey1="REFPTID" service="DOC-ID">subsection (2)(a)</remotelink></ci:content></ci:cite>
+ .</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 95 of 1994  s 3 and Sch 3 ; Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S64.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S64.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person served with a notice under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ &#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S64.5.A"><lilabel><refpt id="UCPN.OL.JURAN.S64.5.A" type="ext"/>(a)</lilabel>
+<p><text>has the right to decline to be dealt with under this section; and</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S64.5.B"><lilabel><refpt id="UCPN.OL.JURAN.S64.5.B" type="ext"/>(b)</lilabel>
+<p><text>shall be deemed to have declined to be so dealt with if the person does not show reasonable cause under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64.2.B" remotekey1="REFPTID" service="DOC-ID">subsection (2)(b)</remotelink></ci:content></ci:cite>
+ for the persons failure to attend for jury service within the time specified in the notice and if the person fails to pay the relevant amount of penalty within the time specified in the notice or within such further time as may, under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ or in any particular case, be allowed by the sheriff.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (5)  am Act 95 of 1994  s 3 and Sch 3 ; Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S64.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S64.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the relevant amount of penalty is paid pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64.2.A" remotekey1="REFPTID" service="DOC-ID">subsection (2)(a)</remotelink></ci:content></ci:cite>
+ , no person shall be liable for any further proceedings for that failure to attend for jury service.</text></p>
+<leg:histnote>
+<p><text>[subs (6)  am Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S65"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,700] s 65 Imposition of penalty by judge for failure to attend for jury service at a court or jury pool">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S65" type="ext"/>[345,700]</edpnum><title searchtype="SECT-TITLE">Imposition of penalty by judge for failure to attend for jury service at a court or jury pool</title><desig searchtype="SECT-NUM"><designum>65</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 65  rep Act 20 of 1988  s 3 and Sch 7]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S66"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,705] s 66 Penalty notices for failure to attend jury service">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S66" type="ext"/>[345,705]</edpnum><title searchtype="SECT-TITLE">Penalty notices for failure to attend jury service</title><desig searchtype="SECT-NUM"><designum>66</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S66.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S66.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If it appears to the sheriff or a person prescribed by the regulations that a person has contravened 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S61" remotekey1="REFPTID" service="DOC-ID">section 61</remotelink></ci:content></ci:cite>
+ , or has declined to be dealt with under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S64" remotekey1="REFPTID" service="DOC-ID">section 64</remotelink></ci:content></ci:cite>
+ in respect of a failure to attend for jury service, the sheriff or prescribed person may serve a penalty notice on the person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S66.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S66.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A penalty notice is a notice to the effect that, if the person served does not wish to have the alleged contravention of section 61 or 63 dealt with by a court, the person may pay, within the time and to the person specified in the notice, the penalty of:</text></p>
+<l><li id="UCPN.OL.JURAN.S66.2.A"><lilabel><refpt id="UCPN.OL.JURAN.S66.2.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of an alleged contravention of section 61 &#x2014; 5 penalty units, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S66.2.B"><lilabel><refpt id="UCPN.OL.JURAN.S66.2.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of an alleged contravention of section 63 &#x2014; 15 penalty units.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  subst Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S66.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S66.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the relevant penalty for the alleged offence is paid in accordance with this section, no person is liable to any further proceedings for the alleged offence.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S66.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S66.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Payment in accordance with this section is not to be regarded as an admission of liability for the purposes of, nor is in any way to affect or prejudice, any civil claim, action or proceeding arising out of the same occurrence.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S66.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S66.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (5)  rep Act 39 of 1999  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S66.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S66.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not limit the operation of this or any other Act in relation to proceedings that may be taken in respect of offences.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 66  subst Act 4 of 1996  s 3 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S67"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,710] s 67 Personation of jurors">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S67" type="ext"/>[345,710]</edpnum><title searchtype="SECT-TITLE">Personation of jurors</title><desig searchtype="SECT-NUM"><designum>67</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any person who personates a juror is guilty of an offence.</text></p>
+<p><text>Penalty: 50 penalty units.</text></p>
+<leg:histnote>
+<p><text>[s 67  subst Act 51 of 1990  s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S67A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,715] s 67A Inspection of panel">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S67A" type="ext"/>[345,715]</edpnum><title searchtype="SECT-TITLE">Inspection of panel</title><desig searchtype="SECT-NUM"><designum>67A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S67A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S67A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person must not inspect, or make available to any other person, a panel or card prepared for the purposes of this Act by the sheriff.</text></p>
+<p><text>Maximum penalty: 10 penalty units.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S67A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S67A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not apply to anything inspected or made available to another person&#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S67A.2.A"><lilabel><refpt id="UCPN.OL.JURAN.S67A.2.A" type="ext"/>(a)</lilabel>
+<p><text>for the purposes of executing this Act.</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S67A.2.B"><lilabel><refpt id="UCPN.OL.JURAN.S67A.2.B" type="ext"/>(b)</lilabel>
+<p><text>[<emph typestyle="it">repealed</emph> ]</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S67A.2.C"><lilabel><refpt id="UCPN.OL.JURAN.S67A.2.C" type="ext"/>(c)</lilabel>
+<p><text>[<emph typestyle="it">repealed</emph> ]</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act 15 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 67A  insrt Act 286 of 1987  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,720] s 68 Disclosure etc of identity or address of juror">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S68" type="ext"/>[345,720]</edpnum><title searchtype="SECT-TITLE">Disclosure etc of identity or address of juror</title><desig searchtype="SECT-NUM"><designum>68</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S68.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person shall not, except in accordance with this Act, wilfully publish any material, broadcast any matter or otherwise disclose any information which is likely to lead to the identification of a juror or former juror in a particular trial or inquest.</text></p>
+<p><text>Penalty: In the case of a corporation, $250,000; in any other case, 2 years imprisonment or 50 penalty units (or both).</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 71 of 2003  s 3 and Sch 5 , effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S68.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ does not apply to the identification of a former juror with the consent of the former juror.</text></p>
+<leg:histnote>
+<p><text>[s 68  subst Act 286 of 1987  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this section to the identification of a juror or former juror includes a reference to the disclosure of the address of the juror or former juror.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (1) does not apply to the disclosure of information by the sheriff to any of the following bodies or persons for the purposes of an investigation or prosecution of a contempt of court or an offence relating to a juror or a jury:</text></p>
+<l><li id="UCPN.OL.JURAN.S68.4.A"><lilabel><refpt id="UCPN.OL.JURAN.S68.4.A" type="ext"/>(a)</lilabel>
+<p><text>a court,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68.4.B"><lilabel><refpt id="UCPN.OL.JURAN.S68.4.B" type="ext"/>(b)</lilabel>
+<p><text>the New South Wales Crime Commission,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68.4.C"><lilabel><refpt id="UCPN.OL.JURAN.S68.4.C" type="ext"/>(c)</lilabel>
+<p><text>the Independent Commission Against Corruption,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68.4.D"><lilabel><refpt id="UCPN.OL.JURAN.S68.4.D" type="ext"/>(d)</lilabel>
+<p><text>the Police Integrity Commission,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68.4.E"><lilabel><refpt id="UCPN.OL.JURAN.S68.4.E" type="ext"/>(e)</lilabel>
+<p><text>the Australian Crime Commission,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68.4.F"><lilabel><refpt id="UCPN.OL.JURAN.S68.4.F" type="ext"/>(f)</lilabel>
+<p><text>the Director of Public Prosecutions,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68.4.G"><lilabel><refpt id="UCPN.OL.JURAN.S68.4.G" type="ext"/>(g)</lilabel>
+<p><text>the NSW Police Force,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68.4.H"><lilabel><refpt id="UCPN.OL.JURAN.S68.4.H" type="ext"/>(h)</lilabel>
+<p><text>the Australian Federal Police.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (4)  insrt Act 85 of 2001  s 1 and Sch 4 ; am Act 13 of 2003  Sch 1 , effective 30 June 2003 ; Act 62 of 2011 Sch 3.17, effective 6 January 2012]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (1) does not apply to the disclosure of information by the sheriff to a person in accordance with an authority granted by the Attorney General for the conduct of a research project into matters relating to juries or jurors.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  insrt Act 85 of 2001  s 1 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.JURAN.S68.6.COURT"><defterm><refpt id="UCPN.OL.JURAN.S68.6.COURT" type="ext"/><emph typestyle="bf">court</emph></defterm> <defdesc>
+<p><text>includes any tribunal, authority or person having power to require the production of documents or the answering of questions.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[subs (6)  insrt Act 85 of 2001  s 1 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,725] s 68A Soliciting information from or harassing jurors or former jurors">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S68A" type="ext"/>[345,725]</edpnum><title searchtype="SECT-TITLE">Soliciting information from or harassing jurors or former jurors</title><desig searchtype="SECT-NUM"><designum>68A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S68A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person must not solicit information from, or harass, a juror or former juror for the purpose of obtaining information about:</text></p>
+<l><li id="UCPN.OL.JURAN.S68A.1.A"><lilabel><refpt id="UCPN.OL.JURAN.S68A.1.A" type="ext"/>(a)</lilabel>
+<p><text>the deliberations of a jury, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68A.1.B"><lilabel><refpt id="UCPN.OL.JURAN.S68A.1.B" type="ext"/>(b)</lilabel>
+<p><text>how a juror, or the jury, formed any opinion or conclusion in relation to an issue arising in a trial or coronial inquest.</text></p>
+</li>
+</l>
+<p><text>Maximum penalty on indictment: imprisonment for 7 years.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst Act 102 of 2004  s 3 and Sch 1 , effective 15 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The deliberations of a jury include statements made, opinions expressed, arguments advanced or votes cast by members of the jury in the course of their deliberations.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S68A.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ does not prohibit a person from soliciting information from a juror or former juror in accordance with an authority granted by the Attorney-General for the conduct of a research project into matters relating to juries or jury service.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68A.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (1) does not prohibit any of the following bodies or persons from soliciting information from a juror or former juror for the purposes of an investigation or prosecution of a contempt of court or an offence relating to a juror or a jury:</text></p>
+<l><li id="UCPN.OL.JURAN.S68A.4.A"><lilabel><refpt id="UCPN.OL.JURAN.S68A.4.A" type="ext"/>(a)</lilabel>
+<p><text>a court,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68A.4.B"><lilabel><refpt id="UCPN.OL.JURAN.S68A.4.B" type="ext"/>(b)</lilabel>
+<p><text>the New South Wales Crime Commission,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68A.4.C"><lilabel><refpt id="UCPN.OL.JURAN.S68A.4.C" type="ext"/>(c)</lilabel>
+<p><text>the Independent Commission Against Corruption,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68A.4.D"><lilabel><refpt id="UCPN.OL.JURAN.S68A.4.D" type="ext"/>(d)</lilabel>
+<p><text>the Police Integrity Commission,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68A.4.E"><lilabel><refpt id="UCPN.OL.JURAN.S68A.4.E" type="ext"/>(e)</lilabel>
+<p><text>the Australian Crime Commission,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68A.4.F"><lilabel><refpt id="UCPN.OL.JURAN.S68A.4.F" type="ext"/>(f)</lilabel>
+<p><text>the Director of Public Prosecutions,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68A.4.G"><lilabel><refpt id="UCPN.OL.JURAN.S68A.4.G" type="ext"/>(g)</lilabel>
+<p><text>the NSW Police Force,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68A.4.H"><lilabel><refpt id="UCPN.OL.JURAN.S68A.4.H" type="ext"/>(h)</lilabel>
+<p><text>the Australian Federal Police.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (4)  insrt Act 85 of 2001  s 2 and Sch 4 ; am Act 13 of 2003  Sch 1 , effective 30 June 2003 ; Act 62 of 2011 Sch 3.17, effective 6 January 2012]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68A.4A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68A.4A" type="ext"/>(4A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S68A.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ does not prohibit a juror from soliciting information from another member of the jury during a trial or coronial inquest.</text></p>
+<leg:histnote>
+<p><text>[subs (4A)  insrt Act 102 of 2004  s 3 and Sch 1 , effective 15 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68A.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68A.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.JURAN.S68A.5.COURT"><defterm><refpt id="UCPN.OL.JURAN.S68A.5.COURT" type="ext"/><emph typestyle="bf">court</emph></defterm> <defdesc>
+<p><text>includes any tribunal, authority or person having power to require the production of documents or the answering of questions.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[subs (5)  insrt Act 85 of 2001  s 2 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 68A  insrt Act 286 of 1987  s 3 and Sch 1]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.JURAN.S68A.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.345725-5" leveltype="para0" subdoc="true" toc-caption="[345,725.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.345725-5" type="ext"/>[345,725.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An attempt by any person, whether lawyer, police officer, court official, journalist or any other member of the public to breach the privacy and confidentiality of jury deliberations runs the risk of offending against this provision. It is necessary, not only to ensure the finality of jury verdicts, but to ensure jurors or former jurors are not subject to pressure, harassment or otherwise in relation to their deliberations or the verdict itself: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr000331" spanref="cr000331-001"><ci:reporter value="NSWLR"/><ci:volume num="30"/><ci:page num="605"/></ci:caseref><ci:caseref anaphref="cr000331" spanref="cr000331-002" status="unval"><ci:pinpoint num="612" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Rinaldi</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000331-001">(1993) 30 NSWLR 605</ci:span> <ci:span spanid="cr000331-002" status="unval">at 612</ci:span></citefragment> <remotelink dpsi="0018" refpt="51893" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> .</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68B"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,730] s 68B Disclosure of information by jurors etc">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S68B" type="ext"/>[345,730]</edpnum><title searchtype="SECT-TITLE">Disclosure of information by jurors etc</title><desig searchtype="SECT-NUM"><designum>68B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S68B.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68B.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A juror must not, except with the consent of or at the request of the judge or coroner, wilfully disclose to any person during the trial or coronial inquest information about:</text></p>
+<l><li id="UCPN.OL.JURAN.S68B.1.A"><lilabel><refpt id="UCPN.OL.JURAN.S68B.1.A" type="ext"/>(a)</lilabel>
+<p><text>the deliberations of the jury, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68B.1.B"><lilabel><refpt id="UCPN.OL.JURAN.S68B.1.B" type="ext"/>(b)</lilabel>
+<p><text>how a juror, or the jury, formed any opinion or conclusion in relation to an issue arising in the trial or coronial inquest.</text></p>
+</li>
+</l>
+<p><text>Maximum penalty: 20 penalty units.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst Act 102 of 2004  s 3 and Sch 1 , effective 15 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68B.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68B.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person (including a juror or former juror) must not, for a fee, gain or reward, disclose or offer to disclose to any person information about:</text></p>
+<l><li id="UCPN.OL.JURAN.S68B.2.A"><lilabel><refpt id="UCPN.OL.JURAN.S68B.2.A" type="ext"/>(a)</lilabel>
+<p><text>the deliberations of a jury, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68B.2.B"><lilabel><refpt id="UCPN.OL.JURAN.S68B.2.B" type="ext"/>(b)</lilabel>
+<p><text>how a juror, or a jury, formed any opinion or conclusion in relation to an issue arising in a trial or coronial inquest.</text></p>
+</li>
+</l>
+<p><text>Maximum penalty: 50 penalty units.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  subst Act 102 of 2004  s 3 and Sch 1 , effective 15 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68B.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68B.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The deliberations of a jury include statements made, opinions expressed, arguments advanced or votes cast by members of the jury in the course of their deliberations.</text></p>
+<leg:histnote>
+<p><text>[s 68B  insrt Act 286 of 1987  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68B.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68B.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S68B.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ does not prohibit a juror from disclosing information to another member of the jury during a trial or coronial inquest.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  insrt Act 102 of 2004  s 3 and Sch 1 , effective 15 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68C"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,735] s 68C Inquiries by juror about trial matters prohibited">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S68C" type="ext"/>[345,735]</edpnum><title searchtype="SECT-TITLE">Inquiries by juror about trial matters prohibited</title><desig searchtype="SECT-NUM"><designum>68C</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S68C.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68C.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A juror for the trial of any criminal proceedings must not make an inquiry for the purpose of obtaining information about the accused, or any matters relevant to the trial, except in the proper exercise of his or her functions as a juror.</text></p>
+<p><text>Maximum penalty: 50 penalty units or imprisonment for 2 years, or both.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68C.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68C.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies in respect of a juror from the time the juror is sworn in as a juror and until the juror, or the jury of which the juror is a member, is discharged by the court having conduct of the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68C.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68C.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not prohibit a juror:</text></p>
+<l><li id="UCPN.OL.JURAN.S68C.3.A"><lilabel><refpt id="UCPN.OL.JURAN.S68C.3.A" type="ext"/>(a)</lilabel>
+<p><text>from making an inquiry of the court, or of another member of the jury, in the proper exercise of his or her functions as a juror, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68C.3.B"><lilabel><refpt id="UCPN.OL.JURAN.S68C.3.B" type="ext"/>(b)</lilabel>
+<p><text>from making an inquiry authorised by the court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68C.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68C.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Anything done by a juror in contravention of a direction given to the jury by the judge in the criminal proceedings is not a proper exercise by the juror of his or her functions as a juror.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S68C.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S68C.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purpose of this section, <defterm><emph typestyle="bf">making an inquiry</emph></defterm> includes the following:</text></p>
+<l><li id="UCPN.OL.JURAN.S68C.5.A"><lilabel><refpt id="UCPN.OL.JURAN.S68C.5.A" type="ext"/>(a)</lilabel>
+<p><text>asking a question of any person,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68C.5.B"><lilabel><refpt id="UCPN.OL.JURAN.S68C.5.B" type="ext"/>(b)</lilabel>
+<p><text>conducting any research, for example, by searching an electronic database for information (such as by using the Internet),</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68C.5.C"><lilabel><refpt id="UCPN.OL.JURAN.S68C.5.C" type="ext"/>(c)</lilabel>
+<p><text>viewing or inspecting any place or object,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68C.5.D"><lilabel><refpt id="UCPN.OL.JURAN.S68C.5.D" type="ext"/>(d)</lilabel>
+<p><text>conducting an experiment,</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S68C.5.E"><lilabel><refpt id="UCPN.OL.JURAN.S68C.5.E" type="ext"/>(e)</lilabel>
+<p><text>causing someone else to make an inquiry.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 68C  insrt Act 102 of 2004  s 3 and Sch 1 , effective 15 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,740] s 69 Unlawful dismissal of or prejudice to employees summoned for jury service">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S69" type="ext"/>[345,740]</edpnum><title searchtype="SECT-TITLE">Unlawful dismissal of or prejudice to employees summoned for jury service</title><desig searchtype="SECT-NUM"><designum>69</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S69.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An employer shall not dismiss a person in his or her employment or injure the person in his or her employment or alter his or her position to his or her prejudice by reason of the fact that the person is summoned to serve as a juror.</text></p>
+<p><text>Penalty: 20 penalty units.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 286 of 1987  s 3 and Sch 1 ; Act 95 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In proceedings for an offence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S69.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , if all the facts constituting the offence other than the reason for the defendant's action are proved, the onus of proving that the dismissal, injury or alteration was not actuated by the reason alleged in the charge shall lie on the defendant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where an employer is convicted by a court of an offence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S69.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , the court may order&#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S69.3.A"><lilabel><refpt id="UCPN.OL.JURAN.S69.3.A" type="ext"/>(a)</lilabel>
+<p><text>the employer to pay the employee a specified sum by way of reimbursement for the salary or wages lost by the employee; and</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S69.3.B"><lilabel><refpt id="UCPN.OL.JURAN.S69.3.B" type="ext"/>(b)</lilabel>
+<p><text>that the employee be reinstated in his or her old or a similar position.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (3)  am Act 95 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S69.3.A" remotekey1="REFPTID" service="DOC-ID">subsection (3)(a)</remotelink></ci:content></ci:cite>
+ shall operate as an order against the employer for the payment of money under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink></ci:content></ci:cite>
+, and shall be enforceable as such an order under that Act.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 286 of 1987  s 3 and Sch 2; Act 120 of 2006  s 3 and Sch 2[2.43] , effective 4 December 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An employer shall give effect to an order of the court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S69.3.B" remotekey1="REFPTID" service="DOC-ID">subsection (3)(b)</remotelink></ci:content></ci:cite>
+ .</text></p>
+<p><text>Penalty: 20 penalty units.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 286 of 1987  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The amount of salary or wages that would have been payable to an employee in respect of any period that his or her employer fails to give effect to an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S69.3.B" remotekey1="REFPTID" service="DOC-ID">subsection (3)(b)</remotelink></ci:content></ci:cite>
+ shall be recoverable, as a debt due to the employee by the employer, in any court of competent jurisdiction.</text></p>
+<leg:histnote>
+<p><text>[subs (6)  am Act 95 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An employer shall not threaten a person employed by the employer with:</text></p>
+<l><li id="UCPN.OL.JURAN.S69.7.A"><lilabel><refpt id="UCPN.OL.JURAN.S69.7.A" type="ext"/>(a)</lilabel>
+<p><text>dismissal, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S69.7.B"><lilabel><refpt id="UCPN.OL.JURAN.S69.7.B" type="ext"/>(b)</lilabel>
+<p><text>injury in his or her employment, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S69.7.C"><lilabel><refpt id="UCPN.OL.JURAN.S69.7.C" type="ext"/>(c)</lilabel>
+<p><text>alteration of his or her position to his or her prejudice,</text></p>
+</li>
+</l>
+<p><text>by reason of the fact that the person is summoned to serve as a juror.</text></p>
+<p><text>Penalty: 20 penalty units.</text></p>
+<leg:histnote>
+<p><text>[subs (7)  insrt Act 49 of 1998  s 3 and Sch 15]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In proceedings for an offence under subsection (7), if all the facts constituting the offence other than the reason for the defendant's action are proved, the onus of providing that the threat was not actuated by the reason alleged in the charge lies on the defendant.</text></p>
+<leg:histnote>
+<p><text>[subs (8)  insrt Act 49 of 1998  s 3 and Sch 15]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person can be prosecuted for and convicted of offences under both subsections (1) and (7) in relation to the same circumstances.</text></p>
+<leg:histnote>
+<p><text>[subs (9)  insrt Act 49 of 1998   s 3 and Sch 15]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S69.10"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S69.10" type="ext"/>(10)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.JURAN.S69.10.EMPLOYER"><defterm><refpt id="UCPN.OL.JURAN.S69.10.EMPLOYER" type="ext"/><emph typestyle="bf">employer</emph></defterm> <defdesc>
+<p><text>includes a person acting on behalf of the employer.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[subs (10)  insrt Act 49 of 1998  s 3 and Sch 15]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 69  am Act 49 of 1998  s 3 and Sch 15]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S70"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,745] s 70 Directors, etc, liable where corporation commits offence">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S70" type="ext"/>[345,745]</edpnum><title searchtype="SECT-TITLE">Directors, etc, liable where corporation commits offence</title><desig searchtype="SECT-NUM"><designum>70</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who is a director or an employee of a corporation which offends against this Act is guilty of the same offence, and liable to be punished as an individual guilty of that offence, if&#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S70..A"><lilabel><refpt id="UCPN.OL.JURAN.S70..A" type="ext"/>(a)</lilabel>
+<p><text>the offence committed by the corporation was committed with the knowledge of that person;</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S70..B"><lilabel><refpt id="UCPN.OL.JURAN.S70..B" type="ext"/>(b)</lilabel>
+<p><text>that person was in a position to influence the conduct of the corporation in relation to the commission of the offence by it; and</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S70..C"><lilabel><refpt id="UCPN.OL.JURAN.S70..C" type="ext"/>(c)</lilabel>
+<p><text>that person did not use all due diligence to prevent the commission of the offence by the corporation.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S71"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,750] s 71 Proceedings for offences">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S71" type="ext"/>[345,750]</edpnum><title searchtype="SECT-TITLE">Proceedings for offences</title><desig searchtype="SECT-NUM"><designum>71</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S71.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S71.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except to the extent that this Act otherwise provides, proceedings for offences against this Act shall be disposed of in a summary manner before the Local Court.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 121 of 2001  s 4 and Sch 2 , effective 7 July 2003 ; Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S71.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S71.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings for an offence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S68" remotekey1="REFPTID" service="DOC-ID">section 68</remotelink></ci:content></ci:cite>
+ by a corporation may be dealt with:</text></p>
+<l><li id="UCPN.OL.JURAN.S71.1A.A"><lilabel><refpt id="UCPN.OL.JURAN.S71.1A.A" type="ext"/>(a)</lilabel>
+<p><text>summarily before the Local Court, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S71.1A.B"><lilabel><refpt id="UCPN.OL.JURAN.S71.1A.B" type="ext"/>(b)</lilabel>
+<p><text>summarily before the Supreme Court in its summary jurisdiction.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1A)  insrt Act 71 of 2003  s 3 and Sch 5 , effective 1 January 2004 ; am Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S71.1B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S71.1B" type="ext"/>(1B)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If proceedings for an offence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S68" remotekey1="REFPTID" service="DOC-ID">section 68</remotelink></ci:content></ci:cite>
+ by a corporation are brought in the Local Court, the maximum monetary penalty that the Local Court may impose for the offence is $10,000, despite any higher maximum monetary penalty provided in respect of the offence by that section.</text></p>
+<leg:histnote>
+<p><text>[subs (1B)  insrt Act 71 of 2003  s 3 and Sch 5 , effective 1 January 2004 ; am Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S71.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S71.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPROC.C5" remotekey1="REFPTID" service="DOC-ID" status="unval">Chapter 5</remotelink></ci:content></ci:cite>
+ of the Criminal Procedure Act 1986 (which relates to the summary disposal of certain indictable offences unless an election is made to proceed on indictment) applies to and in respect of an offence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S68A" remotekey1="REFPTID" service="DOC-ID">section 68A</remotelink></ci:content></ci:cite>
+ .</text></p>
+<leg:histnote>
+<p><text>[subs (2)  insrt Act 15 of 1997  s 3 and Sch 1 ; am Act No 94 of 1999  Sch 4.34 ; Act 121 of 2001  s 4 and Sch 2 , effective 7 July 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 71  am Act 286 of 1987  s 3 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

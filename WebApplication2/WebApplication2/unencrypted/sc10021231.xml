@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 5 PART XIV OF THE CODE (MISCELLANEOUS) [rr 59&#x2013;63]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCR70.PT80.D5</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT RULES </title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 80 COMPANIES (NEW SOUTH WALES)  CODE AND CORPORATIONS LAW [rr 1&#x2013;64]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 5 PART XIV OF THE CODE (MISCELLANEOUS) [rr 59&#x2013;63]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70010770</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCRC"/><docinfo:metaitem name="parent-filename" value="sc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT RULES </leg:officialname></leg:info><leg:level id="UCPN.SC.SCRC.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN.SC.SCR70.PT80"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 80 COMPANIES (NEW SOUTH WALES)  CODE AND CORPORATIONS LAW [rr 1&#x2013;64]"><leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT80.D5"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 5 PART XIV OF THE CODE (MISCELLANEOUS) [rr 59&#x2013;63]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCR70.PT80.D5" type="ext"/>DIVISION 5</designum></desig><title searchtype="DIV-TITLE">PART XIV OF THE CODE (MISCELLANEOUS) [rr 59&#x2013;63]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT80.R59"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80 r 59] r 59 Security for costs: plaintiff corporation (s 533)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80.R59" type="ext"/>[SCR Pt 80 r 59]</edpnum><title searchtype="RUL-TITLE">Security for costs: plaintiff corporation (s 533)</title><desig searchtype="RUL-NUM"><designum>59</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S533" remotekey1="REFPTID" service="DOC-ID" status="unval">section 533</remotelink></ci:content></ci:cite>
+ of the Code (which section relates to a plaintiff corporation giving security for costs) has been commenced in a Division, an application under that section may be made by motion in those proceedings in that Division.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf CR 1968, r 3(3)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[r 59  insrt Amendment 126: Gaz 90 of 30 June 1982  p 2973]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT80.R59.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.80-59-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80.59.1]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.80-59-1" type="ext"/>[SCR Pt 80.59.1] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>As to the principles that apply on an application for security for costs see UCPR r 42.21; [42.21.30]&#x2013;[42.21.40].</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.80-59-2" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80.59.2]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 80.59.2] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 1335.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.80-59-2" type="ext"/>[SCR Pt 80.59.2] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Applications for security for costs are no longer made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S533" remotekey1="REFPTID" service="DOC-ID" status="unval">s 533</remotelink></ci:content></ci:cite>
+ of the Code but under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S1335" remotekey1="REFPTID" service="DOC-ID">s 1335</remotelink></ci:content></ci:cite>
+ of the Corporations Law.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R60"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80 r 60] r 60">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80.R60" type="ext"/>[SCR Pt 80 r 60]</edpnum><desig searchtype="RUL-NUM"><designum>60</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 60  rep Amendment 176: Gaz 105 of 19 July 1985  p 3634]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R61"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80 r 61] r 61 Appeal from liquidator, etc (s 538)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80.R61" type="ext"/>[SCR Pt 80 r 61]</edpnum><title searchtype="RUL-TITLE">Appeal from liquidator, etc (s 538)</title><desig searchtype="RUL-NUM"><designum>61</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S538..A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 538(a)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S538..B" remotekey1="REFPTID" service="DOC-ID" status="unval">(b)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S538..C" remotekey1="REFPTID" service="DOC-ID" status="unval">(c)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S538..D" remotekey1="REFPTID" service="DOC-ID" status="unval">(d)</remotelink></ci:content></ci:cite>
+ may, on application in writing made to him before the expiration of the time (other than the time extended by the Court) for instituting an appeal from his act, omission or decision, grant, by notice in writing, an extension of that time and where he does so, he shall deliver the notice to the applicant who shall file the notice with the summons instituting the appeal.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf CR 1968 r 39</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[r 61  insrt Amendment 126: Gaz 90 of 30 June 1982  p 2973 ; am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [135], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R61A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80 r 61A] r 61A Irregularities (s 539)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80.R61A" type="ext"/>[SCR Pt 80 r 61A]</edpnum><title searchtype="RUL-TITLE">Irregularities (s 539)</title><desig searchtype="RUL-NUM"><designum>61A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any direction of the Court, an application for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S539" remotekey1="REFPTID" service="DOC-ID" status="unval">section 539</remotelink></ci:content></ci:cite>
+ of the Code in or for the purposes of or in relation to any proceedings in the Court may be made by motion in those proceedings.</text></p>
+<leg:histnote>
+<p><text>[r 61A  insrt Amendment 129: Gaz 141 of 22 October 1982  p 4889]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT80.R61A.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.80-61A-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80.61A.1]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 80.61A.1] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 1.7.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.80-61A-1" type="ext"/>[SCR Pt 80.61A.1] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>See Supreme Court (Corporations) Rules 1999 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R7" remotekey1="REFPTID" service="DOC-ID">rule 1.7</remotelink></ci:content></ci:cite>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.SC.15030-5" remotekey1="REFPTID" service="DOC-ID">[15,030.5]</remotelink>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.80-61A-2" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80.61A.2]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.80-61A-2" type="ext"/>[SCR Pt 80.61A.2] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Meetings and resolutions are &quot;proceedings&quot;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr003175" spanref="cr003175-001"><ci:reporter value="ACLR"/><ci:volume num="13"/><ci:page num="762"/></ci:caseref><ci:caseref ID="cr003176" spanref="cr003176-002"><ci:reporter value="ACLR"/><ci:volume num="13"/><ci:page num="762"/></ci:caseref><ci:caseref ID="cr003177" spanref="cr003177-003"><ci:reporter value="urj"/><ci:refnum num="BC8800999"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bell Resources Ltd v Turnbridge Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003175-001">(1988) 13 ACLR 762</ci:span>; <ci:span spanid="cr003176-002">6 ACLC 970</ci:span>; <ci:span spanid="cr003177-003"> BC8800999</ci:span></citefragment> <remotelink dpsi="0018" refpt="8605" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.80-61A-3" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80.61A.3]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.80-61A-3" type="ext"/>[SCR Pt 80.61A.3] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Evidence should be provided of a recent declaration of solvency along with evidence that there has been compliance in all respects except for the omission, defect, error or irregularity: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1982"/></ci:caseinfo><ci:caseref ID="cr003178" spanref="cr003178-001"><ci:reporter value="ACLR"/><ci:volume num="6"/><ci:page num="736"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Helen Investments Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003178-001">(1982) 6 ACLR 736</ci:span></citefragment> <remotelink dpsi="0018" refpt="34339" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80 r 62] r 62 Examination of person concerned with corporation (s 541)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80.R62" type="ext"/>[SCR Pt 80 r 62]</edpnum><title searchtype="RUL-TITLE">Examination of person concerned with corporation (s 541)</title><desig searchtype="RUL-NUM"><designum>62</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to proceedings on an application to the Court for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 541(3)</remotelink></ci:content></ci:cite>
+ of the Code.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The summons by which the application is made shall be served:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80.R62.2.A"><lilabel><refpt id="UCPN.SC.SCR70.PT80.R62.2.A" type="ext"/>(a)</lilabel>
+<p><text>where a liquidator has been appointed, unless he is the applicant &#x2014; on the liquidator; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80.R62.2.B"><lilabel><refpt id="UCPN.SC.SCR70.PT80.R62.2.B" type="ext"/>(b)</lilabel>
+<p><text>unless the Commission is the applicant &#x2014; on the Commission,</text></p>
+</li>
+</l>
+<p><text>and need not be served on any other person unless the Court so directs.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The applicant shall, when making the application, lodge in the registry a draft minute in 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.133745" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 154</remotelink>
+ of the order sought.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A minute of the order made shall be served personally on the person who is to be examined and shall be served, where the liquidator is the applicant, on the Commission and, where the Commission is the applicant, on the liquidator.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The applicant shall publish once in the Government Gazette and once in a prescribed newspaper, notice of the time and place appointed for the holding of an examination but not, unless the Court so orders, for the holding of an adjourned examination.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Court makes an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541.13" remotekey1="REFPTID" service="DOC-ID" status="unval">section 541(13)</remotelink></ci:content></ci:cite>
+ of the Code, the written record, signed if so required by the Court under that subsection, shall be filed in the registry.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.6A"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.6A" type="ext"/>(6A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80.R62.6A.A"><lilabel><refpt id="UCPN.SC.SCR70.PT80.R62.6A.A" type="ext"/>(a)</lilabel>
+<p><text>the examination of a person under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541" remotekey1="REFPTID" service="DOC-ID" status="unval">section 541</remotelink></ci:content></ci:cite>
+ of the Code is held wholly or partly in public; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80.R62.6A.B"><lilabel><refpt id="UCPN.SC.SCR70.PT80.R62.6A.B" type="ext"/>(b)</lilabel>
+<p><text>a written record or transcript of the questions put to the person and the answers given by the person at the examination is filed in the registry,</text></p>
+</li>
+</l>
+<p><text>the registrar shall, upon application by the person made within 3 years of the date of the conclusion of the examination and payment of the prescribed fee, furnish to the person a copy of the written record or transcript of such part of his examination as is held in public.</text></p>
+<leg:histnote>
+<p><text>[subr (6A)  insrt Amendment 265: Gaz 91 of 24 July 1992  p 5201]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.7"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A transcript is authenticated under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541.14" remotekey1="REFPTID" service="DOC-ID" status="unval">section 541(14)</remotelink></ci:content></ci:cite>
+ of the Code by a certificate by the person who made the transcript certifying it to be a correct record of the examination.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.8"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A written record or transcript of an examination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541" remotekey1="REFPTID" service="DOC-ID" status="unval">section 541</remotelink></ci:content></ci:cite>
+ of the Code shall not, except with the leave of the Court, be open to inspection by any person.</text></p>
+<leg:histnote>
+<p><text>[subr (8)  am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [136], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.9"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT80.R62.8" remotekey1="REFPTID" service="DOC-ID">Subrule (8)</remotelink></ci:content></ci:cite>
+ does not apply to the liquidator or any person authorised by the Commission.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R62.10"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R62.10" type="ext"/>(10)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the examination is held before a court other than the Court, the powers of the Court under this rule may be exercised by that other court.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf CR 1968 rr 119&#x2013;26</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 62  insrt Amendment 126: Gaz 90 of 30 June 1982  p 2973]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT80.R62.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.80-62-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 80.62.1]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 80.62.1] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 11.1&#x2013;11.11.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.80-62-1" type="ext"/>[SCR Pt 80.62.1] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>See Supreme Court (Corporations) Rules 1999 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D11.R1" remotekey1="REFPTID" service="DOC-ID">rules 11.1&#x2013;11.11</remotelink></ci:content></ci:cite>
+ at [15,785]&#x2013;[15,835].</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R63"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 80 r 63] r 63 Default in relation to an examination">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT80.R63" type="ext"/>[SCR Pt 80 r 63]</edpnum><title searchtype="RUL-TITLE">Default in relation to an examination</title><desig searchtype="RUL-NUM"><designum>63</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT80.R63.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R63.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a registrar constitutes the Court for the purpose of an examination under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541" remotekey1="REFPTID" service="DOC-ID" status="unval">section 541</remotelink></ci:content></ci:cite>
+ of the Code and a person (the <defterm><emph typestyle="bf">person in default</emph></defterm>) refuses or fails to do anything mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541.7" remotekey1="REFPTID" service="DOC-ID" status="unval">section 541(7)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541.8" remotekey1="REFPTID" service="DOC-ID" status="unval">(8)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CC.S541.9" remotekey1="REFPTID" service="DOC-ID" status="unval">(9)</remotelink></ci:content></ci:cite>
+ of the Code, he shall, at the request of any person who took part in the examination, give to that person a certificate, signed by him, of the refusal or failure.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT80.R63.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT80.R63.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may, upon the certificate being filed and on motion by any party, order the person in default:</text></p>
+<l><li id="UCPN.SC.SCR70.PT80.R63.2.A"><lilabel><refpt id="UCPN.SC.SCR70.PT80.R63.2.A" type="ext"/>(a)</lilabel>
+<p><text>to do the thing; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT80.R63.2.B"><lilabel><refpt id="UCPN.SC.SCR70.PT80.R63.2.B" type="ext"/>(b)</lilabel>
+<p><text>to pay any costs occasioned by his refusal or failure.</text></p>
+</li>
+</l>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf CR 1968 r 127(2)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 63  insrt Amendment 126: Gaz 90 of 30 June 1982  p 2973]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

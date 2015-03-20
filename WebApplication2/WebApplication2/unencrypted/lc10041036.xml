@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1  PRELIMINARY [ss 43, 44]</docinfo:doc-heading><docinfo:doc-id>UCPN.LC.LCAN07.PT4.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Local Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>LOCAL COURT ACT 2007 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 4  SPECIAL JURISDICTION [ss 43&#x2013;72]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1  PRELIMINARY [ss 43, 44]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>90020120</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.LC"/><docinfo:metaitem name="parent-filename" value="lc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_LC.SGM_UCPN.LC.LCAN07"/><docinfo:metaitem name="parent-filename" value="lc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 93, 2007</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">LOCAL COURT ACT 2007 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.LC.LCAN07.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.PT4"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 4  SPECIAL JURISDICTION [ss 43&#x2013;72]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.LC.LCAN07.PT4" type="ext"/>PART 4</designum></desig><title searchtype="PART-TITLE"> SPECIAL JURISDICTION [ss 43&#x2013;72]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.LC.PT4.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_LC.SGM_UCPN.LC.PT4-0" leveltype="para0" subdoc="true" toc-caption="[LCA07 Pt 4.0] This Part not applicable to civil proceedings">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [LCA07 Pt 4.0] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2007-93" remotekey1="REFPTID" service="DOC-ID">Local Court Act 2007</remotelink> s 44(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.LC.PT4-0" type="ext"/>[LCA07 Pt 4.0] </edpnum><title>This Part not applicable to civil proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>LCA 2007 Pt 4 does not apply to civil proceedings: LCA 2007 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S44..B" remotekey1="REFPTID" service="DOC-ID">s 44(b)</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+<leg:level id="UCPN.LC.LCAN07.PT4.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1  PRELIMINARY [ss 43, 44]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.LC.LCAN07.PT4.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE"> PRELIMINARY [ss 43, 44]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.S43"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[LCA07 s 43] s 43 Definitions (cf LCA 1982, section 4)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCAN07.S43" type="ext"/>[LCA07 s 43]</edpnum><title searchtype="SECT-TITLE">Definitions <ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf LCA 1982, <remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82.S4" remotekey1="REFPTID" service="DOC-ID" status="unval">section 4</remotelink>
+)</ci:content></ci:cite></title><desig searchtype="SECT-NUM"><designum>43</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.LC.LCAN07.S43.APPLICANT"><defterm><refpt id="UCPN.LC.LCAN07.S43.APPLICANT" type="ext"/><emph typestyle="bf">applicant</emph></defterm><defdesc>
+<p><text>means a person by whom application proceedings are commenced.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S43.APPLICATION-PROCEEDINGS"><defterm><refpt id="UCPN.LC.LCAN07.S43.APPLICATION-PROCEEDINGS" type="ext"/><emph typestyle="bf">application proceedings</emph></defterm><defdesc>
+<p><text>means proceedings to which this Part applies as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S44" remotekey1="REFPTID" service="DOC-ID">section 44</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S43.AUTHORISED-OFFICER"><defterm><refpt id="UCPN.LC.LCAN07.S43.AUTHORISED-OFFICER" type="ext"/><emph typestyle="bf">authorised officer</emph></defterm><defdesc>
+<p><text>has the same meaning as in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CPROC" remotekey1="REFPTID" service="DOC-ID" status="unval">Criminal Procedure Act 1986</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER"><defterm><refpt id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER" type="ext"/><emph typestyle="bf">public officer</emph></defterm><defdesc>
+<p><text>means any of the following persons, but only when acting in an official capacity:</text></p>
+<l><li id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.A"><lilabel><refpt id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.A" type="ext"/>(a)</lilabel>
+<p><text>an employee in the Public Service or the NSW Police Force,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.B"><lilabel><refpt id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.B" type="ext"/>(b)</lilabel>
+<p><text>an officer or employee of a statutory body representing the Crown,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.C"><lilabel><refpt id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.C" type="ext"/>(c)</lilabel>
+<p><text>an employee of a council within the meaning of the Local Government Act 1993,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.D"><lilabel><refpt id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.D" type="ext"/>(d)</lilabel>
+<p><text>an officer or employee of a livestock health and pest authority within the meaning of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.RLPAN98" remotekey1="REFPTID" service="DOC-ID" status="unval">Rural Lands Protection Act 1998</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.E"><lilabel><refpt id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.E" type="ext"/>(e)</lilabel>
+<p><text>the Director of Public Prosecutions, Deputy Director of Public Prosecutions or Solicitor for Public Prosecutions,</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.F"><lilabel><refpt id="UCPN.LC.LCAN07.S43.PUBLIC-OFFICER.F" type="ext"/>(f)</lilabel>
+<p><text>an officer or employee of a body declared by the regulations to be a public body for the purposes of this definition.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 112 of 2008  s 4 and Sch 6.17, effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.LC.LCAN07.S43.RESPONDENT"><defterm><refpt id="UCPN.LC.LCAN07.S43.RESPONDENT" type="ext"/><emph typestyle="bf">respondent</emph></defterm><defdesc>
+<p><text>means a person against whom application proceedings are commenced.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.S44"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[LCA07 s 44] s 44 Application of Part">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.LC.LCAN07.S44" type="ext"/>[LCA07 s 44]</edpnum><title searchtype="SECT-TITLE">Application of Part</title><desig searchtype="SECT-NUM"><designum>44</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to any proceedings with respect to matters for which jurisdiction is conferred on the Court by or under any other Act or law, other than:</text></p>
+<l><li id="UCPN.LC.LCAN07.S44..A"><lilabel><refpt id="UCPN.LC.LCAN07.S44..A" type="ext"/>(a)</lilabel>
+<p><text>criminal proceedings, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.S44..B"><lilabel><refpt id="UCPN.LC.LCAN07.S44..B" type="ext"/>(b)</lilabel>
+<p><text>proceedings with respect to any matter for which jurisdiction is conferred on the Court by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

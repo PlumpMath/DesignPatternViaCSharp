@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 PRELIMINARY [rr 11A.1, 11A.2]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT11A.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 11A  SERVICE UNDER THE HAGUE CONVENTION [rr 11A.1&#x2013;11A.16]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 PRELIMINARY [rr 11A.1, 11A.2]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010380</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT11A"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 11A  SERVICE UNDER THE HAGUE CONVENTION [rr 11A.1&#x2013;11A.16]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT11A" type="ext"/>PART 11A</designum></desig><title searchtype="PART-TITLE"> SERVICE UNDER THE HAGUE CONVENTION [rr 11A.1&#x2013;11A.16]</title><leg:histnote>
+<p><text>[Pt 11A  insrt Amendment 27 of 2009  Sch 1[13], effective 10 July 2009]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="48*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="54*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 1 &#x2014; General &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-1" remotekey1="REFPTID" service="DOC-ID">11.1</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-8" remotekey1="REFPTID" service="DOC-ID">11.8</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division sets out the circumstances in which service of documents outside Australia is permissible.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 2 &#x2014; Service outside Australia in accordance with Attorney-General&#x2019;s arrangements &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-9" remotekey1="REFPTID" service="DOC-ID">11.9</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-12" remotekey1="REFPTID" service="DOC-ID">11.12</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">This Division governs the service of documents outside Australia in countries which are signatories to international conventions with respect to the service of documents in that country.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Division 3 &#x2014; Service of external process &#x2014; Rules <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-13" remotekey1="REFPTID" service="DOC-ID">11.13</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11-17" remotekey1="REFPTID" service="DOC-ID">11.17</remotelink></ci:content></ci:cite></emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules govern NSW service of process concerning court proceedings outside NSW.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">This Part only applies to proceedings in the Supreme Court: see r 1.5 and Sch 1.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The rules in <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT11.D1" remotekey1="REFPTID" service="DOC-ID">Divs 1</remotelink></ci:content></ci:cite>
+and <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT11.D2" remotekey1="REFPTID" service="DOC-ID">2</remotelink></ci:content></ci:cite>
+of this Part, and the related <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH6" remotekey1="REFPTID" service="DOC-ID">Sch 6</remotelink></ci:content></ci:cite>
+of the UCPR, are based on the former SCR Pt 10. Both the rules and Sch 6 are virtually identical with the former SCR Pt 10. The rules in <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT11.D3" remotekey1="REFPTID" service="DOC-ID">Div 3</remotelink></ci:content></ci:cite>
+are based on the former SCR Pt 57.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.PT11A.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 PRELIMINARY [rr 11A.1, 11A.2]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT11A.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">PRELIMINARY [rr 11A.1, 11A.2]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<heading><desig><designum>Note 1.</designum></desig></heading>
+<p>
+<text>This Part forms part of a scheme to implement Australia&#x2019;s obligations under the Hague Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters. Under the Convention, the Attorney-General&#x2019;s Department of the Commonwealth is designated as the Central Authority (under Article 2 of the Convention) and certain courts and government departments are, for certain purposes, designated as &#x201c;other&#x201d; or &#x201c;additional&#x201d; authorities (under Article 18 of the Convention).</text></p></glp:note>
+<glp:note>
+<heading><desig><designum>Note 2.</designum></desig></heading>
+<p>
+<text>This Part provides (in Division 2) for service in overseas Convention countries of local judicial documents (documents that relate to proceedings in the Court) and (in Division 3) for default judgment in proceedings in the Court after service overseas of such a document. Division 4, on the other hand, deals with service by the Court or arranged by the Court in its role as an other or additional authority, of judicial documents emanating from overseas Convention countries.</text></p></glp:note>
+<glp:note>
+<heading><desig><designum>Note 3.</designum></desig></heading>
+<p>
+<text>The Attorney-General&#x2019;s Department of the Commonwealth maintains a copy of the Convention, a list of all Convention countries, details of declarations and objections made under the Convention by each of those countries and the names and addresses of the Central and other authorities of each of those countries. A copy of the Convention can be found at 
+<remotelink href="www.hcch.net" hrefclass="http" newwindow="YES">http://www.hcch.net</remotelink>
+.</text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.R11A-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 11A.1] r 11A.1 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R11A-1" type="ext"/>[r 11A.1]</edpnum><title searchtype="RUL-TITLE">Definitions</title><desig searchtype="RUL-NUM"><designum>11A.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.ADDITIONAL-AUTHORITY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.ADDITIONAL-AUTHORITY" type="ext"/><emph typestyle="bf">additional authority,</emph></defterm><defdesc>
+<p><text>for a Convention country, means an authority that is:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p>
+<text>for the time being designated by that country, under Article 18 of the Hague Convention, to be an authority (other than the Central Authority) for that country, and</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p>
+<text>competent to receive requests for service abroad emanating from Australia.</text></p></li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.APPLICANT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.APPLICANT" type="ext"/><emph typestyle="bf">applicant, </emph></defterm><defdesc>
+<p><text>for a request for service abroad or a request for service in this jurisdiction, means the person on whose behalf service is requested.</text></p>
+</defdesc>
+<glp:note>
+<heading><desig><designum>Note.</designum></desig></heading>
+<p>
+<text>The term <emph typestyle="bf">applicant</emph> may have a different meaning in other Parts of these rules.</text></p></glp:note>
+</defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.CENTRAL-AUTHORITY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.CENTRAL-AUTHORITY" type="ext"/><emph typestyle="bf">Central Authority,</emph></defterm><defdesc>
+<p><text>for a Convention country, means an authority that is for the time being designated by that country, under Article 2 of the Hague Convention, to be the Central Authority for that country.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.CERTIFICATE-OF-SERVICE"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.CERTIFICATE-OF-SERVICE" type="ext"/><emph typestyle="bf">certificate of service</emph></defterm><defdesc>
+<p><text>means a certificate of service that has been completed for the purposes of Article 6 of the Hague Convention.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.CERTIFYING-AUTHORITY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.CERTIFYING-AUTHORITY" type="ext"/><emph typestyle="bf">certifying authority,</emph></defterm><defdesc>
+<p><text>for a Convention country, means the Central Authority for the country or some other authority that is for the time being designated by the country, under Article 6 of the Hague Convention, to complete certificates of service in the form annexed to the Hague Convention.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.CIVIL-PROCEEDINGS"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.CIVIL-PROCEEDINGS" type="ext"/><emph typestyle="bf">civil proceedings</emph></defterm><defdesc>
+<p><text>means any judicial proceedings in relation to civil or commercial matters.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.CONVENTION-COUNTRY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.CONVENTION-COUNTRY" type="ext"/><emph typestyle="bf">Convention country</emph></defterm><defdesc>
+<p><text>means a country, other than Australia, that is a party to the Hague Convention.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.DEFENDANT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.DEFENDANT" type="ext"/><emph typestyle="bf">defendant,</emph></defterm><defdesc>
+<p><text>for a request for service abroad of an initiating process, means the person on whom the initiating process is requested to be served.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.FOREIGN-JUDICIAL-DOCUMENT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.FOREIGN-JUDICIAL-DOCUMENT" type="ext"/><emph typestyle="bf">foreign judicial document</emph></defterm><defdesc>
+<p><text>means a judicial document that originates in a Convention country and that relates to civil proceedings in a court of that country.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.FORWARDING-AUTHORITY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.FORWARDING-AUTHORITY" type="ext"/><emph typestyle="bf">forwarding authority:</emph></defterm><defdesc>
+<l>
+<li><lilabel>(a)</lilabel>
+<p>
+<text>for a request for service of a foreign judicial document in this jurisdiction &#x2014; the authority or judicial officer of the Convention country in which the document originates that forwards the request (being an authority or judicial officer that is competent under the law of that country to forward a request for service under Article 3 of the Hague Convention), or</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p>
+<text>for a request for service of a local judicial document in a Convention country &#x2014; the Registrar.</text></p></li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.HAGUE-CONVENTION"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.HAGUE-CONVENTION" type="ext"/><emph typestyle="bf">Hague Convention</emph></defterm><defdesc>
+<p><text>means the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters done at the Hague on 15 November 1965.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.INITIATING-PROCESS"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.INITIATING-PROCESS" type="ext"/><emph typestyle="bf">initiating process</emph></defterm><defdesc>
+<p><text>means any document by which proceedings (including proceedings on any cross-claim or third party notice) are commenced.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.LOCAL-JUDICIAL-DOCUMENT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.LOCAL-JUDICIAL-DOCUMENT" type="ext"/><emph typestyle="bf">local judicial document</emph></defterm><defdesc>
+<p><text>means a judicial document that relates to civil proceedings in the Court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.REGISTRAR"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.REGISTRAR" type="ext"/><emph typestyle="bf">Registrar</emph></defterm><defdesc>
+<p><text>means the principal registrar of the Court, and includes any other person who, by delegation or otherwise, is authorised to exercise the functions of that office.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.REQUEST-FOR-SERVIKCE-ABROAD"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.REQUEST-FOR-SERVIKCE-ABROAD" type="ext"/><emph typestyle="bf">request for service abroad </emph></defterm><defdesc>
+<p><text>means a request for service in a Convention country of a local judicial document mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11A-4.1" remotekey1="REFPTID" service="DOC-ID">rule 11A.4(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.REQUEST-FOR-SERVICE-IN-THIS-JURISDICTION"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.REQUEST-FOR-SERVICE-IN-THIS-JURISDICTION" type="ext"/><emph typestyle="bf">request for service in this jurisdiction</emph></defterm><defdesc>
+<p><text> means a request for service in this jurisdiction of a foreign judicial document mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R11A-13.1" remotekey1="REFPTID" service="DOC-ID">rule 11A.13(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.THE-COURT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.THE-COURT" type="ext"/><emph typestyle="bf">the Court</emph></defterm><defdesc>
+<p><text> means the Supreme Court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R11A-1.THIS-JURISDICTION"><defterm><refpt id="UCPN.UCPR.UCPRN05.R11A-1.THIS-JURISDICTION" type="ext"/><emph typestyle="bf">this jurisdiction</emph></defterm><defdesc>
+<p><text> means New South Wales.</text></p>
+</defdesc></defitem></deflist>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT11A.R1.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.11A-1-5" leveltype="para0" subdoc="true" toc-caption="[11A.1.5] Text of Convention"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.11A-1-5" type="ext"/>[11A.1.5] </edpnum><title>Text of Convention</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>For the full text of the Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters (the Hague Convention) [1965] ATNIF 1 see 
+<remotelink href="hcch.e-vision.nl/index_en.php?act=conventions.listing" hrefclass="http" newwindow="YES">http://hcch.e-vision.nl/index_en.php?act=conventions.listing</remotelink>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.11A-1-10" leveltype="para0" subdoc="true" toc-caption="[11A.1.10] Convention countries"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.11A-1-10" type="ext"/>[11A.1.10] </edpnum><title>Convention countries</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Hague Convention currently has 59 Contracting States (or Convention countries), including the United States, the United Kingdom, Japan, the People&#x2019;s Republic of China and a number of European Community countries. For a list of Contracting States and their status regarding this convention, see 
+<remotelink href="hcch.e-vision.nl/index_en.php?act=conventions.listing" hrefclass="http" newwindow="YES">http://hcch.e-vision.nl/index_en.php?act=conventions.listing</remotelink></text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.11A-1-15" leveltype="para0" subdoc="true" toc-caption="[11A.1.15] Existing bilateral arrangements"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.11A-1-15" type="ext"/>[11A.1.15] </edpnum><title>Existing bilateral arrangements</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Accession to the Convention does not affect Australia&#x2019;s existing bilateral arrangements on the service of documents abroad. Those arrangements include bilateral treaties with the Republic of Korea and Thailand and various treaties made by the United Kingdom in the 1920s and 1930s and later extended to apply in Australia. Apart from these treaty arrangements, Australian court documents are often served by private agents or through the use of diplomatic or consular channels. The Convention provides a mechanism for facilitating service of court documents in Convention countries by forwarding complying requests for service to a nominated authority (usually the Central Authority) in the country where service is to be effected. However, the Convention is facilitative, not mandatory, and allows for the use of alternative channels, such as by private agents (Article 10), diplomatic or consular channels (Articles 8 and 9) or postal channels (Article 10). </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R11A-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 11A.2] r 11A.2 Provisions of this Part to prevail">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R11A-2" type="ext"/>[r 11A.2]</edpnum><title searchtype="RUL-TITLE">Provisions of this Part to prevail</title><desig searchtype="RUL-NUM"><designum>11A.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Part prevail to the extent of any inconsistency between those provisions and any other provisions of these rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

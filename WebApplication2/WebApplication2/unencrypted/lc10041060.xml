@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[LCA07 Sch 2] SCHEDULE 2 PROVISIONS RELATING TO ASSESSORS</docinfo:doc-heading><docinfo:doc-id>UCPN.LC.LCAN07.SCH2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Local Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>LOCAL COURT ACT 2007 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>[LCA07 Sch 2] SCHEDULE 2 PROVISIONS RELATING TO ASSESSORS</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>90020200</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.LC"/><docinfo:metaitem name="parent-filename" value="lc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_LC.SGM_UCPN.LC.LCAN07"/><docinfo:metaitem name="parent-filename" value="lc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 93, 2007</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">LOCAL COURT ACT 2007 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.LC.LCAN07.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN_LC.SGM_SCHEDULE.GRP_1"><leg:level-vrnt leveltype="schedulegrp" searchtype="LEGISLATION SCHEDULEGRP"><leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.SCH2"><leg:level-vrnt leveltype="schedule" searchtype="LEGISLATION SCHEDULE" subdoc="false" toc-caption="[LCA07 Sch 2] SCHEDULE 2 PROVISIONS RELATING TO ASSESSORS">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><edpnum><refpt id="UCPN.LC.LCAN07.SCH2" type="ext"/>[LCA07 Sch 2]</edpnum><desig searchtype="SCH-NUM"><designum>SCHEDULE 2</designum></desig><title searchtype="SCH-TITLE">PROVISIONS RELATING TO ASSESSORS</title><leg:empleg>(
+<remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.S17.2" remotekey1="REFPTID" service="DOC-ID">Section 17(2)</remotelink>
+)</leg:empleg></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL1"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 1 Term of office">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><title searchtype="CLAUSE-TITLE"><refpt id="UCPN.LC.LCAN07.SCH2.CL1" type="ext"/>Term of office</title><desig searchtype="CLAUSE-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>(cf LCA 1982, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82.SCH2.CL1" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 1</remotelink></ci:content></ci:cite>
+ of Schedule 2)</text></p>
+<p><text>Subject to this Schedule, an Assessor holds office, for such period (not exceeding 7 years) as may be specified in the Assessor&#x2019;s instrument of appointment, but is eligible (if otherwise qualified) for re-appointment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL2"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 2 Remuneration">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><title searchtype="CLAUSE-TITLE"><refpt id="UCPN.LC.LCAN07.SCH2.CL2" type="ext"/>Remuneration</title><desig searchtype="CLAUSE-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>(cf LCA 1982, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82.SCH2.CL2" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 2</remotelink></ci:content></ci:cite>
+ of Schedule 2)</text></p>
+<p><text>An Assessor is entitled to be paid:</text></p>
+<l><li id="UCPN.LC.LCAN07.SCH2.CL2..A"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL2..A" type="ext"/>(a)</lilabel>
+<p><text>remuneration in accordance with the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.STAT" remotekey1="REFPTID" service="DOC-ID" status="unval">Statutory and Other Offices Remuneration Act 1975</remotelink></ci:content></ci:cite>
+, and</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL2..B"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL2..B" type="ext"/>(b)</lilabel>
+<p><text>such travelling and subsistence allowances as the Minister may from time to time determine in respect of the Assessor.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL3"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 3 Appointment on full-time or part-time basis">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><title searchtype="CLAUSE-TITLE"><refpt id="UCPN.LC.LCAN07.SCH2.CL3" type="ext"/>Appointment on full-time or part-time basis</title><desig searchtype="CLAUSE-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The appointment of an Assessor may be on a full-time or part-time basis.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL4"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 4 Effect of employment as Assessor">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><title searchtype="CLAUSE-TITLE"><refpt id="UCPN.LC.LCAN07.SCH2.CL4" type="ext"/>Effect of employment as Assessor</title><desig searchtype="CLAUSE-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL4.1"><leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.SCH2.CL4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as provided by this clause, an Assessor must not engage in any business or employment outside the duties of his or her office except with the approval of the Governor.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL4.2"><leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.SCH2.CL4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.SCH2.CL4.1" remotekey1="REFPTID" service="DOC-ID">Subclause (1)</remotelink></ci:content></ci:cite>
+ does not allow the Governor to give approval for an Assessor to practise as an Australian legal practitioner for fee, gain or reward.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL4.3"><leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.SCH2.CL4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.SCH2.CL4.1" remotekey1="REFPTID" service="DOC-ID">Subclause (1)</remotelink></ci:content></ci:cite>
+ does not apply to an Assessor appointed on a part-time basis, but such a person must not:</text></p>
+<l><li id="UCPN.LC.LCAN07.SCH2.CL4..3.A"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL4..3.A" type="ext"/>(a)</lilabel>
+<p><text>accept or continue to hold or discharge the duties of or be employed in any paid office in connection with any commercial business, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL4..3.B"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL4..3.B" type="ext"/>(b)</lilabel>
+<p><text>engage in or undertake any such business, whether as principal or agent, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL4..3.C"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL4..3.C" type="ext"/>(c)</lilabel>
+<p><text>practise as an Australian legal practitioner for fee, gain or reward or engage in or continue in the private practice of any other profession, occupation or trade, or enter into any employment, whether remunerated or not, with any person so engaged.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL5"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 5 Leave">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><title searchtype="CLAUSE-TITLE"><refpt id="UCPN.LC.LCAN07.SCH2.CL5" type="ext"/>Leave</title><desig searchtype="CLAUSE-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>(cf LCA 1982, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82.SCH2.CL4" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 4</remotelink></ci:content></ci:cite>
+ of Schedule 2)</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL5.1"><leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.SCH2.CL5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An Assessor, if appointed on a full-time basis, is entitled to such leave:</text></p>
+<l><li id="UCPN.LC.LCAN07.SCH2.CL5..1.A"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL5..1.A" type="ext"/>(a)</lilabel>
+<p><text>as is determined by the Minister, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL5..1.B"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL5..1.B" type="ext"/>(b)</lilabel>
+<p><text>as may be specified in respect of the Assessor in the Assessor&#x2019;s instrument of appointment.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL5.2"><leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.SCH2.CL5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Leave may be determined or specified as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.SCH2.CL5.1" remotekey1="REFPTID" service="DOC-ID">subclause (1)</remotelink></ci:content></ci:cite>
+ by reference to the leave entitlement of the holder of any other office or class of office.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL6"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 6 Effect of certain other Acts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><title searchtype="CLAUSE-TITLE"><refpt id="UCPN.LC.LCAN07.SCH2.CL6" type="ext"/>Effect of certain other Acts</title><desig searchtype="CLAUSE-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>(cf LCA 1982, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82.SCH2.CL3" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 3</remotelink></ci:content></ci:cite>
+ of Schedule 2)</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL6.1"><leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.SCH2.CL6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Public Sector Employment and Management Act 2002 does not apply to or in respect of the appointment or employment of Assessors.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL6.2"><leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.SCH2.CL6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If by or under any Act provision is made:</text></p>
+<l><li id="UCPN.LC.LCAN07.SCH2.CL6..2.A"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL6..2.A" type="ext"/>(a)</lilabel>
+<p><text>requiring a person who is the holder of a specified office to devote the whole of his or her time to the duties of that office, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL6..2.B"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL6..2.B" type="ext"/>(b)</lilabel>
+<p><text>prohibiting a person from engaging in employment outside the duties of that office,</text></p>
+</li>
+</l>
+<p><text>that provision does not operate to disqualify the person from holding that office and also the office of an Assessor appointed on a part-time basis or, subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.SCH2.CL6.3" remotekey1="REFPTID" service="DOC-ID">subclause (3)</remotelink></ci:content></ci:cite>
+, from accepting and retaining any remuneration payable to the person under this Act as an Assessor appointed on a part-time basis.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL6.3"><leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.LC.LCAN07.SCH2.CL6.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.SCH2.CL6.2" remotekey1="REFPTID" service="DOC-ID">Subclause (2)</remotelink></ci:content></ci:cite>
+ does not operate to authorise an officer of the Court to accept or retain any remuneration payable to the officer as an Assessor.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL7"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 7 Vacation of office">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><title searchtype="CLAUSE-TITLE"><refpt id="UCPN.LC.LCAN07.SCH2.CL7" type="ext"/>Vacation of office</title><desig searchtype="CLAUSE-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>(cf LCA 1982, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82.SCH2.CL6" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 6</remotelink></ci:content></ci:cite>
+ of Schedule 2)</text></p>
+<p><text>An Assessor vacates office if the Assessor:</text></p>
+<l><li id="UCPN.LC.LCAN07.SCH2.CL7..A"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL7..A" type="ext"/>(a)</lilabel>
+<p><text>completes a term of office and is not re-appointed, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL7..B"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL7..B" type="ext"/>(b)</lilabel>
+<p><text>dies, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL7..C"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL7..C" type="ext"/>(c)</lilabel>
+<p><text>resigns the office by instrument in writing addressed to the Minister, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL7..D"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL7..D" type="ext"/>(d)</lilabel>
+<p><text>becomes a mentally incapacitated person, or</text></p>
+</li>
+<li id="UCPN.LC.LCAN07.SCH2.CL7..E"><lilabel><refpt id="UCPN.LC.LCAN07.SCH2.CL7..E" type="ext"/>(e)</lilabel>
+<p><text>is removed from office by the Minister under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.SCH2.CL8" remotekey1="REFPTID" service="DOC-ID">clause 8</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.LC.LCAN07.SCH2.CL8"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 8 Removal from office">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><title searchtype="CLAUSE-TITLE"><refpt id="UCPN.LC.LCAN07.SCH2.CL8" type="ext"/>Removal from office</title><desig searchtype="CLAUSE-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>(cf LCA 1982, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.LC.LCAN82.SCH2.CL5" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 5</remotelink></ci:content></ci:cite>
+ of Schedule 2)</text></p>
+<p><text>The Minister may remove an Assessor from office for incapacity, incompetence or misbehaviour.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

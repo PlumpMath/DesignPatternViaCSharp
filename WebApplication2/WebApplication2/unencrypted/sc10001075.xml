@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 ASSOCIATE JUDGES [ss 111&#x2013;118]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCA70.PT8.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT ACT 1970</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 8  ASSOCIATE JUDGES AND OFFICERS [ss 111&#x2013;121]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 ASSOCIATE JUDGES [ss 111&#x2013;118]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70000250</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCA70"/><docinfo:metaitem name="parent-filename" value="sc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 50, 1970</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT ACT 1970</leg:officialname></leg:info><leg:level id="UCPN.SC.SCA70.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.PT8"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 8  ASSOCIATE JUDGES AND OFFICERS [ss 111&#x2013;121]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.SC.SCA70.PT8" type="ext"/>PART 8</designum></desig><title searchtype="PART-TITLE"> ASSOCIATE JUDGES AND OFFICERS [ss 111&#x2013;121]</title><leg:histnote>
+<p><text>[Heading  subst  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.PT8.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 ASSOCIATE JUDGES [ss 111&#x2013;118]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCA70.PT8.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">ASSOCIATE JUDGES [ss 111&#x2013;118]</title><leg:histnote>
+<p><text>[Heading  subst  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S111"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 111] s 111 Appointment of associate Judges and acting associate Judges">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S111" type="ext"/>[SCA s 111]</edpnum><title searchtype="SECT-TITLE">Appointment of associate Judges and acting associate Judges</title><desig searchtype="SECT-NUM"><designum>111</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S111.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S111.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may appoint one or more associate Judges.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S111.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S111.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may appoint one or more acting associate Judges.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S111.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S111.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Each person so appointed is to be a person who:</text></p>
+<l><li id="UCPN.SC.SCA70.S111.3.A"><lilabel><refpt id="UCPN.SC.SCA70.S111.3.A" type="ext"/>(a)</lilabel>
+<p><text>holds or has held a judicial office of this State or of the Commonwealth, another State or a Territory; or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S111.3.B"><lilabel><refpt id="UCPN.SC.SCA70.S111.3.B" type="ext"/>(b)</lilabel>
+<p><text>is an Australian lawyer of at least 5 years' standing.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (3)  subst Act 7 of 2002  Sch 1; am Act 120 of 2006  s 3 and Sch 3[3.25] , effective 4 December 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S111.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S111.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (4)  rep Act 87 of 1993  s 4 and Sch 5]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S111.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S111.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A registrar may, if qualified in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S111.3" remotekey1="REFPTID" service="DOC-ID">subsections (3)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S111.4" remotekey1="REFPTID" service="DOC-ID">(4)</remotelink></ci:content></ci:cite>
+, be appointed an acting associate Judge and, if so appointed, may retain his or her office as registrar.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 32 of 1994  s 3 and Sch 3;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S111.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S111.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A retired associate Judge may be appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S111.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ as an acting associate Judge even though the retired associate Judge has reached the age of 72 years (or will have reached that age before the appointment expires), but may not be so appointed for any period that extends beyond the day on which he or she reaches the age of 75 years.</text></p>
+<leg:histnote>
+<p><text>[subs (6)  insrt Act 10 of 1988  s 3 and Sch 1 ; am Act 169 of 1989  s 3 and Sch 8(2) ; Act 56 of 1990  s 3 and Sch 1 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 111  am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S112"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 112] s 112 Terms of appointment">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S112" type="ext"/>[SCA s 112]</edpnum><title searchtype="SECT-TITLE">Terms of appointment</title><desig searchtype="SECT-NUM"><designum>112</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S112.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S112.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The appointment of a person to the office of associate Judge or acting associate Judge shall, subject to this Division, be on such terms and conditions (except as to remuneration or pension) as may be specified in the instrument of the person's appointment or as may be agreed by the Governor and the officer.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 69 of 1972  s 4 ; Act 4 of 1976  s 28 and Sch 5 ; Act 32 of 1994  s 3 and Sch 3 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S112.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S112.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge or acting associate Judge is entitled to be paid&#x2014;</text></p>
+<l><li id="UCPN.SC.SCA70.S112.2.A"><lilabel><refpt id="UCPN.SC.SCA70.S112.2.A" type="ext"/>(a)</lilabel>
+<p><text>remuneration in accordance with the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.STAT75" remotekey1="REFPTID" service="DOC-ID" status="unval">Statutory and Other Offices Remuneration Act 1975</remotelink></ci:content></ci:cite>
+; and</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S112.2.B"><lilabel><refpt id="UCPN.SC.SCA70.S112.2.B" type="ext"/>(b)</lilabel>
+<p><text>such travelling and subsistence allowances as the Minister may from time to time determine in respect of the associate Judge or acting associate Judge.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  insrt Act 4 of 1976  s 28 and Sch 5 ; am Act 32 of 1994  s 3 and Sch 3 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S113"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 113] s 113 Public Sector Employment and Management Act 2002">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S113" type="ext"/>[SCA s 113]</edpnum><title searchtype="SECT-TITLE">Public Sector Employment and Management Act 2002</title><desig searchtype="SECT-NUM"><designum>113</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S113.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S113.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Public Sector Employment and Management Act 2002 does not apply to an associate Judge.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S113.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S113.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Despite subsection (1), if the Public Sector Employment and Management Act 2002 applies to a person immediately before the person&#x2019;s appointment as associate Judge, the person is entitled to receive any deferred or extended leave and any privileges as if the person had remained an officer within the meaning of that Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S113.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S113.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Public Sector Employment and Management Act 2002 does not apply to an acting associate Judge unless that Act applies to the acting associate Judge immediately before his or her appointment as acting associate Judge.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 113  subst  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S114"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 114] s 114 Superannuation Act 1916">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S114" type="ext"/>[SCA s 114]</edpnum><title searchtype="SECT-TITLE">Superannuation Act 1916</title><desig searchtype="SECT-NUM"><designum>114</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S114.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S114.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.OL.SAN16" remotekey1="REFPTID" service="DOC-ID">Superannuation Act 1916</remotelink></ci:content></ci:cite>
+, shall not apply to an associate Judge.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S114.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S114.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where an associate Judge is at the time of the associate Judge's appointment as master a contributor or pensioner under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.OL.SAN16" remotekey1="REFPTID" service="DOC-ID">Superannuation Act 1916</remotelink></ci:content></ci:cite>
+&#x2014;</text></p>
+<l><li id="UCPN.SC.SCA70.S114.2.A"><lilabel><refpt id="UCPN.SC.SCA70.S114.2.A" type="ext"/>(a)</lilabel>
+<p><text>there shall be paid to the associate Judge out of the State Superannuation Fund a sum equal to the contributions paid by the associate Judge to the fund after deducting the sum of any payments to the associate Judge of pension under that Act, but without interest; and</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S114.2.B"><lilabel><refpt id="UCPN.SC.SCA70.S114.2.B" type="ext"/>(b)</lilabel>
+<p><text>the associate Judge shall not, nor shall any spouse, de facto partner or child of the associate Judge's, be entitled to receive any other payment or pension under that Act.</text></p>
+</li>
+</l>
+<p><glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>&#x201c;De facto partner&#x201d; is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S21C" remotekey1="REFPTID" service="DOC-ID">section 21C</remotelink></ci:content></ci:cite>
+ of the Interpretation Act 1987.</text></p></glp:note></p><leg:histnote>
+<p><text>[subs (2)  am Act 32 of 1994  s 3 and Sch 3 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005;  Act 23 of 2008  s 5 and Sch 3.44[1], effective 22 September 2008 ; Act 19 of 2010  Sch 3.108[1], effective 19 May 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S114.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S114.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="0099" refpt="WPN.OL.SAN16" remotekey1="REFPTID" service="DOC-ID">Superannuation Act 1916</remotelink></ci:content></ci:cite>
+, shall not apply to an acting associate judge unless that Act applies to the acting associate Judge immediately before the acting associate Judge's appointment as acting associate Judge.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 32 of 1994  s 3 and Sch 3 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S114.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S114.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>[<emph typestyle="it">Repealed</emph>]</text></p>
+<leg:histnote>
+<p><text>[subs (4)  rep Act 19 of 2010  Sch 3.108[2], effective 19 May 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S115"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 115] s 115 Resignation and tenure of associate Judges and acting associate Judges">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S115" type="ext"/>[SCA s 115]</edpnum><title searchtype="SECT-TITLE">Resignation and tenure of associate Judges and acting associate Judges</title><desig searchtype="SECT-NUM"><designum>115</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S115.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S115.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge or an acting associate Judge may&#x2014;</text></p>
+<l><li id="UCPN.SC.SCA70.S115.1.A"><lilabel><refpt id="UCPN.SC.SCA70.S115.1.A" type="ext"/>(a)</lilabel>
+<p><text>resign from office by instrument in writing; or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S115.1.B"><lilabel><refpt id="UCPN.SC.SCA70.S115.1.B" type="ext"/>(b)</lilabel>
+<p><text>[<emph typestyle="it">repealed</emph>]</text></p>
+<p><leg:histnote>
+<p><text>[subs (1)  am Act 100 of 1986  s 55 and Sch 4 ; Act 32 of 1994  s 3 and Sch 3 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote></p></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S115.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S115.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (2)  rep Act 100 of 1986  s 55 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S115.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S115.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An acting associate Judge shall, subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S115.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+, hold office for such term as the Governor may specify in the instrument of the acting associate Judge's appointment.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 10 of 1988  s 3 and Sch 1 ; Act 32 of 1994  s 3 and Sch 3 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S115.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S115.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as provided by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S111.6" remotekey1="REFPTID" service="DOC-ID">section 111(6)</remotelink></ci:content></ci:cite>
+, the term for which an acting associate Judge holds office shall not extend beyond the day on which the associate Judge reaches the age of 72 years.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  insrt Act 10 of 1988  s 3 and Sch 1 ; am Act 56 of 1990  s 3 and Sch 1 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 115  am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S116"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 116] s 116 Assignment">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S116" type="ext"/>[SCA s 116]</edpnum><title searchtype="SECT-TITLE">Assignment</title><desig searchtype="SECT-NUM"><designum>116</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may&#x2014;</text></p>
+<l><li id="UCPN.SC.SCA70.S116..A"><lilabel><refpt id="UCPN.SC.SCA70.S116..A" type="ext"/>(a)</lilabel>
+<p><text>assign an associate Judge or an acting associate Judge&#x2014;</text></p>
+<l><li id="UCPN.SC.SCA70.S116..A.I"><lilabel><refpt id="UCPN.SC.SCA70.S116..A.I" type="ext"/>(i)</lilabel>
+<p><text>to the Court of Appeal;</text></p>
+</li><li id="UCPN.SC.SCA70.S116..A.II"><lilabel><refpt id="UCPN.SC.SCA70.S116..A.II" type="ext"/>(ii)</lilabel>
+<p><text>to the Court of Appeal and any one or more Divisions; or</text></p>
+</li><li id="UCPN.SC.SCA70.S116..A.III"><lilabel><refpt id="UCPN.SC.SCA70.S116..A.III" type="ext"/>(iii)</lilabel>
+<p><text>to any one or more Divisions; and</text></p>
+</li></l></li>
+<li id="UCPN.SC.SCA70.S116..B"><lilabel><refpt id="UCPN.SC.SCA70.S116..B" type="ext"/>(b)</lilabel>
+<p><text>revoke an assignment of an associate Judge or acting associate Judge to the Court of Appeal or to any Division.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[s 116  subst Act 41 of 1972  s 10 ; am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S117"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 117] s 117 Seniority">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S117" type="ext"/>[SCA s 117]</edpnum><title searchtype="SECT-TITLE">Seniority</title><desig searchtype="SECT-NUM"><designum>117</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where two or more associate Judges are assigned to the Court of Appeal or to any Division, they shall, subject to the terms of any instrument of assignment, have seniority amongst themselves in accordance with the order of their assignments to the Court of Appeal, or to that Division, as the case may be.</text></p>
+<leg:histnote>
+<p><text>[s 117  am Act 41 of 1972  s 10 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S117A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 117A] s 117A Powers: associate Judge in Court of Appeal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S117A" type="ext"/>[SCA s 117A]</edpnum><title searchtype="SECT-TITLE">Powers: associate Judge in Court of Appeal</title><desig searchtype="SECT-NUM"><designum>117A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S117A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S117A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section <defterm><emph typestyle="bf">associate Judge in the Court of Appeal</emph></defterm> means an associate Judge or acting associate Judge assigned to the Court of Appeal or an associate Judge or acting associate Judge directed by the Chief Justice to act in the Court of Appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S117A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S117A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge in the Court of Appeal may exercise such powers of the Court of Appeal (and only such powers) as are exercisable by a Judge of Appeal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46" remotekey1="REFPTID" service="DOC-ID">section 46</remotelink></ci:content></ci:cite>
+ and are, by or under this or any other Act, conferred upon an associate Judge assigned to the Court of Appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S117A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S117A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A judgment given or an order made by an associate Judge in the Court of Appeal may be discharged or varied by the Court of Appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 226 of 1989  s 3 and Sch 1 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S117A.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S117A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S117A.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+, a judgment given or an order made or direction given by an associate Judge in the Court of Appeal shall have effect as a judgment or order or direction of the Court of Appeal, whether or not the judgment, order or direction is within the powers mentioned in this section of an associate Judge in the Court of Appeal.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 226 of 1989  s 3 and Sch 1 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S117A.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S117A.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge in the Court of Appeal shall constitute the Court of Appeal for the purpose of the exercise of the powers mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S117A.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 117A  insrt Act 41 of 1972  s 10 ; am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S117A.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS117A-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 117A.5]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 117A.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 117A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS117A-5" type="ext"/>[SCA s 117A.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>There is no associate Judge appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S117A" remotekey1="REFPTID" service="DOC-ID">s 117A</remotelink></ci:content></ci:cite>
+ in the Court of Appeal.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S118"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 118] s 118 Powers: divisional associate Judge">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S118" type="ext"/>[SCA s 118]</edpnum><title searchtype="SECT-TITLE">Powers: divisional associate Judge</title><desig searchtype="SECT-NUM"><designum>118</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S118.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S118.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section, <defterm><emph typestyle="bf">divisional associate Judge</emph></defterm> means, in relation to any Division, an associate Judge or acting associate Judge assigned to the Division or an associate Judge or acting associate Judge directed by the Chief Justice to act in the Division.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S118.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S118.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A divisional associate Judge may exercise such powers of the Court in the Division (and only such powers) as are, by or under this or any other Act, conferred upon an associate Judge assigned to the Division.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S118.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S118.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A judgment given or an order made by a divisional associate Judge in any Division may be set aside or varied by the Court.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 226 of 1989  s 3 and Sch 1 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S118.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S118.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+, a judgment given or an order made or direction given by a divisional associate Judge in any Division shall have effect as a judgment or order or direction of the Court in the Division, whether or not the judgment, order or direction is within the powers mentioned in this section of the divisional associate Judge.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 226 of 1989  s 3 and Sch 1 ;  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S118.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S118.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A divisional associate Judge in any Division shall constitute the Court in that Division for the purpose of the exercise of the powers mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am  Act 31 of 2005   s 3 and Sch 6, effective 15 June 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 118  subst Act 41 of 1972  s 10 ; am  Act 31 of 2005   s 3 and Sch 13, effective 15 June 2005]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S118.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS118-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 118.5] Associate judge constitutes the court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 118.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 118(2), (5), s 75A, s 75A(1).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 49.4.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS118-5" type="ext"/>[SCA s 118.5] </edpnum><title>Associate judge constitutes the court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The effect of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.2" remotekey1="REFPTID" service="DOC-ID">s 118(2)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.5" remotekey1="REFPTID" service="DOC-ID">(5)</remotelink></ci:content></ci:cite>
+ is to &#x201c;make&#x201d; clear that a divisional associate judge may only exercise the powers expressly conferred under the Act and rules even though an associate judge falls within the definition of the &#x201c;court&#x201d; in SCA s 25: see generally 
+<remotelink dpsi="05CC" refpt="UCPN.SC.60-1A-2" remotekey1="REFPTID" service="DOC-ID">[SCR 60.1A.2]</remotelink>
+. As a consequence, any appeal from an associate judge to a single judge (in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-4" remotekey1="REFPTID" service="DOC-ID">r 49.4</remotelink></ci:content></ci:cite>
+ of the UCPR) is an appeal &#x201c;in proceedings in the Court&#x201d; for the purpose of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S75A.1" remotekey1="REFPTID" service="DOC-ID">s 75A(1)</remotelink></ci:content></ci:cite>
+ and is subject to the provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S75" remotekey1="REFPTID" service="DOC-ID">s 75A</remotelink></ci:content></ci:cite>
+. It follows that such an appeal is by way of rehearing: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002192" spanref="cr002192-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="409"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Do Carmo v Ford Excavations Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002192-001">[1981] 1 NSWLR 409</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS118-10" leveltype="para0" subdoc="true" toc-caption="[SCA s 118.10] Associate judge's powers">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 118.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 60, Sch D.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS118-10" type="ext"/>[SCA s 118.10] </edpnum><title>Associate judge's powers</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The powers of the associate judges are found in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60" remotekey1="REFPTID" service="DOC-ID">Pt 60</remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules and, more particularly, in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD" remotekey1="REFPTID" service="DOC-ID">Sch D</remotelink></ci:content></ci:cite>
+. In general, the Rules confer on associate judges similar powers to those exercisable by a judge of the court, subject to any limitation set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD" remotekey1="REFPTID" service="DOC-ID">Sch D</remotelink></ci:content></ci:cite>
+. Associate judges may also exercise the incidental, but not the inherent powers of the court: see 
+<remotelink dpsi="05CC" refpt="UCPN.SC.60-1A-3" remotekey1="REFPTID" service="DOC-ID">[SCR 60.1A.3]</remotelink>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS118-15" leveltype="para0" subdoc="true" toc-caption="[SCA s 118.15] Nature of the court's power to set aside or vary associate judge's orders ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 118.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> 117A(3), s 118(3), s 118(4), 121(3), s 19(2), ss 46(4).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> Pt 49, UCPR r 49.20, UCPR rr 49.7A&#x2013;49.13, UCPR r 51.2, UCPR r 51.58, UCPR r 51.59.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 60.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS118-15" type="ext"/>[SCA s 118.15] </edpnum><title>Nature of the court's power to set aside or vary associate judge's orders </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The power of variation conferred by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.3" remotekey1="REFPTID" service="DOC-ID">s 118(3)</remotelink></ci:content></ci:cite>
+ reflects wording contained in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.4" remotekey1="REFPTID" service="DOC-ID">ss 46(4)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S117A.3" remotekey1="REFPTID" service="DOC-ID">117A(3)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S121.3" remotekey1="REFPTID" service="DOC-ID">121(3)</remotelink></ci:content></ci:cite>
+ of the SCA. The review power in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.3" remotekey1="REFPTID" service="DOC-ID">s 118(3)</remotelink></ci:content></ci:cite>
+ was included in the Act following recommendations in the Law Reform Commission Report (1971) LRC 14. Various provisions of the rules make it clear that the power to review conferred by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.4" remotekey1="REFPTID" service="DOC-ID">ss 46(4)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S117A.3" remotekey1="REFPTID" service="DOC-ID"> 117A(3)</remotelink></ci:content></ci:cite>
+ was intended to be distinct from the power to make orders on appeal. For example, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S19.2" remotekey1="REFPTID" service="DOC-ID">s 19(2)</remotelink></ci:content></ci:cite>
+ of the Act and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-2" remotekey1="REFPTID" service="DOC-ID">UCPR r 51.2</remotelink></ci:content></ci:cite>
+ defines &#x201c;appeal&#x201d; as excluding an application for review; and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-58" remotekey1="REFPTID" service="DOC-ID">UCPR r 51.58</remotelink></ci:content></ci:cite>
+ prescribes the time limit for review applications under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S46.4" remotekey1="REFPTID" service="DOC-ID">s 46(4)</remotelink></ci:content></ci:cite>
+. However, as Dunford J observed in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2001"/></ci:caseinfo><ci:caseref ID="cr002193" spanref="cr002193-001"><ci:reporter value="NSWLR"/><ci:volume num="53"/><ci:page num="425"/></ci:caseref><ci:caseref ID="cr002194" spanref="cr002194-002" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200106500"/></ci:caseref><ci:caseref anaphref="cr002194" spanref="cr002194-003"/></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gill v Residential Tribunal</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002193-001">(2001) 53 NSWLR 425</ci:span>; [2001] NSWSC 896; <ci:span spanid="cr002194-002" status="unval"> BC200106500</ci:span> <ci:span spanid="cr002194-003">at [16]</ci:span></citefragment> <remotelink dpsi="0018" refpt="335975" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, SCR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60" remotekey1="REFPTID" service="DOC-ID">Pt 60</remotelink></ci:content></ci:cite>
+ did not (and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT49" remotekey1="REFPTID" service="DOC-ID">Pt 49</remotelink></ci:content></ci:cite>
+ of the UCPR does not) contain any procedure for an application to review an associate judge's decision (compare 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-20" remotekey1="REFPTID" service="DOC-ID">UCPR r 49.20</remotelink></ci:content></ci:cite>
+ relating to review of a registrar's decision) and the appeal provisions in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-7A" remotekey1="REFPTID" service="DOC-ID">UCPR rr 49.7A&#x2013;49.13</remotelink></ci:content></ci:cite>
+ implicitly assume that the rights of appeal those rules confer represent the exclusive procedure for challenging an associate judge's decision. Consistent with that implication, in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002195" spanref="cr002195-001"><ci:reporter value="urj"/><ci:refnum num="BC8901965"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Avard v Harrison</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002195-001"> (NSWSC, McLelland J, No 5137/89, 13 July 1989, unreported, BC8901965)</ci:span></citefragment></ci:content></ci:cite> McLelland J held that an appeal was the preferable procedure for the review of an associate judge's decision. And in <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gill v Residential Tribunal</emph>
+</citefragment></ci:content></ci:cite>, above, Dunford J held that, at least where proceedings were specifically referred to an associate judge as constituting the court, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.3" remotekey1="REFPTID" service="DOC-ID">s 118(3)</remotelink></ci:content></ci:cite>
+ did not confer a separate right of appeal or review: see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002196" spanref="cr002196-001"><ci:reporter value="urj"/><ci:refnum num="BC200302414"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Koutsourais v Metledge</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 416; <ci:span spanid="cr002196-001"> BC200302414</ci:span></citefragment> <remotelink dpsi="0018" refpt="362868" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (semble no review power where the associate judge's irregular exercise of jurisdiction only operated because of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.4" remotekey1="REFPTID" service="DOC-ID">s 118(4)</remotelink></ci:content></ci:cite>
+). In <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gill's</emph>
+</citefragment></ci:content></ci:cite> case, above, Dunford J approved the distinction, drawn by Windeyer J in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002197" spanref="cr002197-001"><ci:reporter value="urj"/><ci:refnum num="BC9703590"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pollicino v Pollicino</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002197-001"> (NSWSC, Windeyer J, No 3801/97, 14 August 1997, unreported, BC9703590)</ci:span></citefragment></ci:content></ci:cite> between instances where the associate judge exercised &#x201c;the power of the court pursuant to a jurisdiction given pursuant to the rules&#x201d; and those where an associate judge's decision was &#x201c;as a delegate of a judge&#x201d;. The practical result of these decisions is to limit the scope of the review power in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.3" remotekey1="REFPTID" service="DOC-ID">s 118(3)</remotelink></ci:content></ci:cite>
+ to cases of the latter kind: (compare the approach taken to the review of decisions of the registrar of the Court of Appeal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R51-59" remotekey1="REFPTID" service="DOC-ID">UCPR r 51.59</remotelink></ci:content></ci:cite>
+ and by reference to UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT49" remotekey1="REFPTID" service="DOC-ID">Pt 49</remotelink></ci:content></ci:cite>
+). As to the nature of the review power and the principles governing its exercise: see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.49-19-5" remotekey1="REFPTID" service="DOC-ID">[49.19.5]</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

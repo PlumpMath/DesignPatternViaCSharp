@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [rr 1&#x2013;14]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCR70.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT RULES </title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [rr 1&#x2013;14]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70010000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCRC"/><docinfo:metaitem name="parent-filename" value="sc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">SUPREME COURT RULES </leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1970</leg:year><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<heading><title>NUMERICAL TABLE OF PARTS</title></heading>
+<table frame="none" id="UCPN.SC.SCR70.T1" pgwide="1">
+<tgroup align="left" cols="3" colsep="0" rowsep="0">
+<colspec colname="c1" colsep="0" colwidth="49*" rowsep="0"/>
+<colspec colname="c2" colsep="0" colwidth="450*" rowsep="0"/>
+<colspec colname="colspec1" colsep="0" colwidth="20*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Part</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Title</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">&#x2002;1</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Preliminary</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">&#x2002;1A</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Sittings and Vacations</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">12</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Distribution of Business</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">51B</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Appeals to the Court under Part 5 of the Crimes (Local Courts Appeal and Review) Act 2001</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">55</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Contempt</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">60</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Associate Judges</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">61</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Registrars and Chief Clerk</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">65A</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Legal Profession</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">65C</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Admission as Legal Practitioner</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">66A</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Court Appointed Referral for Legal Assistance</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">69</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Infants' Custody and Settlements Act Rules</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">71A</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Service and Execution of Process Act 1992 (Commonwealth)</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">74</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Transfers of Proceedings; Cross-vesting Laws</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">75</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Criminal Proceedings</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">78</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Probate And Administration</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">79</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Court of Disputed Returns</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">80</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Companies (New South Wales) Code and Corporations Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">80A</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Corporations Law and ASC Law</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">82</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Public Notaries Act 1997 (Applies to proceedings commenced under the Public Notaries Act 1997)</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">84</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Crimes (Administration of Sentences) Act 1999</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top"><emph typestyle="it">Schedules</emph></entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">D</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Powers of Masters</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">G</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Solicitors' Costs [<emph typestyle="it">Not reproduced</emph>]</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">G1</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Solicitors' Costs [<emph typestyle="it">Not reproduced</emph>]</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">J</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Procedure Under Various Acts</entry>
+<entry colsep="0" morerows="0" rowsep="0"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<h>ALPHABETICAL TABLE OF PARTS</h>
+<table frame="none" id="UCPN.SC.SCR70.T4" pgwide="1">
+<tgroup align="left" cols="2" colsep="0" rowsep="0">
+<colspec colname="c1" colsep="0" colwidth="436*" rowsep="0"/>
+<colspec colname="c2" colsep="0" colwidth="91*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Admission as Legal Practitioner&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 65C</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Appeals to the Court under Part 5 of the Crimes (Local Courts Appeal and Review) Act 2001&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="bottom">Pt 51B</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Companies (New South Wales) Code&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 80</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Contempt&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 55</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Corporations Law and ASC Law&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 80A</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Court Appointed Referral for Legal Assistance&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 66A</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Court of Disputed Returns&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 79</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0">Crimes (Administration of Sentences) Act 1999&#x2026;</entry>
+<entry colsep="0" morerows="0" rowsep="0">Pt 84</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Criminal Proceedings&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 75</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Distribution of Business&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 12</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Infants' Custody and Settlements Act Rules&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 69</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Legal Profession&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 65A</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Masters&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 60</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Preliminary&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 1</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Probate And Administration&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 78</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Public Notaries Act 1997 (Applies to proceedings commenced under the Public Notaries Act 1997)&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="bottom">Pt 82</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Registrars and Chief Clerk&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 61</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Service and Execution of Process Act 1992 (Commonwealth)&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 71A</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Service of External Process&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 57</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Sittings and Vacations&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt lA</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Taking Evidence for Foreign and Australian Courts and Tribunals&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 58</entry>
+</row>
+<row rowsep="0"><entry align="justify" colsep="0" morerows="0" rowsep="0" valign="top">Transfers of Proceedings; Cross-vesting Laws&#x2026;</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Pt 74</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<leg:history><leg:heading><title>Table of Amendments</title></leg:heading>
+<p>
+<text>The Supreme Court Rules commenced 1 July 1972. The Rules are reproduced as issued in the official Reprint No 7 of 8 May 2007. Since commencement, the Rules have been amended by the following:.</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Gazette</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">1</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">2</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">3</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">4</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">5</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">6</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">7</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">8</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">9</entry><entry colname="c2">59 of 2 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">10</entry><entry colname="c2">66 of 23 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">11</entry><entry colname="c2">66 of 23 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">12</entry><entry colname="c2">68 of 30 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">13</entry><entry colname="c2">68 of 30 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">14</entry><entry colname="c2">68 of 30 June 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">15</entry><entry colname="c2">70 of 7 July 1972</entry><entry colname="c3"/></row>
+<row><entry colname="c1">16</entry><entry colname="c2">82 of 11 August 1972</entry><entry colname="c3"/></row>
+<row><entry colname="c1">17</entry><entry colname="c2">102 of 29 September 1972</entry><entry colname="c3"/></row>
+<row><entry colname="c1">18</entry><entry colname="c2">107 of 13 October 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">19</entry><entry colname="c2">110 of 20 October 1972</entry><entry colname="c3"/></row>
+<row><entry colname="c1">20</entry><entry colname="c2">112 of 27 October 1972</entry><entry colname="c3"/></row>
+<row><entry colname="c1">21</entry><entry colname="c2">132 of 15 December 1972</entry><entry colname="c3"/></row>
+<row><entry colname="c1">22</entry><entry colname="c2">132 of 15 December 1972</entry><entry colname="c3">r 2 (1 January 1973); r 3 (2 April 1973)</entry></row>
+<row><entry colname="c1">23</entry><entry colname="c2">25 of 23 February 1973</entry><entry colname="c3"/></row>
+<row><entry colname="c1">24</entry><entry colname="c2">41 of 30 March 1973</entry><entry colname="c3"/></row>
+<row><entry colname="c1">25</entry><entry colname="c2">57 of 4 May 1973</entry><entry colname="c3">r 3 (1 July 1973)</entry></row>
+<row><entry colname="c1">26</entry><entry colname="c2">72 of 1 June 1973</entry><entry colname="c3">r 3 (1 August 1973)</entry></row>
+<row><entry colname="c1">27</entry><entry colname="c2">111 of 24 August 1973</entry><entry colname="c3"/></row>
+<row><entry colname="c1">28</entry><entry colname="c2">117 of 7 September 1973</entry><entry colname="c3"/></row>
+<row><entry colname="c1">29</entry><entry colname="c2">125 of 28 September 1973</entry><entry colname="c3"/></row>
+<row><entry colname="c1">30</entry><entry colname="c2">127 of 5 October 1973</entry><entry colname="c3">2 May 1975</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">134 of 19 October 1973</entry><entry colname="c3"/></row>
+<row><entry colname="c1">31</entry><entry colname="c2">139 of 2 November 1973</entry><entry colname="c3"/></row>
+<row><entry colname="c1">32</entry><entry colname="c2">152 of 7 December 1973</entry><entry colname="c3"/></row>
+<row><entry colname="c1">33</entry><entry colname="c2">160 of 21 December 1973</entry><entry colname="c3">r 3 (18 January 1974)</entry></row>
+<row><entry colname="c1">34</entry><entry colname="c2">163 of 28 December 1973</entry><entry colname="c3">1 January 1974</entry></row>
+<row><entry colname="c1">35</entry><entry colname="c2">4 of 11 January 1974</entry><entry colname="c3">r 3 (8 February 1974)</entry></row>
+<row><entry colname="c1">36</entry><entry colname="c2">18 of 22 February 1974</entry><entry colname="c3">r 2 (1 July 1974)</entry></row>
+<row><entry colname="c1">37</entry><entry colname="c2">33 of 22 March 1974</entry><entry colname="c3">r 3 (22 April 1974); r 4 (2 May 1975)</entry></row>
+<row><entry colname="c1">38</entry><entry colname="c2">36 of 29 March 1974</entry><entry colname="c3">19 April 1974</entry></row>
+<row><entry colname="c1">39</entry><entry colname="c2">36 of 29 March 1974</entry><entry colname="c3"/></row>
+<row><entry colname="c1">40</entry><entry colname="c2">50 of 3 May 1974</entry><entry colname="c3">r 3 (1 July 1974)</entry></row>
+<row><entry colname="c1">41</entry><entry colname="c2">59 of 24 May 1974</entry><entry colname="c3"/></row>
+<row><entry colname="c1">42</entry><entry colname="c2">79 of 28 June 1974</entry><entry colname="c3"/></row>
+<row><entry colname="c1">43</entry><entry colname="c2">108 of 6 September 1974</entry><entry colname="c3"/></row>
+<row><entry colname="c1">44</entry><entry colname="c2">129 of 25 October 1974</entry><entry colname="c3"/></row>
+<row><entry colname="c1">45</entry><entry colname="c2">129 of 25 October 1974</entry><entry colname="c3"/></row>
+<row><entry colname="c1">46</entry><entry colname="c2">154 of 20 December 1974</entry><entry colname="c3"/></row>
+<row><entry colname="c1">47</entry><entry colname="c2">52 of 4 April 1975</entry><entry colname="c3"/></row>
+<row><entry colname="c1">48</entry><entry colname="c2">83 of 13 June 1975</entry><entry colname="c3"/></row>
+<row><entry colname="c1">49</entry><entry colname="c2">92 of 4 July 1975</entry><entry colname="c3"/></row>
+<row><entry colname="c1">50</entry><entry colname="c2">102 of 1 August 1975</entry><entry colname="c3"/></row>
+<row><entry colname="c1">51</entry><entry colname="c2">102 of 1 August 1975</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">108 of 15 August 1975</entry><entry colname="c3"/></row>
+<row><entry colname="c1">52</entry><entry colname="c2">110 of 22 August 1975</entry><entry colname="c3"/></row>
+<row><entry colname="c1">53</entry><entry colname="c2">160 of 5 December 1975</entry><entry colname="c3"/></row>
+<row><entry colname="c1">54</entry><entry colname="c2">41 of 26 March 1976</entry><entry colname="c3"/></row>
+<row><entry colname="c1">55</entry><entry colname="c2">59 of 30 April 1976</entry><entry colname="c3"/></row>
+<row><entry colname="c1">56</entry><entry colname="c2">94 of 23 July 1976</entry><entry colname="c3"/></row>
+<row><entry colname="c1">57</entry><entry colname="c2">125 of 1 October 1976</entry><entry colname="c3">1 December 1976</entry></row>
+<row><entry colname="c1">58</entry><entry colname="c2">125 of 1 October 1976</entry><entry colname="c3">1 December 1976</entry></row>
+<row><entry colname="c1">59</entry><entry colname="c2">125 of 1 October 1976</entry><entry colname="c3">1 December 1976</entry></row>
+<row><entry colname="c1">60</entry><entry colname="c2">161 of 17 December 1976</entry><entry colname="c3"/></row>
+<row><entry colname="c1">61</entry><entry colname="c2">30 of 25 March 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">62</entry><entry colname="c2">32 of 1 April 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">63</entry><entry colname="c2">32 of 1 April 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">64</entry><entry colname="c2">32 of 1 April 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">65</entry><entry colname="c2">43 of 29 April 1977</entry><entry colname="c3">2 May 1977</entry></row>
+<row><entry colname="c1">66</entry><entry colname="c2">52 of 27 May 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">67</entry><entry colname="c2">52 of 27 May 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">68</entry><entry colname="c2">73 of 1 July 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">69</entry><entry colname="c2">73 of 1 July 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">70</entry><entry colname="c2">73 of 1 July 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">71</entry><entry colname="c2">82 of 22 July 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">72</entry><entry colname="c2">108 of 23 September 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">73</entry><entry colname="c2">111 of 30 September 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">74</entry><entry colname="c2">126 of 21 October 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">75</entry><entry colname="c2">126 of 21 October 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">76</entry><entry colname="c2">126 of 21 October 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">77</entry><entry colname="c2">128 of 28 October 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">78</entry><entry colname="c2">159 of 23 December 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">79</entry><entry colname="c2">159 of 23 December 1977</entry><entry colname="c3">3 April 1978</entry></row>
+<row><entry colname="c1">80</entry><entry colname="c2">159 of 23 December 1977</entry><entry colname="c3">r 3 (1 January 1978)</entry></row>
+<row><entry colname="c1">81</entry><entry colname="c2">159 of 23 December 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">82</entry><entry colname="c2">159 of 23 December 1977</entry><entry colname="c3"/></row>
+<row><entry colname="c1">83</entry><entry colname="c2">43 of 21 April 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">84</entry><entry colname="c2">46 of 28 April 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">85</entry><entry colname="c2">46 of 28 April 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">86</entry><entry colname="c2">46 of 28 April 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">87</entry><entry colname="c2">46 of 28 April 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">88</entry><entry colname="c2">86 of 28 July 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">89</entry><entry colname="c2">166 of 24 November 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">171 of 8 December 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">90</entry><entry colname="c2">176 of 22 December 1978</entry><entry colname="c3"/></row>
+<row><entry colname="c1">91</entry><entry colname="c2">46 of 30 March 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">92</entry><entry colname="c2">90 of 6 July 1979</entry><entry colname="c3">17 March 1980</entry></row>
+<row><entry colname="c1">93</entry><entry colname="c2">90 of 6 July 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">92 of 13 July 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">94</entry><entry colname="c2">90 of 6 July 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">95</entry><entry colname="c2">90 of 6 July 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">96</entry><entry colname="c2">109 of 17 August 1979</entry><entry colname="c3">14 January 1980</entry></row>
+<row><entry colname="c1">97</entry><entry colname="c2">130 of 21 September 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">140 of 12 October 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">98</entry><entry colname="c2">142 of 19 October 1979</entry><entry colname="c3">12 November 1979</entry></row>
+<row><entry colname="c1">99</entry><entry colname="c2">145 of 26 October 1979</entry><entry colname="c3">12 November 1979</entry></row>
+<row><entry colname="c1">100</entry><entry colname="c2">145 of 26 October 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">101</entry><entry colname="c2">184 of 21 December 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">102</entry><entry colname="c2">184 of 21 December 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">103</entry><entry colname="c2">184 of 21 December 1979</entry><entry colname="c3"/></row>
+<row><entry colname="c1">104</entry><entry colname="c2">76 of 23 May 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">89 of 27 June 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">105</entry><entry colname="c2">76 of 23 May 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">106</entry><entry colname="c2">76 of 23 May 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">107</entry><entry colname="c2">80 of 30 May 1980</entry><entry colname="c3">r 2 (rescinded by Amendment 195); r 3 (14 April 1980)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">52 of 16 April 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">108</entry><entry colname="c2">121 of 29 August 1980</entry><entry colname="c3">r 2 (rescinded by Amendment 195)</entry></row>
+<row><entry colname="c1">109</entry><entry colname="c2">121 of 29 August 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">110</entry><entry colname="c2">156 of 24 October 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">111</entry><entry colname="c2">170 of 14 November 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">112</entry><entry colname="c2">170 of 14 November 1980</entry><entry colname="c3"/></row>
+<row><entry colname="c1">113</entry><entry colname="c2">8 of 16 January 1981</entry><entry colname="c3"/></row>
+<row><entry colname="c1">114</entry><entry colname="c2">62 of 24 April 1981</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">75 of 29 May 1981</entry><entry colname="c3"/></row>
+<row><entry colname="c1">115</entry><entry colname="c2">104 of 24 July 1981</entry><entry colname="c3">r 2 (24 July 1981); r 3 (rescinded by Amendment 195)</entry></row>
+<row><entry colname="c1">116</entry><entry colname="c2">128 of 28 August 1981</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">139 of 18 September 1981</entry><entry colname="c3"/></row>
+<row><entry colname="c1">117</entry><entry colname="c2">141 of 25 September 1981</entry><entry colname="c3"/></row>
+<row><entry colname="c1">118</entry><entry colname="c2">166 of 30 October 1981</entry><entry colname="c3"/></row>
+<row><entry colname="c1">119</entry><entry colname="c2">196 of 24 December 1981</entry><entry colname="c3">31 December 1981</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">28 of 19 February 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">99 of 23 July 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">120</entry><entry colname="c2">196 of 24 December 1981</entry><entry colname="c3"/></row>
+<row><entry colname="c1">121</entry><entry colname="c2">48 of 2 April 1982</entry><entry colname="c3">r 3(18), (23)(iii) (2 April 1982); rem r 3 (1 June 1982); r 4 (2 April 1982)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">61 of 7 May 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">122</entry><entry colname="c2">52 of 16 April 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">123</entry><entry colname="c2">52 of 16 April 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">124</entry><entry colname="c2">61 of 7 May 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">125</entry><entry colname="c2">74 of 28 May 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">126</entry><entry colname="c2">90 of 30 June 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">94 of 9 July 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">127</entry><entry colname="c2">135 of 8 October 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">128</entry><entry colname="c2">135 of 8 October 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">129</entry><entry colname="c2">141 of 22 October 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">154 of 12 November 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">130</entry><entry colname="c2">177 of 17 December 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">131</entry><entry colname="c2">179 of 24 December 1982</entry><entry colname="c3"/></row>
+<row><entry colname="c1">132</entry><entry colname="c2">179 of 24 December 1982</entry><entry colname="c3">rr 3 and 4 (1 January 1983)</entry></row>
+<row><entry colname="c1">133</entry><entry colname="c2">35 of 25 February 1983</entry><entry colname="c3">r 3(2) (1 June 1983)</entry></row>
+<row><entry colname="c1">134</entry><entry colname="c2">63 of 22 April 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">135</entry><entry colname="c2">71 of 13 May 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">136</entry><entry colname="c2">96 of 8 July 1983</entry><entry colname="c3">r 3(2) (10 October 1983)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">103 of 22 July 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">137</entry><entry colname="c2">96 of 8 July 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">138</entry><entry colname="c2">114 of 19 August 1983</entry><entry colname="c3">1 November 1983</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">114 of 19 August 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">139</entry><entry colname="c2">170 of 9 December 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">140</entry><entry colname="c2">170 of 9 December 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">141</entry><entry colname="c2">170 of 9 December 1983</entry><entry colname="c3">r 2(1)(f) (1 January 1984)</entry></row>
+<row><entry colname="c1">142</entry><entry colname="c2">176 of 23 December 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">143</entry><entry colname="c2">176 of 23 December 1983</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">6 of 13 January 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">144</entry><entry colname="c2">24 of 17 February 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">145</entry><entry colname="c2">28 of 24 February 1984</entry><entry colname="c3">r 3(1) (1 January 1984)</entry></row>
+<row><entry colname="c1">146</entry><entry colname="c2">44 of 23 March 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">147</entry><entry colname="c2">44 of 23 March 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">148</entry><entry colname="c2">60 of 27 April 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">149</entry><entry colname="c2">84 of 25 May 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">150</entry><entry colname="c2">93 of 15 June 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">151</entry><entry colname="c2">103 of 29 June 1984</entry><entry colname="c3">5 August 1985</entry></row>
+<row><entry colname="c1">152</entry><entry colname="c2">103 of 29 June 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">116 of 27 July 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">153</entry><entry colname="c2">103 of 29 June 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">154</entry><entry colname="c2">103 of 29 June 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">155</entry><entry colname="c2">131 of 31 August 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">156</entry><entry colname="c2">131 of 31 August 1984</entry><entry colname="c3">28 September 1984</entry></row>
+<row><entry colname="c1">157</entry><entry colname="c2">137 of 21 September 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">158</entry><entry colname="c2">170 of 7 December 1984</entry><entry colname="c3">rr 3 and 4 (1 January 1985)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">178 of 21 December 1984</entry><entry colname="c3"/></row>
+<row><entry colname="c1">159</entry><entry colname="c2">178 of 21 December 1984</entry><entry colname="c3">r 2(1)(a), (b), (f) (1 January 1985); r 3 (5 August 1985); r 4 (11 February 1985)</entry></row>
+<row><entry colname="c1">160</entry><entry colname="c2">58 of 22 March 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">161</entry><entry colname="c2">73 of 26 April 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">162</entry><entry colname="c2">73 of 26 April 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">80 of 10 May 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">88 of 31 May 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">163</entry><entry colname="c2">88 of 31 May 1985</entry><entry colname="c3">r 3 (1 July 1985)</entry></row>
+<row><entry colname="c1">164</entry><entry colname="c2">100 of 5 July 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">165</entry><entry colname="c2">103 of 12 July 1985</entry><entry colname="c3">12 August 1985</entry></row>
+<row><entry colname="c1">166</entry><entry colname="c2">103 of 12 July 1985</entry><entry colname="c3">26 August 1986</entry></row>
+<row><entry colname="c1">167</entry><entry colname="c2">105 of 19 July 1985</entry><entry colname="c3">rr 3, 6 and 8 (19 August 1985)</entry></row>
+<row><entry colname="c1">168</entry><entry colname="c2">120 of 23 August 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">169</entry><entry colname="c2">120 of 23 August 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">170</entry><entry colname="c2">122 of 30 August 1985</entry><entry colname="c3">2 October 1985</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">125 of 6 September 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">171</entry><entry colname="c2">130 of 20 September 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">172</entry><entry colname="c2">130 of 20 September 1985</entry><entry colname="c3">r 4 (20 November 1985)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">141 of 11 October 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">173</entry><entry colname="c2">147 of 1 November 1985</entry><entry colname="c3">r 2(1) (1 January 1986)</entry></row>
+<row><entry colname="c1">174</entry><entry colname="c2">157 of 22 November 1985</entry><entry colname="c3"/></row>
+<row><entry colname="c1">175</entry><entry colname="c2">176 of 20 December 1985</entry><entry colname="c3">r 2(1)(a), (b), (f) (1 January 1986)</entry></row>
+<row><entry colname="c1">176</entry><entry colname="c2">2 of 3 January 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">18 of 31 January 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">177</entry><entry colname="c2">29 of 14 February 1986</entry><entry colname="c3">r 2 (3 March 1986)</entry></row>
+<row><entry colname="c1">178</entry><entry colname="c2">29 of 14 February 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">36 of 28 February 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">179</entry><entry colname="c2">49 of 21 March 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">180</entry><entry colname="c2">66 of 24 April 1986</entry><entry colname="c3">rr 1, 2 and 4 (24 April 1986); r 3 (1 January 1987)</entry></row>
+<row><entry colname="c1">181</entry><entry colname="c2">85 of 23 May 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">182</entry><entry colname="c2">85 of 23 May 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">183</entry><entry colname="c2">99 of 27 June 1986</entry><entry colname="c3">r 2(1)(a), (b), (f) (1 July 1986)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">120 of 18 July 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">184</entry><entry colname="c2">123 of 25 July 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">185</entry><entry colname="c2">134 of 22 August 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">186</entry><entry colname="c2">142 of 12 September 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">187</entry><entry colname="c2">151 of 26 September 1986</entry><entry colname="c3">r 2 (1 January 1987)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">156 of 3 October 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">188</entry><entry colname="c2">151 of 26 September 1986</entry><entry colname="c3">1 January 1987</entry></row>
+<row><entry colname="c1">189</entry><entry colname="c2">169 of 24 October 1986</entry><entry colname="c3">r 3 (1 January 1987)</entry></row>
+<row><entry colname="c1">190</entry><entry colname="c2">179 of 21 November 1986</entry><entry colname="c3">rr 3(2), 4(2) (1 January 1987)</entry></row>
+<row><entry colname="c1">191</entry><entry colname="c2">195 of 19 December 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">195 of 19 December 1986</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">20 of 30 January 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">192</entry><entry colname="c2">36 of 20 February 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">47 of 13 March 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">193</entry><entry colname="c2">47 of 13 March 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">194</entry><entry colname="c2">54 of 20 March 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">195</entry><entry colname="c2">60 of 27 March 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">65 of 10 April 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">196</entry><entry colname="c2">73 of 1 May 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">197</entry><entry colname="c2">104 of 19 June 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">198</entry><entry colname="c2">140 of 4 September 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">150 of 25 September 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">199</entry><entry colname="c2">150 of 25 September 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">200</entry><entry colname="c2">165 of 23 October 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">201</entry><entry colname="c2">179 of 20 November 1987</entry><entry colname="c3">r 2(c) and (d) (1 February 1988)</entry></row>
+<row><entry colname="c1">202</entry><entry colname="c2">193 of 18 December 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">203</entry><entry colname="c2">193 of 18 December 1987</entry><entry colname="c3"/></row>
+<row><entry colname="c1">204</entry><entry colname="c2">199 of 31 December 1987</entry><entry colname="c3">1 February 1988</entry></row>
+<row><entry colname="c1">205</entry><entry colname="c2">33 of 19 February 1988</entry><entry colname="c3">1 March 1988</entry></row>
+<row><entry colname="c1">206</entry><entry colname="c2">63 of 25 March 1988</entry><entry colname="c3"/></row>
+<row><entry colname="c1">207</entry><entry colname="c2">77 of 22 April 1988</entry><entry colname="c3"/></row>
+<row><entry colname="c1">208</entry><entry colname="c2">88 of 20 May 1988</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">95 of 3 June 1988</entry><entry colname="c3"/></row>
+<row><entry colname="c1">209</entry><entry colname="c2">102 of 17 June 1988</entry><entry colname="c3">1 July 1988</entry></row>
+<row><entry colname="c1">210</entry><entry colname="c2">138 of 26 August 1988</entry><entry colname="c3">26 October 1988</entry></row>
+<row><entry colname="c1">211</entry><entry colname="c2">147 of 23 September 1988</entry><entry colname="c3">r 2(d), (l), (u) and (v) (23 November 1988)</entry></row>
+<row><entry colname="c1">212</entry><entry colname="c2">149 of 30 September 1988</entry><entry colname="c3"/></row>
+<row><entry colname="c1">213</entry><entry colname="c2">178 of 2 December 1988</entry><entry colname="c3">14 November 1988; subr 2(1) (1 August 1989)</entry></row>
+<row><entry colname="c1">214</entry><entry colname="c2">187 of 23 December 1988</entry><entry colname="c3">1 January 1989</entry></row>
+<row><entry colname="c1">215</entry><entry colname="c2">187 of 23 December 1988</entry><entry colname="c3">r 2(a) (1 March 1989); r 2(b) (1 February 1989)</entry></row>
+<row><entry colname="c1">216</entry><entry colname="c2">187 of 23 December 1988</entry><entry colname="c3">1 March 1989</entry></row>
+<row><entry colname="c1">217</entry><entry colname="c2">187 of 23 December 1988</entry><entry colname="c3">r 2(j), (k), (l), (n), (o), (q) (19 February 1989)</entry></row>
+<row><entry colname="c1">218</entry><entry colname="c2">25 of 24 February 1989</entry><entry colname="c3">r 3(b), (c) and (e) (1 March 1989)</entry></row>
+<row><entry colname="c1">219</entry><entry colname="c2">48 of 21 April 1989</entry><entry colname="c3"/></row>
+<row><entry colname="c1">220</entry><entry colname="c2">62 of 19 May 1989</entry><entry colname="c3">8 May 1989</entry></row>
+<row><entry colname="c1">221</entry><entry colname="c2">62 of 19 May 1989</entry><entry colname="c3">1 November 1989</entry></row>
+<row><entry colname="c1">222</entry><entry colname="c2">78 of 23 June 1989</entry><entry colname="c3">19 June 1989</entry></row>
+<row><entry colname="c1">223</entry><entry colname="c2">83 of 14 July 1989</entry><entry colname="c3">19 June 1989</entry></row>
+<row><entry colname="c1">224</entry><entry colname="c2">83 of 14 July 1989</entry><entry colname="c3">10 July 1989</entry></row>
+<row><entry colname="c1">225</entry><entry colname="c2">89 of 19 August 1989</entry><entry colname="c3">14 August 1989; r 2(1)(b), (c) and (d) (1 September 1989)</entry></row>
+<row><entry colname="c1">226</entry><entry colname="c2">90 of 25 August 1989</entry><entry colname="c3">1 January 1990</entry></row>
+<row><entry colname="c1">227</entry><entry colname="c2">90 of 25 August 1989</entry><entry colname="c3">1 November 1989</entry></row>
+<row><entry colname="c1">228</entry><entry colname="c2">97 of 22 September 1989</entry><entry colname="c3"/></row>
+<row><entry colname="c1">229</entry><entry colname="c2">97 of 22 September 1989</entry><entry colname="c3">25 September 1989</entry></row>
+<row><entry colname="c1">230</entry><entry colname="c2">97 of 22 September 1989</entry><entry colname="c3">rr 2, 4(a) (22 September 1989); r 4(b), (c) (1 January 1990); r 4(d) (1 December 1989)</entry></row>
+<row><entry colname="c1">231</entry><entry colname="c2">103 of 20 October 1989</entry><entry colname="c3"/></row>
+<row><entry colname="c1">232</entry><entry colname="c2">111 of 17 November 1989</entry><entry colname="c3">13 November 1989</entry></row>
+<row><entry colname="c1">233</entry><entry colname="c2">121 of 15 December 1989</entry><entry colname="c3">15 December 1989; r 2 (29 January 1990)</entry></row>
+<row><entry colname="c1">234</entry><entry colname="c2">121 of 15 December 1989</entry><entry colname="c3">(rescinded by Amendment No 249)</entry></row>
+<row><entry colname="c1">235</entry><entry colname="c2">124 of 22 December 1989</entry><entry colname="c3">22 December 1989; r 2 (1 January 1990)</entry></row>
+<row><entry colname="c1">236</entry><entry colname="c2">29 of 23 February 1990</entry><entry colname="c3">23 February 1990</entry></row>
+<row><entry colname="c1">237</entry><entry colname="c2">29 of 23 February 1990</entry><entry colname="c3">23 February 1990</entry></row>
+<row><entry colname="c1">238</entry><entry colname="c2">39 of 16 March 1990</entry><entry colname="c3">16 March 1990</entry></row>
+<row><entry colname="c1">239</entry><entry colname="c2">44 of 30 March 1990</entry><entry colname="c3">30 March 1990</entry></row>
+<row><entry colname="c1">240</entry><entry colname="c2">51 of 20 April 1990</entry><entry colname="c3">20 April 1990</entry></row>
+<row><entry colname="c1">241</entry><entry colname="c2">51 of 20 April 1990</entry><entry colname="c3">20 April 1990</entry></row>
+<row><entry colname="c1">242</entry><entry colname="c2">68 of 25 May 1990</entry><entry colname="c3">25 May 1990</entry></row>
+<row><entry colname="c1">243</entry><entry colname="c2">80 of 22 June 1990</entry><entry colname="c3">22 June 1990</entry></row>
+<row><entry colname="c1">244</entry><entry colname="c2">90 of 20 July 1990</entry><entry colname="c3">20 July 1990</entry></row>
+<row><entry colname="c1">245</entry><entry colname="c2">90 of 20 July 1990</entry><entry colname="c3">20 July 1990; r 2 (3 August 1990)</entry></row>
+<row><entry colname="c1">246</entry><entry colname="c2">90 of 20 July 1990</entry><entry colname="c3">20 July 1990; r 5(c) and (d) (1 September 1990)</entry></row>
+<row><entry colname="c1">247</entry><entry colname="c2">106 of 24 August 1990</entry><entry colname="c3">24 August 1990; r 2(b)&#x2013;(g) (1 September 1990)</entry></row>
+<row><entry colname="c1">248</entry><entry colname="c2">148 of 16 November 1990</entry><entry colname="c3">16 November 1990</entry></row>
+<row><entry colname="c1">249</entry><entry colname="c2">167 of 14 December 1990</entry><entry colname="c3">14 December 1990; r 3 on commencement of the Confiscation of Proceeds of Crime Act 1989 (11 January 1991); r 6 (1 January 1991)</entry></row>
+<row><entry colname="c1">250</entry><entry colname="c2">174 of 21 December 1990</entry><entry colname="c3">21 December 1990</entry></row>
+<row><entry colname="c1">251</entry><entry colname="c2">31 of 15 February 1991</entry><entry colname="c3">15 February 1991</entry></row>
+<row><entry colname="c1">252</entry><entry colname="c2">45 of 15 March 1991</entry><entry colname="c3">15 March 1991</entry></row>
+<row><entry colname="c1">253</entry><entry colname="c2">59 of 19 April 1991</entry><entry colname="c3">19 April 1991</entry></row>
+<row><entry colname="c1">254</entry><entry colname="c2">82 of 24 May 1991</entry><entry colname="c3">24 May 1991</entry></row>
+<row><entry colname="c1">255</entry><entry colname="c2">96 of 21 June 1991</entry><entry colname="c3">21 June 1991</entry></row>
+<row><entry colname="c1">256</entry><entry colname="c2">116 of 16 August 1991</entry><entry colname="c3">r 6(b), (d), (g), (h), rr 8, 9, 12, 13, 14, 15, 16 (16 August 1991); r 6(a), (c), (e), (f) (16 September 1991); r 10 (1 November 1991)</entry></row>
+<row><entry colname="c1">257</entry><entry colname="c2">132 of 20 September 1991</entry><entry colname="c3">16 September 1991</entry></row>
+<row><entry colname="c1">258</entry><entry colname="c2">151 of 25 October 1991</entry><entry colname="c3">25 October 1991</entry></row>
+<row><entry colname="c1">259</entry><entry colname="c2">174 of 13 December 1991</entry><entry colname="c3">r 2(a)&#x2013;(g), (i)&#x2013;(x), (z)&#x2013;(aa), (ac)&#x2013;(ak), (am), rr 8&#x2013;11 (13 December 1991); r 2(h), (y), (ab), (al) (13 January 1991)</entry></row>
+<row><entry colname="c1">260</entry><entry colname="c2">26 of 21 February 1992</entry><entry colname="c3">21 February 1992</entry></row>
+<row><entry colname="c1">261</entry><entry colname="c2">33 of 6 March 1992</entry><entry colname="c3">6 March 1992</entry></row>
+<row><entry colname="c1">262</entry><entry colname="c2">33 of 6 March 1992</entry><entry colname="c3">rr 1, 2 (6 March 1992); r 3 (18 October 1991)</entry></row>
+<row><entry colname="c1">263</entry><entry colname="c2">40 of 27 March 1992</entry><entry colname="c3">rr 2, 5&#x2013;9 (27 March 1992); r 3 (1 May 1992)</entry></row>
+<row><entry colname="c1">264</entry><entry colname="c2">62 of 22 May 1992</entry><entry colname="c3">22 May 1992</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">68 of 12 June 1992</entry><entry colname="c3"/></row>
+<row><entry colname="c1">265</entry><entry colname="c2">91 of 24 July 1992</entry><entry colname="c3">24 July 1992</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">97 of 7 August 1992</entry><entry colname="c3"/></row>
+<row><entry colname="c1">266</entry><entry colname="c2">102 of 21 August 1992</entry><entry colname="c3">31 August 1992</entry></row>
+<row><entry colname="c1">267</entry><entry colname="c2">121 of 2 October 1992</entry><entry colname="c3">r 2(a), r 4(a)&#x2013;(c), (f), (o), (p), rr 6&#x2013;12 (2 October 1992); r 2(b)&#x2013;(j), r 4(d), (e), (g)&#x2013;(n), (q)&#x2013;(u) (1 February 1993)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">125 of 16 October 1992</entry><entry colname="c3"/></row>
+<row><entry colname="c1">268</entry><entry colname="c2">130 of 30 October 1992</entry><entry colname="c3">30 October 1992; except r 5 (1 February 1993)</entry></row>
+<row><entry colname="c1">269</entry><entry colname="c2">140 of 27 November 1992</entry><entry colname="c3">27 November 1992</entry></row>
+<row><entry colname="c1">270</entry><entry colname="c2">19 of 26 February 1993</entry><entry colname="c3">26 February 1993; except r 11 on commencement of Sch 2 Auctioneers and Agents (Amendment) Act 1992 (1 May 1993)</entry></row>
+<row><entry colname="c1">271</entry><entry colname="c2">32 of 2 April 1993</entry><entry colname="c3">2 April 1993; except r 4(i), (ac)&#x2013;(ah) and (al)&#x2013;(am) (24 May 1993)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">34 of 8 April 1993</entry><entry colname="c3"/></row>
+<row><entry colname="c1">272</entry><entry colname="c2">39 of 23 April 1993</entry><entry colname="c3">23 April 1993</entry></row>
+<row><entry colname="c1">273</entry><entry colname="c2">49 of 21 May 1993</entry><entry colname="c3">21 May 1993; except r 2(a), (c) and (d) (14 June 1993)</entry></row>
+<row><entry colname="c1">274</entry><entry colname="c2">65 of 25 June 1993</entry><entry colname="c3">25 June 1993</entry></row>
+<row><entry colname="c1">275</entry><entry colname="c2">76 of 2 July 1993</entry><entry colname="c3">2 July 1993</entry></row>
+<row><entry colname="c1">276</entry><entry colname="c2">86 of 6 August 1993</entry><entry colname="c3">6 August 1993</entry></row>
+<row><entry colname="c1">277</entry><entry colname="c2">91 of 20 August 1993</entry><entry colname="c3">20 August 1993; except r 5 (1 December 1993)</entry></row>
+<row><entry colname="c1">278</entry><entry colname="c2">98 of 3 September 1993</entry><entry colname="c3">3 September 1993</entry></row>
+<row><entry colname="c1">279</entry><entry colname="c2">104 of 24 September 1993</entry><entry colname="c3">24 September 1993</entry></row>
+<row><entry colname="c1">280</entry><entry colname="c2">127 of 19 November 1993</entry><entry colname="c3">19 November 1993; except rr 2(a), (b) and 5 (1 January 1994); r 8 (21 February 1994)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">130 of 26 November 1993</entry><entry colname="c3"/></row>
+<row><entry colname="c1">281</entry><entry colname="c2">136 of 10 December 1993</entry><entry colname="c3">10 December 1993; except r 4 (31 January 1994); r 6 (1 January 1994)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">142 of 24 December 1993</entry><entry colname="c3"/></row>
+<row><entry colname="c1">282</entry><entry colname="c2">40 of 25 February 1994</entry><entry colname="c3">25 February 1994</entry></row>
+<row><entry colname="c1">283</entry><entry colname="c2">53 of 31 March 1994</entry><entry colname="c3">31 March 1994</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">56 of 8 April 1994</entry><entry colname="c3"/></row>
+<row><entry colname="c1">284</entry><entry colname="c2">60 of 22 April 1994</entry><entry colname="c3">22 April 1994</entry></row>
+<row><entry colname="c1">285</entry><entry colname="c2">83 of 24 June 1994</entry><entry colname="c3">1 July 1994; except r 4 (24 June 1994); r 5(i) (1 August 1994)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">88 of 1 July 1994</entry><entry colname="c3"/></row>
+<row><entry colname="c1">286</entry><entry colname="c2">106 of 19 August 1994</entry><entry colname="c3">19 August 1994</entry></row>
+<row><entry colname="c1">287</entry><entry colname="c2">126 of 23 September 1994</entry><entry colname="c3">23 September 1994</entry></row>
+<row><entry colname="c1">288</entry><entry colname="c2">143 of 21 October 1994</entry><entry colname="c3">1 January 1995; except r 2 (14 November 1994)</entry></row>
+<row><entry colname="c1">289</entry><entry colname="c2">156 of 25 November 1994</entry><entry colname="c3">25 November 1994</entry></row>
+<row><entry colname="c1">290</entry><entry colname="c2">174 of 23 December 1994</entry><entry colname="c3">23 December 1994; except r 3 (1 January 1995); r 5 (29 January 1995)</entry></row>
+<row><entry colname="c1">291</entry><entry colname="c2">18 of 24 February 1995</entry><entry colname="c3">24 February 1995; except r 2 (1 May 1995); r 8 (7 April 1995)</entry></row>
+<row><entry colname="c1">292</entry><entry colname="c2">50 of 28 April 1995</entry><entry colname="c3">28 April 1995; except r 6(g), (h) (19 June 1995); r 9 (1 June 1995)</entry></row>
+<row><entry colname="c1">293</entry><entry colname="c2">88 of 21 July 1995</entry><entry colname="c3">21 July 1995; except rr 1, 7 (1 September 1995); r 12 (1 January 1996)</entry></row>
+<row><entry colname="c1">294</entry><entry colname="c2">102 of 25 August 1995</entry><entry colname="c3">25 August 1995; except r 5 (1 January 1996); r 8 (1 September 1995); r 11 (1 November 1995)</entry></row>
+<row><entry colname="c1">295</entry><entry colname="c2">116 of 22 September 1995</entry><entry colname="c3">22 September 1995; except r 6 (1 January 1995)</entry></row>
+<row><entry colname="c1">296</entry><entry colname="c2">143 of 24 November 1995</entry><entry colname="c3">24 November 1995; except r 2 (1 February 1996); r 5 (1 April 1996)</entry></row>
+<row><entry colname="c1">297</entry><entry colname="c2">156 of 22 December 1995</entry><entry colname="c3">22 December 1995; except r 3 (1 January 1996)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">20 of 16 February 1996</entry><entry colname="c3"/></row>
+<row><entry colname="c1">298</entry><entry colname="c2">22 of 23 February 1996</entry><entry colname="c3">23 February 1996</entry></row>
+<row><entry colname="c1">299</entry><entry colname="c2">26 of 1 March 1996</entry><entry colname="c3">1 March 1996</entry></row>
+<row><entry colname="c1">300</entry><entry colname="c2">35 of 22 March 1996</entry><entry colname="c3">22 March 1996</entry></row>
+<row><entry colname="c1">301</entry><entry colname="c2">51 of 26 April 1996</entry><entry colname="c3">26 April 1996; except r 2(h), (i), (j), (k), (l) and (m) (1 July 1996)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">55 of 3 May 1996</entry><entry colname="c3"/></row>
+<row><entry colname="c1">302</entry><entry colname="c2">63 of 24 May 1996</entry><entry colname="c3">24 May 1996; except r 5 (1 August 1996)</entry></row>
+<row><entry colname="c1">303</entry><entry colname="c2">87 of 19 July 1996</entry><entry colname="c3">19 July 1996; except r 9 (1 October 1996); r 14(a)(i) and (iii) (1 September 1996)</entry></row>
+<row><entry colname="c1">304</entry><entry colname="c2">97 of 23 August 1996</entry><entry colname="c3">23 August 1996; except r 3 (1 October 1996)</entry></row>
+<row><entry colname="c1">305</entry><entry colname="c2">119 of 25 October 1996</entry><entry colname="c3">25 October 1996; except r 6 (1 November 1996); rr 2, 4 and 8 (1 January 1997)</entry></row>
+<row><entry colname="c1">306</entry><entry colname="c2">134 of 22 November 1996</entry><entry colname="c3">22 November 1996; except r 5 (1 February 1997)</entry></row>
+<row><entry colname="c1">307</entry><entry colname="c2">137 of 29 November 1996</entry><entry colname="c3">29 November 1996</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">150 of 20 December 1996</entry><entry colname="c3"/></row>
+<row><entry colname="c1">308</entry><entry colname="c2">20 of 21 February 1997</entry><entry colname="c3">21 February 1997</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">22 of 28 February 1997</entry><entry colname="c3"/></row>
+<row><entry colname="c1">309</entry><entry colname="c2">28 of 21 March 1997</entry><entry colname="c3">21 March 1997</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">31 of 27 March 1997</entry><entry colname="c3"/></row>
+<row><entry colname="c1">310</entry><entry colname="c2">55 of 23 May 1997</entry><entry colname="c3">23 May 1997; except Pt 51 (1 September 1997)</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">123 of 14 November 1997</entry><entry colname="c3">14 November 1997</entry></row>
+<row><entry colname="c1">311</entry><entry colname="c2">66 of 20 June 1997</entry><entry colname="c3">20 June 1997</entry></row>
+<row><entry colname="c1">312</entry><entry colname="c2">83 of 25 July 1997</entry><entry colname="c3">25 July 1997</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">93 of 22 August 1997</entry><entry colname="c3">22 August 1997</entry></row>
+<row><entry colname="c1">Drug Trafficking (Civil Proceedings) Amendment Act   1997 No 68</entry><entry colname="c2">10 July 1997</entry><entry colname="c3">25 July 1997</entry></row>
+<row><entry colname="c1">313</entry><entry colname="c2">91 of 15 August 1997</entry><entry colname="c3">15 August 1997</entry></row>
+<row><entry colname="c1">314</entry><entry colname="c2">93 of 22 August 1997</entry><entry colname="c3">22 August 1997</entry></row>
+<row><entry colname="c1">316</entry><entry colname="c2">137 of 5 December 1997</entry><entry colname="c3">5 December 1997</entry></row>
+<row><entry colname="c1">317</entry><entry colname="c2">149 of 19 December 1997</entry><entry colname="c3">19 December 1997; except r 7 (26 June 1998)</entry></row>
+<row><entry colname="c1">318</entry><entry colname="c2">32 of 20 February 1998</entry><entry colname="c3">20 February 1998; except r 5 (1 April 1998); r 7 (1 May 1998)</entry></row>
+<row><entry colname="c1">319</entry><entry colname="c2">71 of 24 April 1998</entry><entry colname="c3">24 April 1998</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">73 of 1 May 1998</entry><entry colname="c3"/></row>
+<row><entry colname="c1">320</entry><entry colname="c2">81 of 22 May 1998</entry><entry colname="c3">22 May 1998; except r 2(b)(i) (1 September 1998)</entry></row>
+<row><entry colname="c1">321</entry><entry colname="c2">112 of 24 July 1998</entry><entry colname="c3">24 July 1998; except r 6 (1 October 1998); r 9(a)(ii), (iii) and (iv), 9(b)(i), 9(c) (1 January 1999)</entry></row>
+<row><entry colname="c1">322</entry><entry colname="c2">117 of 7 August 1998</entry><entry colname="c3">1 September 1998</entry></row>
+<row><entry colname="c1">323</entry><entry colname="c2">123 of 21 August 1998</entry><entry colname="c3">21 August 1998; except r 2: 10 September 1999 (upon commencement of Legal Profession Amendment (Costs Assessment) Act 1998)</entry></row>
+<row><entry colname="c1">324</entry><entry colname="c2">152 of 23 October 1998</entry><entry colname="c3">23 October 1998 except r 10: 1 November 1998</entry></row>
+<row><entry colname="c1">325</entry><entry colname="c2">178 of 24 December 1998</entry><entry colname="c3">1 April 1999</entry></row>
+<row><entry colname="c1">326</entry><entry colname="c2">22 of 19 February 1999</entry><entry colname="c3">19 February 1999 except r 4: at the same time as Sch 10 to the Courts Legislation Further Amendment Act 1998 (1 July 1999)</entry></row>
+<row><entry colname="c1">327</entry><entry colname="c2">34 of 19 March 1999</entry><entry colname="c3">19 March 1999 except r 7: 1 June 1999</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">43 of 9 April 1999</entry><entry colname="c3">9 April 1999</entry></row>
+<row><entry colname="c1">328</entry><entry colname="c2">61 of 21 May 1999</entry><entry colname="c3">21 May 1999</entry></row>
+<row><entry colname="c1">Erratum</entry><entry colname="c2">63 of 28 May 1999</entry><entry colname="c3">28 May 1999</entry></row>
+<row><entry colname="c1">329</entry><entry colname="c2">72 of 25 June 1999</entry><entry colname="c3">rr 2, 7: 25 June 1999; rr 5 and 8: 1 August 1999, r 3: 1 July 1999</entry></row>
+<row><entry colname="c1">330</entry><entry colname="c2">84 of 23 July 1999</entry><entry colname="c3">23 July 1999</entry></row>
+<row><entry colname="c1">331</entry><entry colname="c2">95 of 20 August 1999</entry><entry colname="c3">20 August 1999, except r 4(b)&#x2013;(f) &amp; (h)&#x2013;(p): on the date when Sch 2.25 of the Property (Relationships) Legislation Amendment Act 1999 commences.</entry></row>
+<row><entry colname="c1">332</entry><entry colname="c2">98 of 27 August 1999</entry><entry colname="c3">27 August 1999, except rr 1(b), 3, 5, 7(b)&#x2013;(d): 1 October 1999</entry></row>
+<row><entry colname="c1">333</entry><entry colname="c2">111 of 24 September 1999</entry><entry colname="c3">24 September 1999</entry></row>
+<row><entry colname="c1">334</entry><entry colname="c2">122 of 22 October 1999</entry><entry colname="c3">22 October 1999</entry></row>
+<row><entry colname="c1">335</entry><entry colname="c2">130 of 19 November 1999</entry><entry colname="c3">19 November 1999</entry></row>
+<row><entry colname="c1">336</entry><entry colname="c2">144 of 24 December 1999</entry><entry colname="c3">r 4 on 24 December 1999; r 2 on 1 February 2000; rr 5 and 7 on 1 March 2000</entry></row>
+<row><entry colname="c1">337</entry><entry colname="c2">9 of 28 January 2000</entry><entry colname="c3">1 March 2000</entry></row>
+<row><entry colname="c1">338</entry><entry colname="c2">29 of 25 February 2000</entry><entry colname="c3">25 February 2000</entry></row>
+<row><entry colname="c1">339</entry><entry colname="c2">16 of 20 April 2000</entry><entry colname="c3">20 April 2000; except r 6 (1 May 2000)</entry></row>
+<row><entry colname="c1">340</entry><entry colname="c2">81 of 30 June 2000</entry><entry colname="c3">30 June 2000; except r 2 (1 August 2000)</entry></row>
+<row><entry colname="c1">341</entry><entry colname="c2">93 of 21 July 2000</entry><entry colname="c3">21 July 2000; except r 2 (1 September 2000) and r 5 (1 August 2000)</entry></row>
+<row><entry colname="c1">342</entry><entry colname="c2">109 of 25 August 2000</entry><entry colname="c3">25 August 2000</entry></row>
+<row><entry colname="c1">343</entry><entry colname="c2">139 of 20 October 2000</entry><entry colname="c3">20 October 2000</entry></row>
+<row><entry colname="c1">344</entry><entry colname="c2">152 of 24 November 2000</entry><entry colname="c3">24 November 2000; except r 2 (upon commencement of Administrative Decisions Tribunal Legislation Amendment (Revenue) Act 2000); r 7: 1 January 2001</entry></row>
+<row><entry colname="c1">345</entry><entry colname="c2">168 of 22 December 2000</entry><entry colname="c3">22 December 2000</entry></row>
+<row><entry colname="c1">346</entry><entry colname="c2">41 of 23 February 2001</entry><entry colname="c3">23 February 2001</entry></row>
+<row><entry colname="c1">347</entry><entry colname="c2">81 of 11 May 2001</entry><entry colname="c3">11 May 2001</entry></row>
+<row><entry colname="c1">348</entry><entry colname="c2">78 of 4 May 2001</entry><entry colname="c3">4 May 2001</entry></row>
+<row><entry colname="c1">349</entry><entry colname="c2">93 of 1 June 2001</entry><entry colname="c3">1 June 2001</entry></row>
+<row><entry colname="c1">350</entry><entry colname="c2">117 of 27 July 2001</entry><entry colname="c3">27 July 2001</entry></row>
+<row><entry colname="c1">351</entry><entry colname="c2">117 of 27 July 2001</entry><entry colname="c3">27 July 2001</entry></row>
+<row><entry colname="c1">352</entry><entry colname="c2">132 of 31 August 2001</entry><entry colname="c3">31 August 2001</entry></row>
+<row><entry colname="c1">353</entry><entry colname="c2">132 of 31 August 2001</entry><entry colname="c3">31 August 2001</entry></row>
+<row><entry colname="c1">354</entry><entry colname="c2">132 of 31 August 2001</entry><entry colname="c3">31 August 2001</entry></row>
+<row><entry colname="c1">355</entry><entry colname="c2">161 of 26 October 2001</entry><entry colname="c3">1 January 2002</entry></row>
+<row><entry colname="c1">356</entry><entry colname="c2">180 of 23 November 2001</entry><entry colname="c3">23 November 2001</entry></row>
+<row><entry colname="c1">357</entry><entry colname="c2">180 of 23 November 2001</entry><entry colname="c3">23 November 2001</entry></row>
+<row><entry colname="c1">358</entry><entry colname="c2">54 of 1 March 2002</entry><entry colname="c3">1 March 2002</entry></row>
+<row><entry colname="c1">359</entry><entry colname="c2">75 of 19 April 2002</entry><entry colname="c3">19 April 2002</entry></row>
+<row><entry colname="c1">360</entry><entry colname="c2">98 of 14 June 2002</entry><entry colname="c3">1 July 2002</entry></row>
+<row><entry colname="c1">361</entry><entry colname="c2">119 of 19 July 2002</entry><entry colname="c3">19 July 2002</entry></row>
+<row><entry colname="c1">362</entry><entry colname="c2">135 of 30 August 2002</entry><entry colname="c3">30 August 2002</entry></row>
+<row><entry colname="c1">363</entry><entry colname="c2">135 of 30 August 2002</entry><entry colname="c3">30 August 2002</entry></row>
+<row><entry colname="c1">364</entry><entry colname="c2">135 of 30 August 2002</entry><entry colname="c3">30 August 2002</entry></row>
+<row><entry colname="c1">365</entry><entry colname="c2">201 of 1 November 2002 p 9325</entry><entry colname="c3">1 November 2002</entry></row>
+<row><entry colname="c1">366</entry><entry colname="c2">201 of 1 November 2002 p 9328</entry><entry colname="c3">1 November 2002</entry></row>
+<row><entry colname="c1">367</entry><entry colname="c2">201 of 1 November 2002 p 9331</entry><entry colname="c3">1 November 2002</entry></row>
+<row><entry colname="c1">368</entry><entry colname="c2">201 of 1 November 2002 p 9334</entry><entry colname="c3">1 November 2002</entry></row>
+<row><entry colname="c1">369</entry><entry colname="c2">237 of 29 November 2002 p 10124</entry><entry colname="c3">29 November 2002</entry></row>
+<row><entry colname="c1">370</entry><entry colname="c2">237 of 29 November 2002 p 10127</entry><entry colname="c3">29 November 2002</entry></row>
+<row><entry colname="c1">371</entry><entry colname="c2">60 of 14 March 2003 p 4085</entry><entry colname="c3">14 March 2003</entry></row>
+<row><entry colname="c1">372</entry><entry colname="c2">63 of 21 March 2003 p 4177</entry><entry colname="c3">21 March 2003</entry></row>
+<row><entry colname="c1">373</entry><entry colname="c2">77 of 24 April 2003 p 4553</entry><entry colname="c3">24 April 2003</entry></row>
+<row><entry colname="c1">374</entry><entry colname="c2">89 of 23 May 2003 p 4857</entry><entry colname="c3">23 May 2003</entry></row>
+<row><entry colname="c1">375</entry><entry colname="c2">89 of 23 May 2003 p 4860</entry><entry colname="c3">23 May 2003</entry></row>
+<row><entry colname="c1">376</entry><entry colname="c2">97 of 13 June 2003 p 5701</entry><entry colname="c3">16 June 2003</entry></row>
+<row><entry colname="c1">377</entry><entry colname="c2">132 of 29 August 2003 p 8931</entry><entry colname="c3">29 August 2003</entry></row>
+<row><entry colname="c1">378</entry><entry colname="c2">137 of 5 September 2003 p 9136</entry><entry colname="c3">5 September 2003</entry></row>
+<row><entry colname="c1">379</entry><entry colname="c2">137 of 5 September 2003 p 9139</entry><entry colname="c3">5 September 2003</entry></row>
+<row><entry colname="c1">380</entry><entry colname="c2">145 of 19 September 2003 p 9425</entry><entry colname="c3">19 September 2003</entry></row>
+<row><entry colname="c1">381</entry><entry colname="c2">174 of 31 October 2003 p 10285</entry><entry colname="c3">31 October 2003</entry></row>
+<row><entry colname="c1">382</entry><entry colname="c2">186 of 28 November 2003 p 10778</entry><entry colname="c3">28 November 2003</entry></row>
+<row><entry colname="c1">383</entry><entry colname="c2">186 of 28 November 2003 p 10781</entry><entry colname="c3">28 November 2003</entry></row>
+<row><entry colname="c1">384</entry><entry colname="c2">186 of 28 November 2003 p 10787</entry><entry colname="c3">28 November 2003</entry></row>
+<row><entry colname="c1">385</entry><entry colname="c2">186 of 28 November 2003 p 10792</entry><entry colname="c3">28 November 2003</entry></row>
+<row><entry colname="c1">386</entry><entry colname="c2">197 of 19 December 2003 p 11429</entry><entry colname="c3">1 January 2004</entry></row>
+<row><entry colname="c1">387</entry><entry colname="c2">197 of 19 December 2003 p 11434</entry><entry colname="c3">1 January 2004</entry></row>
+<row><entry colname="c1">388</entry><entry colname="c2">42 of 20 February 2004 p 727</entry><entry colname="c3">29 February 2004</entry></row>
+<row><entry colname="c1">389</entry><entry colname="c2">63 of 26 March 2004 p 1532</entry><entry colname="c3">1 May 2004</entry></row>
+<row><entry colname="c1">390</entry><entry colname="c2">91 of 28 May 2004 p 3278</entry><entry colname="c3">28 May 2004</entry></row>
+<row><entry colname="c1">391</entry><entry colname="c2">91 of 28 May 2004 p 3281</entry><entry colname="c3">28 May 2004</entry></row>
+<row><entry colname="c1">392</entry><entry colname="c2">126 of 30 July 2004 p 6187</entry><entry colname="c3">30 July 2004</entry></row>
+<row><entry colname="c1">393</entry><entry colname="c2">126 of 30 July 2004 p 6190</entry><entry colname="c3">30 July 2004</entry></row>
+<row><entry colname="c1">394</entry><entry colname="c2">138 of 27 August 2004 p 7153</entry><entry colname="c3">27 August 2004</entry></row>
+<row><entry colname="c1">395</entry><entry colname="c2">153 of 1 October 2004 p 7785</entry><entry colname="c3">1 October 2004</entry></row>
+<row><entry colname="c1">396</entry><entry colname="c2">153 of 1 October 2004 p 7788</entry><entry colname="c3">1 October 2004</entry></row>
+<row><entry colname="c1">397</entry><entry colname="c2">187 of 26 November 2004 p 8619</entry><entry colname="c3">26 November 2004</entry></row>
+<row><entry colname="c1">398</entry><entry colname="c2">187 of 26 November 2004 p 8622</entry><entry colname="c3">26 November 2004</entry></row>
+<row><entry colname="c1">399</entry><entry colname="c2">200 of 17 December 2004 p 9384</entry><entry colname="c3">17 December 2004 </entry></row>
+<row><entry colname="c1">400</entry><entry colname="c2">187 of 26 November 2004 p 8625</entry><entry colname="c3">26 November 2004</entry></row>
+<row><entry colname="c1">401</entry><entry colname="c2">30 of 4 March 2005 p 635</entry><entry colname="c3">4 March 2005</entry></row>
+<row><entry colname="c1">402</entry><entry colname="c2">50 of 29 April 2005 p 1545</entry><entry colname="c3">29 April 2005</entry></row>
+<row><entry colname="c1">403</entry><entry colname="c2">50 of 29 April 2005 p 1551</entry><entry colname="c3">29 April 2005</entry></row>
+<row><entry colname="c1">404</entry><entry colname="c2">49 of 22 April 2005 p 1466</entry><entry colname="c3">22 April 2005</entry></row>
+<row><entry colname="c1">405</entry><entry colname="c2">99 of 5 August 2005 p 4141</entry><entry colname="c3">15 August 2005</entry></row>
+<row><entry colname="c1">406</entry><entry colname="c2">118 of 23 September 2005 p 7549</entry><entry colname="c3">23 September 2005</entry></row>
+<row><entry colname="c1">407</entry><entry colname="c2">132 of 28 October 2005 p 9042</entry><entry colname="c3">28 October 2005</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2005 No 98</entry><entry colname="c2">Gaz 148 of 2 December 2005, p 9860</entry><entry colname="c3">24 November 2005</entry></row>
+<row><entry colname="c1">408</entry><entry colname="c2">154 of 9 December 2005 p 10118</entry><entry colname="c3">1 January 2006</entry></row>
+<row><entry colname="c1">409</entry><entry colname="c2">Gaz 13 of 31 March 2006</entry><entry colname="c3">20 March 2006</entry></row>
+<row><entry colname="c1">410</entry><entry colname="c2">Gaz 13 of 31 March 2006</entry><entry colname="c3">20 March 2006</entry></row>
+<row><entry colname="c1">411</entry><entry colname="c2">Gaz 93 of 21 July 2006</entry><entry colname="c3">21 July 2006</entry></row>
+<row><entry colname="c1">412</entry><entry colname="c2">Gaz 116 of 7 September 2007</entry><entry colname="c3">1 January 2008</entry></row>
+<row><entry colname="c1">413</entry><entry colname="c2">Gaz 30 of 7 March 2008</entry><entry colname="c3">7 March 2008</entry></row>
+<row><entry colname="c1">414</entry><entry colname="c2">Gaz 95 of8 August 2008</entry><entry colname="c3">8 August 2008</entry></row>
+<row><entry colname="c1">415</entry><entry colname="c2">Gaz 141 of7 November 2008</entry><entry colname="c3">7 November 2008</entry></row>
+<row><entry colname="c1">416</entry><entry colname="c2">LW 8 May 2009</entry><entry colname="c3">Sch 1[2], [3]: on assent; Sch 1[1]: 1 June 2009 (s 2(2))</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2009 No 56</entry><entry colname="c2">Assent: 1 July 2009</entry><entry colname="c3">Sch 2.69: 17 July 2009 (s 2)</entry></row>
+<row><entry colname="c1">Health Practitioner Regulation Amendment Act 2010 No 34</entry><entry colname="c2">15 June 2010</entry><entry colname="c3">Sch 2.50: 1 July 2010 (s 2)</entry></row>
+<row><entry colname="c1">417</entry><entry colname="c2">LW 9 September 2011</entry><entry colname="c3">9 September 2011</entry></row>
+<row><entry colname="c1">418</entry><entry colname="c2">LW 18 November 2011</entry><entry colname="c3">18 November 2011</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2012 No 95</entry><entry colname="c2">21 November 2012</entry><entry colname="c3">4 January 2013</entry></row>
+<row><entry colname="c1">421</entry><entry colname="c2">7 December 2012</entry><entry colname="c3">21 January 2013</entry></row>
+<row><entry colname="c1">422</entry><entry colname="c2">12 April 2013</entry><entry colname="c3">12 April 2013</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.SC.SCRC.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.SC.SCRC" type="ext"/>SUPREME COURT RULES </title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [rr 1&#x2013;14]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.SC.SCR70.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [rr 1&#x2013;14]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT1.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 1] r 1 Name of Rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R1" type="ext"/>[SCR Pt 1 r 1]</edpnum><title searchtype="RUL-TITLE">Name of Rules</title><desig searchtype="RUL-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These rules may be cited as the Supreme Court Rules 1970.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 2] r 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R2" type="ext"/>[SCR Pt 1 r 2]</edpnum><title searchtype="RUL-TITLE">Commencement</title><desig searchtype="RUL-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These rules shall commence on the commencement of the Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 3] r 3 Overriding purpose">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R3" type="ext"/>[SCR Pt 1 r 3]</edpnum><title searchtype="RUL-TITLE">Overriding purpose</title><desig searchtype="RUL-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 3  rep Gaz 99 of 5 August 2005   r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 4] r 4 Amendment and continuance of rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R4" type="ext"/>[SCR Pt 1 r 4]</edpnum><title searchtype="RUL-TITLE">Amendment and continuance of rules</title><desig searchtype="RUL-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 4  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 5] r 5 Rescission of rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R5" type="ext"/>[SCR Pt 1 r 5]</edpnum><title searchtype="RUL-TITLE">Rescission of rules</title><desig searchtype="RUL-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 6] r 6 Pending proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R6" type="ext"/>[SCR Pt 1 r 6]</edpnum><title searchtype="RUL-TITLE">Pending proceedings</title><desig searchtype="RUL-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 6  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 7] r 7 Non-revivor">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R7" type="ext"/>[SCR Pt 1 r 7]</edpnum><title searchtype="RUL-TITLE">Non-revivor</title><desig searchtype="RUL-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 8] r 8 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R8" type="ext"/>[SCR Pt 1 r 8]</edpnum><title searchtype="RUL-TITLE">Interpretation</title><desig searchtype="RUL-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT1.R8.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In these rules, unless the context or subject matter otherwise indicates or requires:</text></p>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.ASIC"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.ASIC" type="ext"/><emph typestyle="bf">ASIC</emph></defterm> <defdesc>
+<p><text>means the entity known as the Australian Securities Commission prior to 1 July 1998, and subsequently known as the Australian Securities and Investments Commission.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 324: Gaz 152 of 23 October 1998  p 8427]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.ASSESS"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.ASSESS" type="ext"/><emph typestyle="bf">assess</emph></defterm> <defdesc>
+<p><text>, when used in relation to costs assessed otherwise than by the Court, means assess in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="008U" refpt="SMN.LPA.LPAN.PT11" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 11</remotelink></ci:content></ci:cite>
+ of the Legal Profession Act 1987.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 285: Gaz 83 of 24 June 1994  p 3198]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.ASSOCIATE-JUDGE"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.ASSOCIATE-JUDGE" type="ext"/><emph typestyle="bf">associate Judge</emph></defterm><defdesc>
+<p><text>includes an acting associate Judge.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Gaz 99 of 5 August 2005 r 3 and Sch 1 item [6], effective 15 August 2005 ; am Amendment 407: Gaz 132 of 28 October 2005  r 2, effective 28 October 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.BARRISTER"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.BARRISTER" type="ext"/><emph typestyle="bf">barrister</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Profession Act 1987</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 308: Gaz 20 of 21 February 1997  p 828]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.CENTRAL-WEST"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.CENTRAL-WEST" type="ext"/><emph typestyle="bf">Central West</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.CERTIFICATE-OF-DETERMINATION"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.CERTIFICATE-OF-DETERMINATION" type="ext"/><emph typestyle="bf">certificate of determination</emph></defterm> <leg:histnote>
+<p><text>[def &#x201c;certificate of determination&#x201d;  rep Amendment 323: Gaz 123 of 21 August 1998  p 6394]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.COMMERCIAL-LIST"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.COMMERCIAL-LIST" type="ext"/><emph typestyle="bf">Commercial List</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.COMPANIES-CODE"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.COMPANIES-CODE" type="ext"/><emph typestyle="bf">Companies Code</emph></defterm> <defdesc>
+<p><text>means the Companies (New South Wales) Code.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 145: Gaz 28 of 24 February 1984  p 1278]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.CONSTRUCTION-LIST"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.CONSTRUCTION-LIST" type="ext"/><emph typestyle="bf">Construction List</emph></defterm> <leg:histnote>
+<p><text>[def  rep Amendment 355: Gaz 161 of 26 October 2001  p 8746,  effective 1 January 2002]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.CONVENTION"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.CONVENTION" type="ext"/><emph typestyle="bf">convention</emph></defterm> <defdesc>
+<p><text>means a convention made between Her Majesty or any of her predecessors and the king or other head of state of a foreign country regarding legal proceedings in civil and commercial matters.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.CONVENTION-COUNTRY"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.CONVENTION-COUNTRY" type="ext"/><emph typestyle="bf">convention country</emph></defterm> <defdesc>
+<p><text>means a foreign country to which a convention applies.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.CORPORATION"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.CORPORATION" type="ext"/><emph typestyle="bf">corporation</emph></defterm> <defdesc>
+<p><text>includes any artificial person.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.COSTS-DETERMINATION"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.COSTS-DETERMINATION" type="ext"/><emph typestyle="bf">costs determination</emph></defterm> <defdesc>
+<p><text>means a determination made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="008U" refpt="SMN.LPA.LPAN.S180" remotekey1="REFPTID" service="DOC-ID" status="unval">section 180</remotelink></ci:content></ci:cite>
+ of the Legal Profession Act 1987 as in force from time to time prior to 1 July 1994.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 270: Gaz 19 of 26 February 1993  p 824 ; am Amendment 285: Gaz 83 of 24 June 1994  p 3198]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.CROSS-CLAIM"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.CROSS-CLAIM" type="ext"/><emph typestyle="bf">cross-claim</emph></defterm> <defdesc>
+<p><text>means a claim for relief under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S78" remotekey1="REFPTID" service="DOC-ID">section 78</remotelink></ci:content></ci:cite>
+ of the Act.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.CURATOR"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.CURATOR" type="ext"/><emph typestyle="bf">curator</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.A"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.A" type="ext"/>(a)</lilabel>
+<p><text>in respect of a person:</text></p>
+<l><li id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.A.I"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.A.I" type="ext"/>(i)</lilabel>
+<p><text>the management of whose estate is, by the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PEAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Protected Estates Act 1983</remotelink></ci:content></ci:cite>
+ or by any order of the Court or the Guardianship Tribunal under that Act or under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.GA87" remotekey1="REFPTID" service="DOC-ID" status="unval">Guardianship Act 1987</remotelink></ci:content></ci:cite>
+, committed to the Protective Commissioner,</text></p>
+</li><li id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.A.II"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.A.II" type="ext"/>(ii)</lilabel>
+<p><text>of whose estate the Protective Commissioner has, in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PEAN.S63" remotekey1="REFPTID" service="DOC-ID" status="unval">section 63</remotelink></ci:content></ci:cite>
+ of the Protected Estates Act 1983, undertaken the management, or</text></p>
+</li><li id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.A.III"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.A.III" type="ext"/>(iii)</lilabel>
+<p><text>in relation to whose property the Protective Commissioner is authorised as mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PEAN.S66.1.A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 66(1)(a)</remotelink></ci:content></ci:cite>
+ of that Act,</text></p>
+</li></l>
+<p><text>the Protective Commissioner,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.B"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.CURATOR.B" type="ext"/>(b)</lilabel>
+<p><text>in respect of a person of whose estate a manager has been appointed by order of the Court or the Guardianship Tribunal under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PEAN.S22" remotekey1="REFPTID" service="DOC-ID" status="unval">section 22</remotelink></ci:content></ci:cite>
+ of the Protected Estates Act 1983 or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.GA87.S25M" remotekey1="REFPTID" service="DOC-ID" status="unval">section 25M</remotelink></ci:content></ci:cite>
+ of the Guardianship Act 1987 &#x2014; the manager appointed.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  subst Amendment 319: Gaz 71 of 24 April 1998  p 2868 ; am Err 319: Gaz 73 of 1 May 1998  p 3093]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.DISABLE-PERSON"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.DISABLE-PERSON" type="ext"/><emph typestyle="bf">disable person</emph></defterm> <defdesc>
+<p><text>means a minor or an incompetent person.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Amendment 151: Gaz 103 of 29 June 1984  p 3386]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT" type="ext"/><emph typestyle="bf">document</emph></defterm><defdesc>
+<p><text>means any record of information, and includes:</text></p>
+</defdesc></defitem></deflist>
+<l><li id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT.A"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT.A" type="ext"/>(a)</lilabel>
+<p><text>anything on which there is writing,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT.B"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT.B" type="ext"/>(b)</lilabel>
+<p><text>anything on which there are marks, figures, symbols or perforations having a meaning for persons qualified to interpret them,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT.C"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT.C" type="ext"/>(c)</lilabel>
+<p><text>anything from which sounds, images or writings can be reproduced with or without the aid of anything else, or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT.D"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.DOCUMENT.D" type="ext"/>(d)</lilabel>
+<p><text>a map, plan, drawing or photograph.</text></p>
+</li>
+</l>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf Act No 15 1987 s 21(1)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[def  subst Amendment 303: Gaz 87 of 19 July 1996  p 4336]</text></p></leg:histnote>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.EXAMINER"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.EXAMINER" type="ext"/><emph typestyle="bf">examiner</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.EXPERT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.EXPERT" type="ext"/><emph typestyle="bf">expert</emph></defterm> <defdesc>
+<p><text>means a person who has specialised knowledge based on the person's training, study or experience.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 337: Gaz 9 of 28 January 2000  p 452]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.FAX"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.FAX" type="ext"/><emph typestyle="bf">fax</emph></defterm> <defdesc>
+<p><text>means send a copy by facsimile transmission.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 299: Gaz 26 of 1 March 1996  p 961]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.FOLIO"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.FOLIO" type="ext"/><emph typestyle="bf">folio</emph></defterm> <defdesc>
+<p><text>means 100 words, five figures being counted as one word.</text></p>
+</defdesc></defitem></deflist>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf Cost Rules, r 2. Rules of the Supreme Court (Revised) 1965 (Eng) O 1 r 4(1)</ci:content></ci:cite></text></p></glp:note>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.FOREIGN-EVIDENCE-ACT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.FOREIGN-EVIDENCE-ACT" type="ext"/><emph typestyle="bf">Foreign Evidence Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.FOEA94" remotekey1="REFPTID" service="DOC-ID">Foreign Evidence Act 1994</remotelink></ci:content></ci:cite>
+ of the Commonwealth.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 292: Gaz 50 of 28 April 1995  p 2159]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.FUNDS"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.FUNDS" type="ext"/><emph typestyle="bf">funds</emph></defterm> <defdesc>
+<p><text>includes money, debentures, stock, shares and other securities and investments.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.INCOMMUNICATE-PERSON"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.INCOMMUNICATE-PERSON" type="ext"/><emph typestyle="bf">incommunicate person</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON" type="ext"/><emph typestyle="bf">incompetent person</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON.A"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON.A" type="ext"/>(a)</lilabel>
+<p><text>a person who is not a minor and who is:</text></p>
+<l><li id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON.A.I"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON.A.I" type="ext"/>(i)</lilabel>
+<p><text>incapable of managing his or her affairs, or</text></p>
+</li><li id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON.A.II"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON.A.II" type="ext"/>(ii)</lilabel>
+<p><text>incommunicate, or</text></p>
+</li></l></li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON.B"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.INCOMPETENT-PERSON.B" type="ext"/>(b)</lilabel>
+<p><text>a minor who has a curator.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 151: Gaz 103 of 29 June 1984  p 3387]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.LAW-COURTS-BUILDING"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.LAW-COURTS-BUILDING" type="ext"/><emph typestyle="bf">Law Courts Building</emph></defterm> <defdesc>
+<p><text>means the building in which the Sydney registry of the Court is located.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 251: Gaz 31 of 15 February 1991  p 1243]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.MASTER"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.MASTER" type="ext"/><emph typestyle="bf">master</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.MEDICAL-PRACTITIONER"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.MEDICAL-PRACTITIONER" type="ext"/><emph typestyle="bf">medical practitioner</emph></defterm><leg:histnote>
+<p><text>[def  rep Act 34 of 2010  Sch 2.50, effective 1 July 2010 ]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.MENTAL-ILLNESS"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.MENTAL-ILLNESS" type="ext"/><emph typestyle="bf">mental illness</emph></defterm> <leg:histnote>
+<p><text>[def  rep Amendment 151: Gaz 103 of 29 June 1984  p 3387]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.MENTALLY-DISABLE-PERSON"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.MENTALLY-DISABLE-PERSON" type="ext"/><emph typestyle="bf">mentally disable person</emph></defterm> <leg:histnote>
+<p><text>[def  rep Amendment 151: Gaz 103 of 29 June 1984  p 3387]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.MUTUAL-RECOGNITION-ACT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.MUTUAL-RECOGNITION-ACT" type="ext"/><emph typestyle="bf">Mutual Recognition Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MRA" remotekey1="REFPTID" service="DOC-ID" status="unval">Mutual Recognition Act 1992</remotelink></ci:content></ci:cite>
+ of the Commonwealth.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 272: Gaz 39 of 23 April 1993  p 1916]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.NORTHERN-RIVERS-DISTRICT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.NORTHERN-RIVERS-DISTRICT" type="ext"/><emph typestyle="bf">Northern Rivers district</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.NOTICE"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.NOTICE" type="ext"/><emph typestyle="bf">notice</emph></defterm> <defdesc>
+<p><text>means notice in writing.</text></p>
+</defdesc></defitem></deflist>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf RSC (Rev) 1965 O 66 r 2(5)</ci:content></ci:cite></text></p></glp:note>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.OFFICER"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.OFFICER" type="ext"/><emph typestyle="bf">officer</emph></defterm> <defdesc>
+<p><text>, in relation to a corporation, includes a director and any person having (whether alone or with others) powers of management, direction or control of the corporation.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.OFFICER-OF-THE-COURT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.OFFICER-OF-THE-COURT" type="ext"/><emph typestyle="bf">officer of the Court</emph></defterm> <defdesc>
+<p><text>does not include a solicitor, barrister or liquidator.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def insrt  Amendment 328: Gaz 61 of 21 May 1999  p 3489]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.ORIGINATING-PROCESS"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.ORIGINATING-PROCESS" type="ext"/><emph typestyle="bf">originating process</emph></defterm> <defdesc>
+<p><text>means a statement of claim, a summons or, where a cross-claim is made against a person not previously a party to the proceedings in which the cross-claim is made, the cross-claim.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.PAY"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.PAY" type="ext"/><emph typestyle="bf">pay</emph></defterm> <defdesc>
+<p><text>, in relation to funds, includes transfer, deposit and deliver.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND" type="ext"/><emph typestyle="bf">person bound</emph></defterm> <defdesc>
+<p><text>, in relation to a judgment or order, means a person required by the judgment or order:</text></p>
+<l><li id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.A"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.A" type="ext"/>(a)</lilabel>
+<p><text>to pay money,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.B"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.B" type="ext"/>(b)</lilabel>
+<p><text>to give possession of land,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.C"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.C" type="ext"/>(c)</lilabel>
+<p><text>to deliver goods (with or without the alternative of paying the assessed value of the goods),</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.D"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.D" type="ext"/>(d)</lilabel>
+<p><text>to do any other act, or</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.E"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.1.PERSON-BOUND.E" type="ext"/>(e)</lilabel>
+<p><text>to abstain from doing any act.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.PERSONAL-INJURIES"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.PERSONAL-INJURIES" type="ext"/><emph typestyle="bf">personal injuries</emph></defterm><defdesc>
+<p><text>includes any disease and any impairment of a person's physical or mental condition.</text></p>
+</defdesc>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf RSC (Rev) 1965 O 5 r 2</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[def  insrt Amendment 24: Gaz 41 of 30 March 1973  p 1081]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.PLEADING"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.PLEADING" type="ext"/><emph typestyle="bf">pleading</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.POSSESSION-LIST"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.POSSESSION-LIST" type="ext"/><emph typestyle="bf">Possession List</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.PROFESSIONAL-NEGLIGENCE-LIST"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.PROFESSIONAL-NEGLIGENCE-LIST" type="ext"/><emph typestyle="bf">Professional Negligence List</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.REGISTRAR"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.REGISTRAR" type="ext"/><emph typestyle="bf">registrar</emph></defterm> <leg:histnote>
+<p><text>[def  rep Amendment 85: Gaz 46 of 28 April 1978  p 1566]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.REGISTRY"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.REGISTRY" type="ext"/><emph typestyle="bf">registry</emph></defterm> <defdesc>
+<p><text>means a registry at Lismore, Newcastle, Orange, Sydney, Wagga Wagga or Wollongong.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 190: Gaz 179 of 21 November 1986  p 5703]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.RIVERINA"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.RIVERINA" type="ext"/><emph typestyle="bf">Riverina</emph></defterm> <defdesc>
+<p><text>means the district of the State comprising Albury, Cootamundra, Deniliquin, Griffith, Gundagai, Leeton, Narrandera, Temora, Tumut and Wagga Wagga.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Amendment 158: Gaz 170 of 7 December 1984  p 5995]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.SOLICITOR"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.SOLICITOR" type="ext"/><emph typestyle="bf">solicitor</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="008U" refpt="SMN.LPA.LPAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Profession Act 1987</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 308: Gaz 20 of 21 February 1997  p 828]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.STATED-CASE"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.STATED-CASE" type="ext"/><emph typestyle="bf">stated case</emph></defterm> <leg:histnote>
+<p><text>[def  rep Amendment 232: Gaz 111 of 17 Nov 1989  p 9793]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.TECHNOLOGY-AND-CONSTRUCTION-LIST"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.TECHNOLOGY-AND-CONSTRUCTION-LIST" type="ext"/><emph typestyle="bf">Technology and Construction List</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.THE-ACT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.THE-ACT" type="ext"/><emph typestyle="bf">the Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink></ci:content></ci:cite></text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.THE-EVIDENCE-ACT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.THE-EVIDENCE-ACT" type="ext"/><emph typestyle="bf">the Evidence Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 332: Gaz 98 of 27 August 1999  p 7460]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.THE-SERVICE-AND-EXECUTION-OF-PROCESS-ACT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.THE-SERVICE-AND-EXECUTION-OF-PROCESS-ACT" type="ext"/><emph typestyle="bf">the Service and Execution of Process Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92" remotekey1="REFPTID" service="DOC-ID">Service and Execution of Process Act 1992</remotelink></ci:content></ci:cite>
+ of the Commonwealth.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 271: Gaz 32 of 2 April 1993  p 1592]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.TRANS-TASMAN-MUTUAL-RECOGNITION-ACT"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.TRANS-TASMAN-MUTUAL-RECOGNITION-ACT" type="ext"/><emph typestyle="bf">Trans-Tasman Mutual Recognition Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content>Trans-Tasman Mutual Recognition Act 1997</ci:content></ci:cite>
+ of the Commonwealth.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Amendment 319: Gaz 71 of 24 April 1998  p 2868]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.TUTOR"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.TUTOR" type="ext"/><emph typestyle="bf">tutor</emph></defterm> <defdesc>
+<p><text>means a next friend or guardian ad litem of a disable person.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.SC.SCR70.PT1.R8.1.WRITING"><defterm><refpt id="UCPN.SC.SCR70.PT1.R8.1.WRITING" type="ext"/><emph typestyle="bf">writing</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 99 of 5 August 2005 r 3 and Sch 1 item [7], effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R8.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where:</text></p>
+<l><li id="UCPN.SC.SCR70.PT1.R8.2.A"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.2.A" type="ext"/>(a)</lilabel>
+<p><text>reference is made in the rules to the holder of an office in the Public Service or in the Australian Public Service; and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT1.R8.2.B"><lilabel><refpt id="UCPN.SC.SCR70.PT1.R8.2.B" type="ext"/>(b)</lilabel>
+<p><text>the name of the office is changed or the relevant function is assumed by the holder of another office,</text></p>
+</li>
+</l>
+<p><text>the reference shall continue to apply to the holder of that office.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  insrt Amendment 293: Gaz 88 of 21 July 1995  p 3841]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R8.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R8.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subr (3)  rep Amendment 42: Gaz 79 of 28 June 1974  p 2434]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R8.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R8.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subr (4)  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [8], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT1.R8.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.1-8-1" leveltype="para0" subdoc="true" toc-caption="[SCR 1.8.1] Corporation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR 1.8.1] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 7.1, r 7.4.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-8-1" type="ext"/>[SCR 1.8.1] </edpnum><title>Corporation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The conduct of proceedings by corporations is dealt with in UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R7-1" remotekey1="REFPTID" service="DOC-ID">rr 7.1</remotelink></ci:content></ci:cite>
+ and
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R7-1" remotekey1="REFPTID" service="DOC-ID">7.2</remotelink></ci:content></ci:cite>
+. The definition of corporation in the present rule includes only artificial persons and is, accordingly, not wide enough to include partnerships or unincorporated associations that do not have a distinct legal personality. It follows that difficulties can arise in suing unincorporated associations. (As to these difficulties see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1969"/></ci:caseinfo><ci:caseref ID="cr002215" spanref="cr002215-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1969"/></ci:edition><ci:page num="410"/></ci:caseref><ci:caseref ID="cr002216" spanref="cr002216-002" status="unval"><ci:reporter value="WNPT1NSW"/><ci:volume num="90"/><ci:page num="316"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Smith v Yarnold</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002215-001" status="unval">[1969] 2 NSWR 410</ci:span>; <ci:span spanid="cr002216-002" status="unval">(1969) 90 WN (Pt 1) (NSW) 316</ci:span></citefragment> <remotelink dpsi="0018" refpt="79415" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002217" spanref="cr002217-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1971"/></ci:edition><ci:page num="685"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Amey v Fifer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002217-001">[1971] 1 NSWLR 685</ci:span></citefragment> <remotelink dpsi="0018" refpt="80048" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and cases there cited. The conduct of proceedings involving such an association is more fully discussed in the notes to UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R7-4" remotekey1="REFPTID" service="DOC-ID">r 7.4</remotelink></ci:content></ci:cite>
+. In many cases these problems may be overcome by an appropriate representative order under that rule.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.1-8-2" leveltype="para0" subdoc="true" toc-caption="[SCR 1.8.2] Disable and incompetent persons"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-8-2" type="ext"/>[SCR 1.8.2] </edpnum><title>Disable and incompetent persons</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The definitions of &quot;disable&quot; and &quot;incompetent&quot; persons centre on the capacity of the person to manage their affairs. This involves a qualitative assessment of the person's psychological and physical capacities. In that task some general guidelines exist. A person may be held to be incompetent by reason of being &quot;incapable of managing his or her affairs&quot; if it appears that:</text>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>there is a real risk of self-inflicted injury;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>there is a real risk of injury as a result of the person's inability to take ordinary measures to attend to matters of physical well-being; or</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>there is a serious deterioration in the person's health or general well-being, that prevents them from dealing with ordinary routine affairs and creates a real risk of personal disadvantage or dissipation of assets: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002218" spanref="cr002218-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="700"/></ci:caseref><ci:caseref anaphref="cr002218" spanref="cr002218-002" status="unval"><ci:pinpoint num="702" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">PY v RJS</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002218-001">[1982] 2 NSWLR 700</ci:span> <ci:span spanid="cr002218-002" status="unval">at 702</ci:span></citefragment></ci:content></ci:cite>.</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.1-8-3" leveltype="para0" subdoc="true" toc-caption="[SCR 1.8.3] Document"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-8-3" type="ext"/>[SCR 1.8.3] </edpnum><title>Document</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The definition of &#x201c;document&#x201d; in SCR 1.8 reflects the definition in the Dictionary to the Evidence Act 1995. The question of what falls within the definition of &quot;document&quot; arises principally in connection with discovery and subpoena issues: see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.21-1-2" remotekey1="REFPTID" service="DOC-ID">[21.1.2]</remotelink>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.1-8-4" leveltype="para0" subdoc="true" toc-caption="[SCR 1.8.4] Officer">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR 1.8.4] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 1.4.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 82A.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 35.3(1)(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-8-4" type="ext"/>[SCR 1.8.4] </edpnum><title>Officer</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Although the present definition, unlike that in Supreme Court (Corporations) Rules 1999 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R4" remotekey1="REFPTID" service="DOC-ID">r 1.4</remotelink></ci:content></ci:cite>
+, does not expressly reflect the expanded definition in Corporations Act 2001 (Cth) 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S82A_" remotekey1="REFPTID" service="DOC-ID" status="unval">s 82A</remotelink></ci:content></ci:cite>
+ it probably has a similar effect. The definition is inclusive and permits effect to be given to contemporary usage of the word &#x201c;officer&#x201d;. As such the definition includes not only persons who act as directors, managers and secretaries of the corporation (irrespective of their nominal title within the corporation) but also persons who exercise practical control over the affairs of the corporation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr002219" spanref="cr002219-001"><ci:reporter value="NSWLR"/><ci:volume num="44"/><ci:page num="575"/></ci:caseref><ci:caseref ID="cr002220" spanref="cr002220-002"><ci:reporter value="urj"/><ci:refnum num="BC9804772"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Foundation Enterprises Ltd v ML &amp; C Heritage Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002219-001">(1998) 44 NSWLR 575</ci:span>; <ci:span spanid="cr002220-002"> BC9804772</ci:span></citefragment> <remotelink dpsi="0018" refpt="287561" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (&#x201c;deemed director&#x201d; able to verify pleadings for the purpose of UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R35-3.1.B" remotekey1="REFPTID" service="DOC-ID">r 35.3(1)(b)</remotelink></ci:content></ci:cite>
+). &#x201c;Concerned in&#x201d; or &#x201c;taking part in the management of&#x201d; in the definition of &#x201c;officer&#x201d; in s 9 of the previous Corporations Law was discussed in the judgment of <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr002221" spanref="cr002221-001"><ci:reporter value="ACSR"/><ci:volume num="52"/><ci:page num="1"/></ci:caseref><ci:caseref ID="cr002222" spanref="cr002222-002"><ci:reporter value="urj"/><ci:refnum num="BC200408634"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Forge v Australian Securities and Investment Commission</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002221-001">(2004) 52 ACSR 1</ci:span>; [2004] NSWCA 448; <ci:span spanid="cr002222-002"> BC200408634</ci:span></citefragment> <remotelink dpsi="0018" refpt="390800" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.1-8-5A" leveltype="para0" subdoc="true" toc-caption="[SCR 1.8.5A] Officer of the court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR 1.8.5A] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 7.10.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-8-5A" type="ext"/>[SCR 1.8.5A] </edpnum><title>Officer of the court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A court-appointed receiver is an officer of the court: see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.26-3-10" remotekey1="REFPTID" service="DOC-ID">[26.3.10]</remotelink>
+. So is a tutor: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1889"/></ci:caseinfo><ci:caseref ID="cr002223" spanref="cr002223-001" status="unval"><ci:reporter value="QBD"/><ci:volume num="22"/><ci:page num="577"/></ci:caseref><ci:caseref anaphref="cr002223" spanref="cr002223-002" status="unval"><ci:pinpoint num="579" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rhodes v Swithenbank</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002223-001" status="unval">(1889) 22 QBD 577</ci:span> <ci:span spanid="cr002223-002" status="unval">at 579</ci:span></citefragment> <remotelink dpsi="0018" refpt="149229" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2001"/></ci:caseinfo><ci:caseref ID="cr002224" spanref="cr002224-001"><ci:reporter value="Fam LR"/><ci:volume num="28"/><ci:page num="481"/></ci:caseref><ci:caseref ID="cr002225" spanref="cr002225-002" status="unval"><ci:reporter value="FLR"/><ci:volume num="166"/><ci:page num="229"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Watson v Watson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002224-001">(2001) 28 Fam LR 481</ci:span>; <ci:span spanid="cr002225-002" status="unval">166 FLR 229</ci:span>; [2001] FamCA 1470</citefragment> <remotelink dpsi="0018" refpt="343767" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. A court-appointed liquidator is also an officer of the court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr002226" spanref="cr002226-001"><ci:reporter value="ACSR"/><ci:volume num="49"/><ci:page num="443"/></ci:caseref><ci:caseref ID="cr002227" spanref="cr002227-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="22"/><ci:page num="901"/></ci:caseref><ci:caseref ID="cr002228" spanref="cr002228-003"><ci:reporter value="urj"/><ci:refnum num="BC200402340"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re ACN 003 671 387 and ACN 008 664 257</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002226-001">(2004) 49 ACSR 443</ci:span>; <ci:span spanid="cr002227-002" status="unval">22 ACLC 901</ci:span>; [2004] NSWSC 368; <ci:span spanid="cr002228-003"> BC200402340</ci:span></citefragment> <remotelink dpsi="0018" refpt="379230" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (applying Supreme Court (Corporations) Rules 1999 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D7.R10" remotekey1="REFPTID" service="DOC-ID">r 7.10</remotelink></ci:content></ci:cite>
+). A person to whom proceedings have been referred under UCPR r 20.14 is not an officer of the court: see [20.13.5].</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.1-8-6" leveltype="para0" subdoc="true" toc-caption="[SCR 1.8.6] References to the 1965 English rules of court"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-8-6" type="ext"/>[SCR 1.8.6] </edpnum><title>References to the 1965 English rules of court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The sidenotes in the rules are references to the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.RSCRUK" remotekey1="REFPTID" service="DOC-ID" status="unval">Rules of the Supreme Court (revised) 1965</remotelink></ci:content></ci:cite>
+ (England) (&#x201c;RSC (Rev) 1965&#x201d;). The references are to the form of those Rules in 1969 at the time of the NSW Law Reform Commission Report No 7. The sidenotes have not been updated. The last English White Book containing those Rules is entitled &quot;The Supreme Court Practice 1999&quot;. It has a Fourth Cumulative Supplement. Those Rules were replaced by the Civil Procedure Rules 1998 (UK).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 9] r 9 Seals">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R9" type="ext"/>[SCR Pt 1 r 9]</edpnum><title searchtype="RUL-TITLE">Seals</title><desig searchtype="RUL-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT1.R9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>There shall be the seals mentioned in the first column in the table below, which shall be impressed seals and respectively shall have the wording mentioned in the second column of the table and shall be in the custody of the officer mentioned in the third column of the table.</text></p>
+<table frame="topbot" id="UCPN.SC.SCR70.PT1.R9.1.T1" pgwide="1">
+<tgroup align="left" cols="3" colsep="1" rowsep="0">
+<colspec colsep="0" colwidth="176*" rowsep="0"/>
+<colspec colsep="0" colwidth="176*" rowsep="0"/>
+<colspec colsep="0" colwidth="176*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="1"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Seal</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Wording</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Custody</entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">General seal of the Court</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Supreme Court of New South Wales</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Prothonotary</entry>
+</row>
+<row rowsep="0"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Seal of the Court of Appeal</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Supreme Court of New South Wales: Court of Appeal</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Registrar of the Court of Appeal</entry>
+</row>
+<row rowsep="0"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Seal of each Division</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Supreme Court of New South Wales: (name of the Division)</entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">Registrar of the Division</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf Protective Jurisdiction Rules 1968 r 11(1)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Each of the seals mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT1.R9.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ shall have effect as the seal of the Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R9.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except where the rules otherwise provide, but subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT1.R9.4" remotekey1="REFPTID" service="DOC-ID">subrule (4)</remotelink></ci:content></ci:cite>
+, the seal of the Court of Appeal or the general seal of the Court shall be used for the purpose of proceedings in the Court of Appeal and the seal of each Division or the general seal of the Court shall be used for the purpose of proceedings in that Division.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  am Amendment 61: Gaz 61 of 25 March 1977  p 1181]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R9.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R9.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A rubber stamp facsimile of any seal may be used instead of the seal for any purpose.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf PJR r 11(3)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R9.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R9.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subr (5)  rep Amendment 85: Gaz 46 of 28 April 1978  p 1566]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R9A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 9A] r 9A Filing">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R9A" type="ext"/>[SCR Pt 1 r 9A]</edpnum><title searchtype="RUL-TITLE">Filing</title><desig searchtype="RUL-NUM"><designum>9A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 9A  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>The repealed rule has been replaced by an equivalent provision: see now 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-1" remotekey1="REFPTID" service="DOC-ID">r 4.1</remotelink></ci:content></ci:cite>
+ of the UCP Rules.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R9B"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 9B] r 9B Filing by post or document exchange">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R9B" type="ext"/>[SCR Pt 1 r 9B]</edpnum><title searchtype="RUL-TITLE">Filing by post or document exchange</title><desig searchtype="RUL-NUM"><designum>9B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 9B  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R9C"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 9C] r 9C Filing prescribed bail forms by fax">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R9C" type="ext"/>[SCR Pt 1 r 9C]</edpnum><title searchtype="RUL-TITLE">Filing prescribed bail forms by fax</title><desig searchtype="RUL-NUM"><designum>9C</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A document, which concerns an application relating to bail and the form of which is prescribed by the rules, shall be sufficiently filed if a copy of the document, produced in the Sydney registry by a facsimile transmission machine, is filed.</text></p>
+<leg:histnote>
+<p><text>[r 9C  insrt Amendment 280: Gaz 127 of 19 November 1993  p 6893]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 10] r 10 Serial number">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R10" type="ext"/>[SCR Pt 1 r 10]</edpnum><title searchtype="RUL-TITLE">Serial number</title><desig searchtype="RUL-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 10  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>The repealed rule has been replaced by an equivalent provision: see now 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-2" remotekey1="REFPTID" service="DOC-ID">rr 4.2</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-11" remotekey1="REFPTID" service="DOC-ID">4.11</remotelink></ci:content></ci:cite>
+ of the UCP Rules.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R10A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 10A] r 10A Place of filing">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R10A" type="ext"/>[SCR Pt 1 r 10A]</edpnum><title searchtype="RUL-TITLE">Place of filing</title><desig searchtype="RUL-NUM"><designum>10A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 10A  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [5], effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>The repealed rule has been replaced by an equivalent provision: see now 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R4-13" remotekey1="REFPTID" service="DOC-ID">r 4.13</remotelink></ci:content></ci:cite>
+ of the UCP Rules.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R11"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 11] r 11 Forms">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R11" type="ext"/>[SCR Pt 1 r 11]</edpnum><title searchtype="RUL-TITLE">Forms</title><desig searchtype="RUL-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT1.R11.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Forms are prescribed in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHF" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule F</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R11.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in any such form to a provision of these rules includes a reference to the corresponding provision (if any) of the Uniform Civil Procedure Rules 2005.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  insrt Gaz 99 of 5 August 2005 r 3 and Sch 1 item [9], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R11.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a form is approved under section 17 of the Civil Procedure Act 2005 in relation to the same matter as that for which a form is prescribed in Schedule F, the form to be used is the approved form and not the prescribed form.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  insrt Gaz 99 of 5 August 2005 r 3 and Sch 1 item [9], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf Act No 15 of 1987, s 80.</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[r 11  subst Amendment 198: Gaz 140 of 4 September 1987  p 5067]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT1.R11.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.1-11-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 1.11.1] Prescribed forms"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-11-1" type="ext"/>[SCR Pt 1.11.1] </edpnum><title>Prescribed forms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Although SCR Sch F contains a comprehensive set of forms designed to be used in conjunction with the Rules, there is in fact no express requirement that makes compliance with the prescribed forms mandatory: see further: see further CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S17-5" remotekey1="REFPTID" service="DOC-ID" status="unval">[s 17.5]</remotelink>
+. Many of the forms in SCR Sch F have been replaced by forms approved under the UCPR. Forms approved under the UCPR take precedence over forms prescribed under the SCR. Where no form is prescribed under the UCPR, the forms prescribed under the SCR should be adapted to accord with the format of documents under the UCPR. </text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.1-11-2" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 1.11.2] Prescribed Forms reproduced"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-11-2" type="ext"/>[SCR Pt 1.11.2] </edpnum><title>Prescribed Forms reproduced</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Prescribed forms from Schedule F and approved forms under CPA are reproduced in Vol 3 behind the &#x201c;Forms&#x201d; guide card.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R11A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 11A] r 11A Order on terms">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R11A" type="ext"/>[SCR Pt 1 r 11A]</edpnum><title searchtype="RUL-TITLE">Order on terms</title><desig searchtype="RUL-NUM"><designum>11A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 11A  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [10], effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>The repealed rule has been replaced by an equivalent provision: see now s 86 of the CP Act 2005.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R12"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 12] r 12 Relief from rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R12" type="ext"/>[SCR Pt 1 r 12]</edpnum><title searchtype="RUL-TITLE">Relief from rules</title><desig searchtype="RUL-NUM"><designum>12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 12  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [10], effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>The repealed rule has been replaced by an equivalent provision: see now s 14 of the CP Act 2005.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R13"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 13] r 13 Procedure wanting or in doubt">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R13" type="ext"/>[SCR Pt 1 r 13]</edpnum><title searchtype="RUL-TITLE">Procedure wanting or in doubt</title><desig searchtype="RUL-NUM"><designum>13</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT1.R13.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R13.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a person desires to commence proceedings or take any step in any proceedings, and the manner or form of procedure is not prescribed by the Act or the rules or by or under any other Act or that person is in doubt as to the manner or form of procedure, the Court may, on application by that person, give directions.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf High Court Rules O 72 r 1(1)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R13.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R13.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings commenced in accordance with the directions of the Court shall be well commenced.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf HCR O 72 r 1(2)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R13.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R13.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A step taken in accordance with the directions of the Court shall be regular and sufficient.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf HCR O 72 r 1(2)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R13.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT1.R13.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In respect of proceedings to be commenced for directions under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT1.R13.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+, application may be made by summons in any Division.</text></p>
+<leg:histnote>
+<p><text>[subr (4)  insrt Amendment 3: Gaz 59 of 2 June 1972  p 2027]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT1.R13.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.1-13-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 1.13.1]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 1.13.1] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 16.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 1.8.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.1-13-1" type="ext"/>[SCR Pt 1.13.1] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It sometimes occurs that there is no specific procedure, either in the rules or in the forms, that deals with the particular application or proceeding &#x2014; notwithstanding that it is a matter that is clearly within the substantive jurisdiction of the court. In such a case the court (and the parties) must do the best that they can in the circumstances &#x2014; which may involve devising &quot;ad hoc&quot; procedures: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1935"/></ci:caseinfo><ci:caseref ID="cr002229" spanref="cr002229-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="36"/><ci:page num="21"/></ci:caseref><ci:caseref anaphref="cr002229" spanref="cr002229-002" status="unval"><ci:pinpoint num="29" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Browne v Cmr for Railways</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002229-001" status="unval">(1935) 36 SR (NSW) 21</ci:span> <ci:span spanid="cr002229-002" status="unval">at 29</ci:span></citefragment> <remotelink dpsi="0018" refpt="7525" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Jordan CJ (the judge must do &quot;the best he can with the means he has available&quot;); applying <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002230" spanref="cr002230-001" status="unval"><ci:reporter value="VLR"/><ci:edition><ci:date year="1910"/></ci:edition><ci:page num="137"/></ci:caseref><ci:caseref anaphref="cr002230" spanref="cr002230-002" status="unval"><ci:pinpoint num="145" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Edgar v Greenwood</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002230-001" status="unval">[1910] VLR 137</ci:span> <ci:span spanid="cr002230-002" status="unval">at 145</ci:span></citefragment> <remotelink dpsi="0018" refpt="57123" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. This principle has been applied in many cases: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1947"/></ci:caseinfo><ci:caseref ID="cr002231" spanref="cr002231-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="48[nbsp  ]"/><ci:page num="234"/></ci:caseref><ci:caseref anaphref="cr002231" spanref="cr002231-002" status="unval"><ci:pinpoint num="235" targettype="page"/></ci:caseref><ci:caseref ID="cr002232" spanref="cr002232-003" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="48[nbsp  ]"/><ci:page num="234"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hawke v Edwards (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002231-001" status="unval">(1947) 48 SR (NSW) 234</ci:span> <ci:span spanid="cr002231-002" status="unval">at 235</ci:span>; <ci:span spanid="cr002232-003" status="unval">65 WN (NSW) 47</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002233" spanref="cr002233-001" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="60"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hoban v Davey</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002233-001" status="unval">[1972] 1 NSWLR 59</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002234" spanref="cr002234-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="139"/></ci:caseref><ci:caseref anaphref="cr002234" spanref="cr002234-002" status="unval"><ci:pinpoint num="148" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bogeta Pty Ltd v Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002234-001">[1977] 1 NSWLR 139</ci:span> <ci:span spanid="cr002234-002" status="unval">at 148</ci:span></citefragment></ci:content></ci:cite>. There is a similar power under CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S16" remotekey1="REFPTID" service="DOC-ID">s 16</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R8" remotekey1="REFPTID" service="DOC-ID">r 1.8</remotelink></ci:content></ci:cite>
+ of Supreme Court (Corporations) Rules 1999: see 
+<remotelink dpsi="05CC" refpt="UCPN.SC.15035-5" remotekey1="REFPTID" service="DOC-ID">[15,035.5]</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT1.R14"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 1 r 14] r 14 Saving as to discovery">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT1.R14" type="ext"/>[SCR Pt 1 r 14]</edpnum><title searchtype="RUL-TITLE">Saving as to discovery</title><desig searchtype="RUL-NUM"><designum>14</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 14  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [10], effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>The repealed rule has been replaced by an equivalent provision: see now 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-4" remotekey1="REFPTID" service="DOC-ID">r 1.4</remotelink></ci:content></ci:cite>
+ of the UCP Rules.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

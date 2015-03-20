@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 THE HEARSAY RULE [ss 59&#x2013;61]</docinfo:doc-heading><docinfo:doc-id>UCPN.EA.EAN95.C3.PT3-2.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Evidence</title></heading><docinfo:hierlev role="ancestor"><heading><title>EVIDENCE ACT 1995 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>CHAPTER 3  ADMISSIBILITY OF EVIDENCE [ss 55&#x2013;139]</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 3.2  HEARSAY [ss 59&#x2013;75]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 THE HEARSAY RULE [ss 59&#x2013;61]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110000100</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.EA"/><docinfo:metaitem name="parent-filename" value="ea.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_EA.SGM_UCPN.EA.EAN95"/><docinfo:metaitem name="parent-filename" value="ea1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 25, 1995</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">EVIDENCE ACT 1995 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.EA.EAN95.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.EA.EAN95.C3"><leg:level-vrnt leveltype="chapter" searchtype="LEGISLATION CHAPTER" subdoc="false" toc-caption="CHAPTER 3  ADMISSIBILITY OF EVIDENCE [ss 55&#x2013;139]"><leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.C3.PT3-2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3.2  HEARSAY [ss 59&#x2013;75]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.EA.EAN95.C3.PT3-2" type="ext"/>PART 3.2</designum></desig><title searchtype="PART-TITLE"> HEARSAY [ss 59&#x2013;75]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.C3.PT3-2.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 THE HEARSAY RULE [ss 59&#x2013;61]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.EA.EAN95.C3.PT3-2.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">THE HEARSAY RULE [ss 59&#x2013;61]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S59"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,545] s 59 The hearsay rule &#x2014; exclusion of hearsay evidence">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S59" type="ext"/>[50,545]</edpnum><title searchtype="SECT-TITLE">The hearsay rule &#x2014; exclusion of hearsay evidence</title><desig searchtype="SECT-NUM"><designum>59</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S59.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S59.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Evidence of a previous representation made by a person is not admissible to prove the existence of a fact that it can reasonably be supposed that the person intended to assert by the representation.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act No 46 of 2007  s 3 and Sch 1[16], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S59.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S59.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Such a fact is in this Part referred to as an asserted fact.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S59.2A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S59.2A" type="ext"/>(2A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of determining under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S59.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ whether it can reasonably be supposed that the person intended to assert a particular fact by the representation, the court may have regard to the circumstances in which the representation was made.</text></p>
+<p><glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S59.2A" remotekey1="REFPTID" service="DOC-ID">Subsection (2A)</remotelink></ci:content></ci:cite>
+ was inserted as a response to the decision of the Supreme Court of NSW in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2000"/></ci:caseinfo><ci:caseref ID="cr000403" spanref="cr000403-001" status="unval"><ci:reporter value="FLR"/><ci:volume num="158"/><ci:page num="359"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Hannes</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000403-001" status="unval">(2000) 158 FLR 359</ci:span></citefragment> <remotelink dpsi="0018" refpt="321053" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p></glp:note></p><leg:histnote>
+<p><text>[subs (2A)  insrt Act No 46 of 2007  s 3 and Sch 1[17], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S59.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S59.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (1) does not apply to evidence of a representation contained in a certificate or other document given or made under regulations made under an Act other than this Act to the extent to which the regulations provide that the certificate or other document has evidentiary effect.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  insrt Act No 53 of 2000  Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Notes:</title></heading>
+<p>
+<text>Specific exceptions to the hearsay rule are as follows:</text>
+<l>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>evidence relevant for a non-hearsay purpose (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S60" remotekey1="REFPTID" service="DOC-ID">section 60</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>first-hand hearsay:</text></p>
+<l>
+<li><lilabel>&#x2014;</lilabel>
+<p><text>civil proceedings, if the maker of the representation is unavailable (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S63" remotekey1="REFPTID" service="DOC-ID">section 63</remotelink></ci:content></ci:cite>
+) or available (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S64" remotekey1="REFPTID" service="DOC-ID">section 64</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel>&#x2014;</lilabel>
+<p><text>criminal proceedings, if the maker of the representation is unavailable (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S65" remotekey1="REFPTID" service="DOC-ID">section 65</remotelink></ci:content></ci:cite>
+) or available (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S66" remotekey1="REFPTID" service="DOC-ID">section 66</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+</l></li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>contemporaneous statements about a person&#x2019;s health etc (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S66A" remotekey1="REFPTID" service="DOC-ID">section 66A</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>business records (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S69" remotekey1="REFPTID" service="DOC-ID">section 69</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>tags and labels (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S70" remotekey1="REFPTID" service="DOC-ID">section 70</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>electronic communications (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S71" remotekey1="REFPTID" service="DOC-ID">section 71</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>Aboriginal and Torres Strait Islander traditional laws and customs (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S72" remotekey1="REFPTID" service="DOC-ID">section 72</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>marriage, family history or family relationships (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S73" remotekey1="REFPTID" service="DOC-ID">section 73</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>public or general rights (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S74" remotekey1="REFPTID" service="DOC-ID">section 74</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>use of evidence in interlocutory proceedings (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S75" remotekey1="REFPTID" service="DOC-ID">section 75</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>admissions (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S81" remotekey1="REFPTID" service="DOC-ID">section 81</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>representations about employment or authority (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S87.2" remotekey1="REFPTID" service="DOC-ID">section 87(2)</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>exceptions to the rule excluding evidence of judgments and convictions (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S92.3" remotekey1="REFPTID" service="DOC-ID">section 92(3)</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel> &#x2022;</lilabel>
+<p><text>character of and expert opinion about accused persons (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S110" remotekey1="REFPTID" service="DOC-ID">sections 110</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S111" remotekey1="REFPTID" service="DOC-ID">111</remotelink></ci:content></ci:cite>
+).</text></p>
+</li>
+</l>
+<text>Other provisions of this Act, or of other laws, may operate as further exceptions.</text></p></glp:note>
+<pgrp>
+<heading><title>Examples:</title></heading>
+<p>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>D is the defendant in a sexual assault trial. W has made a statement to the police that X told W that X had seen D leave a night club with the victim shortly before the sexual assault is alleged to have occurred. Unless an exception to the hearsay rule applies, evidence of what X told W cannot be given at the trial.</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>P had told W that the handbrake on W's car did not work. Unless an exception to the hearsay rule applies, evidence of that statement cannot be given by P, W or anyone else to prove that the handbrake was defective.</text></p></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text>W had bought a video cassette recorder and written down its serial number on a document. Unless an exception to the hearsay rule applies, the document is inadmissible to prove that a video cassette recorder later found in D's possession was the video cassette recorder bought by W.</text></p></li></l></p></pgrp><leg:histnote>
+<p><text>[s 59  am Act No 46 of 2007  s 3 and Sch 1[18], effective 1 January 2009]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S59.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50545-5" leveltype="para0" subdoc="true" toc-caption="[50,545.5] ALRC reference"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50545-5" type="ext"/>[50,545.5] </edpnum><title>ALRC reference</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>ALRC 26 vol 1 para 684</text></p>
+<p>
+<blockquote>
+<p i="9" indent="hang"><text>&#x2002;&#x2002;ALRC 38 para 126</text></p>
+<p i="9" indent="hang"><text>&#x2002;&#x2002;ALRC 102 paras 7.4&#x2013;7.62</text></p></blockquote></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50545-10" leveltype="para0" subdoc="true" toc-caption="[50,545.10] Defined terms"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50545-10" type="ext"/>[50,545.10] </edpnum><title>Defined terms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This section is known as the &#x201c;hearsay rule&#x201d; for the purpose of the Act. Other terms that appear in the section and are defined in the Dictionary are: &#x201c;previous representation&#x201d; and &#x201c;representation&#x201d;.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50545-15" leveltype="para0" subdoc="true" toc-caption="[50,545.15] Statements admissible as original evidence">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,545.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 59(2A).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50545-15" type="ext"/>[50,545.15] </edpnum><title>Statements admissible as original evidence</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The hearsay rule does not exclude evidence of out of court statements that are relevant as original evidence. If the fact that a previous (ie, an out of court) statement was made is relevant, then evidence of its making is admissible: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000404" spanref="cr000404-001" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1956"/></ci:edition><ci:page num="965"/></ci:caseref><ci:caseref anaphref="cr000404" spanref="cr000404-002" status="unval"><ci:pinpoint num="970" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Subramaniam v Public Prosecutor</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000404-001" status="unval">[1956] 1 WLR 965</ci:span> <ci:span spanid="cr000404-002" status="unval">at 970</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000405" spanref="cr000405-001" status="unval"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="80"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mawaz Khan v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000405-001" status="unval">[1976] 1 All ER 80</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000406" spanref="cr000406-001"><ci:reporter value="NSWLR"/><ci:volume num="4"/><ci:page num="42"/></ci:caseref><ci:caseref anaphref="cr000406" spanref="cr000406-002" status="unval"><ci:pinpoint num="60" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Murphy</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000406-001">(1985) 4 NSWLR 42</ci:span> <ci:span spanid="cr000406-002" status="unval">at 60</ci:span></citefragment></ci:content></ci:cite>. Evidence of statements made by an interpreter during an out of court conversation is admissible as the statements made by the person whose conversation was being translated: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1996"/></ci:caseinfo><ci:caseref ID="cr000407" spanref="cr000407-001"><ci:reporter value="ALR"/><ci:volume num="140"/><ci:page num="273"/></ci:caseref><ci:caseref ID="cr000408" spanref="cr000408-002"><ci:reporter value="urj"/><ci:refnum num="BC9604541"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Tsang Chi Ming v Uvanna Pty Ltd (t/as North West Immigration Services)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000407-001">(1996) 140 ALR 273</ci:span>; <ci:span spanid="cr000408-002"> BC9604541</ci:span></citefragment> <remotelink dpsi="0018" refpt="197899" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr000409" spanref="cr000409-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="195"/><ci:page num="594"/></ci:caseref><ci:caseref ID="cr000410" spanref="cr000410-002"><ci:reporter value="ALR"/><ci:volume num="157"/><ci:page num="394"/></ci:caseref><ci:caseref ID="cr000411" spanref="cr000411-003"><ci:reporter value="urj"/><ci:refnum num="BC9804987"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lee v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000409-001" status="unval">(1998) 195 CLR 594</ci:span>; <ci:span spanid="cr000410-002">157 ALR 394</ci:span>; [1998] HCA 60; <ci:span spanid="cr000411-003"> BC9804987</ci:span></citefragment> <remotelink dpsi="0018" refpt="287330" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>A previous out of court statement is only within the hearsay rule if it is relied on for the purpose of establishing the truth of the facts the person intended to assert: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr000412" spanref="cr000412-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="174"/><ci:page num="558"/></ci:caseref><ci:caseref anaphref="cr000412" spanref="cr000412-002" status="unval"><ci:pinpoint num="602" targettype="page"/></ci:caseref><ci:caseref ID="cr000413" spanref="cr000413-003"><ci:reporter value="ALR"/><ci:volume num="108"/><ci:page num="1"/></ci:caseref><ci:caseref ID="cr000414" spanref="cr000414-004"><ci:reporter value="urj"/><ci:refnum num="BC9202688"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pollitt v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000412-001" status="unval">(1992) 174 CLR 558</ci:span> <ci:span spanid="cr000412-002" status="unval">at 602</ci:span>; <ci:span spanid="cr000413-003">108 ALR 1</ci:span>; <ci:span spanid="cr000414-004"> BC9202688</ci:span></citefragment> <remotelink dpsi="0018" refpt="35043" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr000415" spanref="cr000415-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="166"/><ci:page num="283"/></ci:caseref><ci:caseref ID="cr000416" spanref="cr000416-002"><ci:reporter value="ALR"/><ci:volume num="84"/><ci:page num="59"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Walton v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000415-001" status="unval">(1989) 166 CLR 283</ci:span>; <ci:span spanid="cr000416-002">84 ALR 59</ci:span></citefragment> <remotelink dpsi="0018" refpt="10980" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000417" spanref="cr000417-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="378"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Ratten</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000417-001" status="unval">[1972] AC 378</ci:span></citefragment> <remotelink dpsi="0018" refpt="10988" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1981"/></ci:caseinfo><ci:caseref ID="cr000418" spanref="cr000418-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="145"/><ci:page num="395"/></ci:caseref><ci:caseref ID="cr000419" spanref="cr000419-002"><ci:reporter value="ALR"/><ci:volume num="34"/><ci:page num="289"/></ci:caseref><ci:caseref ID="cr000420" spanref="cr000420-003"><ci:reporter value="urj"/><ci:refnum num="BC8100066"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Alexander v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000418-001" status="unval">(1981) 145 CLR 395</ci:span>; <ci:span spanid="cr000419-002">34 ALR 289</ci:span>; <ci:span spanid="cr000420-003"> BC8100066</ci:span></citefragment> <remotelink dpsi="0018" refpt="789" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (evidence of previous identification). That intention may go beyond the actual words used in the previous representation. It will include any fact the person may reasonably have intended to assert having regard to the circumstances in which the representation was made: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA._EAN95.S59.2" remotekey1="REFPTID" service="DOC-ID" status="unval">s 59(2A)</remotelink></ci:content></ci:cite>
+. See <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2000"/></ci:caseinfo><ci:caseref ID="cr000421" spanref="cr000421-001" status="unval"><ci:reporter value="FLR"/><ci:volume num="158"/><ci:page num="359"/></ci:caseref><ci:caseref ID="cr000422" spanref="cr000422-002"><ci:reporter value="ACSR"/><ci:volume num="36"/><ci:page num="72"/></ci:caseref><ci:caseref ID="cr000423" spanref="cr000423-003"><ci:reporter value="urj"/><ci:refnum num="BC200007407"/></ci:caseref><ci:caseref anaphref="cr000423" spanref="cr000423-004"><ci:pinpoint num="361" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Hannes</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000421-001" status="unval">(2000) 158 FLR 359</ci:span>; <ci:span spanid="cr000422-002">36 ACSR 72</ci:span>; [2000] NSWCCA 503; <ci:span spanid="cr000423-003"> BC200007407</ci:span> <ci:span spanid="cr000423-004">at [361]</ci:span></citefragment> <remotelink dpsi="0018" refpt="321053" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Spigelman CJ.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50545-20" leveltype="para0" subdoc="true" toc-caption="[50,545.20] Implied assertions"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50545-20" type="ext"/>[50,545.20] </edpnum><title>Implied assertions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Prior to the Evidence Act there was uncertainty as to whether implied representations of different kinds fell within the scope of the hearsay rule: see Ligertwood <emph typestyle="it">Australian Evidence</emph>, 2nd ed, Butterworths, Sydney, 1993, Ch 8: McGinley &amp; Nage, <emph typestyle="it">Implied Assertions and the Hearsay Prohibition</emph> (1993) 67 <emph typestyle="it">ALJ</emph> 687; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr000424" spanref="cr000424-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="166"/><ci:page num="283"/></ci:caseref><ci:caseref anaphref="cr000424" spanref="cr000424-002" status="unval"><ci:pinpoint num="302" targettype="page"/></ci:caseref><ci:caseref ID="cr000425" spanref="cr000425-003"><ci:reporter value="ALR"/><ci:volume num="84"/><ci:page num="59"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Walton v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000424-001" status="unval">(1989) 166 CLR 283</ci:span> <ci:span spanid="cr000424-002" status="unval">at 302&#x2013;304</ci:span>; <ci:span spanid="cr000425-003">84 ALR 59</ci:span></citefragment> <remotelink dpsi="0018" refpt="10980" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <emph typestyle="it">Cross on Evidence (Australian Edition)</emph> at [31035]&#x2013;[31070]. However, the definition of the term &#x201c;representation&#x201d; in the Dictionary to the Act is quite explicit and includes &#x201c;an express or implied representation&#x201d;: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2000"/></ci:caseinfo><ci:caseref ID="cr000426" spanref="cr000426-001" status="unval"><ci:reporter value="FLR"/><ci:volume num="158"/><ci:page num="359"/></ci:caseref><ci:caseref ID="cr000427" spanref="cr000427-002"><ci:reporter value="ACSR"/><ci:volume num="36"/><ci:page num="72"/></ci:caseref><ci:caseref ID="cr000428" spanref="cr000428-003"><ci:reporter value="urj"/><ci:refnum num="BC200007407"/></ci:caseref><ci:caseref anaphref="cr000428" spanref="cr000428-004"><ci:pinpoint num="348" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Hannes</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000426-001" status="unval">(2000) 158 FLR 359</ci:span>; <ci:span spanid="cr000427-002">36 ACSR 72</ci:span>; [2000] NSWCCA 503; <ci:span spanid="cr000428-003"> BC200007407</ci:span> <ci:span spanid="cr000428-004">at [348]&#x2013;[350]</ci:span></citefragment> <remotelink dpsi="0018" refpt="321053" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Spigelman CJ. Accordingly, the effect of the hearsay rule (as now defined) is to allow evidence of previous statements that contain factual assertions that can reasonably be supposed to have been intended having regard to the circumstances in which the statement was made. Thus evidence of an out of court statement in which one person addressed another by name may be admissible as evidence of the fact that the person addressed had that name: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000429" spanref="cr000429-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="378"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Ratten</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000429-001" status="unval">[1972] AC 378</ci:span></citefragment> <remotelink dpsi="0018" refpt="10988" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1984"/></ci:caseinfo><ci:caseref ID="cr000430" spanref="cr000430-001"><ci:reporter value="ALR"/><ci:volume num="55"/><ci:page num="408"/></ci:caseref><ci:caseref ID="cr000431" spanref="cr000431-002" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="14"/><ci:page num="97"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Ryan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000430-001">(1984) 55 ALR 408</ci:span>; <ci:span spanid="cr000431-002" status="unval">14 A Crim R 97</ci:span></citefragment> <remotelink dpsi="0018" refpt="13504" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S60"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,550] s 60 Exception: evidence relevant for a non-hearsay purpose">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S60" type="ext"/>[50,550]</edpnum><title searchtype="SECT-TITLE">Exception: evidence relevant for a non-hearsay purpose</title><desig searchtype="SECT-NUM"><designum>60</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S60.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S60.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The hearsay rule does not apply to evidence of a previous representation that is admitted because it is relevant for a purpose other than proof of an asserted fact.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act No 46 of 2007  s 3 and Sch 1[19], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S60.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S60.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies whether or not the person who made the representation had personal knowledge of the asserted fact (within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S62.2" remotekey1="REFPTID" service="DOC-ID">section 62(2)</remotelink></ci:content></ci:cite>
+).</text></p>
+<p><glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S60.2" remotekey1="REFPTID" service="DOC-ID">Subsection (2)</remotelink></ci:content></ci:cite>
+ was inserted as a response to the decision of the High Court of Australia in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr000432" spanref="cr000432-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="195"/><ci:page num="594"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lee v The Queen</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000432-001" status="unval">(1998) 195 CLR 594</ci:span></citefragment> <remotelink dpsi="0018" refpt="287330" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p></glp:note></p><leg:histnote>
+<p><text>[subs (2)  insrt Act No 46 of 2007  s 3 and Sch 1[20], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S60.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S60.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>However, this section does not apply in a criminal proceeding to evidence of an admission. </text></p>
+<p><glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The admission might still be admissible under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S81" remotekey1="REFPTID" service="DOC-ID">section 81</remotelink></ci:content></ci:cite>
+ as an exception to the hearsay rule if it is &#x201c;first-hand&#x201d; hearsay: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S82" remotekey1="REFPTID" service="DOC-ID">section 82</remotelink></ci:content></ci:cite>
+.</text></p></glp:note></p><leg:histnote>
+<p><text>[subs (3)  insrt Act No 46 of 2007  s 3 and Sch 1[20], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S60.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50550-5" leveltype="para0" subdoc="true" toc-caption="[50,550.5] ALRC reference"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50550-5" type="ext"/>[50,550.5] </edpnum><title>ALRC reference</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>ALRC 26 vol 1 paras 334, 685</text></p>
+<p>
+<blockquote>
+<p i="9" indent="hang"><text>&#x2002;ALRC 38 paras 126, 144&#x2013;145</text></p>
+<p i="9" indent="hang"><text>&#x2002;ALRC 102 paras 7.63&#x2013;7.106</text></p></blockquote></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50550-10" leveltype="para0" subdoc="true" toc-caption="[50,550.10] Defined terms"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50550-10" type="ext"/>[50,550.10] </edpnum><title>Defined terms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Relevant terms defined in the Dictionary are &#x201c;representation&#x201d; and &#x201c;prior representation&#x201d;.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50550-15" leveltype="para0" subdoc="true" toc-caption="[50,550.15] Purpose of admission not limited">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,550.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 136, s 60(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50550-15" type="ext"/>[50,550.15] </edpnum><title>Purpose of admission not limited</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The section contemplates that evidence may be admissible for a limited purpose notwithstanding the hearsay rule &#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.EA.50545-15" remotekey1="REFPTID" service="DOC-ID">[50,545.15]</remotelink>
+ above. By stipulating that the hearsay rule does not apply to evidence so admitted, the section permits the evidence to be used to establish the facts asserted.</text></p>
+<p>
+<text> The effect of the section is to allow admitted evidence to be used for purposes other than those for which it was originally admissible. Furthermore, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S60.2" remotekey1="REFPTID" service="DOC-ID">s 60(2)</remotelink></ci:content></ci:cite>
+ permits the previous representation to be admissible as probative of an asserted fact irrespective of the author&#x2019;s personal knowledge of its truth &#x2014; in this respect overcoming the effect of the decision in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr000433" spanref="cr000433-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="195"/><ci:page num="594"/></ci:caseref><ci:caseref ID="cr000434" spanref="cr000434-002"><ci:reporter value="ALR"/><ci:volume num="157"/><ci:page num="394"/></ci:caseref><ci:caseref ID="cr000435" spanref="cr000435-003"><ci:reporter value="urj"/><ci:refnum num="BC9804987"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lee v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000433-001" status="unval">(1998) 195 CLR 594</ci:span>; <ci:span spanid="cr000434-002">157 ALR 394</ci:span>; [1998] HCA 60; <ci:span spanid="cr000435-003"> BC9804987</ci:span></citefragment> <remotelink dpsi="0018" refpt="287330" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. This position may be appropriate in some instances (eg, some kinds of prior inconsistent statements: ALRC Report No 26 vol 1 para 685). In other instances it will be necessary to consider using the discretion conferred by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S136" remotekey1="REFPTID" service="DOC-ID">s 136</remotelink></ci:content></ci:cite>
+ to limit the use to which the evidence can be put: see generally the note in 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.29-5-25" remotekey1="REFPTID" service="DOC-ID">[29.5.25]</remotelink>
+. </text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50550-20" leveltype="para0" subdoc="true" toc-caption="[50,550.20] Previous representations in medical reports">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,550.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 136, s 60.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50550-20" type="ext"/>[50,550.20] </edpnum><title>Previous representations in medical reports</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S60" remotekey1="REFPTID" service="DOC-ID">Section 60</remotelink></ci:content></ci:cite>
+ reverses the common law rule in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1961"/></ci:caseinfo><ci:caseref ID="cr000436" spanref="cr000436-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="108"/><ci:page num="642"/></ci:caseref><ci:caseref anaphref="cr000436" spanref="cr000436-002" status="unval"><ci:pinpoint num="649" targettype="page"/></ci:caseref><ci:caseref ID="cr000437" spanref="cr000437-003" status="unval"><ci:reporter value="ALJR"/><ci:volume num="35"/><ci:page num="301"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ramsay v Watson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000436-001" status="unval">(1961) 108 CLR 642</ci:span> <ci:span spanid="cr000436-002" status="unval">at 649</ci:span>; <ci:span spanid="cr000437-003" status="unval">35 ALJR 301</ci:span></citefragment> <remotelink dpsi="0018" refpt="7615" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> that statements contained in a history taken by a doctor, and repeated as the basis for the doctor's opinion, had to be admissibly proved to be received as evidence of the facts stated. The hearsay rule does not apply to the evidence of such previous representations and they are admissible: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1996"/></ci:caseinfo><ci:caseref ID="cr000438" spanref="cr000438-001" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="90"/><ci:page num="364"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Welsh</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000438-001" status="unval">(1996) 90 A Crim R 364</ci:span></citefragment> <remotelink dpsi="0018" refpt="208581" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000439" spanref="cr000439-001"><ci:reporter value="urj"/><ci:refnum num="BC200100409"/></ci:caseref><ci:caseref anaphref="cr000439" spanref="cr000439-002"><ci:pinpoint num="70" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Daw v Toyworld (NSW) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWCA 25; <ci:span spanid="cr000439-001"> BC200100409</ci:span> <ci:span spanid="cr000439-002">at [70]</ci:span></citefragment> <remotelink dpsi="0018" refpt="324171" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. But, despite the admissibility of evidence of this kind, it may be appropriate to apply under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S136" remotekey1="REFPTID" service="DOC-ID">s 136</remotelink></ci:content></ci:cite>
+ for an order to limit the use of the evidence to prevent any risk of the evidence being used unfairly: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Daw</emph>
+</citefragment></ci:content></ci:cite>, above, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000440" spanref="cr000440-000"><ci:reporter value="urj"/><ci:pinpoint num="40" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000440-000">at [40]</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000441" spanref="cr000441-001"><ci:reporter value="urj"/><ci:refnum num="BC200305938"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Roach v Page (No 11)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 907; <ci:span spanid="cr000441-001"> BC200305938</ci:span></citefragment> <remotelink dpsi="0018" refpt="369740" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S61"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,555] s 61 Exceptions to the hearsay rule dependent on competency">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S61" type="ext"/>[50,555]</edpnum><title searchtype="SECT-TITLE">Exceptions to the hearsay rule dependent on competency</title><desig searchtype="SECT-NUM"><designum>61</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S61.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S61.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part does not enable use of a previous representation to prove the existence of an asserted fact if, when the representation was made, the person who made it was not competent to give evidence about the fact because of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S13.1" remotekey1="REFPTID" service="DOC-ID">section 13(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  subst Act No 46 of 2007  s 3 and Sch 1[21], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S61.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S61.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not apply to a contemporaneous representation made by a person about his or her health, feelings, sensations, intention, knowledge or state of mind.</text></p>
+<p><glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>For the admissibility of such contemporaneous representations, see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S66A" remotekey1="REFPTID" service="DOC-ID">section 66A</remotelink></ci:content></ci:cite>
+.</text></p></glp:note></p><leg:histnote>
+<p><text>[subs (2)  am Act No 46 of 2007  s 3 and Sch 1[22], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S61.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S61.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this section, it is presumed, unless the contrary is proved, that when the representation was made the person who made it was competent to give evidence about the asserted fact.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

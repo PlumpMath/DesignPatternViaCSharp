@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 2 APPLICATIONS UNDER THE NSW TRUSTEE AND GUARDIAN ACT 2009 [rr 57.3&#x2013;57.10]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT57.D2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 57 MATTERS ARISING UNDER THE NSW TRUSTEE AND GUARDIAN ACT 2009 OR GUARDIANSHIP ACT 1987 [rr 57.1&#x2013;57.12]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 2 APPLICATIONS UNDER THE NSW TRUSTEE AND GUARDIAN ACT 2009 [rr 57.3&#x2013;57.10]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50011810</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN.UCPR.UCPRN05.PT57"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 57 MATTERS ARISING UNDER THE NSW TRUSTEE AND GUARDIAN ACT 2009 OR GUARDIANSHIP ACT 1987 [rr 57.1&#x2013;57.12]"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT57.D2"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 2 APPLICATIONS UNDER THE NSW TRUSTEE AND GUARDIAN ACT 2009 [rr 57.3&#x2013;57.10]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT57.D2" type="ext"/>DIVISION 2</designum></desig><title searchtype="DIV-TITLE">APPLICATIONS UNDER THE NSW TRUSTEE AND GUARDIAN ACT 2009 [rr 57.3&#x2013;57.10]</title><leg:histnote>
+<p><text>[Heading  am Amendment 29 of 2009  Sch 1[24], effective 8 October 2009]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 57.3] r 57.3 Parties to proceedings on application under section 41 or 54 (cf SCR Part 76, rule 9)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R57-3" type="ext"/>[r 57.3]</edpnum><title searchtype="RUL-TITLE">Parties to proceedings on application under section 41 or 54 (cf SCR Part 76, rule 9)</title><desig searchtype="RUL-NUM"><designum>57.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R57-3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an application is made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S41" remotekey1="REFPTID" service="DOC-ID" status="unval">section 41</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009, the person in respect of whom the application is made must be made a defendant.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Amendment 29 of 2009  Sch 1[25], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R57-3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an application is made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S54" remotekey1="REFPTID" service="DOC-ID" status="unval">section 54</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009, the person in respect of whom the application is made must be made a defendant but need not be served.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am Amendment 29 of 2009  Sch 1[26], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT57.R3.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.57-3-5" leveltype="para0" subdoc="true" toc-caption="[57.3.5] Commencement of proceedings"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-3-5" type="ext"/>[57.3.5] </edpnum><title>Commencement of proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Before proceedings are commenced for the appointment of a manager or guardian it is prudent for the proposed plaintiff to discuss the proposal with the NSW Trustee and Guardian (previously the Office of the Protective Commissioner). Contact details for the NSW Trustee and Guardian are available at 
+<remotelink href="www.tag.nsw.gov.au" hrefclass="http" newwindow="YES">http://www.tag.nsw.gov.au/</remotelink>
+. Pro forma documents are usually available.</text></p>
+<p>
+<text>In the absence of special circumstances it is undesirable for a solicitor to apply personally for protective relief in respect of their own client: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012909" spanref="cr012909-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="81"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McD v McD</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012909-001">[1983] 3 NSWLR 81</ci:span></citefragment> <remotelink dpsi="0018" refpt="82902" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. See also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012910" spanref="cr012910-001"><ci:reporter value="urj"/><ci:refnum num="BC200305145"/></ci:caseref><ci:caseref anaphref="cr012910" spanref="cr012910-002"><ci:pinpoint num="68" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">P v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 819; <ci:span spanid="cr012910-001"> BC200305145</ci:span> <ci:span spanid="cr012910-002">at [68]</ci:span></citefragment> <remotelink dpsi="0018" refpt="368432" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and following.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-3-10" leveltype="para0" subdoc="true" toc-caption="[57.3.10] Service of the application"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-3-10" type="ext"/>[57.3.10] </edpnum><title>Service of the application</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A plaintiff should be careful to ensure strict compliance with the rules regarding service on an alleged incapable person or defendant. Personal service on that person is ordinarily insisted upon in order to minimise the risk, hopefully remote, that the power to appoint a manager has not been invoked without proper cause and contrary to the best interests of the person: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1901"/></ci:caseinfo><ci:caseref ID="cr012911" spanref="cr012911-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="18"/><ci:page num="243"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Craven</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012911-001" status="unval">(1901) 18 WN (NSW) 243</ci:span></citefragment> <remotelink dpsi="0018" refpt="181094" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Neither the nature and scope of the person&#x2019;s property interests, nor delay in obtaining medical evidence, will ordinarily provide justification for departing from the usual requirement of personal service: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1905"/></ci:caseinfo><ci:caseref ID="cr012912" spanref="cr012912-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="22"/><ci:page num="68"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re AH (an alleged incapable person)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012912-001" status="unval">(1905) 22 WN (NSW) 68</ci:span></citefragment></ci:content></ci:cite>. Neither will the apprehension that service of the proceedings might create or exacerbate the defendant&#x2019;s antipathy towards the plaintiff in the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1901"/></ci:caseinfo><ci:caseref ID="cr012913" spanref="cr012913-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="18"/><ci:page num="243"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Craven</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012913-001" status="unval">(1901) 18 WN (NSW) 243</ci:span></citefragment> <remotelink dpsi="0018" refpt="181094" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. (Although it has been said that the proceedings should not be served on an allegedly incapable person by the plaintiff themselves: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1959"/></ci:caseinfo><ci:caseref ID="cr012914" spanref="cr012914-001" status="unval"><ci:reporter value="WN"/><ci:volume num="76"/><ci:page num="447"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re An Alleged Incapable Person</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012914-001" status="unval">(1959) 76 WN 447</ci:span></citefragment></ci:content></ci:cite>.) Note, however, that there is some North American authority for the proposition that personal service on an allegedly incapable person may be dispensed with where there is proper reason to conclude that it would dangerously excite that person: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1906"/></ci:caseinfo><ci:caseref ID="cr012915" spanref="cr012915-001" status="unval"><ci:reporter value="OLR"/><ci:volume num="12"/><ci:page num="194"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Webb</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012915-001" status="unval">(1906) 12 OLR 194</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1911"/></ci:caseinfo><ci:caseref ID="cr012916" spanref="cr012916-001" status="unval"><ci:reporter value="WWR"/><ci:volume num="1"/><ci:page num="248"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Bulger</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012916-001" status="unval">(1911) 1 WWR 248</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-3-15" leveltype="para0" subdoc="true" toc-caption="[57.3.15] Service of proceedings on incapable person&#x2019;s next of kin">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [57.3.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 57.11, UCPR rr 57.4, 57.5(a)(iii).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-3-15" type="ext"/>[57.3.15] </edpnum><title>Service of proceedings on incapable person&#x2019;s next of kin</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>As a general rule, the summons and supporting affidavit should be served on all the adult next of kin within the jurisdiction, unless there is evidence to show they are supporting the summons: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1906"/></ci:caseinfo><ci:caseref ID="cr012917" spanref="cr012917-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="23"/><ci:page num="23"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re ES</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012917-001" status="unval">(1906) 23 WN (NSW) 23</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1900"/></ci:caseinfo><ci:caseref ID="cr012918" spanref="cr012918-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="16"/><ci:page num="229"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Webster</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012918-001" status="unval">(1900) 16 WN (NSW) 229</ci:span></citefragment> <remotelink dpsi="0018" refpt="179462" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1902"/></ci:caseinfo><ci:caseref ID="cr012919" spanref="cr012919-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="19"/><ci:page num="277"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Moore (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012919-001" status="unval">(1902) 19 WN (NSW) 277</ci:span></citefragment></ci:content></ci:cite>. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R57-4" remotekey1="REFPTID" service="DOC-ID">UCPR rr 57.4</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R57-5..A.III" remotekey1="REFPTID" service="DOC-ID" status="unval">57.5(a)(iii)</remotelink></ci:content></ci:cite>
+ involve an obligation to give notice of an application for an order for management of the estate of a person incapable of managing their own affairs or for the appointment of a guardian of a protected person: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr012920" spanref="cr012920-001"><ci:reporter value="NSWLR"/><ci:volume num="31"/><ci:page num="227"/></ci:caseref><ci:caseref ID="cr012921" spanref="cr012921-002"><ci:reporter value="urj"/><ci:refnum num="BC9305256"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Holt v Protective Cmr</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012920-001">(1993) 31 NSWLR 227</ci:span>; <ci:span spanid="cr012921-002"> BC9305256</ci:span></citefragment> <remotelink dpsi="0018" refpt="49408" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Similar notice may be desirable of an application for removal of a manager or the NSW Trustee and Guardian, or under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R57-11" remotekey1="REFPTID" service="DOC-ID">r 57.11</remotelink></ci:content></ci:cite>
+ for setting aside or varying an order for appointment of a manager.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-3-20" leveltype="para0" subdoc="true" toc-caption="[57.3.20] Appointment of a manager"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-3-20" type="ext"/>[57.3.20] </edpnum><title>Appointment of a manager</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The basic procedure for applicants seeking a private manager is set out in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012922" spanref="cr012922-001"><ci:reporter value="urj"/><ci:refnum num="BC200004141"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re L</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2000] NSWSC 721; <ci:span spanid="cr012922-001"> BC200004141</ci:span></citefragment> <remotelink dpsi="0018" refpt="314824" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The standard of proof applied in determining whether or not a person is incapable of managing their affairs is the civil standard of proof on the balance of probabilities: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012923" spanref="cr012923-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="81"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McD v McD</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012923-001">[1983] 3 NSWLR 81</ci:span></citefragment> <remotelink dpsi="0018" refpt="82902" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-3-25" leveltype="para0" subdoc="true" toc-caption="[57.3.25] Appointment of a manager or guardian">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [57.3.25] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1987-257" remotekey1="REFPTID" service="DOC-ID">Guardianship Act 1987</remotelink> s 14, s 67, s 8.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2009-49" remotekey1="REFPTID" service="DOC-ID">NSW Trustee and Guardian Act 2009</remotelink> s 41, 54.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1983-179" remotekey1="REFPTID" service="DOC-ID">Protected Estates Act 1983</remotelink> s 68.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2007-8" remotekey1="REFPTID" service="DOC-ID">Mental Health Act 2007</remotelink> Ch 3.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-3-25" type="ext"/>[57.3.25] </edpnum><title>Appointment of a manager or guardian</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The appointment of a manager under the NSW Trustee and Guardian Act 2009 (or a guardian under the Supreme Court&#x2019;s inherent jurisdiction &#x2014; see Guardianship Act 1987 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.GA87.S8" remotekey1="REFPTID" service="DOC-ID" status="unval">s 8</remotelink></ci:content></ci:cite>
+) directly impacts on the person&#x2019;s freedom of decision making in relation to their estate or personal circumstances. The court will be typically concerned to confine the restrictive contents of any orders to the matters necessary to cover the best interests of the person. To this extent it may be appropriate to consider whether a manager appointed under NSW Trustee and Guardian Act 2009 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S41" remotekey1="REFPTID" service="DOC-ID" status="unval">s 41</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S54" remotekey1="REFPTID" service="DOC-ID" status="unval">54</remotelink></ci:content></ci:cite>
+ has functions in relation to the whole, or only part, of a person&#x2019;s estate. In the case of an application for the appointment of a guardian (either under the Supreme Court&#x2019;s inherent jurisdiction or the appeal jurisdiction under Guardianship Act 1987 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.GA87.S67" remotekey1="REFPTID" service="DOC-ID" status="unval">s 67</remotelink></ci:content></ci:cite>
+) the power is subject only to the threshold satisfaction that the person &#x201c;is in need of a guardian&#x201d; &#x2014; see Guardianship Act 1987 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.GA87.S14" remotekey1="REFPTID" service="DOC-ID" status="unval">s 14</remotelink></ci:content></ci:cite>
+. That criterion does not limit the power to satisfaction that the person concerned suffers from a relevant incapacity attributable to mental illness (the criterion that applied to orders under the former Protected Estates Act 1983 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PEAN.S68" remotekey1="REFPTID" service="DOC-ID" status="unval">s 68</remotelink></ci:content></ci:cite>
+). Nevertheless, questions of need for guardianship will frequently arise in a context that will require consideration of the existence and significance of any &quot;mental illness&quot;. To that extent both appointments of managers and appointments of a guardian may require consideration not only of the concept of &#x201c;mental illness&#x201d; (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012924" spanref="cr012924-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="508"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">RAP v AEP</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012924-001">[1982] 2 NSWLR 508</ci:span></citefragment> <remotelink dpsi="0018" refpt="1583" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012925" spanref="cr012925-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="700"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">PY v RJS</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012925-001">[1982] 2 NSWLR 700</ci:span></citefragment> <remotelink dpsi="0018" refpt="11622" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012926" spanref="cr012926-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="54"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">GPG v ACF</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012926-001">[1983] 1 NSWLR 54</ci:span></citefragment> <remotelink dpsi="0018" refpt="82753" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012927" spanref="cr012927-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="61"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">DW v JMW</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012927-001">[1983] 1 NSWLR 61</ci:span></citefragment> <remotelink dpsi="0018" refpt="13474" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012928" spanref="cr012928-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="138"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">CF v TCML</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012928-001">[1983] 1 NSWLR 138</ci:span></citefragment> <remotelink dpsi="0018" refpt="11624" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012929" spanref="cr012929-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="81"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McD v McD</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012929-001">[1983] 3 NSWLR 81</ci:span></citefragment> <remotelink dpsi="0018" refpt="82902" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr012930" spanref="cr012930-001"><ci:reporter value="NSWLR"/><ci:volume num="6"/><ci:page num="622"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">CCR v PS (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012930-001">(1986) 6 NSWLR 622</ci:span></citefragment> <remotelink dpsi="0018" refpt="1584" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see also (1968) 42 <emph typestyle="it">ALJR</emph> 207; article by Myers J in (1961) 3 <emph typestyle="it">Bar Gaz</emph>) but also Mental Health Act 2007 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MHA07.C3" remotekey1="REFPTID" service="DOC-ID" status="unval">Ch 3</remotelink></ci:content></ci:cite>
+ (dealing with involuntary admission and treatment).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-3-30" leveltype="para0" subdoc="true" toc-caption="[57.3.30] Costs"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-3-30" type="ext"/>[57.3.30] </edpnum><title>Costs</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In proceedings to which this Part applies, the court exercises its discretion as to costs by determining what, in all the circumstances, is the proper order to be made: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012931" spanref="cr012931-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="694"/></ci:caseref><ci:caseref anaphref="cr012931" spanref="cr012931-002" status="unval"><ci:pinpoint num="708" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">RH v CAH</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012931-001">[1984] 1 NSWLR 694</ci:span> <ci:span spanid="cr012931-002" status="unval">at 708</ci:span></citefragment> <remotelink dpsi="0018" refpt="1590" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. A failure to consider an offer of settlement of proceedings is a relevant consideration: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012932" spanref="cr012932-001"><ci:reporter value="urj"/><ci:refnum num="BC200005206"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">MB v Protective Cmr</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2000] NSWSC 882; <ci:span spanid="cr012932-001"> BC200005206</ci:span></citefragment> <remotelink dpsi="0018" refpt="316700" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 57.4] r 57.4 Business concerning application under section 41 in the absence of the parties (cf SCR Part 76, rule 10)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R57-4" type="ext"/>[r 57.4]</edpnum><title searchtype="RUL-TITLE">Business concerning application under section 41 in the absence of the parties (cf SCR Part 76, rule 10)</title><desig searchtype="RUL-NUM"><designum>57.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-4..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-4..A" type="ext"/>(a)</lilabel>
+<p><text>the plaintiff claims a declaration and order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S41" remotekey1="REFPTID" service="DOC-ID" status="unval">section 41</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-4..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-4..B" type="ext"/>(b)</lilabel>
+<p><text>no appearance is entered within the time limited for appearance, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-4..C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-4..C" type="ext"/>(c)</lilabel>
+<p><text>there is no attendance, at the time appointed by the originating process for the hearing, by any person opposing the claim,</text></p>
+</li>
+</l>
+<p><text>the Supreme Court may determine or deal with the application in the absence of the parties and without any attendance by or on behalf of any person.</text></p>
+<leg:histnote>
+<p><text>[r 57.4  am Amendment 29 of 2009  Sch 1[27], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 57.5] r 57.5 Evidence in support of application under section 41 or 54 (cf SCR Part 76, rule 11)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R57-5" type="ext"/>[r 57.5]</edpnum><title searchtype="RUL-TITLE">Evidence in support of application under section 41 or 54 (cf SCR Part 76, rule 11)</title><desig searchtype="RUL-NUM"><designum>57.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R57-5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The evidence in support of an application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S41" remotekey1="REFPTID" service="DOC-ID" status="unval">section 41</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S54" remotekey1="REFPTID" service="DOC-ID" status="unval">54</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009 must include the following:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-5.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.A" type="ext"/>(a)</lilabel>
+<p><text>an affidavit or affidavits setting out:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-5.1.A.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.A.I" type="ext"/>(i)</lilabel>
+<p><text>the conduct and conversation or conversations claimed to establish that the defendant is incapable of managing his or her affairs, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.A.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.A.II" type="ext"/>(ii)</lilabel>
+<p><text>the nature and amount of the property of the defendant, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.A.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.A.III" type="ext"/>(iii)</lilabel>
+<p><text>the names of the defendant&#x2019;s nearest relatives, so far as they are known, and the attitude of each of them to the application, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.A.IV"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.A.IV" type="ext"/>(iv)</lilabel>
+<p><text>the name of, and reason for selecting, the proposed manager,</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R57-5.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.B" type="ext"/>(b)</lilabel>
+<p><text>the affidavits of at least 2 medical practitioners or other persons qualified to give an expert opinion on the defendant&#x2019;s condition, each of whom must set out:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-5.1.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>his or her formal qualifications, the extent of his or her experience in practice and his or her special qualifications in regard to questions relating to the defendant&#x2019;s condition, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>his or her diagnosis of the defendant&#x2019;s condition, explained in his or her own words and set out in his or her own handwriting, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.B.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.B.III" type="ext"/>(iii)</lilabel>
+<p><text>that, in his or her opinion, the defendant is incapable of managing his or her affairs, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.B.IV"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.B.IV" type="ext"/>(iv)</lilabel>
+<p><text>the reasons for that opinion or the tests on which that opinion is based, set out in his or her own words and handwriting,</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R57-5.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.C" type="ext"/>(c)</lilabel>
+<p><text>except where the proposed manager is:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-5.1.C.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.C.I" type="ext"/>(i)</lilabel>
+<p><text>the NSW Trustee and Guardian, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.C.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.C.II" type="ext"/>(ii)</lilabel>
+<p><text>[repealed]</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.C.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.C.III" type="ext"/>(iii)</lilabel>
+<p><text>a trustee company,</text></p>
+</li></l>
+<p><text>the affidavits of at least 2 persons as to the fitness of the proposed manager,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-5.1.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.D" type="ext"/>(d)</lilabel>
+<p><text>except where the proposed manager is:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-5.1.D.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.D.I" type="ext"/>(i)</lilabel>
+<p><text>the NSW Trustee and Guardian, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-5.1.D.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-5.1.D.II" type="ext"/>(ii)</lilabel>
+<p><text>the plaintiff,</text></p>
+</li></l>
+<p><text>a consent executed by the proposed manager and an affidavit verifying the execution of the consent.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Amendment 29 of 2009  Sch 1[28]&#x2013;[31], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R57-5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subrule (1)(a) and (b) do not apply to an application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S54" remotekey1="REFPTID" service="DOC-ID" status="unval">section 54</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am Amendment 29 of 2009  Sch 1[32], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT57.R5.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.57-5-5" leveltype="para0" subdoc="true" toc-caption="[57.5.5] Affidavit of medical practitioner"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-5-5" type="ext"/>[57.5.5] </edpnum><title>Affidavit of medical practitioner</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The affidavit of the medical practitioner must be based upon a personal examination of the allegedly incapable person: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1903"/></ci:caseinfo><ci:caseref ID="cr012933" spanref="cr012933-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="3"/><ci:page num="552"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re WM</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012933-001" status="unval">(1903) 3 SR (NSW) 552</ci:span></citefragment> <remotelink dpsi="0018" refpt="67720" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-5-10" leveltype="para0" subdoc="true" toc-caption="[57.5.10] Medical evidence"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-5-10" type="ext"/>[57.5.10] </edpnum><title>Medical evidence</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where there is no real dispute in relation to medical evidence, or there is no great divergence between the medical evidence and previous findings in a common law trial, the court may adopt the latter evidence as the basis upon which to found a decision and to make orders: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012934" spanref="cr012934-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="199"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">MS v ES</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012934-001">[1983] 3 NSWLR 199</ci:span></citefragment> <remotelink dpsi="0018" refpt="1589" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012935" spanref="cr012935-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="81"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McD v McD</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012935-001">[1983] 3 NSWLR 81</ci:span></citefragment> <remotelink dpsi="0018" refpt="82902" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, referred to in <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attorney-General (NSW) v S</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (unreported, Powell J, 15 November 1984)</citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-5-15" leveltype="para0" subdoc="true" toc-caption="[57.5.15] Forms"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-5-15" type="ext"/>[57.5.15] </edpnum><title>Forms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The forms of affidavits and consents are set out as Supreme Court Forms 78&#x2013;81 (behind guide card &quot;Forms&quot; in Vol 3).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 57.6] r 57.6 Appointment of managers under section 52 (cf SCR Part 76, rule 12)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R57-6" type="ext"/>[r 57.6]</edpnum><title searchtype="RUL-TITLE">Appointment of managers under section 52 (cf SCR Part 76, rule 12)</title><desig searchtype="RUL-NUM"><designum>57.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If it appears expedient:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-6..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-6..A" type="ext"/>(a)</lilabel>
+<p><text>that several persons should be appointed managers pursuant to a special order referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S52" remotekey1="REFPTID" service="DOC-ID" status="unval">section 52</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-6..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-6..B" type="ext"/>(b)</lilabel>
+<p><text>that one or more of them should continue to act after the death or discharge of the others, or any of them,</text></p>
+</li>
+</l>
+<p><text>the order appointing the manager may direct that, after any such death or discharge, the surviving or continuing manager or managers are to continue to act.</text></p>
+<leg:histnote>
+<p><text>[r 57.6  am Amendment 29 of 2009  Sch 1[33], effective 8 October 2009]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT57.R6.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.57-6-5" leveltype="para0" subdoc="true" toc-caption="[57.6.5] Appointment of managers"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-6-5" type="ext"/>[57.6.5] </edpnum><title>Appointment of managers</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The duty of the court, in appointing a manager or managers, is to ensure that the administration of a protected person's estate will be as simple and inexpensive as possible consistent with the proper administration of the estate. Accordingly, the court will not ordinarily appoint more than one manager unless the interests of the protected person so require: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012936" spanref="cr012936-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="508"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">RAP v AEP</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012936-001">[1982] 2 NSWLR 508</ci:span></citefragment> <remotelink dpsi="0018" refpt="1583" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-6-10" leveltype="para0" subdoc="true" toc-caption="[57.6.10] Family member as manager"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-6-10" type="ext"/>[57.6.10] </edpnum><title>Family member as manager</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In the absence of special circumstances a member of the protected person's family may be appointed as his or her manager. Where such an appointment would be undesirable the NSW Trustee and Guardian (previously the Protective Commissioner) may be an appropriate appointment: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012937" spanref="cr012937-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="694"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">RH v CAH</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012937-001">[1984] 1 NSWLR 694</ci:span></citefragment> <remotelink dpsi="0018" refpt="1590" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 57.7] r 57.7 &#x201c;Usual orders&#x201d; under sections 41 and 54 (cf SCR Part 76, rules 13 and 13A)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R57-7" type="ext"/>[r 57.7]</edpnum><title searchtype="RUL-TITLE">&#x201c;Usual orders&#x201d; under sections 41 and 54 (cf SCR Part 76, rules 13 and 13A)</title><desig searchtype="RUL-NUM"><designum>57.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R57-7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-7.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.1.A" type="ext"/>(a)</lilabel>
+<p><text>under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S41" remotekey1="REFPTID" service="DOC-ID" status="unval">section 41</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009, the Supreme Court makes a declaration that the defendant is incapable of managing his or her affairs, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-7.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.1.B" type="ext"/>(b)</lilabel>
+<p><text>under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S54" remotekey1="REFPTID" service="DOC-ID" status="unval">section 54</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009, the Supreme Court makes a declaration that the defendant is a missing person,</text></p>
+</li>
+</l>
+<p><text>it may, with or without further order, also make the usual orders.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Amendment 29 of 2009  Sch 1[34], [35], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R57-7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The <defterm><emph typestyle="bf">usual orders</emph></defterm> referred to in subrule (1) are as follows:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-7.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.2.A" type="ext"/>(a)</lilabel>
+<p><text>an order that the defendant&#x2019;s estate be subject to management under the NSW Trustee and Guardian Act 2009,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-7.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.2.B" type="ext"/>(b)</lilabel>
+<p><text>an order that:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-7.2.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>the person proposed in the originating process be appointed manager of the defendant&#x2019;s estate, to act in relation thereto under the order and direction of the NSW Trustee and Guardian, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-7.2.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>if the NSW Trustee and Guardian is the person proposed, that the management of the defendant&#x2019;s estate be committed to the NSW Trustee and Guardian,</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R57-7.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.2.C" type="ext"/>(c)</lilabel>
+<p><text>if the person appointed manager of the defendant&#x2019;s estate is not the NSW Trustee and Guardian, an order that the person may not do anything in reliance on the appointment until the NSW Trustee and Guardian has authorised the person to assume management of the defendant&#x2019;s estate,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-7.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.2.D" type="ext"/>(d)</lilabel>
+<p><text>if 2 or more persons are appointed to be managers, an order that, on the death or discharge of any of them, custody of the defendant&#x2019;s estate continues to the remainder of them,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-7.2.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.2.E" type="ext"/>(e)</lilabel>
+<p><text>an order that the plaintiff&#x2019;s costs (and, if the defendant appears, the defendant&#x2019;s costs) on an indemnity basis be paid out of the defendant&#x2019;s estate,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R57-7.2.F"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-7.2.F" type="ext"/>(f)</lilabel>
+<p><text>an order that all parties be at liberty to apply as they may be advised.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Amendment 29 of 2009  Sch 1[36]&#x2013;[38], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT57.R7.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.57-7-10" leveltype="para0" subdoc="true" toc-caption="[57.7.10] Effect of orders appointing manager"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-7-10" type="ext"/>[57.7.10] </edpnum><title>Effect of orders appointing manager</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Unless and until an order for management of the estate of a &quot;Protected Person&quot; under the NSW Trustee and Guardianship Act 2009 (previously the Protected Estates Act 1983) is revoked, such person is to be conclusively presumed to be incapable in law of doing an act which would affect that estate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr012938" spanref="cr012938-001"><ci:reporter value="NSWLR"/><ci:volume num="28"/><ci:page num="728"/></ci:caseref><ci:caseref ID="cr012939" spanref="cr012939-002"><ci:reporter value="urj"/><ci:refnum num="BC9203262"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">JNRD and the Protected Estates Act</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012938-001">(1992) 28 NSWLR 728</ci:span>; <ci:span spanid="cr012939-002"> BC9203262</ci:span></citefragment> <remotelink dpsi="0018" refpt="41697" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-7-15" leveltype="para0" subdoc="true" toc-caption="[57.7.15] Orders for management of estate of person incapable of managing own affairs (NSW Trustee and Guardianship Act 2009 s 41; previously Protected Estates Act 1983 s 13)"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-7-15" type="ext"/>[57.7.15] </edpnum><title>Orders for management of estate of person incapable of managing own affairs (NSW Trustee and Guardianship Act 2009 s 41; previously Protected Estates Act 1983 s 13)</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Subject to jurisdictional limitations, the relief the court may grant is a matter of discretion to be exercised in the interests of the incapable person: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012940" spanref="cr012940-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="334"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">M v M</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012940-001">[1981] 2 NSWLR 334</ci:span></citefragment> <remotelink dpsi="0018" refpt="13477" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1983"/></ci:caseinfo><ci:caseref ID="cr012941" spanref="cr012941-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="590"/></ci:caseref><ci:caseref ID="cr012942" spanref="cr012942-002"><ci:reporter value="Fam LR"/><ci:volume num="9"/><ci:page num="396"/></ci:caseref><ci:caseref ID="cr012943" spanref="cr012943-003" status="unval"><ci:reporter value="FLR"/><ci:volume num="74"/><ci:page num="413"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re An Incapable Person D</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012941-001">[1983] 2 NSWLR 590</ci:span>; <ci:span spanid="cr012942-002">(1983) 9 Fam LR 396</ci:span>; <ci:span spanid="cr012943-003" status="unval">74 FLR 413</ci:span></citefragment> <remotelink dpsi="0018" refpt="49730" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The court may make a wide range of orders, including interlocutory orders for the appointment of a receiver and manager of property: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012944" spanref="cr012944-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="144"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">GNM v ER</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012944-001">[1983] 1 NSWLR 144</ci:span></citefragment> <remotelink dpsi="0018" refpt="82770" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; orders as to the property of protected persons resident outside the State: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012945" spanref="cr012945-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="199"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">MS v ES</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012945-001">[1983] 3 NSWLR 199</ci:span></citefragment> <remotelink dpsi="0018" refpt="1589" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012946" spanref="cr012946-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="520"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re FN</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012946-001">[1984] 3 NSWLR 520</ci:span></citefragment> <remotelink dpsi="0018" refpt="20073" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; orders authorising ex gratia payments out of the estate of a protected person to persons in whose care he or she may be: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012947" spanref="cr012947-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="341"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re ES</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012947-001">[1984] 3 NSWLR 341</ci:span></citefragment> <remotelink dpsi="0018" refpt="16965" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; and orders for access to a protected person: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012948" spanref="cr012948-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1984"/></ci:edition><ci:page num="694"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">RH v CAH</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012948-001">[1984] 1 NSWLR 694</ci:span></citefragment> <remotelink dpsi="0018" refpt="1590" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-7-20" leveltype="para0" subdoc="true" toc-caption="[57.7.20] Security"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-7-20" type="ext"/>[57.7.20] </edpnum><title>Security</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The security a manager is required to provide must be appropriate to the circumstances of the particular case. This may require a balance to be struck between the need to ensure the incapable person is provided with effective security and the undesirability of unnecessarily restricting the free use of the manager's assets: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012949" spanref="cr012949-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200101621"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re McL</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWSC 280; <ci:span spanid="cr012949-001" status="unval"> BC200101621</ci:span></citefragment> <remotelink dpsi="0018" refpt="326648" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (the judgment also sets out the basic procedure required on an application for the appointment of a private manager). The usual order ought to provide for security acceptable to the court, since the NSW Trustee and Guardian (previously the Protective Commissioner) acts as a delegate of the court in accepting security: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re McL</emph>
+</citefragment></ci:content></ci:cite>, above.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.57-7-25" leveltype="para0" subdoc="true" toc-caption="[57.7.25] Setting aside sale etc by a protected person"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-7-25" type="ext"/>[57.7.25] </edpnum><title>Setting aside sale etc by a protected person</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr012950" spanref="cr012950-001"><ci:reporter value="NSWLR"/><ci:volume num="30"/><ci:page num="417"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Protective Cmr v David</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012950-001">(1993) 30 NSWLR 417</ci:span></citefragment> <remotelink dpsi="0018" refpt="45851" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> the court set aside a transfer of real property made by a person who was found to be suffering mental illness and incapable of managing her own affairs. In so doing, the court confirmed that a protected person has no power to defy the authority of the appointed manager. (Note that consideration of the indefeasibility of title and the Real Property Act 1900 specially in relation to bona fide purchasers without notice and mortgagees was not dealt with by the court.)</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 57.8] r 57.8 Evidence in support of application under section 86 (cf SCR Part 76, rules 19 and 20)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R57-8" type="ext"/>[r 57.8]</edpnum><title searchtype="RUL-TITLE">Evidence in support of application under section 86 (cf SCR Part 76, rules 19 and 20)</title><desig searchtype="RUL-NUM"><designum>57.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The evidence in support of an application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S86" remotekey1="REFPTID" service="DOC-ID" status="unval">section 86</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009 must include the following:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-8..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-8..A" type="ext"/>(a)</lilabel>
+<p><text>the affidavits of at least 2 medical practitioners or other persons qualified to give an expert opinion on the defendant&#x2019;s condition, each of whom must state:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-8..A.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-8..A.I" type="ext"/>(i)</lilabel>
+<p><text>his or her formal qualifications, the extent of his or her experience in practice and his or her special qualifications in regard to questions relating to the condition of the protected person, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-8..A.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-8..A.II" type="ext"/>(ii)</lilabel>
+<p><text>that, in his or her opinion, the protected person is capable of managing his or her affairs, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-8..A.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-8..A.III" type="ext"/>(iii)</lilabel>
+<p><text>the reasons for that opinion or the tests on which that opinion is based, set out in his or her own handwriting,</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R57-8..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-8..B" type="ext"/>(b)</lilabel>
+<p><text>the affidavits of members of the defendant&#x2019;s family or other persons, each of whom must state:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R57-8..B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-8..B.I" type="ext"/>(i)</lilabel>
+<p><text>what opportunity he or she has had of assessing whether or not the protected person is capable of managing his or her affairs, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-8..B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-8..B.II" type="ext"/>(ii)</lilabel>
+<p><text>his or her assessment and the facts, grounds and circumstances on which he or she made his or her assessment, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R57-8..B.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R57-8..B.III" type="ext"/>(iii)</lilabel>
+<p><text>any other facts that may be relevant.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[r 57.8  am Amendment 29 of 2009  Sch 1[39], effective 8 October 2009]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT57.R8.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.57-8-5" leveltype="para0" subdoc="true" toc-caption="[57.8.5] Termination of management">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [57.8.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2009-49" remotekey1="REFPTID" service="DOC-ID">NSW Trustee and Guardian Act 2009</remotelink> s 86.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.57-8-5" type="ext"/>[57.8.5] </edpnum><title>Termination of management</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where a protected person demonstrates that they are capable of managing their affairs they are entitled to have orders made under NSW Trustee and Guardianship Act 2009 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S86" remotekey1="REFPTID" service="DOC-ID" status="unval">s 86</remotelink></ci:content></ci:cite>
+ (previously Protected Estates Act 1983 s 35) revoking any declaration of incapacity and terminating management of their estate: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr012951" spanref="cr012951-001" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="70"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">PY v RJS</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr012951-001" status="unval">[1982] 2 NSWLR 700</ci:span></citefragment> <remotelink dpsi="0018" refpt="11622" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite></text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 57.9] r 57.9 Mode of making application under section 87 (cf SCR Part 76, rules 23A and 23B)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R57-9" type="ext"/>[r 57.9]</edpnum><title searchtype="RUL-TITLE">Mode of making application under section 87 (cf SCR Part 76, rules 23A and 23B)</title><desig searchtype="RUL-NUM"><designum>57.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R57-9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S87" remotekey1="REFPTID" service="DOC-ID" status="unval">section 87</remotelink></ci:content></ci:cite>
+ of the NSW Trustee and Guardian Act 2009 is to be made by motion in the proceedings in which the declaration and order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.NSWTGA09.S54" remotekey1="REFPTID" service="DOC-ID" status="unval">section 54</remotelink></ci:content></ci:cite>
+ of that Act were made.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Amendment 29 of 2009  Sch 1[40], [41], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R57-9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notice of the motion is to be served on the manager or on the person on whose application the declaration and order were made.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R57-10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 57.10] r 57.10 &#x201c;Usual orders&#x201d; under section 68 (cf SCR Part 76, rule 14)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R57-10" type="ext"/>[r 57.10]</edpnum><title searchtype="RUL-TITLE">&#x201c;Usual orders&#x201d; under section 68 (cf SCR Part 76, rule 14)</title><desig searchtype="RUL-NUM"><designum>57.10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 57.10  rep Amendment 29 of 2009  Sch 1[42], effective 8 October 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

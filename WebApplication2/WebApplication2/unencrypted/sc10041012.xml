@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 5 WINDING UP PROCEEDINGS (INCLUDING OPPRESSION PROCEEDINGS WHERE WINDING UP IS SOUGHT) [rr 5.1&#x2013;5.11]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.CLRUN00.D5</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT (CORPORATIONS) RULES 1999</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 5 WINDING UP PROCEEDINGS (INCLUDING OPPRESSION PROCEEDINGS WHERE WINDING UP IS SOUGHT) [rr 5.1&#x2013;5.11]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70020040</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.CLRUN00"/><docinfo:metaitem name="parent-filename" value="sc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 703, 1999</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT (CORPORATIONS) RULES 1999</leg:officialname></leg:info><leg:level id="UCPN.SC.CLRUN00.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D5"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 5 WINDING UP PROCEEDINGS (INCLUDING OPPRESSION PROCEEDINGS WHERE WINDING UP IS SOUGHT) [rr 5.1&#x2013;5.11]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.CLRUN00.D5" type="ext"/>DIVISION 5</designum></desig><title searchtype="DIV-TITLE">WINDING UP PROCEEDINGS (INCLUDING OPPRESSION PROCEEDINGS WHERE WINDING UP IS SOUGHT) [rr 5.1&#x2013;5.11]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D5.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,340] r 5.1 Application of Division 5">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R1" type="ext"/>[15,340]</edpnum><title searchtype="RUL-TITLE">Application of Division 5</title><desig searchtype="RUL-NUM"><designum>5.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Division applies to the following applications for the winding up of a company:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R1..A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R1..A" type="ext"/>(a)</lilabel>
+<p><text>an application for an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.PT2F.1" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 2F.1</remotelink></ci:content></ci:cite>
+ of the Corporations Act;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R1..B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R1..B" type="ext"/>(b)</lilabel>
+<p><text>an application under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.PT5.4" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 5.4</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.PT5.4A" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 5.4A</remotelink></ci:content></ci:cite>
+ of the Corporations Act.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 5.1  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,345] r 5.2 Affidavit accompanying statutory demand (Corporations Act s 459E(3)) &#x2014; Form 7">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R2" type="ext"/>[15,345]</edpnum><title searchtype="RUL-TITLE">Affidavit accompanying statutory demand (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S459E.3" remotekey1="REFPTID" service="DOC-ID">s 459E(3)</remotelink></ci:content></ci:cite>
+) &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F7" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 7</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>5.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S459E.3" remotekey1="REFPTID" service="DOC-ID">subsection 459E(3)</remotelink></ci:content></ci:cite>
+ of the Corporations Act, the affidavit accompanying a statutory demand relating to a debt, or debts, owed by a company must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R2.A" type="ext"/>(a)</lilabel>
+<p><text>be in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F7" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 7</remotelink></ci:content></ci:cite>
+ and state the matters mentioned in that Form; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R2.B" type="ext"/>(b)</lilabel>
+<p><text>be made by the creditor or by a person with the authority of the creditor or creditors; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R2.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R2.C" type="ext"/>(c)</lilabel>
+<p><text>not state a proceeding number, or refer to a Court proceeding, in any heading or title to the affidavit.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 5.2  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D5.R2.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15345-5" leveltype="para0" subdoc="true" toc-caption="[15,345.5] Affidavit accompanying demand ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,345.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 1.7, Form 7.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 459Q(c), s 459J(1)(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15345-5" type="ext"/>[15,345.5] </edpnum><title>Affidavit accompanying demand </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The affidavit accompanying a statutory demand must be in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F7" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 7</remotelink></ci:content></ci:cite>
+ (see Forms Tab in vol 3) and state the matters mentioned in that form. The word &#x201c;must&#x201d; is to be read bearing in mind Supreme Court (Corporations) Rules 1999 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D1.R7" remotekey1="REFPTID" service="DOC-ID">r 1.7</remotelink></ci:content></ci:cite>
+, which provides that substantial compliance is sufficient: see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr003421" spanref="cr003421-001"><ci:reporter value="NSWLR"/><ci:volume num="43"/><ci:page num="717"/></ci:caseref><ci:caseref anaphref="cr003421" spanref="cr003421-002" status="unval"><ci:pinpoint num="727" targettype="page"/></ci:caseref><ci:caseref ID="cr003422" spanref="cr003422-003"><ci:reporter value="ALR"/><ci:volume num="155"/><ci:page num="151"/></ci:caseref><ci:caseref ID="cr003423" spanref="cr003423-004"><ci:reporter value="urj"/><ci:refnum num="BC9802003"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Dolvelle Pty Ltd v Australian Macfarms Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003421-001">(1998) 43 NSWLR 717</ci:span> <ci:span spanid="cr003421-002" status="unval">at 727</ci:span>; <ci:span spanid="cr003422-003">155 ALR 151</ci:span>; <ci:span spanid="cr003423-004"> BC9802003</ci:span></citefragment> <remotelink dpsi="0018" refpt="274427" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Santow J. Form 7 requires the following in paras 4 and 5: </text>
+<blockquote>
+<p>
+<text>4. The debt &#x2026; mentioned in paragraph 1 of this affidavit is due and payable by the debtor company.</text></p></blockquote>
+<blockquote>
+<p>
+<text>5. I believe that there is no genuine dispute about the existence or amount of the debt &#x2026; </text></p></blockquote>
+<text>There is no real distinction, or if there is, it is a merely technical one, between believing that the debt is due and payable and saying that a debt is due and and payable and saying that a debt is due and payable: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003424" spanref="cr003424-001"><ci:reporter value="ACSR"/><ci:volume num="54"/><ci:page num="677"/></ci:caseref><ci:caseref ID="cr003425" spanref="cr003425-002"><ci:reporter value="urj"/><ci:refnum num="BC200506194"/></ci:caseref><ci:caseref anaphref="cr003425" spanref="cr003425-003"><ci:pinpoint num="18" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Grace Consulting Pty Ltd v Bourke Constructions Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003424-001">(2005) 54 ACSR 677</ci:span>; [2005] NSWSC 836; <ci:span spanid="cr003425-002">  BC200506194</ci:span> <ci:span spanid="cr003425-003">at [18]&#x2013;[27]</ci:span></citefragment> <remotelink dpsi="0018" refpt="403142" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Young J. The affidavit should verify the indebtedness at the date the demand is made. An affidavit sworn at an earlier date does not comply with Corporations Act 2001 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S459Q.C" remotekey1="REFPTID" service="DOC-ID" status="unval">s 459Q(c)</remotelink></ci:content></ci:cite>
+. The legislative scheme envisages not only that a company which claims to be a creditor will state in the demand itself that the debt is due and payable but also that some human being acting with the authority of that company and capable of swearing an affidavit will independently form and state an opinion that the debt is due and payable: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003426" spanref="cr003426-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200708777"/></ci:caseref><ci:caseref anaphref="cr003426" spanref="cr003426-002"><ci:pinpoint num="39" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Saferack Pty Ltd v Marketing Heads Australia Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 1143; <ci:span spanid="cr003426-001" status="unval">  BC200708777</ci:span> <ci:span spanid="cr003426-002">at [39]&#x2013;[41]</ci:span></citefragment> <remotelink dpsi="0018" refpt="445122" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. A statement that the company is &#x201c;indebted&#x201d; to the creditor (rather than the debt is &#x201c;due and payable&#x201d;) is insufficient as it connotes no more than that the debt exists: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003427" spanref="cr003427-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2007"/></ci:edition><ci:pinpoint num="40" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Saferack Pty Ltd v Marketing Heads Australia Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF">, <emph typestyle="it"> above </emph><ci:span spanid="cr003427-000">at [40]&#x2013;[41]</ci:span></citefragment></ci:content></ci:cite> (affidavit held not to comply). Failure to state in the affidavit that the deponent believes that there is no genuine dispute about the existence or amount of the debt is fatal: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003428" spanref="cr003428-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2007"/></ci:edition><ci:pinpoint num="42" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Saferack Pty Ltd v Marketing Heads Australia Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF">, <emph typestyle="it">above</emph><ci:span spanid="cr003428-000" status="unval">at [42]&#x2013;[43]</ci:span></citefragment></ci:content></ci:cite> (affidavit held not to comply).</text></p>
+<p>
+<text>Despite formal compliance with the rules, the source of the debt information in the supporting affidavit may be defective or unreliable.  Such an appearance may provide a sufficient reason, under Corporations Act 2001 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S459J.1.B" remotekey1="REFPTID" service="DOC-ID" status="unval">s 459J(1)(b)</remotelink></ci:content></ci:cite>
+, to justify the demand being set aside: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003429" spanref="cr003429-001"><ci:reporter value="urj"/><ci:refnum num="BC200808761"/></ci:caseref><ci:caseref anaphref="cr003429" spanref="cr003429-002"><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Walltech Building Systems Ltd v Gerlich</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWSC 1048; <ci:span spanid="cr003429-001"> BC200808761</ci:span> <ci:span spanid="cr003429-002">at [15]</ci:span></citefragment> <remotelink dpsi="0018" refpt="464232" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Hammerschlag J; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2005"/></ci:caseinfo><ci:caseref ID="cr003430" spanref="cr003430-001"><ci:reporter value="ACSR"/><ci:volume num="54"/><ci:page num="489"/></ci:caseref><ci:caseref ID="cr003431" spanref="cr003431-002"><ci:reporter value="urj"/><ci:refnum num="BC200501856"/></ci:caseref><ci:caseref anaphref="cr003431" spanref="cr003431-003"><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Standard Commodities Pty Ltd v Société Socinter Départment Centragel</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003430-001">(2005) 54 ACSR 489</ci:span>; [2005] NSWSC294; <ci:span spanid="cr003431-002"> BC200501856</ci:span> <ci:span spanid="cr003431-003">at [15]</ci:span></citefragment> <remotelink dpsi="0018" refpt="396047" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J (the creditor could not be regarded as the source of the information relied on to assert the debt).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,350] r 5.3 Application for leave to apply for winding up in insolvency (Corporations Act s 459P(2))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R3" type="ext"/>[15,350]</edpnum><title searchtype="RUL-TITLE">Application for leave to apply for winding up in insolvency (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S459P.2" remotekey1="REFPTID" service="DOC-ID">s 459P(2)</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>5.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for leave to apply to the Court for an order that a company be wound up in insolvency may be made at the same time as the application for an order that the company be wound up in insolvency is made.</text></p>
+<leg:histnote>
+<p><text>[r 5.3  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D5.R3.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15350-5" leveltype="para0" subdoc="true" toc-caption="[15,350.5] Leave to bring an action">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,350.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 459P(2)(a).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15350-5" type="ext"/>[15,350.5] </edpnum><title>Leave to bring an action</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A contingent or prospective creditor requires the leave of the Court to bring an application to wind up a company: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S459P.2.A" remotekey1="REFPTID" service="DOC-ID">s 459P(2)(a)</remotelink></ci:content></ci:cite>
+.  However, in accordance with well established principles, in the absence of a clear statutory indication to the contrary, leave may in fact be granted retrospectively:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr003432" spanref="cr003432-001"><ci:reporter value="ACSR"/><ci:volume num="61"/><ci:page num="441"/></ci:caseref><ci:caseref ID="cr003433" spanref="cr003433-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="25"/><ci:page num="230"/></ci:caseref><ci:caseref ID="cr003434" spanref="cr003434-003"><ci:reporter value="urj"/><ci:refnum num="BC200701811"/></ci:caseref><ci:caseref anaphref="cr003434" spanref="cr003434-004"><ci:pinpoint num="11" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australian Beverage Distributors Pty Ltd v Evans &amp; Tate Premium Wines Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003432-001">(2007) 61 ACSR 441</ci:span>; <ci:span spanid="cr003433-002" status="unval">25 ACLC 230</ci:span>; [2007] NSWCA 57; <ci:span spanid="cr003434-003"> BC200701811</ci:span> <ci:span spanid="cr003434-004">at [11]&#x2013;[12]</ci:span></citefragment> <remotelink dpsi="0018" refpt="434449" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Beazley JA (Hodgson and Santow JJA agreeing).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,355] r 5.4 Affidavit in support of application for winding up (Corporations Act s 459P, s 462, s 464)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R4" type="ext"/>[15,355]</edpnum><title searchtype="RUL-TITLE">Affidavit in support of application for winding up (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S459P" remotekey1="REFPTID" service="DOC-ID">s 459P</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S462" remotekey1="REFPTID" service="DOC-ID">s 462</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S464" remotekey1="REFPTID" service="DOC-ID">s 464</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>5.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D5.R4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The affidavit in support of an originating process seeking an order that a company be wound up must be made by the plaintiff or by a person with the authority of the plaintiff or plaintiffs.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 48 of 5 April 2007   p 2118, effective 5 April 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the application is made in reliance on a failure by the company to comply with a statutory demand, the affidavit must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R4.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R4.2.A" type="ext"/>(a)</lilabel>
+<p><text>verify service of the demand on the company; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R4.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R4.2.B" type="ext"/>(b)</lilabel>
+<p><text>verify the failure of the company to comply with the demand; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R4.2.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R4.2.C" type="ext"/>(c)</lilabel>
+<p><text>state whether and, if so, to what extent the debt, or each of the debts, to which the demand relates is still due and payable by the company at the date when the affidavit is made.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note</title></heading>
+<p>
+<text>An example of the affidavit in support of an application for winding up in insolvency for failure to comply with a statutory demand is shown in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.SCH2" remotekey1="REFPTID" service="DOC-ID">Schedule 2</remotelink></ci:content></ci:cite>
+ (Notes to these Rules).</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the application is made in reliance on the ground mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S461.1.A" remotekey1="REFPTID" service="DOC-ID">paragraph 461(1)(a)</remotelink></ci:content></ci:cite>
+ of the Corporations Act, the affidavit must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R4.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R4.3.A" type="ext"/>(a)</lilabel>
+<p><text>state whether the company is able to pay all its debts as and when they become due and payable; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R4.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R4.3.B" type="ext"/>(b)</lilabel>
+<p><text>refer to the company's most recent balance sheet and profit and loss statement as an annexure or exhibit to the affidavit, or explain their absence.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (3)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R4.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The affidavit must be made within 7 days before the originating process is filed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5.4  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D5.R4.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15355-5" leveltype="para0" subdoc="true" toc-caption="[15,355.5] Premature applications ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,355.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 459F(2)(a), s 459G.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15355-5" type="ext"/>[15,355.5] </edpnum><title>Premature applications </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where an application to set aside a statutory demand (a &#x201c;
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S459G" remotekey1="REFPTID" service="DOC-ID">s 459G</remotelink></ci:content></ci:cite>
+ application&#x201d;) is properly initiated within 21 days of service of the statutory demand, the period for compliance with the statutory demand is determined under Corporations Act 2001 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S459F.2.A" remotekey1="REFPTID" service="DOC-ID">s 459F(2)(a)</remotelink></ci:content></ci:cite>
+ and depends on the final disposition of the s 459G application.  No application to wind up the company based solely on alleged failure to comply with the statutory demand can properly be filed until after the s 459G application has been determined: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003435" spanref="cr003435-001"><ci:reporter value="urj"/><ci:refnum num="BC200908190"/></ci:caseref><ci:caseref anaphref="cr003435" spanref="cr003435-002"><ci:pinpoint num="7" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Long Nominees Pty Ltd v Roandale Holdings Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 932; <ci:span spanid="cr003435-001"> BC200908190</ci:span> <ci:span spanid="cr003435-002">at [7]&#x2013;[15]</ci:span></citefragment> <remotelink dpsi="0018" refpt="479743" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J (application and affidavit premature &#x2014; proceedings dismissed with indemnity costs).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,360] r 5.5 Consent of liquidator (Corporations Act s 532(9)) &#x2014; Form 8">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R5" type="ext"/>[15,360]</edpnum><title searchtype="RUL-TITLE">Consent of liquidator (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S532.9" remotekey1="REFPTID" service="DOC-ID">s 532(9)</remotelink></ci:content></ci:cite>
+) &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F8" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 8</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>5.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D5.R5.1A"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R5.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subr (1A)  rep Amendment 340: Gaz 81 of 30 June 2000  p 5789]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this rule:</text></p>
+<deflist><defitem id="UCPN.SC.CLRUN00.D5.R5.1.LIQUIDATOR"><defterm><refpt id="UCPN.SC.CLRUN00.D5.R5.1.LIQUIDATOR" type="ext"/><emph typestyle="bf">liquidator</emph></defterm> <defdesc>
+<p><text>does not include a provisional liquidator.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S532.9" remotekey1="REFPTID" service="DOC-ID">subsection 532(9)</remotelink></ci:content></ci:cite>
+ of the Corporations Act, the consent of an official liquidator to act as liquidator of a company must be in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F8" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 8</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R5.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In an application for an order that a company be wound up, the plaintiff must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R5.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R5.3.A" type="ext"/>(a)</lilabel>
+<p><text>before the hearing of the application, file the consent mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D5.R5.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+ of an official liquidator who would be entitled to be appointed as liquidator of the company; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R5.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R5.3.B" type="ext"/>(b)</lilabel>
+<p><text>serve a copy of the consent on the company at least 1 day before the hearing.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5.5  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,365] r 5.6 Notice of application for winding up &#x2014; Form 9">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R6" type="ext"/>[15,365]</edpnum><title searchtype="RUL-TITLE">Notice of application for winding up &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F9" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 9</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>5.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D5.R6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, the plaintiff must publish a notice of the application for an order that a company be wound up.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notice must be:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R6.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R6.2.A" type="ext"/>(a)</lilabel>
+<p><text>in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F9" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 9</remotelink></ci:content></ci:cite>
+; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R6.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R6.2.B" type="ext"/>(b)</lilabel>
+<p><text>published in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R6.2.B.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R6.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>at least 3 days after the originating process is served on the company, and</text></p>
+</li><li id="UCPN.SC.CLRUN00.D5.R6.2.B.II"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R6.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>at least 7 days before the date fixed for hearing of the application.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 91 of 28 May 2004  p 3287, effective 28 May 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D5.R6.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15365-5" leveltype="para0" subdoc="true" toc-caption="[15,365.5] Publication rule"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15365-5" type="ext"/>[15,365.5] </edpnum><title>Publication rule</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The rule has been consistently interpreted so as to prohibit publication of the winding up proceedings other than by a complying notice.  The rule thus prohibits publication by press release:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr003436" spanref="cr003436-001" status="unval"><ci:reporter value="ACSR"/><ci:volume num="61"/><ci:page num="230"/></ci:caseref><ci:caseref ID="cr003437" spanref="cr003437-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="25"/><ci:page num="230"/></ci:caseref><ci:caseref ID="cr003438" spanref="cr003438-003"><ci:reporter value="urj"/><ci:refnum num="BC200701811"/></ci:caseref><ci:caseref anaphref="cr003438" spanref="cr003438-004"><ci:pinpoint num="84" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australian Beverage Distributors Pty Ltd v Evans &amp; Tate Premium Wines Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003436-001" status="unval">(2007) 61 ACSR 441</ci:span>; <ci:span spanid="cr003437-002" status="unval">25 ACLC 230</ci:span>; [2007] NSWCA 57; <ci:span spanid="cr003438-003"> BC200701811</ci:span> <ci:span spanid="cr003438-004">at [84]&#x2013;[85]</ci:span></citefragment> <remotelink dpsi="0018" refpt="434449" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; or circulation of creditors: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr003439" spanref="cr003439-001" status="unval"><ci:reporter value="ACLC"/><ci:volume num="10"/><ci:page num="3035"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re A Company 001127 of 1992</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003439-001" status="unval">(1992) 10 ACLC 3,035</ci:span></citefragment></ci:content></ci:cite>: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr003440" spanref="cr003440-001" status="unval"><ci:reporter value="ACLC"/><ci:volume num="7"/><ci:page num="904"/></ci:caseref><ci:caseref anaphref="cr003440" spanref="cr003440-002"><ci:pinpoint num="905" targettype="page"/></ci:caseref><ci:caseref ID="cr003441" spanref="cr003441-003"><ci:reporter value="urj"/><ci:refnum num="BC8902068"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Paterson v Hampton Interiors</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003440-001" status="unval">(1989) 7 ACLC 904</ci:span> <ci:span spanid="cr003440-002">at 905-906</ci:span>; <ci:span spanid="cr003441-003"> BC8902068</ci:span></citefragment> <remotelink dpsi="0018" refpt="35535" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (summons advertised before served &#x2013; summons dismissed as an abuse of process). It seems that the fact a listed company may itself be under an obligation to publicise the application to  the ASX, or that ASIC may publish the Form 509 notice on its database does not affect the operation of the rule: <emph typestyle="it">Australian Beverage Distributors Pty Ltd v Evans &amp; Tate Premium Wines Pty Ltd</emph> (2007) 61ACSR 441; 25 ACLC 230; [2007] NSWCA 57; BC200701811 <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003442" spanref="cr003442-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2007"/></ci:edition><ci:pinpoint num="97" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003442-000">at [97]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003443" spanref="cr003443-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2007"/></ci:edition><ci:pinpoint num="108" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003443-000">[108]</ci:span></citefragment></ci:content></ci:cite> per Beazley JA (Hodgson and Santow JJA agreeing).</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15365-10" leveltype="para0" subdoc="true" toc-caption="[15,365.10] Lodgment with ASIC">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,365.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 1322(4)(d), s 465A, s 470(1)(a), 470(1)(a).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15365-10" type="ext"/>[15,365.10] </edpnum><title>Lodgment with ASIC</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An application to wind up a corporation must be published: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S465A" remotekey1="REFPTID" service="DOC-ID">s 465A</remotelink></ci:content></ci:cite>
+ Corporations Act. The applicant must lodge with ASIC notice in the prescribed form (Form 509H Corporations Act Forms) not later than 10.30 am on the next business day after the filing of the application, and within 14 days after the application is made, serve a copy of the notice on the company: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S465A" remotekey1="REFPTID" service="DOC-ID">ss 465A</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S470.A" remotekey1="REFPTID" service="DOC-ID" status="unval">470(1)(a)</remotelink></ci:content></ci:cite>
+ Corporations Act. If the application is withdrawn or dismissed, the applicant must lodge with ASIC, within 2 business days after the withdrawal or dismissal of the application, notice of the withdrawal or dismissal of the application. There is no requirement to serve a copy of the notice to ASIC on the company: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003444" spanref="cr003444-001"><ci:reporter value="urj"/><ci:refnum num="BC200911648"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">CMA Corp Ltd v SNL Group Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 1452; <ci:span spanid="cr003444-001"> BC200911648</ci:span></citefragment> <remotelink dpsi="0018" refpt="485657" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003445" spanref="cr003445-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003445-000" status="unval">at [5]&#x2013;[7]</ci:span></citefragment></ci:content></ci:cite> per Austin J.</text></p>
+<p>
+<text>When the notice to be lodged with ASIC is lodged outside the time specified in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S470.1.A" remotekey1="REFPTID" service="DOC-ID">s 470(1)(a)</remotelink></ci:content></ci:cite>
+ the court can in an appropriate case extend the time for lodgement of that notice by order made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S1322.4.D" remotekey1="REFPTID" service="DOC-ID">s 1322(4)(d)</remotelink></ci:content></ci:cite>
+ of the Corporations Act: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003446" spanref="cr003446-001"><ci:reporter value="urj"/><ci:refnum num="BC201203280"/></ci:caseref><ci:caseref anaphref="cr003446" spanref="cr003446-002"><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">MFS Alternative Assets (in liq) v Angstrom Assets Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 447; <ci:span spanid="cr003446-001"> BC201203280</ci:span> <ci:span spanid="cr003446-002">at [5]</ci:span></citefragment> <remotelink dpsi="0018" refpt="553152" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (time extended where lodgement was outside the time permitted by reason of delays arising from difficulty in serving the application upon the director of the defendant company).</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.15365-15" leveltype="para0" subdoc="true" toc-caption="[15,365.15] Publication irregularity">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,365.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 467A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15365-15" type="ext"/>[15,365.15] </edpnum><title>Publication irregularity</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Mere irregularity in publication does not justify dismissal of a winding up application:  see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S467A" remotekey1="REFPTID" service="DOC-ID">s 467A</remotelink></ci:content></ci:cite>
+ Corporations Act; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003447" spanref="cr003447-001"><ci:reporter value="urj"/><ci:refnum num="BC201006605"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Kozlowski v JSBG Developments Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWSC 1022; <ci:span spanid="cr003447-001"> BC201006605</ci:span></citefragment> <remotelink dpsi="0018" refpt="502601" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per White J (winding up order made notwithstanding the application had not been advertised
+&#x2014; no evidence of creditors other than the plaintiff, no prejudice shown). For example, it is an inappropriate ground for dismissal if the irregular publication causes no prejudice:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr003448" spanref="cr003448-001" status="unval"><ci:reporter value="ACLC"/><ci:volume num="7"/><ci:page num="1058"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re D R Electrical and Engineering Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003448-001" status="unval">(1989) 7 ACLC 1,058</ci:span></citefragment></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr003449" spanref="cr003449-001" status="unval"><ci:reporter value="ACLC"/><ci:volume num="8"/><ci:page num="763"/></ci:caseref><ci:caseref ID="cr003450" spanref="cr003450-002"><ci:reporter value="urj"/><ci:refnum num="BC9000888"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Jazzamint Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003449-001" status="unval">(1990) 8 ACLC 763</ci:span>; <ci:span spanid="cr003450-002"> BC9000888</ci:span></citefragment> <remotelink dpsi="0018" refpt="160714" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (held that the company was not prejudiced by the premature advertising); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr003451" spanref="cr003451-001"><ci:reporter value="ACSR"/><ci:volume num="4"/><ci:page num="736"/></ci:caseref><ci:caseref ID="cr003452" spanref="cr003452-002"><ci:reporter value="urj"/><ci:refnum num="BC9102038"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Melcann Ltd v Marmlon Holdings Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003451-001">(1991) 4 ACSR 736</ci:span>; <ci:span spanid="cr003452-002"> BC9102038</ci:span></citefragment> <remotelink dpsi="0018" refpt="24564" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (unintentional breach &#x2014; winding up not opposed).  In the absence of established or apprehended prejudice, the court may dispense with publication:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr003453" spanref="cr003453-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="36"/><ci:page num="274"/></ci:caseref><ci:caseref ID="cr003454" spanref="cr003454-002"><ci:reporter value="ACSR"/><ci:volume num="8"/><ci:page num="53"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Dikwa Holdings Pty Ltd v Oakbury Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003453-001" status="unval">(1992) 36 FCR 274</ci:span>; <ci:span spanid="cr003454-002">(1992) 8 ACSR 53</ci:span></citefragment> <remotelink dpsi="0018" refpt="35534" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Irregular publication may involve more than mere inadvertence or ignorance and may actually involve abuse of process:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2007"/></ci:caseinfo><ci:caseref ID="cr003455" spanref="cr003455-001"><ci:reporter value="ACSR"/><ci:volume num="61"/><ci:page num="441"/></ci:caseref><ci:caseref ID="cr003456" spanref="cr003456-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="25"/><ci:page num="230"/></ci:caseref><ci:caseref ID="cr003457" spanref="cr003457-003"><ci:reporter value="urj"/><ci:refnum num="BC200701811"/></ci:caseref><ci:caseref anaphref="cr003457" spanref="cr003457-004"><ci:pinpoint num="84" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australian Beverage Distributors Pty Ltd v Evans &amp; Tate Premium Wines Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003455-001">(2007) 61 ACSR 441</ci:span>; <ci:span spanid="cr003456-002" status="unval">25 ACLC 230</ci:span>; [2007] NSWCA 57; <ci:span spanid="cr003457-003"> BC200701811</ci:span> <ci:span spanid="cr003457-004">at [84]&#x2013;[85]</ci:span></citefragment> <remotelink dpsi="0018" refpt="434449" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.  The orders that a court may make when there is an abuse of process include dismissal, stay or injunction:  see <emph typestyle="it">Australian Beverage Distributors Pty Ltd v Evans &amp; Tate Premium Wines Pty Ltd</emph>, above, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003458" spanref="cr003458-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2007"/></ci:edition><ci:pinpoint num="126" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003458-000">at [126]</ci:span></citefragment></ci:content></ci:cite>.  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1995"/></ci:caseinfo><ci:caseref ID="cr003459" spanref="cr003459-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="184"/><ci:page num="265"/></ci:caseref><ci:caseref ID="cr003460" spanref="cr003460-002"><ci:reporter value="ALR"/><ci:volume num="131"/><ci:page num="353"/></ci:caseref><ci:caseref ID="cr003461" spanref="cr003461-003"><ci:reporter value="ACSR"/><ci:volume num="18"/><ci:page num="225"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">David Grant &amp; Co Pty Ltd (Receiver Appointed) v Westpac Banking Corporation</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003459-001" status="unval">(1995) 184 CLR 265</ci:span>; <ci:span spanid="cr003460-002">131 ALR 353</ci:span>; <ci:span spanid="cr003461-003">18 ACSR 225</ci:span>; [1995] HCA 43</citefragment> <remotelink dpsi="0018" refpt="107898" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1976"/></ci:caseinfo><ci:caseref ID="cr003462" spanref="cr003462-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1978"/></ci:edition><ci:page num="83"/></ci:caseref><ci:caseref ID="cr003463" spanref="cr003463-002"><ci:reporter value="ACLR"/><ci:volume num="2"/><ci:page num="349"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Fortuna Holdings Pty Ltd v Deputy Commissioner of Taxation</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003462-001">[1978] VR 83</ci:span>; <ci:span spanid="cr003463-002">(1976) 2 ACLR 349</ci:span></citefragment> <remotelink dpsi="0018" refpt="214" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1980"/></ci:caseinfo><ci:caseref ID="cr003464" spanref="cr003464-001"><ci:reporter value="ACLR"/><ci:volume num="5"/><ci:page num="28"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Jeff Reid Pty Ltd and the Companies Act</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003464-001">(1980) 5 ACLR 28</ci:span></citefragment> <remotelink dpsi="0018" refpt="29159" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The court dispensed with the requirement for publication where the application related to the appointment of existing receivers and managers as liquidators: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003465" spanref="cr003465-001"><ci:reporter value="urj"/><ci:refnum num="BC200911525"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Commonwealth v ABC2 Group Pty Ltd (Ct-apptd recs &amp; mgrs apptd)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 1442; <ci:span spanid="cr003465-001"> BC200911525</ci:span></citefragment> <remotelink dpsi="0018" refpt="485530" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003466" spanref="cr003466-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="22" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003466-000" status="unval">at [22]</ci:span></citefragment></ci:content></ci:cite> per Austin J.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,370] r 5.7 Applicant to make copies of documents available">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R7" type="ext"/>[15,370]</edpnum><title searchtype="RUL-TITLE">Applicant to make copies of documents available</title><desig searchtype="RUL-NUM"><designum>5.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A copy of any document filed in a proceeding to which this Division applies must be available at the plaintiff's address for service for inspection by a creditor, contributory or officer of the company, or an officer of a creditor or contributory of the company.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,375] r 5.8 Discontinuance of application for winding up">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R8" type="ext"/>[15,375]</edpnum><title searchtype="RUL-TITLE">Discontinuance of application for winding up</title><desig searchtype="RUL-NUM"><designum>5.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for an order that a company be wound up may not be discontinued except with the leave of the Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,380] r 5.9 Appearance before Registrar">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R9" type="ext"/>[15,380]</edpnum><title searchtype="RUL-TITLE">Appearance before Registrar</title><desig searchtype="RUL-NUM"><designum>5.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>After filing an originating process seeking an order that a company be wound up, the plaintiff must, if required:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R9..A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R9..A" type="ext"/>(a)</lilabel>
+<p><text>appear before the Registrar on a date to be appointed by the Registrar; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R9..B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R9..B" type="ext"/>(b)</lilabel>
+<p><text>satisfy the Registrar that the plaintiff has complied with the Corporations Act and these Rules in relation to applications for a winding up order.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 5.9  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,385] r 5.10 Order substituting plaintiff in application for winding up (Corporations Act s 465B) &#x2014; Form 10">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R10" type="ext"/>[15,385]</edpnum><title searchtype="RUL-TITLE">Order substituting plaintiff in application for winding up (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S465B" remotekey1="REFPTID" service="DOC-ID">s 465B</remotelink></ci:content></ci:cite>
+) &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F10" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 10</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>5.10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D5.R10.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court makes an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S465B" remotekey1="REFPTID" service="DOC-ID">section 465B</remotelink></ci:content></ci:cite>
+ of the Corporations Act, the Court may also order that the substituted plaintiff or plaintiffs publish a notice stating that the substituted plaintiff or plaintiffs intend to apply for an order that the company be wound up.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R10.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notice must be:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R10.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R10.2.A" type="ext"/>(a)</lilabel>
+<p><text>in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F10" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 10</remotelink></ci:content></ci:cite>
+; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R10.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R10.2.B" type="ext"/>(b)</lilabel>
+<p><text>published:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R10.2.B.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R10.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D5.R2.11" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 2.11</remotelink></ci:content></ci:cite>
+ at least 7 days before the date fixed for the hearing of the application, or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D5.R10.2.B.II"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R10.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>as otherwise directed by the Court.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Gaz 91 of 28 May 2004  p 3287, effective 28 May 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5.10  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R11"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,390] r 5.11 Notice of winding up order and appointment of liquidator &#x2014; Form 11">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D5.R11" type="ext"/>[15,390]</edpnum><title searchtype="RUL-TITLE">Notice of winding up order and appointment of liquidator &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F11" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 11</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>5.11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D5.R11.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies if the Court orders that a company be wound up and an official liquidator be appointed as liquidator of the company.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R11.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Not later than the day after the order is made, the plaintiff must inform the liquidator of the appointment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R11.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>As soon as practicable after being informed of the appointment, the liquidator must publish a notice of the winding up order and the liquidator's appointment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R11.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R11.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notice must be:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D5.R11.4.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R11.4.A" type="ext"/>(a)</lilabel>
+<p><text>in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F11" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 11</remotelink></ci:content></ci:cite>
+; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D5.R11.4.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D5.R11.4.B" type="ext"/>(b)</lilabel>
+<p><text>published in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D5.R11.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D5.R11.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this rule:</text></p>
+<deflist><defitem id="UCPN.SC.CLRUN00.D5.R11.5.LIQUIDATOR"><defterm><refpt id="UCPN.SC.CLRUN00.D5.R11.5.LIQUIDATOR" type="ext"/><emph typestyle="bf">liquidator</emph></defterm> <defdesc>
+<p><text>does not include a provisional liquidator.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

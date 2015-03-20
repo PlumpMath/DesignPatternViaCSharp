@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1.2  APPLICATION OF THIS ACT [ss 4&#x2013;11]</docinfo:doc-heading><docinfo:doc-id>UCPN.EA.EAN95.C1.PT1-2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Evidence</title></heading><docinfo:hierlev role="ancestor"><heading><title>EVIDENCE ACT 1995 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>CHAPTER 1  PRELIMINARY [ss 1&#x2013;11]</title></heading><docinfo:hierlev role="me"><heading><title>PART 1.2  APPLICATION OF THIS ACT [ss 4&#x2013;11]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110000010</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.EA"/><docinfo:metaitem name="parent-filename" value="ea.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_EA.SGM_UCPN.EA.EAN95"/><docinfo:metaitem name="parent-filename" value="ea1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 25, 1995</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">EVIDENCE ACT 1995 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.EA.EAN95.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.EA.EAN95.C1"><leg:level-vrnt leveltype="chapter" searchtype="LEGISLATION CHAPTER" subdoc="false" toc-caption="CHAPTER 1  PRELIMINARY [ss 1&#x2013;11]"><leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.C1.PT1-2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1.2  APPLICATION OF THIS ACT [ss 4&#x2013;11]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.EA.EAN95.C1.PT1-2" type="ext"/>PART 1.2</designum></desig><title searchtype="PART-TITLE"> APPLICATION OF THIS ACT [ss 4&#x2013;11]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,045] s 4 Courts and proceedings to which Act applies">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S4" type="ext"/>[50,045]</edpnum><title searchtype="SECT-TITLE">Courts and proceedings to which Act applies</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act applies to all proceedings in a NSW court, including proceedings that:</text></p>
+<l><li id="UCPN.EA.EAN95.S4.1.A"><lilabel><refpt id="UCPN.EA.EAN95.S4.1.A" type="ext"/>(a)</lilabel>
+<p><text>relate to bail, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S4.1.B"><lilabel><refpt id="UCPN.EA.EAN95.S4.1.B" type="ext"/>(b)</lilabel>
+<p><text>are interlocutory proceedings or proceedings of a similar kind, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S4.1.C"><lilabel><refpt id="UCPN.EA.EAN95.S4.1.C" type="ext"/>(c)</lilabel>
+<p><text>are heard in chambers, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S4.1.D"><lilabel><refpt id="UCPN.EA.EAN95.S4.1.D" type="ext"/>(d)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S4.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+, relate to sentencing.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act No 46 of 2007  s 3 and Sch 1[1], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If such a proceeding relates to sentencing:</text></p>
+<l><li id="UCPN.EA.EAN95.S4.2.A"><lilabel><refpt id="UCPN.EA.EAN95.S4.2.A" type="ext"/>(a)</lilabel>
+<p><text>this Act applies only if the court directs that the law of evidence applies in the proceeding, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S4.2.B"><lilabel><refpt id="UCPN.EA.EAN95.S4.2.B" type="ext"/>(b)</lilabel>
+<p><text>if the court specifies in the direction that the law of evidence applies only in relation to specified matters &#x2014; the direction has effect accordingly.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court must make a direction if:</text></p>
+<l><li id="UCPN.EA.EAN95.S4.3.A"><lilabel><refpt id="UCPN.EA.EAN95.S4.3.A" type="ext"/>(a)</lilabel>
+<p><text>a party to the proceeding applies for such a direction in relation to the proof of a fact, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S4.3.B"><lilabel><refpt id="UCPN.EA.EAN95.S4.3.B" type="ext"/>(b)</lilabel>
+<p><text>in the court's opinion, the proceeding involves proof of that fact, and that fact is or will be significant in determining a sentence to be imposed in the proceeding.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S4.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court must make a direction if the court considers it appropriate to make such a direction in the interests of justice.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Notes:</title><desig><designum>1</designum></desig></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S4" remotekey1="REFPTID" service="DOC-ID">Section 4</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act differs from this section. It applies that Act to proceedings in a federal court or an ACT court. Some provisions of the Commonwealth Act extend beyond proceedings in federal courts and ACT courts (see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EA95.S5" remotekey1="REFPTID" service="DOC-ID" status="unval">sections 5</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S185" remotekey1="REFPTID" service="DOC-ID">185</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S186" remotekey1="REFPTID" service="DOC-ID">186</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S187" remotekey1="REFPTID" service="DOC-ID">187</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act).</text></p></glp:note>
+<glp:note>
+<heading><desig><designum>2</designum></desig></heading>
+<p>
+<text><emph typestyle="bf">NSW court</emph> is defined in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.PT1.NSW-COURT" remotekey1="REFPTID" service="DOC-ID" status="unval">Dictionary</remotelink></ci:content></ci:cite>
+. The definition includes persons or bodies required to apply the laws of evidence.</text></p></glp:note>
+<glp:note>
+<heading><desig><designum>3</designum></desig></heading>
+<p>
+<text>The Commonwealth Act includes 2 additional subsections that exclude the application of that Act to appeals from a court of a State (including appeals from a court of a State exercising federal jurisdiction) and certain other courts.</text></p></glp:note>
+<glp:note>
+<heading><desig><designum>4</designum></desig></heading>
+<p>
+<text>See section 79 of the Judiciary Act 1903 of the Commonwealth for the application of this Act to proceedings in a State court exercising federal jurisdiction.</text></p></glp:note><leg:histnote>
+<p><text>[s 4  am Act No 46 of 2007  s 3 and Sch 1[2], effective 1 January 2009]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S4.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50045-5" leveltype="para0" subdoc="true" toc-caption="[50,045.5] &#x201c;Applies to all proceedings&#x201d;">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,045.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1995-2" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 128.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1966-33" remotekey1="REFPTID" service="DOC-ID">Bankruptcy Act 1966</remotelink> s 81.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50045-5" type="ext"/>[50,045.5] </edpnum><title>&#x201c;Applies to all proceedings&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Evidence Act applies to any occasion where there is an issue between litigating parties that involves matters being &#x201c;adduced under the rules of evidence&#x201d;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr000001" spanref="cr000001-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="137"/><ci:page num="209"/></ci:caseref><ci:caseref ID="cr000002" spanref="cr000002-002"><ci:reporter value="ALR"/><ci:volume num="207"/><ci:page num="169"/></ci:caseref><ci:caseref ID="cr000003" spanref="cr000003-003"><ci:reporter value="urj"/><ci:refnum num="BC200402587"/></ci:caseref><ci:caseref anaphref="cr000003" spanref="cr000003-004"><ci:pinpoint num="198" targettype="para"/></ci:caseref><ci:caseref anaphref="cr000003" spanref="cr000003-005"><ci:pinpoint num="202" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Griffin v Pantzer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000001-001" status="unval">(2004) 137 FCR 209</ci:span>; <ci:span spanid="cr000002-002">207 ALR 169</ci:span>; [2004] FCAFC 113; <ci:span spanid="cr000003-003"> BC200402587</ci:span> <ci:span spanid="cr000003-004">at [198],</ci:span> <ci:span spanid="cr000003-005">[202]</ci:span></citefragment> <remotelink dpsi="0018" refpt="379553" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application of Evidence Act 1995 (Cth) 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EA95.S128" remotekey1="REFPTID" service="DOC-ID" status="unval">s 128</remotelink></ci:content></ci:cite>
+ to an examination under Bankruptcy Act 1966 (Cth) 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.BA66.S81" remotekey1="REFPTID" service="DOC-ID" status="unval">s 81</remotelink></ci:content></ci:cite>
+). The concept of &#x201c;proceedings&#x201d; for the purpose of determining the application of the Evidence Act includes an interlocutory stage of a claim in the court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000004" spanref="cr000004-001"><ci:reporter value="urj"/><ci:refnum num="BC9801219"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sved v Council of the Municipality of Woollahra</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000004-001"> (NSWSC, Giles J, CA 40136/98, 15 April 1998, unreported, BC9801219)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1996"/></ci:caseinfo><ci:caseref ID="cr000005" spanref="cr000005-001"><ci:reporter value="Fam LR"/><ci:volume num="22"/><ci:page num="538"/></ci:caseref><ci:caseref ID="cr000006" spanref="cr000006-002" status="unval"><ci:reporter value="ATC"/><ci:volume num="98"/><ci:page num="2021"/></ci:caseref><ci:caseref anaphref="cr000006" spanref="cr000006-003" status="unval"><ci:pinpoint num="34" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Deputy Commissioner of Taxation v McCauley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000005-001">(1996) 22 Fam LR 538</ci:span>; <ci:span spanid="cr000006-002" status="unval">98 ATC 2021</ci:span> <ci:span spanid="cr000006-003" status="unval">at [34]&#x2013;[37]</ci:span></citefragment> <remotelink dpsi="0018" refpt="255880" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. See ALRC 102 para 2.73&#x2013;2.81.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,050] s 5 Extended application of certain provisions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S5" type="ext"/>[50,050]</edpnum><title searchtype="SECT-TITLE">Extended application of certain provisions</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act includes a provision that extends the application of specified provisions of the Commonwealth Act to proceedings in all Australian courts.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,055] s 6 Territories">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S6" type="ext"/>[50,055]</edpnum><title searchtype="SECT-TITLE">Territories</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act includes a provision extending that Act to each external Territory.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,060] s 7 Act binds Crown">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S7" type="ext"/>[50,060]</edpnum><title searchtype="SECT-TITLE">Act binds Crown</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act binds the Crown in right of New South Wales and also, so far as the legislative power of Parliament permits, in all its other capacities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,065] s 8 Operation of other Acts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S8" type="ext"/>[50,065]</edpnum><title searchtype="SECT-TITLE">Operation of other Acts</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect the operation of the provisions of any other Act.</text></p>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act includes additional subsections relating to the operation of the 
+<remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink>
+ of the Commonwealth, the 
+<remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">Australian Securities and Investments Commission Act 2001</remotelink>
+ of the Commonwealth and certain laws in force in the ACT. It also provides for the regulations to have continued effect (until amended) after the commencement of the Commonwealth section.</text></p></glp:note><leg:histnote>
+<p><text>[s 8  am Act 34 of 2001  Sch 4]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S8.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50065-5" leveltype="para0" subdoc="true" toc-caption="[50,065.5] Saving of other legislation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,065.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1898-11" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1898</remotelink>.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-27" remotekey1="REFPTID" service="DOC-ID">Evidence (Consequential and Other Provisions) Act 1995</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50065-5" type="ext"/>[50,065.5] </edpnum><title>Saving of other legislation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Although the Act is expressed not to affect the operation of the provisions of any other Act, certain legislation (including the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Evidence Act 1898</remotelink></ci:content></ci:cite>
+) is repealed by the provisions of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EVCO" remotekey1="REFPTID" service="DOC-ID" status="unval">Evidence (Consequential) and Other Provisions Act 1995</remotelink></ci:content></ci:cite>
+. General regard should be had to the provisions of that Act.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S9"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,070] s 9 Application of common law and equity">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S9" type="ext"/>[50,070]</edpnum><title searchtype="SECT-TITLE">Application of common law and equity</title><desig searchtype="SECT-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S9.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect the operation of a principle or rule of common law or equity in relation to evidence in a proceeding to which this Act applies, except so far as this Act provides otherwise expressly or by necessary intendment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S9.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S9.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+, this Act does not affect the operation of such a principle or rule so far as it relates to any of the following:</text></p>
+<l><li id="UCPN.EA.EAN95.S9.2.A"><lilabel><refpt id="UCPN.EA.EAN95.S9.2.A" type="ext"/>(a)</lilabel>
+<p><text>admission or use of evidence of reasons for a decision of a member of a jury, or of the deliberations of a member of a jury in relation to such a decision, in a proceeding by way of appeal from a judgment, decree, order or sentence of a court,</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S9.2.B"><lilabel><refpt id="UCPN.EA.EAN95.S9.2.B" type="ext"/>(b)</lilabel>
+<p><text>the operation of a legal or evidential presumption that is not inconsistent with this Act,</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S9.2.C"><lilabel><refpt id="UCPN.EA.EAN95.S9.2.C" type="ext"/>(c)</lilabel>
+<p><text>a court's power to dispense with the operation of a rule of evidence or procedure in an interlocutory proceeding.</text></p>
+<p>
+<glp:note id="UCPN.EA.EAN95.S9.NT1">
+<heading><title>Note:</title></heading>
+<p>
+<text>This section differs from 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007S" refpt="COE.CML.EA95.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite>
+ of the Commonwealth Act. That section preserves the written and unwritten laws of States and Territories in relation to various matters.</text></p></glp:note>
+</p></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S9.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50070-5" leveltype="para0" subdoc="true" toc-caption="[50,070.5] Conditional saving of common law and equitable rules">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,070.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> 145, 164, ss 42(4), 52, Sections 55&#x2013;56, 93.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50070-5" type="ext"/>[50,070.5] </edpnum><title>Conditional saving of common law and equitable rules</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The section is one of several provisions of the Act that appear to be intended to make clear that the Act is not a code of the rules of evidence: see for example 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S42.4" remotekey1="REFPTID" service="DOC-ID">ss 42(4)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S52" remotekey1="REFPTID" service="DOC-ID">52</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S93" remotekey1="REFPTID" service="DOC-ID">93</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S145" remotekey1="REFPTID" service="DOC-ID">145</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S164" remotekey1="REFPTID" service="DOC-ID">164</remotelink></ci:content></ci:cite>
+. Previous rules of evidence, both statutory and non-statutory, are declared to continue to apply except in so far as either they are expressly affected or their continued operation is, by necessary intendment, altered by the Act. However, the scope of the changes that the Act makes, as well as the generality of some of its provisions, make the assessment of &quot;necessary intendment&quot; potentially difficult. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S55" remotekey1="REFPTID" service="DOC-ID">Sections 55&#x2013;56</remotelink></ci:content></ci:cite>
+ provide an important illustration of this point. The combined effect of these two sections appears to be to declare the admissibility of all relevant evidence &#x2014; &quot;except as otherwise provided by this Act&quot;. It is arguable that, in the face of this declaration, there is limited scope for the retention of any common law or equitable rules that would restrict the admissibility, or justify the exclusion of, relevant evidence.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50070-10" leveltype="para0" subdoc="true" toc-caption="[50,070.10] Reasons for decisions">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,070.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 129.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50070-10" type="ext"/>[50,070.10] </edpnum><title>Reasons for decisions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The section should be regarded as dealing with the use of published reasons for decision. Apart from the use of published reasons in appeal and contempt proceedings, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S129" remotekey1="REFPTID" service="DOC-ID">s 129</remotelink></ci:content></ci:cite>
+ of the Act generally prohibits evidence being given of either a judge's reasons for decision, or the deliberations of a jury.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50070-15" leveltype="para0" subdoc="true" toc-caption="[50,070.15] Evidence on interlocutory matters">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,070.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 31.1.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50070-15" type="ext"/>[50,070.15] </edpnum><title>Evidence on interlocutory matters</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-1" remotekey1="REFPTID" service="DOC-ID">r 31.1</remotelink></ci:content></ci:cite>
+ provides that evidence of interlocutory matters would normally be given by affidavit. See the note at 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.31-2-5" remotekey1="REFPTID" service="DOC-ID">[31.2.5]</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S10"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,075] s 10 Parliamentary privilege preserved">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S10" type="ext"/>[50,075]</edpnum><title searchtype="SECT-TITLE">Parliamentary privilege preserved</title><desig searchtype="SECT-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S10.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect the law relating to the privileges of any Australian Parliament or any House of any Australian Parliament.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S10.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In particular, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S15.2" remotekey1="REFPTID" service="DOC-ID">section 15(2)</remotelink></ci:content></ci:cite>
+ does not affect, and is in addition to, the law relating to such privileges.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,080] s 11 General powers of a court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S11" type="ext"/>[50,080]</edpnum><title searchtype="SECT-TITLE">General powers of a court</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The power of a court to control the conduct of a proceeding is not affected by this Act, except so far as this Act provides otherwise expressly or by necessary intendment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In particular, the powers of a court with respect to abuse of process in a proceeding are not affected.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S11.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50080-5" leveltype="para0" subdoc="true" toc-caption="[50,080.5] Relationship between s 11(1) and (2)">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,080.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 11(1), s 11(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50080-5" type="ext"/>[50,080.5] </edpnum><title>Relationship between s 11(1) and (2)</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The declaration in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S11.2" remotekey1="REFPTID" service="DOC-ID">s 11(2)</remotelink></ci:content></ci:cite>
+ should be read as impliedly subject to the same exception as that in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S11.1" remotekey1="REFPTID" service="DOC-ID">s 11(1)</remotelink></ci:content></ci:cite>
+: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000007" spanref="cr000007-001"><ci:reporter value="urj"/><ci:refnum num="BC200205002"/></ci:caseref><ci:caseref anaphref="cr000007" spanref="cr000007-002"><ci:pinpoint num="62" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Van Der Lee v New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWCA 286; <ci:span spanid="cr000007-001"> BC200205002</ci:span> <ci:span spanid="cr000007-002">at [62]</ci:span></citefragment> <remotelink dpsi="0018" refpt="351248" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. See also S Odgers, <emph typestyle="it">Uniform Evidence Law</emph>, 6th ed, Lawbook Co, Sydney, 2004, [1.1.1260].</text></p>
+<p>
+<text>ALRC 102 paras 2.82&#x2013;2.89</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

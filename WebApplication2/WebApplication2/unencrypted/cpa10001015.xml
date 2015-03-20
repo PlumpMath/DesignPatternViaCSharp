@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 4  MEDIATION OF PROCEEDINGS [ss 25&#x2013;34]</docinfo:doc-heading><docinfo:doc-id>UCPN.CPA.CPAN05.PT4</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Civil Procedure Act 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>CIVIL PROCEDURE ACT 2005</title></heading><docinfo:hierlev role="me"><heading><title>PART 4  MEDIATION OF PROCEEDINGS [ss 25&#x2013;34]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>40000050</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.CPA"/><docinfo:metaitem name="parent-filename" value="cpa.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_CPA.SGM_UCPN.CPA.CPAN05"/><docinfo:metaitem name="parent-filename" value="cpa1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 28, 2005</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CIVIL PROCEDURE ACT 2005</leg:officialname></leg:info><leg:level id="UCPN.CPA.CPAN05.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.PT4"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 4  MEDIATION OF PROCEEDINGS [ss 25&#x2013;34]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.CPA.CPAN05.PT4" type="ext"/>PART 4</designum></desig><title searchtype="PART-TITLE"> MEDIATION OF PROCEEDINGS [ss 25&#x2013;34]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S25"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 25] s 25 Definitions (cf Act No 52 1970, sections 110I and 110J; Act No 9 1973, sections 163 and 164; Act No 11 1970, sections 21J and 21K)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S25" type="ext"/>[s 25]</edpnum><title searchtype="SECT-TITLE">Definitions (cf Act No 52 1970, sections 110I and 110J; Act No 9 1973, sections 163 and 164; Act No 11 1970, sections 21J and 21K)</title><desig searchtype="SECT-NUM"><designum>25</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.CPA.CPAN05.S25.MEDIATION"><defterm><refpt id="UCPN.CPA.CPAN05.S25.MEDIATION" type="ext"/><emph typestyle="bf">mediation</emph></defterm> <defdesc>
+<p><text>means a structured negotiation process in which the mediator, as a neutral and independent party, assists the parties to a dispute to achieve their own resolution of the dispute.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CPA.CPAN05.S25.MEDIATION-SESSION"><defterm><refpt id="UCPN.CPA.CPAN05.S25.MEDIATION-SESSION" type="ext"/><emph typestyle="bf">mediation session</emph></defterm> <defdesc>
+<p><text>means a meeting arranged for the mediation of a matter.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.CPA.CPAN05.S25.MEDIATOR"><defterm><refpt id="UCPN.CPA.CPAN05.S25.MEDIATOR" type="ext"/><emph typestyle="bf">mediator</emph></defterm> <defdesc>
+<p><text>means a person to whom the court has referred a matter for mediation.</text></p>
+</defdesc></defitem></deflist>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S25.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S25-5" leveltype="para0" subdoc="true" toc-caption="[s 25.5] Application note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 25.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> ss 25&#x2013;34, s 4.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 1.6, Sch 1.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S25-5" type="ext"/>[s 25.5] </edpnum><title>Application note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This Part (
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S25" remotekey1="REFPTID" service="DOC-ID">ss 25&#x2013;34</remotelink>
+) does not apply to proceedings in the Small Claims Division of the Local Court: see CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S4" remotekey1="REFPTID" service="DOC-ID">s 4</remotelink>
+, UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-6" remotekey1="REFPTID" service="DOC-ID">r 1.6</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH1" remotekey1="REFPTID" service="DOC-ID">Sch 1</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S26"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 26] s 26 Referral by court (cf Act No 52 1970, section 110K; Act No 9 1973, section 164A; Act No 11 1970, section 21L)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S26" type="ext"/>[s 26]</edpnum><title searchtype="SECT-TITLE">Referral by court (cf Act No 52 1970, section 110K; Act No 9 1973, section 164A; Act No 11 1970, section 21L)</title><desig searchtype="SECT-NUM"><designum>26</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S26.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S26.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If it considers the circumstances appropriate, the court may, by order, refer any proceedings before it, or part of any such proceedings, for mediation by a mediator, and may do so either with or without the consent of the parties to the proceedings concerned.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S26.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S26.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The mediation is to be undertaken by a mediator agreed to by the parties or appointed by the court, who may (but need not be) a listed mediator.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S26.2A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S26.2A" type="ext"/>(2A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting subsections (1) and (2), the court may refer proceedings or part of proceedings for mediation under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CJC" remotekey1="REFPTID" service="DOC-ID" status="unval">Community Justice Centres Act 1983</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subs (2A)  insrt Act 70 of 2007  s 4 and Sch 2.1[1], effective 25 May 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S26.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S26.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section, <defterm><emph typestyle="bf">listed mediator</emph></defterm> means a mediator appointed in accordance with a practice note with respect to the nomination and appointment of persons to be mediators for the purposes of this Part.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S26.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S26-5" leveltype="para0" subdoc="true" toc-caption="[s 26.5] UCP Rules relating to mediation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 26.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 20.1&#x2013;20.7.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S26-5" type="ext"/>[s 26.5] </edpnum><title>UCP Rules relating to mediation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Specific rules complementing this Part are contained in Pt 20 Div 1 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-1" remotekey1="REFPTID" service="DOC-ID">rr 20.1&#x2013;20.7</remotelink>
+ of the UCPR.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S26-6" leveltype="para0" subdoc="true" toc-caption="[s 26.6] Practice Notes">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 26.6] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 26.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S26-6" type="ext"/>[s 26.6] </edpnum><title>Practice Notes</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where Supreme Court proceedings are referred to mediation under CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S26" remotekey1="REFPTID" service="DOC-ID">s 26</remotelink></ci:content></ci:cite>
+, the court&#x2019;s order should comply with Practice Note 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCG.PN6" remotekey1="REFPTID" service="DOC-ID">SC Gen 6</remotelink>
+. The court may order the referral to a specified mediator or for the appointment of a mediator pursuant to the Joint Protocol provided for in the Practice Note. Where the court&#x2019;s order requires a mediator to be appointed pursuant to the Joint Protocol, the plaintiff must, within seven days, provide the Principal Registrar with the relevant originating process and a copy of the pleadings and the Joint Protocol Referral Information.</text></p>
+<p>
+<text>See Practice Note 
+<remotelink dpsi="05CC" refpt="UCPN.PN.DC1" remotekey1="REFPTID" service="DOC-ID">DC (Civil) No 1</remotelink>
+ at [8.3] and following for requirements for mediation in District Court proceedings.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S26-10" leveltype="para0" subdoc="true" toc-caption="[s 26.10] Mandatory orders for mediation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 26.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 27, ss 56, 61.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 2.1.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S26-10" type="ext"/>[s 26.10] </edpnum><title>Mandatory orders for mediation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The section permits the court to refer proceedings to mediation notwithstanding the absence of any agreement, either past or current, between the parties. The exercise of this power requires the court, having regard to CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S56" remotekey1="REFPTID" service="DOC-ID">ss 56</remotelink>
+, 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S61" remotekey1="REFPTID" service="DOC-ID">61</remotelink>
+ and UCPR 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R2-1" remotekey1="REFPTID" service="DOC-ID">r 2.1</remotelink>
+ and the parties&#x2019; &#x201c;good faith&#x201d; obligation under CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S27" remotekey1="REFPTID" service="DOC-ID">s 27</remotelink>
+, to make its own assessment about the possible utility of mediation, having regard to the chance of resolving the proceedings and avoiding the costs (both tangible and intangible), the delay and the uncertainty likely to be associated with the matter proceeding to a contested final hearing. In making that assessment the court must take into account, and in appropriate circumstances may properly regard as determinative, the considered preference of a party to continue the proceedings rather than incur additional expense and delay by participating in a mandatory mediation procedure with questionable prospects of success: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000220" spanref="cr000220-001" status="unval"><ci:reporter value="ANZConvR"/><ci:edition><ci:date year="2001"/></ci:edition><ci:page num="341"/></ci:caseref><ci:caseref ID="cr000221" spanref="cr000221-002"><ci:reporter value="urj"/><ci:refnum num="BC200101296"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Morrow v Chinadotcom Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000220-001" status="unval">[2001] ANZ ConvR 341</ci:span>; [2001] NSWSC 209; <ci:span spanid="cr000221-002"> BC200101296</ci:span></citefragment> <remotelink dpsi="0018" refpt="325773" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Nevertheless, the power remains to order mediation, and particular circumstances may warrant its exercise despite the opposition of parties: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000222" spanref="cr000222-001"><ci:reporter value="urj"/><ci:refnum num="BC200102972"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Idoport Pty Ltd v National Australia Bank Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWSC 427; <ci:span spanid="cr000222-001"> BC200102972</ci:span></citefragment> <remotelink dpsi="0018" refpt="329251" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (complex and protracted litigation); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000223" spanref="cr000223-001"><ci:reporter value="urj"/><ci:refnum num="BC200405858"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Daya v CNA Reinsurance Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2004] NSWSC 795; <ci:span spanid="cr000223-001"> BC200405858</ci:span></citefragment> <remotelink dpsi="0018" refpt="385854" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (complex, multiparty litigation); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000224" spanref="cr000224-001"><ci:reporter value="urj"/><ci:refnum num="BC200108793"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Remuneration Planning Corp Pty Ltd v Fitton</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001]
+NSWSC 1208; <ci:span spanid="cr000224-001"> BC200108793</ci:span></citefragment> <remotelink dpsi="0018" refpt="343328" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (equivocal opposition); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000225" spanref="cr000225-001"><ci:reporter value="urj"/><ci:refnum num="BC200609891"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lidofram Pty Ltd (as trustee for Logan Cypress &amp; Framing Trust) v New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006]
+NSWSC 1262; <ci:span spanid="cr000225-001"> BC200609891</ci:span></citefragment> <remotelink dpsi="0018" refpt="428465" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (mediation ordered despite dispute as to liability and prior break down of settlement negotiations). Referral may be considered appropriate in a wide range of circumstances &#x2014; including the following:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>where the court is satisfied that the parties approach to the resolution of the proceedings is being unduly influenced by subjective considerations whose effect might be minimised by the influence of a skilled conciliator: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000226" spanref="cr000226-001"><ci:reporter value="urj"/><ci:refnum num="BC200202676"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Higgins v Higgins</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWSC 455; <ci:span spanid="cr000226-001"> BC200202676</ci:span></citefragment> <remotelink dpsi="0018" refpt="346537" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (order for mediation made in family property dispute where previous resolution attempts indicated hope of compromise); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000227" spanref="cr000227-001"><ci:reporter value="urj"/><ci:refnum num="BC200205746"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Singh v Singh</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWSC 852; <ci:span spanid="cr000227-001"> BC200205746</ci:span></citefragment> <remotelink dpsi="0018" refpt="352615" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (dispute between former friends); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000228" spanref="cr000228-001"><ci:reporter value="urj"/><ci:refnum num="BC200203626"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Yoseph v Mammo</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWSC 585; <ci:span spanid="cr000228-001"> BC200203626</ci:span></citefragment> <remotelink dpsi="0018" refpt="348204" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (mediation ordered after the grant of a contested adjournment in proceedings involving a family property dispute);</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>where the parties are subject to an independent obligation to endeavour to mediate disputes: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000229" spanref="cr000229-001"><ci:reporter value="urj"/><ci:refnum num="BC200708530"/></ci:caseref><ci:caseref anaphref="cr000229" spanref="cr000229-002"><ci:pinpoint num="15" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">New Idafe Inc v Barnard</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 1107; <ci:span spanid="cr000229-001"> BC200708530</ci:span> <ci:span spanid="cr000229-002">at [15]</ci:span></citefragment> <remotelink dpsi="0018" refpt="444682" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (requirement to mediate disputes in company constitution does not bind the court but is a factor in favour of compelling mediation);</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>where all parties have completed their evidence and will be able to participate in the mediation without risk of disadvantage: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000230" spanref="cr000230-001"><ci:reporter value="urj"/><ci:refnum num="BC200703077"/></ci:caseref><ci:caseref anaphref="cr000230" spanref="cr000230-002"><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Dimento v Dimento</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 420; <ci:span spanid="cr000230-001"> BC200703077</ci:span> <ci:span spanid="cr000230-002">at [5]</ci:span></citefragment> <remotelink dpsi="0018" refpt="436225" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (evidence not complete , not a &#x201c;level playing field&#x201d;, mediation refused); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000231" spanref="cr000231-001"><ci:reporter value="urj"/><ci:refnum num="BC200708530"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">New Idafe Inc v Barnard</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 1107; <ci:span spanid="cr000231-001"> BC200708530</ci:span></citefragment> <remotelink dpsi="0018" refpt="444682" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (evidence practically complete, mediation ordered); </text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>where the nature of the proceedings and the parties satisfies the court that there is a real prospect a mediated resolution of the proceedings would be in the best interests of the parties: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000232" spanref="cr000232-001"><ci:reporter value="urj"/><ci:refnum num="BC200708530"/></ci:caseref><ci:caseref anaphref="cr000232" spanref="cr000232-002"><ci:pinpoint num="17" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">New Idafe Inc v Barnard</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 1107; <ci:span spanid="cr000232-001"> BC200708530</ci:span> <ci:span spanid="cr000232-002">at [17]</ci:span></citefragment> <remotelink dpsi="0018" refpt="444682" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (proceedings concerning the affairs of a non-profit organisation &#x2014; desirable that the parties reach some accommodation concerning its affairs rather than have the court impose a solution); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000233" spanref="cr000233-001"><ci:reporter value="urj"/><ci:refnum num="BC200703077"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Dimento v Dimento</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007]
+NSWSC 420; <ci:span spanid="cr000233-001"> BC200703077</ci:span></citefragment> <remotelink dpsi="0018" refpt="436225" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (characterisation of a dispute as a family dispute or a commercial dispute says little about whether reference to mediation is appropriate); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000234" spanref="cr000234-001"><ci:reporter value="urj"/><ci:refnum num="BC200709165"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Coric v Grotto</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 1080; <ci:span spanid="cr000234-001"> BC200709165</ci:span></citefragment> <remotelink dpsi="0018" refpt="445911" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (family dispute over family property); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000235" spanref="cr000235-001"><ci:reporter value="urj"/><ci:refnum num="BC200908877"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Oasis Fund Management Ltd v ABN Amro Bank NV</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 967; <ci:span spanid="cr000235-001"> BC200908877</ci:span></citefragment> <remotelink dpsi="0018" refpt="480709" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (elderly retired investors &#x2014; dispute with trustee &#x2014; prospects of successful early mediation &#x2014; mediation ordered).</text></p></li></l></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S27"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 27] s 27 Duty of parties to participate (cf Act No 52 1970, section 110L; Act No 9 1973, section 164B; Act No 11 1970, section 21M)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S27" type="ext"/>[s 27]</edpnum><title searchtype="SECT-TITLE">Duty of parties to participate (cf Act No 52 1970, section 110L; Act No 9 1973, section 164B; Act No 11 1970, section 21M)</title><desig searchtype="SECT-NUM"><designum>27</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>It is the duty of each party to proceedings that have been referred for mediation to participate, in good faith, in the mediation.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S27.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S27-5" leveltype="para0" subdoc="true" toc-caption="[s 27.5] Parties &#x201c;good faith&#x201d; obligation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 27.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> ss 30, 31.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S27-5" type="ext"/>[s 27.5] </edpnum><title>Parties &#x201c;good faith&#x201d; obligation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Neither the CPA nor the rules impose any sanction for breach of the duty of good faith. Furthermore, the prohibitions (in CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S30" remotekey1="REFPTID" service="DOC-ID">ss 30</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S31" remotekey1="REFPTID" service="DOC-ID">31</remotelink>
+) on the admission of statements made during, and documents prepared for, the mediation, would appear to impose considerable difficulties in establishing breach of the duty: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000236" spanref="cr000236-001"><ci:reporter value="urj"/><ci:refnum num="BC200302748"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rajski v Tectran Corp Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 476; <ci:span spanid="cr000236-001"> BC200302748</ci:span></citefragment> <remotelink dpsi="0018" refpt="363475" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. However, those prohibitions do not apply to disclosures by the mediator &#x201c;in connection with&#x201d; the administration of the referral provisions of the Supreme Court Act: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000237" spanref="cr000237-001"><ci:reporter value="urj"/><ci:refnum num="BC200302748"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rajski v Tectran Corp Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 476; <ci:span spanid="cr000237-001"> BC200302748</ci:span></citefragment> <remotelink dpsi="0018" refpt="363475" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S28"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 28] s 28 Costs of mediation (cf Act No 52 1970, section 110M; Act No 9 1973, section 164C; Act No 11 1970, section 21N)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S28" type="ext"/>[s 28]</edpnum><title searchtype="SECT-TITLE">Costs of mediation (cf Act No 52 1970, section 110M; Act No 9 1973, section 164C; Act No 11 1970, section 21N)</title><desig searchtype="SECT-NUM"><designum>28</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The costs of mediation, including the costs payable to the mediator, are payable:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S28.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S28.A" type="ext"/>(a)</lilabel>
+<p><text>if the court makes an order as to the payment of those costs, by one or more of the parties in such manner as the order may specify, or</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S28.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S28.B" type="ext"/>(b)</lilabel>
+<p><text>in any other case, by the parties in such proportions as they may agree among themselves.</text></p>
+</li>
+</l>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S28.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.CPAN05.S28-5" leveltype="para0" subdoc="true" toc-caption="[s 28.5] Costs of mediation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 28.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 42.7(1).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.CPAN05.S28-5" type="ext"/>[s 28.5] </edpnum><title>Costs of mediation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The costs of a court ordered mediation ordinarily form part of the costs of the proceedings.  On that basis a general order for the payment of costs will include the costs of the mediation: see UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R42-7.1" remotekey1="REFPTID" service="DOC-ID">r 42.7(1)</remotelink></ci:content></ci:cite>
+ and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2009"/></ci:caseinfo><ci:caseref ID="cr000238" spanref="cr000238-001"><ci:reporter value="NSWLR"/><ci:volume num="74"/><ci:page num="173"/></ci:caseref><ci:caseref ID="cr000239" spanref="cr000239-002"><ci:reporter value="urj"/><ci:refnum num="BC200904010"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Newcastle City Council v Wieland</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000238-001">(2009) 74 NSWLR 173</ci:span>; [2009] NSWCA 113; <ci:span spanid="cr000239-002"> BC200904010</ci:span></citefragment> <remotelink dpsi="0018" refpt="473892" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000240" spanref="cr000240-000"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="36" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000240-000">at [36]&#x2013;[37]</ci:span></citefragment></ci:content></ci:cite> per Ipp JA.  However, the court may make a separate specific order for, or the parties may agree upon, the costs of the mediation:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000241" spanref="cr000241-001"><ci:reporter value="urj"/><ci:refnum num="BC200703633"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mead v Allianz Australia Insurance Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 500; <ci:span spanid="cr000241-001"> BC200703633</ci:span></citefragment> <remotelink dpsi="0018" refpt="437302" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S29"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 29] s 29 Agreements and arrangements arising from mediation sessions (cf Act No 52 1970, section 110N; Act No 9 1973, section 164D; Act No 11 1970, section 21O)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S29" type="ext"/>[s 29]</edpnum><title searchtype="SECT-TITLE">Agreements and arrangements arising from mediation sessions (cf Act No 52 1970, section 110N; Act No 9 1973, section 164D; Act No 11 1970, section 21O)</title><desig searchtype="SECT-NUM"><designum>29</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S29.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S29.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may make orders to give effect to any agreement or arrangement arising out of a mediation session.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S29.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S29.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On any application for an order under this section, any party may call evidence, including evidence from the mediator and any other person engaged in the mediation, as to the fact that an agreement or arrangement has been reached and as to the substance of the agreement or arrangement.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S29.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S29.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part does not affect the enforceability of any other agreement or arrangement that may be made, whether or not arising out of a mediation session, in relation to the matters the subject of a mediation session.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S29.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.CPAN05.S29-5" leveltype="para0" subdoc="true" toc-caption="[s 29.5] Settlement agreements between spouses"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.CPAN05.S29-5" type="ext"/>[s 29.5] </edpnum><title>Settlement agreements between spouses</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Spousal agreements affecting their respective property interests may not be enforceable unless they comply with the requirements of the Family Law Act 1975 (Cth) especially ss 79, 86A, 90C &amp; 90G. However, a spouse who has concluded a mediated settlement of proceedings in a state court cannot rely on non-compliance with the provisions of the Family Law Act to resist enforcement of the settlement: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000242" spanref="cr000242-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC201204820"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Grant v Grant</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 725; <ci:span spanid="cr000242-001" status="unval"> BC201204820</ci:span></citefragment> <remotelink dpsi="0018" refpt="557478" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (Gzell J) <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000243" spanref="cr000243-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="42" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000243-000" status="unval">at [42]&#x2013;[52]</ci:span></citefragment></ci:content></ci:cite> (equitable fraud to rely on the provisions of the Family Law Act).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S30"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 30] s 30 Privilege (cf Act No 52 1970, section 110P; Act No 9 1973, section 164F; Act No 11 1970, section 21Q)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S30" type="ext"/>[s 30]</edpnum><title searchtype="SECT-TITLE">Privilege (cf Act No 52 1970, section 110P; Act No 9 1973, section 164F; Act No 11 1970, section 21Q)</title><desig searchtype="SECT-NUM"><designum>30</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S30.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S30.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section, <defterm><emph typestyle="bf">mediation session</emph></defterm> includes any steps taken in the course of making arrangements for the session or in the course of the follow-up of a session.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S30.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S30.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The same privilege with respect to defamation as exists with respect to judicial proceedings and a document produced in judicial proceedings exists with respect to:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S30.2.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.2.A" type="ext"/>(a)</lilabel>
+<p><text>a mediation session, or</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S30.2.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.2.B" type="ext"/>(b)</lilabel>
+<p><text>a document or other material sent to or produced to a mediator, or sent to or produced at the court or the registry of the court, for the purpose of enabling a mediation session to be arranged.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S30.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S30.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The privilege conferred by subsection (2) extends only to a publication made:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S30.3.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.3.A" type="ext"/>(a)</lilabel>
+<p><text>at a mediation session, or</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S30.3.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.3.B" type="ext"/>(b)</lilabel>
+<p><text>in a document or other material sent to or produced to a mediator, or sent to or produced at the court or the registry of the court, for the purpose of enabling a mediation session to be arranged, or</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S30.3.C"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.3.C" type="ext"/>(c)</lilabel>
+<p><text>in circumstances referred to in section 31.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S30.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S30.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S29.2" remotekey1="REFPTID" service="DOC-ID">section 29(2)</remotelink></ci:content></ci:cite>
+:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S30.4.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.4.A" type="ext"/>(a)</lilabel>
+<p><text>evidence of anything said or of any admission made in a mediation session is not admissible in any proceedings before any court or other body, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S30.4.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.4.B" type="ext"/>(b)</lilabel>
+<p><text>a document prepared for the purposes of, or in the course of, or as a result of, a mediation session, or any copy of such a document, is not admissible in evidence in any proceedings before any court or other body.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S30.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S30.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (4) does not apply with respect to any evidence or document: </text></p>
+<l><li id="UCPN.CPA.CPAN05.S30.5.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.5.A" type="ext"/>(a)</lilabel>
+<p><text>if the persons in attendance at, or identified during, the mediation session and, in the case of a document, all persons specified in the document, consent to the admission of the evidence or document, or</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S30.5.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S30.5.B" type="ext"/>(b)</lilabel>
+<p><text>in proceedings commenced with respect to any act or omission in connection with which a disclosure has been made as referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S31..C" remotekey1="REFPTID" service="DOC-ID" status="unval">section 31(c)</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S30.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S30-5" leveltype="para0" subdoc="true" toc-caption="[s 30.5] Enforcement of settlement agreed at mediation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 30.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1968-63" remotekey1="REFPTID" service="DOC-ID">Copyright Act 1968</remotelink> s 30(4)(b), s 29(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S30-5" type="ext"/>[s 30.5] </edpnum><title>Enforcement of settlement agreed at mediation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Evidence is admissible to prove the fact and content of any agreement reached at, or as a result of, a mediation: see CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S92.2" remotekey1="REFPTID" service="DOC-ID" status="unval">s 29(2)</remotelink></ci:content></ci:cite>
+ (contrast <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000244" spanref="cr000244-001"><ci:reporter value="urj"/><ci:refnum num="BC200401620"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wentworth v Rogers</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2004] NSWCA 109; <ci:span spanid="cr000244-001"> BC200401620</ci:span></citefragment> <remotelink dpsi="0018" refpt="377749" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (a decision based on the former provisions of the SCA). This necessarily permits the admission of such evidence where either the fact or the terms of the agreement are contentious. Indeed it may be that, even without its opening qualification, the evidentiary prohibition in CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S30.4.B" remotekey1="REFPTID" service="DOC-ID">s 30(4)(b)</remotelink></ci:content></ci:cite>
+ does not apply to terms of settlement agreed at or after a mediation &#x2014; on the basis that the agreement includes an implied consent any disclosure required for its enforcement: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000245" spanref="cr000245-001"><ci:reporter value="urj"/><ci:refnum num="BC9607062"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">State Bank of New South Wales v Freeman</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000245-001"> (NSWSC, Badgery-Parker J, 31 January 1996, unreported, BC9607062)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000246" spanref="cr000246-001"><ci:reporter value="urj"/><ci:refnum num="BC9705442"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Commonwealth Bank of Australia v McConnell</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000246-001"> (NSWSC, Rolfe J, No 50074/96, 24 July 1997, unreported, BC9705442)</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S30-10" leveltype="para0" subdoc="true" toc-caption="[s 30.10] Evidence of mediation events &#x2014; other than settlement agreement">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 30.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1968-63" remotekey1="REFPTID" service="DOC-ID">Copyright Act 1968</remotelink> s 31(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S30-10" type="ext"/>[s 30.10] </edpnum><title>Evidence of mediation events &#x2014; other than settlement agreement</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Evidence of settlement related negotiations, including communications involved in mediation sessions between parties, are generally not admissible. If the parties participate in consensual mediation, rather than pursuant to a reference under CPA s 26(1) the conditional prohibitions in s 131 of the Evidence Act apply: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000247" spanref="cr000247-001"><ci:reporter value="urj"/><ci:refnum num="BC201106173"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lewis v Lamb</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWSC 873; <ci:span spanid="cr000247-001"> BC201106173</ci:span></citefragment> <remotelink dpsi="0018" refpt="537773" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.
+If the mediation occurs in pursuant to a reference order under CPA s 26(1) evidence related events, conduct and documents is not admissible unless either (i) they are probative of a settlement agreement or (ii) the mediating parties consent, or, perhaps, if the mediator makes a disclosure to the court &#x201c;in connection with the administration of this Part&#x201d;: &#x2014; see CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S31..B" remotekey1="REFPTID" service="DOC-ID" status="unval">s 31(b)</remotelink></ci:content></ci:cite>
+. This evidentiary prohibition includes: </text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>evidence relating to the conduct of the parties at the mediation for example, evidence explaining the reason for the termination of the mediation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1997"/></ci:caseinfo><ci:caseref ID="cr000248" spanref="cr000248-001"><ci:reporter value="NSWLR"/><ci:volume num="42"/><ci:page num="252"/></ci:caseref><ci:caseref ID="cr000249" spanref="cr000249-002" status="unval"><ci:reporter value="NSWConvR"/><ci:page num="55826"/></ci:caseref><ci:caseref ID="cr000250" spanref="cr000250-003"><ci:reporter value="urj"/><ci:refnum num="BC9704295"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gain v Commonwealth Bank of Australia</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000248-001">(1997) 42 NSWLR 252</ci:span>; <ci:span spanid="cr000249-002" status="unval">(1998) NSW Conv R ¶55-826</ci:span>; <ci:span spanid="cr000250-003"> BC9704295</ci:span></citefragment> <remotelink dpsi="0018" refpt="247180" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite></text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>evidence relating to a settlement offer made at the time of a mediation, but not in a formal mediation session: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000251" spanref="cr000251-001"><ci:reporter value="urj"/><ci:refnum num="BC201107168"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Jireh International Pty Ltd t/as Gloria Jean&#x2019;s Coffee v Western Export Services Inc (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWCA 294; <ci:span spanid="cr000251-001"> BC201107168</ci:span></citefragment> <remotelink dpsi="0018" refpt="539310" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite></text></p></li></l></p>
+<p>
+<text>The evidentiary prohibition does not include evidence of cancellation or refusal to attend the mediation: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000252" spanref="cr000252-001"><ci:reporter value="urj"/><ci:refnum num="BC200802023"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Al Mousawy bht Khamis v JA Byatt Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWSC 264; <ci:span spanid="cr000252-001"> BC200802023</ci:span></citefragment> <remotelink dpsi="0018" refpt="454058" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (belated request for adjournment). </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S31"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 31] s 31 Confidentiality (cf Act No 52 1970, section 110Q; Act No 9 1973, section 164G; Act No 11 1970, section 21R)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S31" type="ext"/>[s 31]</edpnum><title searchtype="SECT-TITLE">Confidentiality (cf Act No 52 1970, section 110Q; Act No 9 1973, section 164G; Act No 11 1970, section 21R)</title><desig searchtype="SECT-NUM"><designum>31</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A mediator may disclose information obtained in connection with the administration or execution of this Part only in one or more of the following circumstances:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S31.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S31.A" type="ext"/>(a)</lilabel>
+<p><text>with the consent of the person from whom the information was obtained,</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S31.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S31.B" type="ext"/>(b)</lilabel>
+<p><text>in connection with the administration or execution of this Part, including 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S29.2" remotekey1="REFPTID" service="DOC-ID">section 29(2)</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S31.C"><lilabel><refpt id="UCPN.CPA.CPAN05.S31.C" type="ext"/>(c)</lilabel>
+<p><text>if there are reasonable grounds to believe that the disclosure is necessary to prevent or minimise the danger of injury to any person or damage to any property,</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S31.D"><lilabel><refpt id="UCPN.CPA.CPAN05.S31.D" type="ext"/>(d)</lilabel>
+<p><text>if the disclosure is reasonably required for the purpose of referring any party or parties to a mediation session to any person, agency, organisation or other body and the disclosure is made with the consent of the parties to the mediation session for the purpose of aiding in the resolution of a dispute between those parties or assisting the parties in any other manner,</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S31.E"><lilabel><refpt id="UCPN.CPA.CPAN05.S31.E" type="ext"/>(e)</lilabel>
+<p><text>in accordance with a requirement imposed by or under a law of the State (other than a requirement imposed by a subpoena or other compulsory process) or the Commonwealth.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S32"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 32] s 32 Directions by mediator (cf SCR Part 72C, rule 3)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S32" type="ext"/>[s 32]</edpnum><title searchtype="SECT-TITLE">Directions by mediator (cf SCR Part 72C, rule 3)</title><desig searchtype="SECT-NUM"><designum>32</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the uniform rules and any relevant practice notes, a mediator may, by order, give directions as to the preparation for, and conduct of, the mediation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S33"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 33] s 33 Protection from liability for mediator">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S33" type="ext"/>[s 33]</edpnum><title searchtype="SECT-TITLE">Protection from liability for mediator</title><desig searchtype="SECT-NUM"><designum>33</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A mediator to whom the court refers proceedings has, in the exercise of his or her functions as a mediator in relation to those proceedings, the same protection and immunity as a judicial officer of the court has in the exercise of his or her functions as a judicial officer.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S34"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 34] s 34 Mediation otherwise than under this Part (cf Act No 52 1970, section 110H(2); Act No 9 1973, section 162(2))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S34" type="ext"/>[s 34]</edpnum><title searchtype="SECT-TITLE">Mediation otherwise than under this Part (cf Act No 52 1970, section 110H(2); Act No 9 1973, section 162(2))</title><desig searchtype="SECT-NUM"><designum>34</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part does not prevent:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S34.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S34.A" type="ext"/>(a)</lilabel>
+<p><text>the parties to proceedings from agreeing to and arranging for mediation of any matter otherwise than as referred to in this Part, or</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S34.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S34.B" type="ext"/>(b)</lilabel>
+<p><text>a matter arising in proceedings from being dealt with under the provisions of the Community Justice Centres Act 1983 without having been referred under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S26" remotekey1="REFPTID" service="DOC-ID">section 26</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[s 34  am Act 70 of 2007  s 4 and Sch 2.1[2], effective 25 May 2009 ; Act 106 of 2009  Sch 2.2, effective 8 January 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

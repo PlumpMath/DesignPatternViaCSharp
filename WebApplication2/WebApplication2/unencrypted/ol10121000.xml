@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>COMPENSATION TO RELATIVES ACT 1897 (NSW)</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CTRN.BODY</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor-me"><heading><title>COMPENSATION TO RELATIVES ACT 1897 (NSW)</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140060000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CTRN"/><docinfo:metaitem name="parent-filename" value="ol1012.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">COMPENSATION TO RELATIVES ACT 1897 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1897</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 31, 1897</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>Compensation to Relatives Act No 31 of 1897, assent 6 December 1897, as amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Compensation to Relatives (Amendment) Act 1928 No 8</entry><entry colname="c2">12 June 1928</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Motor Vehicles (Third Party Insurance) Act 1942 No 15</entry><entry colname="c2">29 June 1942</entry><entry colname="c3">s 44: 20 November 1942</entry></row>
+<row><entry colname="c1">Compensation to Relatives (Amendment) Act 1946 No 23</entry><entry colname="c2">4 April 1946</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Compensation to Relatives (Amendment) Act 1953 No 33</entry><entry colname="c2">16 December 1953</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Limitation Act 1969 No 31</entry><entry colname="c2">9 April 1969</entry><entry colname="c3">1 January 1971: s 1(2) and Gaz 106 of 21 August 1970 p 3331</entry></row>
+<row><entry colname="c1">Compensation to Relatives (De Facto Relationships) Amendment Act 1984 No 149</entry><entry colname="c2">10 December 1985</entry><entry colname="c3">1 July 1985: s 2(2) and Gaz 98 of 28 June 1985 p 3001</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1985 No 231</entry><entry colname="c2">18 December 1985</entry><entry colname="c3">s 5 and Sch 31: on assent: s 2(1)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1996 No 121</entry><entry colname="c2">3 December 1996</entry><entry colname="c3">3 March 1997</entry></row>
+<row><entry colname="c1">Property (Relationships) Legislation Amendment Act 1999 No 4</entry><entry colname="c2">7 June 1999</entry><entry colname="c3">28 June 1999</entry></row>
+<row><entry colname="c1">Crimes Legislation Amendment (Sentencing) Act 1999 No 94</entry><entry colname="c2">8 December 1999</entry><entry colname="c3">Sch 4 Pt 3 Div 489: 1 January 2000</entry></row>
+<row><entry colname="c1">Succession Act 2006 No 80</entry><entry colname="c2">27 October 2006</entry><entry colname="c3">1 March 2008</entry></row>
+<row><entry colname="c1">Relationships Register Act 2010 No 19</entry><entry colname="c2">19 May 2010</entry><entry colname="c3">Sch 3.21: on assent (s 2(2))</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2012 No 95</entry><entry colname="c2">21 November 2012</entry><entry colname="c3">4 January 2013</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.CTRN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.CTRN" type="ext"/>COMPENSATION TO RELATIVES ACT 1897 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>AN ACT to consolidate enactments relating to compensation to relatives of persons killed by accidents.</text></p>
+<p>
+<text>BE it enacted by the Queen's Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of New South Wales in Parliament assembled, and by the authority of the same, as follows:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CTRN.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,000] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S1" type="ext"/>[280,000]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the &#x201c;Compensation to Relatives Act 1897&#x201d;.</text></p>
+<leg:histnote>
+<p><text>[s 1  am Act 231 of 1985   s 5 and Sch 31]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,005] s 2 Repeal Schedule">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S2" type="ext"/>[280,005]</edpnum><title searchtype="SECT-TITLE">Repeal Schedule</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The enactments mentioned in the Schedule to this Act to the extent therein expressed are hereby repealed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,010] s 3 An action to be maintainable against any person causing death through neglect, etc, notwithstanding the death of the person injured">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S3" type="ext"/>[280,010]</edpnum><title searchtype="SECT-TITLE">An action to be maintainable against any person causing death through neglect, etc, notwithstanding the death of the person injured</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CTRN.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Whensoever the death of a person is caused by a wrongful act, neglect, or default, and the act, neglect, or default is such as would (if death had not ensued) have entitled the party injured to maintain an action and recover damages in respect thereof, then and in every such case the person who would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured, and although the death has been caused under such circumstances as amount in law to a serious indictable offence.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>11 Vic No 32 s 1</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subs (1)  am Act 8 of 1928   s 2  ; Act 94 of 1999   s 6 and Sch 4.89]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any such action any reasonable expenses of the funeral or the cremation of the deceased person and the reasonable cost of erecting a headstone or tombstone over the grave of the deceased person may be recovered.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>8 Edw VII c 7</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subs (2)  insrt Act 8 of 1928   s 2  ; am Act 15 of 1942   s 44]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In assessing damages in any such action there shall not be taken into account&#x2014;</text></p>
+<l><li id="UCPN.OL.CTRN.S3.3.A"><lilabel><refpt id="UCPN.OL.CTRN.S3.3.A" type="ext"/>(a)</lilabel>
+<p><text>any sum paid or payable on the death of the deceased under any contract of insurance; or</text></p>
+</li>
+<li id="UCPN.OL.CTRN.S3.3.B"><lilabel><refpt id="UCPN.OL.CTRN.S3.3.B" type="ext"/>(b)</lilabel>
+<p><text>any sum paid or payable out of any superannuation, provident, or like fund, or by way of benefit from a friendly society, benefit society, or trade union; or</text></p>
+</li>
+<li id="UCPN.OL.CTRN.S3.3.C"><lilabel><refpt id="UCPN.OL.CTRN.S3.3.C" type="ext"/>(c)</lilabel>
+<p><text>any sum paid or payable by way of pension under:&#x2014;</text></p>
+<l><li id="UCPN.OL.CTRN.S3.3.C.I"><lilabel><refpt id="UCPN.OL.CTRN.S3.3.C.I" type="ext"/>(i)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.WPA25" remotekey1="REFPTID" service="DOC-ID" status="unval">Widows' Pensions Act 1925&#x2013;1942</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li><li id="UCPN.OL.CTRN.S3.3.C.II"><lilabel><refpt id="UCPN.OL.CTRN.S3.3.C.II" type="ext"/>(ii)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.COSMW" remotekey1="REFPTID" service="DOC-ID" status="unval">Coal and Oil Shale Mine Workers (Pensions) Act 1941&#x2013;1942</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li><li id="UCPN.OL.CTRN.S3.3.C.III"><lilabel><refpt id="UCPN.OL.CTRN.S3.3.C.III" type="ext"/>(iii)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ASRA20" remotekey1="REFPTID" service="DOC-ID" status="unval">Australian Soldiers' Repatriation Act 1920&#x2014;1943</remotelink></ci:content></ci:cite>
+ of the Parliament of the Commonwealth;</text></p>
+</li><li id="UCPN.OL.CTRN.S3.3.C.IV"><lilabel><refpt id="UCPN.OL.CTRN.S3.3.C.IV" type="ext"/>(iv)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.WPA42" remotekey1="REFPTID" service="DOC-ID" status="unval">Widows' Pensions Act 1942&#x2013;1945</remotelink></ci:content></ci:cite>
+ of the Parliament of the Commonwealth;</text></p>
+</li><li id="UCPN.OL.CTRN.S3.3.C.V"><lilabel><refpt id="UCPN.OL.CTRN.S3.3.C.V" type="ext"/>(v)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IOAP08" remotekey1="REFPTID" service="DOC-ID" status="unval">Invalid and Old-age Pensions Act 1908&#x2013;1945</remotelink></ci:content></ci:cite>
+ of the Parliament of the Commonwealth;</text></p>
+</li></l>
+<p><text>or under any Act (Commonwealth or State) amending or replacing any such Act.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (3)  insrt Act 8 of 1928   s 2  ; am Act 23 of 1946   s 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.CTRN.S3.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.280010-5" leveltype="para0" subdoc="true" toc-caption="[280,010.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.280010-5" type="ext"/>[280,010.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where an event has occurred between death and trial which has converted a chance relevant to the period or extent of dependency into a certainty then the chance is disregarded and the assessment is based on the facts. For example, the death of the plaintiff <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1940"/></ci:caseinfo><ci:caseref ID="cr000242" spanref="cr000242-001" status="unval"><ci:reporter value="KB"/><ci:volume num="2"/><ci:page num="658"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Williamson v John I Thornycroft &amp; Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000242-001" status="unval">[1940] 2 KB 658</ci:span></citefragment></ci:content></ci:cite> ); the remarriage of the plaintiff: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1946"/></ci:caseinfo><ci:caseref ID="cr000243" spanref="cr000243-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="73"/><ci:page num="105"/></ci:caseref><ci:caseref ID="cr000244" spanref="cr000244-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1946"/></ci:edition><ci:page num="349"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Willis v Commonwealth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000243-001" status="unval">(1946) 73 CLR 105</ci:span>; <ci:span spanid="cr000244-002" status="unval">[1946] ALR 349</ci:span></citefragment> <remotelink dpsi="0018" refpt="37986" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . Whether considering loss to trial or loss thereafter, where an evaluation of loss is to be made which depends on an uncertain event which has not occurred, the evaluation must be made by reference to the chance of the event occurring and not by reference to whether or not the event was or is probable: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1979"/></ci:caseinfo><ci:caseref ID="cr000245" spanref="cr000245-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:page num="543"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McIntosh v Williams</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000245-001">[1979] 2 NSWLR 543</ci:span></citefragment></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1974"/></ci:caseinfo><ci:caseref ID="cr000246" spanref="cr000246-001" status="unval"><ci:reporter value="AC"/><ci:page num="207"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Davies v Taylor</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000246-001" status="unval">[1974] AC 207</ci:span></citefragment> <remotelink dpsi="0018" refpt="129289" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . Damages should not be assessed upon the hypothesis that but for the death, the dependent widow and the deceased would have had children, with a consequent increase in the widow's dependency: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr000247" spanref="cr000247-001"><ci:reporter value="NSWLR"/><ci:volume num="31"/><ci:page num="1"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Halvorsen Boats Pty Ltd v Robinson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000247-001">(1993) 31 NSWLR 1</ci:span></citefragment> <remotelink dpsi="0018" refpt="45654" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,015] s 4 By whom and for whom action may be brought">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S4" type="ext"/>[280,015]</edpnum><title searchtype="SECT-TITLE">By whom and for whom action may be brought</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CTRN.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Every such action shall be for the benefit of the spouse, brother, sister, half-brother, half-sister, parent, and child of the person whose death has been so caused, and shall be brought by and in the name of the executor or administrator of the person deceased, and in every such action the jury may give such damages as they may think proportioned to the injury resulting from such death to the parties respectively for whom and for whose benefit such action is brought, and the amount so recovered, after deducting the costs not recovered from the defendant, shall be divided amongst the before-mentioned parties in such shares as the jury by their verdict find and direct.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 4 of 1999   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If there is more than one spouse of the person whose death has been so caused, the action is (without limiting the application of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CTRN.S4.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ to other persons) for the benefit of each of the spouses, who are to be separate parties to the action.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  subst Act 4 of 1999   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,020] s 5 Only one action shall lie and to be commenced within six years">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S5" type="ext"/>[280,020]</edpnum><title searchtype="SECT-TITLE">Only one action shall lie and to be commenced within six years</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Not more than one action shall lie for and in respect of the same subject matter of complaint.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>11 Vic No 32 s 3</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[s 5  am Act 33 of 1953   s 2  ; Act 31 of 1969   Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,025] s 6 Plaintiff to deliver a full particular of the person for whom such damages shall be claimed">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S6" type="ext"/>[280,025]</edpnum><title searchtype="SECT-TITLE">Plaintiff to deliver a full particular of the person for whom such damages shall be claimed</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In every such action the plaintiff on the record shall be required, together with the declaration, to deliver to the defendant or the defendant's attorney a full particular of the persons for whom and on whose behalf such action is brought, and of the nature of the claim in respect of which damages are sought to be recovered.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>11 Vic No 32 s 4</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[s 6  am Act 121 of 1996   s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,030] s 6A Payment into court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S6A" type="ext"/>[280,030]</edpnum><title searchtype="SECT-TITLE">Payment into court</title><desig searchtype="SECT-NUM"><designum>6A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CTRN.S6A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In every such action the defendant may pay money into court as a compensation in one sum to all persons entitled under this Act for the wrongful act neglect or default without specifying the shares into which the sum is to be divided by the jury.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the sum paid in is not accepted, and if an issue is taken by the plaintiff as to its sufficiency, and the jury think the same sufficient, the defendant shall be entitled to the verdict upon that issue.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>No portion of the sum paid in shall be paid out of court except under the order of a judge.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>27 &amp; 28 Vic c 95 s 2</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 6A  insrt Act 8 of 1928   s 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6B"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,035] s 6B Alternative action">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S6B" type="ext"/>[280,035]</edpnum><title searchtype="SECT-TITLE">Alternative action</title><desig searchtype="SECT-NUM"><designum>6B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CTRN.S6B.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6B.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where there is no executor or administrator of the person deceased, or where the person's executor or administrator does not bring an action under this Act within six months after the death of the person deceased, the person or any one or more of the persons for whose benefit the action might be brought by such an executor or administrator may bring the action.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 121 of 1996   s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6B.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6B.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any action so brought shall be for the benefit of the same person or persons and shall be subject to the same provisions and procedure, as nearly as may be, as if it were brought by such an executor or administrator.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>11 Vic No 32 s 1</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[s 6B  insrt Act 8 of 1928   s 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6C"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,040] s 6C Survival of action">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S6C" type="ext"/>[280,040]</edpnum><title searchtype="SECT-TITLE">Survival of action</title><desig searchtype="SECT-NUM"><designum>6C</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CTRN.S6C.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6C.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Every action and cause of action under this Act shall survive notwithstanding the death of the wrongdoer.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6C.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6C.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (2)  rep Act 31 of 1969   Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6C.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6C.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any damages recovered against the executor or administrator shall be payable in like order of administration as the debts of the wrongdoer.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>5 Vic No 9 s 30</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[s 6C  insrt Act 8 of 1928   s 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6D"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,045] s 6D Action before judge without jury">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S6D" type="ext"/>[280,045]</edpnum><title searchtype="SECT-TITLE">Action before judge without jury</title><desig searchtype="SECT-NUM"><designum>6D</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where an action under this Act is tried before a judge without a jury, the provisions of this Act with respect to a jury and to the verdict of a jury shall be construed as applying to a judge and to the judgment of a court, as the case may be.</text></p>
+<leg:histnote>
+<p><text>[s 6D  insrt Act 8 of 1928   s 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6E"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,050] s 6E Application of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S6E" type="ext"/>[280,050]</edpnum><title searchtype="SECT-TITLE">Application of Act</title><desig searchtype="SECT-NUM"><designum>6E</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CTRN.S6E.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6E.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act applies whether the subject-matter of the complaint arises within or outside New South Wales, and whether the wrongdoer, the person whose death has been caused, or any other person concerned was or is a British subject or not.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6E.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6E.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act applies to actions commenced either before or after the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CTRA28.S78" remotekey1="REFPTID" service="DOC-ID" status="unval">Compensation to Relatives (Amendment) Act 1928 </remotelink></ci:content></ci:cite>
+ .</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S6E.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S6E.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act shall bind the Crown.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 6E  insrt Act 8 of 1928   s 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,055] s 7 Construction of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S7" type="ext"/>[280,055]</edpnum><title searchtype="SECT-TITLE">Construction of Act</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CTRN.S7.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The following words are intended to have the meanings hereby assigned to them respectively, so far as such meanings are not excluded by the context or by the nature of the subject matter, that is to say, the word &quot;parent&quot; shall include father and mother, and grandfather and grandmother, and stepfather and stepmother, and any person standing in loco parentis to another; and the word &quot;child&quot; shall include son and daughter, and grandson and granddaughter, and stepson and stepdaughter, and any person to whom another stands in loco parentis; and the word &quot;declaration&quot; shall include any statement of the cause of action appropriate to the court in which the action is brought.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 149 of 1984   s 3 and Sch 1(2)  ; Act 4 of 1999   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S7.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S7.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (1A)  rep Act 4 of 1999   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S7.1B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S7.1B" type="ext"/>(1B)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (1B)  rep Act 4 of 1999   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S7.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act <defterm><emph typestyle="bf">administrator</emph></defterm>  means administrator within the meaning of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.WPAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Probate and Administration Act 1898</remotelink></ci:content></ci:cite>
+ , and includes the NSW Trustee and Guardian acting as collector of an estate under an order to collect.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  insrt Act 8 of 1928   s 2,; am Act 80 of 2006  s 59 and Sch 3.3, effective 1 March 2008 ; Act 95 of 2012  Sch 2 item 2.5, effective 4 January 2013]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S7.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act <defterm><emph typestyle="bf">executor</emph></defterm>  means the executor to whom probate has been granted and includes an executor by right of representation.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  insrt Act 8 of 1928   s 2]</text></p></leg:histnote>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>11 Vic No 32 s 5</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[s 7  am Act 8 of 1928   s 2  ; Act 15 of 1942   s 44]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S7.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CTRN.S7.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, <defterm><emph typestyle="bf">spouse</emph></defterm>  means:</text></p>
+<l><li id="UCPN.OL.CTRN.S7.4.A"><lilabel><refpt id="UCPN.OL.CTRN.S7.4.A" type="ext"/>(a)</lilabel>
+<p><text>a husband or wife, or</text></p>
+</li>
+<li id="UCPN.OL.CTRN.S7.4.B"><lilabel><refpt id="UCPN.OL.CTRN.S7.4.B" type="ext"/>(b)</lilabel>
+<p><text>a de facto partner.</text></p>
+<p>
+<glp:note>
+<heading><title>Note.</title></heading>
+<p>
+<text>&#x201c;De facto partner&#x201d; is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S21C" remotekey1="REFPTID" service="DOC-ID">section 21C</remotelink></ci:content></ci:cite>
+ of the Interpretation Act 1987.</text></p></glp:note>
+</p></li>
+</l><leg:histnote>
+<p><text>[subs (4)  insrt Act 4 of 1999   s 4 and Sch 2; am Act 19 of 2010  Sch 3.21, effective 19 May 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CTRN.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[280,060] s 8 Rights of action in respect of past events">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CTRN.S8" type="ext"/>[280,060]</edpnum><title searchtype="SECT-TITLE">Rights of action in respect of past events</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The amendments made to this Act by the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="QQQ" remotekey1="REFPTID" service="DOC-ID" status="unval">Property (Relationships) Legislation Amendment Act 1999</remotelink></ci:content></ci:cite>
+ do not operate to confer on any person a right of action in relation to any act, neglect or default that took place before those amendments took effect.</text></p>
+<leg:histnote>
+<p><text>[s 8  insrt Act 4 of 1999   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>LAW REFORM (LAW AND EQUITY) ACT 1972 (NSW)</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.LRLEN.BODY</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>LAW REFORM (LAW AND EQUITY) ACT 1972 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>LAW REFORM (LAW AND EQUITY) ACT 1972 (NSW)</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140220000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.LRLEN"/><docinfo:metaitem name="parent-filename" value="ol1044.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">LAW REFORM (LAW AND EQUITY) ACT 1972 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1972</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 28, 1972</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>Law Reform (Law and Equity) Act No 28 of 1972, assent 11 April 1972, commencement 1 July 1972, as amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Acts Reprinting Act 1972 No 48</entry><entry colname="c2">9 October 1972</entry><entry colname="c3">Order of 2 October 1979 (Gaz 138 of 5 October 1979 p 5009) declaring that the Law Reform (Law and Equity) Act 1972 is an enactment to which ss 8(2) and 9(3) of Acts Reprinting Act 1972 apply.</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1999 No 85</entry><entry colname="c2">3 December 1999</entry><entry colname="c3">3 December 1999</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.LRLEN.BODY" subdoc="false"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.LRLEN" type="ext"/>LAW REFORM (LAW AND EQUITY) ACT 1972 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>AN ACT to provide that the rules of equity shall prevail over the rules of the common law in cases of conflict or variance; to extend the defences available in inferior courts; to repeal certain sections of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12" remotekey1="REFPTID" service="DOC-ID" status="unval">District Courts Act 1912</remotelink></ci:content></ci:cite>
+ , and the Supreme Court Act 1970; and for the purposes connected therewith.</text></p>
+<p>
+<text>BE it enacted by the Queen's Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of New South Wales in Parliament assembled, and by the authority of the same, as follows:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.LRLEN.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[350,000] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LRLEN.S1" type="ext"/>[350,000]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the &quot;Law Reform (Law and Equity) Act 1972&quot;.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LRLEN.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[350,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LRLEN.S2" type="ext"/>[350,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act shall commence on a day to be appointed by the Governor and notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LRLEN.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[350,010] s 3 Repeal and amendment">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LRLEN.S3" type="ext"/>[350,010]</edpnum><title searchtype="SECT-TITLE">Repeal and amendment</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.LRLEN.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LRLEN.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.S74" remotekey1="REFPTID" service="DOC-ID" status="unval">Section seventy-four of the District Courts Act 1912</remotelink></ci:content></ci:cite>
+ , is repealed, but this repeal does not affect proceedings commenced in a district court before the commencement of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LRLEN.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LRLEN.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (2)  rep Act No 85 of 1999  Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LRLEN.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.LRLEN.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (3)  rep Act No 85 of 1999  Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LRLEN.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[350,015] s 4 Application">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LRLEN.S4" type="ext"/>[350,015]</edpnum><title searchtype="SECT-TITLE">Application</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LRLEN.S5" remotekey1="REFPTID" service="DOC-ID">Sections five</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LRLEN.S6" remotekey1="REFPTID" service="DOC-ID">six</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LRLEN.S7" remotekey1="REFPTID" service="DOC-ID">seven</remotelink></ci:content></ci:cite>
+ of this Act do not apply in proceedings commenced in any court before the commencement of this Act, but do apply in proceedings commenced after the commencement of this Act, no matter when the events happen which give rise to the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LRLEN.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[350,020] s 5 Rules of equity to prevail">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LRLEN.S5" type="ext"/>[350,020]</edpnum><title searchtype="SECT-TITLE">Rules of equity to prevail</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In all matters in which there was immediately before the commencement of this Act or is any conflict or variance between the rules of equity and the rules of common law relating to the same matter, the rules of equity shall prevail.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.LRLEN.S5.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.350020-5" leveltype="para0" subdoc="true" toc-caption="[350,020.5]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [350,020.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1972-28" remotekey1="REFPTID" service="DOC-ID">Law Reform (Law and Equity) Act 1972</remotelink> s 7.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.350020-5" type="ext"/>[350,020.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This Act applies, subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LRLEN.S7" remotekey1="REFPTID" service="DOC-ID">s 7</remotelink></ci:content></ci:cite>
+ , to all courts. It does not abolish the distinction between law and equity nor between legal estates and equitable estates: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1884"/></ci:caseinfo><ci:caseref ID="cr000332" spanref="cr000332-001" status="unval"><ci:reporter value="QBD"/><ci:volume num="15"/><ci:page num="280"/></ci:caseref><ci:caseref anaphref="cr000332" spanref="cr000332-002" status="unval"><ci:pinpoint num="285" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Joseph v Lyons</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000332-001" status="unval">(1884) 15 QBD 280</ci:span> <ci:span spanid="cr000332-002" status="unval">at 285</ci:span></citefragment> <remotelink dpsi="0018" refpt="182324" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000333" spanref="cr000333-001" status="unval"><ci:reporter value="CH"/><ci:volume num="2"/><ci:edition><ci:date year="1901"/></ci:edition><ci:page num="608"/></ci:caseref><ci:caseref anaphref="cr000333" spanref="cr000333-002" status="unval"><ci:pinpoint num="617" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Manchester Brewery Co v Coombs</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000333-001" status="unval">[1901] 2 Ch 608</ci:span> <ci:span spanid="cr000333-002" status="unval">at 617</ci:span></citefragment></ci:content></ci:cite> . </text></p>
+<p>
+<text>Neither this Act nor the Supreme Court Act 1970 &quot;fuse&quot; the principles of law and equity, the principles run side by side, only the systems of administering such principles have changed: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1971"/></ci:caseinfo><ci:caseref ID="cr000334" spanref="cr000334-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="124"/><ci:page num="367"/></ci:caseref><ci:caseref anaphref="cr000334" spanref="cr000334-002" status="unval"><ci:pinpoint num="392" targettype="page"/></ci:caseref><ci:caseref ID="cr000335" spanref="cr000335-003" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="33"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Felton v Mulligan</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000334-001" status="unval">(1971) 124 CLR 367</ci:span> <ci:span spanid="cr000334-002" status="unval">at 392</ci:span>; <ci:span spanid="cr000335-003" status="unval">[1972] ALR 33</ci:span></citefragment> <remotelink dpsi="0018" refpt="7146" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000336" spanref="cr000336-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1974"/></ci:edition><ci:page num="622"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">O'Rourke v Hoeven</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000336-001">[1974] 1 NSWLR 622</ci:span></citefragment></ci:content></ci:cite> . See also the discussion on the &quot;Fusion Fallacy&quot; in R Meagher, D Heydon, M Leeming <emph typestyle="it">Meagher, Gummow and Lehane's Equity Doctrines and Remedies</emph> , 4th ed, 2002, LexisNexis Butterworths, Sydney, [2-100] ff.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LRLEN.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[350,025] s 6 Defence in inferior court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LRLEN.S6" type="ext"/>[350,025]</edpnum><title searchtype="SECT-TITLE">Defence in inferior court</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Every inferior court shall in every proceeding before it give such and the like effect to every ground of defence, equitable or legal, in as full and ample a manner as might and ought to be done in the like case by the Supreme Court under the Supreme Court Act 1970.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.LRLEN.S6.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.350025-5" leveltype="para0" subdoc="true" toc-caption="[350,025.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.350025-5" type="ext"/>[350,025.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The only categories of equitable defence which can be entertained in the District Court are:</text>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>a defence of an equity such as unclean hands or laches which developed in equity as disentitlement of the plaintiff from relief in that jurisdiction as distinct from what essentially is a claim asserted by the defendant to independent relief which must be made out before he or she can defend the action of the plaintiff in the current proceedings; and</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>a defence of an equitable right or interest pursuant to an agreement in respect of which the District Court has jurisdiction to grant specific performance at least in cases where the defence is accompanied by a cross-claim for specific performance: R Meagher, D Heydon, M Leeming <emph typestyle="it">Meagher, Gummow and Lehane's Equity Doctrines and Remedies</emph> , 4th ed, 2002, LexisNexis Butterworths, Sydney, [2-245]; <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Yahl v Bridgeport Customs Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (SC(NSW), Allen M, CLD 11290/84, 31 July 1984, unreported)</citefragment></ci:content></ci:cite> .</text></p></li></l></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.LRLEN.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[350,030] s 7 Jurisdiction as to relief not enlarged">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.LRLEN.S7" type="ext"/>[350,030]</edpnum><title searchtype="SECT-TITLE">Jurisdiction as to relief not enlarged</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not enlarge the jurisdiction of any court as regards the nature or extent of the relief available in that court, but any court may, for the purpose of giving effect to sections five and six of this Act, postpone the grant of any relief, or grant relief subject to such terms and conditions as the nature of the case requires.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.LRLEN.S7.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.350030-5" leveltype="para0" subdoc="true" toc-caption="[350,030.5]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [350,030.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1972-28" remotekey1="REFPTID" service="DOC-ID">Law Reform (Law and Equity) Act 1972</remotelink> s 6.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> s 44(1)(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.350030-5" type="ext"/>[350,030.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Apart from the situations referred to in the notes to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LRLEN.S6" remotekey1="REFPTID" service="DOC-ID">s 6</remotelink></ci:content></ci:cite>
+ , or any other specific equitable power given to the District Court, see for example, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN.S44.1.B" remotekey1="REFPTID" service="DOC-ID" status="unval">s 44(1)(b)</remotelink></ci:content></ci:cite>
+ of the District Court Act 1973, the District Court has no power to exercise equitable jurisdiction nor does this Act confer such power on it: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1975"/></ci:caseinfo><ci:caseref ID="cr000337" spanref="cr000337-001" status="unval"><ci:reporter value="BPR"/><ci:volume num="1"/><ci:page num="9642"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Joblin v Carney</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000337-001" status="unval">(1975) 1 BPR 9642</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+<p>
+<text>Semble, if an equitable matter arises in the District Court outside the court's jurisdiction, then the proper procedure is either to apply to remove the proceedings into the Supreme Court or to adjourn the District Court proceedings so that the part raising the matter can apply to the Supreme Court. The same comment would apply if equitable matters arose in a magistrate's court.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:body>
+</LEGDOC>

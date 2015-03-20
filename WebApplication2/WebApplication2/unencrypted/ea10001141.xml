@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[51,885] PART 1 DEFINITIONS</docinfo:doc-heading><docinfo:doc-id>UCPN.EA.EAN95.DICT1.DPT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Evidence</title></heading><docinfo:hierlev role="ancestor"><heading><title>EVIDENCE ACT 1995 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>DICTIONARY</title></heading><docinfo:hierlev role="me"><heading><title>[51,885] PART 1 DEFINITIONS</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110000470</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.EA"/><docinfo:metaitem name="parent-filename" value="ea.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_EA.SGM_UCPN.EA.EAN95"/><docinfo:metaitem name="parent-filename" value="ea1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 25, 1995</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">EVIDENCE ACT 1995 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.EA.EAN95.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.DICT1"><leg:level-vrnt leveltype="dictionary" searchtype="LEGISLATION DICTIONARY" subdoc="false" toc-caption="DICTIONARY">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title searchtype="DICT-TITLE"><refpt id="UCPN.EA.EAN95.DICT1" type="ext"/>DICTIONARY</title><leg:empleg><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S3" remotekey1="REFPTID" service="DOC-ID">Section 3</remotelink></leg:empleg></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.DICT1.DPT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="[51,885] PART 1 DEFINITIONS">
+<leg:heading><edpnum><refpt id="UCPN.EA.EAN95.DICT1.DPT1" type="ext"/>[51,885]</edpnum><desig searchtype="PART-NUM"><designum>PART 1</designum></desig><title searchtype="PART-TITLE">DEFINITIONS</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.ACT-COURT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ACT-COURT" type="ext"/><emph typestyle="bf">ACT court</emph></defterm></defitem></deflist>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act includes a definition of this term.</text></p></glp:note>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.ADMISSION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ADMISSION" type="ext"/><emph typestyle="bf">admission</emph></defterm> <defdesc>
+<p><text>means a previous representation that is:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.ADMISSION..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ADMISSION..A" type="ext"/>(a)</lilabel>
+<p><text>made by a person who is or becomes a party to a proceeding (including a defendant in a criminal proceeding), and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.ADMISSION..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ADMISSION..B" type="ext"/>(b)</lilabel>
+<p><text>adverse to the person's interest in the outcome of the proceeding.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.ASSERTED-FACT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ASSERTED-FACT" type="ext"/><emph typestyle="bf">asserted fact</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S59" remotekey1="REFPTID" service="DOC-ID">section 59</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.ASSOCIATED-DEFENDANT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ASSOCIATED-DEFENDANT" type="ext"/><emph typestyle="bf">associated defendant,</emph></defterm> <defdesc>
+<p><text>in relation to a defendant in a criminal proceeding, means a person against whom a prosecution has been instituted, but not yet completed or terminated, for:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.ASSOCIATED-DEFENDANT..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ASSOCIATED-DEFENDANT..A" type="ext"/>(a)</lilabel>
+<p><text>an offence that arose in relation to the same events as those in relation to which the offence for which the defendant is being prosecuted arose, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.ASSOCIATED-DEFENDANT..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ASSOCIATED-DEFENDANT..B" type="ext"/>(b)</lilabel>
+<p><text>an offence that relates to or is connected with the offence for which the defendant is being prosecuted.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIA"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIA" type="ext"/><emph typestyle="bf">Australia</emph></defterm> <defdesc>
+<p><text>includes the external Territories.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT" type="ext"/><emph typestyle="bf">Australian court</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..A" type="ext"/>(a)</lilabel>
+<p><text>the High Court, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..B" type="ext"/>(b)</lilabel>
+<p><text>a court exercising federal jurisdiction, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..C"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..C" type="ext"/>(c)</lilabel>
+<p><text>a court of a State or Territory, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..D"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..D" type="ext"/>(d)</lilabel>
+<p><text>a judge, justice or arbitrator under an Australian law, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..E"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..E" type="ext"/>(e)</lilabel>
+<p><text>a person or body authorised by an Australian law, or by consent of parties, to hear, receive and examine evidence, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..F"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-COURT..F" type="ext"/>(f)</lilabel>
+<p><text>a person or body that, in exercising a function under an Australian law, is required to apply the laws of evidence.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-LAW"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-LAW" type="ext"/><emph typestyle="bf">Australian law</emph></defterm> <defdesc>
+<p><text>means a law of the Commonwealth, a State or a Territory.</text></p>
+</defdesc>
+<glp:note id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-LAW.NT1">
+<heading><title>Note:</title></heading>
+<p>
+<text>See 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS9" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 9</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary for the meaning of &quot;law&quot;.</text></p></glp:note>
+</defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-LAWYER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-LAWYER" type="ext"/><emph typestyle="bf">Australian lawyer</emph></defterm><defdesc>
+<p><text>has the meaning it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04" remotekey1="REFPTID" service="DOC-ID">Legal Profession Act 2004</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[81], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-LEGAL-PRACTITIONER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-LEGAL-PRACTITIONER" type="ext"/><emph typestyle="bf">Australian legal practitioner</emph></defterm><defdesc>
+<p><text>has the meaning it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04" remotekey1="REFPTID" service="DOC-ID">Legal Profession Act 2004</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[81], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-OR-OVERSEAS-PROCEEDING"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-OR-OVERSEAS-PROCEEDING" type="ext"/><emph typestyle="bf">Australian or overseas proceeding</emph></defterm> <defdesc>
+<p><text>means a proceeding (however described) in an Australian court or a foreign court.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-PARLIAMENT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-PARLIAMENT" type="ext"/><emph typestyle="bf">Australian Parliament</emph></defterm> <defdesc>
+<p><text>means Parliament, the Parliament of the Commonwealth or another State or the Legislative Assembly of a Territory.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-PRACTISING-CERTIFICATE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-PRACTISING-CERTIFICATE" type="ext"/><emph typestyle="bf">Australian practising certificate</emph></defterm><defdesc>
+<p><text>has the meaning it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04" remotekey1="REFPTID" service="DOC-ID">Legal Profession Act 2004</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[81], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-REGISTERED-FOREIGN-LAWYER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-REGISTERED-FOREIGN-LAWYER" type="ext"/><emph typestyle="bf">Australian-registered foreign lawyer </emph></defterm><defdesc>
+<p><text>has the meaning it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04" remotekey1="REFPTID" service="DOC-ID">Legal Profession Act 2004</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[81], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-STATISTICIAN"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.AUSTRALIAN-STATISTICIAN" type="ext"/><emph typestyle="bf">Australian Statistician</emph></defterm> <defdesc>
+<p><text>means the Australian Statistician referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ABS.S5.2" remotekey1="REFPTID" service="DOC-ID" status="unval">section 5(2)</remotelink></ci:content></ci:cite>
+ of the Australian Bureau of Statistics Act 1975 of the Commonwealth, and includes any person to whom the powers of the Australian Statistician under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CEN.S12" remotekey1="REFPTID" service="DOC-ID" status="unval">section 12</remotelink></ci:content></ci:cite>
+ of the Census and Statistics Act 1905 of the Commonwealth have been delegated.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.BUSINESS"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.BUSINESS" type="ext"/><emph typestyle="bf">business</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS1" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 1</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CASE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CASE" type="ext"/><emph typestyle="bf">case</emph></defterm> <defdesc>
+<p><text>of a party means the facts in issue in respect of which the party bears the legal burden of proof.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CHILD"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CHILD" type="ext"/><emph typestyle="bf">child</emph></defterm> <defdesc>
+<p><text>means a child of any age and includes the meaning given in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS10.1" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 10(1)</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CIVIL-PENALTY"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CIVIL-PENALTY" type="ext"/><emph typestyle="bf">civil penalty</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS3" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 3</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CIVIL-PROCEEDING"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CIVIL-PROCEEDING" type="ext"/><emph typestyle="bf">civil proceeding</emph></defterm> <defdesc>
+<p><text>means a proceeding other than a criminal proceeding.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CLIENT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CLIENT" type="ext"/><emph typestyle="bf">client</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S117" remotekey1="REFPTID" service="DOC-ID">section 117</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.COINCIDENCE-EVIDENCE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COINCIDENCE-EVIDENCE" type="ext"/><emph typestyle="bf">coincidence evidence</emph></defterm> <defdesc>
+<p><text>means evidence of a kind referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S98.1" remotekey1="REFPTID" service="DOC-ID">section 98(1)</remotelink></ci:content></ci:cite>
+ that a party seeks to have adduced for the purpose referred to in that subsection.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.COINCIDENCE-RULE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COINCIDENCE-RULE" type="ext"/><emph typestyle="bf">coincidence rule</emph></defterm> <defdesc>
+<p><text>means 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S98.1" remotekey1="REFPTID" service="DOC-ID">section 98(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-OWNED-BODY-CORPORATE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-OWNED-BODY-CORPORATE" type="ext"/><emph typestyle="bf">Commonwealth owned body corporate</emph></defterm> <defdesc>
+<p><text>means a body corporate that, were the Commonwealth a body corporate, would, for the purposes of the Corporations Act 2001 of the Commonwealth, be:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-OWNED-BODY-CORPORATE..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-OWNED-BODY-CORPORATE..A" type="ext"/>(a)</lilabel>
+<p><text>a wholly-owned subsidiary of the Commonwealth, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-OWNED-BODY-CORPORATE..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-OWNED-BODY-CORPORATE..B" type="ext"/>(b)</lilabel>
+<p><text>a wholly-owned subsidiary of another body corporate that is, under this definition, a Commonwealth owned body corporate because of the application of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-OWNED-BODY-CORPORATE..A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ (including the application of that paragraph together with another application or other applications of this paragraph).</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 34 of 2001  Sch 4]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD" type="ext"/><emph typestyle="bf">Commonwealth record</emph></defterm> <defdesc>
+<p><text>means a record made by:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..A" type="ext"/>(a)</lilabel>
+<p><text>a Department within the meaning of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PSA99" remotekey1="REFPTID" service="DOC-ID" status="unval">Public Service Act 1999</remotelink></ci:content></ci:cite>
+ of the Commonwealth, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..B" type="ext"/>(b)</lilabel>
+<p><text>the Parliament, a House of the Parliament, a committee of a House of the Parliament or a committee of the Parliament, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..C"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..C" type="ext"/>(c)</lilabel>
+<p><text>a person or body other than a Legislative Assembly holding office, or exercising power, under or because of the Commonwealth Constitution or a law of the Commonwealth, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D" type="ext"/>(d)</lilabel>
+<p><text>a body or organisation other than a Legislative Assembly, whether incorporated or unincorporated, established for a public purpose:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D.I"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D.I" type="ext"/>(i)</lilabel>
+<p><text>by or under a law of the Commonwealth or of a Territory (other than the Australian Capital Territory, the Northern Territory or Norfolk Island), or</text></p>
+</li><li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D.II"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D.II" type="ext"/>(ii)</lilabel>
+<p><text>by the Governor-General, or</text></p>
+</li><li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D.III"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D.III" type="ext"/>(iii)</lilabel>
+<p><text>by a Minister of the Commonwealth, or</text></p>
+</li></l></li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..E"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..E" type="ext"/>(e)</lilabel>
+<p><text>any other body or organisation that is a Commonwealth owned body corporate,</text></p>
+</li>
+</l>
+<p><text>and kept or maintained by a person, body or organisation of a kind referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..B" remotekey1="REFPTID" service="DOC-ID">(b)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..C" remotekey1="REFPTID" service="DOC-ID">(c)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..D" remotekey1="REFPTID" service="DOC-ID">(d)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT1.COMMONWEALTH-RECORD..E" remotekey1="REFPTID" service="DOC-ID">(e)</remotelink></ci:content></ci:cite>
+, but does not include a record made by a person or body holding office, or exercising power, under or because of the Commonwealth Constitution or a law of the Commonwealth if the record was not made in connection with holding the office concerned, or exercising the power concerned.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act No 53 of 2000  Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CONFIDENTIAL-COMMUNICATION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CONFIDENTIAL-COMMUNICATION" type="ext"/><emph typestyle="bf">confidential communication</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S117" remotekey1="REFPTID" service="DOC-ID">section 117</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CONFIDENTIAL-DOCUMENT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CONFIDENTIAL-DOCUMENT" type="ext"/><emph typestyle="bf">confidential document</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S117" remotekey1="REFPTID" service="DOC-ID">section 117</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.COURT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.COURT" type="ext"/><emph typestyle="bf">court</emph></defterm> <defdesc>
+<p><text>means NSW court.</text></p>
+</defdesc></defitem></deflist>
+<glp:note>
+<heading><title>Notes:</title><desig><designum>1</designum></desig></heading>
+<p>
+<text>NSW court is defined in this Dictionary.</text></p></glp:note>
+<glp:note>
+<heading><desig><designum>2</designum></desig></heading>
+<p>
+<text>The Commonwealth Act does not include this definition.</text></p></glp:note>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CREDIBILITY-OF-A-PERSON"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CREDIBILITY-OF-A-PERSON" type="ext"/><emph typestyle="bf">credibility</emph></defterm> <defdesc>
+<p><text>of a person who has made a representation that has been admitted in evidence means the credibility of the representation, and includes the person's ability to observe or remember facts and events about which the person made the representation.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 55 of 1997  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CREDIBILITY-OF-A-WITNESS"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CREDIBILITY-OF-A-WITNESS" type="ext"/><emph typestyle="bf">credibility</emph></defterm> <defdesc>
+<p><text>of a witness means the credibility of any part or all of the evidence of the witness, and includes the witness's ability to observe or remember facts and events about which the witness has given, is giving or is to give evidence.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CREDIBILITY-EVIDENCE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CREDIBILITY-EVIDENCE" type="ext"/><emph typestyle="bf">credibility evidence</emph></defterm><defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S101A" remotekey1="REFPTID" service="DOC-ID">section 101A</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[82], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CREDIBILITY-RULE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CREDIBILITY-RULE" type="ext"/><emph typestyle="bf">credibility rule</emph></defterm> <defdesc>
+<p><text>means 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S102" remotekey1="REFPTID" service="DOC-ID">section 102</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CRIMINAL-PROCEEDING"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CRIMINAL-PROCEEDING" type="ext"/><emph typestyle="bf">criminal proceeding</emph></defterm> <defdesc>
+<p><text>means a prosecution for an offence and includes:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.CRIMINAL-PROCEEDING..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CRIMINAL-PROCEEDING..A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding for the committal of a person for trial or sentence for an offence, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.CRIMINAL-PROCEEDING..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CRIMINAL-PROCEEDING..B" type="ext"/>(b)</lilabel>
+<p><text>a proceeding relating to bail,</text></p>
+</li>
+</l>
+<p><text>but does not include a prosecution for an offence that is a prescribed taxation offence within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TAA.PT3" remotekey1="REFPTID" service="DOC-ID" status="unval">Part III</remotelink></ci:content></ci:cite>
+ of the Taxation Administration Act 1953 of the Commonwealth.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CROSS-EXAMINATION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CROSS-EXAMINATION" type="ext"/><emph typestyle="bf">cross-examination</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.CL2.2" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 2(2)</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.CROSS-EXAMINER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.CROSS-EXAMINER" type="ext"/><emph typestyle="bf">cross-examiner</emph></defterm> <defdesc>
+<p><text>means a party who is cross-examining a witness.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.DE-FACTO-PARTNER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.DE-FACTO-PARTNER" type="ext"/><emph typestyle="bf">de facto partner</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DPT2.CL11" remotekey1="REFPTID" service="DOC-ID">clause 11</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act No 46 of 2007  s 3 and Sch 1[83], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT" type="ext"/><emph typestyle="bf">document</emph></defterm> <defdesc>
+<p><text>means any record of information, and includes:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT..A" type="ext"/>(a)</lilabel>
+<p><text>anything on which there is writing, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT..B" type="ext"/>(b)</lilabel>
+<p><text>anything on which there are marks, figures, symbols or perforations having a meaning for persons qualified to interpret them, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT..C"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT..C" type="ext"/>(c)</lilabel>
+<p><text>anything from which sounds, images or writings can be reproduced with or without the aid of anything else, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT..D"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.DOCUMENT..D" type="ext"/>(d)</lilabel>
+<p><text>a map, plan, drawing or photograph.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>See also 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS8" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 8</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary on the meaning of &quot;document&quot;.</text></p></glp:note>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.ELECTRONIC-COMMUNICATION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.ELECTRONIC-COMMUNICATION" type="ext"/><emph typestyle="bf">electronic communication</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ETAN00" remotekey1="REFPTID" service="DOC-ID" status="unval">Electronic Transactions Act 2000</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[84], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.EXAMINATION-IN-CHIEF"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.EXAMINATION-IN-CHIEF" type="ext"/><emph typestyle="bf">examination in chief</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS2.1" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 2(1)</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.EXERCISE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.EXERCISE" type="ext"/><emph typestyle="bf">exercise</emph></defterm> <defdesc>
+<p><text>of a function includes performance of a duty.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.FAX"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.FAX" type="ext"/><emph typestyle="bf">fax,</emph></defterm> <defdesc>
+<p><text>in relation to a document, means a copy of the document that has been reproduced by facsimile telegraphy.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.FEDERAL-COURT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.FEDERAL-COURT" type="ext"/><emph typestyle="bf">federal court</emph></defterm></defitem></deflist>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act includes a definition of this term.</text></p></glp:note>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.FOREIGN-COURT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.FOREIGN-COURT" type="ext"/><emph typestyle="bf">foreign court</emph></defterm> <defdesc>
+<p><text>means any court (including any person or body authorised to take or receive evidence, whether on behalf of a court or otherwise and whether or not the person or body is empowered to require the answering of questions or the production of documents) of a foreign country or a part of such a country.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.FUNCTION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.FUNCTION" type="ext"/><emph typestyle="bf">function</emph></defterm> <defdesc>
+<p><text>includes power, authority or duty.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.GOVERNMENT-OR-OFFICIAL-GAZETTE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.GOVERNMENT-OR-OFFICIAL-GAZETTE" type="ext"/><emph typestyle="bf">government or official gazette</emph></defterm> <defdesc>
+<p><text>includes the Gazette and the Teaching Services Gazette.</text></p>
+</defdesc></defitem></deflist>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth definition of this term differs from this definition.</text></p></glp:note>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.GOVERNOR-OF-A-STATE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.GOVERNOR-OF-A-STATE" type="ext"/><emph typestyle="bf">Governor of a State</emph></defterm> <defdesc>
+<p><text>includes any person for the time being administering the Government of the State.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.GOVERNOR-GENERAL"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.GOVERNOR-GENERAL" type="ext"/><emph typestyle="bf">Governor-General</emph></defterm> <defdesc>
+<p><text>means Governor-General of the Commonwealth and includes any person for the time being administering the Government of the Commonwealth.</text></p>
+</defdesc></defitem></deflist>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act does not include definitions of &quot;Governor of a State&quot; and &quot;Governor-General&quot;. These definitions are covered by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.AIA.S16A" remotekey1="REFPTID" service="DOC-ID" status="unval">sections 16A</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.AIA.S16B" remotekey1="REFPTID" service="DOC-ID" status="unval">16B </remotelink></ci:content></ci:cite>
+ of the Acts Interpretation Act 1901 of the Commonwealth.</text></p></glp:note>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.HEARSAY-RULE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.HEARSAY-RULE" type="ext"/><emph typestyle="bf">hearsay rule</emph></defterm> <defdesc>
+<p><text>means 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S59.1" remotekey1="REFPTID" service="DOC-ID">section 59(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE" type="ext"/><emph typestyle="bf">identification evidence</emph></defterm> <defdesc>
+<p><text>means evidence that is:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE..A" type="ext"/>(a)</lilabel>
+<p><text>an assertion by a person to the effect that a defendant was, or resembles (visually, aurally or otherwise) a person who was, present at or near a place where:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE.A.I"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE.A.I" type="ext"/>(i)</lilabel>
+<p><text>the offence for which the defendant is being prosecuted was committed, or</text></p>
+</li><li id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE.A.II"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE.A.II" type="ext"/>(ii)</lilabel>
+<p><text>an act connected to that offence was done,</text></p>
+</li></l></li>
+</l>
+<p><text>at or about the time at which the offence was committed or the act was done, being an assertion that is based wholly or partly on what the person making the assertion saw, heard or otherwise perceived at that place and time, or</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.IDENTIFICATION-EVIDENCE..B" type="ext"/>(b)</lilabel>
+<p><text>a report (whether oral or in writing) of such an assertion.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 55 of 1997  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.INVESTIGATING-OFFICIAL"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.INVESTIGATING-OFFICIAL" type="ext"/><emph typestyle="bf">investigating official</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.INVESTIGATING-OFFICIAL..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.INVESTIGATING-OFFICIAL..A" type="ext"/>(a)</lilabel>
+<p><text>a police officer (other than a police officer who is engaged in covert investigations under the orders of a superior), or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.INVESTIGATING-OFFICIAL..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.INVESTIGATING-OFFICIAL..B" type="ext"/>(b)</lilabel>
+<p><text>a person appointed by or under an Australian law (other than a person who is engaged in covert investigations under the orders of a superior) whose functions include functions in respect of the prevention or investigation of offences.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.JOINT-SITTING"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.JOINT-SITTING" type="ext"/><emph typestyle="bf">joint sitting</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.JOINT-SITTING..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.JOINT-SITTING..A" type="ext"/>(a)</lilabel>
+<p><text>in relation to the Parliament of the Commonwealth &#x2014; a joint sitting of the members of the Senate and of the House of Representatives convened by the Governor-General under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CCON.S57" remotekey1="REFPTID" service="DOC-ID" status="unval">section 57</remotelink></ci:content></ci:cite>
+ of the Commonwealth Constitution or convened under any Act of the Commonwealth, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.JOINT-SITTING..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.JOINT-SITTING..B" type="ext"/>(b)</lilabel>
+<p><text>in relation to a bicameral legislature of a State &#x2014; a joint sitting of both Houses of the legislature convened under a law of the State.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.JUDGE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.JUDGE" type="ext"/><emph typestyle="bf">judge,</emph></defterm> <defdesc>
+<p><text>in relation to a proceeding, means the judge, magistrate or other person before whom the proceeding is being held.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.LAW"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.LAW" type="ext"/><emph typestyle="bf">law</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS9" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 9</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.LAWYER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.LAWYER" type="ext"/><emph typestyle="bf">lawyer</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act No 46 of 2007  s 3 and Sch 1[85], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.LEADING-QUESTION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.LEADING-QUESTION" type="ext"/><emph typestyle="bf">leading question</emph></defterm> <defdesc>
+<p><text>means a question asked of a witness that:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.LEADING-QUESTION..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.LEADING-QUESTION..A" type="ext"/>(a)</lilabel>
+<p><text>directly or indirectly suggests a particular answer to the question, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.LEADING-QUESTION..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.LEADING-QUESTION..B" type="ext"/>(b)</lilabel>
+<p><text>assumes the existence of a fact the existence of which is in dispute in the proceeding and as to the existence of which the witness has not given evidence before the question is asked.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.LEGAL-COUNSEL"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.LEGAL-COUNSEL" type="ext"/><emph typestyle="bf">legal counsel</emph></defterm><defdesc>
+<p><text>means an Australian lawyer employed in or by a government agency or other body who by law is exempted from holding an Australian practising certificate, or who does not require an Australian practising certificate, to engage in legal practice in the course of that employment.</text></p>
+</defdesc>
+<glp:note id="UCPN.EA.EAN95.DICT1.DPT1.LEGAL-COUNSEL.NT1">
+<heading><title>Note:</title></heading>
+<p>
+<text>Examples of legal counsel are in-house counsel and government solicitors.</text></p></glp:note>
+<leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[81], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.LEGISLATIVE-ASSEMBLY"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.LEGISLATIVE-ASSEMBLY" type="ext"/><emph typestyle="bf">Legislative Assembly</emph></defterm> <defdesc>
+<p><text>means any present or former Legislative Assembly of a Territory, and includes the Australian Capital Territory House of Assembly.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.MEMBER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.MEMBER" type="ext"/><emph typestyle="bf">member</emph></defterm> <defdesc>
+<p><text>of the Australian Federal Police includes a special member or a staff member of the Australian Federal Police.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.NSW-COURT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.NSW-COURT" type="ext"/><emph typestyle="bf">NSW court</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.NSW-COURT..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.NSW-COURT..A" type="ext"/>(a)</lilabel>
+<p><text>the Supreme Court, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.NSW-COURT..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.NSW-COURT..B" type="ext"/>(b)</lilabel>
+<p><text>any other court created by Parliament,</text></p>
+</li>
+</l>
+<p><text>and includes any person or body (other than a court) that, in exercising a function under the law of the State, is required to apply the laws of evidence.</text></p>
+</defdesc>
+<glp:note id="UCPN.EA.EAN95.DICT1.DPT1.NSW-COURT.NT1">
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act does not include this definition.</text></p></glp:note>
+<leg:histnote>
+<p><text>[def  am Act No 46 of 2007  s 3 and Sch 1[86], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.OFFENCE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.OFFENCE" type="ext"/><emph typestyle="bf">offence</emph></defterm> <defdesc>
+<p><text>means an offence against or arising under an Australian law.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.OFFICIAL-QUESTIONING"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.OFFICIAL-QUESTIONING" type="ext"/><emph typestyle="bf">official questioning</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act No 46 of 2007  s 3 and Sch 1[87], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.OPINION-RULE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.OPINION-RULE" type="ext"/><emph typestyle="bf">opinion rule</emph></defterm> <defdesc>
+<p><text>means 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S76" remotekey1="REFPTID" service="DOC-ID">section 76</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.OVERSEAS-REGISTERED-FOREIGN-LAWYER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.OVERSEAS-REGISTERED-FOREIGN-LAWYER" type="ext"/><emph typestyle="bf">overseas-registered foreign lawyer</emph></defterm><defdesc>
+<p><text>has the meaning it has in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.PT2-7" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 2.7</remotelink></ci:content></ci:cite>
+ of the Legal Profession Act 2004.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[81], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.PARENT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PARENT" type="ext"/><emph typestyle="bf">parent</emph></defterm> <defdesc>
+<p><text>includes the meaning given in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS10.2" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 10(2)</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.PICTURE-IDENTIFICATION-EVIDENCE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PICTURE-IDENTIFICATION-EVIDENCE" type="ext"/><emph typestyle="bf">picture identification evidence</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S115" remotekey1="REFPTID" service="DOC-ID">section 115</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.POLICE-OFFICER"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.POLICE-OFFICER" type="ext"/><emph typestyle="bf">police officer</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.POLICE-OFFICER..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.POLICE-OFFICER..A" type="ext"/>(a)</lilabel>
+<p><text>a member of the Australian Federal Police, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.POLICE-OFFICER..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.POLICE-OFFICER..B" type="ext"/>(b)</lilabel>
+<p><text>a member of the police force of a State or Territory.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.POSTAL-ARTICLE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.POSTAL-ARTICLE" type="ext"/><emph typestyle="bf">postal article</emph></defterm> <defdesc>
+<p><text>has the same meaning as in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.APCA89" remotekey1="REFPTID" service="DOC-ID" status="unval">Australian Postal Corporation Act 1989</remotelink></ci:content></ci:cite>
+ of the Commonwealth.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.PREVIOUS-REPRESENTATION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PREVIOUS-REPRESENTATION" type="ext"/><emph typestyle="bf">previous representation</emph></defterm> <defdesc>
+<p><text>means a representation made otherwise than in the course of giving evidence in the proceeding in which evidence of the representation is sought to be adduced.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.PRIOR-CONSISTENT-STATEMENT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PRIOR-CONSISTENT-STATEMENT" type="ext"/><emph typestyle="bf">prior consistent statement</emph></defterm> <defdesc>
+<p><text>of a witness means a previous representation that is consistent with evidence given by the witness.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.PRIOR-INCONSISTENT-STATEMENT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PRIOR-INCONSISTENT-STATEMENT" type="ext"/><emph typestyle="bf">prior inconsistent statement</emph></defterm> <defdesc>
+<p><text>of a witness means a previous representation that is inconsistent with evidence given by the witness.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.PROBATIVE-VALUE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PROBATIVE-VALUE" type="ext"/><emph typestyle="bf">probative value</emph></defterm> <defdesc>
+<p><text>of evidence means the extent to which the evidence could rationally affect the assessment of the probability of the existence of a fact in issue.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.PROSECUTOR"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PROSECUTOR" type="ext"/><emph typestyle="bf">prosecutor</emph></defterm> <defdesc>
+<p><text>means a person who institutes or is responsible for the conduct of a prosecution.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[88], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT" type="ext"/><emph typestyle="bf">public document</emph></defterm> <defdesc>
+<p><text>means a document that:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..A" type="ext"/>(a)</lilabel>
+<p><text>forms part of the records of the Crown in any of its capacities, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..B" type="ext"/>(b)</lilabel>
+<p><text>forms part of the records of the government of a foreign country, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..C"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..C" type="ext"/>(c)</lilabel>
+<p><text>forms part of the records of a person or body holding office or exercising a function under or because of the Commonwealth Constitution, an Australian law or a law of a foreign country, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..D"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..D" type="ext"/>(d)</lilabel>
+<p><text>is being kept by or on behalf of the Crown, such a government or such a person or body,</text></p>
+</li>
+</l>
+<p><text>and includes the records of the proceedings of, and papers presented to:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..E"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..E" type="ext"/>(e)</lilabel>
+<p><text>an Australian Parliament, a House of an Australian Parliament, a committee of such a House or a committee of an Australian Parliament, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..F"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.PUBLIC-DOCUMENT..F" type="ext"/>(f)</lilabel>
+<p><text>a legislature of a foreign country, including a House or committee (however described) of such a legislature.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.RE-EXAMINATION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.RE-EXAMINATION" type="ext"/><emph typestyle="bf">re-examination</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS2.3" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 2(3)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS2.4" remotekey1="REFPTID" service="DOC-ID" status="unval">(4)</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION" type="ext"/><emph typestyle="bf">representation</emph></defterm> <defdesc>
+<p><text>includes:</text></p>
+<l><li id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION..A"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION..A" type="ext"/>(a)</lilabel>
+<p><text>an express or implied representation (whether oral or in writing), or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION..B"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION..B" type="ext"/>(b)</lilabel>
+<p><text>a representation to be inferred from conduct, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION..C"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION..C" type="ext"/>(c)</lilabel>
+<p><text>a representation not intended by its maker to be communicated to or seen by another person, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION..D"><lilabel><refpt id="UCPN.EA.EAN95.DICT1.DPT1.REPRESENTATION..D" type="ext"/>(d)</lilabel>
+<p><text>a representation that for any reason is not communicated.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.SEAL"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.SEAL" type="ext"/><emph typestyle="bf">seal</emph></defterm> <defdesc>
+<p><text>includes a stamp.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.TENDENCY-EVIDENCE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.TENDENCY-EVIDENCE" type="ext"/><emph typestyle="bf">tendency evidence</emph></defterm> <defdesc>
+<p><text>means evidence of a kind referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S97.1" remotekey1="REFPTID" service="DOC-ID">section 97(1)</remotelink></ci:content></ci:cite>
+ that a party seeks to have adduced for the purpose referred to in that subsection.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.TENDENCY-RULE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.TENDENCY-RULE" type="ext"/><emph typestyle="bf">tendency rule</emph></defterm> <defdesc>
+<p><text>means 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S97.1" remotekey1="REFPTID" service="DOC-ID">section 97(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.TRADITIONAL-LAWS-AND-CUSTOMS"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.TRADITIONAL-LAWS-AND-CUSTOMS" type="ext"/><emph typestyle="bf">traditional laws and customs</emph></defterm> <defdesc>
+<p><text>of an Aboriginal or Torres Strait Islander group (including a kinship group) includes any of the traditions, customary laws, customs, observances, practices, knowledge and beliefs of the group.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 46 of 2007  s 3 and Sch 1[89], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.VISUAL-IDENTIFICATION-EVIDENCE"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.VISUAL-IDENTIFICATION-EVIDENCE" type="ext"/><emph typestyle="bf">visual identification evidence</emph></defterm> <defdesc>
+<p><text>is defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S114" remotekey1="REFPTID" service="DOC-ID">section 114</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN95.DICT1.DPT1.WITNESS"><defterm><refpt id="UCPN.EA.EAN95.DICT1.DPT1.WITNESS" type="ext"/><emph typestyle="bf">witness</emph></defterm> <defdesc>
+<p><text>includes the meaning given in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT1.DS7" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 7</remotelink></ci:content></ci:cite>
+ of Part 2 of this Dictionary.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

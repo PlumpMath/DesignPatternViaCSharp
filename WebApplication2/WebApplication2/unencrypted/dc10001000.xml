@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;7]</docinfo:doc-heading><docinfo:doc-id>UCPN.DC.DCAN.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>District Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>DISTRICT COURT ACT 1973 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;7]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>80000000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DC"/><docinfo:metaitem name="parent-filename" value="dc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DC.SGM_UCPN.DC.DCAN"/><docinfo:metaitem name="parent-filename" value="dc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">DISTRICT COURT ACT 1973 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1973</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 999, 1973</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The District Court Act 1973 No 9 was assented to 10 April 1973 and commenced 1 July 1973. It has since been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">National Parks and Wildlife Act 1974 No 80</entry><entry colname="c2">27 November 1974</entry><entry colname="c3">s 4(1), Sch 1: 1 January 1975 (Gaz 159 of 27 December 1974): s 2(2).</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1975 No 1</entry><entry colname="c2">11 March 1975</entry><entry colname="c3">s 3(a)&#x2013;(k), (p)&#x2013;(r), (t)&#x2013;(ff): 1 April 1975 (Gaz 50 of 27 March 1975): s 2(2). s 3(1)&#x2013;(o): 7 November 1975 (Gaz 143 of 7 November 1975): s 2(2). s 3(s): 4 April 1977 (Gaz 25 of 11 March 1977): s 2(2). </entry></row>
+<row><entry colname="c1">District Court (Further Amendment) Act 1975 No 77</entry><entry colname="c2">10 December 1975</entry><entry colname="c3">s 4: 1 July 1973: s 2(3).</entry></row>
+<row><entry colname="c1">Statutory and Other Offices Remuneration Act 1975 No 4 of 1976</entry><entry colname="c2">7 January 1976</entry><entry colname="c3">s 28(1), Sch 5: 2 February 1976 (Gaz 15 of 30 January 1976): s 2(2).</entry></row>
+<row><entry colname="c1">Statute Law Revision Act 1976 No 63</entry><entry colname="c2">2 November 1976</entry><entry colname="c3">2 November 1976.</entry></row>
+<row><entry colname="c1">Real Property (Amendment) Act 1976 No 96</entry><entry colname="c2">8 December 1976</entry><entry colname="c3">8 December 1976.</entry></row>
+<row><entry colname="c1">Jury Act 1977 No 18</entry><entry colname="c2">24 March 1977</entry><entry colname="c3">s 77, Sch 4: 1 July 1977 (Gaz 68 of 24 June 1977): s 2(2).</entry></row>
+<row><entry colname="c1">Anatomy Act 1977 No 126</entry><entry colname="c2">14 December 1977</entry><entry colname="c3">s 18, Sch 1: 19 May 1978 (Gaz 56 of 19 May 1978): s 2(2).</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1978 No 8</entry><entry colname="c2">28 February 1978</entry><entry colname="c3">28 February 1978.</entry></row>
+<row><entry colname="c1">District Court (Frustrated Contracts) Amendment Act 1978 No 107</entry><entry colname="c2">20 December 1978</entry><entry colname="c3">s 3: 1 May 1979 (Gaz 55 of 20 April 1979): s 2(2).</entry></row>
+<row><entry colname="c1">Summary Offences (Repeal) Act 1979 No 62</entry><entry colname="c2">11 May 1979</entry><entry colname="c3">s 5, Sch 1: 2 May 1980 (Gaz 69 of 2 May 1980): s 2(11).</entry></row>
+<row><entry colname="c1">District Court (Public Assemblies) Amendment Act 1979 No 66</entry><entry colname="c2">11 May 1979</entry><entry colname="c3">s 3: 1 August 1979 (Gaz 96 of 20 July 1979): s 2(2).</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1979 No 196</entry><entry colname="c2">21 December 1979</entry><entry colname="c3">ss 3&#x2013;6, Schs 1&#x2013;2: 9 June 1980 (Gaz 82 of 6 June 1980): s 2(2).</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Planning) Repeal and Amendment Act 1979 No 205</entry><entry colname="c2">21 December 1979</entry><entry colname="c3">s 4, Sch 1: 1 September 1980 (Gaz 91 of 4 July 1980): s 2(2), (4).</entry></row>
+<row><entry colname="c1">Dairy Industry Marketing Authority Act 1979 No 208</entry><entry colname="c2">24 December 1979</entry><entry colname="c3">s 107, Sch 4: 1 July 1980 (Gaz 89 of 27 June 1980): s 2(2).</entry></row>
+<row><entry colname="c1">District Court (Contracts Review) Amendment Act 1980 No 17</entry><entry colname="c2">15 April 1980</entry><entry colname="c3">ss 2(2), 3: 24 April 1980 (Gaz 66 of 24 April 1980).</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1982 No 41</entry><entry colname="c2">5 May 1982</entry><entry colname="c3">Sch 1: 1 April 1983 (Gaz 52 of 25 March 1983): s 2(2) Sch 2: 5 May 1982.</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1983 No 44</entry><entry colname="c2">4 May 1983</entry><entry colname="c3">Sch 1: 1 July 1983 (Gaz 89 of 24 June 1983). Schs 2&#x2013;6: 4 May 1983: s 2(3).</entry></row>
+<row><entry colname="c1">District Court (Interest) Amendment Act 1983 No 202</entry><entry colname="c2">31 December 1983</entry><entry colname="c3">s 3, Sch 1: 1 August 1984 (Gaz 112 of 20 July 1984): s 2(2).</entry></row>
+<row><entry colname="c1">District Court (Solicitors' Remuneration) Amendment Act 1984 No 55</entry><entry colname="c2">19 June 1984</entry><entry colname="c3">s 3, Sch 1: 10 September 1984 (Gaz 133 of 7 September 1984): s 2(2).</entry></row>
+<row><entry colname="c1">District Court (Commercial Arbitration) Amendment Act 1984 No 162</entry><entry colname="c2">14 December 1984</entry><entry colname="c3">1 May 1985 (Gaz 73 of 26 April 1985).</entry></row>
+<row><entry colname="c1">District Court (Procedure) Amendment Act 1984 No 170</entry><entry colname="c2">14 December 1984</entry><entry colname="c3">Schs 2&#x2013;6: 1 July 1985 (Gaz 93 of 14 June 1985): s 2(2). Sch 7: 1 January 1985 (Gaz 178 of 21 December 1984): s 2(3). Remainder: 14 December 1984: s 2(1).</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Death Penalty Abolition) Amendment Act 1985 No 59</entry><entry colname="c2">15 May 1985</entry><entry colname="c3">15 May 1985.</entry></row>
+<row><entry colname="c1">Judicial Officers Act 1986 No 100</entry><entry colname="c2">18 November 1986</entry><entry colname="c3">s 55, Sch 4: 19 December 1986 (Gaz 195 of 19 December 1986 p 6186): s 2(2).</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1986 No 210 [rep Act 89 of 1989 s 4 and Sch 3]</entry><entry colname="c2">23 December 1986</entry><entry colname="c3">ss 3&#x2013;4, Schs 1&#x2013;2: 13 July 1987 (Gaz 117 of 10 July 1987).</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1986 No 218</entry><entry colname="c2">23 December 1986</entry><entry colname="c3">s 3 and Sch 47: 23 December 1986</entry></row>
+<row><entry colname="c1">District Court (Garnishee Proceedings) Amendment Act 1987 No 20</entry><entry colname="c2">24 April 1987</entry><entry colname="c3">s 2(2) and Sch 1: 1 January 1988 (Gaz 193 of 18 December 1987 p 6945).</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 1) 1987 No 48</entry><entry colname="c2">28 May 1987</entry><entry colname="c3">s 2(12) and Sch 32: 1 September 1987 (Gaz 136 of 28 August 1987 p 4809).</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Workers Compensation) Amendment Act 1987 No 79</entry><entry colname="c2">10 June 1987</entry><entry colname="c3">s 3 and Sch 1: 30 June 1987 (Gaz 102 of 17 June 1987).</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Transport Accidents Compensation) Amendment Act No 102</entry><entry colname="c2">12 June 1987</entry><entry colname="c3">s 3 and Schs 1&#x2013;3: 1 July 1987.</entry></row>
+<row><entry colname="c1">Energy Legislation (Repeals and Savings) Act 1987 No 108</entry><entry colname="c2">12 June 1987</entry><entry colname="c3">s 4 and Sch 1: 1 July 1987 (Gaz 109 of 26 June 1987).</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Legal Profession) Amendment Act 1987 No 111</entry><entry colname="c2">12 June 1987</entry><entry colname="c3">s 3 and Sch 1: 1 January 1988 (Gaz 199 of 31 December 1987 p 7260).</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1987 No 164</entry><entry colname="c2">18 November 1987</entry><entry colname="c3">18 November 1987 except for Sch 1(3) and (4): 6 May 1996 (Gaz 55 of 3 May 1996)</entry></row>
+<row><entry colname="c1">District Court (Judges) Amendment Act 1987 No 236 [rep Act 89 of 1989 s 4 and Sch 3]</entry><entry colname="c2">16 December 1987</entry><entry colname="c3">13 January 1988.</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Victims Compensation) Repeal and Amendment Act 1987 No 238</entry><entry colname="c2">16 December 1987</entry><entry colname="c3">15 February 1988 (Gaz 28 of 12 February 1988 p 832).</entry></row>
+<row><entry colname="c1">District Court (Civil Claims) Amendment Act 1987 No 282</entry><entry colname="c2">16 December 1987</entry><entry colname="c3">s 3 and Sch 1(1): 1 February 1988 (Gaz 2 of 8 January 1988 p 7); s 3 and Sch 1(2): 1 July 1989 (Gaz 37 of 31 March 1989).</entry></row>
+<row><entry colname="c1">Courts Legislation (Acting Judges) Amendment Act 1988 No 10</entry><entry colname="c2">21 June 1988</entry><entry colname="c3">21 June 1988.</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1988 No 20</entry><entry colname="c2">28 June 1988</entry><entry colname="c3">Sch 4: 1 September 1988 (Gaz 138 of 26 August 1988 p 4478).</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1989 No 89</entry><entry colname="c2">13 June 1989</entry><entry colname="c3">13 June 1989</entry></row>
+<row><entry colname="c1">Legal Profession (Amendment) Act 1989 No 138</entry><entry colname="c2">12 October 1989</entry><entry colname="c3">1 November 1989</entry></row>
+<row><entry colname="c1">Courts Legislation (Procedure) Amendment Act 1989 No 169</entry><entry colname="c2">14 December 1988</entry><entry colname="c3">1 January 1990 (Gaz 124 of 22 December 1989 p 11,023).</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1990 No 46</entry><entry colname="c2">22 June 1990</entry><entry colname="c3">22 June 1990</entry></row>
+<row><entry colname="c1">Judicial Officers Legislation (Amendment) Act 1990 No 56</entry><entry colname="c2">26 September 1990</entry><entry colname="c3">26 September 1990</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1990 No 108</entry><entry colname="c2">13 December 1990</entry><entry colname="c3">13 December 1990</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1990 No 103</entry><entry colname="c2">13 December 1990</entry><entry colname="c3">1 March 1991</entry></row>
+<row><entry colname="c1">Courts Legislation (Civil Procedure) Amendment Act 1991 No 12</entry><entry colname="c2">3 May 1991</entry><entry colname="c3">Sch 2(3), (4), (6), (7) and (8): 1 November 1991 (Gaz 125 of 6 September 1991 p 7743); Sch 2(1) and (2): 1 July 1993 (Gaz 62 of 22 May 1992 p 3446)</entry></row>
+<row><entry colname="c1">Courts Legislation (Contempt) Amendment Act 1991 No 71</entry><entry colname="c2">17 December 1991</entry><entry colname="c3">14 January 1992</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1991 No 94</entry><entry colname="c2">17 December 1991</entry><entry colname="c3">24 February 1992 (Gaz 26 of 21 February 1992 p 1047)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1992 No 34</entry><entry colname="c2">18 May 1992</entry><entry colname="c3">1 August 1992 (Gaz 93 of 31 July 1992 p 5293)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1992 No 57</entry><entry colname="c2">8 October 1992</entry><entry colname="c3">item (3): on assent; item (2): 1 January 1993; item (1): 1 July 1993</entry></row>
+<row><entry colname="c1">Statute Law (Penalties) Act 1992 No 112</entry><entry colname="c2">8 December 1992</entry><entry colname="c3">8 December 1992</entry></row>
+<row><entry colname="c1">Courts Legislation (Amendment) Act 1993 No 80</entry><entry colname="c2">24 November 1993</entry><entry colname="c3">24 November 1993</entry></row>
+<row><entry colname="c1">Legal Profession Reform Act 1993 No 87</entry><entry colname="c2">29 November 1993</entry><entry colname="c3">Sch 5: 17 December 1993 (Gaz 138 of 17 December 1993 p 7277); Sch 6: 1 July 1994 (Gaz 78 of 10 June 1994 p 2763)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1994 No 32</entry><entry colname="c2">2 June 1994</entry><entry colname="c3">2 June 1994</entry></row>
+<row><entry colname="c1">Courts Legislation (Mediation and Evaluation) Amendment Act 1994 No 57</entry><entry colname="c2">28 September 1994</entry><entry colname="c3">14 November 1994 (Gaz 150 of 11 November 1994 p 6660)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1994 No 95</entry><entry colname="c2">12 December 1994</entry><entry colname="c3">12 December 1994</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1995 No 21</entry><entry colname="c2">19 June 1995</entry><entry colname="c3">1 August 1995 (Gaz 88 of 21 July 1995 p 3754)</entry></row>
+<row><entry colname="c1">Evidence (Consequential and Other Provisions) Act 1995 No 27</entry><entry colname="c2">19 June 1995</entry><entry colname="c3">1 September 1995 (Gaz 88 of 21 August 1995 p 3754)</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 1995 No 88</entry><entry colname="c2">19 December 1995</entry><entry colname="c3">8 March 1996 (Gaz 30 of 8 March 1996 p 1009) except Sch 1.3 [9] and Sch 1.8 [4]: 17 May 1996</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1996 No 30</entry><entry colname="c2">21 June 1996</entry><entry colname="c3">Sch 1(3): 17 May 1996; Sch 1: 21 June 1996</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1996 No 121</entry><entry colname="c2">3 December 1996</entry><entry colname="c3">3 April 1997</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1996 No 111</entry><entry colname="c2">2 December 1996</entry><entry colname="c3">2 May 1997</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1997 No 47</entry><entry colname="c2">2 July 1997</entry><entry colname="c3">Sch 3(2): 1 September 1997; remainder: 1 August 1997</entry></row>
+<row><entry colname="c1">Crimes Legislation Amendment (Procedure) Act 1997 No 86</entry><entry colname="c2">30 September 1997</entry><entry colname="c3">4 January 1998</entry></row>
+<row><entry colname="c1">District Court Amendment Act 1997 No 58</entry><entry colname="c2">2 July 1997</entry><entry colname="c3">18 July 1997; Sch 1(7): 22 August 1997; Sch 1[8] and [9]: 2 February 1998</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 1997 No 141</entry><entry colname="c2">17 December 1997</entry><entry colname="c3">2 February 1998 (Gaz 16 of 30 January 1998 p 432)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1998 No 54</entry><entry colname="c2">30 June 1998</entry><entry colname="c3">30 June 1998</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1998 No 49</entry><entry colname="c2">29 June 1998</entry><entry colname="c3">3 August 1998 (Gaz 112 of 24 July 1998 p 5602)</entry></row>
+<row><entry colname="c1">Co-operative Housing and Starr-Bowkett Societies Act 1998 No 11</entry><entry colname="c2">15 May 1998</entry><entry colname="c3">1 September 1998 (Gaz 112 of 1 September 1998 p 8633)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1998 No 120</entry><entry colname="c2">26 November 1998</entry><entry colname="c3">26 November 1998 (Gaz 169 of 4 December 1998 p 9339)</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 1998 No 172</entry><entry colname="c2">14 December 1998</entry><entry colname="c3">1 February 1999 (Gaz 178 of 24 December 1998 p 9951)</entry></row>
+<row><entry colname="c1">Property (Relationships) Legislation Amendment Act 1999 No 4</entry><entry colname="c2">7 June 1999</entry><entry colname="c3">s 2 and Sch 2[8]: 28 June 1999 (Gaz 72 of 25 June 1999 p 4082)</entry></row>
+<row><entry colname="c1">Motor Accidents Compensation Act 1999 No 41</entry><entry colname="c2">8 July 1999</entry><entry colname="c3">s 2 and Sch 4[3]: 5 October 1999 (Gaz 104 of 10 September 1999 p 8699)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1999 No 85</entry><entry colname="c2">3 December 1999</entry><entry colname="c3">s 2 and Sch 4: 3 December 1999</entry></row>
+<row><entry colname="c1">Crimes Legislation Amendment (Sentencing) Act 1999 No 94</entry><entry colname="c2">8 December 1999</entry><entry colname="c3">Sch 4 Pt 1: 3 April 2000 (Gaz 42 of 31 March 2000 p 2487)</entry></row>
+<row><entry colname="c1">Law Reform (Miscellaneous Provisions) Amendment Act 2000 No 111</entry><entry colname="c2">20 December 2000</entry><entry colname="c3">Sch 2: 22 January 2001 (Gaz 20 of 19 January 2001 p 130)</entry></row>
+<row><entry colname="c1">Workers Compensation Legislation Further Amendment Act 2001 No 94</entry><entry colname="c2">6 December 2001</entry><entry colname="c3">Sch 1.3: 1 January 2002 (Gaz 195A of 21 December 2001 p 10,175)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2001 No 85</entry><entry colname="c2">28 November 2001</entry><entry colname="c3">Sch 2: 18 January 2002 (Gaz 25 of 18 January 2002 p 177)</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 2001 No 108</entry><entry colname="c2">14 December 2001</entry><entry colname="c3">Sch 1: 18 January 2002 (Gaz 25 of 18 January 2002 p 179)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment (Civil Juries) Act 2001 No 124</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">Sch 1: 18 January 2002 (Gaz 25 of 18 January 2002 p 178)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2002 No 7</entry><entry colname="c2">17 April 2002</entry><entry colname="c3">17 April 2002</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2002 No 53</entry><entry colname="c2">4 July 2002</entry><entry colname="c3">Sch 2.12: 4 July 2002 (Gaz 116 of 12 July 2002 p 5220)</entry></row>
+<row><entry colname="c1">Courts Legislation Miscellaneous Amendments Act 2002 No 99</entry><entry colname="c2">29 November 2002</entry><entry colname="c3">Sch 3.3: 20 December 2002 (Gaz 263 of 20 December 2002 p 10,739)</entry></row>
+<row><entry colname="c1">Defamation Amendment Act 2002 No 136</entry><entry colname="c2">18 December 2002</entry><entry colname="c3">Sch 2.1: 17 February 2003 (Gaz 45 of 14 February 2003 p 1588)</entry></row>
+<row><entry colname="c1">Justices Legislation Repeal and Amendment Act 2001 No 121</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">7 July 2003 (Gaz 104 of 27 June 2003 p 5978)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2003 No 71</entry><entry colname="c2">20 November 2003</entry><entry colname="c3">1 Jan 2004 (Gaz 196 of 12 December 2003 p 11172)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2004 No 68</entry><entry colname="c2">6 July 2004</entry><entry colname="c3">6 July 2004</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2005 No 64</entry><entry colname="c2">1 July 2005</entry><entry colname="c3">1 July 2005</entry></row>
+<row><entry colname="c1">Civil Procedure Act 2005 No 28</entry><entry colname="c2">1 June 2005</entry><entry colname="c3">15 August 2005</entry></row>
+<row><entry colname="c1">Defamation Act 2005 No 77</entry><entry colname="c2">26 October 2005</entry><entry colname="c3">1 January 2006</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2006 No 23</entry><entry colname="c2">17 May 2006</entry><entry colname="c3">17 May 2006 (Gaz 68 of 26 May 2006, p 3164)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2006 No 58</entry><entry colname="c2">20 June 2006</entry><entry colname="c3">20 June 2006 (Gaz 82 of 23 June 2006, p 4562)</entry></row>
+<row><entry colname="c1">Crimes and Courts Legislation Amendment Act 2006 No 107</entry><entry colname="c2">29 November 2006</entry><entry colname="c3">Sch 1.13: 29 November 2006</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2006 No 120</entry><entry colname="c2">4 December 2006</entry><entry colname="c3">4 December 2006</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2007 No 56</entry><entry colname="c2">15 November 2007</entry><entry colname="c3">Sch 5: 14 December 2007</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 2: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Amendment Act 2008 No 53</entry><entry colname="c2">1 July 2008</entry><entry colname="c3">Sch 12: 1 July 2008</entry></row>
+<row><entry colname="c1">Succession Amendment (Family Provision) Act 2008 No 75</entry><entry colname="c2">1 March 2009 (Gaz No 38 of 20 Feb 2009, p 1036)</entry><entry colname="c3">Sch 2.2: 1 March 2009</entry></row>
+<row><entry colname="c1">Succession Amendment (Intestacy) Act 2009 No 29</entry><entry colname="c2">9 June 2009</entry><entry colname="c3">Sch 2.3: 1 March 2010 (LW 26 Feb 2010)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2009 No 56</entry><entry colname="c2">1 July 2009</entry><entry colname="c3">Schs 1.11, 4.14: 17 July 2009 (s 2)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2009 No 106</entry><entry colname="c2">14 December 2009</entry><entry colname="c3">Sch 4.15: 8 January 2010 (s 2)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2010 No 63</entry><entry colname="c2">28 June 2010</entry><entry colname="c3">Sch 1.9: 28 June 2010 (s 2(2))</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Amendment Act 2010 No 88</entry><entry colname="c2">1 November 2010</entry><entry colname="c3">Sch 3: 1 November 2010</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2010 No 119</entry><entry colname="c2">29 November 2010</entry><entry colname="c3">Sch 2.15: 7 January 2011</entry></row>
+<row><entry colname="c1">District Court Amendment (Applications for Trial by Judge Alone) Rule 2012 No 395</entry><entry colname="c2">24 August 2012</entry><entry colname="c3">24 August 2012 (LW 24 August 2012)</entry></row>
+<row><entry colname="c1">Courts and Other Legislation Amendment Act 2012 No 60</entry><entry colname="c2">10 September 2012</entry><entry colname="c3">10 September 2012</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+<leg:comntry><heading><title>TRANSITIONAL INFORMATION &#x2014; District Court (Procedure) Amendment Act 1984</title></heading><level id="UCPN_DC.SGM_UCPN.DC.SCH9" leveltype="para0" subdoc="true" toc-caption="[18,000] Introduction">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [18,000] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1984-170" remotekey1="REFPTID" service="DOC-ID" status="unval">District Court (Procedure) Amendment Act 1984</remotelink> (s 6), Schedules 3, 4.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> Part 3 , Part 4, s 113, section 172(2), s 173, s 2(2), s 32(2), s 32(2A), s 32(3) , s 69A, s 78(1).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1900-40" remotekey1="REFPTID" service="DOC-ID">Crimes Act 1900</remotelink> s 577.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.SCH9" type="ext"/>[18,000] </edpnum><title>Introduction</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The District Court (Procedure) Amendment Act 1984 contained transitional and other provisions relating to the District Court Act 1973. Schedule 9 of that Act provides as follows:</text>
+<blockquote><legfragment>
+<leg:level>
+<leg:level-vrnt leveltype="schedules">
+<leg:levelbody>
+<leg:level>
+<leg:level-vrnt leveltype="schedule">
+<leg:heading><edpnum>[18,000]</edpnum><desig><designum>SCHEDULE 9</designum></desig><title>SAVINGS AND TRANSITIONAL PROVISIONS</title><leg:empleg><remotelink dpsi="05CC" refpt="OTH.DCPAN84.S6" remotekey1="REFPTID" service="DOC-ID" status="unval">(s 6)</remotelink></leg:empleg></leg:heading>
+<leg:levelbody>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Interpretation</title><desig><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Schedule, an expression defined in the Principal Act has the same meaning as it has in that Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Rules</title><desig><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>After the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedules 3</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH4" remotekey1="REFPTID" service="DOC-ID" status="unval">4</remotelink></ci:content></ci:cite>
+ [on 1 July 1985], no power conferred by any Act on the Judges, a majority of the Judges, any number of the Judges or a single Judge to make rules in respect of any particular matter shall be exercised otherwise than by the Rule Committee making rules under and in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3 </remotelink></ci:content></ci:cite>
+ of the Principal Act (as in force after that commencement) in the case of a civil matter, or under and in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT4" remotekey1="REFPTID" service="DOC-ID">Part 4</remotelink></ci:content></ci:cite>
+ of the Principal Act (as so in force) in the case of a criminal matter.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any rules made under any power conferred on the Judges, a majority of the Judges, any number of the Judges or a single Judge by any Act (including the Principal Act) and in force immediately before the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 3</remotelink></ci:content></ci:cite>
+, shall continue in force as if they had been made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3</remotelink></ci:content></ci:cite>
+ of the Principal Act (as in force after that commencement) and may from time to time be amended or revoked by the Rule Committee.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Proclamations under section 172 of the Principal Act to be continued in force</title><desig><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any proclamation that was in force, or was deemed to be a proclamation, under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S172.2" remotekey1="REFPTID" service="DOC-ID" status="unval">section 172(2)</remotelink></ci:content></ci:cite>
+ of the Principal Act immediately before the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH4" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 4</remotelink></ci:content></ci:cite>
+ specifying the places at which the Court may sit in its criminal and special jurisdiction shall, after that commencement, be deemed to be a proclamation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S172.2" remotekey1="REFPTID" service="DOC-ID" status="unval">section 172(2)</remotelink></ci:content></ci:cite>
+ of the Principal Act (as in force after that commencement) specifying the places at which the Court may sit in its criminal jurisdiction.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Proclamations under section 173 of the Principal Act deemed to be orders made by Chief Judge</title><desig><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any proclamation that was in force under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S173" remotekey1="REFPTID" service="DOC-ID">section 173</remotelink></ci:content></ci:cite>
+ of the Principal Act immediately before the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH4" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 4</remotelink></ci:content></ci:cite>
+ specifying the places and times at which the Court shall sit in its criminal and special jurisdiction shall, after that commencement, be deemed to be a direction under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S173" remotekey1="REFPTID" service="DOC-ID">section 173</remotelink></ci:content></ci:cite>
+ of the Principal Act (as in force after that commencement) specifying the places and the appointed times at which the Court shall sit in its criminal jurisdiction.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Resolution of questions as to whether a matter is within the special civil jurisdiction or the criminal jurisdiction of the Court</title><desig><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If after the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedules 3</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH4" remotekey1="REFPTID" service="DOC-ID" status="unval">4</remotelink></ci:content></ci:cite>
+ a question arises as to whether or not any matter is within the special civil jurisdiction of the Court or its criminal jurisdiction, that question shall be determined as provided by rules made under clause 12.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Proceedings pending in the Court in the exercise of its criminal and special jurisdiction</title><desig><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where any proceedings would, if 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedules 3</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH4" remotekey1="REFPTID" service="DOC-ID" status="unval">4</remotelink></ci:content></ci:cite>
+ had not commenced, have been continued, heard or disposed of in the Court in its criminal and special jurisdiction, those proceedings shall, after the commencement of those Schedules, be continued, heard or disposed of:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>in the case of criminal proceedings, in the Court in its criminal jurisdiction, or</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p><text>in the case of any other proceedings which were in its criminal and special jurisdiction, in the Court in its special civil jurisdiction.</text></p></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in subclause (1) affects the powers of the Supreme Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CM.CAN.S577" remotekey1="REFPTID" service="DOC-ID" status="unval">section 577</remotelink></ci:content></ci:cite>
+ of the Crimes Act 1900.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Directions as to sittings at proclaimed places</title><desig><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A direction given by the Governor under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S32.2" remotekey1="REFPTID" service="DOC-ID">section 32(2)</remotelink></ci:content></ci:cite>
+ of the Principal Act (as in force immediately before the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 3</remotelink></ci:content></ci:cite>
+) shall, unless it has ceased to be in force before that commencement, continue in force as if it were a direction given under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S32.2A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 32(2A)</remotelink></ci:content></ci:cite>
+ of the Principal Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A direction given by the Chief Judge under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S32.3" remotekey1="REFPTID" service="DOC-ID">section 32(3) </remotelink></ci:content></ci:cite>
+ of the Principal Act (as in force immediately before the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 3</remotelink></ci:content></ci:cite>
+) shall, unless it has ceased to be in force before that commencement, continue in force as if it were a direction given under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S32.3" remotekey1="REFPTID" service="DOC-ID">section 32(3)</remotelink></ci:content></ci:cite>
+ of the Principal Act (as in force after that commencement) and as if the last mentioned provision had been in force at the time when the direction was given.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Power of Court to appoint expert witness</title><desig><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S69A" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 69A</remotelink></ci:content></ci:cite>
+ of the Principal Act (as inserted by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 3</remotelink></ci:content></ci:cite>
+) applies to proceedings commenced, but not completed, before the commencement of that Schedule.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Cases in which jury may be summoned</title><desig><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S78.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 78(1)</remotelink></ci:content></ci:cite>
+ of the Principal Act (as in force before the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 3</remotelink></ci:content></ci:cite>
+) shall, notwithstanding the amendment to that subsection effected by that Schedule, continue to apply to proceedings commenced before that commencement, but only in relation to a party who has complied with the requirements of those provisions before that commencement.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Writ against the person</title><desig><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S113" remotekey1="REFPTID" service="DOC-ID" status="unval">Section 113</remotelink></ci:content></ci:cite>
+ of the Principal Act (as amended by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCPAN84.SCH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Schedule 3</remotelink></ci:content></ci:cite>
+) applies to and in relation to an application made under that section, but not disposed of, before the commencement of that Schedule.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Judgments, etc, of the Court</title><desig><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>any provision of the Principal Act is repealed or amended by a provision of this Act, and</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p><text>before the commencement of the repealing or amending provision, any judgment, ruling, order, direction or decision of the Court had been given or made under the first mentioned provision but had not been satisfied or discharged or had not otherwise ceased to have effect,</text></p></li>
+</l>
+<p><text>that judgment, ruling, order, direction or decision shall continue to have effect, and the first mentioned provision shall continue to have effect in relation to that judgment, ruling, order, direction or decision, as if the repealing or amending provision had not been enacted.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>a provision of the Principal Act is repealed or amended by a provision of this Act, and</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p><text>before the commencement of the repealing or amending provision, a document had been lodged or filed in the Court, or had been issued by or from the Court, under the first mentioned provision and had not ceased to have effect,</text></p></li>
+</l>
+<p><text>then, subject to the provisions of this Schedule, that document shall continue to have effect, and the first mentioned provision shall continue to have effect in relation to that document, as if the repealing or amending provision had not been enacted.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="clause">
+<leg:heading inline="true"><title>Power to make rules relating to matters of a savings or transitional nature</title><desig><designum>12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Rule Committee may make rules containing provisions of a savings or transitional nature consequent on the enactment of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A provision made under subclause (1) may take effect as from the day appointed and notified under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S2.2" remotekey1="REFPTID" service="DOC-ID" status="unval">section 2(2)</remotelink></ci:content></ci:cite>
+ or a later day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>To the extent to which a provision referred to in subclause (1) takes effect from a date that is earlier than the date of its publication in the Gazette, the provision does not operate so as:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p><text>to affect, in a manner prejudicial to any person, the rights of that person before the date of that publication, or</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p><text>to impose liabilities on any person in respect of anything done or omitted to be done before the date of that publication.</text></p></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level>
+<leg:level-vrnt leveltype="subclause">
+<leg:heading inline="true"><desig><designum>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A provision made under subclause (1) shall, if the rules expressly so provide, have effect notwithstanding any of the preceding clauses of this Schedule.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</legfragment></blockquote>
+</p>
+</bodytext>
+</level></leg:comntry>
+</leg:prelim>
+<leg:level id="UCPN.DC.DCAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.DC.DCAN" type="ext"/>DISTRICT COURT ACT 1973 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act to establish a District Court of New South Wales; to provide for the appointment of, and the powers, authorities, duties and functions of, Judges and other officers of the Court; to empower the Court to hear and dispose of certain civil and criminal proceedings; to abolish the several District Courts and Courts of Quarter Sessions; to repeal the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12" remotekey1="REFPTID" service="DOC-ID" status="unval">District Courts Act 1912</remotelink></ci:content></ci:cite>
+ and certain other Acts; to amend the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CM.CAN" remotekey1="REFPTID" service="DOC-ID">Crimes Act 1900</remotelink></ci:content></ci:cite>
+ and certain other Acts; and for purposes connected therewith.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.DC.DCAN.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;7]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.DC.DCAN.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;7]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 1] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S1" type="ext"/>[DCA s 1]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the District Court Act 1973.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 2] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S2" type="ext"/>[DCA s 2]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act shall commence on such day as may be appointed by the Governor in respect thereof and as may be notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 3] s 3">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S3" type="ext"/>[DCA s 3]</edpnum><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 3  rep Act 170 of 1984  s 5 and Sch 8]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 4] s 4 Definitions: general">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S4" type="ext"/>[DCA s 4]</edpnum><title searchtype="SECT-TITLE">Definitions: general</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, except in so far as the context or subject-matter otherwise indicates or requires&#x2014;</text></p>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.ACTION"><defterm><refpt id="UCPN.DC.DCAN.S4.1.ACTION" type="ext"/><emph typestyle="bf">action</emph></defterm> <defdesc>
+<p><text>means action in the Court, but does not include any proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3.D8" remotekey1="REFPTID" service="DOC-ID">Division 8 of Part III</remotelink></ci:content></ci:cite>
+ or under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT4" remotekey1="REFPTID" service="DOC-ID">Part IV</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.ADMITTED-SET-OFF"><defterm><refpt id="UCPN.DC.DCAN.S4.1.ADMITTED-SET-OFF" type="ext"/><emph typestyle="bf">admitted set-off</emph></defterm> <defdesc>
+<p><text>in relation to an action, means set-off admitted by the plaintiff in the document lodged by the plaintiff to commence the action or, where a defendant pleads a cross-claim, by the defendant in the prescribed notice of the cross-claim;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 170 of 1984  s 5 and Sch 2 ; Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.BARRISTER"><defterm><refpt id="UCPN.DC.DCAN.S4.1.BARRISTER" type="ext"/><emph typestyle="bf">barrister</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 120 of 2006  s 3 and Sch 3[3.8] , effective 4 December 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.CHIEF-JUDGE"><defterm><refpt id="UCPN.DC.DCAN.S4.1.CHIEF-JUDGE" type="ext"/><emph typestyle="bf">Chief Judge</emph></defterm> <defdesc>
+<p><text>means Chief Judge of the Court;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.CIVIL-PROCEDURE-RULES"><defterm><refpt id="UCPN.DC.DCAN.S4.1.CIVIL-PROCEDURE-RULES" type="ext"/><emph typestyle="bf">civil procedure rules</emph></defterm> <defdesc>
+<p><text>means rules of Court made and in force under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3" remotekey1="REFPTID" service="DOC-ID">Part III</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.CIVIL-PROCEEDINGS"><defterm><refpt id="UCPN.DC.DCAN.S4.1.CIVIL-PROCEEDINGS" type="ext"/><emph typestyle="bf">civil proceedings</emph></defterm> <defdesc>
+<p><text>means proceedings in the Court in its civil jurisdiction;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.CORPORATION"><defterm><refpt id="UCPN.DC.DCAN.S4.1.CORPORATION" type="ext"/><emph typestyle="bf">corporation</emph></defterm> <defdesc>
+<p><text>includes any body of persons that may by law sue or be sued, whether in its own name or in the name of any officer or other person;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.CRIMINAL-PROCEDURE-RULES"><defterm><refpt id="UCPN.DC.DCAN.S4.1.CRIMINAL-PROCEDURE-RULES" type="ext"/><emph typestyle="bf">criminal procedure rules</emph></defterm> <defdesc>
+<p><text>means rules of Court made and in force under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT4" remotekey1="REFPTID" service="DOC-ID">Part IV</remotelink></ci:content></ci:cite>
+; 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT4" remotekey1="REFPTID" service="DOC-ID">IV</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.CRIMINAL-PROCEEDINGS"><defterm><refpt id="UCPN.DC.DCAN.S4.1.CRIMINAL-PROCEEDINGS" type="ext"/><emph typestyle="bf">criminal proceedings</emph></defterm> <defdesc>
+<p><text>means proceedings in the Court in its criminal jurisdiction;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.FILE"><defterm><refpt id="UCPN.DC.DCAN.S4.1.FILE" type="ext"/><emph typestyle="bf">file</emph></defterm> <defdesc>
+<p><text>in relation to any proceedings, means lodge with the registrar for the proper place in relation to the proceedings, for inclusion in the record of the Court;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.JUDGE"><defterm><refpt id="UCPN.DC.DCAN.S4.1.JUDGE" type="ext"/><emph typestyle="bf">Judge</emph></defterm> <defdesc>
+<p><text>means Judge of the Court;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.JUDGMENT"><defterm><refpt id="UCPN.DC.DCAN.S4.1.JUDGMENT" type="ext"/><emph typestyle="bf">judgment</emph></defterm> <defdesc>
+<p><text>in relation to an action, means judgment given or entered up in the action;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.JURISDICTIONAL-LIMIT"><defterm><refpt id="UCPN.DC.DCAN.S4.1.JURISDICTIONAL-LIMIT" type="ext"/><emph typestyle="bf">jurisdictional limit</emph></defterm><defdesc>
+<p><text> of the Court means $750,000.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act No 28 of 2005, effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.LAND"><defterm><refpt id="UCPN.DC.DCAN.S4.1.LAND" type="ext"/><emph typestyle="bf">land</emph></defterm> <defdesc>
+<p><text>includes messuages, tenements and hereditaments, corporeal and incorporeal, of any tenure or description, and whatever may be the estate or interest therein, whether vested or contingent, whether freehold or leasehold, and whether at law or in equity;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.MINOR"><defterm><refpt id="UCPN.DC.DCAN.S4.1.MINOR" type="ext"/><emph typestyle="bf">minor</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 170 of 1984  s 5 and Sch 8]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.MOTOR-ACCIDENT-CLAIM"><defterm><refpt id="UCPN.DC.DCAN.S4.1.MOTOR-ACCIDENT-CLAIM" type="ext"/><emph typestyle="bf">motor accident claim</emph></defterm> <defdesc>
+<p><text>means a claim for damages arising from death of, or injury to, a person where the death or injury has been caused by an act or omission of the owner or driver of a motor vehicle in the use or operation of the vehicle.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 141 of 1997  s 2 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.OFFICER"><defterm><refpt id="UCPN.DC.DCAN.S4.1.OFFICER" type="ext"/><emph typestyle="bf">officer</emph></defterm> <defdesc>
+<p><text>in relation to a corporation, includes a director and any person having (whether alone or with others) powers of management, direction or control of the corporation;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.PERSONAL-INJURIES"><defterm><refpt id="UCPN.DC.DCAN.S4.1.PERSONAL-INJURIES" type="ext"/><emph typestyle="bf">personal injuries</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.PRESCRIBED"><defterm><refpt id="UCPN.DC.DCAN.S4.1.PRESCRIBED" type="ext"/><emph typestyle="bf">prescribed</emph></defterm> <defdesc>
+<p><text>means prescribed by this Act or the rules;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.PRINCIPAL-REGISTRAR"><defterm><refpt id="UCPN.DC.DCAN.S4.1.PRINCIPAL-REGISTRAR" type="ext"/><emph typestyle="bf">Principal Registrar</emph></defterm> <defdesc>
+<p><text>means the registrar for Sydney.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 68 of 2004  s 3 and Sch 7, effective 6 July 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.PROCEEDINGS"><defterm><refpt id="UCPN.DC.DCAN.S4.1.PROCEEDINGS" type="ext"/><emph typestyle="bf">proceedings</emph></defterm> <defdesc>
+<l><li id="UCPN.DC.DCAN.S4.1.PROCEEDINGS.A"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.PROCEEDINGS.A" type="ext"/>(a)</lilabel>
+<p><text>where occurring in a provision of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3" remotekey1="REFPTID" service="DOC-ID">Part III</remotelink></ci:content></ci:cite>
+ and in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S4.3" remotekey1="REFPTID" service="DOC-ID">subsections (3)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S4.5" remotekey1="REFPTID" service="DOC-ID">(5)</remotelink></ci:content></ci:cite>
+, means civil proceedings;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.1.PROCEEDINGS.B"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.PROCEEDINGS.B" type="ext"/>(b)</lilabel>
+<p><text>where occurring in a provision of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT4" remotekey1="REFPTID" service="DOC-ID">Part IV</remotelink></ci:content></ci:cite>
+, means criminal proceedings; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.1.PROCEEDINGS.C"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.PROCEEDINGS.C" type="ext"/>(c)</lilabel>
+<p><text>where occurring in any other provision of this Act, shall be construed according to the context in which the expression occurs;</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  subst Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.PROCLAIMED-PLACE"><defterm><refpt id="UCPN.DC.DCAN.S4.1.PROCLAIMED-PLACE" type="ext"/><emph typestyle="bf">proclaimed place</emph></defterm> <defdesc>
+<p><text>means a place for the time being specified in a proclamation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S18F" remotekey1="REFPTID" service="DOC-ID">section 18F</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 210 of 1986  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.PROPER-PLACE"><defterm><refpt id="UCPN.DC.DCAN.S4.1.PROPER-PLACE" type="ext"/><emph typestyle="bf">proper place</emph></defterm> <defdesc>
+<p><text>in relation to any proceedings in the Court in its civil jurisdiction&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S4.1.PROPER-PLACE.A"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.PROPER-PLACE.A" type="ext"/>(a)</lilabel>
+<p><text>where there has been no change of venue in respect of the proceedings &#x2014; means the proclaimed place at which the proceedings were commenced;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.1.PROPER-PLACE.B"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.PROPER-PLACE.B" type="ext"/>(b)</lilabel>
+<p><text>where there has been only one change of venue in respect of the proceedings &#x2014; means the proclaimed place to which the venue was changed; or</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.1.PROPER-PLACE.C"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.PROPER-PLACE.C" type="ext"/>(c)</lilabel>
+<p><text>where there have been two or more changes of venue in respect of the proceedings &#x2014; means the proclaimed place to which the venue was last changed;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.REGISTRY"><defterm><refpt id="UCPN.DC.DCAN.S4.1.REGISTRY" type="ext"/><emph typestyle="bf">registry</emph></defterm> <defdesc>
+<p><text>in relation to a proclaimed place, means the office of the registrar for the proclaimed place;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.RULE-COMMITTEE"><defterm><refpt id="UCPN.DC.DCAN.S4.1.RULE-COMMITTEE" type="ext"/><emph typestyle="bf">Rule Committee</emph></defterm> <defdesc>
+<p><text>means the District Court Rule Committee established under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S18A" remotekey1="REFPTID" service="DOC-ID">section 18A</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 170 of 1984  s 5 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.RULES"><defterm><refpt id="UCPN.DC.DCAN.S4.1.RULES" type="ext"/><emph typestyle="bf">rules</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.SITTING-PLACE"><defterm><refpt id="UCPN.DC.DCAN.S4.1.SITTING-PLACE" type="ext"/><emph typestyle="bf">sitting place</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.DC.DCAN.S4.1.SITTING-PLACE.A"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.SITTING-PLACE.A" type="ext"/>(a)</lilabel>
+<p><text>any proclaimed place, and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.1.SITTING-PLACE.B"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.SITTING-PLACE.B" type="ext"/>(b)</lilabel>
+<p><text>in relation to the Court&#x2019;s civil jurisdiction &#x2014; any place (other than a proclaimed place) that is the subject of a direction in force under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S32.1" remotekey1="REFPTID" service="DOC-ID">section 32(1)</remotelink></ci:content></ci:cite>
+, and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.1.SITTING-PLACE.C"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.SITTING-PLACE.C" type="ext"/>(c)</lilabel>
+<p><text>in relation to the Court&#x2019;s criminal jurisdiction &#x2014; any place (other than a proclaimed place) that is the subject of a direction in force under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S173.1" remotekey1="REFPTID" service="DOC-ID">section 173(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 71 of 2003  s 3 and Sch 3, effective 1 January 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.SOLICITOR"><defterm><refpt id="UCPN.DC.DCAN.S4.1.SOLICITOR" type="ext"/><emph typestyle="bf">solicitor</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 120 of 2006  s 3 and Sch 3[3.8] , effective 4 December 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.STATEMENT-OF-CLAIM"><defterm><refpt id="UCPN.DC.DCAN.S4.1.STATEMENT-OF-CLAIM" type="ext"/><emph typestyle="bf">statement of claim</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.THE-COURT-OR-THE-DISTRICT-COURT"><defterm><refpt id="UCPN.DC.DCAN.S4.1.THE-COURT-OR-THE-DISTRICT-COURT" type="ext"/><emph typestyle="bf">the Court or the District Court</emph></defterm> <defdesc>
+<p><text>means the District Court of New South Wales, and includes all registries and offices of the Court, whether they are within the precincts of the Court or not;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.THE-REGISTRAR"><defterm><refpt id="UCPN.DC.DCAN.S4.1.THE-REGISTRAR" type="ext"/><emph typestyle="bf">the registrar</emph></defterm> <defdesc>
+<p><text>in relation to any proceedings, means the registrar for the proper place in relation to the proceedings, and, where any other registrar is authorised by or under this Act to exercise or discharge any power, authority, duty or function of the registrar for that place, includes that other registrar when exercising or discharging that power, authority, duty or function;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.THE-RULES"><defterm><refpt id="UCPN.DC.DCAN.S4.1.THE-RULES" type="ext"/><emph typestyle="bf">the rules</emph></defterm> <defdesc>
+<p><text>means&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S4.1.THE-RULES.A"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.THE-RULES.A" type="ext"/>(a)</lilabel>
+<p><text>where occurring in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT6.D2" remotekey1="REFPTID" service="DOC-ID">Division 2 of Part 6</remotelink></ci:content></ci:cite>
+, the civil procedure rules; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.1.THE-RULES.B"><lilabel><refpt id="UCPN.DC.DCAN.S4.1.THE-RULES.B" type="ext"/>(b)</lilabel>
+<p><text>where occurring in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT4" remotekey1="REFPTID" service="DOC-ID">Part 4</remotelink></ci:content></ci:cite>
+, the criminal procedure rules;</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.WORK-INJURY-DAMAGES-CLAIM"><defterm><refpt id="UCPN.DC.DCAN.S4.1.WORK-INJURY-DAMAGES-CLAIM" type="ext"/><emph typestyle="bf">work injury damages claim</emph></defterm> <defdesc>
+<p><text>means a claim for an award of damages to which 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="009C" refpt="WCN.WCA.WCN.PT5.D3" remotekey1="REFPTID" service="DOC-ID">Division 3</remotelink></ci:content></ci:cite>
+ (Modified common law damages) of Part 5 of the Workers Compensation Act 1987 applies.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 94 of 2001  s 3 and Sch 1,  effective 1 January 2002]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.WRIT-AGAINST-THE-PERSON"><defterm><refpt id="UCPN.DC.DCAN.S4.1.WRIT-AGAINST-THE-PERSON" type="ext"/><emph typestyle="bf">writ against the person</emph></defterm><leg:histnote>
+<p><text>[def  rep  Act No 28 of 2005, effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S4.1.WRIT-OF-EXECUTION"><defterm><refpt id="UCPN.DC.DCAN.S4.1.WRIT-OF-EXECUTION" type="ext"/><emph typestyle="bf">writ of execution</emph></defterm> <leg:histnote>
+<p><text>[def  rep  Act No 28 of 2005, effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S4.2.A"><lilabel><refpt id="UCPN.DC.DCAN.S4.2.A" type="ext"/>(a)</lilabel>
+<p><text>to the giving of a judgment is a reference to the recording and delivering of a judgment, not being a judgment under any provision of the civil procedure rules prescribed for the purposes of this paragraph; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.2.B"><lilabel><refpt id="UCPN.DC.DCAN.S4.2.B" type="ext"/>(b)</lilabel>
+<p><text>to the entering up of a judgment is a reference to the entering up of a judgment in accordance with any provision of the civil procedure rules so prescribed.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to the commencement of proceedings at a proclaimed place (however expressed) is a reference to the commencement of those proceedings by the lodging of the document commencing the proceedings with the registrar for that place.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to the issue of a document at a proclaimed place (however expressed) is a reference to the issue of that document by the registrar for that place.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a stay of proceedings (however expressed) includes a reference to a stay of enforcement of the judgment arising from the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a stay of enforcement of a judgment includes a reference to a stay of the issue of an order or writ under Part 8 of the Civil Procedure Act 2005.</text></p>
+<leg:histnote>
+<p><text>[subs (6)  subst Act No 28 of 2005, effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a provision of this Act refers to the amount claimed in an action or cross-claim or to the amount for which an action is authorised by this Act to be brought and the action or cross-claim is for the detention of goods, the reference to that amount shall be construed as a reference to an amount equivalent to the value of the goods together with any damages claimed for the detention of the goods.</text></p>
+<leg:histnote>
+<p><text>[subs (7)  insrt Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a Court of Quarter Sessions includes a reference to a court which, before 1 July 1973, was a Court of Sessions of the Peace, General Sessions of the Peace, General Sessions, General Quarter Sessions, General or Quarter Sessions, or General and Quarter Sessions.</text></p>
+<leg:histnote>
+<p><text>[subs (8)  insrt Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to criminal jurisdiction includes a reference to jurisdiction to hear an appeal from any conviction, finding of guilt, sentence or other decision relating to the commission or alleged commission of an offence against the law in force in New South Wales.</text></p>
+<leg:histnote>
+<p><text>[subs (9)  insrt Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.10"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.10" type="ext"/>(10)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S4.10.A"><lilabel><refpt id="UCPN.DC.DCAN.S4.10.A" type="ext"/>(a)</lilabel>
+<p><text>a reference to a function includes a reference to a power, authority and duty; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S4.10.B"><lilabel><refpt id="UCPN.DC.DCAN.S4.10.B" type="ext"/>(b)</lilabel>
+<p><text>a reference to the exercise of a function includes, where the function is a duty, a reference to the performance of the duty.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (10)  insrt Act 210 of 1986  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.11"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.11" type="ext"/>(11)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this or any other Act, or in any instrument, to the registrar of the District Court for a proclaimed place is, if there are 2 registrars for that place, a reference to either registrar.</text></p>
+<leg:histnote>
+<p><text>[subs (11)  insrt Act 88 of 1995  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S4.12"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S4.12" type="ext"/>(12)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes included in this Act do not form part of this Act.</text></p>
+<leg:histnote>
+<p><text>[subs (12)  insrt Act 77 of 2005  s 48 and Sch 6, effective 1 January 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.DC.DCAN.S4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_DC.SGM_UCPN.DC.DCAS4-5" leveltype="para0" subdoc="true" toc-caption="[DCA s 4.5] Action">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 4.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> Div 8, s 4(1), &#x201c;action&#x201d;.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2001-82" remotekey1="REFPTID" service="DOC-ID">Consumer, Trader and Tenancy Tribunal Act 2001</remotelink> s 65.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS4-5" type="ext"/>[DCA s 4.5] </edpnum><title>Action</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>By definition in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S4.1" remotekey1="REFPTID" service="DOC-ID">s 4(1)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S4.1.ACTION" remotekey1="REFPTID" service="DOC-ID">&#x201c;action&#x201d;</remotelink></ci:content></ci:cite>
+ excludes statutory appeals (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1976"/></ci:caseinfo><ci:caseref ID="cr000001" spanref="cr000001-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:page num="176"/></ci:caseref><ci:caseref anaphref="cr000001" spanref="cr000001-002"><ci:pinpoint num="180" targettype="page"/></ci:caseref><ci:caseref anaphref="cr000001" spanref="cr000001-003"><ci:pinpoint num="185" targettype="page"/></ci:caseref><ci:caseref anaphref="cr000001" spanref="cr000001-004" status="unval"><ci:pinpoint num="187" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cook v Head</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000001-001">[1976] 1 NSWLR 176</ci:span> <ci:span spanid="cr000001-002">at 180,</ci:span> <ci:span spanid="cr000001-003">185</ci:span> <ci:span spanid="cr000001-004" status="unval">and 187</ci:span></citefragment></ci:content></ci:cite>) and criminal proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000002" spanref="cr000002-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="627"/></ci:caseref><ci:caseref anaphref="cr000002" spanref="cr000002-002" status="unval"><ci:pinpoint num="630" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Grzybowicz v Smiljanic</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000002-001">[1980] 1 NSWLR 627</ci:span> <ci:span spanid="cr000002-002" status="unval">at 630</ci:span></citefragment></ci:content></ci:cite> and proceedings under Pt 3 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3.D8" remotekey1="REFPTID" service="DOC-ID">Div 8</remotelink></ci:content></ci:cite>
+ (including certain equitable relief) <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1999"/></ci:caseinfo><ci:caseref ID="cr000003" spanref="cr000003-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="198"/><ci:page num="435"/></ci:caseref><ci:caseref anaphref="cr000003" spanref="cr000003-002" status="unval"><ci:pinpoint num="448" targettype="page"/></ci:caseref><ci:caseref ID="cr000004" spanref="cr000004-003"><ci:reporter value="ALR"/><ci:volume num="162"/><ci:page num="336"/></ci:caseref><ci:caseref anaphref="cr000004" spanref="cr000004-004"><ci:pinpoint num="345" targettype="page"/></ci:caseref><ci:caseref ID="cr000005" spanref="cr000005-005"><ci:reporter value="urj"/><ci:refnum num="BC9902072"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pelechowski v Registrar, Court of Appeal</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000003-001" status="unval">(1999) 198 CLR 435</ci:span> <ci:span spanid="cr000003-002" status="unval">at 448 [39]</ci:span>; <ci:span spanid="cr000004-003">162 ALR 336</ci:span> <ci:span spanid="cr000004-004">at 345</ci:span>; [1999] HCA 19; <ci:span spanid="cr000005-005"> BC9902072</ci:span></citefragment> <remotelink dpsi="0018" refpt="295726" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. It is arguable that the term &#x201c;action&#x201d; does not extend to applications for judicial review under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CTTTAN01.S65" remotekey1="REFPTID" service="DOC-ID" status="unval">s 65</remotelink></ci:content></ci:cite>
+ of the Consumer, Trader and Tenancy Tribunal Act 2001: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000006" spanref="cr000006-001"><ci:reporter value="urj"/><ci:refnum num="BC200907371"/></ci:caseref><ci:caseref anaphref="cr000006" spanref="cr000006-002"><ci:pinpoint num="9" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Obieta v Consumer, Tenancy and Trading Tribunal (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWCA 249; <ci:span spanid="cr000006-001"> BC200907371</ci:span> <ci:span spanid="cr000006-002">at [9]&#x2013;[11]</ci:span></citefragment> <remotelink dpsi="0018" refpt="478497" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_DC.SGM_UCPN.DC.DCAS4-10" leveltype="para0" subdoc="true" toc-caption="[DCA s 4.10] Court of Quarter Sessions"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS4-10" type="ext"/>[DCA s 4.10] </edpnum><title>Court of Quarter Sessions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The history of Courts of Quarter Sessions is summarised in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr000007" spanref="cr000007-001"><ci:reporter value="NSWLR"/><ci:volume num="20"/><ci:page num="554"/></ci:caseref><ci:caseref anaphref="cr000007" spanref="cr000007-002" status="unval"><ci:pinpoint num="560" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Longshaw</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000007-001">(1990) 20 NSWLR 554</ci:span> <ci:span spanid="cr000007-002" status="unval">at 560</ci:span></citefragment> <remotelink dpsi="0018" refpt="83595" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_DC.SGM_UCPN.DC.DCAS4-15" leveltype="para0" subdoc="true" toc-caption="[DCA s 4.15] Related UCP Definitions"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS4-15" type="ext"/>[DCA s 4.15] </edpnum><title>Related UCP Definitions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The CPA s 3 contains various definitions including &#x201c;civil proceedings&#x201d;, &#x201c;criminal proceedings&#x201d;, &#x201c;judgment&#x201d;, &#x201c;jurisdictional limit&#x201d;, &#x201c;minor&#x201d;, &#x201c;motor accident claim&#x201d;, &#x201c;officer&#x201d;, &#x201c;the rules&#x201d; and &#x201c;workplace injury damages claim&#x201d;. Further definitions are contained in the Dictionary to the UCPR. Section 3 of the CPA defines &#x201c;uniform rules&#x201d; rules made, or taken to have been made, under s 9 of the CPA (by the Uniform Rules Committee). </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 5] s 5 Interpretation: nearest proclaimed place">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S5" type="ext"/>[DCA s 5]</edpnum><title searchtype="SECT-TITLE">Interpretation: nearest proclaimed place</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to the nearest proclaimed place to another place (however expressed) is a reference to the proclaimed place the distance between the principal registry for which and that other place is shorter than the distance between any other principal registry and that other place.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S5.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ &#x2014;</text></p>
+<deflist><defitem id="UCPN.DC.DCAN.S5.2.DISTANCE"><defterm><refpt id="UCPN.DC.DCAN.S5.2.DISTANCE" type="ext"/><emph typestyle="bf">distance</emph></defterm> <defdesc>
+<p><text>means distance computed in accordance with the civil procedure rules;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S5.2.PRINCIPAL-REGISTRY"><defterm><refpt id="UCPN.DC.DCAN.S5.2.PRINCIPAL-REGISTRY" type="ext"/><emph typestyle="bf">principal registry</emph></defterm> <defdesc>
+<p><text>in relation to a proclaimed place means&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S5.2.PRINCIPAL-REGISTRY.A"><lilabel><refpt id="UCPN.DC.DCAN.S5.2.PRINCIPAL-REGISTRY.A" type="ext"/>(a)</lilabel>
+<p><text>where there is only one registry for the proclaimed place &#x2014; that registry; or</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S5.2.PRINCIPAL-REGISTRY.B"><lilabel><refpt id="UCPN.DC.DCAN.S5.2.PRINCIPAL-REGISTRY.B" type="ext"/>(b)</lilabel>
+<p><text>where there are two or more registries for the proclaimed place &#x2014; the registry specified in, or determined in accordance with, the civil procedure rules as being the principal registry for the proclaimed place.</text></p>
+</li>
+</l></defdesc></defitem></deflist><leg:histnote>
+<p><text>[subs (2)  am Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S5.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may, at the Governor's discretion, by proclamation, specify an address or a place at which the principal registry for a proclaimed place shall be deemed to be situated, and that principal registry shall, for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S5.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+, be deemed to be situated at the address or place so specified, notwithstanding that it may be situated elsewhere.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 6] s 6 Order on terms">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S6" type="ext"/>[DCA s 6]</edpnum><title searchtype="SECT-TITLE">Order on terms</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where under this Act or the civil or criminal procedure rules the Court may make any order or give any direction or leave or do any other thing on terms, the Court may make the order or give the direction or leave or do the thing on such terms and conditions (if any) as the Court thinks fit.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf Act 52 of 1970 s 21</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[s 6  am Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.DC.DCAN.S6.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_DC.SGM_UCPN.DC.DCAS6-5" leveltype="para0" subdoc="true" toc-caption="[DCA s 6.5] Extent of power to impose terms">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 6.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 86.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS6-5" type="ext"/>[DCA s 6.5] </edpnum><title>Extent of power to impose terms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S86" remotekey1="REFPTID" service="DOC-ID">s 86</remotelink></ci:content></ci:cite>
+ confers a general power to make any order on terms. Both that provision and the present section permit the court to impose &#x201c;such terms and conditions as the court thinks fit&#x201d;. However, neither provision permits the court to make an order for the payment of costs in criminal proceedings. Nor do they permit the court to adjourn criminal proceedings, subject to an order for the payment of costs. However, the court may adjourn criminal proceedings on the basis of an agreement between the parties or the acceptance of an undertaking by one of the parties: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Seebag</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (CCA(NSW), 16 February 1993, unreported)</citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1999"/></ci:caseinfo><ci:caseref ID="cr000008" spanref="cr000008-001" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="104"/><ci:page num="142"/></ci:caseref><ci:caseref ID="cr000009" spanref="cr000009-002"><ci:reporter value="urj"/><ci:refnum num="BC9900748"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Beeby</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000008-001" status="unval">(1999) 104 A Crim R 142</ci:span>; [1999] NSWCCA 30; <ci:span spanid="cr000009-002"> BC9900748</ci:span></citefragment> <remotelink dpsi="0018" refpt="294238" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2000"/></ci:caseinfo><ci:caseref ID="cr000010" spanref="cr000010-001" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="114"/><ci:page num="1"/></ci:caseref><ci:caseref ID="cr000011" spanref="cr000011-002"><ci:reporter value="urj"/><ci:refnum num="BC200002110"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Bucksath</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000010-001" status="unval">(2000) 114 A Crim R 1</ci:span>; [2000] NSWCCA 135; <ci:span spanid="cr000011-002"> BC200002110</ci:span></citefragment> <remotelink dpsi="0018" refpt="310531" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The court may stay criminal proceedings to give effect to an undertaking by the Crown to pay costs thrown away by reason of an adjournment: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000012" spanref="cr000012-000"/></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Bucksath</emph></citefragment><citefragment searchtype="CASE-CITE-REF">, <emph typestyle="it">above,</emph><ci:span spanid="cr000012-000">at [31]&#x2013;[33]</ci:span></citefragment> <remotelink dpsi="0018" refpt="310531" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr000013" spanref="cr000013-001"><ci:reporter value="NSWLR"/><ci:volume num="28"/><ci:page num="735"/></ci:caseref><ci:caseref ID="cr000014" spanref="cr000014-002" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="65"/><ci:page num="452"/></ci:caseref><ci:caseref ID="cr000015" spanref="cr000015-003"><ci:reporter value="urj"/><ci:refnum num="BC9203074"/></ci:caseref><ci:caseref anaphref="cr000015" spanref="cr000015-004" status="unval"><ci:pinpoint num="740" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Mosely</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000013-001">(1992) 28 NSWLR 735</ci:span>; <ci:span spanid="cr000014-002" status="unval">65 A Crim R 452</ci:span>; <ci:span spanid="cr000015-003"> BC9203074</ci:span> <ci:span spanid="cr000015-004" status="unval">at 740</ci:span></citefragment> <remotelink dpsi="0018" refpt="41698" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 7] s 7 Application of certain provisions of this Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S7" type="ext"/>[DCA s 7]</edpnum><title searchtype="SECT-TITLE">Application of certain provisions of this Act</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT6.D2" remotekey1="REFPTID" service="DOC-ID">Division 2 of Part 6</remotelink></ci:content></ci:cite>
+ and the civil procedure rules&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S7..A"><lilabel><refpt id="UCPN.DC.DCAN.S7..A" type="ext"/>(a)</lilabel>
+<p><text>apply to and in respect of proceedings in the Court in its civil jurisdiction; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S7..B"><lilabel><refpt id="UCPN.DC.DCAN.S7..B" type="ext"/>(b)</lilabel>
+<p><text>except as provided by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT4" remotekey1="REFPTID" service="DOC-ID">Part 4</remotelink></ci:content></ci:cite>
+, do not apply to or in respect of proceedings in the Court in its criminal jurisdiction.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[s 7  am Act 170 of 1984  s 5 and Sch 2]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.DC.DCAN.S7.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_DC.SGM_UCPN.DC.DCAS7-5" leveltype="para0" subdoc="true" toc-caption="[DCA s 7.5] Division of civil and criminal jurisdiction">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 7.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> Pt 3, Pt 4.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS7-5" type="ext"/>[DCA s 7.5] </edpnum><title>Division of civil and criminal jurisdiction</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The powers of the court in its civil jurisdiction under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3" remotekey1="REFPTID" service="DOC-ID">Pt 3</remotelink></ci:content></ci:cite>
+ of the Act do not apply to its criminal jurisdiction unless specifically provided in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT4" remotekey1="REFPTID" service="DOC-ID">Pt 4</remotelink></ci:content></ci:cite>
+ of the Act: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr000016" spanref="cr000016-001"><ci:reporter value="NSWLR"/><ci:volume num="28"/><ci:page num="735"/></ci:caseref><ci:caseref anaphref="cr000016" spanref="cr000016-002" status="unval"><ci:pinpoint num="737" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Mosely</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000016-001">(1992) 28 NSWLR 735</ci:span> <ci:span spanid="cr000016-002" status="unval">at 737</ci:span></citefragment> <remotelink dpsi="0018" refpt="41698" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000017" spanref="cr000017-001"><ci:reporter value="urj"/><ci:refnum num="BC9600606"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Comptroller General of Customs v D'Aquino Brothers Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000017-001"> (NSWCCA, Hunt CJ, Ireland and Dowd JJ, No 60223/95, 19 February 1996, unreported, BC9600606)</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_DC.SGM_UCPN.DC.DCAS7-10" leveltype="para0" subdoc="true" toc-caption="[DCA s 7.10] Application of the Uniform Civil Procedure Rules">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCA s 7.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 10(1).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.DCAS7-10" type="ext"/>[DCA s 7.10] </edpnum><title>Application of the Uniform Civil Procedure Rules</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The rules of court are taken to include the uniform rules to the extent to which they are applicable in the District Court: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S10.1" remotekey1="REFPTID" service="DOC-ID">s 10(1)</remotelink></ci:content></ci:cite>
+ of the CPA.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 3  REFERENCES TO REFEREES [rr 20.13&#x2013;20.24]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT20.D3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 20  RESOLUTION OF PROCEEDINGS WITHOUT HEARING [rr 20.1&#x2013;20.34]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 3  REFERENCES TO REFEREES [rr 20.13&#x2013;20.24]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010630</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN.UCPR.UCPRN05.PT20"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 20  RESOLUTION OF PROCEEDINGS WITHOUT HEARING [rr 20.1&#x2013;20.34]"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT20.D3"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 3  REFERENCES TO REFEREES [rr 20.13&#x2013;20.24]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT20.D3" type="ext"/>DIVISION 3</designum></desig><title searchtype="DIV-TITLE"> REFERENCES TO REFEREES [rr 20.13&#x2013;20.24]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-13"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.13] r 20.13 Definitions (cf SCR Part 72, rule 1) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-13" type="ext"/>[r 20.13]</edpnum><title searchtype="RUL-TITLE">Definitions (cf SCR Part 72, rule 1) </title><desig searchtype="RUL-NUM"><designum>20.13</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Division:</text></p>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R20-13.ORDER-OF-REFERRAL"><defterm><refpt id="UCPN.UCPR.UCPRN05.R20-13.ORDER-OF-REFERRAL" type="ext"/><emph typestyle="bf">order of referral</emph></defterm> <defdesc>
+<p><text>means an order in force under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-14" remotekey1="REFPTID" service="DOC-ID">rule 20.14</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R20-13.QUESTION"><defterm><refpt id="UCPN.UCPR.UCPRN05.R20-13.QUESTION" type="ext"/><emph typestyle="bf">question</emph></defterm> <defdesc>
+<p><text>includes any question or issue arising in any proceedings, whether of fact or law, or both, and whether raised by pleadings, agreement of parties or otherwise.</text></p>
+</defdesc></defitem></deflist>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPN05.PT20.R13.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.20-13-5" leveltype="para0" subdoc="true" toc-caption="[20.13.5] Introductory note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.13.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 20.24.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-13-5" type="ext"/>[20.13.5] </edpnum><title>Introductory note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under this Division the court has a general discretion, except in matters to be tried by jury, to appoint referees and refer to them either the whole of the proceedings or any questions to which they give rise. Referees appointed under this Division are not officers of the court and their reports have no legal consequence unless or until they are adopted by the court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr004446" spanref="cr004446-001"><ci:reporter value="NSWLR"/><ci:volume num="18"/><ci:page num="453"/></ci:caseref><ci:caseref anaphref="cr004446" spanref="cr004446-002" status="unval"><ci:pinpoint num="465" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Xeureb v Viola</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004446-001">(1989) 18 NSWLR 453</ci:span> <ci:span spanid="cr004446-002" status="unval">at 465&#x2013;6</ci:span></citefragment> <remotelink dpsi="0018" refpt="18929" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-24" remotekey1="REFPTID" service="DOC-ID">r 20.24</remotelink>
+. </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-14"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.14] r 20.14 Orders of referral (cf SCR Part 72, rule 2)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-14" type="ext"/>[r 20.14]</edpnum><title searchtype="RUL-TITLE">Orders of referral (cf SCR Part 72, rule 2)</title><desig searchtype="RUL-NUM"><designum>20.14</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-14.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-14.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>At any stage of the proceedings, the court may make orders for reference to a referee appointed by the court for inquiry and report by the referee on the whole of the proceedings or on any question arising in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-14.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-14.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court must not make an order under subrule (1) in respect of a question to be tried with a jury.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT20.R14.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.20-14-5" leveltype="para0" subdoc="true" toc-caption="[20.14.5] Discretion to refer proceedings">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.14.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 6.42&#x2013;6.44.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-14-5" type="ext"/>[20.14.5] </edpnum><title>Discretion to refer proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The present rule confers a general discretion to refer matters to a referee whenever the court is satisfied that doing so will best achieve the overriding purpose of the Rules &#x2014; the just, quick and cheap resolution of the real issues in the proceedings. The discretion to refer is thus stated in general terms and requires proper regard to be paid to the nature of the issues in dispute, the appropriateness of resolving them by ordinary trial procedures, any potential saving of time and expense as a result of making an order for reference out and the general desirability of making such an order in the particular circumstances. An order for reference may be made at any time, including after the commencement of the hearing: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004447" spanref="cr004447-001"><ci:reporter value="urj"/><ci:refnum num="BC200402167"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Stockland (Constructors) Pty Ltd v Darryl I Coombs Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2004] NSWSC 333; <ci:span spanid="cr004447-001"> BC200402167</ci:span></citefragment> <remotelink dpsi="0018" refpt="378900" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>Typically, disputes that involve significant technical issues are suitable for reference out &#x2014; because of the expectation that an appropriately selected referee will provide the most efficient, economical and accurate determination of issues of that kind. The rules specifically contemplate that the Supreme Court may make an order referring disputed issues of foreign law: see UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-42" remotekey1="REFPTID" service="DOC-ID">rr 6.42&#x2013;6.44</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>An order for reference out may be made, as the rule implicitly contemplates, irrespective of the preferences of the parties: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1987"/></ci:caseinfo><ci:caseref ID="cr004448" spanref="cr004448-001"><ci:reporter value="NSWLR"/><ci:volume num="8"/><ci:page num="123"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Park Rail Developments Pty Ltd v R J Pearce Assocs Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004448-001">(1987) 8 NSWLR 123</ci:span></citefragment> <remotelink dpsi="0018" refpt="38816" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; and, notwithstanding some authorities to the contrary: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004449" spanref="cr004449-001" status="unval"><ci:reporter value="VR"/><ci:volume num="1982"/><ci:edition><ci:date year="1982"/></ci:edition><ci:page num="762"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Taylor &amp; Sons Pty Ltd v Brival Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004449-001" status="unval">[1982] VR 762</ci:span></citefragment> <remotelink dpsi="0018" refpt="25832" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004450" spanref="cr004450-001" status="unval"><ci:reporter value="Qd R"/><ci:volume num="1980"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="355"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Honeywell Pty Ltd v Austral Motors Holdings Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004450-001" status="unval">[1980] Qd R 355</ci:span></citefragment> <remotelink dpsi="0018" refpt="12435" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004451" spanref="cr004451-001"><ci:reporter value="Qd R"/><ci:volume num="1"/><ci:edition><ci:date year="1994"/></ci:edition><ci:page num="34"/></ci:caseref><ci:caseref ID="cr004452" spanref="cr004452-002"><ci:reporter value="urj"/><ci:refnum num="BC9202603"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Everingham v Clarke</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004451-001">[1994] 1 Qd R 34</ci:span>; <ci:span spanid="cr004452-002"> BC9202603</ci:span></citefragment> <remotelink dpsi="0018" refpt="58275" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Where parties disagree on the appointment of a referee the court may invite a professional body to nominate suitably qualified people who are willing to accept appointment: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004453" spanref="cr004453-001"><ci:reporter value="urj"/><ci:refnum num="BC201106419"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ahmed v Chowdhury (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWSC 954; <ci:span spanid="cr004453-001"> BC201106419</ci:span></citefragment> <remotelink dpsi="0018" refpt="538129" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-14-10" leveltype="para0" subdoc="true" toc-caption="[20.14.10] Form of order referring proceedings"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-14-10" type="ext"/>[20.14.10] </edpnum><title>Form of order referring proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A question or issue referred will usually be specifically stated, but the court may make an order referring all questions or issues in the proceedings that have not already been decided. At least in circumstances where the referee is an experienced lawyer, it is desirable to include in the order specific powers to permit amendment of the pleadings and the issues to be determined in the reference: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004454" spanref="cr004454-001"><ci:reporter value="urj"/><ci:refnum num="BC9301811"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">AMP Fire and General Insurance Co Ltd v Leighton Contractors Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004454-001"> (NSWCA, Kirby P, Mahoney and Clarke JJA, No 40346/93, 14 July 1993, unreported, BC9301811)</ci:span></citefragment></ci:content></ci:cite>. In this context, see the usual form of order for reference in Supreme Court Practice Note SC Eq 3, Annexure 2.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-14-15" leveltype="para0" subdoc="true" toc-caption="[20.14.15] Foreign law &#x2014; referral under UCPR r 20.14">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.14.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> Div 9, r 20.14.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-14-15" type="ext"/>[20.14.15] </edpnum><title>Foreign law &#x2014; referral under UCPR r 20.14</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>There are specific provisions relating to the commencement of proceedings involving disputed questions of foreign law: see of UCPR Pt 6 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT6.D9" remotekey1="REFPTID" service="DOC-ID">Div 9</remotelink></ci:content></ci:cite>
+.
+Under those provisions disputed issues of foreign law may be the subject of an order by the Supreme Court for reference under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-14" remotekey1="REFPTID" service="DOC-ID">r 20.14</remotelink></ci:content></ci:cite>
+: see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2011"/></ci:caseinfo><ci:caseref ID="cr004455" spanref="cr004455-001"><ci:reporter value="ALR"/><ci:volume num="279"/><ci:page num="737"/></ci:caseref><ci:caseref ID="cr004456" spanref="cr004456-002"><ci:reporter value="urj"/><ci:refnum num="BC201101958"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Fleming v Marshall</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004455-001">(2011) 279 ALR 737</ci:span>; [2011] NSWCA 86; <ci:span spanid="cr004456-002"> BC201101958</ci:span></citefragment> <remotelink dpsi="0018" refpt="531777" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-15"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.15] r 20.15 Appointment of referees (cf SCR Part 72, rule 3)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-15" type="ext"/>[r 20.15]</edpnum><title searchtype="RUL-TITLE">Appointment of referees (cf SCR Part 72, rule 3)</title><desig searchtype="RUL-NUM"><designum>20.15</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-15.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-15.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this rule, the court may appoint any person as a referee.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-15.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-15.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A judicial officer or other officer of the court may not act as a referee otherwise than with the concurrence of the senior judicial officer.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT20.R15.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.20-15-5" leveltype="para0" subdoc="true" toc-caption="[20.15.5] Arbitrator as referee"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-15-5" type="ext"/>[20.15.5] </edpnum><title>Arbitrator as referee</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An arbitrator nominated by the parties in respect of some issues in dispute between them may also be appointed by the court as a referee. The appointment may be particularly appropriate where the arbitrator has special competence or where the matters in issue in the arbitration and in the prospective reference are common or similar: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr004457" spanref="cr004457-001"><ci:reporter value="NSWLR"/><ci:volume num="28"/><ci:page num="321"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Aerospatiale Holdings Australia Pty Ltd v Elspan International Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004457-001">(1992) 28 NSWLR 321</ci:span></citefragment> <remotelink dpsi="0018" refpt="43367" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-16"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.16] r 20.16 Two or more referees (cf SCR Part 72, rule 4)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-16" type="ext"/>[r 20.16]</edpnum><title searchtype="RUL-TITLE">Two or more referees (cf SCR Part 72, rule 4)</title><desig searchtype="RUL-NUM"><designum>20.16</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-16.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-16.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the court appoints 2 referees and a decision to be made in the course of proceedings under the reference is not agreed, the decision that is binding is:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-16.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-16.1.A" type="ext"/>(a)</lilabel>
+<p><text>if a judicial officer is a referee, the decision of the judicial officer, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-16.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-16.1.B" type="ext"/>(b)</lilabel>
+<p><text>in any other case, the decision of the referee appointed by the court to be senior referee.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-16.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-16.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the court appoints 3 or more referees, any decision to be made in the course of proceedings under the reference may be made by a majority of the referees and, failing a majority, the decision that is binding is:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-16.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-16.2.A" type="ext"/>(a)</lilabel>
+<p><text>if a judicial officer is a referee, the decision of the judicial officer, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-16.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-16.2.B" type="ext"/>(b)</lilabel>
+<p><text>in any other case, the decision of the referee appointed by the court to be senior referee.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-17"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.17] r 20.17 Inquiry and report (cf SCR Part 72, rule 5)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-17" type="ext"/>[r 20.17]</edpnum><title searchtype="RUL-TITLE">Inquiry and report (cf SCR Part 72, rule 5)</title><desig searchtype="RUL-NUM"><designum>20.17</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-17.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-17.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, at any time and from time to time:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-17.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-17.1.A" type="ext"/>(a)</lilabel>
+<p><text>authorise the referee to inquire into and report on any facts relevant to the inquiry and report on the matter referred, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-17.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-17.1.B" type="ext"/>(b)</lilabel>
+<p><text>direct the referee to make a further or supplemental report or inquiry and report, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-17.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-17.1.C" type="ext"/>(c)</lilabel>
+<p><text>give such instructions as the court thinks fit relating to the inquiry or report.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-17.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-17.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Instructions under subrule (1)(c) may include provision concerning any experiment or test for the purposes of any inquiry or report of a referee.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-18"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.18] r 20.18 Remuneration of referee (cf SCR Part 72, rule 6)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-18" type="ext"/>[r 20.18]</edpnum><title searchtype="RUL-TITLE">Remuneration of referee (cf SCR Part 72, rule 6)</title><desig searchtype="RUL-NUM"><designum>20.18</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-18.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-18.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-18.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-18.1.A" type="ext"/>(a)</lilabel>
+<p><text>may determine the amount of the fees to be paid to a referee, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-18.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-18.1.B" type="ext"/>(b)</lilabel>
+<p><text>may direct how, when and by whom the whole or any part of any such fees are to be payable, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-18.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-18.1.C" type="ext"/>(c)</lilabel>
+<p><text>may determine the consequences of failure to comply with a direction under paragraph (b).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-18.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-18.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subrule (1) does not affect the powers of the court as to costs.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT20.R18.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.20-18-5" leveltype="para0" subdoc="true" toc-caption="[20.18.5] Fee of referee"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-18-5" type="ext"/>[20.18.5] </edpnum><title>Fee of referee</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An order appointing a referee should actually refer to the referee&#x2019;s fees. Alternatively, the parties must enter into a firm agreement with the referee setting out the proposed fees. Otherwise when a claim is made to the court, ordinarily there must be evidence: (a) of the time actually spent by the referee; and (b) that the amount claimed is fair and reasonable: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004458" spanref="cr004458-001"><ci:reporter value="urj"/><ci:refnum num="BC9201877"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Buttrose v Versi</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004458-001"> (NSWSC, Young J, No 3568/90, 14 May 1992, unreported, BC9201877)</ci:span></citefragment></ci:content></ci:cite>. If a referee wishes to claim a cancellation fee in the event that the time set aside for the reference is not required, that must be the subject of specific agreement between the parties. Ordinarily the court will not order the payment of such a fee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004459" spanref="cr004459-001"><ci:reporter value="urj"/><ci:refnum num="BC9304215"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Amec Construction Pty Ltd v Coal and Allied Operations Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004459-001"> (NSWSC, Cole J, 29 April 1993, unreported, BC9304215)</ci:span></citefragment></ci:content></ci:cite>. A solicitor may be held jointly and severally liable with the client for a referee&#x2019;s fees and the court should ensure that referees are paid proper fees for their work: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr004460" spanref="cr004460-001"><ci:reporter value="NSWLR"/><ci:volume num="35"/><ci:page num="178"/></ci:caseref><ci:caseref ID="cr004461" spanref="cr004461-002"><ci:reporter value="urj"/><ci:refnum num="BC9405115"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Birkai Pty Ltd v Permanent Custodians Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004460-001">(1994) 35 NSWLR 178</ci:span>; <ci:span spanid="cr004461-002"> BC9405115</ci:span></citefragment> <remotelink dpsi="0018" refpt="74751" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-18-10" leveltype="para0" subdoc="true" toc-caption="[20.18.10] Immunity of referee"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-18-10" type="ext"/>[20.18.10] </edpnum><title>Immunity of referee</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In the absence of actual bias, fraud or deliberate wrongdoing, referees enjoy a common law immunity from suit: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004462" spanref="cr004462-001"><ci:reporter value="NSWLR"/><ci:volume num="25"/><ci:page num="224"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Najjar v Haines</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004462-001">(1991) 25 NSWLR 224</ci:span></citefragment> <remotelink dpsi="0018" refpt="35150" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004463" spanref="cr004463-001"><ci:reporter value="urj"/><ci:refnum num="BC9201877"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Buttrose v Versi</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004463-001"> (NSWSC, Young J, No 3568/90, 14 May 1992, unreported, BC9201877)</ci:span></citefragment></ci:content></ci:cite>. Although a referee is immune from liability for damages for negligence, the referee&#x2019;s fee may be abated for negligence: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Buttrose v Versi</emph>
+</citefragment></ci:content></ci:cite>, above.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-19"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.19] r 20.19 Court rooms (cf SCR Part 72, rule 7)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-19" type="ext"/>[r 20.19]</edpnum><title searchtype="RUL-TITLE">Court rooms (cf SCR Part 72, rule 7)</title><desig searchtype="RUL-NUM"><designum>20.19</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text> The court may give directions for the provision:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-19.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-19.A" type="ext"/>(a)</lilabel>
+<p><text>of services of officers of the court, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-19.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-19.B" type="ext"/>(b)</lilabel>
+<p><text>of court rooms and other facilities,</text></p>
+</li>
+</l>
+<p><text>for the purpose of any reference under this Division.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-20"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.20] r 20.20 Conduct of proceedings under the reference (cf SCR Part 72, rule 8)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-20" type="ext"/>[r 20.20]</edpnum><title searchtype="RUL-TITLE">Conduct of proceedings under the reference (cf SCR Part 72, rule 8)</title><desig searchtype="RUL-NUM"><designum>20.20</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-20.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-20.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may give directions with respect to the conduct of proceedings under the reference.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-20.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-20.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any direction under subrule (1):</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-20.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-20.2.A" type="ext"/>(a)</lilabel>
+<p><text>the referee may conduct the proceedings under the reference in such manner as the referee thinks fit, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-20.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-20.2.B" type="ext"/>(b)</lilabel>
+<p><text>in conducting proceedings under the reference, the referee is not bound by the rules of evidence but may inform himself or herself in relation to any matter in such manner as the referee thinks fit.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-20.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-20.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Evidence before the referee:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-20.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-20.3.A" type="ext"/>(a)</lilabel>
+<p><text>may be given orally or in writing, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-20.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-20.3.B" type="ext"/>(b)</lilabel>
+<p><text>if the referee so requires, must, be given on oath or by affidavit.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-20.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-20.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A referee may take the examination of any person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-20.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-20.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Each party must, within a time fixed by the referee but in any event before the conclusion of evidence on the inquiry, give to the referee and each other party a brief statement of the findings of fact and law for which the party contends.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-20.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-20.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The parties must at all times do all things which the referee requires to enable a just opinion to be reached and no party may wilfully do or cause to be done any act to delay or prevent an opinion being reached.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT20.R20.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.20-20-5" leveltype="para0" subdoc="true" toc-caption="[20.20.5] Delegation by referee"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-20-5" type="ext"/>[20.20.5] </edpnum><title>Delegation by referee</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In appropriate cases, a referee may obtain assistance from others (such as partners and employees) in carrying out work necessary for the preparation of his report. Where matters are delegated to a referee&#x2019;s staff, those matters must be within the competence of the staff and be subject to responsible supervision. However, all matters of substance should be dealt with by the referee personally: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004464" spanref="cr004464-001"><ci:reporter value="NSWLR"/><ci:volume num="24"/><ci:page num="513"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Telecomputing PCS Pty Ltd v Bridge Wholesale Acceptance Corp (Aust) Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004464-001">(1991) 24 NSWLR 513</ci:span></citefragment> <remotelink dpsi="0018" refpt="33342" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-20-10" leveltype="para0" subdoc="true" toc-caption="[20.20.10] Directions by the court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.20.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2010-61" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 2010</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-20-10" type="ext"/>[20.20.10] </edpnum><title>Directions by the court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The judge will, when formulating directions, have regard to the provisions of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CAAN10" remotekey1="REFPTID" service="DOC-ID">Commercial Arbitration Act 2010</remotelink></ci:content></ci:cite>
+ (NSW), the nature of the issues to be determined and the identity and qualifications of the referee. Where the referee is a technical expert, it is inappropriate to require that the rules of evidence be applied. The obligation to adhere to the rules of natural justice (see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.20-20-20" remotekey1="REFPTID" service="DOC-ID">[20.20.20]</remotelink>
+) does not mean that a technical expert appointed as a referee should observe formal judicial procedures: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004465" spanref="cr004465-001"><ci:reporter value="NSWLR"/><ci:volume num="23"/><ci:page num="13"/></ci:caseref><ci:caseref ID="cr004466" spanref="cr004466-002"><ci:reporter value="ALD"/><ci:volume num="24"/><ci:page num="196"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Beveridge v Dontan Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004465-001">(1991) 23 NSWLR 13</ci:span>; <ci:span spanid="cr004466-002">24 ALD 196</ci:span></citefragment> <remotelink dpsi="0018" refpt="28525" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-20-15" leveltype="para0" subdoc="true" toc-caption="[20.20.15] Legal representation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.20.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 20.17(1)(c), 20.20(1).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-20-15" type="ext"/>[20.20.15] </edpnum><title>Legal representation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The court may give instructions and directions to the referee pursuant to 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-17.1.C" remotekey1="REFPTID" service="DOC-ID">rr 20.17(1)(c)</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-20.1" remotekey1="REFPTID" service="DOC-ID">20.20(1)</remotelink>
+. The terms of those discretionary powers are wide and, notwithstanding the proposition that ordinarily a person is entitled to be legally represented (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004467" spanref="cr004467-001"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1986"/></ci:edition><ci:page num="841"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chilton v Saga Holidays Plc</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004467-001">[1986] 1 All ER 841</ci:span></citefragment> <remotelink dpsi="0018" refpt="336425" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004468" spanref="cr004468-001" status="unval"><ci:reporter value="QB"/><ci:volume num="1"/><ci:edition><ci:date year="1969"/></ci:edition><ci:page num="125"/></ci:caseref><ci:caseref anaphref="cr004468" spanref="cr004468-002"><ci:pinpoint num="132" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pett v Greyhound Racing Assn Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004468-001" status="unval">[1969] 1 QB 125</ci:span> <ci:span spanid="cr004468-002">at 132</ci:span></citefragment> <remotelink dpsi="0018" refpt="40484" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1955"/></ci:caseinfo><ci:caseref ID="cr004469" spanref="cr004469-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="92"/><ci:page num="10"/></ci:caseref><ci:caseref ID="cr004470" spanref="cr004470-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1955"/></ci:edition><ci:page num="385"/></ci:caseref><ci:caseref ID="cr004471" spanref="cr004471-003"><ci:reporter value="urj"/><ci:refnum num="BC5500550"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Kelly; Ex parte Commonwealth Public Service Clerical Assn</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004469-001" status="unval">(1955) 92 CLR 10</ci:span>; <ci:span spanid="cr004470-002" status="unval">[1955] ALR 385</ci:span>; <ci:span spanid="cr004471-003"> BC5500550</ci:span></citefragment> <remotelink dpsi="0018" refpt="57912" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>), the court may give directions excluding legal representatives from part of the proceedings before the referee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr004472" spanref="cr004472-001"><ci:reporter value="NSWLR"/><ci:volume num="30"/><ci:page num="403"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Triden Properties Ltd v Capita Financial Group Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004472-001">(1993) 30 NSWLR 403</ci:span></citefragment> <remotelink dpsi="0018" refpt="50872" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. It is doubtful, however, whether the width of the direction&#x2019;s power could sustain a direction which purported to totally exclude the right of a party to legal representation in the proceedings before a referee. However, there is no principle of law that automatically guarantees a right to legal representation and it is possible that in particular cases the requirement of procedural fairness might be satisfied even though legal representation was excluded: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Triden Properties Ltd v Capita Financial Group Ltd</emph>
+</citefragment></ci:content></ci:cite>, above. It will be a breach of procedural fairness, however, where legal representation is excluded by the referee rather than the court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr004473" spanref="cr004473-001" status="unval"><ci:reporter value="BCL"/><ci:volume num="10"/><ci:page num="273"/></ci:caseref><ci:caseref ID="cr004474" spanref="cr004474-002"><ci:reporter value="urj"/><ci:refnum num="BC9303886"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Argyle Lane Corp Pty Ltd v Tower Holdings Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004473-001" status="unval">(1993) 10 BCL 273</ci:span>; <ci:span spanid="cr004474-002"> BC9303886</ci:span></citefragment> <remotelink dpsi="0018" refpt="55398" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-20-20" leveltype="para0" subdoc="true" toc-caption="[20.20.20] Natural justice">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.20.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 20.20(2)(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-20-20" type="ext"/>[20.20.20] </edpnum><title>Natural justice</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The rule confers a wide scope for procedural flexibility in the conduct of the reference, but this is subject to the requirements of natural justice. The requirements of natural justice will vary according to the circumstances of each case.
+Referees must consider what is required to achieve fairness between the parties in the particular circumstances of their reference: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr004475" spanref="cr004475-001"><ci:reporter value="NSWLR"/><ci:volume num="18"/><ci:page num="453"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Xeureb v Viola</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004475-001">(1989) 18 NSWLR 453</ci:span></citefragment> <remotelink dpsi="0018" refpt="18929" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Sometimes it may be appropriate for the referee to adopt procedures substantially the same as those that would apply to judicial proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr004476" spanref="cr004476-001"><ci:reporter value="NSWLR"/><ci:volume num="14"/><ci:page num="552"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Clark Equipment Credit of Australia Ltd v Como Factors Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004476-001">(1988) 14 NSWLR 552</ci:span></citefragment> <remotelink dpsi="0018" refpt="14700" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (reference involving procedure similar to the taking of accounts). Generally, natural justice will require, in addition to the impartiality of the referee, that each party be afforded a proper opportunity to put its contentions, both in relation to matters raised by the opposing party and on any matters raised by the referee. Particularly is the latter requirement important where a referee has used the power in 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-20.2.B" remotekey1="REFPTID" service="DOC-ID">r 20.20(2)(b)</remotelink>
+ to obtain information independently: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004477" spanref="cr004477-001"><ci:reporter value="NSWLR"/><ci:volume num="24"/><ci:page num="513"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Telecomputing PCS Pty Ltd v Bridge Wholesale Acceptance Corp (Aust) Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004477-001">(1991) 24 NSWLR 513</ci:span></citefragment> <remotelink dpsi="0018" refpt="33342" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The referee should refrain from reaching a concluded opinion until each party has been afforded an opportunity to comment upon the information: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Xuereb v Viola</emph>
+</citefragment></ci:content></ci:cite>, above, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004478" spanref="cr004478-000"><ci:reporter value="NSWLR"/><ci:volume num="18"/><ci:edition><ci:date year="1989"/></ci:edition><ci:pinpoint num="470" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr004478-000">at 470</ci:span></citefragment></ci:content></ci:cite>. On the other hand, natural justice is a matter of substance rather than form. Accordingly, where parties have been given a proper opportunity to put their respective cases in writing, the absence of an oral hearing and an opportunity to cross-examine a witness need not, depending upon the circumstances of the particular case, constitute a denial of natural justice: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004479" spanref="cr004479-001"><ci:reporter value="NSWLR"/><ci:volume num="23"/><ci:page num="13"/></ci:caseref><ci:caseref ID="cr004480" spanref="cr004480-002"><ci:reporter value="ALD"/><ci:volume num="24"/><ci:page num="196"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Beveridge v Dontan Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004479-001">(1991) 23 NSWLR 13</ci:span>; <ci:span spanid="cr004480-002">24 ALD 196</ci:span></citefragment> <remotelink dpsi="0018" refpt="28525" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. A referee should not have private conversations with an expert, even to clarify aspects of the expert&#x2019;s report: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Xuereb v Viola</emph>
+</citefragment></ci:content></ci:cite>, above, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004481" spanref="cr004481-000" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="18"/><ci:edition><ci:date year="1989"/></ci:edition><ci:pinpoint num="470" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr004481-000" status="unval">at 470</ci:span></citefragment></ci:content></ci:cite>. If there is such a private communication, the referee should inform the opposing party of the fact and of the information conveyed, to afford that party an appropriate opportunity to express views about it: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Solah Blue Metal Pty Ltd v Tecma Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWSC, Giles J, 31 May 1991, unreported)</citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-21"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.21] r 20.21 Interlocutory directions (cf SCR Part 72, rule 9) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-21" type="ext"/>[r 20.21]</edpnum><title searchtype="RUL-TITLE">Interlocutory directions (cf SCR Part 72, rule 9) </title><desig searchtype="RUL-NUM"><designum>20.21</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, at any time and from time to time, on application of the referee or of a party, give directions with respect to any matter arising in proceedings under the reference.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-22"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.22] r 20.22 Setting aside or variation of reference (cf SCR Part 72, rule 10)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-22" type="ext"/>[r 20.22]</edpnum><title searchtype="RUL-TITLE">Setting aside or variation of reference (cf SCR Part 72, rule 10)</title><desig searchtype="RUL-NUM"><designum>20.22</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-22.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-22.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, of its own motion or on application by a referee or a party, set aside or vary any order of referral.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-22.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-22.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this rule affects any other power of the court to set aside or vary an order of referral.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT20.R22.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.20-22-5" leveltype="para0" subdoc="true" toc-caption="[20.22.5] Removal of referee"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-22-5" type="ext"/>[20.22.5] </edpnum><title>Removal of referee</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The ordinary principles about bias, both actual and apprehended, and the principles of natural justice, apply to referees. An order appointing a referee may be set aside where bias is established: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004482" spanref="cr004482-001"><ci:reporter value="NSWLR"/><ci:volume num="25"/><ci:page num="224"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Najjar v Haines</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004482-001">(1991) 25 NSWLR 224</ci:span></citefragment> <remotelink dpsi="0018" refpt="35150" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The relevant test is whether an informed observer (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr004483" spanref="cr004483-001"><ci:reporter value="NSWLR"/><ci:volume num="12"/><ci:page num="358"/></ci:caseref><ci:caseref ID="cr004484" spanref="cr004484-002"><ci:reporter value="IPR"/><ci:volume num="11"/><ci:page num="97"/></ci:caseref><ci:caseref ID="cr004485" spanref="cr004485-003" status="unval"><ci:reporter value="FLR"/><ci:volume num="91"/><ci:page num="175"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">S &amp; M Motor Repairs Pty Ltd v Caltex Oil (Aust) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004483-001">(1988) 12 NSWLR 358</ci:span>; <ci:span spanid="cr004484-002">11 IPR 97</ci:span>; <ci:span spanid="cr004485-003" status="unval">91 FLR 175</ci:span></citefragment> <remotelink dpsi="0018" refpt="9013" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>) who knows the actual circumstances of the case (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr004486" spanref="cr004486-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="170"/><ci:page num="70"/></ci:caseref><ci:caseref anaphref="cr004486" spanref="cr004486-002" status="unval"><ci:pinpoint num="87" targettype="page"/></ci:caseref><ci:caseref ID="cr004487" spanref="cr004487-003"><ci:reporter value="ALR"/><ci:volume num="93"/><ci:page num="435"/></ci:caseref><ci:caseref ID="cr004488" spanref="cr004488-004" status="unval"><ci:reporter value="ALJR"/><ci:volume num="64"/><ci:page num="412"/></ci:caseref><ci:caseref ID="cr004489" spanref="cr004489-005"><ci:reporter value="urj"/><ci:refnum num="BC9002913"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Laws v Australian Broadcasting Tribunal</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004486-001" status="unval">(1990) 170 CLR 70</ci:span> <ci:span spanid="cr004486-002" status="unval">at 87</ci:span>; <ci:span spanid="cr004487-003">93 ALR 435</ci:span>; <ci:span spanid="cr004488-004" status="unval">64 ALJR 412</ci:span>; <ci:span spanid="cr004489-005"> BC9002913</ci:span></citefragment> <remotelink dpsi="0018" refpt="19381" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>) would regard the referee as subject to a reasonable risk of being unable to deal impartially with the proceedings: see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-55" remotekey1="REFPTID" service="DOC-ID">[51.53.55]&#x2013;[51.53.70]</remotelink>
+. A referee may be removed where their conduct of the reference has been such as to deny natural justice to a party and the denial cannot be cured by further directions from the court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004490" spanref="cr004490-001"><ci:reporter value="urj"/><ci:refnum num="BC8801653"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pimas Constructions Pty Ltd v Metropolitan Waste Disposal Authority</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004490-001"> (NSWSC, Brownie J, 4 August 1988, unreported, BC8801653)</ci:span></citefragment></ci:content></ci:cite>: see 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.51-53-50" remotekey1="REFPTID" service="DOC-ID">[51.53.50]</remotelink>
+. Private communications between the referee and individual parties may indicate either bias or a denial of natural justice. However, such a conclusion depends on the context and content, rather than the mere fact, of the communication: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004491" spanref="cr004491-001"><ci:reporter value="urj"/><ci:refnum num="BC200804077"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Carbotech-Australia Pty Ltd v Yates</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWSC 540; <ci:span spanid="cr004491-001"> BC200804077</ci:span></citefragment> <remotelink dpsi="0018" refpt="457695" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (no reasonable apprehension of bias &#x2014; communication between expert referee and plaintiff&#x2019;s solicitors &#x2014; attributable to unfamiliarity with reference protocol and procedure).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-23"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.23] r 20.23 Report (cf SCR Part 72, rules 11 and 12)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-23" type="ext"/>[r 20.23]</edpnum><title searchtype="RUL-TITLE">Report (cf SCR Part 72, rules 11 and 12)</title><desig searchtype="RUL-NUM"><designum>20.23</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-23.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-23.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court orders otherwise, the referee must make a written report to the court on the matter referred to the referee, annexing the statements given under rule 20.20(5) and stating:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-23.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-23.1.A" type="ext"/>(a)</lilabel>
+<p><text>the referee&#x2019;s opinion on the matter, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-23.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-23.1.B" type="ext"/>(b)</lilabel>
+<p><text>the referee&#x2019;s reasons for that opinion.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-23.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-23.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On receipt of the report, the court must send it to the parties.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT20.R23.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.20-23-5" leveltype="para0" subdoc="true" toc-caption="[20.23.5] Reasons for decisions">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.23.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 20.24.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-23-5" type="ext"/>[20.23.5] </edpnum><title>Reasons for decisions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>While the giving of reasons is a normal incident of the judicial process, the extent of the duty is not always capable of precise definition: see 
+<remotelink dpsi="05CC" refpt="UCPN_UCPR.36-2-10" remotekey1="REFPTID" service="DOC-ID" status="unval">[36.2.10]</remotelink>
+. That same difficulty applies to the obligations imposed by the present rule. What is required is a statement of reasons which will permit the court to properly exercise its own functions under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-24" remotekey1="REFPTID" service="DOC-ID">r 20.24</remotelink></ci:content></ci:cite>
+. As a minimum, this would mean that the reasons ought to demonstrate sufficiently clearly the fundamental reasoning process that led to the conclusions set out in the report: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr004492" spanref="cr004492-001"><ci:reporter value="NSWLR"/><ci:volume num="18"/><ci:page num="453"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Xeureb v Viola</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004492-001">(1989) 18 NSWLR 453</ci:span></citefragment> <remotelink dpsi="0018" refpt="18929" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004493" spanref="cr004493-001"><ci:reporter value="urj"/><ci:refnum num="BC8901946"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Strbak v Newton</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004493-001"> (NSWSC, No 434/87, 18 July 1989, unreported, BC8901946)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004494" spanref="cr004494-001"><ci:reporter value="NSWLR"/><ci:volume num="25"/><ci:page num="224"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Najjar v Haines</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004494-001">(1991) 25 NSWLR 224</ci:span></citefragment> <remotelink dpsi="0018" refpt="35150" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The obligation to provide reasons does not require that the referee has to make express findings upon every matter of fact and law that was contested in the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1983"/></ci:caseinfo><ci:caseref ID="cr004495" spanref="cr004495-001"><ci:reporter value="NSWLR"/><ci:volume num="3"/><ci:edition><ci:date year="1983"/></ci:edition><ci:page num="378"/></ci:caseref><ci:caseref anaphref="cr004495" spanref="cr004495-002" status="unval"><ci:pinpoint num="385" targettype="page"/></ci:caseref><ci:caseref ID="cr004496" spanref="cr004496-003" status="unval"><ci:reporter value="LGRA"/><ci:volume num="53"/><ci:page num="325"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Housing Commission (NSW) v Tatmar Pastoral Co Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004495-001">[1983] 3 NSWLR 378</ci:span> <ci:span spanid="cr004495-002" status="unval">at 385</ci:span>; <ci:span spanid="cr004496-003" status="unval">(1983) 53 LGRA 325</ci:span></citefragment> <remotelink dpsi="0018" refpt="6342" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-24"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 20.24] r 20.24 Proceedings on the report (cf SCR Part 72, rule 13)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R20-24" type="ext"/>[r 20.24]</edpnum><title searchtype="RUL-TITLE">Proceedings on the report (cf SCR Part 72, rule 13)</title><desig searchtype="RUL-NUM"><designum>20.24</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-24.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-24.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a report is made under rule 20.23, the court may on a matter of fact or law, or both, do any of the following:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R20-24.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-24.1.A" type="ext"/>(a)</lilabel>
+<p><text>it may adopt, vary or reject the report in whole or in part,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-24.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-24.1.B" type="ext"/>(b)</lilabel>
+<p><text>it may require an explanation by way of report from the referee,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-24.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-24.1.C" type="ext"/>(c)</lilabel>
+<p><text>it may, on any ground, remit for further consideration by the referee the whole or any part of the matter referred for a further report,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R20-24.1.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R20-24.1.D" type="ext"/>(d)</lilabel>
+<p><text>it may decide any matter on the evidence taken before the referee, with or without additional evidence,</text></p>
+</li>
+</l>
+<p><text>and must, in any event, give such judgment or make such order as the court thinks fit.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R20-24.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R20-24.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Evidence additional to the evidence taken before the referee may not be adduced before the court except by leave of the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT20.R24.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.20-24-5" leveltype="para0" subdoc="true" toc-caption="[20.24.5] Adoption, variation or rejection of the report">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.24.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 20.24(1)(a)&#x2013;(d).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-24-5" type="ext"/>[20.24.5] </edpnum><title>Adoption, variation or rejection of the report</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is apparent from the breadth of the powers contained in UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-24.1.A" remotekey1="REFPTID" service="DOC-ID">r 20.24(1)(a)&#x2013;(d)</remotelink></ci:content></ci:cite>
+, that the court has a wide discretion in relation to the adoption or rejection of referee&#x2019;s reports. In deciding whether or not to adopt a referee&#x2019;s report, the court will be concerned to satisfy itself that adoption is appropriate in all the circumstances. The extent of the investigation that the court will make in reaching the appropriate satisfaction will vary from case to case. The considerations relevant to the exercise of the discretion may include the nature of the proceedings, their length and complexity, the apparent competence and expertise of the referee, the procedures adopted by the referee and the nature of the evidence, as well as the nature, and apparent substance, of the complaints made about the report: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr004497" spanref="cr004497-001"><ci:reporter value="NSWLR"/><ci:volume num="29"/><ci:page num="549"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Super Pty Ltd v SJP Formwork (Aust) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004497-001">(1992) 29 NSWLR 549</ci:span></citefragment> <remotelink dpsi="0018" refpt="44657" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr004498" spanref="cr004498-001"><ci:reporter value="NSWLR"/><ci:volume num="17"/><ci:page num="60"/></ci:caseref><ci:caseref anaphref="cr004498" spanref="cr004498-002" status="unval"><ci:pinpoint num="67" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chloride Batteries Australia Ltd v Glendale Chemical Products Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004498-001">(1988) 17 NSWLR 60</ci:span> <ci:span spanid="cr004498-002" status="unval">at 67</ci:span></citefragment> <remotelink dpsi="0018" refpt="14392" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004499" spanref="cr004499-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="479"/></ci:caseref><ci:caseref anaphref="cr004499" spanref="cr004499-002"><ci:pinpoint num="494" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Nicholls v Stamer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004499-001">[1980] VR 479</ci:span> <ci:span spanid="cr004499-002">at 494</ci:span></citefragment> <remotelink dpsi="0018" refpt="14391" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Many cases discuss these considerations.</text></p>
+<p>
+<text>A useful summary of the relevant principles is set out in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004500" spanref="cr004500-001"><ci:reporter value="urj"/><ci:refnum num="BC200708058"/></ci:caseref><ci:caseref anaphref="cr004500" spanref="cr004500-002"><ci:pinpoint num="6" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">New South Wales v Bovis Lend Lease Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 1045; <ci:span spanid="cr004500-001"> BC200708058</ci:span> <ci:span spanid="cr004500-002">at [6]</ci:span></citefragment> <remotelink dpsi="0018" refpt="443914" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004501" spanref="cr004501-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200505723"/></ci:caseref><ci:caseref anaphref="cr004501" spanref="cr004501-002" status="unval"><ci:pinpoint num="6" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chocolate Factory Apartments Pty Ltd v Westpoint Finance Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005]
+NSWSC 784; <ci:span spanid="cr004501-001" status="unval"> BC200505723</ci:span> <ci:span spanid="cr004501-002" status="unval">at [6]&#x2013;[8]</ci:span></citefragment> <remotelink dpsi="0018" refpt="402472" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> &#x2014; a passage that was referred to with approval in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004502" spanref="cr004502-001"><ci:reporter value="urj"/><ci:refnum num="BC200808460"/></ci:caseref><ci:caseref anaphref="cr004502" spanref="cr004502-002"><ci:pinpoint num="46" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bellvarde Construs Pty Ltd v CPC Energy Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWCA 228; <ci:span spanid="cr004502-001"> BC200808460</ci:span> <ci:span spanid="cr004502-002">at [46]&#x2013;[47]</ci:span></citefragment> <remotelink dpsi="0018" refpt="463847" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>The discretion to reject or vary a referee&#x2019;s report requires a &#x201c;proper&#x201d; justification &#x2014; despite a suggestion that where the points in controversy may be shortly determined, the courts may have a greater willingness to embark upon a reconsideration of the referee&#x2019;s report: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004503" spanref="cr004503-001"><ci:reporter value="NSWLR"/><ci:volume num="22"/><ci:page num="600"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bermria Pty Ltd v Homebush Abattoir Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004503-001">(1991) 22 NSWLR 600</ci:span></citefragment> <remotelink dpsi="0018" refpt="27810" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. It is inherent in the breadth of the discretion that neither party has any automatic right to have the reference proceedings reheard by the court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr004504" spanref="cr004504-001"><ci:reporter value="NSWLR"/><ci:volume num="29"/><ci:page num="549"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Super Pty Ltd v SJP Formwork (Aust) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004504-001">(1992) 29 NSWLR 549</ci:span></citefragment> <remotelink dpsi="0018" refpt="44657" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The nature and purpose of the discretion is such that rejection of the report is not justified by a mere disagreement with the referee&#x2019;s factual findings or the inferences drawn from those findings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004505" spanref="cr004505-001"><ci:reporter value="urj"/><ci:refnum num="BC200706892"/></ci:caseref><ci:caseref anaphref="cr004505" spanref="cr004505-002"><ci:pinpoint num="23" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ryde City Council v Tourtouras</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 218; <ci:span spanid="cr004505-001"> BC200706892</ci:span> <ci:span spanid="cr004505-002">at [23]</ci:span></citefragment> <remotelink dpsi="0018" refpt="442127" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>The circumstances in which a court may reject a report include where the referee has made a significant error of principle &#x2014; including, but not confined to, an error of law: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004506" spanref="cr004506-001"><ci:reporter value="urj"/><ci:refnum num="BC200706892"/></ci:caseref><ci:caseref anaphref="cr004506" spanref="cr004506-002"><ci:pinpoint num="23" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ryde City Council v Tourtouras</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 218; <ci:span spanid="cr004506-001"> BC200706892</ci:span> <ci:span spanid="cr004506-002">at [23]</ci:span></citefragment> <remotelink dpsi="0018" refpt="442127" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Specific examples are situations where the referee:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>acted perversely or unreasonably;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>acted outside the scope of the matters referred;</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>misapprehended the evidence;</text></p></li></l>
+<text>see <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Super Pty Ltd v SJP Formwork (Aust) Pty Ltd</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2001"/></ci:caseinfo><ci:caseref ID="cr004507" spanref="cr004507-001" status="unval"><ci:reporter value="ATR"/><ci:volume num="47"/><ci:page num="48"/></ci:caseref><ci:caseref ID="cr004508" spanref="cr004508-002"><ci:reporter value="urj"/><ci:refnum num="BC200102189"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Walter Construction Group Ltd v Walker Corp Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004507-001" status="unval">(2001) 47 ATR 48</ci:span>; [2001] NSWSC 283; <ci:span spanid="cr004508-002"> BC200102189</ci:span></citefragment> <remotelink dpsi="0018" refpt="327591" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chloride Batteries Australia Ltd v Glendale Chemical Products Pty Ltd</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004509" spanref="cr004509-001" status="unval"><ci:reporter value="BCL"/><ci:volume num="11"/><ci:page num="28"/></ci:caseref><ci:caseref ID="cr004510" spanref="cr004510-002"><ci:reporter value="urj"/><ci:refnum num="BC9102378"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">State Authorities Superannuation Board v Property Estates (Qld) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004509-001" status="unval">(1991) 11 BCL 28</ci:span>; <ci:span spanid="cr004510-002"> BC9102378</ci:span></citefragment> <remotelink dpsi="0018" refpt="55834" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Falgat Constructions Pty Ltd v Lightning Ready Mixed Concrete Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWCA), 25 November 1994, unreported, BC9403305)</citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1997"/></ci:caseinfo><ci:caseref ID="cr004511" spanref="cr004511-001"><ci:reporter value="NSWLR"/><ci:volume num="47"/><ci:page num="631"/></ci:caseref><ci:caseref ID="cr004512" spanref="cr004512-002"><ci:reporter value="urj"/><ci:refnum num="BC9705145"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Multicon Engineering Pty Ltd v Federal Airports Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004511-001">(1997) 47 NSWLR 631</ci:span>; <ci:span spanid="cr004512-002"> BC9705145</ci:span></citefragment> <remotelink dpsi="0018" refpt="247550" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>In assessing a report to determine whether it merits any of these pejorative descriptions a court will consider factors such as:</text>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>whether the parties had a proper opportunity to address all of the matters found by the referee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004513" spanref="cr004513-001"><ci:reporter value="urj"/><ci:refnum num="BC200902006"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Eko Investments Pty Ltd v Austruc Constructions Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 208; <ci:span spanid="cr004513-001"> BC200902006</ci:span></citefragment> <remotelink dpsi="0018" refpt="471658" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (referee&#x2019;s finding outside the pleaded case);</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>whether the report demonstrates a thorough, analytical and scientific approach by the referee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004514" spanref="cr004514-000" status="unval"><ci:reporter value="NSWLR"/><ci:volume num="17"/><ci:edition><ci:date year="1988"/></ci:edition><ci:pinpoint num="67" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chloride Batteries Australia Ltd v Glendale Chemical Products Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF">, <emph typestyle="it">above</emph><ci:span spanid="cr004514-000" status="unval"> at 67</ci:span></citefragment> <remotelink dpsi="0018" refpt="14392" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004515" spanref="cr004515-001"><ci:reporter value="NSWLR"/><ci:volume num="22"/><ci:page num="600"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bermria Pty Ltd v Homebush Abattoir Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004515-001">(1991) 22 NSWLR 600</ci:span></citefragment> <remotelink dpsi="0018" refpt="27810" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr004516" spanref="cr004516-001"><ci:reporter value="NSWLR"/><ci:volume num="38"/><ci:page num="615"/></ci:caseref><ci:caseref ID="cr004517" spanref="cr004517-002"><ci:reporter value="urj"/><ci:refnum num="BC9402612"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Foxman Holdings Pty Ltd v NMBE Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004516-001">(1994) 38 NSWLR 615</ci:span>; <ci:span spanid="cr004517-002"> BC9402612</ci:span></citefragment> <remotelink dpsi="0018" refpt="60726" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>;</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>whether the referee&#x2019;s report is perverse or manifestly unreasonable to the extent that no reasonable tribunal of fact could have made the decision: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr004518" spanref="cr004518-001"><ci:reporter value="NSWLR"/><ci:volume num="38"/><ci:page num="615"/></ci:caseref><ci:caseref anaphref="cr004518" spanref="cr004518-002" status="unval"><ci:pinpoint num="620" targettype="page"/></ci:caseref><ci:caseref ID="cr004519" spanref="cr004519-003"><ci:reporter value="urj"/><ci:refnum num="BC9402612"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Foxman Holdings Pty Ltd v NMBE Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004518-001">(1994) 38 NSWLR 615</ci:span> <ci:span spanid="cr004518-002" status="unval">at 620</ci:span>; <ci:span spanid="cr004519-003"> BC9402612</ci:span></citefragment> <remotelink dpsi="0018" refpt="60726" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p></li></l></p>
+<p>
+<text>Even when relevant error has been demonstrated the court may still, as 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-24.1.A" remotekey1="REFPTID" service="DOC-ID">UCPR r 20.24(1)(a)</remotelink></ci:content></ci:cite>
+ indicates, adopt or vary a referee&#x2019;s answers to the questions referred without adopting the reasons given by the referee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1989"/></ci:caseinfo><ci:caseref ID="cr004520" spanref="cr004520-001"><ci:reporter value="NSWLR"/><ci:volume num="17"/><ci:page num="483"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Astor Properties Pty Ltd v L'Union des Assurance de Paris</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004520-001">(1989) 17 NSWLR 483</ci:span></citefragment> <remotelink dpsi="0018" refpt="42925" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-24-10" leveltype="para0" subdoc="true" toc-caption="[20.24.10] Appeal from adoption or rejection of report">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.24.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 20.13&#x2013;20.24, r 20.24.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-24-10" type="ext"/>[20.24.10] </edpnum><title>Appeal from adoption or rejection of report</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The procedure for reference, report and adoption, variation or rejection under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-13" remotekey1="REFPTID" service="DOC-ID">rr 20.13&#x2013;20.24</remotelink></ci:content></ci:cite>
+ provides a form of dispute resolution that is alternative to orthodox litigation. The principles that govern the court&#x2019;s functions under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-24" remotekey1="REFPTID" service="DOC-ID">r 20.24</remotelink></ci:content></ci:cite>
+ in relation to adoption of a referee&#x2019;s report, the procedure does not involve an extra level of appeal in the ordinary litigious process: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr004521" spanref="cr004521-001" status="unval"><ci:volume num=""/><ci:page num=""/></ci:caseref><ci:caseref ID="cr004522" spanref="cr004522-002" status="unval"><ci:reporter value="BCL"/><ci:volume num="12"/><ci:page num="415"/></ci:caseref><ci:caseref ID="cr004523" spanref="cr004523-003"><ci:reporter value="urj"/><ci:refnum num="BC9402998"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Leighton Contractors Pty Ltd v CE Heath Underwriting &amp; Agency Services</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004521-001" status="unval">(1995) 8 ANZ Ins Cas ¶61-231</ci:span>; <ci:span spanid="cr004522-002" status="unval">(1994) 12 BCL 415</ci:span>; <ci:span spanid="cr004523-003"> BC9402998</ci:span></citefragment> <remotelink dpsi="0018" refpt="67981" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. An appeal lies only from a judge&#x2019;s adoption, variation or rejection of a referee&#x2019;s report. The function of the appellate court is to determine whether the judge was in error in relation to the adoption, variation or rejection (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr004524" spanref="cr004524-001"><ci:reporter value="ALR"/><ci:volume num="208"/><ci:page num="630"/></ci:caseref><ci:caseref ID="cr004525" spanref="cr004525-002"><ci:reporter value="urj"/><ci:refnum num="BC200404975"/></ci:caseref><ci:caseref anaphref="cr004525" spanref="cr004525-003"><ci:pinpoint num="16" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Abigroup Contractors Pty Ltd v Sydney Catchment Authority</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004524-001">(2004) 208 ALR 630</ci:span>; [2004] NSWCA 270; <ci:span spanid="cr004525-002"> BC200404975</ci:span> <ci:span spanid="cr004525-003">at [16]</ci:span></citefragment> <remotelink dpsi="0018" refpt="384130" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>) nor is the appeal. Relevant error will exist if the judge has made an error of law, has acted on a wrong view of the discretion to adopt or reject the report, or has made an error of fact in the judge&#x2019;s own consideration of the evidence; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004526" spanref="cr004526-001"><ci:reporter value="urj"/><ci:refnum num="BC9802458"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Flender (Aust) Pty Ltd v Warman International Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004526-001"> (NSWCA, Handley, Beazley JJA and Sheppard AJA, 18 June 1998, unreported, BC9802458)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004527" spanref="cr004527-001"><ci:reporter value="urj"/><ci:refnum num="BC200706892"/></ci:caseref><ci:caseref anaphref="cr004527" spanref="cr004527-002"><ci:pinpoint num="36" targettype="para"/></ci:caseref><ci:caseref anaphref="cr004527" spanref="cr004527-003"><ci:pinpoint num="42" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ryde City Council v Tourtouras</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007]
+NSWCA 218; <ci:span spanid="cr004527-001"> BC200706892</ci:span> <ci:span spanid="cr004527-002">at [36],</ci:span> <ci:span spanid="cr004527-003">[42]</ci:span></citefragment> <remotelink dpsi="0018" refpt="442127" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (judge&#x2019;s misapprehension of the scope of discretion &#x2014; appeal allowed).</text></p>
+<p>
+<text>Consistent with those principles an appeal from a reference adoption decision is not directly concerned with the nature and extent of any errors made by the referee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004528" spanref="cr004528-001"><ci:reporter value="urj"/><ci:refnum num="BC9405038"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Nine Network Pty Ltd v Kennedy Miller Television Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004528-001"> (NSWCA, Gleeson CJ, Meagher and Handley JJA, No 40641/93, 8 June 1994, unreported, BC9405038)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Super Pty Ltd v SJP Formwork (Aust) Pty Ltd</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004529" spanref="cr004529-001"><ci:reporter value="urj"/><ci:refnum num="BC9802458"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Flender (Aust) Pty Ltd v Warman International Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004529-001"> (NSWCA, Handley, Beazley JJA and Sheppard AJA, CA 40342/95, 18 June 1998, unreported, BC9802458)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004530" spanref="cr004530-001"><ci:reporter value="urj"/><ci:refnum num="BC9806365"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Jarvan Pty Ltd (in liq) v Seery</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004530-001"> (NSWCA, Meagher, Sheller and Stein JJA 1 December 1998, unreported, BC9806365)</ci:span></citefragment></ci:content></ci:cite>. If the ground of appeal is that the judge either misunderstood, or repeated, the referee&#x2019;s error, then the referee&#x2019;s error may be indirectly relevant &#x2014; as a necessary means of identifying the error in the judge&#x2019;s reasoning: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004531" spanref="cr004531-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200708069"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Westpoint Management Ltd v Chocolate Factory Apartments Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWCA 253; <ci:span spanid="cr004531-001" status="unval"> BC200708069</ci:span></citefragment> <remotelink dpsi="0018" refpt="443896" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (referred and &#x201c;adopting&#x201d; judge acted on a wrong principle in the assessment of damages for breach of contract). Conversely, a referee&#x2019;s error that was not relied on in opposition to the judge&#x2019;s adoption decision is not even indirectly relevant to the appeal issues: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004532" spanref="cr004532-001"><ci:reporter value="urj"/><ci:refnum num="BC200808460"/></ci:caseref><ci:caseref anaphref="cr004532" spanref="cr004532-002"><ci:pinpoint num="51" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bellevarde Constructions Pty Ltd v CPC Energy Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2008] NSWCA 228; <ci:span spanid="cr004532-001"> BC200808460</ci:span> <ci:span spanid="cr004532-002">at [51]&#x2013;[60]</ci:span></citefragment> <remotelink dpsi="0018" refpt="463847" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (complaint about lack of evidence to justify assessment of damages). </text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-24-15" leveltype="para0" subdoc="true" toc-caption="[20.24.15] Evidence of the proceedings before the referee">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [20.24.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 20.24(1)(d).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-24-15" type="ext"/>[20.24.15] </edpnum><title>Evidence of the proceedings before the referee</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Despite the terms of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R20-24.1.D" remotekey1="REFPTID" service="DOC-ID">r 20.24(1)(d)</remotelink></ci:content></ci:cite>
+, the evidence, if any, tendered before a referee is not evidence in the proceedings. It may become evidence in the proceedings only if it is tendered and admitted into evidence in the usual way: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004533" spanref="cr004533-001"><ci:reporter value="NSWLR"/><ci:volume num="22"/><ci:page num="605"/></ci:caseref><ci:caseref anaphref="cr004533" spanref="cr004533-002" status="unval"><ci:pinpoint num="608" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Homebush Abattoir Corp v Bermria Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004533-001">(1991) 22 NSWLR 605</ci:span> <ci:span spanid="cr004533-002" status="unval">at 608</ci:span></citefragment> <remotelink dpsi="0018" refpt="27811" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Ordinarily the court will be able to determine the application without revisiting the detailed evidence to support the findings of fact made by the referee (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr004534" spanref="cr004534-001"><ci:reporter value="NSWLR"/><ci:volume num="27"/><ci:page num="567"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Skinner &amp; Edwards (Builders) Pty Ltd v Australian Telecommunications Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004534-001">(1992) 27 NSWLR 567</ci:span></citefragment> <remotelink dpsi="0018" refpt="39950" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr004535" spanref="cr004535-001"><ci:reporter value="NSWLR"/><ci:volume num="38"/><ci:page num="615"/></ci:caseref><ci:caseref anaphref="cr004535" spanref="cr004535-002" status="unval"><ci:pinpoint num="620" targettype="page"/></ci:caseref><ci:caseref ID="cr004536" spanref="cr004536-003"><ci:reporter value="urj"/><ci:refnum num="BC9402612"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Foxman Holdings Pty Ltd v NMBE Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004535-001">(1994) 38 NSWLR 615</ci:span> <ci:span spanid="cr004535-002" status="unval">at 620</ci:span>; <ci:span spanid="cr004536-003"> BC9402612</ci:span></citefragment> <remotelink dpsi="0018" refpt="60726" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>), and when such evidence is tendered, the judge is not obliged nor required to read and review the entirety of the evidence: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004537" spanref="cr004537-001"><ci:reporter value="NSWLR"/><ci:volume num="23"/><ci:page num="571"/></ci:caseref><ci:caseref anaphref="cr004537" spanref="cr004537-002" status="unval"><ci:pinpoint num="588" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Lee Gleeson Pty Ltd v Sterling Estates Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004537-001">(1991) 23 NSWLR 571</ci:span> <ci:span spanid="cr004537-002" status="unval">at 588</ci:span></citefragment> <remotelink dpsi="0018" refpt="23950" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-24-20" leveltype="para0" subdoc="true" toc-caption="[20.24.20] Findings of fact"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-24-20" type="ext"/>[20.24.20] </edpnum><title>Findings of fact</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The court is not obliged to reconsider weight of evidence submissions, or to review evidence and submissions on factual questions. However, the report must sufficiently state the referee's reasons for critical findings of fact: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004538" spanref="cr004538-001"><ci:reporter value="urj"/><ci:refnum num="BC9606091"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Sydney Water Corp Ltd v Aqua Clear Technology Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004538-001"> (NSWSC, Rolfe J, No 55047/96, 17 December 1996, unreported, BC9606091)</ci:span></citefragment></ci:content></ci:cite>.
+The court may reconsider a question of fact if it is not comfortably satisfied that the reasons disclosed in the report reasonably support the findings made by the referee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr004539" spanref="cr004539-001"><ci:reporter value="NSWLR"/><ci:volume num="27"/><ci:page num="567"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Skinner &amp; Edwards (Builders) Pty Ltd v Australian Telecommunications Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004539-001">(1992) 27 NSWLR 567</ci:span></citefragment> <remotelink dpsi="0018" refpt="39950" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Where a party seeks to oppose the adoption of a report on the basis of an attack on the referee&#x2019;s finding that he preferred the evidence of one witness rather than another, a referee is in the same position and enjoys the same advantages as a trial judge and the doctrine in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr004540" spanref="cr004540-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="171"/><ci:page num="167"/></ci:caseref><ci:caseref ID="cr004541" spanref="cr004541-002"><ci:reporter value="ALR"/><ci:volume num="96"/><ci:page num="354"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Abalos v Australian Postal Commission</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004540-001" status="unval">(1990) 171 CLR 167</ci:span>; <ci:span spanid="cr004541-002">96 ALR 354</ci:span></citefragment> <remotelink dpsi="0018" refpt="21278" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> is equally applicable: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1994"/></ci:caseinfo><ci:caseref ID="cr004542" spanref="cr004542-001" status="unval"><ci:reporter value="BCL"/><ci:volume num="10"/><ci:page num="333"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Shellcove Developments Pty Ltd v Constantine</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004542-001" status="unval">(1994) 10 BCL 333</ci:span></citefragment></ci:content></ci:cite>. It is not a basis for the rejection of the referee&#x2019;s report that the referee has not articulated his reasons for preferring the evidence of one witness to another: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004543" spanref="cr004543-001"><ci:reporter value="urj"/><ci:refnum num="BC9600160"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">ECC Lighting Ltd v McGurk</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004543-001"> (NSWSC, McLelland CJ in Eq, 9 February 1996, unreported, BC9600160)</ci:span></citefragment></ci:content></ci:cite>. It follows that a report may be adopted or acted upon even if the judge might, on his own consideration of the evidence, have reached a conclusion different from that of the referee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1995"/></ci:caseinfo><ci:caseref ID="cr004544" spanref="cr004544-001" status="unval"><ci:reporter value="ANZInsCas"/><ci:volume num="8"/><ci:page num="¶61-231"/></ci:caseref><ci:caseref ID="cr004545" spanref="cr004545-002" status="unval"><ci:reporter value="BCL"/><ci:volume num="12"/><ci:page num="415"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Leighton Contractors Pty Ltd v CE Heath Underwriting &amp; Agency Services</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004544-001" status="unval">(1995) 8 ANZ Ins Cas ¶61-231</ci:span>; <ci:span spanid="cr004545-002" status="unval">(1994) 12 BCL 415</ci:span></citefragment> <remotelink dpsi="0018" refpt="67981" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. On the other hand, where the reference involves technical matters or a long complicated hearing, the court will be disinclined to reject the report unless it is shown to have been erroneous: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1865"/></ci:caseinfo><ci:caseref ID="cr004546" spanref="cr004546-001" status="unval"><ci:reporter value="ER"/><ci:volume num="66"/><ci:page num="881"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Mackintosh v Great Western Railway Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004546-001" status="unval">(1865) 66 ER 881</ci:span></citefragment> <remotelink dpsi="0018" refpt="182275" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004547" spanref="cr004547-001"><ci:reporter value="NSWLR"/><ci:volume num="25"/><ci:page num="224"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Najjar v Haines</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004547-001">(1991) 25 NSWLR 224</ci:span></citefragment> <remotelink dpsi="0018" refpt="35150" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004548" spanref="cr004548-001"><ci:reporter value="NSWLR"/><ci:volume num="25"/><ci:page num="358"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hobartville Stud Pty Ltd v Union Insurance Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004548-001">(1991) 25 NSWLR 358</ci:span></citefragment> <remotelink dpsi="0018" refpt="35156" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. It will also be disinclined to permit a party to seek to demonstrate error in the report by relying upon additional evidence that ought to have been put before the referee: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004549" spanref="cr004549-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="479"/></ci:caseref><ci:caseref anaphref="cr004549" spanref="cr004549-002"><ci:pinpoint num="494" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Nicholls v Stamer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004549-001">[1980] VR 479</ci:span> <ci:span spanid="cr004549-002">at 494</ci:span></citefragment> <remotelink dpsi="0018" refpt="14391" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004550" spanref="cr004550-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1912"/></ci:edition><ci:page num="788"/></ci:caseref><ci:caseref anaphref="cr004550" spanref="cr004550-002" status="unval"><ci:pinpoint num="811" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attorney-General v Birmingham Tame and Rea District Drainage Board</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004550-001" status="unval">[1912] AC 788</ci:span> <ci:span spanid="cr004550-002" status="unval">at 811</ci:span></citefragment> <remotelink dpsi="0018" refpt="14943" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-24-25" leveltype="para0" subdoc="true" toc-caption="[20.24.25] Remit for further consideration"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-24-25" type="ext"/>[20.24.25] </edpnum><title>Remit for further consideration</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The circumstances in which the court might exercise the power to remit are not specified in the rules. In <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004551" spanref="cr004551-001"><ci:reporter value="All ER"/><ci:volume num="1"/><ci:edition><ci:date year="1991"/></ci:edition><ci:page num="653"/></ci:caseref><ci:caseref anaphref="cr004551" spanref="cr004551-002" status="unval"><ci:pinpoint num="680" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">King v Thomas McKenna Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004551-001">[1991] 1 All ER 653</ci:span> <ci:span spanid="cr004551-002" status="unval">at 680</ci:span></citefragment> <remotelink dpsi="0018" refpt="66887" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>, Lord Donaldson MR dealt with the power to remit a matter to an arbitrator pursuant to s 22 of the Arbitration Act 1950 (UK). The Master of the Rolls described the power as exercisable whenever the subject matter of the proceedings had not been adjudicated upon &#x201c;as fully as, or in a manner which, the parties were entitled to expect&#x201d;, and that as a result &#x201c;it would be inequitable to allow any award to take effect&#x201d;. His Lordship referred to four traditional grounds upon which the power had been exercised:</text>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>where the award was bad on its face;</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>where the arbitrator had been guilty of misconduct;</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>where there was an admitted mistake by the arbitrator and there had been a request for remittal;</text></p></li>
+<li>
+<lilabel>(iv)</lilabel>
+<p><text>where additional evidence had been discovered after the making of the award.</text></p></li></l></p>
+<p>
+<text>Consistent with this general approach, a failure to afford natural justice to the parties may lead to an order to remit the proceedings to the referee for further consideration: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004552" spanref="cr004552-001"><ci:reporter value="urj"/><ci:refnum num="BC9802458"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Flender (Aust) Pty Ltd v Warman International Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004552-001"> (NSWCA, CA 40342/95, 18 June 1998, unreported, BC9802458)</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004553" spanref="cr004553-001"><ci:reporter value="urj"/><ci:refnum num="BC200004980"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rhodes v Fletcher</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2000] NSWSC 797; <ci:span spanid="cr004553-001"> BC200004980</ci:span></citefragment> <remotelink dpsi="0018" refpt="316329" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004554" spanref="cr004554-001"><ci:reporter value="NSWLR"/><ci:volume num="24"/><ci:page num="513"/></ci:caseref><ci:caseref anaphref="cr004554" spanref="cr004554-002" status="unval"><ci:pinpoint num="523" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Telecomputing PCS Pty Ltd v Bridge Wholesale Acceptance Corp (Aust) Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004554-001">(1991) 24 NSWLR 513</ci:span> <ci:span spanid="cr004554-002" status="unval">at 523</ci:span></citefragment> <remotelink dpsi="0018" refpt="33342" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. In addition, inadequate reasoning may provide a basis for remitting the report: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004555" spanref="cr004555-001"><ci:reporter value="urj"/><ci:refnum num="BC200705054"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Powers v Stoikos</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 675; <ci:span spanid="cr004555-001"> BC200705054</ci:span></citefragment> <remotelink dpsi="0018" refpt="439043" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (mortgage calculations requiring further explanation).</text></p>
+<p>
+<text>But there will be situations where the deficiency in the proceedings before, or the contents of the report by, the referee makes remission of the proceedings undesirable: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004556" spanref="cr004556-001" status="unval"><ci:reporter value="ANZConvR"/><ci:edition><ci:date year="2004"/></ci:edition><ci:page num="351"/></ci:caseref><ci:caseref ID="cr004557" spanref="cr004557-002"><ci:reporter value="urj"/><ci:refnum num="BC200403296"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Alamdo Holdings Pty Ltd v Australian Window Furnishings (NSW) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004556-001" status="unval">[2004] ANZ ConvR 351</ci:span>; [2004] NSWSC 487; <ci:span spanid="cr004557-002"> BC200403296</ci:span></citefragment> <remotelink dpsi="0018" refpt="380880" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (gross delay by referee and failure to deal with relevant issues); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004558" spanref="cr004558-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200706439"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Forrest v Appleyard</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2007] NSWSC 889; <ci:span spanid="cr004558-001" status="unval"> BC200706439</ci:span></citefragment> <remotelink dpsi="0018" refpt="441497" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (errors of principle, likelihood of significant delay and additional cost &#x2014; leave granted to adduce further evidence &#x2014; report varied).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-24-30" leveltype="para0" subdoc="true" toc-caption="[20.24.30] Points of law"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-24-30" type="ext"/>[20.24.30] </edpnum><title>Points of law</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Where the points in issue relate principally to questions of law, the court is both entitled and bound to decide for itself whether the report is correct: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Super Pty Ltd v SJP Formwork (Aust) Pty Ltd</emph>
+</citefragment></ci:content></ci:cite>, above; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004559" spanref="cr004559-001"><ci:reporter value="NSWLR"/><ci:volume num="22"/><ci:page num="605"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Homebush Abattoir Corp v Bermria Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004559-001">(1991) 22 NSWLR 605</ci:span></citefragment> <remotelink dpsi="0018" refpt="27811" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004560" spanref="cr004560-001"><ci:reporter value="NSWLR"/><ci:volume num="27"/><ci:page num="258"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Maritime Services Board of New South Wales v Australian Shipping Commission</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004560-001">(1991) 27 NSWLR 258</ci:span></citefragment> <remotelink dpsi="0018" refpt="37071" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.20-24-35" leveltype="para0" subdoc="true" toc-caption="[20.24.35] Point of law not raised before the referee"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.20-24-35" type="ext"/>[20.24.35] </edpnum><title>Point of law not raised before the referee</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The question whether a point of law not taken before a referee should be allowed to be argued before the court should be considered as part of the court&#x2019;s general discretion to adopt or reject the report. In the exercise of that discretion, it is not necessarily appropriate for the court to adopt the same approach that would be taken on an appeal where a party seeks to rely upon a point of law that was not taken in the court below: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004561" spanref="cr004561-001"><ci:reporter value="urj"/><ci:refnum num="BC9302150"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australian Development Corp Pty Ltd v White Constructions (ACT) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004561-001"> (NSWSC, Giles J, No 55041/91, 14 October 1993, unreported, BC9302150)</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

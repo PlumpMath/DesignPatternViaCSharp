@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 2 THE CIVIL JURISDICTION OF THE COURT [ss 184&#x2013;191]</docinfo:doc-heading><docinfo:doc-id>UCPN.DC.DCAN.PT6.D2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>District Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>DISTRICT COURT ACT 1973 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 6 REPEALS, AMENDMENTS, SAVINGS AND TRANSITIONAL PROVISIONS [ss 180&#x2013;194]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 2 THE CIVIL JURISDICTION OF THE COURT [ss 184&#x2013;191]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>80000470</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DC"/><docinfo:metaitem name="parent-filename" value="dc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DC.SGM_UCPN.DC.DCAN"/><docinfo:metaitem name="parent-filename" value="dc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 999, 1973</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">DISTRICT COURT ACT 1973 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.DC.DCAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.DC.DCAN.PT6"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 6 REPEALS, AMENDMENTS, SAVINGS AND TRANSITIONAL PROVISIONS [ss 180&#x2013;194]"><leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.PT6.D2"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 2 THE CIVIL JURISDICTION OF THE COURT [ss 184&#x2013;191]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.DC.DCAN.PT6.D2" type="ext"/>DIVISION 2</designum></desig><title searchtype="DIV-TITLE">THE CIVIL JURISDICTION OF THE COURT [ss 184&#x2013;191]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S184"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 184] s 184 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S184" type="ext"/>[DCA s 184]</edpnum><title searchtype="SECT-TITLE">Interpretation</title><desig searchtype="SECT-NUM"><designum>184</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Division&#x2014;</text></p>
+<deflist><defitem id="UCPN.DC.DCAN.S184.DISTRICT"><defterm><refpt id="UCPN.DC.DCAN.S184.DISTRICT" type="ext"/><emph typestyle="bf">district</emph></defterm> <defdesc>
+<p><text>means district referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.S5" remotekey1="REFPTID" service="DOC-ID" status="unval">section 5</remotelink></ci:content></ci:cite>
+ of the District Courts Act, 1912;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S184.FORMER-COURT"><defterm><refpt id="UCPN.DC.DCAN.S184.FORMER-COURT" type="ext"/><emph typestyle="bf">former Court</emph></defterm> <defdesc>
+<p><text>means a District Court established under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12" remotekey1="REFPTID" service="DOC-ID" status="unval">District Courts Act, 1912</remotelink></ci:content></ci:cite>
+, and includes a court referred to in an instrument as &#x201c;the District Court&#x201d; or &#x201c;the district court&#x201d;; the commencement of this Act, or a rule, by-law, regulation or ordinance, or any other instrument or document whatsoever, of the same or a different kind or nature, made, proclaimed, issued or published before the commencement of this Act;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCAN.S184.THE-NEW-COURT"><defterm><refpt id="UCPN.DC.DCAN.S184.THE-NEW-COURT" type="ext"/><emph typestyle="bf">the new Court</emph></defterm> <defdesc>
+<p><text>means the Court.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S185"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 185] s 185 Savings as to places, sittings, Judges and officers, etc">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S185" type="ext"/>[DCA s 185]</edpnum><title searchtype="SECT-TITLE">Savings as to places, sittings, Judges and officers, etc</title><desig searchtype="SECT-NUM"><designum>185</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S185.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S185.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (1)  rep Act 210 of 1987  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S185.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S185.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person appointed as a judge under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.S14" remotekey1="REFPTID" service="DOC-ID" status="unval">section 14</remotelink></ci:content></ci:cite>
+ of the District Courts Act, 1912, and holding office as such immediately before the commencement of this Act, shall be deemed to have appointed as a Judge under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S13" remotekey1="REFPTID" service="DOC-ID">section 13</remotelink></ci:content></ci:cite>
+ of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S185.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S185.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person appointed to sit and act as a judge under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.S19A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 19A</remotelink></ci:content></ci:cite>
+ of the District Courts Act, 1912, and whose appointment continues in force immediately before the commencement of this Act, shall be deemed to have been appointed to act as a Judge under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S18" remotekey1="REFPTID" service="DOC-ID">section 18</remotelink></ci:content></ci:cite>
+ of this Act, but the person shall not, by virtue of this subsection, hold office as such for a time longer than that for which the person was appointed to exercise jurisdiction under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.S19A" remotekey1="REFPTID" service="DOC-ID" status="unval">section 19A</remotelink></ci:content></ci:cite>
+ of the District Courts Act, 1912.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S185.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S185.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The person who was, immediately before the commencement of this Act, the Chairman of the District Court Judges shall be deemed to have been appointed as the Chief Judge under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S13.4" remotekey1="REFPTID" service="DOC-ID">section 13(4)</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S185.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S185.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person appointed as a judge under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12" remotekey1="REFPTID" service="DOC-ID" status="unval">District Courts Act, 1912</remotelink></ci:content></ci:cite>
+, and not holding office as such immediately before the commencement of this Act, and the spouse of any such person, shall, notwithstanding anything in this Act, have the same rights as to salary, pension or otherwise which he or she would have had if this Act had not been enacted.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S185.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S185.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (6)  rep Act 210 of 1986  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S185.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S185.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person holding office immediately before the commencement of this Act as a bailiff for a former Court appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.S26.3" remotekey1="REFPTID" service="DOC-ID" status="unval">section 26(3)</remotelink></ci:content></ci:cite>
+ of the District Courts Act, 1912, or an officer appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.S26.4" remotekey1="REFPTID" service="DOC-ID" status="unval">section 26(4)</remotelink></ci:content></ci:cite>
+ of that Act to assist a bailiff for a former Court, shall be deemed to have been appointed under this Act as a bailiff or as an assistant bailiff, as the case may require, of the new Court for the proclaimed place that is the place at which the former Court was ordered, under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.S4.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 4(1)</remotelink></ci:content></ci:cite>
+ of the District Courts Act, 1912, to be holden.</text></p>
+<leg:histnote>
+<p><text>[subs (7)  am Act 20 of 1988  s 3 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S186"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 186] s 186 Pending proceedings, etc">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S186" type="ext"/>[DCA s 186]</edpnum><title searchtype="SECT-TITLE">Pending proceedings, etc</title><desig searchtype="SECT-NUM"><designum>186</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S186.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S186.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the rules, and unless the Court otherwise orders&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S186.1.A"><lilabel><refpt id="UCPN.DC.DCAN.S186.1.A" type="ext"/>(a)</lilabel>
+<p><text>any proceedings pending in a former Court immediately before the commencement of this Act shall be continued in and disposed of by the new Court sitting at the proclaimed place that is the place at which the former Court was holden immediately before the commencement of this Act, but otherwise those proceedings shall be continued and disposed of as if this Act had not been enacted;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S186.1.B"><lilabel><refpt id="UCPN.DC.DCAN.S186.1.B" type="ext"/>(b)</lilabel>
+<p><text>any judgment or order of the new Court in proceedings referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S186.1.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ shall be enforceable in accordance with this Act and the rules;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S186.1.C"><lilabel><refpt id="UCPN.DC.DCAN.S186.1.C" type="ext"/>(c)</lilabel>
+<p><text>except as provided in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S186.1.D" remotekey1="REFPTID" service="DOC-ID">paragraph (d)</remotelink></ci:content></ci:cite>
+, any judgment or order of a former Court shall be enforceable in accordance with this Act and the rules by the new Court sitting at the proclaimed place at which the former Court was holden in which the judgment or order could have been enforced immediately before the commencement of this Act;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S186.1.D"><lilabel><refpt id="UCPN.DC.DCAN.S186.1.D" type="ext"/>(d)</lilabel>
+<p><text>any judgment or order of a former Court shall, as regards any step taken in the enforcement of the judgment or order before the commencement of this Act, be enforceable by the new Court sitting at the proclaimed place at which the former Court was holden in which the judgment or order could have been enforced immediately before the commencement of this Act, but otherwise shall be enforceable as if this Act had not been enacted; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S186.1.E"><lilabel><refpt id="UCPN.DC.DCAN.S186.1.E" type="ext"/>(e)</lilabel>
+<p><text>the entitlement of any party to costs in respect of proceedings commenced before the commencement of this Act and completed after that commencement shall be ascertained as if this Act had not been enacted.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S186.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S186.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of continuing any proceedings in, or enforcing any judgment or order in, the new Court sitting at a proclaimed place, that place shall be deemed to be the proper place in relation to those proceedings or the proceedings in which the judgment was given or entered up or the order was made, as the case may require.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S186.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S186.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Supreme Court in a particular case otherwise orders&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S186.3.A"><lilabel><refpt id="UCPN.DC.DCAN.S186.3.A" type="ext"/>(a)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3.D7" remotekey1="REFPTID" service="DOC-ID">Division 7 of Part III</remotelink></ci:content></ci:cite>
+ (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S126" remotekey1="REFPTID" service="DOC-ID">section 126 </remotelink></ci:content></ci:cite>
+ excepted) applies to and in respect of proceedings in, or a judgment or order of, a former Court as if they or it were proceedings in, or a judgment or order of, the new Court; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S186.3.B"><lilabel><refpt id="UCPN.DC.DCAN.S186.3.B" type="ext"/>(b)</lilabel>
+<p><text>any appeal made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.DCAN12.PT6" remotekey1="REFPTID" service="DOC-ID" status="unval">Part VI</remotelink></ci:content></ci:cite>
+ of the District Courts Act, 1912, and pending in the Supreme Court immediately before the commencement of this Act shall be deemed to have been made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3.D7" remotekey1="REFPTID" service="DOC-ID">Division 7</remotelink></ci:content></ci:cite>
+ of Part III of this Act.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S187"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 187] s 187 Reference to District Court in existing instruments">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S187" type="ext"/>[DCA s 187]</edpnum><title searchtype="SECT-TITLE">Reference to District Court in existing instruments</title><desig searchtype="SECT-NUM"><designum>187</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S187.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S187.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In an instrument&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S187.1.A"><lilabel><refpt id="UCPN.DC.DCAN.S187.1.A" type="ext"/>(a)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S187.1.B" remotekey1="REFPTID" service="DOC-ID">paragraphs (b)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S187.1.C" remotekey1="REFPTID" service="DOC-ID">(c)</remotelink></ci:content></ci:cite>
+, a reference to a former Court shall be read and construed as a reference to the new Court;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S187.1.B"><lilabel><refpt id="UCPN.DC.DCAN.S187.1.B" type="ext"/>(b)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S187.1.C" remotekey1="REFPTID" service="DOC-ID">paragraph (c)</remotelink></ci:content></ci:cite>
+, a reference to a former Court within the jurisdiction of which, or within the district of which, or of or for the district where, or having or exercising jurisdiction within the district where, a place, building, institution or any other matter or thing is situated, or an event occurred or is occurring or is expected to occur, or a person has his or her place of abode or resides or carries on his or her business, shall be read and construed as a reference to the new Court sitting at the nearest proclaimed place to the place where that place, building, institution, matter or thing is situated, or that event occurred or is occurring or is expected to occur, or that person has his or her place of abode or resides or carries on his or her business; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S187.1.C"><lilabel><refpt id="UCPN.DC.DCAN.S187.1.C" type="ext"/>(c)</lilabel>
+<p><text>a reference to a former Court occurring in conjunction with or in relation to a reference to a district shall, if the rules so provide, be read and construed as a reference to the new Court sitting at the proclaimed place specified in or determined in accordance with the rules.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S187.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S187.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In an instrument, a reference to the Metropolitan District Court (however expressed) shall be read and construed as a reference to the new Court sitting at Sydney.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S187.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S187.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where under any instrument any power is vested in a former Court, the power shall be exercised by the new Court in all respects as it might have been exercised immediately before the commencement of this section, but in accordance with this Act and the rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S188"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 188] s 188 Reference to District Court judges in existing instruments">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S188" type="ext"/>[DCA s 188]</edpnum><title searchtype="SECT-TITLE">Reference to District Court judges in existing instruments</title><desig searchtype="SECT-NUM"><designum>188</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S188.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S188.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+, in an instrument&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S188.1.A"><lilabel><refpt id="UCPN.DC.DCAN.S188.1.A" type="ext"/>(a)</lilabel>
+<p><text>a reference to the Chairman of the District Court Judges shall be read and construed as a reference to the Chief Judge;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S188.1.B"><lilabel><refpt id="UCPN.DC.DCAN.S188.1.B" type="ext"/>(b)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.1.C" remotekey1="REFPTID" service="DOC-ID">paragraphs (c)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.1.D" remotekey1="REFPTID" service="DOC-ID">(d)</remotelink></ci:content></ci:cite>
+, a reference to a District Court judge shall be read and construed as a reference to a Judge appointed under this Act;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S188.1.C"><lilabel><refpt id="UCPN.DC.DCAN.S188.1.C" type="ext"/>(c)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.1.D" remotekey1="REFPTID" service="DOC-ID">paragraph (d)</remotelink></ci:content></ci:cite>
+, a reference to a District Court judge within whose jurisdiction, or within whose district, or of or for the district where, or having or exercising jurisdiction within the district where, a place, building, institution or any other matter or thing is situated, or an event occurred or is occurring or is expected to occur, or a person has his or her place of abode or resides or carries on his or her business, shall be read and construed as a reference to the new Court sitting at the nearest proclaimed place to the place where that place, building, institution, matter or thing is situated, or that event occurred or is occurring or is expected to occur, or that person has his or her place of abode or resides or carries on his or her business; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S188.1.D"><lilabel><refpt id="UCPN.DC.DCAN.S188.1.D" type="ext"/>(d)</lilabel>
+<p><text>a reference to a District Court judge occurring in conjunction with or in relation to a reference to a district shall, if the rules so provide, be read and construed as a reference to the new Court sitting at the proclaimed place specified in or determined in accordance with the rules.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 32 of 1994  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S188.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S188.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.1.C" remotekey1="REFPTID" service="DOC-ID">subsections (1)(c)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.1.D" remotekey1="REFPTID" service="DOC-ID">(d)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.3" remotekey1="REFPTID" service="DOC-ID">(3)</remotelink></ci:content></ci:cite>
+, where under an instrument a power (other than a power to make rules) is vested in the District Court judges, or in any number of them, or a majority of them, or any one of them that power shall be exercised by the new Court in all respects as those judges or that judge might have exercised the power immediately before the commencement of this Act, but in accordance with this Act and the rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S188.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S188.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may direct by proclamation that&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S188.3.A"><lilabel><refpt id="UCPN.DC.DCAN.S188.3.A" type="ext"/>(a)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.1.C" remotekey1="REFPTID" service="DOC-ID">subsection (1)(c)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.1.D" remotekey1="REFPTID" service="DOC-ID">(d)</remotelink></ci:content></ci:cite>
+ shall not apply to a reference specified in the proclamation; or</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S188.3.B"><lilabel><refpt id="UCPN.DC.DCAN.S188.3.B" type="ext"/>(b)</lilabel>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ shall not apply to any power specified in the proclamation,</text></p>
+</li>
+</l>
+<p><text>and the proclamation shall have effect accordingly, but subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S41" remotekey1="REFPTID" service="DOC-ID">section 41</remotelink></ci:content></ci:cite>
+ of the Interpretation Act 1987.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf Act 52 of 1970 s 24(7)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subs (3)  am Act 48 of 1987  s 3 and Sch 32]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S188.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S188.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S40" remotekey1="REFPTID" service="DOC-ID">Sections  40</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S41" remotekey1="REFPTID" service="DOC-ID">41</remotelink></ci:content></ci:cite>
+ of the Interpretation Act 1987 apply to a proclamation under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S188.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+ in the same way as they apply to a statutory rule within the meaning of that Act.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  subst Act 48 of 1987  s 2 and Sch 32 ; am Act 56 of 2009  Sch 4.14[3], effective 17 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S188.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S188.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (5)  rep Act 48 of 1987  s 3 and Sch 32]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S188.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S188.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (6)  rep Act 48 of 1987  s 2 and Sch 32]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S189"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 189] s 189 References to registrars and bailiffs in existing instruments">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S189" type="ext"/>[DCA s 189]</edpnum><title searchtype="SECT-TITLE">References to registrars and bailiffs in existing instruments</title><desig searchtype="SECT-NUM"><designum>189</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In an instrument&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S189..A"><lilabel><refpt id="UCPN.DC.DCAN.S189..A" type="ext"/>(a)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S189..B" remotekey1="REFPTID" service="DOC-ID">paragraphs (b)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S189..C" remotekey1="REFPTID" service="DOC-ID" status="unval">(c) </remotelink></ci:content></ci:cite>
+, a reference to a registrar or bailiff of a former Court shall be read and construed as a reference to a registrar or bailiff of the new Court;</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S189..B"><lilabel><refpt id="UCPN.DC.DCAN.S189..B" type="ext"/>(b)</lilabel>
+<p><text>subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S189..C" remotekey1="REFPTID" service="DOC-ID" status="unval">paragraph (c)</remotelink></ci:content></ci:cite>
+, a reference to the registrar or a bailiff of a former Court shall, if the reference to that former Court is, under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S187.1.B" remotekey1="REFPTID" service="DOC-ID">section 187(1)(b)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S187.1.C" remotekey1="REFPTID" service="DOC-ID">(c)</remotelink></ci:content></ci:cite>
+, to be read and construed as a reference to the new Court sitting at a proclaimed place specified in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S187.1.B" remotekey1="REFPTID" service="DOC-ID">section 187(1)(b)</remotelink></ci:content></ci:cite>
+ or specified in or determined in accordance with the rules, be read and construed as a reference to the registrar or a bailiff of the new Court for that place; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S189.C"><lilabel><refpt id="UCPN.DC.DCAN.S189.C" type="ext"/>(c)</lilabel>
+<p><text>a reference to a registrar or bailiff of a former Court occurring in conjunction with or in relation to a reference to a district shall, if the rules so provide, be read and construed as a reference to the registrar or a bailiff of the new Court for the proclaimed place specified in or determined in accordance with the rules.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S190"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 190] s 190 References to writs, etc, in existing instruments">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S190" type="ext"/>[DCA s 190]</edpnum><title searchtype="SECT-TITLE">References to writs, etc, in existing instruments</title><desig searchtype="SECT-NUM"><designum>190</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCAN.S190.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S190.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In an instrument&#x2014;</text></p>
+<l><li id="UCPN.DC.DCAN.S190.1.A"><lilabel><refpt id="UCPN.DC.DCAN.S190.1.A" type="ext"/>(a)</lilabel>
+<p><text>a reference to a writ of fieri facias issued out of a former Court shall be read and construed as a reference to a writ of execution issued out of the new Court; and</text></p>
+</li>
+<li id="UCPN.DC.DCAN.S190.1.B"><lilabel><refpt id="UCPN.DC.DCAN.S190.1.B" type="ext"/>(b)</lilabel>
+<p><text>a reference to a writ of capias ad satisfaciendum issued out of a former Court shall be read and construed as a reference to a writ against the person issued out of the new Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S190.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCAN.S190.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In an instrument, a reference to an action of or proceedings in ejectment in a former Court includes a reference to proceedings for possession of land under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.PT3.D8" remotekey1="REFPTID" service="DOC-ID">Division 8</remotelink></ci:content></ci:cite>
+ of Part III.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCAN.S191"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[DCA s 191] s 191 Provisions as to practice and procedure in existing instruments">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCAN.S191" type="ext"/>[DCA s 191]</edpnum><title searchtype="SECT-TITLE">Provisions as to practice and procedure in existing instruments</title><desig searchtype="SECT-NUM"><designum>191</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of an instruments shall, in so far as they have effect in respect of or in relation to the practice and procedure of the new Court or any documents that may be or are issued by or in respect of the new Court, have effect subject to the rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

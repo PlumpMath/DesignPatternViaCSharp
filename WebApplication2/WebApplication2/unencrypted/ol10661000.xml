@@ -1,0 +1,1425 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;12]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.SEPA92.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>SERVICE AND EXECUTION OF PROCESS ACT 1992 (CTH)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;12]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140330000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.SEPA92"/><docinfo:metaitem name="parent-filename" value="ol1066.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">SERVICE AND EXECUTION OF PROCESS ACT 1992 (CTH)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1992</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 172, 1992</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">CTH</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Service and Execution of Process Act 1992 (Cth) No 172 was assented to 11 December 1992 and commenced 10 April 1993. The Act has since been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Law and Justice Legislation Amendment Act (No 2) 1994 No 141</entry><entry colname="c2">28 November 1994</entry><entry colname="c3">s 3 and Sch 1 items 12&#x2013;16: 28 November 1994; Sch 1 items 17&#x2013;20: 26 December 1994</entry></row>
+<row><entry colname="c1">Law and Justice Legislation Amendment Act 1997 No 34</entry><entry colname="c2">17 April 1997</entry><entry colname="c3">s 3 and Sch 14 items 1&#x2013;3 and 6&#x2013;8: 17 April 1997; items 4&#x2013;5: 17 October 1997</entry></row>
+<row><entry colname="c1">Company Law Review Act 1998 No 61</entry><entry colname="c2">29 June 1998</entry><entry colname="c3">Sch 4 items 39&#x2013;49: 1 July 1998</entry></row>
+<row><entry colname="c1">Australian Federal Police Legislation Amendment Act 2000 No 9</entry><entry colname="c2">7 March 2000</entry><entry colname="c3">Sch 2 items 52&#x2013;55: 2 July 2000</entry></row>
+<row><entry colname="c1">Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 No 24</entry><entry colname="c2">6 April 2001</entry><entry colname="c3">Sch 44: 24 May 2001</entry></row>
+<row><entry colname="c1">Corporations (Repeals, Consequentials and Transitionals) Act 2001 No 55</entry><entry colname="c2">28 June 2001</entry><entry colname="c3">Sch 3 items 201&#x2013;205: 15 July 2001</entry></row>
+<row><entry colname="c1">Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 No 86</entry><entry colname="c2">11 October 2002</entry><entry colname="c3">Sch 6: 1 January 2003 (Gaz GN44 of 6 November 2002 p 2948)</entry></row>
+<row><entry colname="c1">Crimes Legislation Enhancement Act 2003 No 41</entry><entry colname="c2">3 June 2003</entry><entry colname="c3">Sch 2 items 18&#x2013;22: 3 December 2003</entry></row>
+<row><entry colname="c1">Statute Law Revision Act 2007 No 8</entry><entry colname="c2">15 March 2007</entry><entry colname="c3">Sch 4: 15 March 2007</entry></row>
+<row><entry colname="c1">Same-Sex Relationships (Equal Treatment in Commonwealth Laws &#x2014; General Law Reform) Act 2008 No 144</entry><entry colname="c2">9 December 2008</entry><entry colname="c3">Sch 2 items 73&#x2013;75: 10 December 2008</entry></row>
+<row><entry colname="c1">Law and Justice (Cross Border and Other Amendments) Act 2009 No 77</entry><entry colname="c2">7 September 2009</entry><entry colname="c3">Schs 1, 2: on assent</entry></row>
+<row><entry colname="c1">Service and Execution of Process Amendment (Interstate Fine Enforcement) Act 2010 No 143</entry><entry colname="c2">15 December 2010</entry><entry colname="c3">Sch 1 and Sch 2 (items 1&#x2013;2): 16 June 2011</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.SEPA92.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.SEPA92" type="ext"/>SERVICE AND EXECUTION OF PROCESS ACT 1992 (CTH)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act to provide for the service and execution, throughout the Commonwealth, of process of courts and tribunals, and for related purposes.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.SEPA92.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;12]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.SEPA92.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;12]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<footnotegrp><footnote fnrtokens="UCPN.OL.SEPCA.S5.FTN1-R" fntoken="UCPN.OL.SEPCA.S5.FTN1" type="default"><fnlabel>*</fnlabel><fnbody>
+<h>Editor's note:</h>
+<p><refpt id="UCPN.OL.SEPCA.S5.FTN1" type="ext"/>
+<text>The Schedule containing the consequential amendments is not reproduced here.</text></p></fnbody></footnote></footnotegrp>
+</leg:bodytext>
+<leg:level id="UCPN.OL.SEPA92.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,000] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S1" type="ext"/>[415,000]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the Service and Execution of Process Act 1992.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,010] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S2" type="ext"/>[415,010]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S1" remotekey1="REFPTID" service="DOC-ID">Section 1</remotelink></ci:content></ci:cite>
+ and this section commence on the day on which this Act receives the Royal Assent.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Paragraph 7(2)(a) commences when 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TLR92.S10" remotekey1="REFPTID" service="DOC-ID" status="unval">section 10</remotelink></ci:content></ci:cite>
+ of the Territories Law Reform Act 1992 commences.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S2.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S2.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Paragraph 7(2)(b) commences when 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TRL92.S19" remotekey1="REFPTID" service="DOC-ID" status="unval">section 19</remotelink></ci:content></ci:cite>
+ of the Territories Law Reform Act 1992 commences.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S2.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S2.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S2.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ , the remaining provisions of this Act commence on a day to be fixed by Proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S2.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S2.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If those provisions do not commence under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S2.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ within the period of 4 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,015] s 3 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S3" type="ext"/>[415,015]</edpnum><title searchtype="SECT-TITLE">Interpretation</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, unless the contrary intention appears:</text></p>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.ADJUDICATIVE-FUNCTION"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.ADJUDICATIVE-FUNCTION" type="ext"/><emph typestyle="bf">adjudicative function</emph></defterm> <defdesc>
+<p><text>, in relation to a tribunal, means the function of determining the rights or liabilities of a person in a proceeding in which there are 2 or more parties, including the function of making a determination:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.ADJUCATIVE-FUNCTION.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.ADJUCATIVE-FUNCTION.A" type="ext"/>(a)</lilabel>
+<p><text>altering those rights or liabilities; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.ADJUCATIVE-FUNCTION.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.ADJUCATIVE-FUNCTION.B" type="ext"/>(b)</lilabel>
+<p><text>relating to any matters of a kind mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S48" remotekey1="REFPTID" service="DOC-ID">section 48</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.APPEARANCE"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.APPEARANCE" type="ext"/><emph typestyle="bf">appearance</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.APPEARANCE.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.APPEARANCE.A" type="ext"/>(a)</lilabel>
+<p><text>in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.PT2.D1" remotekey1="REFPTID" service="DOC-ID">Division 1</remotelink></ci:content></ci:cite>
+ of Part 2 &#x2014; an appearance within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S14" remotekey1="REFPTID" service="DOC-ID">section 14</remotelink></ci:content></ci:cite>
+ ; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.APPEARANCE.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.APPEARANCE.B" type="ext"/>(b)</lilabel>
+<p><text>in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.PT4.D2" remotekey1="REFPTID" service="DOC-ID">Division 2</remotelink></ci:content></ci:cite>
+ of Part 4 &#x2014; an appearance within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S49" remotekey1="REFPTID" service="DOC-ID">section 49</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.AUDIO-LINK"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.AUDIO-LINK" type="ext"/><emph typestyle="bf">audio link</emph></defterm> <defdesc>
+<p><text>means facilities (for example, telephone facilities) that enable audio communication between persons in different places.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 77 of 2009  s 3 and Sch 2[1], effective 7 September 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.AUDIOVISUAL-LINK"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.AUDIOVISUAL-LINK" type="ext"/><emph typestyle="bf">audiovisual link</emph></defterm> <defdesc>
+<p><text>means facilities that enable audio and visual communication between persons in different places.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 77 of 2009  s 3 and Sch 2[2], effective 7 September 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.AUSTRALIA"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.AUSTRALIA" type="ext"/><emph typestyle="bf">Australia</emph></defterm> <defdesc>
+<p><text>includes the external Territories;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.AUTHORITY"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.AUTHORITY" type="ext"/><emph typestyle="bf">authority</emph></defterm> <defdesc>
+<p><text>means a judge, magistrate, coroner or officer of a court appointed or holding office under a law of a State;</text></p>
+</defdesc>
+<glp:note id="UCPN.OL.SEPA92.S3.1.AUTHORITY.LGN1">
+<heading><title>Note:</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S81A" remotekey1="REFPTID" service="DOC-ID">Section 81A</remotelink></ci:content></ci:cite>
+ alters the meaning of this term for the purposes of Part 5.</text></p></glp:note>
+</defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.AUTHORITY-OF-ISSUE"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.AUTHORITY-OF-ISSUE" type="ext"/><emph typestyle="bf">authority of issue</emph></defterm> <defdesc>
+<p><text>, in relation to a process, means the authority by which the process was issued;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.CIVIL-PROCEEDING"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.CIVIL-PROCEEDING" type="ext"/><emph typestyle="bf">civil proceeding</emph></defterm> <defdesc>
+<p><text>means a proceeding other than a criminal proceeding;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.COMPANY"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.COMPANY" type="ext"/><emph typestyle="bf">company</emph></defterm> <defdesc>
+<p><text>means a company incorporated, or taken to be incorporated, under the Corporations Act 2001.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 61 of 1998  s 3 and Sch 4 ; am Act 55 of 2001  Sch 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.COURT"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.COURT" type="ext"/><emph typestyle="bf">court</emph></defterm> <defdesc>
+<p><text>, except in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.PT7" remotekey1="REFPTID" service="DOC-ID">Part 7</remotelink></ci:content></ci:cite>
+ , means a court of a State and includes an authority exercising the powers of such a court;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.COURT-OF-ISSUE"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.COURT-OF-ISSUE" type="ext"/><emph typestyle="bf">court of issue</emph></defterm> <defdesc>
+<p><text>, in relation to a process, means the court by which the process was issued;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING" type="ext"/><emph typestyle="bf">criminal proceeding</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.A" type="ext"/>(a)</lilabel>
+<p><text>a prosecution for an offence; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.B" type="ext"/>(b)</lilabel>
+<p><text>a procedure, other than a prosecution, that, under a law of a State, may be used:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.B.I"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.B.I" type="ext"/>(i)</lilabel>
+<p><text>to determine liability for an offence; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.B.II"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.B.II" type="ext"/>(ii)</lilabel>
+<p><text>to impose a penalty for an offence; or</text></p>
+</li></l></li>
+<li id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.C"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.C" type="ext"/>(c)</lilabel>
+<p><text>a proceeding that is related to or associated with a prosecution for an offence or a procedure mentioned in paragraph (b);</text></p>
+</li>
+</l>
+<p><text>but does not include:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.D"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.D" type="ext"/>(d)</lilabel>
+<p><text>a claim for compensation; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.E"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.CRIMINAL-PROCEEDING.E" type="ext"/>(e)</lilabel>
+<p><text>a proceeding under proceeds of crime legislation;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.CROSS-BORDER-LAWS"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.CROSS-BORDER-LAWS" type="ext"/><emph typestyle="bf">cross-border laws</emph></defterm> <defdesc>
+<p><text>means the following:</text></p>
+<l>
+<li><lilabel>(a)</lilabel>
+<p>
+<text>the cross border laws of a participating jurisdiction, within the meaning of the Cross-Border Justice Act 2008 of Western Australia;</text></p></li>
+<li><lilabel>(b)</lilabel>
+<p>
+<text>the laws of a State, or provisions of a law of a State, that are prescribed by the regulations for the purposes of this paragraph.</text></p></li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 77 of 2009  s 3 and Sch 1[1], effective 7 September 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.CUSTODIAN"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.CUSTODIAN" type="ext"/><emph typestyle="bf">custodian</emph></defterm> <defdesc>
+<p><text>, in relation to a person in prison, means the officer in charge of the institution or place at which the person is detained;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE" type="ext"/><emph typestyle="bf">evidence that relates to matters of state</emph></defterm> <defdesc>
+<p><text>means evidence the adducing of which would:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.A" type="ext"/>(a)</lilabel>
+<p><text>prejudice the security, defence or international relations of Australia; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.B" type="ext"/>(b)</lilabel>
+<p><text>damage relations between the Commonwealth and a State or relations between 2 or more States; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.C"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.C" type="ext"/>(c)</lilabel>
+<p><text>prejudice the prevention, investigation or prosecution of offences; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.D"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.D" type="ext"/>(d)</lilabel>
+<p><text>prejudice:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.D.I"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.D.I" type="ext"/>(i)</lilabel>
+<p><text>the prevention or investigation of; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.D.II"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.D.II" type="ext"/>(ii)</lilabel>
+<p><text>the conduct of proceedings for recovery of civil penalties brought with respect to;</text></p>
+</li></l>
+<p><text>other contraventions of the law; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.E"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.E" type="ext"/>(e)</lilabel>
+<p><text>disclose, or enable a person to ascertain, the existence or identity of a confidential source of information in relation to the enforcement or administration of a law of the Commonwealth or of a State; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.F"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.F" type="ext"/>(f)</lilabel>
+<p><text>prejudice the proper functioning of the government of the Commonwealth or of a State; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.G"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EVIDENCE-THAT-RELATES-TO-MATTERS-OF-STATE.G" type="ext"/>(g)</lilabel>
+<p><text>be contrary to the public interest for any other reason that could form the basis for a claim in a judicial proceeding that the evidence should not be disclosed;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.EXPENSES"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.EXPENSES" type="ext"/><emph typestyle="bf">expenses</emph></defterm> <defdesc>
+<p><text>, in relation to a subpoena, an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S83.8" remotekey1="REFPTID" service="DOC-ID">subsection 83(8)</remotelink></ci:content></ci:cite>
+ or an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S86" remotekey1="REFPTID" service="DOC-ID">section 86</remotelink></ci:content></ci:cite>
+ that is similar to an order under that paragraph, include the reasonable costs of:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.EXPENSES.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EXPENSES.A" type="ext"/>(a)</lilabel>
+<p><text>necessary travel to and from, and accommodation at, the place where complying with the subpoena or order is required; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.EXPENSES.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.EXPENSES.B" type="ext"/>(b)</lilabel>
+<p><text>finding, collating and producing a document or thing;</text></p>
+</li>
+</l>
+<p><text>for the purposes of complying with the subpoena or order;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.INITIATING-PROCESS"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.INITIATING-PROCESS" type="ext"/><emph typestyle="bf">initiating process</emph></defterm> <defdesc>
+<p><text>means a process:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.INITIATING-PROCESS.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.INITIATING-PROCESS.A" type="ext"/>(a)</lilabel>
+<p><text>by which a proceeding is commenced; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.INITIATING-PROCESS.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.INITIATING-PROCESS.B" type="ext"/>(b)</lilabel>
+<p><text>by reference to which a person becomes a party to a proceeding;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.INVESTIGATIVE-FUNCTION"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.INVESTIGATIVE-FUNCTION" type="ext"/><emph typestyle="bf">investigative function</emph></defterm> <defdesc>
+<p><text>, in relation to a tribunal, means the function of conducting an inquiry other than an inquiry conducted in connection with the performance of an adjudicative function;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.JUDGMENT"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT" type="ext"/><emph typestyle="bf">judgment</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.A" type="ext"/>(a)</lilabel>
+<p><text>a judgment, decree or order given, entered or made by a court in a civil proceeding under which:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.A.I"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.A.I" type="ext"/>(i)</lilabel>
+<p><text>a sum of money is made payable; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.A.II"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.A.II" type="ext"/>(ii)</lilabel>
+<p><text>a person is required to do or not to do an act or thing (other than the payment of money);</text></p>
+</li></l>
+<p><text>not being an order made under proceeds of crime legislation (other than a pecuniary penalty order); or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.B" type="ext"/>(b)</lilabel>
+<p><text>an order made by a court in a criminal proceeding under which:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.B.I"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.B.I" type="ext"/>(i)</lilabel>
+<p><text>a sum of money is made payable as a debt due to the Crown in right of the Commonwealth or a State; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.B.II"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.B.II" type="ext"/>(ii)</lilabel>
+<p><text>a person is required to do or not to do an act or thing (other than the payment of money); or</text></p>
+</li></l></li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.C"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.C" type="ext"/>(c)</lilabel>
+<p><text>an order made by a court for the forfeiture of bail; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.D"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.D" type="ext"/>(d)</lilabel>
+<p><text>an order that:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.D.I"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.D.I" type="ext"/>(i)</lilabel>
+<p><text>is made by a tribunal in connection with the performance of an adjudicative function; and</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.D.II"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.D.II" type="ext"/>(ii)</lilabel>
+<p><text>is enforceable without an order of a court (whether or not the order made by the tribunal must be registered or filed in a court in order to be enforceable); or</text></p>
+</li></l></li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.E"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.E" type="ext"/>(e)</lilabel>
+<p><text>an order, decree or judgment registered in a court under the Foreign Judgments Act 1991;</text></p>
+</li>
+</l>
+<p><text>whether or not the judgment, decree or order is final, but does not include:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.F"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.F" type="ext"/>(f)</lilabel>
+<p><text>a judgment, decree or order of a court of a foreign country that has been registered in a court in Australia otherwise than under the Foreign Judgments Act 1991; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.G"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.G" type="ext"/>(g)</lilabel>
+<p><text>an order, however described, imposing a fine; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.H"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.H" type="ext"/>(h)</lilabel>
+<p><text>an order relating to the granting of probate or letters of administration or the administration of the estate of a deceased person; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.I"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.I" type="ext"/>(i)</lilabel>
+<p><text>an order relating to the guardianship of a person who is incapable of managing his or her personal affairs; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.J"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.J" type="ext"/>(j)</lilabel>
+<p><text>an order relating to the management of the property of a person who is incapable of managing that property; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.K"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.K" type="ext"/>(k)</lilabel>
+<p><text>an order relating to the care, control or welfare of a child; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.JUDGMENT.L"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.JUDGMENT.L" type="ext"/>(l)</lilabel>
+<p><text>an order that, if contravened by the person to whom it is directed, will render the person liable to conviction for an offence in the State in which the order was made;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.MAGISTRATE"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.MAGISTRATE" type="ext"/><emph typestyle="bf">magistrate</emph></defterm> <defdesc>
+<p><text>, except in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S57" remotekey1="REFPTID" service="DOC-ID">sections 57</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S67" remotekey1="REFPTID" service="DOC-ID">67</remotelink></ci:content></ci:cite>
+ , includes:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.MAGISTRATE.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.MAGISTRATE.A" type="ext"/>(a)</lilabel>
+<p><text>a justice of the peace who has power to issue warrants under a law of the State in which the justice holds that office; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.MAGISTRATE.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.MAGISTRATE.B" type="ext"/>(b)</lilabel>
+<p><text>a person who is appointed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MCV.S120" remotekey1="REFPTID" service="DOC-ID" status="unval">section 120</remotelink></ci:content></ci:cite>
+ of the Magistrates' Court Act 1989 of Victoria as a bail justice or is a bail justice because of holding a prescribed office within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MCV.S121" remotekey1="REFPTID" service="DOC-ID" status="unval">section 121</remotelink></ci:content></ci:cite>
+ of that Act.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  subst Act 34 of 1997  s 3 and Sch 14]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.MEMBER"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.MEMBER" type="ext"/><emph typestyle="bf">member</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 9 of 2000  Sch 2]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.ORDER-FOR-PRODUCTION"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.ORDER-FOR-PRODUCTION" type="ext"/><emph typestyle="bf">order for production</emph></defterm> <defdesc>
+<p><text>means an order made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S39" remotekey1="REFPTID" service="DOC-ID">section 39</remotelink></ci:content></ci:cite>
+ , 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S67" remotekey1="REFPTID" service="DOC-ID">67</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S79" remotekey1="REFPTID" service="DOC-ID">79</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT" type="ext"/><emph typestyle="bf">person under restraint</emph></defterm> <defdesc>
+<p><text>means a person who:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.A" type="ext"/>(a)</lilabel>
+<p><text>is on bail; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.B" type="ext"/>(b)</lilabel>
+<p><text>has been conditionally released from prison (whether on parole, licence, work release, home detention or otherwise) before the end of a term of imprisonment to which he or she has been sentenced; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.C"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.C" type="ext"/>(c)</lilabel>
+<p><text>is subject to the supervision of another person under a probation order; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.D"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.D" type="ext"/>(d)</lilabel>
+<p><text>is serving a period of home detention or a term of imprisonment by way of periodic detention; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E" type="ext"/>(e)</lilabel>
+<p><text>is subject to:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.I"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.I" type="ext"/>(i)</lilabel>
+<p><text>a community service order; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.II"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.II" type="ext"/>(ii)</lilabel>
+<p><text>a community based order; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.III"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.III" type="ext"/>(iii)</lilabel>
+<p><text>an attendance order; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.IV"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.IV" type="ext"/>(iv)</lilabel>
+<p><text>a work and development order; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.V"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PERSON-UNDER-RESTRAINT.E.V" type="ext"/>(v)</lilabel>
+<p><text>any other restriction on his or her movements, imposed by law or by order of a court, that is inconsistent with the person complying with a subpoena served on the person under this Act;</text></p>
+</li></l>
+<p><text>but does not include a person who is in prison;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.PLACE-OF-ISSUE"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.PLACE-OF-ISSUE" type="ext"/><emph typestyle="bf">place of issue</emph></defterm> <defdesc>
+<p><text>, in relation to a process, means the State in which the process was issued;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.PRESCRIBED"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.PRESCRIBED" type="ext"/><emph typestyle="bf">prescribed</emph></defterm> <defdesc>
+<p><text>means prescribed by the regulations or by rules regulating the practice and procedure of a court;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.PRISON"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.PRISON" type="ext"/><emph typestyle="bf">prison</emph></defterm> <defdesc>
+<p><text>includes a gaol, lock-up or other place of detention;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.PROCEEDING"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.PROCEEDING" type="ext"/><emph typestyle="bf">proceeding</emph></defterm> <defdesc>
+<p><text>, except in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.PT4" remotekey1="REFPTID" service="DOC-ID">Part 4</remotelink></ci:content></ci:cite>
+ , means a proceeding in a court or before an authority (other than a tribunal that is an authority) and includes:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.PROCEEDING.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PROCEEDING.A" type="ext"/>(a)</lilabel>
+<p><text>an interlocutory or similar proceeding; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.PROCEEDING.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PROCEEDING.B" type="ext"/>(b)</lilabel>
+<p><text>a proceeding heard in chambers;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.PROCEEDS-OF-CRIME-LEGISLATION"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.PROCEEDS-OF-CRIME-LEGISLATION" type="ext"/><emph typestyle="bf">proceeds of crime legislation</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.PROCEEDS-OF-CRIME-LEGISLATION.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PROCEEDS-OF-CRIME-LEGISLATION.A" type="ext"/>(a)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="CLF.PROCEED.PCA87" remotekey1="REFPTID" service="DOC-ID" status="unval">Proceeds of Crime Act 1987</remotelink></ci:content></ci:cite>
+ ; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.PROCEEDS-OF-CRIME-LEGISLATION.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PROCEEDS-OF-CRIME-LEGISLATION.B" type="ext"/>(b)</lilabel>
+<p><text>the 
+<remotelink dpsi="05CC" refpt="OTH.PCAC02" remotekey1="REFPTID" service="DOC-ID" status="unval">Proceeds of Crime Act 2002</remotelink>
+ ; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.PROCEEDS-OF-CRIME-LEGISLATION.C"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.PROCEEDS-OF-CRIME-LEGISLATION.C" type="ext"/>(c)</lilabel>
+<p><text>a law of a State that is a corresponding law within the meaning of the 
+<remotelink dpsi="05CC" refpt="OTH.PCAC02" remotekey1="REFPTID" service="DOC-ID" status="unval">Proceeds of Crime Act 2002</remotelink>
+ .</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  subst Act 86 of 2002  s 3 and Sch 6,  effective 1 January 2003]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.REGISTERED-BODY"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.REGISTERED-BODY" type="ext"/><emph typestyle="bf">registered body</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S601CX" remotekey1="REFPTID" service="DOC-ID" status="unval">section 601CX</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 61 of 1998  s 3 and Sch 4 ; Act 55 of 2001  Sch 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.STATE"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.STATE" type="ext"/><emph typestyle="bf">State</emph></defterm> <defdesc>
+<p><text>includes the meaning given in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S5" remotekey1="REFPTID" service="DOC-ID">section 5</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.SUBPOENA"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.SUBPOENA" type="ext"/><emph typestyle="bf">subpoena</emph></defterm> <defdesc>
+<p><text>, except in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.PT4" remotekey1="REFPTID" service="DOC-ID">Part 4</remotelink></ci:content></ci:cite>
+ , means a process that requires a person to do one or both of the following:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.SUBPOENA.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.SUBPOENA.A" type="ext"/>(a)</lilabel>
+<p><text>to give oral evidence before a court, authority or person;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.SUBPOENA.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.SUBPOENA.B" type="ext"/>(b)</lilabel>
+<p><text>to produce a document or thing to a court, authority or person;</text></p>
+</li>
+</l>
+<p><text>but does not include a process that requires a person to produce a document in connection with discovery and inspection of documents;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.TRIBUNAL"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.TRIBUNAL" type="ext"/><emph typestyle="bf">tribunal</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.A" type="ext"/>(a)</lilabel>
+<p><text>a person appointed by the Governor of a State, or by or under a law of a State; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.B" type="ext"/>(b)</lilabel>
+<p><text>a body established by or under a law of a State;</text></p>
+</li>
+</l>
+<p><text>and authorised by or under a law of the State to take evidence on oath or affirmation, but does not include:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.C"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.C" type="ext"/>(c)</lilabel>
+<p><text>a court; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.D"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.D" type="ext"/>(d)</lilabel>
+<p><text>a person exercising a power conferred on the person as a judge, magistrate, coroner or officer of a court;</text></p>
+</li>
+</l></defdesc>
+<glp:note id="UCPN.OL.SEPA92.S3.1.TRIBUNAL.LGN1">
+<heading><title>Note:</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S81A" remotekey1="REFPTID" service="DOC-ID">Section 81A</remotelink></ci:content></ci:cite>
+ alters the meaning of this term for the purposes of Part 5.</text></p></glp:note>
+</defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S3.1.WARRANT"><defterm><refpt id="UCPN.OL.SEPA92.S3.1.WARRANT" type="ext"/><emph typestyle="bf">warrant</emph></defterm> <defdesc>
+<p><text> (except in the definition of <defterm><emph typestyle="bf">authority</emph></defterm> in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S81A" remotekey1="REFPTID" service="DOC-ID">section 81A</remotelink></ci:content></ci:cite>
+ ) means a process issued by a court, authority or tribunal in accordance with:</text></p>
+<l><li id="UCPN.OL.SEPA92.S3.1.WARRANT.AA"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.WARRANT.AA" type="ext"/>(aa)</lilabel>
+<p><text>this Act; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.WARRANT.A"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.WARRANT.A" type="ext"/>(a)</lilabel>
+<p><text>a law of a State; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S3.1.WARRANT.B"><lilabel><refpt id="UCPN.OL.SEPA92.S3.1.WARRANT.B" type="ext"/>(b)</lilabel>
+<p><text>the provisions of such a law as applied by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JA03.S68.1" remotekey1="REFPTID" service="DOC-ID" status="unval">subsection 68(1)</remotelink></ci:content></ci:cite>
+ of the Judiciary Act 1903;</text></p>
+</li>
+</l>
+<p><text>that authorises the apprehension of a person.</text></p>
+<glp:note id="UCPN.OL.SEPA92.S3.1.WARRANT.LGN1">
+<heading><title>Note:</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S81A" remotekey1="REFPTID" service="DOC-ID">Section 81A</remotelink></ci:content></ci:cite>
+ alters the meaning of this term for the purposes of Part 5.</text></p></glp:note>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 34 of 1997  s 3 and Sch 14 ; Act 41 of 2003  s 3 and Sch 2 , effective 3 December 2003]</text></p></leg:histnote></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of the definition of <defterm><emph typestyle="bf">tribunal</emph></defterm> in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S3.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , a body is taken to be authorised by or under a law of a State to take evidence on oath or affirmation if a member of the body is authorised, by or under the law by or under which the body was established, to take evidence on oath or affirmation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a subpoena issued by a court or tribunal is a reference to a subpoena issued by or out of the court or tribunal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S3.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to allowances and travelling expenses includes a reference to vouchers tendered in substitution for the whole or part of those allowances and travelling expenses.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S3.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S3.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a law of the Commonwealth or a State is a reference to a law (whether written or unwritten) of or in force in the Commonwealth or the State, as the case may be.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S3.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S3.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to a person who is in prison does not include a reference to a person who is serving a term of imprisonment by way of periodic detention.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S3.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S3.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act, if a Territory does not have its own police force, the police force performing the policing functions of the Territory is taken to be the police force of the Territory.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.SEPA92.S3.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.415015-5" leveltype="para0" subdoc="true" toc-caption="[415,015.5] Initiating process">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [415,015.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 5, Pt 6.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 78.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.415015-5" type="ext"/>[415,015.5] </edpnum><title>Initiating process</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The expression &quot;initiating process&quot; is, by virtue of the definition of &quot;proceedings&quot; of wider application than the equivalent expression &quot;writ of summons&quot; that was used in the 1901 Act. Clearly &quot;initiating process&quot; would include the ordinary summons referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT5" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 5</remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000434" spanref="cr000434-001" status="unval"><ci:reporter value="VLR"/><ci:edition><ci:date year="1927"/></ci:edition><ci:page num="132"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Boyd (dec'd)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000434-001" status="unval">[1927] VLR 132</ci:span></citefragment> <remotelink dpsi="0018" refpt="94395" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000435" spanref="cr000435-001" status="unval"><ci:reporter value="QWN"/><ci:edition><ci:date year="1956"/></ci:edition><ci:page num="50"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Andrews (dec'd)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000435-001" status="unval">[1956] QWN 50</ci:span></citefragment> <remotelink dpsi="0018" refpt="111823" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . It would also include a summons or petition to wind up a company under the Corporations Law (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1924"/></ci:caseinfo><ci:caseref ID="cr000436" spanref="cr000436-001" status="unval"><ci:reporter value="VLR"/><ci:edition><ci:date year="1924"/></ci:edition><ci:page num="505"/></ci:caseref><ci:caseref ID="cr000437" spanref="cr000437-002" status="unval"><ci:reporter value="ALR"/><ci:volume num="30"/><ci:page num="358"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Australian United Insurance Co Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000436-001" status="unval">[1924] VLR 505</ci:span>; <ci:span spanid="cr000437-002" status="unval">(1924) 30 ALR 358</ci:span></citefragment> <remotelink dpsi="0018" refpt="94065" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ), a summons in winding-up proceedings to enforce the liabilities of third parties to the company (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000438" spanref="cr000438-001" status="unval"><ci:reporter value="SASR"/><ci:edition><ci:date year="1940"/></ci:edition><ci:page num="267"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re E &amp; B Chemicals and Wool Treatment Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000438-001" status="unval">[1940] SASR 267</ci:span></citefragment> <remotelink dpsi="0018" refpt="118014" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ) and a cross-claim under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S78" remotekey1="REFPTID" service="DOC-ID">s 78</remotelink></ci:content></ci:cite>
+ of the Supreme Court Act and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT6" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 6</remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules brought against a person not already a party to the proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000439" spanref="cr000439-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1960"/></ci:edition><ci:page num="266"/></ci:caseref><ci:caseref ID="cr000440" spanref="cr000440-002" status="unval"><ci:reporter value="FLR"/><ci:volume num="2"/><ci:edition><ci:date year="1958"/></ci:edition><ci:page num="175"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Gilchrist v Dean</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000439-001">[1960] VR 266</ci:span>; <ci:span spanid="cr000440-002" status="unval">(1958) 2 FLR 175</ci:span></citefragment> <remotelink dpsi="0018" refpt="17" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . Similarly &quot;initiating process&quot; (unlike the position under the 1901 Act: <emph typestyle="it">Re Australian United Insurance Co Ltd (in liq)</emph> , above) is likely to include a summons to enforce payment of calls issued by a liquidator of a company in liquidation: <emph typestyle="it">Re E &amp; B Chemicals and Wool Treatment Pty Ltd</emph> , above; <emph typestyle="it">Re Australian United Insurance Co Ltd (in liq)</emph> , above.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.415015-10" leveltype="para0" subdoc="true" toc-caption="[415,015.10] &#x201c;Judgment&#x201d;">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [415,015.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1992-172" remotekey1="REFPTID" service="DOC-ID">Service and Execution of Process Act 1992</remotelink> s 106, s 3(1).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 6.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.415015-10" type="ext"/>[415,015.10] </edpnum><title>&#x201c;Judgment&#x201d;</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Because of the extended definition in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S3.1" remotekey1="REFPTID" service="DOC-ID">s 3(1)</remotelink></ci:content></ci:cite>
+ of the Act this word has a wider meaning than under the 1901 Act. It would include, eg, not only an order for payment of calls made on a summons in the liquidation of a company (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000441" spanref="cr000441-001" status="unval"><ci:reporter value="SASR"/><ci:edition><ci:date year="1940"/></ci:edition><ci:page num="267"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re E &amp; B Chemicals and Wool Treatment Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000441-001" status="unval">[1940] SASR 267</ci:span></citefragment> <remotelink dpsi="0018" refpt="118014" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ), but also an order for costs made on an application for maintenance (<ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000442" spanref="cr000442-001" status="unval"><ci:reporter value="QWN"/><ci:edition><ci:date year="1955"/></ci:edition><ci:page num="16"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Winchcombe v Winchcombe</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000442-001" status="unval">[1955] QWN 16</ci:span></citefragment> <remotelink dpsi="0018" refpt="112164" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> ), and an order for the payment of maintenance: cf <emph typestyle="it">Winchcombe v Winchcombe</emph> , above. A judgment is enforceable under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT6" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 6</remotelink></ci:content></ci:cite>
+ even if it is subject to appeal: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1975"/></ci:caseinfo><ci:caseref ID="cr000443" spanref="cr000443-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="133"/><ci:page num="113"/></ci:caseref><ci:caseref ID="cr000444" spanref="cr000444-002"><ci:reporter value="ALR"/><ci:volume num="8"/><ci:page num="250"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v White; Ex parte TA Field Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000443-001" status="unval">(1975) 133 CLR 113</ci:span>; <ci:span spanid="cr000444-002">8 ALR 250</ci:span></citefragment> <remotelink dpsi="0018" refpt="37329" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> . An application may be made to stay enforcement of a registered judgment: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S106" remotekey1="REFPTID" service="DOC-ID">s 106</remotelink></ci:content></ci:cite>
+ .</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,020] s 4 Copies">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S4" type="ext"/>[415,020]</edpnum><title searchtype="SECT-TITLE">Copies</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act, a document that is identical to a process, order or document in all material respects is taken to be a copy of the process, order or document.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A document that purports to be a copy of a process, order or document is presumed to be such a copy unless evidence is adduced that raises real doubt that it is such a copy.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,025] s 5 Territories regarded as States">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S5" type="ext"/>[415,025]</edpnum><title searchtype="SECT-TITLE">Territories regarded as States</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act, each Territory (other than a Territory that, under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S7.2" remotekey1="REFPTID" service="DOC-ID">subsection 7(2)</remotelink></ci:content></ci:cite>
+ , is taken to be part of a State or another Territory) is to be regarded as a State.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 143 of 2010  s 3 and Sch 2 item 1, effective 16 June 2011]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of the application of this Act in relation to a Territory (other than the Australian Capital Territory), the reference to the Governor of a State in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S3.1.TRIBUNAL.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+ of the definition of <defterm><emph typestyle="bf">tribunal</emph></defterm> in subsection 3(1) is a reference to the Administrator of the Territory.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,030] s 6 Act to bind Crown">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S6" type="ext"/>[415,030]</edpnum><title searchtype="SECT-TITLE">Act to bind Crown</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act binds the Crown in all its capacities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,035] s 7 Territories">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S7" type="ext"/>[415,035]</edpnum><title searchtype="SECT-TITLE">Territories</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S7.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act extends to each external Territory.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S7.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S7.2" type="ext"/><fnr fnrtoken="UCPN.OL.SEPA92.S7.1.FT1-R" fntoken="UCPN.OL.SEPA92.S7.1.FT1">*</fnr>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act:</text></p>
+<l><li id="UCPN.OL.SEPA92.S7.2.A"><lilabel><refpt id="UCPN.OL.SEPA92.S7.2.A" type="ext"/>(a)</lilabel>
+<p><text>the Christmas Island Territory is taken to be part of Western Australia; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S7.2.B"><lilabel><refpt id="UCPN.OL.SEPA92.S7.2.B" type="ext"/>(b)</lilabel>
+<p><text>the Territory of Cocos (Keeling) Islands is taken to be part of Western Australia; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S7.2.C"><lilabel><refpt id="UCPN.OL.SEPA92.S7.2.C" type="ext"/>(c)</lilabel>
+<p><text>the Jervis Bay Territory, the Australian Antarctic Territory and the Territory of Heard Island and McDonald Islands are taken to be part of the Australian Capital Territory; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S7.2.D"><lilabel><refpt id="UCPN.OL.SEPA92.S7.2.D" type="ext"/>(d)</lilabel>
+<p><text>the Territory of Ashmore and Cartier Islands is taken to be part of the Northern Territory; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S7.2.E"><lilabel><refpt id="UCPN.OL.SEPA92.S7.2.E" type="ext"/>(e)</lilabel>
+<p><text>the Coral Sea Islands Territory is taken to be part of Norfolk Island.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,040] s 8 Effect on the operation of other laws">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S8" type="ext"/>[415,040]</edpnum><title searchtype="SECT-TITLE">Effect on the operation of other laws</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S8.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect a decision of a court or tribunal to allow substituted service of a process.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S8.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect the operation of:</text></p>
+<l><li id="UCPN.OL.SEPA92.S8.2.A"><lilabel><refpt id="UCPN.OL.SEPA92.S8.2.A" type="ext"/>(a)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TPRIS83" remotekey1="REFPTID" service="DOC-ID" status="unval">Transfer of Prisoners Act 1983</remotelink></ci:content></ci:cite>
+ , or a law of a State that, in an instrument published under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TPRIS83.S5" remotekey1="REFPTID" service="DOC-ID" status="unval">section 5</remotelink></ci:content></ci:cite>
+ of that Act, is declared to be a State transfer law of the State; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.2.B"><lilabel><refpt id="UCPN.OL.SEPA92.S8.2.B" type="ext"/>(b)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.RPT23" remotekey1="REFPTID" service="DOC-ID" status="unval">Removal of Prisoners (Territories) Act 1923</remotelink></ci:content></ci:cite>
+ ; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.2.C"><lilabel><refpt id="UCPN.OL.SEPA92.S8.2.C" type="ext"/>(c)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.RPACT68" remotekey1="REFPTID" service="DOC-ID" status="unval">Removal of Prisoners (Australian Capital Territory) Act 1968</remotelink></ci:content></ci:cite>
+ of the Australian Capital Territory; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.2.D"><lilabel><refpt id="UCPN.OL.SEPA92.S8.2.D" type="ext"/>(d)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.FLA75" remotekey1="REFPTID" service="DOC-ID" status="unval">Family Law Act 1975</remotelink></ci:content></ci:cite>
+ , or the regulations or Rules of Court made under that Act.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S8.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S8.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect the operation of a law of a State so far as the law provides for service of a subpoena on a person:</text></p>
+<l><li id="UCPN.OL.SEPA92.S8.3.A"><lilabel><refpt id="UCPN.OL.SEPA92.S8.3.A" type="ext"/>(a)</lilabel>
+<p><text>only after permission or leave has been given; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.3.B"><lilabel><refpt id="UCPN.OL.SEPA92.S8.3.B" type="ext"/>(b)</lilabel>
+<p><text>only if it is served not less than a specified number of days, being greater than 14 days, before the date for compliance with the subpoena.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S8.3A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S8.3A" type="ext"/>(3A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act:</text></p>
+<l><li id="UCPN.OL.SEPA92.S8.3A.A"><lilabel><refpt id="UCPN.OL.SEPA92.S8.3A.A" type="ext"/>(a)</lilabel>
+<p><text>does not affect the operation of the cross-border laws; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.3A.B"><lilabel><refpt id="UCPN.OL.SEPA92.S8.3A.B" type="ext"/>(b)</lilabel>
+<p><text>does not apply to a person in relation to a particular matter if the cross-border laws would, apart from this Act, apply to the person in relation to the matter.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (3A)  insrt Act 77 of 2009  s 3 and Sch 1[2], effective 7 September 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S8.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S8.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this Act, this Act applies to the exclusion of a law of a State (the <defterm><emph typestyle="bf">relevant State</emph></defterm> ) with respect to:</text></p>
+<l><li id="UCPN.OL.SEPA92.S8.4.A"><lilabel><refpt id="UCPN.OL.SEPA92.S8.4.A" type="ext"/>(a)</lilabel>
+<p><text>the service or execution in another State of process of the relevant State that is process to which this Act applies; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.4.B"><lilabel><refpt id="UCPN.OL.SEPA92.S8.4.B" type="ext"/>(b)</lilabel>
+<p><text>the service or execution in the relevant State of process of another State that is process to which this Act applies; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.4.C"><lilabel><refpt id="UCPN.OL.SEPA92.S8.4.C" type="ext"/>(c)</lilabel>
+<p><text>the service or execution in another State of judgments of a court of the relevant State that are judgments to which this Act applies; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.4.D"><lilabel><refpt id="UCPN.OL.SEPA92.S8.4.D" type="ext"/>(d)</lilabel>
+<p><text>the service or execution in the relevant State of judgments of a court of another State that are judgments to which this Act applies; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.4.E"><lilabel><refpt id="UCPN.OL.SEPA92.S8.4.E" type="ext"/>(e)</lilabel>
+<p><text>the service or execution in another State of judgments to which this Act applies that are orders of a tribunal of the relevant State; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S8.4.F"><lilabel><refpt id="UCPN.OL.SEPA92.S8.4.F" type="ext"/>(f)</lilabel>
+<p><text>the service or execution in the relevant State of judgments to which this Act applies that are orders of a tribunal of another State.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (4)  subst Act 34 of 1997  s 3 and Sch 14]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S8A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,045] s 8A Application of the Criminal Code">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S8A" type="ext"/>[415,045]</edpnum><title searchtype="SECT-TITLE">Application of the Criminal Code</title><desig searchtype="SECT-NUM"><designum>8A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CCODC.PT2" remotekey1="REFPTID" service="DOC-ID" status="unval">Chapter 2</remotelink></ci:content></ci:cite>
+ of the Criminal Code applies to all offences against this Act.</text></p>
+<glp:note>
+<heading><title>Note</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CCODC.PT2" remotekey1="REFPTID" service="DOC-ID" status="unval">Chapter 2</remotelink></ci:content></ci:cite>
+ of the Criminal Code sets out the general principles of criminal responsibility.</text></p></glp:note><leg:histnote>
+<p><text>[s 8A  insrt Act 24 of 2001  s 3 and Sch 44,  effective 24 May 2001]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,050] s 9 Service on companies and registered bodies">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S9" type="ext"/>[415,050]</edpnum><title searchtype="SECT-TITLE">Service on companies and registered bodies</title><desig searchtype="SECT-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S9.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of a process, order or document under this Act on a company is to be effected by leaving it at, or by sending it by post to, the company's registered office.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S9.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ , a process, order or document may be served on a company by delivering a copy of it personally to a director of the company who resides in Australia</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 61 of 1998  s 3 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a liquidator of a company has been appointed, a process, order or document may be served on the company by leaving it at, or by sending it by post to, the address of the liquidator's office in the most recent notice of that address lodged under the Corporations Act 2001.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 61 of 1998  s 3 and Sch 4 ; Act 55 of 2001  Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (4)  rep Act 8 of 2007,   s 3 and Sch 4effective 15 March 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.4A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.4A" type="ext"/>(4A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an administrator of a company has been appointed, a process, order or document may be served on the company by leaving it at, or by sending it by post to, the address of the administrator in the most recent notice of that address lodged under the Corporations Act 2001.</text></p>
+<leg:histnote>
+<p><text>[subs (4A)  insrt Act 61 of 1998  s 3 and Sch 4 ; am Act 55 of 2001  Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of a process, order or document under this Act on a registered body is to be effected by leaving it at, or by sending it by post to, the body's registered office.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the registered body is a registered foreign company, a process, order or document may be served by leaving it at, or by sending it by post to:</text></p>
+<l><li id="UCPN.OL.SEPA92.S9.6.A"><lilabel><refpt id="UCPN.OL.SEPA92.S9.6.A" type="ext"/>(a)</lilabel>
+<p><text>the address of a local agent of the foreign company notice of which has been lodged under the Corporations Act 2001; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S9.6.B"><lilabel><refpt id="UCPN.OL.SEPA92.S9.6.B" type="ext"/>(b)</lilabel>
+<p><text>if a notice or notices of a change or alteration in that address has or have been so lodged &#x2014; the address shown in that last-mentioned notice or the later or latest of those last-mentioned notices.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (6)  am Act 55 of 2001  Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S9.5" remotekey1="REFPTID" service="DOC-ID">subsections (5)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S9.6" remotekey1="REFPTID" service="DOC-ID">(6)</remotelink></ci:content></ci:cite>
+ , a process, order or document may be served on a registered body by delivering a copy of it personally to each of 2 directors of the registered body who reside in Australia.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a liquidator of a registered body has been appointed, a process, order or document may be served on the registered body by leaving it at, or by sending it by post to, the last address of the office of the liquidator notice of which has been lodged under the Corporations Act 2001.</text></p>
+<leg:histnote>
+<p><text>[subs (8)  am Act 55 of 2001  Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.8A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.8A" type="ext"/>(8A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the operation of this section, if the process, order or document is not an initiating process or subpoena, service may be effected at the address for service of the company or registered body in the proceedings concerned in accordance with any applicable rules of court.</text></p>
+<leg:histnote>
+<p><text>[subs (8A)  insrt Act 141 of 1994  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S109X.1" remotekey1="REFPTID" service="DOC-ID" status="unval">Subsections 109X(1)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S109X.2" remotekey1="REFPTID" service="DOC-ID" status="unval">(2)</remotelink></ci:content></ci:cite>
+ and 
+<remotelink dpsi="05CC" refpt="OTH.CL.S601CX" remotekey1="REFPTID" service="DOC-ID" status="unval">section 601CX</remotelink>
+ of the Corporations Act 2001 do not apply to a process, order or document that may be served under this Act.</text></p>
+<leg:histnote>
+<p><text>[subs (9)  am Act 61 of 1998  s 3 and Sch 4 ; Act 55 of 2001  Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.10"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.10" type="ext"/>(10)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this section:</text></p>
+<l><li id="UCPN.OL.SEPA92.S9.10.A"><lilabel><refpt id="UCPN.OL.SEPA92.S9.10.A" type="ext"/>(a)</lilabel>
+<p><text>the situation of a company's registered office is to be determined according to 
+<remotelink dpsi="05CC" refpt="OTH.CL.PT2B.5" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 2B.5</remotelink>
+ of the Corporations Act 2001; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S9.10.B"><lilabel><refpt id="UCPN.OL.SEPA92.S9.10.B" type="ext"/>(b)</lilabel>
+<p><text>the situation of a registered body's registered office is to be determined according to 
+<remotelink dpsi="05CC" refpt="OTH.CL.S601CX.2" remotekey1="REFPTID" service="DOC-ID" status="unval">subsection 601CX(2)</remotelink>
+ of the Corporations Act 2001.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (10)  am Act 61 of 1998  s 3 and Sch 4 ; Act 55 of 2001  Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S9.11"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S9.11" type="ext"/>(11)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this section:</text></p>
+<deflist><defitem id="UCPN.OL.SEPA92.S9.11.DIRECTOR"><defterm><refpt id="UCPN.OL.SEPA92.S9.11.DIRECTOR" type="ext"/><emph typestyle="bf">director</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in the Corporations Act 2001;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 55 of 2001  Sch 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S9.11.LOCAL-AGENT"><defterm><refpt id="UCPN.OL.SEPA92.S9.11.LOCAL-AGENT" type="ext"/><emph typestyle="bf">local agent</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in the Corporations Act 2001;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 55 of 2001  Sch 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S9.11.OFFICIAL-MANAGER"><defterm><refpt id="UCPN.OL.SEPA92.S9.11.OFFICIAL-MANAGER" type="ext"/><emph typestyle="bf">official manager</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 8 of 2007,   s 3 and Sch 2effective 15 March 2007]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S9.11.REGISTERED-FOREIGN-COMPANY"><defterm><refpt id="UCPN.OL.SEPA92.S9.11.REGISTERED-FOREIGN-COMPANY" type="ext"/><emph typestyle="bf">registered foreign company</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CL.S601CX" remotekey1="REFPTID" service="DOC-ID" status="unval">section 601CX</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 61 of 1998  s 3 and Sch 4 ; Act 55 of 2001  Sch 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.SEPA92.S9.11.REGISTERED-OFFICE"><defterm><refpt id="UCPN.OL.SEPA92.S9.11.REGISTERED-OFFICE" type="ext"/><emph typestyle="bf">registered office</emph></defterm> <defdesc>
+<p><text>has the same meaning as it has in the Corporations Act 2001.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 55 of 2001  Sch 3]</text></p></leg:histnote></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S10"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,055] s 10 Service on other bodies corporate">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S10" type="ext"/>[415,055]</edpnum><title searchtype="SECT-TITLE">Service on other bodies corporate</title><desig searchtype="SECT-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S10.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of a process, order or document under this Act may be served on a body corporate that is not a company or a registered body in accordance with this section.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S10.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a law of the State in which service is to be effected provides that service may be effected on the body corporate at a particular place, service may be effected by:</text></p>
+<l><li id="UCPN.OL.SEPA92.S10.2.A"><lilabel><refpt id="UCPN.OL.SEPA92.S10.2.A" type="ext"/>(a)</lilabel>
+<p><text>leaving the process, order or document at that place; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S10.2.B"><lilabel><refpt id="UCPN.OL.SEPA92.S10.2.B" type="ext"/>(b)</lilabel>
+<p><text>sending the process, order or document to that place by post.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S10.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S10.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a law of the State in which service is to be effected does not provide that service may be effected on the body corporate at a particular place, service may be effected by:</text></p>
+<l><li id="UCPN.OL.SEPA92.S10.3.A"><lilabel><refpt id="UCPN.OL.SEPA92.S10.3.A" type="ext"/>(a)</lilabel>
+<p><text>leaving the process, order or document at the head office, a registered office or the principal place of business of the body corporate; or</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S10.3.B"><lilabel><refpt id="UCPN.OL.SEPA92.S10.3.B" type="ext"/>(b)</lilabel>
+<p><text>by sending the process, order or document to that office or that place of business by post.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (3)  am Act 61 of 1998  s 3 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S10.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S10.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the operation of this section, if the process, order or document is not an initiating process or subpoena, service may be effected at the address for service of the body corporate in the proceedings concerned in accordance with any applicable rules of court.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  insrt Act 141 of 1994  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,060] s 11 Proof of service">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S11" type="ext"/>[415,060]</edpnum><title searchtype="SECT-TITLE">Proof of service</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.SEPA92.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S11.2" remotekey1="REFPTID" service="DOC-ID">subsections (2)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S11.8" remotekey1="REFPTID" service="DOC-ID">(8)</remotelink></ci:content></ci:cite>
+ , service of a process, order or document under this Act is taken to have been proved only if the following are proved:</text></p>
+<l><li id="UCPN.OL.SEPA92.S11.1.A"><lilabel><refpt id="UCPN.OL.SEPA92.S11.1.A" type="ext"/>(a)</lilabel>
+<p><text>the identity of the person who served it;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.1.B"><lilabel><refpt id="UCPN.OL.SEPA92.S11.1.B" type="ext"/>(b)</lilabel>
+<p><text>the time at which and the day on which it was served;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.1.C"><lilabel><refpt id="UCPN.OL.SEPA92.S11.1.C" type="ext"/>(c)</lilabel>
+<p><text>the place at which it was served;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.1.D"><lilabel><refpt id="UCPN.OL.SEPA92.S11.1.D" type="ext"/>(d)</lilabel>
+<p><text>the way in which it was served;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.1.E"><lilabel><refpt id="UCPN.OL.SEPA92.S11.1.E" type="ext"/>(e)</lilabel>
+<p><text>if service was effected in a way that required the person served to be identified &#x2014; the way in which the person served was identified.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S11.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ does not apply to service by post.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of a process, order or document under this Act by post on an individual is taken to have been proved only if the following are proved:</text></p>
+<l><li id="UCPN.OL.SEPA92.S11.3.A"><lilabel><refpt id="UCPN.OL.SEPA92.S11.3.A" type="ext"/>(a)</lilabel>
+<p><text>it was sent by pre-paid post to the person's last known address, or the person's address for service in the proceedings concerned;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.3.AB"><lilabel><refpt id="UCPN.OL.SEPA92.S11.3.AB" type="ext"/>(ab)</lilabel>
+<p><text>it was addressed to the person, or, if it was sent to an address for service that is the office of a solicitor, to that solicitor;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.3.B"><lilabel><refpt id="UCPN.OL.SEPA92.S11.3.B" type="ext"/>(b)</lilabel>
+<p><text>the day on which it was posted.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (3)  am Act 141 of 1994  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of a process, order or document under this Act by post on a company, a registered body or any other body corporate is taken to have been proved only if the following are proved:</text></p>
+<l><li id="UCPN.OL.SEPA92.S11.4.A"><lilabel><refpt id="UCPN.OL.SEPA92.S11.4.A" type="ext"/>(a)</lilabel>
+<p><text>it was sent by pre-paid post to an address for service on the company, registered body or other body corporate under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S10" remotekey1="REFPTID" service="DOC-ID">10</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.4.AB"><lilabel><refpt id="UCPN.OL.SEPA92.S11.4.AB" type="ext"/>(ab)</lilabel>
+<p><text>it was addressed to the company, registered body or other body corporate, or, if the address for service is the office of a solicitor, to that solicitor;</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.4.B"><lilabel><refpt id="UCPN.OL.SEPA92.S11.4.B" type="ext"/>(b)</lilabel>
+<p><text>the day on which it was posted.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (4)  am Act 141 of 1994  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service of a process, order or document under this Act may be proved:</text></p>
+<l><li id="UCPN.OL.SEPA92.S11.5.A"><lilabel><refpt id="UCPN.OL.SEPA92.S11.5.A" type="ext"/>(a)</lilabel>
+<p><text>by affidavit sworn before:</text></p>
+<l><li id="UCPN.OL.SEPA92.S11.5.A.I"><lilabel><refpt id="UCPN.OL.SEPA92.S11.5.A.I" type="ext"/>(i)</lilabel>
+<p><text>any justice of the peace having jurisdiction in the State or part of the State in which the service was effected; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S11.5.A.II"><lilabel><refpt id="UCPN.OL.SEPA92.S11.5.A.II" type="ext"/>(ii)</lilabel>
+<p><text>a Commissioner for Affidavits or Declarations; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S11.5.A.III"><lilabel><refpt id="UCPN.OL.SEPA92.S11.5.A.III" type="ext"/>(iii)</lilabel>
+<p><text>a notary public for that State or part of that State; or</text></p>
+</li><li id="UCPN.OL.SEPA92.S11.5.A.IV"><lilabel><refpt id="UCPN.OL.SEPA92.S11.5.A.IV" type="ext"/>(iv)</lilabel>
+<p><text>a person who is a barrister or a solicitor, or both; or</text></p>
+</li></l></li>
+<li id="UCPN.OL.SEPA92.S11.5.B"><lilabel><refpt id="UCPN.OL.SEPA92.S11.5.B" type="ext"/>(b)</lilabel>
+<p><text>in any way in which the service might have been proved if it had been effected within the State in which the process, order or document was issued.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>It is only necessary to call the deponent to give evidence of service if a court, authority or tribunal, or a person appearing before a court, authority or tribunal, so requires.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S11.1.E" remotekey1="REFPTID" service="DOC-ID">paragraph (1)(e)</remotelink></ci:content></ci:cite>
+ , evidence of a statement that:</text></p>
+<l><li id="UCPN.OL.SEPA92.S11.7.A"><lilabel><refpt id="UCPN.OL.SEPA92.S11.7.A" type="ext"/>(a)</lilabel>
+<p><text>is made by a person served; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S11.7.B"><lilabel><refpt id="UCPN.OL.SEPA92.S11.7.B" type="ext"/>(b)</lilabel>
+<p><text>concerns the person's identity or office;</text></p>
+</li>
+</l>
+<p><text>is admissible as evidence of the person's identity or office.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court, authority or tribunal before which service on a person is to be proved may dispense with all or any of the requirements of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S11.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ if it is satisfied that personal service of the process, order or document in question was effected on the person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act, a document that purports to have been signed by a person acknowledging that the person has received a specified postal article is admissible as evidence that the person received the article.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.10"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.10" type="ext"/>(10)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Act, a document that purports to have been signed by a person acknowledging that a court, authority, tribunal or body for which the person is acting has received a specified postal article is admissible as evidence that the court, authority, tribunal or body received the article.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S11.11"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.SEPA92.S11.11" type="ext"/>(11)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A process, order or document served by post under this Act is presumed to have been served on the fourth day after the day it was posted unless evidence is adduced that raises real doubt that the process, order or document was delivered by post to the person to whom it was addressed within 4 days after the day it was posted.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.SEPA92.S12"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[415,065] s 12 Effect of service">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.SEPA92.S12" type="ext"/>[415,065]</edpnum><title searchtype="SECT-TITLE">Effect of service</title><desig searchtype="SECT-NUM"><designum>12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this Act, service of a process under this Act:</text></p>
+<l><li id="UCPN.OL.SEPA92.S12..A"><lilabel><refpt id="UCPN.OL.SEPA92.S12..A" type="ext"/>(a)</lilabel>
+<p><text>has the same effect; and</text></p>
+</li>
+<li id="UCPN.OL.SEPA92.S12..B"><lilabel><refpt id="UCPN.OL.SEPA92.S12..B" type="ext"/>(b)</lilabel>
+<p><text>may give rise to the same proceedings;</text></p>
+</li>
+</l>
+<p><text>as if the process had been served in the place of issue.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<footnotegrp><footnote fnrtokens="UCPN.OL.SEPA92.S7.1.FT1-R" fntoken="UCPN.OL.SEPA92.S7.1.FT1" type="default"><fnlabel>*</fnlabel><fnbody>
+<h>Editor's note:</h>
+<p><refpt id="UCPN.OL.SEPA92.S7.1.FT1" type="ext"/>
+<text>Paragraphs 7(2) and 7(2)(b) commenced on the proclamation of ss 10 and 19 of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TLR92" remotekey1="REFPTID" service="DOC-ID" status="unval">Territories Law Reform Act 1992 No 104</remotelink></ci:content></ci:cite>
+ (29 June 1993: Gaz S 196 of 29 June 1993).</text></p></fnbody></footnote></footnotegrp>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

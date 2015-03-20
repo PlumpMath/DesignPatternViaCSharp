@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>VO</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_673</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>V</title></heading>
+<docinfo:hierlev role="me"><heading><title>VO</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>111700</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_673" /><docinfo:metaitem name="parent-filename" value="ucpn284.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="30" month="05" year="2013">30 May 2013</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>VO</title></heading>
+<in:lev1 id="UCPN_IND_673" subdoc="true" toc-caption="Voir dire"><in:entry><in:entry-text><refpt id="VOIR_DIRE" type="ext"><emph typestyle="bf">Voir dire</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>Evidence Act 1995 s 189 <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S189" remotekey1="REFPTID" service="DOC-ID" filename="ea10001126.xml">[51,785]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51785-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001126.xml">[51,785.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_674" subdoc="true" toc-caption="Volunteers"><in:entry><in:entry-text><refpt id="VOLUNTEERS" type="ext"><emph typestyle="bf">Volunteers</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>civil liability, protection from <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S61" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,165]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- application of Pt 9 Civil Liability Act <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S59" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,155]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- exclusions</in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>acting contrary to instructions <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S64" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,180]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>acting outside scope of activities <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S64" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,180]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>criminal acts <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S62" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,170]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>insurance required <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S65" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,185]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>intoxication <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S63" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,175]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>motor accidents <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S66" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,190]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>community organisation, definition <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S60" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,160]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>community work, definition <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S60" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,160]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S60" remotekey1="REFPTID" service="DOC-ID" filename="ol10061096.xml">[271,160]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

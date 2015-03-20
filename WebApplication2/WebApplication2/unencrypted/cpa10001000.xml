@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+    <docinfo partitionnum="2">
+        <docinfo:dpsi id-string="05CC"/>
+        <docinfo:doc-heading>PART 1  PRELIMINARY [ss 1&#x2013;7]</docinfo:doc-heading>
+        <docinfo:doc-id>UCPN.CPA.CPAN05.PT1</docinfo:doc-id>
+        <docinfo:doc-lang lang="en"/>
+        <docinfo:doc-country iso-cc="AU"/>
+        <docinfo:hier>
+            <docinfo:hierlev role="ancestor">
+                <heading>
+                    <title>Civil Procedure Act 2005</title>
+                </heading>
+                <docinfo:hierlev role="ancestor">
+                    <heading>
+                        <title>CIVIL PROCEDURE ACT 2005</title>
+                    </heading>
+                    <docinfo:hierlev role="me">
+                        <heading>
+                            <title>PART 1  PRELIMINARY [ss 1&#x2013;7]</title>
+                        </heading>
+                    </docinfo:hierlev>
+                </docinfo:hierlev>
+            </docinfo:hierlev>
+        </docinfo:hier>
+        <docinfo:bookseqnum>40000000</docinfo:bookseqnum>
+        <docinfo:lbu-meta>
+            <docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/>
+            <docinfo:metaitem name="parent-docid" value="UCPN.CPA"/>
+            <docinfo:metaitem name="parent-filename" value="cpa.xml"/>
+            <docinfo:metaitem name="parent-docid" value="UCPN_CPA.SGM_UCPN.CPA.CPAN05"/>
+            <docinfo:metaitem name="parent-filename" value="cpa1000.xml"/>
+        </docinfo:lbu-meta>
+        <docinfo:selector>legislation</docinfo:selector>
+        <docinfo:selector>act</docinfo:selector>
+        <docinfo:load-date>
+            <date day="10" month="11" year="2011">10 November 2011</date>
+        </docinfo:load-date>
+        <docinfo:topiccodes>
+            <docinfo:topiccode>#PA#CODE#</docinfo:topiccode>
+        </docinfo:topiccodes>
+    </docinfo>
+    <leg:body>
+        <leg:info>
+            <leg:officialname searchtype="LEGISLATION">CIVIL PROCEDURE ACT 2005</leg:officialname>
+            <leg:year ln.user-displayed="false" searchtype="LEGISLATION">2005</leg:year>
+            <leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 28, 2005</leg:officialnum>
+            <leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris>
+        </leg:info>
+        <leg:prelim>
+            <leg:history>
+                <leg:heading>
+                    <title>Table of Amendments</title>
+                </leg:heading>
+                <p>
+                    <text>Civil Procedure Act 2005 No 28 was assented to on 1 June 2005. Sections 8, 17 and Sch 2 commenced on 24 June 2005 (Gaz No 77 of 24 June 2005 p 2952). The remainder of the Act (except Sch 5.3[1]&#x2013;[3], 5.15[4], 5.17[3], 5.30[8]) commenced on 15 August 2005 (Gaz No 100 of 10 August 2005, p 4205). Schedules 5.3[1]-[3], 5.15[4], 5.17[3], 5.30[8] commenced on 19 October 2005 (see commencement Proclamation for the Legal Profession Act 2004 in Gaz No 105, 19 August 2005 p 4570)</text>
+                </p>
+                <leg:tableofamend>
+                    <table>
+                        <tgroup cols="3" colsep="0" rowsep="0">
+                            <colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+                            <colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+                            <colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+                            <thead>
+                                <row>
+                                    <entry colname="c1">
+                                        <emph typestyle="bf">Amending Legislation</emph>
+                                    </entry>
+                                    <entry colname="c2">
+                                        <emph typestyle="bf">Date of Assent</emph>
+                                    </entry>
+                                    <entry colname="c3">
+                                        <emph typestyle="bf">Date of Commencement</emph>
+                                    </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry colname="c1">Civil Procedure Amendment (Application of Act) Regulation 2005 No 409</entry>
+                                    <entry colname="c2">Gaz No 100 of 10 August 2005</entry>
+                                    <entry colname="c3">15 August 2005</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2005 No 98</entry>
+                                    <entry colname="c2">Gaz 148 of 2 December 2005, p 9860</entry>
+                                    <entry colname="c3">24 November 2005</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts Legislation Amendment Act 2006 No 23</entry>
+                                    <entry colname="c2">17 May 2006; Gaz 68 of 26 May 2006, p 3164</entry>
+                                    <entry colname="c3">17 May 2006</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts Legislation Further Amendment Act 2006 No 56</entry>
+                                    <entry colname="c2">20 June 2006; Gaz 82 of 20 June 2006, p 4562</entry>
+                                    <entry colname="c3">Sch 1: 20 June 2006</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Crimes and Courts Legislation Amendment Act 2006 No 107</entry>
+                                    <entry colname="c2">29 November 2006</entry>
+                                    <entry colname="c3">Sch 1.6: 29 November 106</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2006 No 120</entry>
+                                    <entry colname="c2">4 December 2006</entry>
+                                    <entry colname="c3">4 December 2006</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Mental Health Act 2007 No 8</entry>
+                                    <entry colname="c2">15 June 2007</entry>
+                                    <entry colname="c3">16 November 2007</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts Legislation Amendment Act 2007 No 56</entry>
+                                    <entry colname="c2">15 November 2007</entry>
+                                    <entry colname="c3">Sch 2[3] and [4]: 14 December 2007; remainder Sch 2: 28 January 2008</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts and Crimes Legislation Amendment Act 2008 No 53</entry>
+                                    <entry colname="c2">1 July 2008</entry>
+                                    <entry colname="c3">Sch 3: 1 July 2008</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Motor Accidents Compensation Amendment (Claims and Dispute Resolution) Act 2007 No 95</entry>
+                                    <entry colname="c2">13 December 2007</entry>
+                                    <entry colname="c3">1 October 2008</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Evidence Amendment Act 2007 No 46</entry>
+                                    <entry colname="c2">1 November 2007</entry>
+                                    <entry colname="c3">1 January 2009 (s 2 and Gaz 158 of 19 December 2008 p 12305)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Community Justice Centres Amendment Act 2007 No 70</entry>
+                                    <entry colname="c2">7 December 2007</entry>
+                                    <entry colname="c3">Sch 2.1: 25 May 2009 (s 2 and LW 25 May 2009)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry>
+                                    <entry colname="c2">13 December 2007</entry>
+                                    <entry colname="c3">Schs 1.12, 2 and 7: 6 July 2009 (LW 3 July 2009)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Mental Health Legislation Amendment (Forensic Provisions) Act 2008 No 79</entry>
+                                    <entry colname="c2">11 November 2008</entry>
+                                    <entry colname="c3">1 March 2009 (Gaz 44 of 27 February 2009 p 1229)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Civil Procedure Amendment (Transfer of Proceedings) Act 2009 No 30</entry>
+                                    <entry colname="c2">9 June 2009</entry>
+                                    <entry colname="c3">9 June 2009 (s 2)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts and Other Legislation Amendment Act 2009 No 37</entry>
+                                    <entry colname="c2">19 June 2009</entry>
+                                    <entry colname="c3">19 June 2009 (s 2)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">NSW Trustee and Guardian Act 2009 No 49</entry>
+                                    <entry colname="c2">26 June 2009</entry>
+                                    <entry colname="c3">1 July 2009 (s 2)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2009 No 56</entry>
+                                    <entry colname="c2">1 July 2009</entry>
+                                    <entry colname="c3">Sch 4.11: 17 July 2009 (s 2)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts and Crimes Legislation Amendment Act 2009 No 77</entry>
+                                    <entry colname="c2">3 November 2009</entry>
+                                    <entry colname="c3">Sch 2.6[1], [2], [4]&#x2013;[6]: on assent; Sch 2.6[3]: 1 February 2010 (LW 22 January 2010)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2009 No 106</entry>
+                                    <entry colname="c2">14 December 2009</entry>
+                                    <entry colname="c3">Sch 2.2: 8 January 2010 (s 2)</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts Legislation Amendment Act 2010 No 63</entry>
+                                    <entry colname="c2">28 June 2010</entry>
+                                    <entry colname="c3">Sch 1.7: 28 June 2010 (s 2(1))</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Court Suppression and Non-publication Orders Act 2010 No 106</entry>
+                                    <entry colname="c2">29 November 2010</entry>
+                                    <entry colname="c3">Sch 2.1: 1 July 2011</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts and Crimes Legislation Further Amendment Act 2010 No 135</entry>
+                                    <entry colname="c2">7 December 2010</entry>
+                                    <entry colname="c3">Sch 6.3: on assent</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2010 No 119</entry>
+                                    <entry colname="c2">29 November 2010</entry>
+                                    <entry colname="c3">Sch 2.10: 7 January 2011</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts and Crimes Legislation Further Amendment Act 2010 No 135</entry>
+                                    <entry colname="c2">7 December 2010</entry>
+                                    <entry colname="c3">Sch 6.1: 4 March 2011; Sch 6.2: 1 April 2011</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts and Other Legislation Further Amendment Act 2011 No 38</entry>
+                                    <entry colname="c2">13 September 2011</entry>
+                                    <entry colname="c3">13 September 2011</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts and Other Legislation Amendment Act 2012 No 60</entry>
+                                    <entry colname="c2">10 September 2012</entry>
+                                    <entry colname="c3">10 September 2012</entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1">Courts and Other Legislation Further  Amendment Act 2013 No 1</entry>
+                                    <entry colname="c2">28 February 2013</entry>
+                                    <entry colname="c3">28 February 2013</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </leg:tableofamend>
+            </leg:history>
+        </leg:prelim>
+        <leg:level id="UCPN.CPA.CPAN05.BODY">
+            <leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+                <leg:levelinfo>
+                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                </leg:levelinfo>
+                <leg:heading>
+                    <title>
+                        <refpt id="UCPN.CPA.CPAN05" type="ext"/>CIVIL PROCEDURE ACT 2005</title>
+                </leg:heading>
+                <leg:levelbody>
+                    <leg:level id="UCPN.CPA.CPAN05.PT1">
+                        <leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1  PRELIMINARY [ss 1&#x2013;7]">
+                            <leg:levelinfo>
+                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                            </leg:levelinfo>
+                            <leg:heading>
+                                <desig searchtype="PART-NUM">
+                                    <designum>
+                                        <refpt id="UCPN.CPA.CPAN05.PT1" type="ext"/>PART 1</designum>
+                                </desig>
+                                <title searchtype="PART-TITLE"> PRELIMINARY [ss 1&#x2013;7]</title>
+                            </leg:heading>
+                            <leg:levelbody>
+                                <leg:level id="UCPN.CPA.CPAN05.S1">
+                                    <leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 1] s 1 Name of Act">
+                                        <leg:levelinfo>
+                                            <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                        </leg:levelinfo>
+                                        <leg:heading inline="true">
+                                            <edpnum>
+                                                <refpt id="UCPN.CPA.CPAN05.S1" type="ext"/>[s 1]</edpnum>
+                                            <title searchtype="SECT-TITLE">Name of Act</title>
+                                            <desig searchtype="SECT-NUM">
+                                                <designum>1</designum>
+                                            </desig>
+                                        </leg:heading>
+                                        <leg:levelbody>
+                                            <leg:bodytext>
+                                                <p>
+                                                    <text>This Act is the Civil Procedure Act 2005.</text>
+                                                </p>
+                                            </leg:bodytext>
+                                        </leg:levelbody>
+                                    </leg:level-vrnt>
+                                </leg:level>
+                                <leg:level id="UCPN.CPA.CPAN05.S2">
+                                    <leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 2] s 2 Commencement">
+                                        <leg:levelinfo>
+                                            <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                        </leg:levelinfo>
+                                        <leg:heading inline="true">
+                                            <edpnum>
+                                                <refpt id="UCPN.CPA.CPAN05.S2" type="ext"/>[s 2]</edpnum>
+                                            <title searchtype="SECT-TITLE">Commencement</title>
+                                            <desig searchtype="SECT-NUM">
+                                                <designum>2</designum>
+                                            </desig>
+                                        </leg:heading>
+                                        <leg:levelbody>
+                                            <leg:level id="UCPN.CPA.CPAN05.S2.1">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S2.1" type="ext"/>(1)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>This Act commences on a day or days to be appointed by proclamation, subject to this section.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S2.2">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S2.2" type="ext"/>(2)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Schedule 5.3[1], [2] and [3], 5.15[4], 5.17[3] and 5.30[8] commence on the commencement of section 3, or on the commencement of Part 3.2 of the Legal Profession Act 2004, whichever is the later.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S2.3">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S2.3" type="ext"/>(3)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Schedule 5.3[4] commences on the commencement of section 9.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S2.4">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S2.4" type="ext"/>(4)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Schedule 5.43 and 5.44 commence on the commencement of section 18.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S2.5">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S2.5" type="ext"/>(5)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Different days may be appointed for the commencement of a single provision of Schedule 4 or 5 for the purpose of commencing the repeals or amendments effected by the provision on different days.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                        </leg:levelbody>
+                                    </leg:level-vrnt>
+                                </leg:level>
+                                <leg:level id="UCPN.CPA.CPAN05.S3">
+                                    <leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 3] s 3 Definitions">
+                                        <leg:levelinfo>
+                                            <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                        </leg:levelinfo>
+                                        <leg:heading inline="true">
+                                            <edpnum>
+                                                <refpt id="UCPN.CPA.CPAN05.S3" type="ext"/>[s 3]</edpnum>
+                                            <title searchtype="SECT-TITLE">Definitions</title>
+                                            <desig searchtype="SECT-NUM">
+                                                <designum>3</designum>
+                                            </desig>
+                                        </leg:heading>
+                                        <leg:levelbody>
+                                            <leg:level id="UCPN.CPA.CPAN05.S3.1">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S3.1" type="ext"/>(1)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>In this Act:</text>
+                                                            </p>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.CIVIL-DISPUTE">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.CIVIL-DISPUTE" type="ext"/>
+                                                                        <emph typestyle="bf">civil dispute</emph>
+                                                                    </defterm>
+                                                                    <leg:histnote>
+                                                                        <p>
+                                                                            <text>[def  rep Act 1 of 2013  Sch 1 item 1.6[1], effective 28 February 2013]</text>
+                                                                        </p>
+                                                                    </leg:histnote>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.CIVIL-PROCEEDINGS">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.CIVIL-PROCEEDINGS" type="ext"/>
+                                                                        <emph typestyle="bf">civil proceedings</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means any proceedings other than criminal proceedings.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF" type="ext"/>
+                                                                        <emph typestyle="bf">claim for relief</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>includes:</text>
+                                                                        </p>
+                                                                        <l>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.A">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.A" type="ext"/>(a)</lilabel>
+                                                                                <p>
+                                                                                    <text>a claim for possession of land, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.B">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.B" type="ext"/>(b)</lilabel>
+                                                                                <p>
+                                                                                    <text>a claim for delivery of goods, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.C">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.C" type="ext"/>(c)</lilabel>
+                                                                                <p>
+                                                                                    <text>a claim for the recovery of damages or other money, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.D">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.D" type="ext"/>(d)</lilabel>
+                                                                                <p>
+                                                                                    <text>a claim for a declaration of right, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.E">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.E" type="ext"/>(e)</lilabel>
+                                                                                <p>
+                                                                                    <text>a claim for the determination of any question or matter that may be determined by the court, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.F">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CLAIM-FOR-RELIEF.F" type="ext"/>(f)</lilabel>
+                                                                                <p>
+                                                                                    <text>any other claim (whether legal, equitable or otherwise) that is justiciable in the court.</text>
+                                                                                </p>
+                                                                            </li>
+                                                                        </l>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.COSTS">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.COSTS" type="ext"/>
+                                                                        <emph typestyle="bf">costs</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>, in relation to proceedings, means costs payable in or in relation to the proceedings, and includes fees, disbursements, expenses and remuneration.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.COURT">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.COURT" type="ext"/>
+                                                                        <emph typestyle="bf">court</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>includes tribunal.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS" type="ext"/>
+                                                                        <emph typestyle="bf">criminal proceedings</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means proceedings against a person for an offence (whether summary or indictable), and includes the following:</text>
+                                                                        </p>
+                                                                        <l>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS.A">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS.A" type="ext"/>(a)</lilabel>
+                                                                                <p>
+                                                                                    <text>committal proceedings,</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS.B">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS.B" type="ext"/>(b)</lilabel>
+                                                                                <p>
+                                                                                    <text>proceedings relating to bail,</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS.C">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS.C" type="ext"/>(c)</lilabel>
+                                                                                <p>
+                                                                                    <text>proceedings relating to sentence,</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS.D">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.CRIMINAL-PROCEEDINGS.D" type="ext"/>(d)</lilabel>
+                                                                                <p>
+                                                                                    <text>proceedings on an appeal against conviction or sentence.</text>
+                                                                                </p>
+                                                                            </li>
+                                                                        </l>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.CROSSCLAIM">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.CROSSCLAIM" type="ext"/>
+                                                                        <emph typestyle="bf">cross-claim</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means a claim by a defendant for the grant of relief under section 22.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.DEFENDANT">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.DEFENDANT" type="ext"/>
+                                                                        <emph typestyle="bf">defendant</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means a person against whom proceedings are commenced, and includes a person against whom a cross-claim is made.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.EXERCISE">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.EXERCISE" type="ext"/>
+                                                                        <emph typestyle="bf">exercise</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>a function includes perform a duty.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.FUNCTION">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.FUNCTION" type="ext"/>
+                                                                        <emph typestyle="bf">function</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>includes power, authority and duty.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.HEARING">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.HEARING" type="ext"/>
+                                                                        <emph typestyle="bf">hearing</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>includes both trial and interlocutory hearing.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.JUDGMENT">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.JUDGMENT" type="ext"/>
+                                                                        <emph typestyle="bf">judgment</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>includes any order for the payment of money, including any order for the payment of costs.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-CREDITOR">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-CREDITOR" type="ext"/>
+                                                                        <emph typestyle="bf">judgment creditor</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means the person to whom a judgment debt is payable.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBT">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBT" type="ext"/>
+                                                                        <emph typestyle="bf">judgment debt</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>includes:</text>
+                                                                        </p>
+                                                                        <l>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBT.A">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBT.A" type="ext"/>(a)</lilabel>
+                                                                                <p>
+                                                                                    <text>any amount payable under a judgment, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBT.B">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBT.B" type="ext"/>(b)</lilabel>
+                                                                                <p>
+                                                                                    <text>any interest after judgment that is payable on that amount under section 101, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBT.C">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBT.C" type="ext"/>(c)</lilabel>
+                                                                                <p>
+                                                                                    <text>any other amount payable under rules of court without the need for a judgment.</text>
+                                                                                </p>
+                                                                            </li>
+                                                                        </l>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBTOR">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.JUDGMENT-DEBTOR" type="ext"/>
+                                                                        <emph typestyle="bf">judgment debtor</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means the person by whom a judgment debt is payable.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.JUDICIAL-OFFICER">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.JUDICIAL-OFFICER" type="ext"/>
+                                                                        <emph typestyle="bf">judicial officer</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>has the same meaning as it has in the Judicial Officers Act 1986.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.JURISDICTIONAL-LIMIT">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.JURISDICTIONAL-LIMIT" type="ext"/>
+                                                                        <emph typestyle="bf">jurisdictional limit</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means:</text>
+                                                                        </p>
+                                                                        <l>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.JURISDICTIONAL-LIMIT.A">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.JURISDICTIONAL-LIMIT.A" type="ext"/>(a)</lilabel>
+                                                                                <p>
+                                                                                    <text>in relation to the District Court, the jurisdictional limit of that Court within the meaning of the District Court Act 1973, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.JURISDICTIONAL-LIMIT.B">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.JURISDICTIONAL-LIMIT.B" type="ext"/>(b)</lilabel>
+                                                                                <p>
+                                                                                    <text>in relation to the Local Court sitting in its General Division, the jurisdictional limit of the Local Court when sitting in that Division within the meaning of the Local Court Act 2007, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.JURISDICTIONAL-LIMIT.C">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.JURISDICTIONAL-LIMIT.C" type="ext"/>(c)</lilabel>
+                                                                                <p>
+                                                                                    <text>in relation to the Local Court sitting in its Small Claims Division, the jurisdictional limit of the Local Court when sitting in that Division within the meaning of the Local Court Act 2007.</text>
+                                                                                </p>
+                                                                            </li>
+                                                                        </l>
+                                                                    </defdesc>
+                                                                    <leg:histnote>
+                                                                        <p>
+                                                                            <text>[def  am Act 94 of 2007  s 4 and Schs 2, 7, effective 6 July 2009]</text>
+                                                                        </p>
+                                                                    </leg:histnote>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.LOCAL-RULES">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.LOCAL-RULES" type="ext"/>
+                                                                        <emph typestyle="bf">local rules</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means rules of court other than uniform rules.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.MINOR">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.MINOR" type="ext"/>
+                                                                        <emph typestyle="bf">minor</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means a person who is under the age of 18 years.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.MOTOR-ACCIDENT-CLAIM">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.MOTOR-ACCIDENT-CLAIM" type="ext"/>
+                                                                        <emph typestyle="bf">motor accident claim</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>has the same meaning as <defterm>
+                                                                                    <emph typestyle="bf">claim</emph>
+                                                                                </defterm> has in the Motor Accidents Compensation Act 1999.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.OFFICER">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.OFFICER" type="ext"/>
+                                                                        <emph typestyle="bf">officer</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>, in relation to a court, includes any registrar or other member of staff employed in the administration of the business of the court, and includes the Judicial Registrar of the District Court.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.ORDINARY-BASIS">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.ORDINARY-BASIS" type="ext"/>
+                                                                        <emph typestyle="bf">ordinary basis</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>, in relation to the assessment of legal costs that a court has ordered to be paid, means the basis of assessing costs set out in 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN.S364.1" remotekey1="REFPTID" service="DOC-ID" status="unval">section 364(1) and (2)</remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+ of the Legal Profession Act 2004.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.ORIGINATING-PROCESS">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.ORIGINATING-PROCESS" type="ext"/>
+                                                                        <emph typestyle="bf">originating process</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text> means the process by which proceedings are commenced, and includes the process by which a cross-claim is made.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY" type="ext"/>
+                                                                        <emph typestyle="bf">person under legal incapacity</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means any person who is under a legal incapacity in relation to the conduct of legal proceedings (other than an incapacity arising under 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="OTH.FCPA81.S4" remotekey1="REFPTID" service="DOC-ID" status="unval">section 4 </remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+of the Felons (Civil Proceedings) Act 1981) and, in particular, includes:</text>
+                                                                        </p>
+                                                                        <l>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.A">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.A" type="ext"/>(a)</lilabel>
+                                                                                <p>
+                                                                                    <text>a child under the age of 18 years, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.B">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.B" type="ext"/>(b)</lilabel>
+                                                                                <p>
+                                                                                    <text>an involuntary patient, a forensic patient or a correctional patient within the meaning of the Mental Health Act 2007, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.C">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.C" type="ext"/>(c)</lilabel>
+                                                                                <p>
+                                                                                    <text>a person under guardianship within the meaning of the Guardianship Act 1987, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.D">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.D" type="ext"/>(d)</lilabel>
+                                                                                <p>
+                                                                                    <text>a protected person within the meaning of the NSW Trustee and Guardian Act 2009, and</text>
+                                                                                </p>
+                                                                            </li>
+                                                                            <li id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.E">
+                                                                                <lilabel>
+                                                                                    <refpt id="UCPN.CPA.CPAN05.S3.1.PERSON-UNDER-LEGAL-INCAPACITY.E" type="ext"/>(e)</lilabel>
+                                                                                <p>
+                                                                                    <text>an incommunicate person, being a person who has such a physical or mental disability that he or she is unable to receive communications, or express his or her will, with respect to his or her property or affairs.</text>
+                                                                                </p>
+                                                                                <p>
+                                                                                    <leg:histnote>
+                                                                                        <p>
+                                                                                            <text>[def  am  Act 8 of 2007 s 199 and Sch 7[7.2], effective 16 November 2007 ; Act 79 of 2008  s 4 and Sch 3.2, effective 1 March 2009 ; Act 49 of 2009  Sch 2.9[1], effective 1 July 2009]</text>
+                                                                                        </p>
+                                                                                    </leg:histnote>
+                                                                                </p>
+                                                                            </li>
+                                                                        </l>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.PLAINTIFF">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.PLAINTIFF" type="ext"/>
+                                                                        <emph typestyle="bf">plaintiff</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means a person by whom proceedings are commenced, or on whose behalf proceedings are commenced by a tutor, and includes a person by whom a cross-claim is made or on whose behalf a cross-claim is made by a tutor.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.POSSESSION">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.POSSESSION" type="ext"/>
+                                                                        <emph typestyle="bf">possession</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>, otherwise than of land, includes custody and power.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.TRIAL">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.TRIAL" type="ext"/>
+                                                                        <emph typestyle="bf">trial</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means any hearing that is not an interlocutory hearing.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.TUTOR">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.TUTOR" type="ext"/>
+                                                                        <emph typestyle="bf">tutor</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>, in relation to a person under legal incapacity, means a tutor appointed to represent the person (whether by the court or otherwise) in accordance with the uniform rules.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.UNIFORM-RULES">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.UNIFORM-RULES" type="ext"/>
+                                                                        <emph typestyle="bf">uniform rules</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means rules made, or taken to have been made, under 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S9" remotekey1="REFPTID" service="DOC-ID">section 9</remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.UNIFORM-RULES-COMMITTEE">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.UNIFORM-RULES-COMMITTEE" type="ext"/>
+                                                                        <emph typestyle="bf">Uniform Rules Committee</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means the Uniform Rules Committee established under 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S8" remotekey1="REFPTID" service="DOC-ID">section 8</remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+.</text>
+                                                                        </p>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                            <deflist>
+                                                                <defitem id="UCPN.CPA.CPAN05.S3.1.WORKPLACE-INJURY-DAMAGES-CLAIM">
+                                                                    <defterm>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S3.1.WORKPLACE-INJURY-DAMAGES-CLAIM" type="ext"/>
+                                                                        <emph typestyle="bf">workplace injury damages claim</emph>
+                                                                    </defterm>
+                                                                    <defdesc>
+                                                                        <p>
+                                                                            <text>means a claim for an award of damages to which 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="OTH.WCN.PT5.DIV3" remotekey1="REFPTID" service="DOC-ID" status="unval">Division 3 of Part 5</remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+ of the Workers Compensation Act 1987 applies.</text>
+                                                                        </p>
+                                                                        <glp:note id="UCPN.CPA.CPAN05.S3.1.LGN1">
+                                                                            <heading>
+                                                                                <title>NOTE:</title>
+                                                                            </heading>
+                                                                            <p>
+                                                                                <text>Other words and expressions (for example, rules of court) are defined in the Interpretation Act 1987.</text>
+                                                                            </p>
+                                                                        </glp:note>
+                                                                    </defdesc>
+                                                                </defitem>
+                                                            </deflist>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S3.2">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S3.2" type="ext"/>(2)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Notes included in this Act do not form part of this Act.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:bodytext>
+                                                <glp:note>
+                                                    <heading>
+                                                        <title>NOTE:</title>
+                                                    </heading>
+                                                    <p>
+                                                        <text>In the notes to this Act, <defterm>
+                                                                <emph typestyle="bf">DCR</emph>
+                                                            </defterm> means the District Court Rules 1973, <defterm>
+                                                                <emph typestyle="bf">LCR</emph>
+                                                            </defterm> means the Local Courts (Civil Claims) Rules 1988 and <defterm>
+                                                                <emph typestyle="bf">SCR</emph>
+                                                            </defterm> means the Supreme Court Rules 1970.</text>
+                                                    </p>
+                                                </glp:note>
+                                            </leg:bodytext>
+                                        </leg:levelbody>
+                                    </leg:level-vrnt>
+                                </leg:level>
+                                <leg:level id="UCPN.CPA.CPAN05.S4">
+                                    <leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 4] s 4 Application of Parts 3&#x2013;9">
+                                        <leg:levelinfo>
+                                            <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                        </leg:levelinfo>
+                                        <leg:heading inline="true">
+                                            <edpnum>
+                                                <refpt id="UCPN.CPA.CPAN05.S4" type="ext"/>[s 4]</edpnum>
+                                            <title searchtype="SECT-TITLE">Application of Parts 3&#x2013;9</title>
+                                            <desig searchtype="SECT-NUM">
+                                                <designum>4</designum>
+                                            </desig>
+                                        </leg:heading>
+                                        <leg:levelbody>
+                                            <leg:level id="UCPN.CPA.CPAN05.S4.1">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S4.1" type="ext"/>(1)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Subject to this section, 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.PT3" remotekey1="REFPTID" service="DOC-ID">Parts 3&#x2013;9</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ apply to each court referred to in Schedule 1 in relation to civil proceedings of a kind referred to in that Schedule in respect of that court.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S4.1A">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S4.1A" type="ext"/>(1A)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.PT10" remotekey1="REFPTID" service="DOC-ID">Part 10</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ applies in relation to civil proceedings in the Supreme Court.</text>
+                                                            </p>
+                                                            <leg:histnote>
+                                                                <p>
+                                                                    <text>[subs (1A)  insrt Act 135 of 2010  s 1 and Sch 6[6.1], effective 4 March 2011]</text>
+                                                                </p>
+                                                            </leg:histnote>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S4.2">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S4.2" type="ext"/>(2)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>The uniform rules may exclude any class of civil proceedings from the operation of all or any of the provisions of Parts 3&#x2013;9.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S4.3">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S4.3" type="ext"/>(3)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>The Governor may, by regulation, amend or substitute
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH1" remotekey1="REFPTID" service="DOC-ID"> Schedule 1</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S4.4">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S4.4" type="ext"/>(4)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>A regulation under this section may contain provisions consequent on the amendment or substitution of Schedule 1, including:</text>
+                                                            </p>
+                                                            <l>
+                                                                <li id="UCPN.CPA.CPAN05.S4.4.A">
+                                                                    <lilabel>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S4.4.A" type="ext"/>(a)</lilabel>
+                                                                    <p>
+                                                                        <text>provisions excluding any class of civil proceedings from the operation of all or any of the provisions of Parts 3&#x2013;9, and</text>
+                                                                    </p>
+                                                                </li>
+                                                                <li id="UCPN.CPA.CPAN05.S4.4.B">
+                                                                    <lilabel>
+                                                                        <refpt id="UCPN.CPA.CPAN05.S4.4.B" type="ext"/>(b)</lilabel>
+                                                                    <p>
+                                                                        <text>provisions modifying any specified provision of Parts 3&#x2013;9, or of any other Act or law, in its application to any class of civil proceedings.</text>
+                                                                    </p>
+                                                                </li>
+                                                            </l>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S4.5">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S4.5" type="ext"/>(5)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Subject to any such regulation, this Act does not limit the operation of any other Act with respect to the conduct of civil proceedings.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:bodytext>
+                                                <leg:comntry subdoc="true" toc-caption="NOTE">
+                                                    <heading searchtype="COMMENTARY">
+                                                        <title>
+                                                            <refpt id="UCPN.CPA.CPAN05.S4.COM1" type="ext"/>NOTE</title>
+                                                    </heading>
+                                                    <level id="UCPN_CPA.SGM_UCPN.CPA.S4-5" leveltype="para0" subdoc="true" toc-caption="[s 4.5] Application of the Act">
+                                                        <glp:note>
+                                                            <blockquote>
+                                                                <hrule/>
+                                                                <p>
+                                                                    <text>
+                                                                        <inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 4.5] below. LawNow subscribers click through for daily updates and historical versions.</text>
+                                                                    <text> </text>
+                                                                    <text>(NSW) <ci:cite searchtype="LEG-REF">
+                                                                            <ci:content>
+                                                                                <remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> Parts 3&#x2013;9, ss 19&#x2013;153.</ci:content>
+                                                                        </ci:cite>
+                                                                    </text>
+                                                                    <text>(NSW) <ci:cite searchtype="LEG-REF">
+                                                                            <ci:content>
+                                                                                <remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2007-93" remotekey1="REFPTID" service="DOC-ID">Local Court Act 2007</remotelink> Pt 3.</ci:content>
+                                                                        </ci:cite>
+                                                                    </text>
+                                                                    <text>(NSW) <ci:cite searchtype="LEG-REF">
+                                                                            <ci:content>
+                                                                                <remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> Sch 1, r 1.6.</ci:content>
+                                                                        </ci:cite>
+                                                                    </text>
+                                                                </p>
+                                                            </blockquote>
+                                                        </glp:note>
+                                                        <heading searchtype="COMMENTARY">
+                                                            <edpnum>
+                                                                <refpt id="UCPN.CPA.S4-5" type="ext"/>[s 4.5] </edpnum>
+                                                            <title>Application of the Act</title>
+                                                        </heading>
+                                                        <bodytext searchtype="COMMENTARY">
+                                                            <p>
+                                                                <text>
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.PT3" remotekey1="REFPTID" service="DOC-ID">Parts 3&#x2013;9</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ (
+                                                                    <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S19" remotekey1="REFPTID" service="DOC-ID">ss 19&#x2013;153</remotelink>
+) of the CPA apply to all civil proceedings in the following courts:</text>
+                                                                <l>
+                                                                    <li>
+                                                                        <lilabel>&#x2022;</lilabel>
+                                                                        <p>
+                                                                            <text>Supreme Court of NSW.</text>
+                                                                        </p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <lilabel>&#x2022;</lilabel>
+                                                                        <p>
+                                                                            <text>District Court of NSW.</text>
+                                                                        </p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <lilabel>&#x2022;</lilabel>
+                                                                        <p>
+                                                                            <text>Dust Diseases Tribunal of NSW.</text>
+                                                                        </p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <lilabel>&#x2022;</lilabel>
+                                                                        <p>
+                                                                            <text>Land and Environment Court &#x2014; all civil proceedings in class 1, 2, 3 or 4.</text>
+                                                                        </p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <lilabel>&#x2022;</lilabel>
+                                                                        <p>
+                                                                            <text>Industrial Relations Commission (including the Commission in Court Session (the Industrial Court)). </text>
+                                                                        </p>
+                                                                    </li>
+                                                                    <li>
+                                                                        <lilabel>&#x2022;</lilabel>
+                                                                        <p>
+                                                                            <text>Local Court of NSW &#x2014; all civil proceedings under 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="UCPN.LC.LCAN07.PT3" remotekey1="REFPTID" service="DOC-ID">Pt 3</remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+ of the Local Court Act 2007 and under the Property (Relationships) Act 1984.</text>
+                                                                        </p>
+                                                                    </li>
+                                                                </l>
+                                                            </p>
+                                                            <p>
+                                                                <text>That application is subject to the exclusion of various CPA provisions in relation to proceedings in the Dust Diseases Tribunal and the Small Claims Division of the Local Court. Those exclusions are made in UCPR 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-6" remotekey1="REFPTID" service="DOC-ID">r 1.6</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ and 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPN05.SCH1" remotekey1="REFPTID" service="DOC-ID" status="unval">Sch 1</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+. The effect of these exclusions is summarised in 
+                                                                    <remotelink dpsi="05CC" refpt="UCPN.UCPR.1-6-5" remotekey1="REFPTID" service="DOC-ID">[1.6.5]&#x2013;[1.6.15]</remotelink>
+. See also notes at 
+                                                                    <remotelink dpsi="05CC" refpt="UCPN.UCPR.1-5-10" remotekey1="REFPTID" service="DOC-ID">[1.5.10]</remotelink>
+ ff.</text>
+                                                            </p>
+                                                        </bodytext>
+                                                    </level>
+                                                </leg:comntry>
+                                            </leg:bodytext>
+                                        </leg:levelbody>
+                                    </leg:level-vrnt>
+                                </leg:level>
+                                <leg:level id="UCPN.CPA.CPAN05.S5">
+                                    <leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 5] s 5 Jurisdiction of courts">
+                                        <leg:levelinfo>
+                                            <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                        </leg:levelinfo>
+                                        <leg:heading inline="true">
+                                            <edpnum>
+                                                <refpt id="UCPN.CPA.CPAN05.S5" type="ext"/>[s 5]</edpnum>
+                                            <title searchtype="SECT-TITLE">Jurisdiction of courts</title>
+                                            <desig searchtype="SECT-NUM">
+                                                <designum>5</designum>
+                                            </desig>
+                                        </leg:heading>
+                                        <leg:levelbody>
+                                            <leg:level id="UCPN.CPA.CPAN05.S5.1">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S5.1" type="ext"/>(1)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Nothing in this Act or the uniform rules limits the jurisdiction of the Supreme Court.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S5.2">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S5.2" type="ext"/>(2)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Nothing in the uniform rules extends the jurisdiction of any court except to the extent to which this Act expressly so provides.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                        </leg:levelbody>
+                                    </leg:level-vrnt>
+                                </leg:level>
+                                <leg:level id="UCPN.CPA.CPAN05.S6">
+                                    <leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 6] s 6 Repeals, amendments and savings provisions">
+                                        <leg:levelinfo>
+                                            <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                        </leg:levelinfo>
+                                        <leg:heading inline="true">
+                                            <edpnum>
+                                                <refpt id="UCPN.CPA.CPAN05.S6" type="ext"/>[s 6]</edpnum>
+                                            <title searchtype="SECT-TITLE">Repeals, amendments and savings provisions</title>
+                                            <desig searchtype="SECT-NUM">
+                                                <designum>6</designum>
+                                            </desig>
+                                        </leg:heading>
+                                        <leg:levelbody>
+                                            <leg:level id="UCPN.CPA.CPAN05.S6.1">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S6.1" type="ext"/>(1)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>Each Act and instrument referred to in 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH4" remotekey1="REFPTID" service="DOC-ID">Schedule 4</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ is repealed.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S6.2">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="true" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S6.2" type="ext"/>(2)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <leg:histnote>
+                                                                <p>
+                                                                    <text>[subs (2)  rep Act 120 of 2006  s 4 and Sch 4 , effective 4 December 2006]</text>
+                                                                </p>
+                                                            </leg:histnote>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S6.3">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S6.3" type="ext"/>(3)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH6" remotekey1="REFPTID" service="DOC-ID">Schedule 6 </remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+has effect.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:bodytext>
+                                                <leg:comntry subdoc="true" toc-caption="NOTE">
+                                                    <heading searchtype="COMMENTARY">
+                                                        <title>
+                                                            <refpt id="UCPN.CPA.CPAN05.S6.COM1" type="ext"/>NOTE</title>
+                                                    </heading>
+                                                    <level id="UCPN_CPA.SGM_UCPN.CPA.S6-5" leveltype="para0" subdoc="true" toc-caption="[s 6.5] Transitional provisions">
+                                                        <glp:note>
+                                                            <blockquote>
+                                                                <hrule/>
+                                                                <p>
+                                                                    <text>
+                                                                        <inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 6.5] below. LawNow subscribers click through for daily updates and historical versions.</text>
+                                                                    <text> </text>
+                                                                    <text>(NSW) <ci:cite searchtype="LEG-REF">
+                                                                            <ci:content>
+                                                                                <remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> Schedule 6 , 10, cll 5.</ci:content>
+                                                                        </ci:cite>
+                                                                    </text>
+                                                                    <text>(NSW) <ci:cite searchtype="LEG-REF">
+                                                                            <ci:content>
+                                                                                <remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> UCPR r 42.15.</ci:content>
+                                                                        </ci:cite>
+                                                                    </text>
+                                                                </p>
+                                                            </blockquote>
+                                                        </glp:note>
+                                                        <heading searchtype="COMMENTARY">
+                                                            <edpnum>
+                                                                <refpt id="UCPN.CPA.S6-5" type="ext"/>[s 6.5] </edpnum>
+                                                            <title>Transitional provisions</title>
+                                                        </heading>
+                                                        <bodytext searchtype="COMMENTARY">
+                                                            <p>
+                                                                <text>
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH6" remotekey1="REFPTID" service="DOC-ID">Schedule 6 </remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ provides for the transitional application of the CPA, UCPR, prior legislation and regulations, both in relation to the commencement of the CPA and UCPR in August 2005, and the Courts Legislation Amendment Act 2007. The main transitional provisions relating to proceedings that were current in August 2005 are the complementary provisions in 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH6.CL5" remotekey1="REFPTID" service="DOC-ID">cll 5</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ and 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH6.CL10" remotekey1="REFPTID" service="DOC-ID">10</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ of Schedule 6. 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH6.CL5" remotekey1="REFPTID" service="DOC-ID">Clause 5</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ applies the CPA and UCPR to those proceedings (with a general discretionary dispensation from the requirements of the new rules) and 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH6.CL10" remotekey1="REFPTID" service="DOC-ID">cl 10</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ regularises steps taken in those proceedings under the old legislation and rules. Offers of compromise, and the costs issues to which they can give rise, provide fertile circumstances for the exercise of the discretions conferred by these two provisions. Although there may be some awkwardness in speaking of the costs consequences of the uniform rules as a &#x201c;requirement&#x201d; from which a dispensation may be given, the obvious purpose of cl 5(2) indicates that semantic infelicity should be ignored: <ci:cite searchtype="CASE-REF">
+                                                                        <ci:case>
+                                                                            <ci:caseref ID="cr000001" spanref="cr000001-001">
+                                                                                <ci:reporter value="urj"/>
+                                                                                <ci:refnum num="BC200801529"/>
+                                                                            </ci:caseref>
+                                                                            <ci:caseref anaphref="cr000001" spanref="cr000001-002">
+                                                                                <ci:pinpoint num="11" targettype="para"/>
+                                                                            </ci:caseref>
+                                                                        </ci:case>
+                                                                        <ci:content>
+                                                                            <citefragment searchtype="CASE-NAME-REF">
+                                                                                <emph typestyle="it">Atkinson v Zey</emph>
+                                                                            </citefragment>
+                                                                            <citefragment searchtype="CASE-CITE-REF"> [2008] NSWCA 30; <ci:span spanid="cr000001-001"> BC200801529</ci:span>
+                                                                                <ci:span spanid="cr000001-002">at [11]</ci:span>
+                                                                            </citefragment> <remotelink dpsi="0018" refpt="453205" remotekey1="REFPTID" service="DOC-ID">
+                                                                                <inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/>
+                                                                            </remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite> per Basten JA, Handley AJA agreeing at [23] (dispensation from the requirements of 
+                                                                    <ci:cite searchtype="LEG-REF">
+                                                                        <ci:content>
+                                                                            <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R42-15" remotekey1="REFPTID" service="DOC-ID">UCPR r 42.15</remotelink>
+                                                                        </ci:content>
+                                                                    </ci:cite>
+ in relation to the cost consequences of a District Court offer of compromise).</text>
+                                                            </p>
+                                                        </bodytext>
+                                                    </level>
+                                                </leg:comntry>
+                                            </leg:bodytext>
+                                        </leg:levelbody>
+                                    </leg:level-vrnt>
+                                </leg:level>
+                                <leg:level id="UCPN.CPA.CPAN05.S7">
+                                    <leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 7] s 7 Review of Act">
+                                        <leg:levelinfo>
+                                            <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                        </leg:levelinfo>
+                                        <leg:heading inline="true">
+                                            <edpnum>
+                                                <refpt id="UCPN.CPA.CPAN05.S7" type="ext"/>[s 7]</edpnum>
+                                            <title searchtype="SECT-TITLE">Review of Act</title>
+                                            <desig searchtype="SECT-NUM">
+                                                <designum>7</designum>
+                                            </desig>
+                                        </leg:heading>
+                                        <leg:levelbody>
+                                            <leg:level id="UCPN.CPA.CPAN05.S7.1">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S7.1" type="ext"/>(1)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>The Minister is to review this Act to determine whether the policy objectives of the Act remain valid and whether the terms of the Act remain appropriate for securing those objectives.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S7.2">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S7.2" type="ext"/>(2)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>The review is to be undertaken as soon as possible after the period of 5 years from the date of assent to this Act.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                            <leg:level id="UCPN.CPA.CPAN05.S7.3">
+                                                <leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+                                                    <leg:levelinfo>
+                                                        <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                    </leg:levelinfo>
+                                                    <leg:heading inline="true">
+                                                        <desig>
+                                                            <designum>
+                                                                <refpt id="UCPN.CPA.CPAN05.S7.3" type="ext"/>(3)</designum>
+                                                        </desig>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:bodytext>
+                                                            <p>
+                                                                <text>A report on the outcome of the review is to be tabled in each House of Parliament within 12 months after the end of the period of 5 years.</text>
+                                                            </p>
+                                                        </leg:bodytext>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                        </leg:levelbody>
+                                    </leg:level-vrnt>
+                                </leg:level>
+                            </leg:levelbody>
+                        </leg:level-vrnt>
+                    </leg:level>
+                </leg:levelbody>
+            </leg:level-vrnt>
+        </leg:level>
+    </leg:body>
+</LEGDOC>

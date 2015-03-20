@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 GENERAL [rr 1&#x2013;4]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCR70.PT60.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT RULES </title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 60 ASSOCIATE JUDGES [rr 1&#x2013;17]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 GENERAL [rr 1&#x2013;4]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70010170</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCRC"/><docinfo:metaitem name="parent-filename" value="sc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT RULES </leg:officialname></leg:info><leg:level id="UCPN.SC.SCRC.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT60"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 60 ASSOCIATE JUDGES [rr 1&#x2013;17]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.SC.SCR70.PT60" type="ext"/>PART 60</designum></desig><title searchtype="PART-TITLE">ASSOCIATE JUDGES [rr 1&#x2013;17]</title><leg:histnote>
+<p><text>[Pt 60  am Gaz 99 of 5 August 2005 Sch 1, effective 15 August 2005]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="Commentary">
+<level id="UCPN_SC.SGM_UCPN.SC.60-0-0" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 60.0.0] Introductory note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 60.0.0] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> ss 117A, ss 117A(4), 118, 118(4).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 60 r 1, Sch D.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2006-80" remotekey1="REFPTID" service="DOC-ID">Succession Act 2006</remotelink> Ch 3.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.60-0-0" type="ext"/>[SCR Pt 60.0.0] </edpnum><title>Introductory note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S117A" remotekey1="REFPTID" service="DOC-ID">ss 117A</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118" remotekey1="REFPTID" service="DOC-ID">118</remotelink></ci:content></ci:cite>
+ provide that the associate judges may exercise such of the powers of the court as are assigned to them. SCR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60.R1" remotekey1="REFPTID" service="DOC-ID">Pt 60 r 1</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD" remotekey1="REFPTID" service="DOC-ID">Sch D</remotelink></ci:content></ci:cite>
+ set out the powers of associate judges. It is prudent practice to check these provisions in order to ensure that an associate judge is authorised to determine any particular matter. However, if an associate judge does proceed to hear a matter that is not expressly within those that are assigned under the rules any judgment or order that he makes takes effect notwithstanding the irregularity: see SCA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S117A.4" remotekey1="REFPTID" service="DOC-ID">ss 117A(4)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S118.4" remotekey1="REFPTID" service="DOC-ID">118(4)</remotelink></ci:content></ci:cite>
+. The title &#x201c;associate judge&#x201d; was introduced by amendments to ss 111&#x2013;118 of the Supreme Court Act in June 2005 and replaced the previous reference to &#x201c;masters&#x201d;. (The development of the office of master is dealt with in an article by <emph typestyle="it">Bentham and Bennett</emph> in 3 Syd LR 504.) Before the introduction of the Supreme Court Act 1970 the only master was in the Equity Court. There are now four associate judges, two assigned to the Common Law Division and two to the Equity Division.</text></p>
+<p>
+<text>Normally associate judges sit in plain clothes, but where the matter is one where a judge would robe if he was determining it, then the practice is that both the associate judge and counsel wear robes. This applies, for example, to proceedings for the assessment of damages at common law and applications under the Succession Act 2006 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SAN06.CH3" remotekey1="REFPTID" service="DOC-ID" status="unval">Ch 3</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>The Common Law associate judges hear motions on any sitting day. In the Equity Division there is a motion list almost every sitting day.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCR70.PT60.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 GENERAL [rr 1&#x2013;4]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCR70.PT60.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">GENERAL [rr 1&#x2013;4]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT60.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 60 r 1] r 1 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT60.R1" type="ext"/>[SCR Pt 60 r 1]</edpnum><title searchtype="RUL-TITLE">Interpretation</title><desig searchtype="RUL-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part <emph typestyle="bf">decision</emph> includes a judgment, order, opinion, direction, determination or certificate.</text></p>
+<leg:histnote>
+<p><text>[r 1  insrt Amendment 211: Gaz 147 of 23 September 1988  p 4993]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 60 r 1A] r 1A Powers">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT60.R1A" type="ext"/>[SCR Pt 60 r 1A]</edpnum><title searchtype="RUL-TITLE">Powers</title><desig searchtype="RUL-NUM"><designum>1A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R1A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge may exercise the powers of the Court:</text></p>
+<l><li id="UCPN.SC.SCR70.PT60.R1A.1.A"><lilabel><refpt id="UCPN.SC.SCR70.PT60.R1A.1.A" type="ext"/>(a)</lilabel>
+<p><text>under the provisions of the Acts and regulations and Acts and regulations of the Commonwealth mentioned in column 1 of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT1" remotekey1="REFPTID" service="DOC-ID">Part 1</remotelink></ci:content></ci:cite>
+ of Schedule D,</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT60.R1A.1.B"><lilabel><refpt id="UCPN.SC.SCR70.PT60.R1A.1.B" type="ext"/>(b)</lilabel>
+<p><text>subject to subrule (4), under provisions of any following rules of court (the <emph typestyle="bf">relevant rules</emph>):</text></p>
+<l><li><lilabel>(i)</lilabel>
+<p><text>these rules,</text></p>
+</li><li><lilabel>(ii)</lilabel>
+<p><text>the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CLR.CLRUN00" remotekey1="REFPTID" service="DOC-ID" status="unval">Supreme Court (Corporations) Rules 1999</remotelink></ci:content></ci:cite>
+,</text></p>
+</li><li><lilabel>(iii)</lilabel>
+<p><text>the Uniform Civil Procedure Rules 2005,</text></p>
+</li></l></li>
+<li id="UCPN.SC.SCR70.PT60.R1A.1.C"><lilabel><refpt id="UCPN.SC.SCR70.PT60.R1A.1.C" type="ext"/>(c)</lilabel>
+<p><text>in respect of the matters mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT3" remotekey1="REFPTID" service="DOC-ID">Part 3</remotelink></ci:content></ci:cite>
+ of Schedule D and in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHE.PT2" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 2</remotelink></ci:content></ci:cite>
+ of Schedule E.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1A)  subst Amendment 77: Gaz 128 of 28 October 1977  p 4718 ; am Amendment 126: Gaz 90 of 30 June 1982  p 2973 ; Amendment 211: Gaz 147 of 23 September 1988  p 4993 ; Amendment 263: Gaz 40 of 27 March 1992  p 2210 ; Amendment 336: Gaz 144 of 24 December 1999  p 12364 ; Amendment 386: Gaz 197 of 19 December 2003  p 11429, effective 1 January 2004 ; Gaz 99 of 5 August 2005 r 3 and Sch 1 item [1], effective 15 August 2005; Act 98 of 2005  s 3 and Sch 2[60.1], effective 24 November 2005 ; Amendment 412: Gaz 116 of 7 September 2007  r 3 and Sch 1[2],  effective 1 January 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R1A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The matter in column 2 of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT1" remotekey1="REFPTID" service="DOC-ID">Parts 1</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT2" remotekey1="REFPTID" service="DOC-ID">2</remotelink></ci:content></ci:cite>
+ of Schedule D is inserted for convenience of reference only and does not affect the operation of the relevant rules.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  subst Amendment 77: Gaz 128 of 28 October 1977  p 4718 ; am Amendment 412: Gaz 116 of 7 September 2007  r 3 and Sch 1[3],  effective 1 January 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R1A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In relation to any provision mentioned in column 1 of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT1" remotekey1="REFPTID" service="DOC-ID">Part 1</remotelink></ci:content></ci:cite>
+ of Schedule D, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60.R1A.1.A" remotekey1="REFPTID" service="DOC-ID">subrule (1)(a)</remotelink></ci:content></ci:cite>
+ has effect subject to the restriction (if any) appearing beside that provision in column 3.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  subst Amendment 77: Gaz 128 of 28 October 1977  p 4718]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R1A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge may not exercise the powers of the Court under any of the provisions of the relevant rules mentioned in column 1 of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT2" remotekey1="REFPTID" service="DOC-ID">Part 2</remotelink></ci:content></ci:cite>
+ of Schedule D except to the extent (if any) specified opposite that provision in column 3.</text></p>
+<leg:histnote>
+<p><text>[subr (4)  subst Amendment 77: Gaz 128 of 28 October 1977  p 4718 ; am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [1], effective 15 August 2005; Act 98 of 2005  s 3 and Sch 2[60.1], effective 24 November 2005 ; Amendment 412: Gaz 116 of 7 September 2007  r 3 and Sch 1[3],  effective 1 January 2008 ]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A.4A"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R1A.4A" type="ext"/>(4A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subr (4A)  rep Gaz 99 of 5 August 2005  r 3 and Sch 1 item [52], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R1A.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In proceedings commenced before 1 July 1972, an associate Judge may exercise any power formerly exercisable by the Prothonotary.</text></p>
+<leg:histnote>
+<p><text>[subr (5)  insrt Amendment 77: Gaz 128 of 28 October 1977  p 4718 ; am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [1], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R1A.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge may exercise the powers of the Court for the purposes of, and in respect of all matters incidental to, the exercise of his powers under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60.R1A.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ or under any Act or regulation or under any other provision of the relevant rules.</text></p>
+<leg:histnote>
+<p><text>[subr (6)  subst Amendment 19: Gaz 110 of 20 October 1972  p 4134 ; am Amendment 77: Gaz 128 of 28 October 1977  p 4718 ; Amendment 126: Gaz 90 of 30 June 1982  p 2973 ; Gaz 99 of 5 August 2005 r 3 and Sch 1 item [1], effective 15 August 2005 ; Act 98 of 2005  s 3 and Sch 2[60.1], effective 24 November 2005 ; Amendment 412: Gaz 116 of 7 September 2007  r 3 and Sch 1[3],  effective 1 January 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R1A.7"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R1A.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The generality of the powers granted by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60.R1A.6" remotekey1="REFPTID" service="DOC-ID">subrule (6)</remotelink></ci:content></ci:cite>
+ shall not be restricted by reason of the grant under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60.R1A.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+ of specific powers.</text></p>
+<leg:histnote>
+<p><text>[subr (7)  insrt Amendment 283: Gaz 53 of 31 March 1994  p 1500]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT60.R1A.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.60-1A-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 60.1A.1]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 60.1A.1] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Sch D, Part 1, Pt 2, Pt 3.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.60-1A-1" type="ext"/>[SCR Pt 60.1A.1] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The powers of the associate judge under SCR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD" remotekey1="REFPTID" service="DOC-ID">Sch D</remotelink></ci:content></ci:cite>
+ are set out behind this guide card. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD" remotekey1="REFPTID" service="DOC-ID">Schedule D</remotelink></ci:content></ci:cite>
+ is in three Parts. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT1" remotekey1="REFPTID" service="DOC-ID">Part 1</remotelink></ci:content></ci:cite>
+ lists the sections of the Acts where the court's power may be exercised by an associate judge, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT2" remotekey1="REFPTID" service="DOC-ID">Pt 2</remotelink></ci:content></ci:cite>
+ lists the exception to the general rule that the associate judge can deal with any matter arising under the SCR and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT3" remotekey1="REFPTID" service="DOC-ID">Pt 3</remotelink></ci:content></ci:cite>
+ is a series of general provisions as to associate judges' jurisdiction.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.60-1A-2" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 60.1A.2]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCR Pt 60.1A.2] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Pt 60 r 1A, Pt 3.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.60-1A-2" type="ext"/>[SCR Pt 60.1A.2] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The combined effect of SCR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT60.R1A" remotekey1="REFPTID" service="DOC-ID">Pt 60 r 1A</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.SCHD.PT3" remotekey1="REFPTID" service="DOC-ID">Pt 3</remotelink></ci:content></ci:cite>
+ of Sch D is to confer jurisdiction on an associate judge to hear and determine trials in personal injury matters and, in the case of non jury proceedings, any matters referred to an associate judge either by a judge or by the Court of Appeal. Consequently, on an assessment of damages in proceedings that have been referred by a judge, the associate judge may award costs of the assessment and may also make an order for the payment of interest: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1996"/></ci:caseinfo><ci:caseref ID="cr002665" spanref="cr002665-001" status="unval"><ci:reporter value="NSWConvR"/><ci:page num="¶55-780"/></ci:caseref><ci:caseref ID="cr002666" spanref="cr002666-002" status="unval"><ci:reporter value="ANZConvR"/><ci:page num="513"/></ci:caseref><ci:caseref ID="cr002667" spanref="cr002667-003"><ci:reporter value="urj"/><ci:refnum num="BC9600236"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Rummery v Dorsman</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002665-001" status="unval">(1996) NSW Conv R ¶55-780</ci:span>; <ci:span spanid="cr002666-002" status="unval">ANZ Conv R 513</ci:span>; <ci:span spanid="cr002667-003"> BC9600236</ci:span></citefragment></ci:content></ci:cite>. Amendments to Pt 3 of Sch D in 1981 and 1992 expanded the powers of associate judges and overcame limitations that had existed in earlier forms of the rules &#x2014; such as those considered in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002668" spanref="cr002668-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1980"/></ci:edition><ci:page num="465"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bilambil-Terranora Pty Ltd v Tweed Shire Council</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002668-001">[1980] 1 NSWLR 465</ci:span></citefragment> <remotelink dpsi="0018" refpt="27545" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002669" spanref="cr002669-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="700"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Moorhouse v Angus &amp; Robertson (No 1) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002669-001">[1981] 1 NSWLR 700</ci:span></citefragment> <remotelink dpsi="0018" refpt="29360" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr002670" spanref="cr002670-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="713"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Government Insurance Office (NSW) v Weeks</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002670-001">[1981] 1 NSWLR 713</ci:span></citefragment> <remotelink dpsi="0018" refpt="82567" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.60-1A-3" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 60.1A.3] Inherent and incidental powers of the court"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.60-1A-3" type="ext"/>[SCR Pt 60.1A.3] </edpnum><title>Inherent and incidental powers of the court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>SCR 60.1A(6) expressly permits an associate judge to exercise the incidental powers of the court that are relevant to the exercise of the jurisdiction conferred by SCR 60.1A(1). A matter is incidental to a power if it is reasonable proportionate or appropriate to the pursuit of a purpose within the scope of the power: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr002671" spanref="cr002671-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="166"/><ci:page num="79"/></ci:caseref><ci:caseref anaphref="cr002671" spanref="cr002671-002" status="unval"><ci:pinpoint num="100" targettype="page"/></ci:caseref><ci:caseref ID="cr002672" spanref="cr002672-003"><ci:reporter value="ALR"/><ci:volume num="82"/><ci:page num="633"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Davis v Commonwealth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr002671-001" status="unval">(1988) 166 CLR 79</ci:span> <ci:span spanid="cr002671-002" status="unval">at 100</ci:span>; <ci:span spanid="cr002672-003">82 ALR 633</ci:span></citefragment> <remotelink dpsi="0018" refpt="10295" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The permission given by this rule does not include the inherent jurisdiction of the court, the exercise of which is beyond the powers of the associate judge: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Whitley v Bardsley</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> (NSWSC, Macready M, 20 October 1992, unreported)</citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 60 r 2] r 2 Distribution of business">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT60.R2" type="ext"/>[SCR Pt 60 r 2]</edpnum><title searchtype="RUL-TITLE">Distribution of business</title><desig searchtype="RUL-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where there are two or more associate Judges in a Division, the distribution of business amongst the associate Judges shall, subject to any direction of the Court, be by direction of the senior associate Judge present.</text></p>
+<leg:histnote>
+<p><text>[r 2  am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [2], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 60 r 3] r 3 Judgment or order">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT60.R3" type="ext"/>[SCR Pt 60 r 3]</edpnum><title searchtype="RUL-TITLE">Judgment or order</title><desig searchtype="RUL-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge shall, on the disposal of any matter before him, give such judgment or make such order as the nature of the case requires, except where, by the rules or by any judgment or order, he is required to state his determination in a certificate or in some other manner.</text></p>
+<leg:histnote>
+<p><text>[r 3  am Amendment 239: Gaz 44 of 30 March 1990  p 2634 ; Gaz 99 of 5 August 2005 r 3 and Sch 1 item [1], effective 15 August 2005; Act 98 of 2005  s 3 and Sch 2[60.1], effective 24 November 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[SCR Pt 60 r 4] r 4 Certificate">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCR70.PT60.R4" type="ext"/>[SCR Pt 60 r 4]</edpnum><title searchtype="RUL-TITLE">Certificate</title><desig searchtype="RUL-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCR70.PT60.R4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An associate Judge may give a certificate as to any matter arising or decision made in the course of proceedings before him.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [1], effective 15 August 2005; Act 98 of 2005  s 3 and Sch 2[60.1], effective 24 November 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where proceedings are before an associate Judge pursuant to a judgment or order, the certificate of the associate Judge shall refer to so much only of the judgment or order as is necessary to show upon what the determination of the associate Judge is founded.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf RSC (Rev) 1965 O 44 r 21(2)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subr (2)  am Gaz 99 of 5 August 2005 r 3 and Sch 1 items [1]&#x2013;[2], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The certificate of an associate Judge shall not refer to documents or evidence except so far as is necessary to show upon what the determination of the associate Judge is founded.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf RSC (Rev) 1965 O 44 r 21(2)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subr (3)  am Gaz 99 of 5 August 2005 r 3 and Sch 1 items [1]&#x2013;[2], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R4.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The certificate of an associate Judge shall not, except where necessary, set out the reasons for the determination of the associate Judge.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf RSC (Rev) 1965 O 44 r 21(2)</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subr (4)  am Gaz 99 of 5 August 2005 r 3 and Sch 1 items [1]&#x2013;[2], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R4.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R4.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The certificate of an associate Judge as to an account taken under a judgment or order shall:</text></p>
+<l><li id="UCPN.SC.SCR70.PT60.R4.5.A"><lilabel><refpt id="UCPN.SC.SCR70.PT60.R4.5.A" type="ext"/>(a)</lilabel>
+<p><text>specify, by reference to the numbers of the items in the account, the items (if any) disallowed or varied, and</text></p>
+</li>
+<li id="UCPN.SC.SCR70.PT60.R4.5.B"><lilabel><refpt id="UCPN.SC.SCR70.PT60.R4.5.B" type="ext"/>(b)</lilabel>
+<p><text>specify the additions (if any) by way of surcharge or otherwise.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf RSC (Rev) 1965 O 44 r 21(3)</ci:content></ci:cite></text></p></glp:note></li>
+</l><leg:histnote>
+<p><text>[subr (5)  am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [1], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCR70.PT60.R4.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCR70.PT60.R4.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule does not apply where any proceedings, question or issue are or is referred to an associate Judge under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT72.R2" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 72 rule 2</remotelink></ci:content></ci:cite>
+ (which relates to reference to an arbitrator etc).</text></p>
+<leg:histnote>
+<p><text>[subr (6)  insrt Amendment 174: Gaz 157 of 22 November 1985  p 6085 ; am Gaz 99 of 5 August 2005 r 3 and Sch 1 item [1], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCR70.PT60.R4.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.60-4-1" leveltype="para0" subdoc="true" toc-caption="[SCR Pt 60.4.1]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.60-4-1" type="ext"/>[SCR Pt 60.4.1] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This rule refers to proceedings which are before the associate judge for enquiry or the taking of accounts in the Equity Division.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

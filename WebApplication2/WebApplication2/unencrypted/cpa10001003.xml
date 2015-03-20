@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1  RULES, PRACTICE NOTES AND FORMS [ss 8&#x2013;17]</docinfo:doc-heading><docinfo:doc-id>UCPN.CPA.CPAN05.PT2.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Civil Procedure Act 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>CIVIL PROCEDURE ACT 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 2  ADMINISTRATIVE MATTERS [ss 8&#x2013;18]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1  RULES, PRACTICE NOTES AND FORMS [ss 8&#x2013;17]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>40000010</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.CPA"/><docinfo:metaitem name="parent-filename" value="cpa.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_CPA.SGM_UCPN.CPA.CPAN05"/><docinfo:metaitem name="parent-filename" value="cpa1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 28, 2005</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CIVIL PROCEDURE ACT 2005</leg:officialname></leg:info><leg:level id="UCPN.CPA.CPAN05.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2  ADMINISTRATIVE MATTERS [ss 8&#x2013;18]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.CPA.CPAN05.PT2" type="ext"/>PART 2</designum></desig><title searchtype="PART-TITLE"> ADMINISTRATIVE MATTERS [ss 8&#x2013;18]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.PT2.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1  RULES, PRACTICE NOTES AND FORMS [ss 8&#x2013;17]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.CPA.CPAN05.PT2.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE"> RULES, PRACTICE NOTES AND FORMS [ss 8&#x2013;17]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 8] s 8 Uniform Rules Committee">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S8" type="ext"/>[s 8]</edpnum><title searchtype="SECT-TITLE">Uniform Rules Committee</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S8.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>There is to be a Uniform Rules Committee comprising 12 members, of whom:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S8.1.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.A" type="ext"/>(a)</lilabel>
+<p><text>one is to be the Chief Justice of the Supreme Court or a Judge of the Supreme Court nominated for the time being by the Chief Justice, and </text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.B" type="ext"/>(b)</lilabel>
+<p><text>one is to be the President of the Court of Appeal or a Judge of Appeal nominated for the time being by the President, and </text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.C"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.C" type="ext"/>(c)</lilabel>
+<p><text>two are to be Judges of the Supreme Court appointed by the Chief Justice, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.C1"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.C1" type="ext"/>(c1)</lilabel>
+<p><text>one is to be the Chief Judge of the Land and Environment Court or a Judge nominated for the time being by the Chief Judge, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.C2"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.C2" type="ext"/>(c2)</lilabel>
+<p><text>one is to be the President of the Industrial Relations Commission or a judicial member of the Commission (within the meaning of the Industrial Relations Act 1996) nominated for the time being by the President, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.D"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.D" type="ext"/>(d)</lilabel>
+<p><text>one is to be the Chief Judge of the District Court or a Judge of the District Court nominated for the time being by the Chief Judge, and </text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.E"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.E" type="ext"/>(e)</lilabel>
+<p><text>one is to be a Judge of the District Court appointed by the Chief Judge, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.F"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.F" type="ext"/>(f)</lilabel>
+<p><text>one is to be the Chief Magistrate or a Magistrate nominated for the time being by the Chief Magistrate, and </text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.G"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.G" type="ext"/>(g)</lilabel>
+<p><text>one is to be a Magistrate appointed by the Chief Magistrate, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.H"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.H" type="ext"/>(h)</lilabel>
+<p><text>one is to be a barrister appointed by the Bar Council, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S8.1.I"><lilabel><refpt id="UCPN.CPA.CPAN05.S8.1.I" type="ext"/>(i)</lilabel>
+<p><text>one is to be a solicitor appointed by the Law Society Council.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 120 of 2006  s 3 and Sch 3[3.3] , effective 4 December 2006; Act 56 of 2007 s 3 and Sch 2[1], [2], effective 28 January 2008 ; Act 77 of 2009  Sch 2.6[1], [2], effective 3 November 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S8.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Schedule 2 has effect with respect to the constitution and procedure of the Uniform Rules Committee.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S9"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 9] s 9 Uniform rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S9" type="ext"/>[s 9]</edpnum><title searchtype="SECT-TITLE">Uniform rules</title><desig searchtype="SECT-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S9.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Uniform Rules Committee may make rules, not inconsistent with this Act, for or with respect to any matter that by this Act is required or permitted to be prescribed by rules or that is necessary or convenient to be prescribed by rules for carrying out or giving effect to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S9.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting subsection (1), rules under this section may make provision, in relation to all civil proceedings in respect of which a court has jurisdiction (however arising), for or with respect to the matters specified in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH3" remotekey1="REFPTID" service="DOC-ID">Schedule 3</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S9.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On the commencement of this section, the rules set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.SCH7" remotekey1="REFPTID" service="DOC-ID">Schedule 7 </remotelink></ci:content></ci:cite>
+are taken to have been made under this section, and may be amended and repealed accordingly.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S9.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S9.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The rules made under this section may authorise or require the use of an electronic case management system established under clause 2 of Schedule 1 to the Electronic Transactions Act 2000 in relation to any proceedings in a court in respect of which the use of such a system is authorised by an order in force under clause 3 of Schedule 1 to that Act.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  am Act 119 of 2010  Sch 2.10, effective 7 January 2011]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S9.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S9.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not give power to make rules with respect to any matter for which rules may be made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN.S38" remotekey1="REFPTID" service="DOC-ID" status="unval">section 38</remotelink></ci:content></ci:cite>
+ of the Legal Profession Act 2004 or any matter relating to costs that is regulated by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.LPAN.PT3-2" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 3.2</remotelink></ci:content></ci:cite>
+ of that Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S9.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S9.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not limit the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S78" remotekey1="REFPTID" service="DOC-ID">section 78</remotelink></ci:content></ci:cite>
+ of the Interpretation Act 1987.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S10"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 10] s 10 Rules of court taken to include uniform rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S10" type="ext"/>[s 10]</edpnum><title searchtype="SECT-TITLE">Rules of court taken to include uniform rules</title><desig searchtype="SECT-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S10.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Rules of court are taken to include the uniform rules to the extent to which they are applicable in that court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S10.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subsection (1) does not authorise the person or body having power to make local rules to amend or repeal a uniform rule in its application to that court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 11] s 11 Relationship between uniform rules and local rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S11" type="ext"/>[s 11]</edpnum><title searchtype="SECT-TITLE">Relationship between uniform rules and local rules</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The uniform rules prevail over any provision of any local rules unless the uniform rules expressly provide that the provision of the local rules is to prevail.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>One rule prevails over another, as referred to in subsection (1), to the extent only of any inconsistency between them.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S12"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 12] s 12 Officers of the court may exercise functions conferred by uniform rules ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S12" type="ext"/>[s 12]</edpnum><title searchtype="SECT-TITLE">Officers of the court may exercise functions conferred by uniform rules </title><desig searchtype="SECT-NUM"><designum>12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting any other functions he or she may exercise, a registrar or other officer of any court may exercise any function conferred on such an officer by the uniform rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S13"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 13] s 13 Officers of the court may be authorised to exercise court&#x2019;s functions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S13" type="ext"/>[s 13]</edpnum><title searchtype="SECT-TITLE">Officers of the court may be authorised to exercise court&#x2019;s functions</title><desig searchtype="SECT-NUM"><designum>13</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S13.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S13.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The senior judicial officer of any court may, by instrument in writing:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S13.1.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S13.1.A" type="ext"/>(a)</lilabel>
+<p><text>direct that any function of the court under this Act or any other Act or law in respect of which the court has jurisdiction (including any rules of court) may be exercised by such registrars or other officers of the court, and in such circumstances and subject to such conditions, as are specified in the instrument, and </text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S13.1.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S13.1.B" type="ext"/>(b)</lilabel>
+<p><text>vary or revoke any such instrument.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[s 13  am Act 60 of 2012  Sch 3[1], effective 10 September 2012]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S13.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S13.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not limit any provision of the Act by which the court is constituted with respect to the exercise of the court&#x2019;s functions.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S13.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S13-5" leveltype="para0" subdoc="true" toc-caption="[s 13.5] Nomination of powers &#x2014; Supreme Court"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S13-5" type="ext"/>[s 13.5] </edpnum><title>Nomination of powers &#x2014; Supreme Court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The powers of the Court of Appeal Registrar, Supreme Court Registrars and the Supreme Court Chief Clerk are the subject of directions under the present section. Those directions are set out at 
+<remotelink dpsi="05CC" refpt="UCPN.SC.C1.17000" remotekey1="REFPTID" service="DOC-ID">[17,000]</remotelink>
+, 
+<remotelink dpsi="05CC" refpt="UCPN.SC.C1.17005" remotekey1="REFPTID" service="DOC-ID">[17,005]</remotelink>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.C1.17010" remotekey1="REFPTID" service="DOC-ID">[17,010]</remotelink></ci:content></ci:cite>
+ (immediately after the Supreme Court (Corporations) Rules 1999).</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S13-10" leveltype="para0" subdoc="true" toc-caption="[s 13.10] Nomination of powers &#x2014; District Court ">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 13.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> DCA s 18FB.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1973-1" remotekey1="REFPTID" service="DOC-ID">District Court Rules 1973</remotelink> DCR Pt 43A r 1.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> UCPR r 1.10.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S13-10" type="ext"/>[s 13.10] </edpnum><title>Nomination of powers &#x2014; District Court </title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The powers of the Judicial Registrar of the District Court are the subject of special provision in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S18FB" remotekey1="REFPTID" service="DOC-ID">DCA s 18FB</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT43A.R1" remotekey1="REFPTID" service="DOC-ID">DCR Pt 43A r 1</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-10" remotekey1="REFPTID" service="DOC-ID">UCPR r 1.10</remotelink></ci:content></ci:cite>
+. Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT43A.R1" remotekey1="REFPTID" service="DOC-ID">DCR Pt 43A r 1</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-10" remotekey1="REFPTID" service="DOC-ID">UCPR r 1.10</remotelink></ci:content></ci:cite>
+, the Judicial Registrar has all of the powers of the court &#x2014; except its contempt powers and powers relating to the exercise of criminal jurisdiction. The powers of registrars in the District Court are also the subject of a direction under the present section. The direction is set out at 
+<remotelink dpsi="05CC" refpt="UCPN.DC.PRACD.D130306" remotekey1="REFPTID" service="DOC-ID">[30,000]</remotelink>
+ (immediately after the District Court Rules).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S14"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 14] s 14 Court may dispense with rules in particular cases">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S14" type="ext"/>[s 14]</edpnum><title searchtype="SECT-TITLE">Court may dispense with rules in particular cases</title><desig searchtype="SECT-NUM"><designum>14</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In relation to particular civil proceedings, the court may, by order, dispense with any requirement of rules of court if satisfied that it is appropriate to do so in the circumstances of the case.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S14.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S14-3" leveltype="para0" subdoc="true" toc-caption="[s 14.3] Requirements of the rules">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 14.3] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> UCPR r 42.3.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S14-3" type="ext"/>[s 14.3] </edpnum><title>Requirements of the rules</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The power conferred by the present section is limited to dispensing with rules that impose requirements with which the parties must otherwise comply. It does not permit a court to circumvent limitations or restrictions in any powers that have been conferred by other rules: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2009"/></ci:caseinfo><ci:caseref ID="cr000002" spanref="cr000002-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="239"/><ci:page num="75"/></ci:caseref><ci:caseref ID="cr000003" spanref="cr000003-002"><ci:reporter value="ALR"/><ci:volume num="260"/><ci:page num="34"/></ci:caseref><ci:caseref ID="cr000004" spanref="cr000004-003"><ci:reporter value="urj"/><ci:refnum num="BC200909275"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Jeffery &amp; Katauskas Pty Ltd v SST Consulting Pty Ltd; Jeffery &amp; Katauskas Pty Ltd v Rickard Constructions Pty Ltd (subject to Deed of Company Arrangement)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000002-001" status="unval">(2009) 239 CLR 75</ci:span>; <ci:span spanid="cr000003-002">260 ALR 34</ci:span>; [2009] HCA 43; <ci:span spanid="cr000004-003"> BC200909275</ci:span></citefragment> <remotelink dpsi="0018" refpt="481213" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (no power to circumvent the former
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R42-3" remotekey1="REFPTID" service="DOC-ID"> UCPR r 42.3</remotelink>
+ prohibition on costs orders against non-parties); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000005" spanref="cr000005-001"><ci:reporter value="urj"/><ci:refnum num="BC201001570"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Malouf v Prince (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWCA 51; <ci:span spanid="cr000005-001"> BC201001570</ci:span></citefragment> <remotelink dpsi="0018" refpt="491450" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000006" spanref="cr000006-000" status="unval"><ci:reporter value="NSWCA"/><ci:edition><ci:date year="2010"/></ci:edition><ci:pinpoint num="22" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr000006-000" status="unval">at [22]</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S14-5" leveltype="para0" subdoc="true" toc-caption="[s 14.5] Dispensing with the requirements of the Rules">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 14.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 56(1).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S14-5" type="ext"/>[s 14.5] </edpnum><title>Dispensing with the requirements of the Rules</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The court&#x2019;s function is to do justice between the parties. The object of the CPA and the UCPR is to conduce to that end and facilitate the &#x201c;just, quick and cheap resolution of the real issues in the proceedings&#x201d;: see CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S56.1" remotekey1="REFPTID" service="DOC-ID">s 56(1)</remotelink>
+. The attainment of that overriding purpose ought not be compromised by excessive rigidity in the application of either the CPA or the UCPR: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1884"/></ci:caseinfo><ci:caseref ID="cr000007" spanref="cr000007-001" status="unval"><ci:reporter value="ChD"/><ci:volume num="26"/><ci:page num="700"/></ci:caseref><ci:caseref anaphref="cr000007" spanref="cr000007-002" status="unval"><ci:pinpoint num="710" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Cropper v Smith</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000007-001" status="unval">(1884) 26 Ch D 700</ci:span> <ci:span spanid="cr000007-002" status="unval">at 710</ci:span></citefragment> <remotelink dpsi="0018" refpt="231594" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr000008" spanref="cr000008-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="32"/><ci:page num="379"/></ci:caseref><ci:caseref anaphref="cr000008" spanref="cr000008-002" status="unval"><ci:pinpoint num="391" targettype="page"/></ci:caseref><ci:caseref ID="cr000009" spanref="cr000009-003"><ci:reporter value="ALR"/><ci:volume num="104"/><ci:page num="165"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bomanite Pty Ltd v Slatex Corp Australia Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000008-001" status="unval">(1991) 32 FCR 379</ci:span> <ci:span spanid="cr000008-002" status="unval">at 391</ci:span>; <ci:span spanid="cr000009-003">104 ALR 165</ci:span></citefragment> <remotelink dpsi="0018" refpt="29392" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000010" spanref="cr000010-001" status="unval"><ci:reporter value="Tarl"/><ci:edition><ci:date year="1882"/></ci:edition><ci:page num="75"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Clune v Watson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000010-001" status="unval">[1882]
+Tarl 75</ci:span></citefragment> <remotelink dpsi="0018" refpt="161241" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (&#x201c;the rules must be the servant not the master of the court&#x201d;); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000011" spanref="cr000011-001" status="unval"><ci:reporter value="KB"/><ci:volume num="1"/><ci:edition><ci:date year="1907"/></ci:edition><ci:page num="1"/></ci:caseref><ci:caseref anaphref="cr000011" spanref="cr000011-002" status="unval"><ci:pinpoint num="4" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Coles &amp; Ravenshear</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000011-001" status="unval">[1907] 1 KB 1</ci:span> <ci:span spanid="cr000011-002" status="unval">at 4</ci:span></citefragment> <remotelink dpsi="0018" refpt="563" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (the relation of the rules &#x2026; to the work of justice is... that of handmaid rather than mistress&#x201d;); see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000012" spanref="cr000012-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1974"/></ci:edition><ci:page num="27"/></ci:caseref><ci:caseref anaphref="cr000012" spanref="cr000012-002" status="unval"><ci:pinpoint num="30" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Outboard Marine Australia Pty Ltd v Byrnes</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000012-001">[1974] 1 NSWLR 27</ci:span> <ci:span spanid="cr000012-002" status="unval">at 30</ci:span></citefragment> <remotelink dpsi="0018" refpt="7456" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000013" spanref="cr000013-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="18"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Testro Bros Consolidated Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000013-001">[1965] VR 18</ci:span></citefragment> <remotelink dpsi="0018" refpt="1225" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000014" spanref="cr000014-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="646"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Sydney Formworks Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000014-001" status="unval">[1965] NSWR 646</ci:span></citefragment> <remotelink dpsi="0018" refpt="49541" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1969"/></ci:caseinfo><ci:caseref ID="cr000015" spanref="cr000015-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1969"/></ci:edition><ci:page num="374"/></ci:caseref><ci:caseref ID="cr000016" spanref="cr000016-002" status="unval"><ci:reporter value="WNPt1NSW"/><ci:volume num="90"/><ci:page num="107"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re AJ Benjamin Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000015-001" status="unval">[1969] 2 NSWR 374</ci:span>; <ci:span spanid="cr000016-002" status="unval">(1969) 90 WN (Pt 1) (NSW) 107</ci:span></citefragment> <remotelink dpsi="0018" refpt="13668" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr000017" spanref="cr000017-001"><ci:reporter value="NSWLR"/><ci:volume num="32"/><ci:page num="662"/></ci:caseref><ci:caseref anaphref="cr000017" spanref="cr000017-002" status="unval"><ci:pinpoint num="681" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Garrard (t/as Arthur Anderson &amp; Co) v Email Furniture Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000017-001">(1993) 32 NSWLR 662</ci:span> <ci:span spanid="cr000017-002" status="unval">at 681</ci:span></citefragment> <remotelink dpsi="0018" refpt="49395" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1856"/></ci:caseinfo><ci:caseref ID="cr000018" spanref="cr000018-001" status="unval"><ci:reporter value="DeGM&amp;G"/><ci:volume num="8"/><ci:page num="93"/></ci:caseref><ci:caseref anaphref="cr000018" spanref="cr000018-002" status="unval"><ci:pinpoint num="95" targettype="page"/></ci:caseref><ci:caseref ID="cr000019" spanref="cr000019-003" status="unval"><ci:reporter value="ER"/><ci:volume num="44"/><ci:page num="324"/></ci:caseref><ci:caseref anaphref="cr000019" spanref="cr000019-004" status="unval"><ci:pinpoint num="325" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ferrand v Bradford Corp</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000018-001" status="unval">(1856) 8 De GM &amp; G 93</ci:span> <ci:span spanid="cr000018-002" status="unval">at 95</ci:span>; <ci:span spanid="cr000019-003" status="unval">44 ER 324</ci:span> <ci:span spanid="cr000019-004" status="unval">at 325</ci:span></citefragment></ci:content></ci:cite>.
+Despite the potential flexibility that this policy contemplates, a person who seeks dispensation from compliance with the Rules bears the onus of satisfying the court that the dispensation sought is appropriate in the particular case. Generally this will require the party to offer a proper reason for, or explanation of, past or anticipated non-compliance (as the case may be): <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000020" spanref="cr000020-001"><ci:reporter value="urj"/><ci:refnum num="BC200407393"/></ci:caseref><ci:caseref anaphref="cr000020" spanref="cr000020-002"><ci:pinpoint num="3" targettype="para"/></ci:caseref><ci:caseref anaphref="cr000020" spanref="cr000020-003"><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Iovanescu v McDermott</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2004] NSWCA 106; <ci:span spanid="cr000020-001"> BC200407393</ci:span> <ci:span spanid="cr000020-002">at [3]</ci:span> <ci:span spanid="cr000020-003">, [5]</ci:span></citefragment> <remotelink dpsi="0018" refpt="388789" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Young CJ in Eq; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1914"/></ci:caseinfo><ci:caseref ID="cr000021" spanref="cr000021-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="14"/><ci:page num="141"/></ci:caseref><ci:caseref anaphref="cr000021" spanref="cr000021-002" status="unval"><ci:pinpoint num="144" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Morres v Papuan Rubber and Trading Co Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000021-001" status="unval">(1914) 14 SR (NSW) 141</ci:span> <ci:span spanid="cr000021-002" status="unval">at 144</ci:span></citefragment> <remotelink dpsi="0018" refpt="21687" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S14-10" leveltype="para0" subdoc="true" toc-caption="[s 14.10] Before or after the occasion for compliance"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S14-10" type="ext"/>[s 14.10] </edpnum><title>Before or after the occasion for compliance</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The court may dispense with the requirements of the Rules even after non-compliance has occurred: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr000022" spanref="cr000022-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="165"/><ci:page num="268"/></ci:caseref><ci:caseref ID="cr000023" spanref="cr000023-002"><ci:reporter value="ALR"/><ci:volume num="77"/><ci:page num="411"/></ci:caseref><ci:caseref anaphref="cr000023" spanref="cr000023-003" status="unval"><ci:pinpoint num="283" targettype="page"/></ci:caseref><ci:caseref ID="cr000024" spanref="cr000024-004"><ci:reporter value="urj"/><ci:refnum num="BC8802594"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">FAI General Insurance Co Ltd v Southern Cross Exploration NL</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000022-001" status="unval">(1988) 165 CLR 268</ci:span>; <ci:span spanid="cr000023-002">77 ALR 411</ci:span> <ci:span spanid="cr000023-003" status="unval">at 283&#x2013;4</ci:span>; [1998] HCA 13; <ci:span spanid="cr000024-004"> BC8802594</ci:span></citefragment> <remotelink dpsi="0018" refpt="6164" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (extension after expiry of time); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1997"/></ci:caseinfo><ci:caseref ID="cr000025" spanref="cr000025-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="188"/><ci:page num="114"/></ci:caseref><ci:caseref ID="cr000026" spanref="cr000026-002"><ci:reporter value="ALR"/><ci:volume num="144"/><ci:page num="359"/></ci:caseref><ci:caseref ID="cr000027" spanref="cr000027-003"><ci:reporter value="urj"/><ci:refnum num="BC9702205"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Emanuele v Australian Securities Commission</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000025-001" status="unval">(1997) 188 CLR 114</ci:span>; <ci:span spanid="cr000026-002">144 ALR 359</ci:span>; [1997] HCA 20; <ci:span spanid="cr000027-003"> BC9702205</ci:span></citefragment> <remotelink dpsi="0018" refpt="230202" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (leave to proceed); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr000028" spanref="cr000028-001"><ci:reporter value="NSWLR"/><ci:volume num="45"/><ci:page num="111"/></ci:caseref><ci:caseref ID="cr000029" spanref="cr000029-002"><ci:reporter value="urj"/><ci:refnum num="BC9805700"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Australasian Memory Pty Ltd v Brien</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000028-001">(1998) 45 NSWLR 111</ci:span>; <ci:span spanid="cr000029-002"> BC9805700</ci:span></citefragment> <remotelink dpsi="0018" refpt="289430" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (extension of time under corporations legislation); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000030" spanref="cr000030-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="18"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Testro Bros Consolidated Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000030-001">[1965] VR 18</ci:span></citefragment> <remotelink dpsi="0018" refpt="1225" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (orders may be made &#x201c;nunc pro tunc&#x201d;); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000031" spanref="cr000031-001" status="unval"><ci:reporter value="NSWR"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="646"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Sydney Formworks Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000031-001" status="unval">[1965] NSWR 646</ci:span></citefragment> <remotelink dpsi="0018" refpt="49541" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1969"/></ci:caseinfo><ci:caseref ID="cr000032" spanref="cr000032-001" status="unval"><ci:reporter value="NSWR"/><ci:volume num="2"/><ci:edition><ci:date year="1969"/></ci:edition><ci:page num="374"/></ci:caseref><ci:caseref ID="cr000033" spanref="cr000033-002" status="unval"><ci:reporter value="WNPt1NSW"/><ci:volume num="90"/><ci:page num="107"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re AJ Benjamin Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000032-001" status="unval">[1969] 2 NSWR 374</ci:span>; <ci:span spanid="cr000033-002" status="unval">(1969) 90 WN (Pt 1) (NSW) 107</ci:span></citefragment> <remotelink dpsi="0018" refpt="13668" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2000"/></ci:caseinfo><ci:caseref ID="cr000034" spanref="cr000034-001"><ci:reporter value="NSWLR"/><ci:volume num="48"/><ci:page num="598"/></ci:caseref><ci:caseref ID="cr000035" spanref="cr000035-002"><ci:reporter value="urj"/><ci:refnum num="BC200001287"/></ci:caseref><ci:caseref anaphref="cr000035" spanref="cr000035-003"><ci:pinpoint num="16" targettype="para"/></ci:caseref><ci:caseref anaphref="cr000035" spanref="cr000035-004"><ci:pinpoint num="25" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Harding v Bourke</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000034-001">(2000) 48 NSWLR 598</ci:span>; [2000] NSWCA 60; <ci:span spanid="cr000035-002"> BC200001287</ci:span> <ci:span spanid="cr000035-003">at [16]</ci:span> <ci:span spanid="cr000035-004">and [25]</ci:span></citefragment> <remotelink dpsi="0018" refpt="309254" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (late application for extension of time to re-instate dismissed proceedings).</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S14-15" leveltype="para0" subdoc="true" toc-caption="[s 14.15] Examples of the power to dispense with compliance">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 14.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 1.12.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 56.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S14-15" type="ext"/>[s 14.15] </edpnum><title>Examples of the power to dispense with compliance</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The power conferred by the present section can be used in a wide range of circumstances. One obvious circumstance for the exercise of the power is to extend time for the commencement, or service, of proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000036" spanref="cr000036-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="588"/></ci:caseref><ci:caseref anaphref="cr000036" spanref="cr000036-002" status="unval"><ci:pinpoint num="606" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ryan v Triguboff</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000036-001">[1976] 1 NSWLR 588</ci:span> <ci:span spanid="cr000036-002" status="unval">at 606</ci:span></citefragment> <remotelink dpsi="0018" refpt="81338" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (an application under the Justices Act 1902); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000037" spanref="cr000037-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1979"/></ci:edition><ci:page num="279"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Pinkstone v Goldrick</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000037-001">[1979] 1 NSWLR 279</ci:span></citefragment> <remotelink dpsi="0018" refpt="82115" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; contra <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000038" spanref="cr000038-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1975"/></ci:edition><ci:page num="278"/></ci:caseref><ci:caseref anaphref="cr000038" spanref="cr000038-002" status="unval"><ci:pinpoint num="281" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Edens v Cleary</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000038-001">[1975] 1 NSWLR 278</ci:span> <ci:span spanid="cr000038-002" status="unval">at 281</ci:span></citefragment> <remotelink dpsi="0018" refpt="31443" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. And UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-12" remotekey1="REFPTID" service="DOC-ID">r 1.12</remotelink></ci:content></ci:cite>
+ specifically permits the extension or abridgment of times fixed by either the UCPR or by judgments and orders in proceedings. But the power to dispense with the requirements of the UCPR is not limited to such situations. It may, for example, permit reliance on matters not formally raised in an originating process or motion: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000039" spanref="cr000039-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="1"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Galletta v Walter</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000039-001">[1977] 1 NSWLR 1</ci:span></citefragment> <remotelink dpsi="0018" refpt="81495" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (plaintiff permitted to argue grounds not expressly raised in a stated case). However, the section only permits dispensation consistent with the overriding purpose referred to in CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S56" remotekey1="REFPTID" service="DOC-ID">s 56</remotelink>
+. Consequently it does not authorise dispensation where non compliance may operate to the detriment of another party. Consistent with this limitation it would be inappropriate, for example, to use the present section to regularise substituted service effected contrary to the UCPR. This is so even if service had purportedly been effected in accordance with an order, if the order itself had been irregularly made: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000040" spanref="cr000040-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:page num="73"/></ci:caseref><ci:caseref anaphref="cr000040" spanref="cr000040-002" status="unval"><ci:pinpoint num="86" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chappell v Coyle</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000040-001">(1985) 2 NSWLR 73</ci:span> <ci:span spanid="cr000040-002" status="unval">at 86</ci:span></citefragment> <remotelink dpsi="0018" refpt="55296" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S14-20" leveltype="para0" subdoc="true" toc-caption="[s 14.20] Statutory requirements">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 14.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 465A.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S14-20" type="ext"/>[s 14.20] </edpnum><title>Statutory requirements</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In some instances the relevant requirement may be partly based on statutory provisions. For example, Corporations Act 2001 (Cth) 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S465A_" remotekey1="REFPTID" service="DOC-ID" status="unval">s 465A</remotelink></ci:content></ci:cite>
+ requires an applicant under specfied sections to &#x201c;advertise the application as prescribed by the rules&#x201d;. In these instances, while the present section of the CPA would permit an order dispensing with provisions of the Rules that govern te manner of advertising it would not permit totally dispensing with the statutory requirement to advertise: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1996"/></ci:caseinfo><ci:caseref ID="cr000041" spanref="cr000041-001" status="unval"><ci:reporter value="ACLC"/><ci:volume num="14"/><ci:page num="1545"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bonehill Pty Ltd v Arrowfield Wines Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000041-001" status="unval">(1996) 14 ACLC 1545</ci:span></citefragment> <remotelink dpsi="0018" refpt="184539" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S15"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 15] s 15 Practice notes">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S15" type="ext"/>[s 15]</edpnum><title searchtype="SECT-TITLE">Practice notes</title><desig searchtype="SECT-NUM"><designum>15</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S15.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S15.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to rules of court, the senior judicial officer of the court may issue practice notes for that court in relation to civil proceedings to which this Act applies.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S15.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S15.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A practice note must be published in the Gazette.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  subst Act 56 of 2009 ; Sch 4.11, effective 17 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S15.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S15.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S40" remotekey1="REFPTID" service="DOC-ID">Sections 40</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S41" remotekey1="REFPTID" service="DOC-ID">41</remotelink></ci:content></ci:cite>
+ of the Interpretation Act 1987 apply to a practice note in the same way as they apply to a statutory rule.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  insrt Act 56 of 2009 ; Sch 4.11, effective 17 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S15.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.CPAN05.S15-5" leveltype="para0" subdoc="true" toc-caption="[s 15.5] Formalities and validity of Practice Notes">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 15.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 15(2).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1987-15" remotekey1="REFPTID" service="DOC-ID">Interpretation Act 1987</remotelink> ss 40, 41.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.CPAN05.S15-5" type="ext"/>[s 15.5] </edpnum><title>Formalities and validity of Practice Notes</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Practice Notes must be published in the Gazette: CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S15.2" remotekey1="REFPTID" service="DOC-ID">s 15(2)</remotelink></ci:content></ci:cite>
+. They must also be tabled before each House of Parliament within 14 sitting days, and are subject to Parliamentary disallowance: Interpretation Act 1987 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S40" remotekey1="REFPTID" service="DOC-ID">ss 40</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S41" remotekey1="REFPTID" service="DOC-ID">41</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.CPAN05.S15-10" leveltype="para0" subdoc="true" toc-caption="[s 15.10] Current Practice Notes">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 15.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 45.1&#x2013;45.14.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.CPAN05.S15-10" type="ext"/>[s 15.10] </edpnum><title>Current Practice Notes</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Practice Notes for each of the various courts to which the CPA applies are set out elsewhere, as indicated in the following list.</text></p>
+<p>
+<text>Practice Notes dealing specifically with case management are listed at 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.2-3-20" remotekey1="REFPTID" service="DOC-ID">[2.3.20]</remotelink>
+. </text></p>
+<p>
+<text>The special lists in the Supreme Court and the District Court, and the related Practice Notes, are dealt with in UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R45-1" remotekey1="REFPTID" service="DOC-ID">rr 45.1&#x2013;45.14</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text><emph typestyle="bf">Court of Appeal</emph></text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Court of Appeal &#x2014; SC CA 1 (see vol 2 at 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCCA.PN1" remotekey1="REFPTID" service="DOC-ID">[SC CA 1]</remotelink>
+).</text></p></li></l></p>
+<p>
+<text><emph typestyle="bf">Supreme Court</emph></text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>General Practice Notes &#x2014; SC Gen 1 (see vol 2 at 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCG.PN1" remotekey1="REFPTID" service="DOC-ID">[SC Gen 1]</remotelink>
+. This note operates as a Table of Contents and provides status information about the currency and history of all Practice Notes in the court).</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>General Practice Notes &#x2014; SC Gen 2&#x2013;15 (see vol 2 at 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCG.PN2" remotekey1="REFPTID" service="DOC-ID">[SC Gen 2]&#x2013;[SC Gen 15]</remotelink>
+).</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Common Law Division Practice Notes &#x2014; SC CL 1&#x2013;9 (see vol 2 at 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCCL.PN1" remotekey1="REFPTID" service="DOC-ID">[SC CL 1]&#x2013;[SC CL 9]</remotelink>
+).</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Equity Practice Notes &#x2014; SC Eq 1&#x2013;8 (see vol 2 at 
+<remotelink dpsi="05CC" refpt="UCPN.PN.SCE.PN1" remotekey1="REFPTID" service="DOC-ID">[SC Eq 1]&#x2013;[SC Eq 8]</remotelink>
+.)</text></p></li></l></p>
+<p>
+<text><emph typestyle="bf">District Court</emph></text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>See vol 2 at 
+<remotelink dpsi="05CC" refpt="UCPN.PN.DC1" remotekey1="REFPTID" service="DOC-ID">[DC (Civil) 1]&#x2013;[DC (Civil) 14]</remotelink>
+.</text></p></li></l></p>
+<p>
+<text><emph typestyle="bf">Local Court</emph></text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>See vol 2 at 
+<remotelink dpsi="05CC" refpt="UCPN.PN.LC.170025" remotekey1="REFPTID" service="DOC-ID" status="unval">[LC 1 of 2008]</remotelink>
+&#x2013;
+<remotelink dpsi="05CC" refpt="UCPN.PN.LC.170045" remotekey1="REFPTID" service="DOC-ID">[LC Civ 1 of 2011]</remotelink>
+.</text></p></li></l></p>
+<p>
+<text><emph typestyle="bf">Dust Diseases Tribunal</emph></text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>See 
+<remotelink href="www.dustdiseasestribunal.lawlink.nsw.gov.au/ddt/ddt_practice_procedure.html" hrefclass="http" newwindow="YES">http://www.dustdiseasestribunal.lawlink.nsw.gov.au/ddt/ddt_practice_procedure.html</remotelink>
+.</text></p></li></l></p>
+<p>
+<text><emph typestyle="bf">Land and Environment Court</emph></text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>See <emph typestyle="it">Local Government Planning and Environment Service</emph> Vol B, LexisNexis, Sydney, 1999 to date (looseleaf) at 
+<remotelink dpsi="008P" refpt="LGPENSW.LEC.259001" remotekey1="REFPTID" service="DOC-ID" status="unval">[259,001]</remotelink>
+ ff; see also 
+<remotelink href="www.lec.lawlink.nsw.gov.au/lec/practice_notes.html" hrefclass="http" newwindow="YES">http://www.lec.lawlink.nsw.gov.au/lec/practice_notes.html</remotelink>
+.</text></p></li></l></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.CPAN05.S15-15" leveltype="para0" subdoc="true" toc-caption="[s 15.15] Supreme Court Policies"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.CPAN05.S15-15" type="ext"/>[s 15.15] </edpnum><title>Supreme Court Policies</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Chief Justice of the Supreme Court has issued several policy statements relating to a range of matters that fall outside the scope of individual case management dealt with in the CPA, UCPR and Practice Notes. The policies below outline the Court's expectations of parties and the general public on matters falling outside the scope of case management. Current policy statements of the Supreme Court cover the following matters:</text>
+<l>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Court attire </text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Delays in reserved judgments</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Release of statistics, data and information </text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Media recordings in court </text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Identity theft and anonymisation</text></p></li>
+<li>
+<lilabel>&#x2022;</lilabel>
+<p><text>Courtroom use of phones and PDAs.</text></p></li></l></p>
+<p>
+<text>See 
+<remotelink href="www.supremecourt.lawlink.nsw.gov.au/supremecourt/sco2_supremecourtpolicies.html" hrefclass="http" newwindow="YES">http://www.supremecourt.lawlink.nsw.gov.au/supremecourt/sco2_supremecourtpolicies.html</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S16"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 16] s 16 Court may give directions in circumstances not covered by rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S16" type="ext"/>[s 16]</edpnum><title searchtype="SECT-TITLE">Court may give directions in circumstances not covered by rules</title><desig searchtype="SECT-NUM"><designum>16</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S16.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S16.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In relation to particular civil proceedings, the court may give directions with respect to any aspect of practice or procedure for which rules of court or practice notes do not provide.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S16.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S16.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Anything done in accordance with such a direction (including the commencing of proceedings and the taking of any step in proceedings) is taken to have been validly done.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S16.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S16-5" leveltype="para0" subdoc="true" toc-caption="[s 16.5] Directions where procedure wanting">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 16.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 14.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1999-703" remotekey1="REFPTID" service="DOC-ID">Supreme Court (Corporations) Rules 1999</remotelink> r 1.8.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S16-5" type="ext"/>[s 16.5] </edpnum><title>Directions where procedure wanting</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This section complements the discretion in CPA 
+<remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S14" remotekey1="REFPTID" service="DOC-ID">s 14</remotelink>
+ to dispense with the requirements of the rules. It expresses what would otherwise be included within the &#x201c;incidental&#x201d; power of the courts namely, their power to give directions where there is no specific procedure, either in the relevant Act, rules or forms, that deals with the particular application or proceeding &#x2014; notwithstanding that it is a matter that is clearly within the substantive jurisdiction of the court. In such a case the court (and the parties) must do the best that they can in the circumstances &#x2014; which may involve devising &#x201c;ad hoc&#x201d; procedures: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1935"/></ci:caseinfo><ci:caseref ID="cr000042" spanref="cr000042-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="36"/><ci:page num="21"/></ci:caseref><ci:caseref anaphref="cr000042" spanref="cr000042-002" status="unval"><ci:pinpoint num="29" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Browne v Cmr for Railways</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000042-001" status="unval">(1935) 36 SR (NSW) 21</ci:span> <ci:span spanid="cr000042-002" status="unval">at 29</ci:span></citefragment> <remotelink dpsi="0018" refpt="7525" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Jordan CJ (the judge must do &#x201c;the best he can with the means he has available&#x201d;); applying <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000043" spanref="cr000043-001" status="unval"><ci:reporter value="VLR"/><ci:edition><ci:date year="1910"/></ci:edition><ci:page num="137"/></ci:caseref><ci:caseref anaphref="cr000043" spanref="cr000043-002" status="unval"><ci:pinpoint num="145" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Edgar v Greenwood</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000043-001" status="unval">[1910] VLR 137</ci:span> <ci:span spanid="cr000043-002" status="unval">at 145</ci:span></citefragment> <remotelink dpsi="0018" refpt="57123" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. This principle has been applied in many cases: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000044" spanref="cr000044-001" status="unval"><ci:reporter value="KB"/><ci:volume num="1"/><ci:edition><ci:date year="1913"/></ci:edition><ci:page num="445"/></ci:caseref><ci:caseref anaphref="cr000044" spanref="cr000044-002"><ci:pinpoint num="451" targettype="page"/></ci:caseref><ci:caseref anaphref="cr000044" spanref="cr000044-003" status="unval"><ci:pinpoint num="454" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Inland Revenue Cmrs v Joicey</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000044-001" status="unval">[1913] 1 KB 445</ci:span> <ci:span spanid="cr000044-002">at 451</ci:span> <ci:span spanid="cr000044-003" status="unval">, 454&#x2013;6</ci:span></citefragment> <remotelink dpsi="0018" refpt="12012" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (court &#x201c;may direct what manner or form of procedure is to be followed, and any step taken in accordance with a direction so given shall, for the purposes of the proceedings, be regular and sufficient&#x201d;) <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1947"/></ci:caseinfo><ci:caseref ID="cr000045" spanref="cr000045-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="48"/><ci:page num="234"/></ci:caseref><ci:caseref anaphref="cr000045" spanref="cr000045-002" status="unval"><ci:pinpoint num="235" targettype="page"/></ci:caseref><ci:caseref ID="cr000046" spanref="cr000046-003" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="65"/><ci:page num="47"/></ci:caseref><ci:caseref anaphref="cr000046" spanref="cr000046-004" status="unval"><ci:pinpoint num="47" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hawke v Edwards (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000045-001" status="unval">(1947) 48 SR (NSW) 234</ci:span> <ci:span spanid="cr000045-002" status="unval">at 235</ci:span>; <ci:span spanid="cr000046-003" status="unval">65 WN (NSW) 47</ci:span> <ci:span spanid="cr000046-004" status="unval">at 47&#x2013;8</ci:span></citefragment> <remotelink dpsi="0018" refpt="57124" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000047" spanref="cr000047-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1972"/></ci:edition><ci:page num="59"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hoban v Davey</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000047-001">[1972] 1 NSWLR 59</ci:span></citefragment> <remotelink dpsi="0018" refpt="12010" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000048" spanref="cr000048-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1977"/></ci:edition><ci:page num="139"/></ci:caseref><ci:caseref anaphref="cr000048" spanref="cr000048-002" status="unval"><ci:pinpoint num="148" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bogeta Pty Ltd v Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000048-001">[1977] 1 NSWLR 139</ci:span> <ci:span spanid="cr000048-002" status="unval">at 148</ci:span></citefragment> <remotelink dpsi="0018" refpt="12011" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. There is a similar power under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.R1-8" remotekey1="REFPTID" service="DOC-ID" status="unval">r 1.8</remotelink></ci:content></ci:cite>
+ of Supreme Court (Corporations) Rules 1999 &#x2014; see 
+<remotelink dpsi="05CC" refpt="UCPN.SC.15035" remotekey1="REFPTID" service="DOC-ID" status="unval">[15,035]</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S17"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 17] s 17 Forms">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S17" type="ext"/>[s 17]</edpnum><title searchtype="SECT-TITLE">Forms</title><desig searchtype="SECT-NUM"><designum>17</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S17.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S17.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the uniform rules, the Uniform Rules Committee:</text></p>
+<l><li id="UCPN.CPA.CPAN05.S17.1.A"><lilabel><refpt id="UCPN.CPA.CPAN05.S17.1.A" type="ext"/>(a)</lilabel>
+<p><text>may approve forms for documents to be used in connection with civil proceedings, and</text></p>
+</li>
+<li id="UCPN.CPA.CPAN05.S17.1.B"><lilabel><refpt id="UCPN.CPA.CPAN05.S17.1.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of documents filed with a court, or issued by a court, by means of an ECM system within the meaning of the Electronic Transactions Act 2000, may approve the format in which such documents are to be filed or issued.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S17.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S17.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Copies of the approved forms are to be made available for public inspection at each registry of the court concerned and on the court&#x2019;s internet website.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S17.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S17.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a form is approved in relation to a document to be used in connection with proceedings in a court, a document that is filed with or issued by the court is to be in that form.</text></p>
+<p><glp:note>
+<heading><title>NOTE:</title></heading>
+<p>
+<text>See 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S80" remotekey1="REFPTID" service="DOC-ID">section 80 </remotelink></ci:content></ci:cite>
+of the Interpretation Act 1987 with respect to compliance with approved forms.</text></p></glp:note></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.CPA.CPAN05.S17.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_CPA.SGM_UCPN.CPA.S17-5" leveltype="para0" subdoc="true" toc-caption="[s 17.5] Approved forms">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 17.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1979-204" remotekey1="REFPTID" service="DOC-ID">Land and Environment Court Act 1979</remotelink> s 77A(1).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S17-5" type="ext"/>[s 17.5] </edpnum><title>Approved forms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved forms for general use in civil proceedings are set out behind the guide card &#x201c;Forms&#x201d;.</text></p>
+<p>
+<text>The approved forms are also available on, and can be completed from, the <emph typestyle="bf">Lawlink</emph> website at: 
+<remotelink href="www.lawlink.nsw.gov.au/lawlink/spu/ll_ucpr.nsf/pages/ucpr_forms" hrefclass="http" newwindow="YES">http://www.lawlink.nsw.gov.au/lawlink/spu/ll_ucpr.nsf/pages/ucpr_forms</remotelink>
+.</text></p>
+<p>
+<text>A small number of additional forms, approved under Land and Environment Court Act 1979 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.LECA79.S77A.1" remotekey1="REFPTID" service="DOC-ID" status="unval">s 77A(1)</remotelink></ci:content></ci:cite>
+, apply to proceedings in the Land and Environment Court from 1 July 2008. Those forms can also be found on the <emph typestyle="bf">Lawlink</emph> website at 
+<remotelink href="www.lawlink.nsw.gov.au/lawlink/spu/ll_ucpr.nsf/pages/ucpr_forms" hrefclass="http" newwindow="YES">http://www.lawlink.nsw.gov.au/lawlink/spu/ll_ucpr.nsf/pages/ucpr_forms</remotelink>
+.</text></p>
+<p>
+<text>The <emph typestyle="bf">Lawlink</emph> website also contains general information and guidelines about the use of the approved forms: 
+<remotelink href="www.lawlink.nsw.gov.au/lawlink/spu/ll_ucpr.nsf/pages/ucpr_form_info" hrefclass="http" newwindow="YES">http://www.lawlink.nsw.gov.au/lawlink/spu/ll_ucpr.nsf/pages/ucpr_form_info</remotelink>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_CPA.SGM_UCPN.CPA.S17-10" leveltype="para0" subdoc="true" toc-caption="[s 17.10] Substantial compliance with approved forms">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [s 17.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1987-15" remotekey1="REFPTID" service="DOC-ID">Interpretation Act 1987</remotelink> s 80(1).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 21.10, r 34.1.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 14.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.CPA.S17-10" type="ext"/>[s 17.10] </edpnum><title>Substantial compliance with approved forms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Use of the approved forms is both efficient and typically, a matter of practical convenience.</text></p>
+<p>
+<text>The approved forms should only be used in the situations contemplated by the rules to which the particular form relates: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000049" spanref="cr000049-001" status="unval"><ci:reporter value="LloydsRep"/><ci:volume num="1"/><ci:edition><ci:date year="1967"/></ci:edition><ci:page num="543"/></ci:caseref><ci:caseref anaphref="cr000049" spanref="cr000049-002" status="unval"><ci:pinpoint num="548" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Cap Bon</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000049-001" status="unval">[1967] 1 Lloyd&#x2019;s Rep 543</ci:span> <ci:span spanid="cr000049-002" status="unval">at 548</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+<p>
+<text>If an approved form does not fully reflect the scope of the apparently relevant rule, it applies subject to, and cannot limit, the operation of the rule.</text></p>
+<p>
+<text>If there is no approved form for a particular procedure or application, its absence does not render the relevant provision ineffective: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000050" spanref="cr000050-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1989"/></ci:edition><ci:page num="214"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Catlow v Accident Compensation Commission</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000050-001">[1989] VR 214</ci:span></citefragment> <remotelink dpsi="0018" refpt="13422" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (no form prescribed for the exercise of a right of appeal). In such a case the procedure must be moulded to suit the particular circumstances: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000051" spanref="cr000051-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1924"/></ci:edition><ci:page num="1011"/></ci:caseref><ci:caseref anaphref="cr000051" spanref="cr000051-002" status="unval"><ci:pinpoint num="1015" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attorney-General (Ontario) v Daly</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000051-001" status="unval">[1924] AC 1011</ci:span> <ci:span spanid="cr000051-002" status="unval">at 1015</ci:span></citefragment> <remotelink dpsi="0018" refpt="164751" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1947"/></ci:caseinfo><ci:caseref ID="cr000052" spanref="cr000052-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="65"/><ci:page num="9"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Moate v Dartnell</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000052-001" status="unval">(1947) 65 WN (NSW) 9</ci:span></citefragment> <remotelink dpsi="0018" refpt="57118" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+<p>
+<text>Substantial, rather than strict compliance with the approved forms is required: see Interpretation Act 1987 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.OLNSW.IAN.S80.1" remotekey1="REFPTID" service="DOC-ID">s 80(1)</remotelink></ci:content></ci:cite>
+. The use of a wrong form will not invalidate the action it evidences if there has been substantial compliance with the requirements of the relevant rule and a reasonable recipient is unlikely to have been misled by its contents: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000053" spanref="cr000053-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC201205570"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Welker v Rinehart</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 839; <ci:span spanid="cr000053-001" status="unval"> BC201205570</ci:span></citefragment> <remotelink dpsi="0018" refpt="558781" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (notice to produce for inspection under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R21-10" remotekey1="REFPTID" service="DOC-ID">r 21.10</remotelink></ci:content></ci:cite>
+ issued using form 24 relating to production to the court under UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R34.1" remotekey1="REFPTID" service="DOC-ID" status="unval">r 34.1</remotelink></ci:content></ci:cite>
+ &#x2014; notice substantially complied with the requirements of UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R21-10" remotekey1="REFPTID" service="DOC-ID">r 21.10</remotelink></ci:content></ci:cite>
+).</text></p>
+<p>
+<text>Departures from the approved forms may be necessary from time to time to accommodate the proper application of the rules to particular situations: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1840"/></ci:caseinfo><ci:caseref ID="cr000054" spanref="cr000054-001" status="unval"><ci:reporter value="AdEl"/><ci:volume num="12"/><ci:page num="210"/></ci:caseref><ci:caseref anaphref="cr000054" spanref="cr000054-002" status="unval"><ci:pinpoint num="226" targettype="page"/></ci:caseref><ci:caseref ID="cr000055" spanref="cr000055-003" status="unval"><ci:reporter value="ER"/><ci:volume num="113"/><ci:page num="792"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Baines</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000054-001" status="unval">(1840) 12 Ad &amp; El 210</ci:span> <ci:span spanid="cr000054-002" status="unval">at 226</ci:span>; <ci:span spanid="cr000055-003" status="unval">113 ER 792</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+<p>
+<text>In addition, there is a general discretion to relieve from the requirements of the Rules (see CPA 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S14" remotekey1="REFPTID" service="DOC-ID">s 14</remotelink></ci:content></ci:cite>
+).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

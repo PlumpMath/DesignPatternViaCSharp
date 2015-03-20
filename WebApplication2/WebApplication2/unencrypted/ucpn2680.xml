@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>TO</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_640</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>T</title></heading>
+<docinfo:hierlev role="me"><heading><title>TO</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110900</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_640" /><docinfo:metaitem name="parent-filename" value="ucpn268.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="30" month="05" year="2013">30 May 2013</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>TO</title></heading>
+<in:lev1 id="UCPN_IND_640" subdoc="true" toc-caption="Tort"><in:entry><in:entry-text><refpt id="TORT" type="ext"><emph typestyle="bf">Tort</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>committed in NSW</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- service of process outside Australia <remotelink dpsi="05CC" refpt="UCPN.UCPR.11-2-32" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021105.xml">[11.2.32]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>assessment for different causes of action <remotelink dpsi="05CC" refpt="UCPN.UCPR.11-2-32" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021105.xml">[11.2.32]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>Crown, person in the service of</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.OL.LRVLAN83.S5" remotekey1="REFPTID" service="DOC-ID" filename="ol10521000.xml">[370,020]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- police officer <remotelink dpsi="05CC" refpt="UCPN.OL.LRVLAN83.S6" remotekey1="REFPTID" service="DOC-ID" filename="ol10521000.xml">[370,025]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- vicarious liability for tort by <remotelink dpsi="05CC" refpt="UCPN.OL.LRVLAN83.S8" remotekey1="REFPTID" service="DOC-ID" filename="ol10521006.xml">[370,035]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>statutory exemptions <remotelink dpsi="05CC" refpt="UCPN.OL.LRVLAN83.S9A" remotekey1="REFPTID" service="DOC-ID" filename="ol10521009.xml">[370,045]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>joinder of causes of action <remotelink dpsi="05CC" refpt="UCPN.OL.LRMP.S2" remotekey1="REFPTID" service="DOC-ID" filename="ol10481003.xml">[360,055]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>joinder of defendants <remotelink dpsi="05CC" refpt="UCPN.OL.LRMP.S2" remotekey1="REFPTID" service="DOC-ID" filename="ol10481003.xml">[360,055]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>judgment against joint tortfeasors <remotelink dpsi="05CC" refpt="UCPN.CPA.S95-25" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001051.xml">[s 95.25]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>limitation of actions in <remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S14" remotekey1="REFPTID" service="DOC-ID" filename="ol10581006.xml">[385,125]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>loss or deprivation of consortium, as result of</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- abolition of action for damages <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.SCH2" remotekey1="REFPTID" service="DOC-ID" filename="ol10061150.xml">[271,350]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>maintenance or champerty, abolition of <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.SCH2" remotekey1="REFPTID" service="DOC-ID" filename="ol10061150.xml">[271,350]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>statement of claim <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R6-3" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021036.xml">[r 6.3]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_641" subdoc="true" toc-caption="Tortfeasors"><in:entry><in:entry-text><refpt id="TORTFEASORS" type="ext"><emph typestyle="bf">Tortfeasors</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>contribution between <remotelink dpsi="05CC" refpt="UCPN.OL.LRMP.S5" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100]</remotelink></in:entry-text></in:entry>
+
+
+<in:lev3><in:entry><in:entry-text>- contributory negligence <remotelink dpsi="05CC" refpt="UCPN.OL.LRMP65N.S12" remotekey1="REFPTID" service="DOC-ID" filename="ol10501003.xml">[365,085]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- costs <remotelink dpsi="05CC" refpt="UCPN.OL.360100-20" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- entitlement to claim <remotelink dpsi="05CC" refpt="UCPN.OL.360100-10" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- indemnifying party, no contribution against <remotelink dpsi="05CC" refpt="UCPN.OL.360100-25" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- joint and concurrent tortfeasors [23,525]- [23,525.30], <remotelink dpsi="05CC" refpt="UCPN.OL.360100-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- liability for same damage <remotelink dpsi="05CC" refpt="UCPN.OL.360100-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- limitation of actions <remotelink dpsi="05CC" refpt="UCPN.OL.LAN.S26" remotekey1="REFPTID" service="DOC-ID" filename="ol10581006.xml">[385,140]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- non-tortious liability <remotelink dpsi="05CC" refpt="UCPN.OL.360100-30" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+
+
+<in:lev3><in:entry><in:entry-text>- release of joint tortfeasor <remotelink dpsi="05CC" refpt="UCPN.OL.360100-15" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- several concurrent tortfeasors [23,525.15], <remotelink dpsi="05CC" refpt="UCPN.OL.360100-5" remotekey1="REFPTID" service="DOC-ID" filename="ol10481006.xml">[360,100.5]</remotelink></in:entry-text></in:entry>
+
+</in:lev3>
+
+
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

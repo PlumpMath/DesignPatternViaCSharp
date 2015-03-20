@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 3 PROCEDURAL AND OTHER MATTERS [ss 11&#x2013;16]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CRA.PT3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CONTRACTS REVIEW ACT 1980 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 3 PROCEDURAL AND OTHER MATTERS [ss 11&#x2013;16]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140090020</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CRA"/><docinfo:metaitem name="parent-filename" value="ol1018.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 16, 1980</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CONTRACTS REVIEW ACT 1980 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.CRA.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.CRA.PT3"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3 PROCEDURAL AND OTHER MATTERS [ss 11&#x2013;16]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CRA.PT3" type="ext"/>PART 3</designum></desig><title searchtype="PART-TITLE">PROCEDURAL AND OTHER MATTERS [ss 11&#x2013;16]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,140] s 11 Application for relief">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S11" type="ext"/>[295,140]</edpnum><title searchtype="SECT-TITLE">Application for relief</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may exercise its powers under this Act in relation to a contract on application made to it in accordance with rules of court whether in:</text></p>
+<l><li id="UCPN.OL.CRA.S11.1.A"><lilabel><refpt id="UCPN.OL.CRA.S11.1.A" type="ext"/>(a)</lilabel>
+<p><text>proceedings commenced under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CRA.S11.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ in relation to the contract; or</text></p>
+</li>
+<li id="UCPN.OL.CRA.S11.1.B"><lilabel><refpt id="UCPN.OL.CRA.S11.1.B" type="ext"/>(b)</lilabel>
+<p><text>other proceedings arising out of or in relation to the contract.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings may be commenced in the Court for the purpose of obtaining relief under this Act in relation to a contract.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S12"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,145] s 12 Interests of non-parties to contract">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S12" type="ext"/>[295,145]</edpnum><title searchtype="SECT-TITLE">Interests of non-parties to contract</title><desig searchtype="SECT-NUM"><designum>12</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.S12.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S12.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where in proceedings for relief under this Act in relation to a contract it appears to the Court that a person who is not a party to the contract has shared in, or is entitled to share in, benefits derived or to be derived from the contract, it may make such orders against or in favour of that person as may be just in the circumstances.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S12.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CRA.S12.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court shall not exercise its powers under this Act in relation to a contract unless it is satisfied:</text></p>
+<l><li id="UCPN.OL.CRA.S12.2.A"><lilabel><refpt id="UCPN.OL.CRA.S12.2.A" type="ext"/>(a)</lilabel>
+<p><text>that the exercise of those powers would not prejudice the rights of a person who is not a party to the contract; or</text></p>
+</li>
+<li id="UCPN.OL.CRA.S12.2.B"><lilabel><refpt id="UCPN.OL.CRA.S12.2.B" type="ext"/>(b)</lilabel>
+<p><text>that, if any such rights would be so prejudiced, it would not be unjust in all the circumstances to exercise those powers,</text></p>
+</li>
+</l>
+<p><text>but this subsection does not apply in relation to such a person if the Court has given the person an opportunity to appear and be heard in the proceedings.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 121 of 1996    s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S13"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,150] s 13 Intervention">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S13" type="ext"/>[295,150]</edpnum><title searchtype="SECT-TITLE">Intervention</title><desig searchtype="SECT-NUM"><designum>13</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Minister or the Attorney General, or both, may, at any stage of any proceedings in which relief under this Act is sought, intervene by an Australian legal practitioner or agent, and shall thereupon become a party or parties to the proceedings and have all the rights of a party or parties to those proceedings in the Court, including any right of appeal arising in relation to those proceedings.</text></p>
+<leg:histnote>
+<p><text>[s 13  am Act 98 of 2005 s 3 and Sch 3.12, effective 24 November 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S14"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,155] s 14 Fully executed contracts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S14" type="ext"/>[295,155]</edpnum><title searchtype="SECT-TITLE">Fully executed contracts</title><desig searchtype="SECT-NUM"><designum>14</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may grant relief in accordance with this Act in relation to a contract notwithstanding that the contract has been fully executed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S15"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,160] s 15 Arrangements">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S15" type="ext"/>[295,160]</edpnum><title searchtype="SECT-TITLE">Arrangements</title><desig searchtype="SECT-NUM"><designum>15</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings in which relief under this Act is sought in relation to a contract, the Court may, if it thinks it proper to do so in the circumstances of the case, and it is of the opinion that the contract forms part of an arrangement consisting of an inter-related combination or series of contracts, have regard to any or all of those contracts and the arrangement constituted by them.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.S16"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[295,165] s 16 Time for making applications for relief">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CRA.S16" type="ext"/>[295,165]</edpnum><title searchtype="SECT-TITLE">Time for making applications for relief</title><desig searchtype="SECT-NUM"><designum>16</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for relief under this Act in relation to a contract may be made only during any of the following periods:</text></p>
+<l><li id="UCPN.OL.CRA.S16..A"><lilabel><refpt id="UCPN.OL.CRA.S16..A" type="ext"/>(a)</lilabel>
+<p><text>the period of 2 years after the date on which the contract was made;</text></p>
+</li>
+<li id="UCPN.OL.CRA.S16..B"><lilabel><refpt id="UCPN.OL.CRA.S16..B" type="ext"/>(b)</lilabel>
+<p><text>the period of 3 months before or 2 years after the time for the exercise or performance of any power or obligation under, or the occurrence of any activity contemplated by, the contract; and</text></p>
+</li>
+<li id="UCPN.OL.CRA.S16..C"><lilabel><refpt id="UCPN.OL.CRA.S16..C" type="ext"/>(c)</lilabel>
+<p><text>the period of the pendency of maintainable proceedings arising out of or in relation to the contract, being proceedings (including cross-claims, whether in the nature of set-off, cross-action or otherwise) that are pending against the party seeking relief under this Act.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;4A]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.JURAN.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>JURY ACT 1977 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;4A]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140210000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.JURAN"/><docinfo:metaitem name="parent-filename" value="ol1042.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">JURY ACT 1977 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1977</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 18, 1977</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Jury Act 1977 No 18 was assented to 24 March 1977 and commenced 1 July 1977. Since that date the Act has been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Prisons (Amendment) Act 1978 No 155</entry><entry colname="c2">29 December 1978</entry><entry colname="c3">Sch 4: 19 March 1979 (Gaz 29 of 16 March 1979 p 1171)</entry></row>
+<row><entry colname="c1">Coroners Act 1980 No 27</entry><entry colname="c2">16 April 1980</entry><entry colname="c3">Sch 2: 1 July 1980 (Gaz 89 of 27 June 1980 p 3211)</entry></row>
+<row><entry colname="c1">Jury (Coroners) Amendment Act 1980 No 31</entry><entry colname="c2">16 April 1980</entry><entry colname="c3">s 3: 1 July 1980 (Gaz 89 of 27 June 1980 p 3211)</entry></row>
+<row><entry colname="c1">Jury (Amendment) Act 1981 No 34</entry><entry colname="c2">15 May 1981</entry><entry colname="c3">15 May 1981</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Mental Health) Repeal and Amendment Act 1983 No 181</entry><entry colname="c2">31 December 1983</entry><entry colname="c3">s 4 and Sch 1: on proc</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1985 No 231</entry><entry colname="c2">8 December 1985</entry><entry colname="c3">s 5 and Sch 12: 8 December 1985</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Public Prosecutions) Amendment Act 1986 No 212</entry><entry colname="c2">23 December 1986</entry><entry colname="c3">ss 3, 5 and Sch 1: 13 July 1987 (Gaz 117 of 10 December 1986 p 3860)</entry></row>
+<row><entry colname="c1">Jury (Amendment) Act 1987 No 286 as amended by Statute Law (Miscellaneous Provisions) Act 1988 No 20</entry><entry colname="c2">16 December 1987</entry><entry colname="c3">Sch 1(5), (6), (22) and (23): 29 February 1988 (Gaz 33 of 19 February 1988 p 930); remainder: 13 January 1988</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1988 No 20</entry><entry colname="c2">28 June 1988</entry><entry colname="c3">28 June 1988</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 3) 1988 No 131</entry><entry colname="c2">30 December 1988</entry><entry colname="c3">Sch 12: 7 April 1989 (Gaz 37 of 31 March 1989 p 1604)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1989 No 89</entry><entry colname="c2">13 June 1989</entry><entry colname="c3">ss 3, 5 and Schs 2, 4: 13 June 1989</entry></row>
+<row><entry colname="c1">Fire Brigades Act 1989 No 192</entry><entry colname="c2">19 December 1989</entry><entry colname="c3">s 86 and Sch 3: 1 January 1990 (Gaz 124 of 22 December 1989)</entry></row>
+<row><entry colname="c1">Crimes (Public Justice) Amendment Act 1990 No 51</entry><entry colname="c2">18 September 1990</entry><entry colname="c3">s 4 and Sch 2: 25 November 1990 (Gaz 141 of 9 November 1990)</entry></row>
+<row><entry colname="c1">Criminal Procedure Legislation (Amendment) Act 1990 No 74</entry><entry colname="c2">4 December 1990</entry><entry colname="c3">17 March 1991 (Gaz 37 of 1 March 1991)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1990 No 108</entry><entry colname="c2">13 December 1990</entry><entry colname="c3">s 3 and Sch 1: 1 March 1991 (Gaz 33 of 22 February 1991)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 3) 1992 No 111</entry><entry colname="c2">8 December 1992</entry><entry colname="c3">8 December 1992</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1993 No 46</entry><entry colname="c2">15 June 1993</entry><entry colname="c3">15 June 1993</entry></row>
+<row><entry colname="c1">Mines Rescue Act 1994 No 13</entry><entry colname="c2">10 May 1994</entry><entry colname="c3">8 July 1994 (Gaz 90 of 8 July 1994 p 3463)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1994 No 95</entry><entry colname="c2">12 December 1994</entry><entry colname="c3">12 December 1994</entry></row>
+<row><entry colname="c1">Public Defenders Act 1995 No 28</entry><entry colname="c2">19 June 1995</entry><entry colname="c3">1 July 1995 (Gaz 79 of 30 June 1995 p 3435)</entry></row>
+<row><entry colname="c1">Jury Amendment Act 1996 No 4</entry><entry colname="c2">13 May 1996</entry><entry colname="c3">8 November 1996</entry></row>
+<row><entry colname="c1">Jury Amendment (Qualifications) Regulation 1996 SR 642</entry><entry colname="c2"/><entry colname="c3">1 January 1997</entry></row>
+<row><entry colname="c1">Jury Amendment Act 1997 No 15</entry><entry colname="c2">29 May 1997</entry><entry colname="c3">1 July 1998</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1998 No 49</entry><entry colname="c2">29 June 1998</entry><entry colname="c3">3 August 1998</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1999 No 39</entry><entry colname="c2">8 July 1999</entry><entry colname="c3">Sch 3: 1 September 1999</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1999 No 85</entry><entry colname="c2">3 December 1999</entry><entry colname="c3">3 December 1999</entry></row>
+<row><entry colname="c1">Crimes Legislation Amendment (Sentencing) Act 1999 No 94</entry><entry colname="c2">8 December 1999</entry><entry colname="c3">Sch 4.124: 1 January 2000; Sch 4.34: 3 April 2000</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2000 No 31</entry><entry colname="c2">14 June 2000</entry><entry colname="c3">25 September 2000</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2001 No 85</entry><entry colname="c2">28 November 2001</entry><entry colname="c3">Sch 4: 18 January 2002</entry></row>
+<row><entry colname="c1">Community Services Legislation Amendment Act 2002 No 42</entry><entry colname="c2">3 July 2002</entry><entry colname="c3">1 December 2002 (Gaz 237 of 29 November 2002 p 10,061)</entry></row>
+<row><entry colname="c1">Australian Crime Commission (New South Wales) Act 2003 No 13</entry><entry colname="c2">30 June 2003</entry><entry colname="c3">30 June 2003</entry></row>
+<row><entry colname="c1">Justices Legislation Repeal and Amendment Act 2001 No 121</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">7 July 2001 (Gaz 104 of 27 June 2003 p 5978)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2003 No 71</entry><entry colname="c2">20 November 2003</entry><entry colname="c3">1 Jan 2004 (Gaz 196 of 12 December 2003 p 11172)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2004 No 68</entry><entry colname="c2">6 July 2004</entry><entry colname="c3">6 July 2004</entry></row>
+<row><entry colname="c1">Jury Amendment Act 2004 No 102</entry><entry colname="c2">15 December 2004</entry><entry colname="c3">15 December 2004</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2005 No 31</entry><entry colname="c2">15 June 2005</entry><entry colname="c3">ss 1&#x2013;3 and Sch 6: 15 June 2005</entry></row>
+<row><entry colname="c1">Sheriff Act 2005 No 6</entry><entry colname="c2">10 March 2005</entry><entry colname="c3">Sch 1.2: 1 July 2005 (Gaz 77 of 24 June 2005 p 2954)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2005 No 98</entry><entry colname="c2">Gaz 148 of 2 December 2005, p 9860</entry><entry colname="c3">24 November 2005</entry></row>
+<row><entry colname="c1">Jury Amendment (Verdicts) Act 2006 No 19</entry><entry colname="c2">15 May 2006</entry><entry colname="c3">26 May 2006 (Gaz 68 of 26 May 2006 p 3165)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2006 No 120</entry><entry colname="c2">4 December 2006</entry><entry colname="c3">4 December 2006</entry></row>
+<row><entry colname="c1">Jury Amendment Act 2007 No 58</entry><entry colname="c2">15 November 2007</entry><entry colname="c3">1 January 2008</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 2: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">Jury Amendment Act 2008 No 24</entry><entry colname="c2">11 June 2008</entry><entry colname="c3">1 July 2008</entry></row>
+<row><entry colname="c1">Jury Amendment Act 2010 No 55</entry><entry colname="c2">28 June 2010</entry><entry colname="c3">Sch 1[17]: 1 August 2010 (LW 28 July 2010)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2011 No 62</entry><entry colname="c2">16 November 2011</entry><entry colname="c3">6 January 2012</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.JURAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.JURAN" type="ext"/>JURY ACT 1977 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>AN ACT to amend and consolidate the law relating to juries; to repeal the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.JUR" remotekey1="REFPTID" service="DOC-ID" status="unval">Jury Act 1912</remotelink></ci:content></ci:cite>
+ , and certain other Acts; and to amend the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MHA58" remotekey1="REFPTID" service="DOC-ID" status="unval">Mental Health Act 1958</remotelink></ci:content></ci:cite>
+ , the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CORAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Coroners Act 1960</remotelink></ci:content></ci:cite>
+ , and the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink></ci:content></ci:cite>
+ .</text></p>
+<p>
+<text>BE it enacted by the Queen's Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of New South Wales in Parliament assembled, and by the authority of the same, as follows:&#x2014;</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.JURAN.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;4A]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.JURAN.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;4A]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<footnotegrp><footnote fnrtokens="UCPN.OL.JCCA.S6.FT1-R" fntoken="UCPN.OL.JCCA.S6.FT1" type="default"><fnlabel>*</fnlabel><fnbody>
+<h>Editor's note:</h>
+<p><refpt id="UCPN.OL.JCCA.S6.FT1" type="ext"/>
+<text>Section 4 of Act 62 of 1992 provides as follows: </text>
+<blockquote><legfragment>
+<leg:level>
+<leg:level-vrnt leveltype="sect">
+<leg:heading inline="true"><title>Application</title><desig><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Despite the amendments of the Jurisdiction of Courts (Cross-vesting) Act 1987 made by this Act, that Act as in force immediately before the commencement of those amendments continues to apply in relation to a proceeding pending in a court to which section 6 of that Act applied before that commencement.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</legfragment></blockquote>
+</p></fnbody></footnote></footnotegrp>
+</leg:bodytext>
+<leg:level id="UCPN.OL.JURAN.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,000] s 1 Short title">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S1" type="ext"/>[345,000]</edpnum><title searchtype="SECT-TITLE">Short title</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the Jury Act 1977.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S2" type="ext"/>[345,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section and section 1 shall commence on the date of assent to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as provided in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S2.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.SCH8" remotekey1="REFPTID" service="DOC-ID">Schedule 8</remotelink></ci:content></ci:cite>
+ , this Act shall commence on such day as may be appointed by the Governor in respect thereof and as may be notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,007] s 3">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S3" type="ext"/>[345,007]</edpnum><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 3  rep Act 286 of 1987  s 3 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,010] s 4 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S4" type="ext"/>[345,010]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.JURAN.S4.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act, except in so far as the context or subject-matter otherwise indicates or requires&#x2014;</text></p>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.CIVIL-PROCEEDINGS"><defterm><refpt id="UCPN.OL.JURAN.S4.1.CIVIL-PROCEEDINGS" type="ext"/><emph typestyle="bf">Civil proceedings</emph></defterm> <defdesc>
+<p><text>means proceedings&#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S4.1.CIVIL-PROCEEDINGS.A"><lilabel><refpt id="UCPN.OL.JURAN.S4.1.CIVIL-PROCEEDINGS.A" type="ext"/>(a)</lilabel>
+<p><text>in the Supreme Court on a claim for relief within the meaning of the Supreme Court Act 1970, or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S4.1.CIVIL-PROCEEDINGS.B"><lilabel><refpt id="UCPN.OL.JURAN.S4.1.CIVIL-PROCEEDINGS.B" type="ext"/>(b)</lilabel>
+<p><text>in the District Court in its civil jurisdiction;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.CORONIAL-INQUEST"><defterm><refpt id="UCPN.OL.JURAN.S4.1.CORONIAL-INQUEST" type="ext"/><emph typestyle="bf">coronial inquest</emph></defterm> <defdesc>
+<p><text>means an inquest or inquiry held before a coroner and a jury pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.COR.S18" remotekey1="REFPTID" service="DOC-ID" status="unval">section 18</remotelink></ci:content></ci:cite>
+ of the Coroners Act 1980;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 31 of 1980  s 3]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.CRIMINAL-PROCEEDINGS"><defterm><refpt id="UCPN.OL.JURAN.S4.1.CRIMINAL-PROCEEDINGS" type="ext"/><emph typestyle="bf">criminal proceedings</emph></defterm> <defdesc>
+<p><text>means proceedings&#x2014;</text></p>
+<l><li id="UCPN.OL.JURAN.S4.1.CRIMINAL-PROCEEDINGS.A"><lilabel><refpt id="UCPN.OL.JURAN.S4.1.CRIMINAL-PROCEEDINGS.A" type="ext"/>(a)</lilabel>
+<p><text>for the prosecution of offenders on indictment; or</text></p>
+</li>
+<li id="UCPN.OL.JURAN.S4.1.CRIMINAL-PROCEEDINGS.B"><lilabel><refpt id="UCPN.OL.JURAN.S4.1.CRIMINAL-PROCEEDINGS.B" type="ext"/>(b)</lilabel>
+<p><text>under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MHA58.S23" remotekey1="REFPTID" service="DOC-ID" status="unval">section 23</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.MHA58.S26" remotekey1="REFPTID" service="DOC-ID" status="unval">26</remotelink></ci:content></ci:cite>
+ of the Mental Health Act 1958;</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.DRAFT-JURY-ROLL"><defterm><refpt id="UCPN.OL.JURAN.S4.1.DRAFT-JURY-ROLL" type="ext"/><emph typestyle="bf">draft jury roll</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.ELECTORAL-DISTRICT"><defterm><refpt id="UCPN.OL.JURAN.S4.1.ELECTORAL-DISTRICT" type="ext"/><emph typestyle="bf">electoral district</emph></defterm> <defdesc>
+<p><text>has the meaning ascribed thereto in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PEEN" remotekey1="REFPTID" service="DOC-ID" status="unval">Parliamentary Electorates and Elections Act 1912</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.GENERAL-JURY-PRECEPT"><defterm><refpt id="UCPN.OL.JURAN.S4.1.GENERAL-JURY-PRECEPT" type="ext"/><emph typestyle="bf">general jury precept</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.IDENTIFICATION-NUMBER"><defterm><refpt id="UCPN.OL.JURAN.S4.1.IDENTIFICATION-NUMBER" type="ext"/><emph typestyle="bf">identification number</emph></defterm> <defdesc>
+<p><text>of a person means the identification number allocated to the person under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S29" remotekey1="REFPTID" service="DOC-ID">section 29</remotelink></ci:content></ci:cite>
+ .</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 15 of 1997  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.INDICTMENT"><defterm><refpt id="UCPN.OL.JURAN.S4.1.INDICTMENT" type="ext"/><emph typestyle="bf">indictment</emph></defterm> <defdesc>
+<p><text>includes any information presented or filed as provided by law for the prosecution of offenders;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.JURY-PERIOD"><defterm><refpt id="UCPN.OL.JURAN.S4.1.JURY-PERIOD" type="ext"/><emph typestyle="bf">jury period</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.JURY-POOL"><defterm><refpt id="UCPN.OL.JURAN.S4.1.JURY-POOL" type="ext"/><emph typestyle="bf">jury pool</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.JURY-POOL-PRECEPT"><defterm><refpt id="UCPN.OL.JURAN.S4.1.JURY-POOL-PRECEPT" type="ext"/><emph typestyle="bf">jury pool precept</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.JURY-ROLL"><defterm><refpt id="UCPN.OL.JURAN.S4.1.JURY-ROLL" type="ext"/><emph typestyle="bf">jury roll</emph></defterm> <defdesc>
+<p><text>, in relation to any jury district, means the jury roll certified as in force for the time being for that district under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S16" remotekey1="REFPTID" service="DOC-ID">section 16</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.POOL-JUDGE"><defterm><refpt id="UCPN.OL.JURAN.S4.1.POOL-JUDGE" type="ext"/><emph typestyle="bf">pool judge</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.POOL-OFFICER"><defterm><refpt id="UCPN.OL.JURAN.S4.1.POOL-OFFICER" type="ext"/><emph typestyle="bf">pool officer</emph></defterm></defitem></deflist><leg:histnote>
+<p><text>[def  rep Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.REGULATION"><defterm><refpt id="UCPN.OL.JURAN.S4.1.REGULATION" type="ext"/><emph typestyle="bf">regulation</emph></defterm> <defdesc>
+<p><text>means a regulation made under this Act;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.SUMMONS"><defterm><refpt id="UCPN.OL.JURAN.S4.1.SUMMONS" type="ext"/><emph typestyle="bf">summons</emph></defterm> <defdesc>
+<p><text>means a summons issued under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S26" remotekey1="REFPTID" service="DOC-ID">section 26</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.SUPPLEMENTARY-JURY-ROLL"><defterm><refpt id="UCPN.OL.JURAN.S4.1.SUPPLEMENTARY-JURY-ROLL" type="ext"/><emph typestyle="bf">supplementary jury roll</emph></defterm> <defdesc>
+<p><text>for a district has the meaning given in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.JURAN.S12.4" remotekey1="REFPTID" service="DOC-ID">section 12(4)</remotelink></ci:content></ci:cite>
+ ;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.TRIAL"><defterm><refpt id="UCPN.OL.JURAN.S4.1.TRIAL" type="ext"/><emph typestyle="bf">trial</emph></defterm> <defdesc>
+<p><text>means a trial by or with a jury in any criminal or civil proceedings;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.JURAN.S4.1.VERDICT"><defterm><refpt id="UCPN.OL.JURAN.S4.1.VERDICT" type="ext"/><emph typestyle="bf">verdict</emph></defterm> <defdesc>
+<p><text>includes an assessment in civil proceedings.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[subs (1)  am Act 46 of 1993  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S4.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to the deletion of a person from a supplementary jury roll or a jury roll is a reference to the deletion of the name of, and other particulars relating to, the person from that roll.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 4 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S4.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act to an electoral district includes a reference to a part of an electoral district.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  insrt Act 231 of 1985  s 5 and Sch 12 ; am Act 46 of 1993  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S4.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.JURAN.S4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes included in this Act do not form part of this Act.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  insrt Act 98 of 2005  s 3 and Sch 2[33] , effective 24 November 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.JURAN.S4A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[345,015] s 4A Application of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.JURAN.S4A" type="ext"/>[345,015]</edpnum><title searchtype="SECT-TITLE">Application of Act</title><desig searchtype="SECT-NUM"><designum>4A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Act applies to or with respect to a jury for an inquest concerning a death or suspected death caused or suspected by the coroner of having been caused by an explosion or accident in or about a mine situated wholly or partly in the Broken Hill Jury District.</text></p>
+<leg:histnote>
+<p><text>[s 4A  insrt Act 31 of 1980  s 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

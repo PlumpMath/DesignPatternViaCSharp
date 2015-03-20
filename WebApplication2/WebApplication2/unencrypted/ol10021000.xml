@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART I PRELIMINARY [rr 1&#x2013;6A]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.ADR88.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>ADMIRALTY RULES 1988 (CTH)</title></heading><docinfo:hierlev role="me"><heading><title>PART I PRELIMINARY [rr 1&#x2013;6A]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140010000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.ADR88"/><docinfo:metaitem name="parent-filename" value="ol1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">ADMIRALTY RULES 1988 (CTH)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1988</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 269, 1988</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">CTH</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Admiralty Rules 1988 SR 269 commenced 1 January 1989, as amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Gazette</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Admiralty Rules (Amendment) 1990 SR 392</entry><entry colname="c2">6 December 1990</entry><entry colname="c3">6 December 1990</entry></row>
+<row><entry colname="c1">Admiralty Rules (Amendment) 1993 SR 327</entry><entry colname="c2">10 December 1993</entry><entry colname="c3">10 December 1993</entry></row>
+<row><entry colname="c1">Admiralty Rules (Amendment) 1996 SR 215</entry><entry colname="c2">Gaz S 362 of 2 October 1996</entry><entry colname="c3">2 October 1996</entry></row>
+<row><entry colname="c1">Admiralty Amendment Rules 2002 (No 1) SR 109</entry><entry colname="c2">Gaz S 183 of 5 June 2002</entry><entry colname="c3">5 June 2002</entry></row>
+<row><entry colname="c1">Admiralty Amendment Rules 2006 (No 1) SR 287</entry><entry colname="c2">17 November 2006</entry><entry colname="c3">18 November 2006</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.ADR88.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.ADR88" type="ext"/>ADMIRALTY RULES 1988 (CTH)</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART I PRELIMINARY [rr 1&#x2013;6A]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.ADR88.PT1" type="ext"/>PART I</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [rr 1&#x2013;6A]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[255,000] r 1 Name of Rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R1" type="ext"/>[255,000]</edpnum><title searchtype="RUL-TITLE">Name of Rules</title><desig searchtype="RUL-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These Rules are the Admiralty Rules.</text></p>
+<leg:histnote>
+<p><text>[r 1  subst SR 109 of 2002  r 3 and Sch 1,  effective 5 June 2002]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[255,005] r 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R2" type="ext"/>[255,005]</edpnum><title searchtype="RUL-TITLE">Commencement</title><desig searchtype="RUL-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These Rules commence on 1 January 1989.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.ADR88.R2.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.255005-5" leveltype="para0" subdoc="true" toc-caption="[255,005.5] Introductory note">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [255,005.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_1988-34" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988</remotelink> ss 41, 42.</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_REG_1988-269" remotekey1="REFPTID" service="DOC-ID">Admiralty Rules 1988</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.255005-5" type="ext"/>[255,005.5] </edpnum><title>Introductory note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>On 1 January 1989 the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88" remotekey1="REFPTID" service="DOC-ID">Admiralty Act 1988 (Cth)</remotelink></ci:content></ci:cite>
+ and the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88" remotekey1="REFPTID" service="DOC-ID">Admiralty Rules 1988 (Cth)</remotelink></ci:content></ci:cite>
+ came into effect. The Admiralty Rules 1988 are made by the Governor-General upon the advice of a rules committee: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S41" remotekey1="REFPTID" service="DOC-ID">ss 41</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S42" remotekey1="REFPTID" service="DOC-ID">42</remotelink></ci:content></ci:cite>
+ of the Admiralty Act 1988 (Cth). For proceedings commenced prior to 1 January 1989 the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ADR52" remotekey1="REFPTID" service="DOC-ID" status="unval">Admiralty Rules 1952 (NSW)</remotelink></ci:content></ci:cite>
+ still apply. See generally on the Admiralty Act 1998 (Cth) and Rules S Hetherington, <emph typestyle="it">Annotated Admiralty Legislation</emph>, Law Book Co, Sydney, 1989, and for a more complete treatment of the admiralty jurisdiction M Davies and A Dickey, &#x201c;Shipping Law&#x201d; (1990) 23 <emph typestyle="it">Journal of Maritime Law and Commerce</emph> 332.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.255005-10" leveltype="para0" subdoc="true" toc-caption="[255,005.10]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.255005-10" type="ext"/>[255,005.10] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>There is no express provision in the rules that the ordinary rules of court also apply to Admiralty matters unless otherwise provided (cf Admiralty Rules 1952 (NSW) 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ADR52.R136" remotekey1="REFPTID" service="DOC-ID" status="unval">r 136</remotelink></ci:content></ci:cite>
+).</text>
+<text>However presumably this is still the case: see ALRC, Report No 33, <emph typestyle="it">Civil Admiralty Jurisdiction</emph>, 1986, para 283.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[255,010] r 3 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R3" type="ext"/>[255,010]</edpnum><title searchtype="RUL-TITLE">Interpretation</title><desig searchtype="RUL-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In these Rules:</text></p>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.ACT"><defterm><refpt id="UCPN.OL.ADR88.R3.1.ACT" type="ext"/><emph typestyle="bf">Act</emph></defterm> <defdesc>
+<p><text>means the Admiralty Act 1988.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt SR 287 of 2006 r 3 and Sch 1.2, effective 18 November 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.AMOUNT-CLAIMED"><defterm><refpt id="UCPN.OL.ADR88.R3.1.AMOUNT-CLAIMED" type="ext"/><emph typestyle="bf">amount claimed</emph></defterm> <defdesc>
+<p><text>includes an amount in respect of interest and costs;</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am SR 287 of 2006 r 3 and Sch 1.3, effective 18 November 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.ARREST-WARRANT"><defterm><refpt id="UCPN.OL.ADR88.R3.1.ARREST-WARRANT" type="ext"/><emph typestyle="bf">arrest warrant</emph></defterm> <defdesc>
+<p><text>means a warrant for the arrest of a ship or other property;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.AUSTRALIAN-LEGAL-PRACTITIONER"><defterm><refpt id="UCPN.OL.ADR88.R3.1.AUSTRALIAN-LEGAL-PRACTITIONER" type="ext"/><emph typestyle="bf">Australian legal practitioner</emph></defterm> <defdesc>
+<p><text>means a person who is admitted to the legal profession in Australia and who holds a current practising certificate.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt SR 287 of 2006 r 3 and Sch 1.4, effective 18 November 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.AUTHORISED-DEPOSIT-TAKING-INSTITUTION"><defterm><refpt id="UCPN.OL.ADR88.R3.1.AUTHORISED-DEPOSIT-TAKING-INSTITUTION" type="ext"/><emph typestyle="bf">authorised deposit taking institution</emph></defterm> <defdesc>
+<p><text>has the meaning given by subsection 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.BKA.S.5.1" remotekey1="REFPTID" service="DOC-ID" status="unval">5(1)</remotelink></ci:content></ci:cite>
+ of the Banking Act 1959.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt SR 287 of 2006 r 3 and Sch 1.4, effective 18 November 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.CAVEATOR"><defterm><refpt id="UCPN.OL.ADR88.R3.1.CAVEATOR" type="ext"/><emph typestyle="bf">caveator</emph></defterm> <defdesc>
+<p><text>, in relation to a caveat, means the person by whom, or on whose behalf, the caveat was filed;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.COSTS"><defterm><refpt id="UCPN.OL.ADR88.R3.1.COSTS" type="ext"/><emph typestyle="bf">costs</emph></defterm> <defdesc>
+<p><text>, in relation to a proceeding, includes:</text></p>
+<l><li id="UCPN.OL.ADR88.R3.1.COSTS.A"><lilabel><refpt id="UCPN.OL.ADR88.R3.1.COSTS.A" type="ext"/>(a)</lilabel>
+<p><text>a party&#x2019;s reasonable costs of the proceeding; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R3.1.COSTS.B"><lilabel><refpt id="UCPN.OL.ADR88.R3.1.COSTS.B" type="ext"/>(b)</lilabel>
+<p><text>if relevant, any amount the party has paid, or is liable to pay, to the court or the Marshal in relation to the arrest, custody, preservation, discharge, release or sale of a ship or other property.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt SR 287 of 2006 r 3 and Sch 1.5, effective 18 November 2006]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.INTERESTED-PERSON"><defterm><refpt id="UCPN.OL.ADR88.R3.1.INTERESTED-PERSON" type="ext"/><emph typestyle="bf">interested person</emph></defterm> <defdesc>
+<p><text>, in relation to a ship or other property that is under arrest, includes an underwriter or insurer of the ship or property or of a liability in relation to the ship or property;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.PROCEEDING"><defterm><refpt id="UCPN.OL.ADR88.R3.1.PROCEEDING" type="ext"/><emph typestyle="bf">proceeding</emph></defterm> <defdesc>
+<p><text>means a proceeding commenced under the Act;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.REGISTER"><defterm><refpt id="UCPN.OL.ADR88.R3.1.REGISTER" type="ext"/><emph typestyle="bf">Register</emph></defterm> <defdesc>
+<p><text>means a register maintained under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.PT2.R14.1" remotekey1="REFPTID" service="DOC-ID" status="unval">subrule 14(1)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.PT2.R14.2" remotekey1="REFPTID" service="DOC-ID" status="unval">(2)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.R79" remotekey1="REFPTID" service="DOC-ID">rule 79</remotelink></ci:content></ci:cite>
+;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.ADR88.R3.1.THE-ACT"><defterm><refpt id="UCPN.OL.ADR88.R3.1.THE-ACT" type="ext"/><emph typestyle="bf">the Act</emph></defterm><leg:histnote>
+<p><text>[def  rep SR 287 of 2006 r 3 and Sch 1.6, effective 18 November 2006]</text></p></leg:histnote></defitem></deflist><leg:histnote>
+<p><text>[subr (1)  am SR 287 of 2006 r 3 and Sch 1.1, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In these Rules, a reference to a ship or other property includes a reference to the proceeds of the sale under the Act of the ship or property that have been paid into court under 
+<remotelink dpsi="05CC" refpt="UCPN.OL.R71" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 71</remotelink>
+.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am SR 287 of 2006 r 3 and Sch 1.7, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[255,015] r 4 Marshal and Registrar">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R4" type="ext"/>[255,015]</edpnum><title searchtype="RUL-TITLE">Marshal and Registrar</title><desig searchtype="RUL-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, in relation to a proceeding in a court, a power, function or duty is conferred or imposed on the Registrar by these Rules, the power or function may be exercised and the duty must be performed, by an officer of the court:</text></p>
+<l><li id="UCPN.OL.ADR88.R4.1.A"><lilabel><refpt id="UCPN.OL.ADR88.R4.1.A" type="ext"/>(a)</lilabel>
+<p><text>appointed by the court to be a Registrar; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R4.1.B"><lilabel><refpt id="UCPN.OL.ADR88.R4.1.B" type="ext"/>(b)</lilabel>
+<p><text>authorised by the court, or by the Rules of Court, to exercise the power or function or perform the duty.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am SR 287 of 2006 r 3 and Sch 1.37 and 1.38, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, in relation to a proceeding in a court:</text></p>
+<l><li id="UCPN.OL.ADR88.R4.2.A"><lilabel><refpt id="UCPN.OL.ADR88.R4.2.A" type="ext"/>(a)</lilabel>
+<p><text>a power, function or duty is conferred or imposed on the Registrar by these Rules; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R4.2.B"><lilabel><refpt id="UCPN.OL.ADR88.R4.2.B" type="ext"/>(b)</lilabel>
+<p><text>the Rules of Court concerned authorise a Master of the court to exercise the power or function or perform the duty;</text></p>
+</li>
+</l>
+<p><text>the power or function may be exercised, and the duty must be performed, by a Master.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  subst SR 392 of 1990  r 2; SR 287 of 2006 r 3 and Sch 1.38, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, in relation to a proceeding in a court, a power, function or duty is conferred or imposed on the Marshal by these Rules, the power or function may be exercised, and the duty must be performed:</text></p>
+<l><li id="UCPN.OL.ADR88.R4.3.A"><lilabel><refpt id="UCPN.OL.ADR88.R4.3.A" type="ext"/>(a)</lilabel>
+<p><text>by a person (whether or not an officer of the court):</text></p>
+<l><li id="UCPN.OL.ADR88.R4.3.A.I"><lilabel><refpt id="UCPN.OL.ADR88.R4.3.A.I" type="ext"/>(i)</lilabel>
+<p><text>appointed by the court to be a Marshal; or</text></p>
+</li><li id="UCPN.OL.ADR88.R4.3.A.II"><lilabel><refpt id="UCPN.OL.ADR88.R4.3.A.II" type="ext"/>(ii)</lilabel>
+<p><text>authorised by the court, or by the Rules of Court, to exercise the power or function or perform the duty; or</text></p>
+</li></l></li>
+<li id="UCPN.OL.ADR88.R4.3.B"><lilabel><refpt id="UCPN.OL.ADR88.R4.3.B" type="ext"/>(b)</lilabel>
+<p><text>by an officer or employee of the Commonwealth, a State or a Territory, authorised in writing by a Marshal to exercise the power or function or perform the duty on his or her behalf.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (3)  insrt SR 392 of 1990  r 2; SR 287 of 2006 r 3 and Sch 1.38, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R4.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Action may be authorised orally under paragraph (3)(b) if it is not practicable to authorise the action in writing before it is taken, but a written authorisation must be given as soon as practicable.</text></p>
+<leg:histnote>
+<p><text>[subr (4)  insrt SR 392 of 1990  r 2; am SR 287 of 2006 r 3 and Sch 1.38, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.ADR88.R4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.255015-5" leveltype="para0" subdoc="true" toc-caption="[255,015.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.255015-5" type="ext"/>[255,015.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The traditional division of powers between the registrar, who is the chief administrative officer of the jurisdiction and also exercises a limited judicial function at the discretion of the court, and the marshal, who is responsible for the arrest, custody and disposal of the res, has been maintained. <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1985"/></ci:caseinfo><ci:caseref ID="cr000071" spanref="cr000071-001" status="unval"><ci:reporter value="SASR"/><ci:volume num="38"/><ci:page num="494"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Clausen v The Om Alquarra</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000071-001" status="unval">(1985) 38 SASR 494</ci:span></citefragment> <remotelink dpsi="0018" refpt="120375" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> contains a detailed discussion of the marshal's powers and duties to recover expenses of executing a warrant for arrest, to take necessary steps for the supply of provisions to crew of the ship, to pay harbour dues and to preserve the ship. The court may, with the consent of all parties, in order to save expense, authorise the marshal to appoint the master or chief officer of the vessel as his or her officer pending the sale of an arrested ship: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000072" spanref="cr000072-001" status="unval"><ci:reporter value="VLR"/><ci:edition><ci:date year="1927"/></ci:edition><ci:page num="387"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Keeney v The Aneiura</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000072-001" status="unval">[1927] VLR 387</ci:span></citefragment> <remotelink dpsi="0018" refpt="94583" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.255015-10" leveltype="para0" subdoc="true" toc-caption="[255,015.10] Assessors">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [255,015.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_REG_1988-269" remotekey1="REFPTID" service="DOC-ID">Admiralty Rules 1988</remotelink>.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.255015-10" type="ext"/>[255,015.10] </edpnum><title>Assessors</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>There is no provision in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88" remotekey1="REFPTID" service="DOC-ID">Admiralty Rules 1988 (Cth)</remotelink></ci:content></ci:cite>
+ for the judge to be able to appoint an assessor to advise him or her on any matters requiring nautical or other professional knowledge (cf Admiralty Rules 1952 (NSW) 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.ADR52.R100" remotekey1="REFPTID" service="DOC-ID" status="unval">r 100</remotelink></ci:content></ci:cite>
+).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[255,020] r 5 Headings of documents">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R5" type="ext"/>[255,020]</edpnum><title searchtype="RUL-TITLE">Headings of documents</title><desig searchtype="RUL-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A document to be filed in, or issued out of, a court in a proceeding:</text></p>
+<l><li id="UCPN.OL.ADR88.R5..A"><lilabel><refpt id="UCPN.OL.ADR88.R5..A" type="ext"/>(a)</lilabel>
+<p><text>must include in the heading of the document a title in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.SCH1.F1" remotekey1="REFPTID" service="DOC-ID">Form 1</remotelink></ci:content></ci:cite>
+; and</text></p>
+</li>
+<li id="UCPN.OL.ADR88.R5..B"><lilabel><refpt id="UCPN.OL.ADR88.R5..B" type="ext"/>(b)</lilabel>
+<p><text>must identify the proceeding in accordance with the Rules of Court concerned.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 5  am SR 287 of 2006 r 3 and Sch 1.37, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.PT1.R5A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[255,025] r 5A Service of certain documents and notices">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.PT1.R5A" type="ext"/>[255,025]</edpnum><title searchtype="RUL-TITLE">Service of certain documents and notices</title><desig searchtype="RUL-NUM"><designum>5A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.PT1.R5A.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.PT1.R5A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.PT1.R5A.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+, this rule applies to the service of documents for the purposes of the Act or these Rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.PT1.R5A.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.PT1.R5A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule does not apply to the service of:</text></p>
+<l><li id="UCPN.OL.ADR88.PT1.R5A.2.A"><lilabel><refpt id="UCPN.OL.ADR88.PT1.R5A.2.A" type="ext"/>(a)</lilabel>
+<p><text>initiating process; or</text></p>
+</li>
+<li id="UCPN.OL.ADR88.PT1.R5A.2.B"><lilabel><refpt id="UCPN.OL.ADR88.PT1.R5A.2.B" type="ext"/>(b)</lilabel>
+<p><text>arrest warrants.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.PT1.R5A.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.PT1.R5A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A document may be served by electronic facsimile message transmitted to a receiving facility installed at the address at which the document would otherwise have been served for the purposes of the Act or these Rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.PT1.R5A.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.PT1.R5A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference to a document in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.PT1.R5A.3" remotekey1="REFPTID" service="DOC-ID">subrule (3)</remotelink></ci:content></ci:cite>
+ includes a reference to a document that is to be given to a person to enable the person to exercise a power, or perform a function, for the purposes of the Act or these Rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5A  insrt SR 215 of 1996  r 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[255,030] r 6 Operation of these Rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R6" type="ext"/>[255,030]</edpnum><title searchtype="RUL-TITLE">Operation of these Rules</title><desig searchtype="RUL-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADR88.R6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These Rules are not intended to exclude or limit the operation of Rules of Court of a court exercising jurisdiction under the Act to the extent that those Rules are not inconsistent with these Rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADR88.R6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an act or omission of a person is an offence against 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADR88.PT7.R56" remotekey1="REFPTID" service="DOC-ID" status="unval">rule 56</remotelink></ci:content></ci:cite>
+ and a contempt under Rules of Court or at common law and the person is found guilty of the contempt, the person is not liable to be convicted of the offence.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  am SR 287 of 2006 r 3 and Sch 1.38, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADR88.R6A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[255,035] r 6A Relief from rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADR88.R6A" type="ext"/>[255,035]</edpnum><title searchtype="RUL-TITLE">Relief from rules</title><desig searchtype="RUL-NUM"><designum>6A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may dispense with compliance with any of the requirements of these Rules, either before or after the occasion for compliance arises.</text></p>
+<leg:histnote>
+<p><text>[r 6A  insrt SR 287 of 2006 r 3 and Sch 1.8, effective 18 November 2006]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

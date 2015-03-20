@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [rr 1&#x2013;7A]</docinfo:doc-heading><docinfo:doc-id>UCPN.DC.DCRN.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>District Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>DISTRICT COURT RULES 1973 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [rr 1&#x2013;7A]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>80010000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DC"/><docinfo:metaitem name="parent-filename" value="dc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DC.SGM_UCPN.DC.DCRN"/><docinfo:metaitem name="parent-filename" value="dc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">DISTRICT COURT RULES 1973 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1973</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 999, 1973</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<heading><title>NUMERICAL TABLE OF PARTS</title></heading>
+<table frame="none" pgwide="1">
+<tgroup align="left" cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="24*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="172*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"><emph typestyle="it">Part</emph></entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0"><emph typestyle="it">Title</emph></entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">1&#x2002;</entry>
+<entry align="justify" colname="col2" colsep="0" morerows="0" rowsep="0">Preliminary</entry>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">2&#x2002;</entry>
+<entry align="justify" colname="col2" colsep="0" morerows="0" rowsep="0">Administration</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">43A</entry>
+<entry align="justify" colsep="0" morerows="0" rowsep="0">Judicial Registrar</entry>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">47</entry>
+<entry align="justify" colname="col2" colsep="0" morerows="0" rowsep="0">Documents</entry>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">51B</entry>
+<entry align="justify" colname="col2" colsep="0" morerows="0" rowsep="0">Commercial Arbitration Act 1984</entry>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">51D</entry>
+<entry align="justify" colname="col2" colsep="0" morerows="0" rowsep="0">Family Provision Act 1982 and Testator's Family Maintenance and Guardianship of Infants Act 1916</entry>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">52</entry>
+<entry align="justify" colname="col2" colsep="0" morerows="0" rowsep="0">Miscellaneous</entry>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">53</entry>
+<entry align="justify" colname="col2" colsep="0" morerows="0" rowsep="0">Criminal Procedure Rules</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<h>ALPHABETICAL TABLE OF PARTS</h>
+<table frame="none" pgwide="1">
+<tgroup align="left" cols="2" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="177*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="19*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="justify" colname="col1" colsep="0" morerows="0" rowsep="0">Administration&#x2025;</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0">Pt 2</entry>
+</row>
+<row rowsep="0"><entry align="justify" colname="col1" colsep="0" morerows="0" rowsep="0">Commercial Arbitration Act 1984&#x2025;</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0">Pt 51B</entry>
+</row>
+<row rowsep="0"><entry align="justify" colname="col1" colsep="0" morerows="0" rowsep="0">Criminal Procedure Rules&#x2025;</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0">Pt 53</entry>
+</row>
+<row rowsep="0"><entry align="justify" colname="col1" colsep="0" morerows="0" rowsep="0">Documents&#x2025;</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0">Pt 47</entry>
+</row>
+<row rowsep="0"><entry align="justify" colname="col1" colsep="0" morerows="0" rowsep="0">Family Provision Act 1982 and Testator's Family Maintenance and Guardianship of Infants Act 1916&#x2025;</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0" valign="bottom">Pt 51D</entry>
+</row>
+<row rowsep="0"><entry align="justify" colname="col1" colsep="0" morerows="0" rowsep="0">Miscellaneous&#x2025;</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0">Pt 52</entry>
+</row>
+<row rowsep="0"><entry align="justify" colname="col1" colsep="0" morerows="0" rowsep="0">Preliminary&#x2025;</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0">Pt 1</entry>
+</row>
+<row rowsep="0"><entry align="justify" colname="col1" colsep="0" morerows="0" rowsep="0">Scale of Costs and Allowances to Witnesses&#x2025;</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0">Schedule</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The District Court Rules 1973 commenced 1 July 1973 and have since been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Gazette Details</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1"/><entry colname="c2">No 88 of 4 July 1973 p 2926</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 64 of 31 May 1974 p 2077</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 79 of 28 June 1974 p 2557</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 108 of 6 September 1974 p 3487</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 121 of 4 October 1974 p 3917</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 139 of 22 November 1974 p 4492</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 154 of 20 December 1974 p 4984</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 50 of 27 March 1975 p 1194</entry><entry colname="c3">1 April 1975</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 138 of 24 October 1975 p 4413</entry><entry colname="c3">7 November 1975</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 138 of 24 October 1975 p 4415</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 171 of 24 December 1975 p 5516</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 97 of 30 July 1976 p 3288</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 107 of 27 August 1976 p 3638</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 153 of 3 December 1976 p 5371</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 36 of 7 April 1977 p 1378</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 89 of 12 August 1977 p 3468</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 124 of 14 October 1977 p 4541</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 143 of 18 November 1977 p 5084</entry><entry colname="c3">28 February 1978</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 15 of 3 February 1978 p 380</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 46 of 28 April 1978 p 1561</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 97 of 18 August 1978 p 3465</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 130 of 21 September 1979 p 4726</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 34 of 29 February 1980 pp 921, 922</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 84 of 13 June 1980 p 3026</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 156 of 24 October 1980 p 5509</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 191 of 19 December 1980 p 6570</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 54 of 23 April 1982 p 1803</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 2 of 7 January 1983 p 92</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 28 of 11 February 1983 p 655</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 32 of 18 February 1983 p 83</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 50 of 18 March 1983 p 1311</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 55 of 31 March 1983 p 1478</entry><entry colname="c3">1 April 1983</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 63 of 22 April 1983 p 3830</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 89 of 24 June 1983 p 2880</entry><entry colname="c3">1 July 1983</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 93 of 1 July 1983 p 3117</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 114 of 19 August 1983 p 3830</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 176 of 23 December 1983 p 5843</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 58 of 19 April 1984 p 2162</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 108 of 6 July 1984 p 3519</entry><entry colname="c3">1 August 1984</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 128 of 24 August 1984 p 4269</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 137 of 21 September 1984 p 4648</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 183 of 28 December 1984 p 6513</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 93 of 14 June 1985 p 2631</entry><entry colname="c3">1 July 1985</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 122 of 30 August 1985 pp 4617, 4621</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 130 of 20 September 1985 p 5024</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 150 of 8 November 1985 p 5881</entry><entry colname="c3">8 November 1985</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 155 of 15 November 1985 p 5992</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 81 of 16 May 1986 p 2153</entry><entry colname="c3">16 May 1986</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 99 of 27 June 1986 p 2989</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 139 of 5 September 1986 p 4326</entry><entry colname="c3">5 September 1986</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 179 of 21 November 1986 p 5691</entry><entry colname="c3">21 November 1986</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 54 of 20 March 1987 p 1458</entry><entry colname="c3">20 March 1987</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 73 of 1 May 1987 p 2186</entry><entry colname="c3">20 July 1987</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 93 of 5 June 1987 p 2705</entry><entry colname="c3">5 June 1987</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 136 of 28 August 1987 p 4841</entry><entry colname="c3">28 August 1987</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 144 of 11 September 1987 p 5154</entry><entry colname="c3">11 September 1987</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 150 of 25 September 1987 p 5441</entry><entry colname="c3">25 September 1987</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 165 of 23 October 1987 p 5958</entry><entry colname="c3">23 October 1987</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 193 of 18 December 1987 p 6988</entry><entry colname="c3">18 January 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 196 of 24 December 1987 p 7205</entry><entry colname="c3">24 December 1987</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 28 of 12 February 1988 p 837</entry><entry colname="c3">15 February 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 41 of 26 February 1988 p 1243</entry><entry colname="c3"/></row>
+<row><entry colname="c1"/><entry colname="c2">No 49 of 4 March 1988 p 1396</entry><entry colname="c3">4 March 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 77 of 22 April 1988 p 2307</entry><entry colname="c3">22 April 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 99 of 10 June 1988 p 3088</entry><entry colname="c3">10 June 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 134 of 19 August 1988 p 4373</entry><entry colname="c3">1 September 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 134 of 19 August 1988 p 4376</entry><entry colname="c3">19 August 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 141 of 2 September 1988 p 4721</entry><entry colname="c3">2 September 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 167 of 4 November 1988 p 5734</entry><entry colname="c3">4 November 1988</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 167 of 4 November 1988 p 5734</entry><entry colname="c3">30 January 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 23 of 17 February 1989 p 1066</entry><entry colname="c3">17 February 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 34 of 23 March 1989 p 1526</entry><entry colname="c3">23 March 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 52 of 28 April 1989 p 2512</entry><entry colname="c3">28 April 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 69 of 2 June 1989 p 3231</entry><entry colname="c3">2 June 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 84 of 21 July 1989 p 1518</entry><entry colname="c3">21 July 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 90 of 25 August 1989 p 6132</entry><entry colname="c3">25 August 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 93 of 8 September 1989 p 6619</entry><entry colname="c3">8 September 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 124 of 22 December 1989 p 11409</entry><entry colname="c3">22 December 1989</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 24 of 16 February 1990 p 1287</entry><entry colname="c3">16 February 1990</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 24 of 16 February 1990 p 1286</entry><entry colname="c3">21 March 1990</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 57 of 4 May 1990 p 3545</entry><entry colname="c3">11 May 1990</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 68 of 25 May 1990 p 4128</entry><entry colname="c3">25 May 1990</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 85 of 6 July 1990 p 6401</entry><entry colname="c3">6 July 1990</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 106 of 24 August 1990 p 7721</entry><entry colname="c3">24 August 1990</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 8 of 11 January 1991 p 260</entry><entry colname="c3">11 January 1991</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 52 of 28 March 1991 p 2550</entry><entry colname="c3">29 March 1991</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 62 of 26 April 1991 p 3269</entry><entry colname="c3">26 April 1991</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 88 of 7 June 1991 p 4256</entry><entry colname="c3">7 June 1991</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 96 of 21 June 1991 p 4839</entry><entry colname="c3">21 June 1991</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 139 of 4 October 1991 p 8537</entry><entry colname="c3">4 October 1991</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 20 of 14 February 1992 p 859</entry><entry colname="c3">14 February 1992</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 30 of 28 February 1992 p 1262</entry><entry colname="c3">1 May 1992</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 49 of 16 April 1992 p 2692</entry><entry colname="c3">16 April 1992</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 49 of 16 April 1992 p 2694</entry><entry colname="c3">1 July 1992</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 64 of 29 May 1992 p 3610</entry><entry colname="c3">29 May 1992</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 75 of 26 June 1992 p 4298</entry><entry colname="c3">26 June 1992</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 105 of 28 August 1992 p 6329</entry><entry colname="c3">28 August 1992</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 123 of 9 October 1992 p 7344</entry><entry colname="c3">1 January 1993</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 123 of 9 October 1992 p 7345</entry><entry colname="c3">9 October 1992</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 19 of 26 February 1993 p 821</entry><entry colname="c3">26 February 1993</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 34 of 8 April 1993 p 1702</entry><entry colname="c3">10 April 1993</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 52 of 28 May 1993 p 2614</entry><entry colname="c3">28 May 1993</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 82 of 23 July 1993 p 4225</entry><entry colname="c3">23 July 1993</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 89 of 13 August 1993 p 4570</entry><entry colname="c3">13 August 1993</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 117 of 22 October 1993 p 6410</entry><entry colname="c3">1 December 1993</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 35 of 11 February 1994 p 681</entry><entry colname="c3">11 February 1994</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 53 of 31 March 1994 p 1493</entry><entry colname="c3">31 March 1994</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 73 of 27 May 1994 p 2533</entry><entry colname="c3">27 May 1994</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 80 of 17 June 1994 p 3012</entry><entry colname="c3">17 June 1994</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 88 of 1 July 1994 p 3377</entry><entry colname="c3">1 July 1994</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 154 of 18 November 1994 p 6850</entry><entry colname="c3">1 January 1995</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 16 of 17 February 1995 p 890</entry><entry colname="c3">17 February 1995</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 32 of 17 March 1995 p 1543</entry><entry colname="c3">17 March 1995</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 77 of 23 June 1995 p 3359</entry><entry colname="c3">1 July 1995</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 77 of 23 June 1995 p 3360</entry><entry colname="c3">23 June 1995</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 122 of 6 October 1995 p 7160</entry><entry colname="c3">6 October 1995</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 149 of 8 December 1995 p 8468</entry><entry colname="c3">8 December 1995</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 152 of 15 December 1995 p 8657</entry><entry colname="c3">15 December 1995</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 26 of 1 March 1996 p 944</entry><entry colname="c3">1 March 1996</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 49 of 19 April 1996 p 1868</entry><entry colname="c3">19 April 1996</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 74 of 21 June 1996 p 3161</entry><entry colname="c3">21 June 1996</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 74 of 21 June 1996 p 3160</entry><entry colname="c3">1 August 1996</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 117 of 18 October 1996 p 6969</entry><entry colname="c3">18 October 1996</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 117 of 18 October 1996 p 6971</entry><entry colname="c3">18 October 1996 (effective 1 November 1996)</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 117 of 18 October 1996 p 6977</entry><entry colname="c3">18 October 1996 (effective 1 January 1997)</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 117 of 18 October 1996 p 6982</entry><entry colname="c3">18 October 1996</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 143 of 6 December 1996 p 7892</entry><entry colname="c3">6 December 1996</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 68 of 27 June 1997 p 5058</entry><entry colname="c3">27 June 1997</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 104 of 26 September 1997 p 8211</entry><entry colname="c3">26 September 1997</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 104 of 26 September 1997 p 8208</entry><entry colname="c3">1 January 1998</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 130 of 28 November 1997 p 9585</entry><entry colname="c3">1 January 1998</entry></row>
+<row><entry colname="c1">District Court Rule (Miscellaneous Amendments) 1997</entry><entry colname="c2">No 149 of 19 December 1997 p 10201</entry><entry colname="c3">19 December 1997</entry></row>
+<row><entry colname="c1">District Court Rule (Flat Filing of Documents) 1998</entry><entry colname="c2">No 56 of 20 March 1998 p 1629</entry><entry colname="c3">20 March 1998</entry></row>
+<row><entry colname="c1">District Court Rule (Privileged Documents and Things) 1998</entry><entry colname="c2">No 56 of 20 March 1998 p 1633</entry><entry colname="c3">20 March 1998</entry></row>
+<row><entry colname="c1">District Court Rule (Case Management Law Revision) 1998</entry><entry colname="c2">No 71 of 24 April 1998 p 2853</entry><entry colname="c3">24 April 1998</entry></row>
+<row><entry colname="c1">District Court Rule (Flat Filing Further Amendment) 1998</entry><entry colname="c2">No 71 of 24 April 1998 p 2866</entry><entry colname="c3">24 April 1998</entry></row>
+<row><entry colname="c1">District Court Rule (Contractors Debts) 1998</entry><entry colname="c2">No 123 of 21 August 1998 p 6214</entry><entry colname="c3">21 August 1998</entry></row>
+<row><entry colname="c1"/><entry colname="c2">No 143 of 2 October 1998 p 7931</entry><entry colname="c3">2 October 1998</entry></row>
+<row><entry colname="c1">District Court Rule (Minor Law Revision) 1998</entry><entry colname="c2">No 155 of 30 October 1998 p 8528</entry><entry colname="c3">30 October 1998</entry></row>
+<row><entry colname="c1">District Court Rule (Appeal Listings) 1998</entry><entry colname="c2">No 180 of 31 December 1998 p 10382</entry><entry colname="c3">15 January 1999</entry></row>
+<row><entry colname="c1">District Court Rule (Interim Payments) 1998</entry><entry colname="c2">No 180 of 31 December 1998 p 10385</entry><entry colname="c3">15 January 1999</entry></row>
+<row><entry colname="c1">District Court Rule (Security for Costs) 1998</entry><entry colname="c2">No 32 of 12 March 1999 p 1877</entry><entry colname="c3">12 March 1999</entry></row>
+<row><entry colname="c1">District Court Rule (Professional Negligence Claims) 1999</entry><entry colname="c2">No 68 of 11 June 1999 p 3899</entry><entry colname="c3">11 June 1999</entry></row>
+<row><entry colname="c1">District Court Rule (Expert Witnesses) 1999</entry><entry colname="c2">No 68 of 11 June 1999 p 3903</entry><entry colname="c3">1 July 1999</entry></row>
+<row><entry colname="c1">District Court Rule (Appeals Amendment) 1999</entry><entry colname="c2">No 68 of 11 June 1999 p 3905</entry><entry colname="c3">11 June 1999</entry></row>
+<row><entry colname="c1">District Court Rule (Public Health) 1999</entry><entry colname="c2">No 144 of 24 December 1999 p 12326</entry><entry colname="c3">1 January 2000</entry></row>
+<row><entry colname="c1">District Court Rule (Dismissal of Proceedings) 1999</entry><entry colname="c2">No 144 of 24 December 1999 p 12331</entry><entry colname="c3">1 January 2000</entry></row>
+<row><entry colname="c1">District Court Rule (Service of Expert Reports) 1999</entry><entry colname="c2">No 144 of 24 December 1999 p 12325</entry><entry colname="c3">1 March 2000</entry></row>
+<row><entry colname="c1">District Court Rule (Motor Accidents) 1999</entry><entry colname="c2">No 144 of 24 December 1999 p 12334 (republished in No 3 of 14 January 2000 p 186)</entry><entry colname="c3">1 March 2000</entry></row>
+<row><entry colname="c1">District Court Rule (Motor Accidents) 2000</entry><entry colname="c2">No 37 of 17 March 2000 p 1966</entry><entry colname="c3">3 April 2000</entry></row>
+<row><entry colname="c1">District Court Rule (Exhibits) 2000</entry><entry colname="c2">No 37 of 17 March 2000 p 1970</entry><entry colname="c3">3 April 2000</entry></row>
+<row><entry colname="c1">District Court Rule (Affidavits) 2000</entry><entry colname="c2">No 37 of 17 March 2000 p 1973</entry><entry colname="c3">3 April 2000</entry></row>
+<row><entry colname="c1">District Court Amendment (Expert Code and Appointment) Rule 2000</entry><entry colname="c2">No 85 of 7 July 2000 p 6134</entry><entry colname="c3">7 July 2000</entry></row>
+<row><entry colname="c1">District Court Amendment (Dismissal and Strike Out) Rule 2000</entry><entry colname="c2">No 85 of 7 July 2000 p 6127</entry><entry colname="c3">1 September 2000</entry></row>
+<row><entry colname="c1">District Court Amendment (Referral for Legal Assistance) Rule 2000</entry><entry colname="c2">No 109 of 25 August 2000 p 8409</entry><entry colname="c3">25 August 2000</entry></row>
+<row><entry colname="c1">District Court Amendment (Access to Subpoenaed Material) Rule 2000</entry><entry colname="c2">No 168 of 22 December 2000 p 13621</entry><entry colname="c3">1 January 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Service of Subpoenas) Rule 2001</entry><entry colname="c2">No 39 of 16 February 2001 p 672</entry><entry colname="c3">16 February 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Admissions) Rule 2001</entry><entry colname="c2">No 71 of 20 April 2001 p 1955</entry><entry colname="c3">20 April 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Subpoenas and Contribution) Rule 2001</entry><entry colname="c2">No 71 of 20 April 2001 p 1957</entry><entry colname="c3">20 April 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Discovery and Inspection) Rule 2001</entry><entry colname="c2">No 103 of 29 June 2001 p 5026</entry><entry colname="c3">29 June 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Certified Judgments) Rule 2001</entry><entry colname="c2">No 143 of 21 September 2001 p 7886</entry><entry colname="c3">21 September 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Legal Practitioners) Rule 2001</entry><entry colname="c2">No 143 of 21 September 2001 p 7888</entry><entry colname="c3">21 September 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Publication of Information) Rule 2001</entry><entry colname="c2">No 143 of 21 September 2001 p 7896</entry><entry colname="c3">21 September 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Seal of Court) Rule 2001</entry><entry colname="c2">No 143 of 21 September 2001 p 7899</entry><entry colname="c3">21 September 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Defences) Rule 2001</entry><entry colname="c2">No 161 of 26 October 2001 p 8738</entry><entry colname="c3">26 October 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Experts) Rule 2001</entry><entry colname="c2">No 161 of 26 October 2001 p 8740</entry><entry colname="c3">26 October 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Pre-trial Disclosure) Rule 2001</entry><entry colname="c2">No 143 of 21 September 2001 p 7892</entry><entry colname="c3">19 November 2001</entry></row>
+<row><entry colname="c1">District Court Amendment (Validity for Service) Rule 2001</entry><entry colname="c2">No 161 of 26 October 2001 p 8743</entry><entry colname="c3">1 January 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Tutors) Rule 2001</entry><entry colname="c2">No 19 of 11 January 2002 p 93</entry><entry colname="c3">11 January 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Criminal Procedure) Rule 2002</entry><entry colname="c2">No 67 of 28 March 2002 p 2044</entry><entry colname="c3">28 March 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Particulars) Rule 2002</entry><entry colname="c2">No 67 of 28 March 2002 p 2047</entry><entry colname="c3">28 March 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Striking Out Orders) Rule 2002</entry><entry colname="c2">No 67 of 28 March 2002 p 2050</entry><entry colname="c3">28 March 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Evidence on Commission) Rule 2002</entry><entry colname="c2">No 72 of 12 April 2002 p 2214</entry><entry colname="c3">12 April 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Civil Procedure) Rule 2002</entry><entry colname="c2">No 72 of 12 April 2002 p 2225</entry><entry colname="c3">12 April 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Civil Juries) Rule 2002</entry><entry colname="c2">No 72 of 12 April 2002 p 2229</entry><entry colname="c3">12 April 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Law Revision) Rule 2002</entry><entry colname="c2">No 72 of 12 April 2002 p 2231</entry><entry colname="c3">12 April 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Children and Young Persons) Rule 2002</entry><entry colname="c2">No 119 of 19 July 2002 p 5460</entry><entry colname="c3">19 July 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Exhibits in Criminal Trials) Rule 2002</entry><entry colname="c2">No 119 of 19 July 2002 p 5463</entry><entry colname="c3">19 July 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Australian Business Numbers) Rule 2002</entry><entry colname="c2">No 119 of 19 July 2002 p 5466</entry><entry colname="c3">19 July 2002</entry></row>
+<row><entry colname="c1">District Court Amendment (Interstate Evidence on Commission) Rule 2002</entry><entry colname="c2">No 201 of 1 November 2002 p 9321</entry><entry colname="c3">1 November 2002</entry></row>
+<row><entry colname="c1">District Court Amendment  (Cross-claims) Rule 2002</entry><entry colname="c2">No 25 of 24 January 2003 p 446</entry><entry colname="c3">24 January 2003</entry></row>
+<row><entry colname="c1">District Court Amendment  (Cross-claims) Rule 2003</entry><entry colname="c2">No 74 of 17 April 2003 p 4490</entry><entry colname="c3">17 April 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Defences) Rule 2003</entry><entry colname="c2">No 74 of 17 April 2003 p 4493</entry><entry colname="c3">17 April 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Jury Requisitions) Rule 2003</entry><entry colname="c2">No 74 of 17 April 2003 p 4496</entry><entry colname="c3">17 April 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Notices to Admit Facts or Documents) Rule 2003</entry><entry colname="c2">No 74 of 17 April 2003 p 4499</entry><entry colname="c3">17 April 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Notice of Ceasing to Act) Rule 2002</entry><entry colname="c2">No 97 of 13 June 2003 p 5660</entry><entry colname="c3">13 June 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Justices Act) Rule 2002</entry><entry colname="c2">No 54 of 28 February 2003 p 3571</entry><entry colname="c3">7 July 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Criminal Procedure) Rule 2003</entry><entry colname="c2">No 174 of 31 October 2003 p 10282</entry><entry colname="c3">31 October 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Abridgement of Time) Rule 2003</entry><entry colname="c2">No 197 of 19 December 2003 p 11397</entry><entry colname="c3">19 December 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Solicitors' Signatures) Rule 2003</entry><entry colname="c2">No 197 of 19 December 2003 p 11426</entry><entry colname="c3">19 December 2003</entry></row>
+<row><entry colname="c1">District Court Amendment (Coal Miners' and Special Statutory Compensation Claims) Rule 2003</entry><entry colname="c2">No 197 of 19 December 2003 p 11400</entry><entry colname="c3">1 January 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Arbitration Rehearings) Rule 2004</entry><entry colname="c2">No 51 of 5 March 2004 p 1037</entry><entry colname="c3">5 March 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Property Relationships) Rule 2004</entry><entry colname="c2">No 87 of 21 May 2004 p 3034</entry><entry colname="c3">21 May 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Victims Support and Rehabilitation) Rule 2004</entry><entry colname="c2">No 120 of 16 July 2004 p 5904</entry><entry colname="c3">16 July 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Audio and Audio Visual Links) Rule 2004</entry><entry colname="c2">No 120 of 16 July 2004 p 5908</entry><entry colname="c3">16 July 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Instalment Orders) Rule 2004</entry><entry colname="c2">No 120 of 16 July 2004 p 5912</entry><entry colname="c3">16 July 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Time Limits) Rule 2004</entry><entry colname="c2">No 120 of 16 July 2004 p 5915</entry><entry colname="c3">16 July 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Cross-claims) Rule 2004</entry><entry colname="c2">No 120 of 16 July 2004 p 5919</entry><entry colname="c3">16 July 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Judicial Registrar) Rule 2004</entry><entry colname="c2">No 143 of 10 September 2004 p 7462</entry><entry colname="c3">10 September 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Preliminary Dismissal Orders) Rule 2004</entry><entry colname="c2">No 143 of 10 September 2004 p 7467</entry><entry colname="c3">10 September 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Fitness for Trial Elections) Rule 2004</entry><entry colname="c2">No 147 of 17 September 2004 p 7548</entry><entry colname="c3">17 September 2004</entry></row>
+<row><entry colname="c1">District Court Amendment (Uniform Civil Procedure) Rule 2005 No 326</entry><entry colname="c2">No 81 of 1 July 2005 p 3405</entry><entry colname="c3">15 August 2005</entry></row>
+<row><entry colname="c1">District Court Amendment (Forms) Rule 2005 No 640</entry><entry colname="c2">No 126 of 14 October 2005 p 8754</entry><entry colname="c3">14 October 2005</entry></row>
+<row><entry colname="c1">District Court Amendment (Defamation) Rule 2006 No 53</entry><entry colname="c2">No 23 of 17 February 2006 p 837</entry><entry colname="c3">17 February 2006</entry></row>
+<row><entry colname="c1">District Court Amendment (Property Relationships, Family Provision and Testator's Family Maintenance and Guardianship of Infants) Rule 2006 No 49</entry><entry colname="c2">No 19 of 10 February 2006 p 808</entry><entry colname="c3">10 February 2006</entry></row>
+<row><entry colname="c1">District Court Amendment (Property Relationships) Rule 2006</entry><entry colname="c2">No 68 of 26 May 2006 p 3213</entry><entry colname="c3">26 May 2006</entry></row>
+<row><entry colname="c1">District Court Amendment (Home Building) Rule 2006 (SR 726/2006)</entry><entry colname="c2">No 175 of 8 December 2006 p 10663</entry><entry colname="c3">23 November 2006</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2006 No 120</entry><entry colname="c2">4 December 2006</entry><entry colname="c3">4 December 2006</entry></row>
+<row><entry colname="c1">District Court Amendment (Uniform Civil Procedure) Rule 2006</entry><entry colname="c2">No 183 of 15 December 2006 p 10918</entry><entry colname="c3">23 November 2006</entry></row>
+<row><entry colname="c1">District Court Amendment (Subpoenas) Rule 2007</entry><entry colname="c2">No 63 of 4 May 2007, p 2588</entry><entry colname="c3">4 May 2007</entry></row>
+<row><entry colname="c1">District Court Amendment (Criminal Procedure) Rule 2007</entry><entry colname="c2">No 108 of 31 August 2007, p 6702</entry><entry colname="c3">31 August 2007</entry></row>
+<row><entry colname="c1">District Court Amendment (Time For Presenting Indictments) Rule 2007</entry><entry colname="c2">No 151 of 19 October 2007, p 7848</entry><entry colname="c3">19 October 2007</entry></row>
+<row><entry colname="c1">District Court Amendment (Appeal Against Determination of a Costs Assessor) Rule 2007</entry><entry colname="c2">No 151 of 19 October 2007, p 7849</entry><entry colname="c3">19 October 2007</entry></row>
+<row><entry colname="c1">District Court Amendment (Entry and Recording of Judgments, Orders, Sentences, Directions or Recommendations) Rule 2007</entry><entry colname="c2">No 167 of 9 November 2007, p 8381</entry><entry colname="c3">9 November 2007</entry></row>
+<row><entry colname="c1">District Court Rules (Amendment No 1) 2008</entry><entry colname="c2">No 95 of 8 August 2008, p 7490</entry><entry colname="c3">8 August 2008</entry></row>
+<row><entry colname="c1">District Court Amendment (Powers of Judicial Registrar) Rule 2010 SR 194 </entry><entry colname="c2">LW 21 May 2010</entry><entry colname="c3">21 May 2010</entry></row>
+<row><entry colname="c1">District Court Amendment (Summary Criminal Proceedings) Rule 2011 SR 608</entry><entry colname="c2">LW 2 December 2011</entry><entry colname="c3">1 January 2012</entry></row>
+<row><entry colname="c1">District Court Amendment (Affidavit of Service) Rule 2012 SI 217</entry><entry colname="c2">LW 1 June 2012</entry><entry colname="c3">1 June 2012</entry></row>
+<row><entry colname="c1">District Court Amendment (Audio Visual Links) Rule 2012 SI 218</entry><entry colname="c2">LW 1 June 2012</entry><entry colname="c3">1 June 2012</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.DC.DCRN.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.DC.DCRN" type="ext"/>DISTRICT COURT RULES 1973 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCRN.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [rr 1&#x2013;7A]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.DC.DCRN.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [rr 1&#x2013;7A]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCRN.PT1.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 1] r 1 Name of rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R1" type="ext"/>[DCR Pt 1 r 1]</edpnum><title searchtype="RUL-TITLE">Name of rules</title><desig searchtype="RUL-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These rules may be cited as the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN" remotekey1="REFPTID" service="DOC-ID">District Court Rules 1973</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 2] r 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R2" type="ext"/>[DCR Pt 1 r 2]</edpnum><title searchtype="RUL-TITLE">Commencement</title><desig searchtype="RUL-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>These rules shall commence on the commencement of the Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 3] r 3 Division of rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R3" type="ext"/>[DCR Pt 1 r 3]</edpnum><title searchtype="RUL-TITLE">Division of rules</title><desig searchtype="RUL-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 3  rep Gaz 26 of 1 March 1996  p 944]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 4] r 4 Interpretation">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R4" type="ext"/>[DCR Pt 1 r 4]</edpnum><title searchtype="RUL-TITLE">Interpretation</title><desig searchtype="RUL-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCRN.PT1.R4.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCRN.PT1.R4.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In these rules, unless the context or subject matter otherwise indicates or requires:</text></p>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.ABN"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.ABN" type="ext"/><emph typestyle="bf">ABN</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.CLAIM-FOR-RELIEF"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.CLAIM-FOR-RELIEF" type="ext"/><emph typestyle="bf">claim for relief</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.COAL-MINER"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.COAL-MINER" type="ext"/><emph typestyle="bf">coal miner</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 95 of 8 August 2008  r 2 and Sch 1[1], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.COAL-MINERS-CLAIM"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.COAL-MINERS-CLAIM" type="ext"/><emph typestyle="bf">coal miner's claim</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 95 of 8 August 2008  r 2 and Sch 1[1], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.COMPENSATION"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.COMPENSATION" type="ext"/><emph typestyle="bf">compensation</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 95 of 8 August 2008  r 2 and Sch 1[1], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.CONCILIATOR"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.CONCILIATOR" type="ext"/><emph typestyle="bf">conciliator</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 95 of 8 August 2008  r 2 and Sch 1[1], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.CROSS-CLAIM"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.CROSS-CLAIM" type="ext"/><emph typestyle="bf">cross-claim</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.CURATOR"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.CURATOR" type="ext"/><emph typestyle="bf">curator</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.DEFENDANT"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.DEFENDANT" type="ext"/><emph typestyle="bf">defendant</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.DISABLE-PERSON"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.DISABLE-PERSON" type="ext"/><emph typestyle="bf">disable person</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.DISMISS"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.DISMISS" type="ext"/><emph typestyle="bf">dismiss</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.DOCUMENT"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.DOCUMENT" type="ext"/><emph typestyle="bf">document</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.EXPERT"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.EXPERT" type="ext"/><emph typestyle="bf">expert</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.FOLIO"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.FOLIO" type="ext"/><emph typestyle="bf">folio</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.INCOMMUNICATE-PERSON"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.INCOMMUNICATE-PERSON" type="ext"/><emph typestyle="bf">incommunicate person</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.INCOMPETENT-PERSON"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.INCOMPETENT-PERSON" type="ext"/><emph typestyle="bf">incompetent person</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.MEDICAL-PRACTITIONER"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.MEDICAL-PRACTITIONER" type="ext"/><emph typestyle="bf">medical practitioner</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.MINOR"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.MINOR" type="ext"/><emph typestyle="bf">minor</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.ORIGINATING-PROCESS"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.ORIGINATING-PROCESS" type="ext"/><emph typestyle="bf">originating process</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.PERSONAL-INJURIES"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.PERSONAL-INJURIES" type="ext"/><emph typestyle="bf">personal injuries</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.PLACE-OF-BUSINESS"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.PLACE-OF-BUSINESS" type="ext"/><emph typestyle="bf">place of business</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.PLAINTIFF"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.PLAINTIFF" type="ext"/><emph typestyle="bf">plaintiff</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.SPECIAL-STATUTORY-COMPENSATION-ACT"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.SPECIAL-STATUTORY-COMPENSATION-ACT" type="ext"/><emph typestyle="bf">Special Statutory Compensation Act</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 95 of 8 August 2008  r 2 and Sch 1[1], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.SPECIAL-STATUTORY-COMPENSATION-CLAIM"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.SPECIAL-STATUTORY-COMPENSATION-CLAIM" type="ext"/><emph typestyle="bf">special statutory compensation claim</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 95 of 8 August 2008  r 2 and Sch 1[1], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.STATEMENT-OF-CLAIM"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.STATEMENT-OF-CLAIM" type="ext"/><emph typestyle="bf">statement of claim</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.THE-ACT"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.THE-ACT" type="ext"/><emph typestyle="bf">the Act</emph></defterm> <defdesc>
+<p><text>means the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink></ci:content></ci:cite>
+.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Gaz 139 of 5 September 1986  p 4327]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.TUTOR"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.TUTOR" type="ext"/><emph typestyle="bf">tutor</emph></defterm> <leg:histnote>
+<p><text>[def  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.WORKCOVER-AUTHORITY"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.WORKCOVER-AUTHORITY" type="ext"/><emph typestyle="bf">WorkCover Authority</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 95 of 8 August 2008  r 2 and Sch 1[1], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.DC.DCRN.PT1.R4.1.WORKERS-COMPENSATION-ACTS"><defterm><refpt id="UCPN.DC.DCRN.PT1.R4.1.WORKERS-COMPENSATION-ACTS" type="ext"/><emph typestyle="bf">Workers Compensation Acts</emph></defterm><leg:histnote>
+<p><text>[def  rep Gaz 95 of 8 August 2008  r 2 and Sch 1[1], effective 8 August 2008]</text></p></leg:histnote></defitem></deflist>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf SCR Pt 1 r 8(1)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R4.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCRN.PT1.R4.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In these rules, words and expressions that are defined in the Civil Procedure Act 2005 or the Uniform Civil Procedure Rules 2005 have the same meanings as they have in that Act and those rules.</text></p>
+<leg:histnote>
+<p><text>[subr (2)  subst Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R4.2A"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCRN.PT1.R4.2A" type="ext"/>(2A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subr (2A)  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R4.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCRN.PT1.R4.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subr (3)  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R4.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCRN.PT1.R4.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes in the text of these rules do not form part of these rules.</text></p>
+<leg:histnote>
+<p><text>[subr (4)  insrt Gaz 168 of 22 December 2000  p 13621]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 5] r 5 Adherence to and relief from rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R5" type="ext"/>[DCR Pt 1 r 5]</edpnum><title searchtype="RUL-TITLE">Adherence to and relief from rules</title><desig searchtype="RUL-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R5A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 5A] r 5A Procedure wanting or in doubt">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R5A" type="ext"/>[DCR Pt 1 r 5A]</edpnum><title searchtype="RUL-TITLE">Procedure wanting or in doubt</title><desig searchtype="RUL-NUM"><designum>5A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 5A  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 6] r 6 Seal of the Court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R6" type="ext"/>[DCR Pt 1 r 6]</edpnum><title searchtype="RUL-TITLE">Seal of the Court</title><desig searchtype="RUL-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<l><li id="UCPN.DC.DCRN.PT1.R6.1"><lilabel><refpt id="UCPN.DC.DCRN.PT1.R6.1" type="ext"/>(1)</lilabel>
+<p><text>The registrar is to seal or stamp the following documents (or cause the documents to be sealed or stamped) with the seal of the Court:</text></p>
+<l><li id="UCPN.DC.DCRN.PT1.R6.1.A"><lilabel><refpt id="UCPN.DC.DCRN.PT1.R6.1.A" type="ext"/>(a)</lilabel>
+<p><text>any order, notice, warrant, certificate, judgment or process made, given or issued by the registrar (or any copy of such a document),</text></p>
+</li><li id="UCPN.DC.DCRN.PT1.R6.1.B"><lilabel><refpt id="UCPN.DC.DCRN.PT1.R6.1.B" type="ext"/>(b)</lilabel>
+<p><text>any other document issued by the registrar that is required by the rules to be sealed.</text></p>
+</li></l></li>
+<li id="UCPN.DC.DCRN.PT1.R6.2"><lilabel><refpt id="UCPN.DC.DCRN.PT1.R6.2" type="ext"/>(2)</lilabel>
+<p><text>Without limiting subrule (1), a document may be stamped with the seal of the Court by any of the following means:</text></p>
+<l><li id="UCPN.DC.DCRN.PT1.R6.2.A"><lilabel><refpt id="UCPN.DC.DCRN.PT1.R6.2.A" type="ext"/>(a)</lilabel>
+<p><text>affixing the seal on the document by means of a rubber stamp,</text></p>
+</li><li id="UCPN.DC.DCRN.PT1.R6.2.B"><lilabel><refpt id="UCPN.DC.DCRN.PT1.R6.2.B" type="ext"/>(b)</lilabel>
+<p><text>affixing an adhesive label on the document with a representation of the seal printed on it,</text></p>
+</li><li id="UCPN.DC.DCRN.PT1.R6.2.C"><lilabel><refpt id="UCPN.DC.DCRN.PT1.R6.2.C" type="ext"/>(c)</lilabel>
+<p><text>printing a representation of the seal on the document by electronic or mechanical means.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[r 6  subst Gaz 143 of 21 September 2001  p 7899]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.DC.DCRN.PT1.R6.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_DC.SGM_UCPN.DC.PT1.R6-5" leveltype="para0" subdoc="true" toc-caption="[DCR Pt 1 r 6.5] Requirement for sealing"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.PT1.R6-5" type="ext"/>[DCR Pt 1 r 6.5] </edpnum><title>Requirement for sealing</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A convenient summary of the history of court seals in New South Wales is set out in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1953"/></ci:caseinfo><ci:caseref ID="cr000668" spanref="cr000668-001" status="unval"><ci:reporter value="SRNSW"/><ci:volume num="53"/><ci:page num="80"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Saffron v Delaney</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000668-001" status="unval">(1953) 53 SR (NSW) 80</ci:span></citefragment> <remotelink dpsi="0018" refpt="73060" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. It has been held in relation to a bankruptcy notice that signing and stamping was essential to the validity of the notice: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr000669" spanref="cr000669-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="30"/><ci:page num="112"/></ci:caseref><ci:caseref ID="cr000670" spanref="cr000670-002"><ci:reporter value="ALR"/><ci:volume num="102"/><ci:page num="206"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re O'Sullivan; Ex parte Bank of New Zealand</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000669-001" status="unval">(1991) 30 FCR 112</ci:span>; <ci:span spanid="cr000670-002">102 ALR 206</ci:span></citefragment> <remotelink dpsi="0018" refpt="25972" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. It is arguable that sealing of the documents set out in r 6 is also essential for their validity. </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 7] r 7 Order on Terms">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R7" type="ext"/>[DCR Pt 1 r 7]</edpnum><title searchtype="RUL-TITLE">Order on Terms</title><desig searchtype="RUL-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT1.R7A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 1 r 7A] r 7A Effect of certain orders dismissing proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT1.R7A" type="ext"/>[DCR Pt 1 r 7A]</edpnum><title searchtype="RUL-TITLE">Effect of certain orders dismissing proceedings</title><desig searchtype="RUL-NUM"><designum>7A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7A  rep Gaz 81 of 1 July 2005  r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

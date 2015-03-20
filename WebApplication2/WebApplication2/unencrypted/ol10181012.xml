@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[295,280] SCHEDULE 1 ANCILLARY RELIEF</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CRA.SCH1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CONTRACTS REVIEW ACT 1980 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>[295,280] SCHEDULE 1 ANCILLARY RELIEF</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140090040</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CRA"/><docinfo:metaitem name="parent-filename" value="ol1018.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 16, 1980</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CONTRACTS REVIEW ACT 1980 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.CRA.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN_OL.SGM_SCHEDULE.GRP_9"><leg:level-vrnt leveltype="schedulegrp" searchtype="LEGISLATION SCHEDULEGRP"><leg:heading ln.user-displayed="false"><title>[Schedules]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.SCH1"><leg:level-vrnt leveltype="schedule" searchtype="LEGISLATION SCHEDULE" subdoc="false" toc-caption="[295,280] SCHEDULE 1 ANCILLARY RELIEF">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><edpnum><refpt id="UCPN.OL.CRA.SCH1" type="ext"/>[295,280]</edpnum><desig searchtype="SCH-NUM"><designum>SCHEDULE 1</designum></desig><title searchtype="SCH-TITLE">ANCILLARY RELIEF</title><leg:empleg>(
+<remotelink dpsi="05CC" refpt="UCPN.OL.CRA.S8" remotekey1="REFPTID" service="DOC-ID">Sec 8</remotelink>
+ )</leg:empleg></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CRA.SCH1.CL1"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 1.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.OL.CRA.SCH1.CL1" type="ext"/>1.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the Court makes a decision or order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CRA.S7" remotekey1="REFPTID" service="DOC-ID">section 7</remotelink></ci:content></ci:cite>
+ , it may also make such orders as may be just in the circumstances for or with respect to any consequential or related matter, including orders for or with respect to:</text></p>
+<l><li id="UCPN.OL.CRA.SCH1.CL1..A"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..A" type="ext"/>(a)</lilabel>
+<p><text>the making of any disposition of property;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..B"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..B" type="ext"/>(b)</lilabel>
+<p><text>the payment of money (whether or not by way of compensation) to a party to the contract;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..C"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..C" type="ext"/>(c)</lilabel>
+<p><text>the compensation of a person who is not a party to the contract and whose interest might otherwise be prejudiced by a decision or order under this Act;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..D"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..D" type="ext"/>(d)</lilabel>
+<p><text>the supply or repair of goods;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..E"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..E" type="ext"/>(e)</lilabel>
+<p><text>the supply of services;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..F"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..F" type="ext"/>(f)</lilabel>
+<p><text>the sale or other realisation of property;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..G"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..G" type="ext"/>(g)</lilabel>
+<p><text>the disposal of the proceeds of sale or other realisation of property;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..H"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..H" type="ext"/>(h)</lilabel>
+<p><text>the creation of a charge on property in favour of any person;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..I"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..I" type="ext"/>(i)</lilabel>
+<p><text>the enforcement of a charge so created;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..J"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..J" type="ext"/>(j)</lilabel>
+<p><text>the appointment and regulation of the proceedings of a receiver of property; and</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL1..K"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL1..K" type="ext"/>(k)</lilabel>
+<p><text>the rescission or variation of any order of the Court under this clause,</text></p>
+</li>
+</l>
+<p><text>and such orders in connection with the proceedings as may be just in the circumstances.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.SCH1.CL2"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 2.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.OL.CRA.SCH1.CL2" type="ext"/>2.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may make orders under this Schedule on such terms and conditions (if any) as the Court thinks fit.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.SCH1.CL3"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 3.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.OL.CRA.SCH1.CL3" type="ext"/>3.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CRA.S6" remotekey1="REFPTID" service="DOC-ID">section 6</remotelink></ci:content></ci:cite>
+ limits the powers of the Court under this Schedule.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CRA.SCH1.CL4"><leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 4.">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig searchtype="CLAUSE-NUM"><designum><refpt id="UCPN.OL.CRA.SCH1.CL4" type="ext"/>4.</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Schedule:</text></p>
+<deflist><defitem id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY"><defterm><refpt id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY" type="ext"/><emph typestyle="bf">&#x201c;disposition of property&#x201d;</emph></defterm>   <defdesc>
+<p><text>includes:</text></p>
+<l><li id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY..A"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY..A" type="ext"/>(a)</lilabel>
+<p><text>a conveyance, transfer, assignment, appointment, settlement, mortgage, delivery, payment, lease, bailment, reconveyance or discharge of mortgage;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY..B"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY..B" type="ext"/>(b)</lilabel>
+<p><text>the creation of a trust;</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY..C"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY..C" type="ext"/>(c)</lilabel>
+<p><text>the release or surrender of any property; and</text></p>
+</li>
+<li id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY..D"><lilabel><refpt id="UCPN.OL.CRA.SCH1.CL4.DISPOSITION-OF-PROPERTY..D" type="ext"/>(d)</lilabel>
+<p><text>the grant of a power in respect of property,</text></p>
+</li>
+</l>
+<p><text>whether having effect at law or in equity;</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.OL.CRA.SCH1.CL4.PROPERTY"><defterm><refpt id="UCPN.OL.CRA.SCH1.CL4.PROPERTY" type="ext"/><emph typestyle="bf">&#x201c;property&#x201d;</emph></defterm>   <defdesc>
+<p><text>includes real and personal property and any estate or interest in property real or personal, and money, and any debt, and any cause of action for damages (including damages for personal injury), and any other chose in action, and any other right or interest.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

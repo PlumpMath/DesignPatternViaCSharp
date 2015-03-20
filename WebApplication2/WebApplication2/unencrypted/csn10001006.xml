@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 3 GENERAL [ss 17, 18]</docinfo:doc-heading><docinfo:doc-id>UCPN.CSN.CSNOAN10.PT3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Court Suppression and Non-publication Orders Act 2010 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>COURT SUPPRESSION AND NON-PUBLICATION ORDERS ACT 2010 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 3 GENERAL [ss 17, 18]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>120000020</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.CSN"/><docinfo:metaitem name="parent-filename" value="csn.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_CSN.SGM_UCPN.CSN.CSNOAN10"/><docinfo:metaitem name="parent-filename" value="csn1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 106, 2010</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">COURT SUPPRESSION AND NON-PUBLICATION ORDERS ACT 2010 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.CSN.CSNOAN10.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.CSN.CSNOAN10.PT3"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3 GENERAL [ss 17, 18]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.CSN.CSNOAN10.PT3" type="ext"/>PART 3</designum></desig><title searchtype="PART-TITLE">GENERAL [ss 17, 18]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CSN.CSNOAN10.S17"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[60,270] s 17 Proceedings for offences">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CSN.CSNOAN10.S17" type="ext"/>[60,270]</edpnum><title searchtype="SECT-TITLE">Proceedings for offences</title><desig searchtype="SECT-NUM"><designum>17</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CSN.CSNOAN10.S17.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CSN.CSNOAN10.S17.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings for an offence under this Act are to be dealt with:</text></p>
+<l><li id="UCPN.CSN.CSNOAN10.S17.1.A"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S17.1.A" type="ext"/>(a)</lilabel>
+<p><text>summarily before the Local Court, or</text></p>
+</li>
+<li id="UCPN.CSN.CSNOAN10.S17.1.B"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S17.1.B" type="ext"/>(b)</lilabel>
+<p><text>summarily before the Supreme Court in its summary jurisdiction.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CSN.CSNOAN10.S17.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CSN.CSNOAN10.S17.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If proceedings are brought in the Local Court, the maximum monetary penalty that the Local Court may impose for the offence, despite any higher maximum monetary penalty provided by this Act in respect of the offence, is:</text></p>
+<l><li id="UCPN.CSN.CSNOAN10.S17.2.A"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S17.2.A" type="ext"/>(a)</lilabel>
+<p><text>for an individual, 100 penalty units, or</text></p>
+</li>
+<li id="UCPN.CSN.CSNOAN10.S17.2.B"><lilabel><refpt id="UCPN.CSN.CSNOAN10.S17.2.B" type="ext"/>(b)</lilabel>
+<p><text>for a body corporate, 500 penalty units.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CSN.CSNOAN10.S18"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[60,275] s 18 Regulations">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CSN.CSNOAN10.S18" type="ext"/>[60,275]</edpnum><title searchtype="SECT-TITLE">Regulations</title><desig searchtype="SECT-NUM"><designum>18</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may make regulations, not inconsistent with this Act, for or with respect to any matter that by this Act is required or permitted to be prescribed or that is necessary or convenient to be prescribed for carrying out or giving effect to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

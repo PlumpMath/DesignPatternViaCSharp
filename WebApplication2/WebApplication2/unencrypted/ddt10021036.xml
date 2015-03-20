@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="regulations" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 5 SUBPOENAS [cll 68&#x2013;83]</docinfo:doc-heading><docinfo:doc-id>UCPN.DDT.DDTRN07.PT5</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Dust Diseases Tribunal</title></heading><docinfo:hierlev role="ancestor"><heading><title>DUST DISEASES TRIBUNAL REGULATION 2007 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 5 SUBPOENAS [cll 68&#x2013;83]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>170010120</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DDT"/><docinfo:metaitem name="parent-filename" value="ddt.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DDT.SGM_UCPN.DDT.DDTRN07"/><docinfo:metaitem name="parent-filename" value="ddt1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>regulations</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 467, 2007</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">DUST DISEASES TRIBUNAL  REGULATION 2007 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.DDT.DDTRN07.BODY"><leg:level-vrnt leveltype="regulation" searchtype="LEGISLATION REGULATION"><leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.PT5"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 5 SUBPOENAS [cll 68&#x2013;83]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.DDT.DDTRN07.PT5" type="ext"/>PART 5</designum></desig><title searchtype="PART-TITLE">SUBPOENAS [cll 68&#x2013;83]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG68"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,810] reg 68 Interpretation and application">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG68" type="ext"/>[472,810]</edpnum><title searchtype="REG-TITLE">Interpretation and application</title><desig searchtype="REG-NUM"><designum>68</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG68.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG68.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.DDT.DDTRN07.REG68.1.ACCESS-ORDER"><defterm><refpt id="UCPN.DDT.DDTRN07.REG68.1.ACCESS-ORDER" type="ext"/><emph typestyle="bf">access order</emph></defterm><defdesc>
+<p><text>, in relation to a subpoena requiring production, means an order of the Tribunal granting access to specified documents or things produced pursuant to the subpoena (whether with or without conditions).</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTRN07.REG68.1.PERSON-NAMED"><defterm><refpt id="UCPN.DDT.DDTRN07.REG68.1.PERSON-NAMED" type="ext"/><emph typestyle="bf">person named</emph></defterm><defdesc>
+<p><text>means, in relation to a subpoena, the person to whom the subpoena is addressed.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING"><defterm><refpt id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING" type="ext"/><emph typestyle="bf">privileged document or thing</emph></defterm><defdesc>
+<p><text>, in relation to a subpoena, means:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING.A" type="ext"/>(a)</lilabel>
+<p><text>a document or thing of which evidence could not be adduced in an action over the objection of any person, by virtue of the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.PT3-10" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 3.10</remotelink></ci:content></ci:cite>
+ (other than 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S128" remotekey1="REFPTID" service="DOC-ID">sections 128</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S130" remotekey1="REFPTID" service="DOC-ID">130</remotelink></ci:content></ci:cite>
+) of the Evidence Act 1995, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING.B" type="ext"/>(b)</lilabel>
+<p><text>if the party on whom the subpoena is served is a natural person &#x2014; a document or thing the contents or production of which may tend to prove that the party:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING.B.I"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING.B.I" type="ext"/>(i)</lilabel>
+<p><text>has committed an offence against or arising under an Australian law or a law of a foreign country, or</text></p>
+</li><li id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING.B.II"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG68.1.PRIVILEGED-DOCUMENT-OR-THING.B.II" type="ext"/>(ii)</lilabel>
+<p><text>is liable to a civil penalty, within the meaning of the Evidence Act 1995, or</text></p>
+</li></l></li>
+<li id="UCPN.DDT.DDTRN07.REG68.1.C"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG68.1.C" type="ext"/>(c)</lilabel>
+<p><text>a document that relates to matters of state within the meaning of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.EV.EAN95.S130" remotekey1="REFPTID" service="DOC-ID">section 130</remotelink></ci:content></ci:cite>
+ of the Evidence Act 1995, unless and until the Tribunal directs that it cease to be a privileged document.</text></p>
+</li>
+</l></defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTRN07.REG68.1.REQUESTING-PARTY"><defterm><refpt id="UCPN.DDT.DDTRN07.REG68.1.REQUESTING-PARTY" type="ext"/><emph typestyle="bf">requesting party</emph></defterm><defdesc>
+<p><text>for a subpoena means a person who is requesting, or who has requested, the issue of the subpoena.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.DDT.DDTRN07.REG68.1.RETURN-DATE"><defterm><refpt id="UCPN.DDT.DDTRN07.REG68.1.RETURN-DATE" type="ext"/><emph typestyle="bf">return date</emph></defterm><defdesc>
+<p><text>for a subpoena means the date on which the subpoena is returnable.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG68.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG68.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to subpoenas issued on or after the commencement of this Part.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG68.3"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG68.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Part apply to the exclusion of the equivalent provisions of rules of court.</text></p>
+<glp:note>
+<heading><title>NOTE:</title></heading>
+<p>
+<text>This Part applies to all claims, not just claims that are subject to the claims resolution process under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTRN07.PT4" remotekey1="REFPTID" service="DOC-ID">Part 4</remotelink></ci:content></ci:cite>
+.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG69"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,815] reg 69 Conduct money">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG69" type="ext"/>[472,815]</edpnum><title searchtype="REG-TITLE">Conduct money</title><desig searchtype="REG-NUM"><designum>69</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG69.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG69.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena must not require the person named to attend or produce any document or thing on any day on which the person&#x2019;s attendance is required unless an amount sufficient to meet the reasonable expenses of the person named of complying with the subpoena in relation to that day is paid or tendered to the person at the time of service of the subpoena or not later than a reasonable time before that day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG69.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG69.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The amount mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.S20.6" remotekey1="REFPTID" service="DOC-ID">section 20(6)</remotelink></ci:content></ci:cite>
+ of the Act is to be, in respect of a person duly served with a subpoena in any proceedings, the amount which would be payable in respect of that person if the party issuing the subpoena were entitled to claim witness&#x2019; expenses in respect of that person as costs in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG70"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,820] reg 70 Production by non-party">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG70" type="ext"/>[472,820]</edpnum><title searchtype="REG-TITLE">Production by non-party</title><desig searchtype="REG-NUM"><designum>70</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG70.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG70.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the person named in a subpoena for production of any document or thing is not a party to the proceedings, the subpoena must, unless the Tribunal otherwise orders, permit the person to produce the document or thing to the Registrar not later than the day before the first date on which the person&#x2019;s attendance is required, instead of attending and producing the document or thing as required by the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG70.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG70.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a document or thing is produced to the Registrar pursuant to subclause (1), the Registrar must:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG70.2.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG70.2.A" type="ext"/>(a)</lilabel>
+<p><text>give a receipt to the person producing the document or thing, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG70.2.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG70.2.B" type="ext"/>(b)</lilabel>
+<p><text>produce the document or thing as the nature of the case requires or as the Tribunal may direct.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG70.3"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG70.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This clause does not apply to so much of a subpoena as requires the person named to attend to testify in any proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG71"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,825] reg 71 Return of exhibits">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG71" type="ext"/>[472,825]</edpnum><title searchtype="REG-TITLE">Return of exhibits</title><desig searchtype="REG-NUM"><designum>71</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG71.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG71.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Exhibits in any proceedings must be returned to the persons who produced them (whether on subpoena or otherwise) to the Tribunal or the Registrar:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG71.1.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG71.1.A" type="ext"/>(a)</lilabel>
+<p><text>if the Tribunal makes no order that the exhibits be retained &#x2014; immediately after judgment is given or a final order made, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG71.1.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG71.1.B" type="ext"/>(b)</lilabel>
+<p><text>if the Tribunal makes an order that the exhibits be retained &#x2014; at the expiration of the period of 30 days after judgment is given or a final order made or such other period as may be specified in the order.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG71.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG71.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person to whom exhibits may be returned under subclause (1) must obtain the return of, and give to the Registrar a receipt for, the exhibits as soon as practicable, and the Registrar is responsible for the safe custody of any exhibits in the Registrar&#x2019;s keeping for a period only of 14 days after the first day on which the exhibits may be so returned.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG72"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,830] reg 72 Issue">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG72" type="ext"/>[472,830]</edpnum><title searchtype="REG-TITLE">Issue</title><desig searchtype="REG-NUM"><designum>72</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG72.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG72.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On request by a party, the Registrar must issue a subpoena to give evidence or a subpoena for production or a subpoena both to give evidence and for production.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG72.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG72.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subclause (1) does not prevent the issue of a subpoena to give evidence and a subpoena for production to the same person in the same proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG72.3"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG72.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to subclause (4) a party requesting the issue of a subpoena must produce the subpoena to the Registrar in duplicate.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG72.4"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG72.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a party requests in any proceedings the issue of several subpoenas to give evidence in similar terms but addressed to different persons, the party need produce only one original, but that original must contain the name of each person to whom any of the subpoenas is addressed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG72.5"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG72.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Registrar is not required to place a copy of the subpoena on the Tribunal&#x2019;s file.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG72.6"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG72.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena for production may be made returnable on the day fixed for the hearing of the proceedings in which it is issued, or, with the leave of the Tribunal or the Registrar, on any other day.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG72.7"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG72.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>While a claim is subject to the claims resolution process under Part 4, a subpoena for production of any document or thing:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG72.7.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG72.7.A" type="ext"/>(a)</lilabel>
+<p><text>is to be made returnable on a day that is no later than 5 business days before the start of mediation on the claim under that Part, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG72.7.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG72.7.B" type="ext"/>(b)</lilabel>
+<p><text>must permit the person named in the subpoena (whether or not the person is a party) to produce the document or thing to the Registrar, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG72.7.C"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG72.7.C" type="ext"/>(c)</lilabel>
+<p><text>does not require leave under subclause (6) if a copy of the subpoena is served at least 10 business days before the return date of the subpoena.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG73"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,835] reg 73 Notice to be given to other parties concerning subpoenas requiring production">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG73" type="ext"/>[472,835]</edpnum><title searchtype="REG-TITLE">Notice to be given to other parties concerning subpoenas requiring production</title><desig searchtype="REG-NUM"><designum>73</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG73.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG73.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The requesting party for any subpoena requiring production must serve each other party who has an address for service in the proceedings with a copy of the subpoena:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG73.1.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG73.1.A" type="ext"/>(a)</lilabel>
+<p><text>if the return date of the subpoena is on a day that is 14 days or more after the subpoena is issued &#x2014; within the period of 7 days after the subpoena is issued, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG73.1.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG73.1.B" type="ext"/>(b)</lilabel>
+<p><text>if the return date of the subpoena is on a day that is less than 14 days after the subpoena is issued &#x2014; within 24 hours after the subpoena is issued.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG73.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG73.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The requesting party for a subpoena requiring production who fails to comply with subclause (1) must notify the Tribunal of that failure at the next date on which the subpoena is returnable.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG73.3"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG73.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The requesting party for a subpoena requiring production must notify each other party to the proceedings who has an address for service in the proceedings of any new return date for the subpoena fixed after the subpoena is first issued:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG73.3.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG73.3.A" type="ext"/>(a)</lilabel>
+<p><text>if the return date of the subpoena is on a day that is 14 days or more after the new date is fixed &#x2014; within the period of 7 days after the new date is fixed, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG73.3.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG73.3.B" type="ext"/>(b)</lilabel>
+<p><text>if the return date of the subpoena is on a day that is less than 14 days after the new date is fixed&#x2014;within 24 hours after the new date is fixed.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG73.4"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG73.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal or the Registrar may make an order for costs against a requesting party for a subpoena requiring production if that party fails to comply with subclause (2) or (3), but only in respect of costs incurred by reason of that failure.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG73.5"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG73.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A requesting party for a subpoena requiring production need not comply with a requirement under subclause (1), (2) or (3) if the person named is excused from compliance with the subpoena by the requesting party under 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.CL81.2" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 81(2)</remotelink>
+ (Alteration to obligations) before the time when the requesting party had to comply with that requirement.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG73.6"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG73.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this clause affects the operation of 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.CL78" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 78</remotelink>
+ (Subpoena to medical expert).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG74"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,840] reg 74 Access to subpoenaed material">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG74" type="ext"/>[472,840]</edpnum><title searchtype="REG-TITLE">Access to subpoenaed material</title><desig searchtype="REG-NUM"><designum>74</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG74.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG74.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may make an access order in relation to a subpoena requiring production at the time the subpoena is issued or at any time after it is issued.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG74.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG74.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If an access order has effect in relation to a subpoena for production, a party or the party&#x2019;s barrister or solicitor may (subject to the terms of the order):</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG74.2.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG74.2.A" type="ext"/>(a)</lilabel>
+<p><text>inspect documents or things produced in compliance with the subpoena, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG74.2.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG74.2.B" type="ext"/>(b)</lilabel>
+<p><text>take copies of any documents so inspected.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG75"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,845] reg 75 Proposed access orders">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG75" type="ext"/>[472,845]</edpnum><title searchtype="REG-TITLE">Proposed access orders</title><desig searchtype="REG-NUM"><designum>75</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG75.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG75.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal orders otherwise, the requesting party for a subpoena requiring production must endorse a proposed access order on the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG75.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG75.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.CL74" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 74</remotelink>
+ (Access to subpoenaed material), the Tribunal may:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG75.2.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG75.2.A" type="ext"/>(a)</lilabel>
+<p><text>endorse a proposed access order on a subpoena requiring production if the requesting party has not endorsed such a proposed order, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG75.2.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG75.2.B" type="ext"/>(b)</lilabel>
+<p><text>endorse a proposed access order on a subpoena requiring production in different terms to a proposed order endorsed by the requesting party.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG75.3"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG75.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Tribunal orders otherwise, any such proposed access order has effect as an access order immediately after the next return date for the subpoena if:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG75.3.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG75.3.A" type="ext"/>(a)</lilabel>
+<p><text>documents or things are produced in compliance with the subpoena on or before that date, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG75.3.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG75.3.B" type="ext"/>(b)</lilabel>
+<p><text>no person appears before the Registrar or Tribunal on the return date in opposition to the proposed order.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG75.4"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG75.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting subclause (3), the Tribunal may take into account a failure to comply with subclause (5) or (6) or 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.CL73.1" remotekey1="REFPTID" service="DOC-ID" status="unval">clause 73(1)</remotelink>
+, 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.CL73.2" remotekey1="REFPTID" service="DOC-ID" status="unval">(2)</remotelink>
+ or 
+<remotelink dpsi="05CC" refpt="UCPN.DDT.DDTN89.CL73.3" remotekey1="REFPTID" service="DOC-ID" status="unval">(3)</remotelink>
+ in determining whether a proposed access order should have effect according to its tenor or whether an order is to be made to modify or revoke the proposed access order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG75.5"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG75.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party or a person named in a subpoena requiring production who proposes to object to the proposed access order on the return date for the subpoena must notify the requesting party of the objection:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG75.5.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG75.5.A" type="ext"/>(a)</lilabel>
+<p><text>if the party or person is served with a copy of the subpoena on a day that is 14 days or more before the return date&#x2014;within the period of 3 days after the party or person is served, or</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG75.5.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG75.5.B" type="ext"/>(b)</lilabel>
+<p><text>if the party or person is served with a copy of the subpoena on a day that is less than 14 days before the return date &#x2014; within the period of 24 hours after the party or person is served.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG75.6"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG75.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A requesting party who has received notice of an objection to a proposed access order must notify all of the other parties who have an address for service in the proceedings of the objection within 24 hours after receiving that notice.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG76"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,850] reg 76 Exercise of functions by Registrar">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG76" type="ext"/>[472,850]</edpnum><title searchtype="REG-TITLE">Exercise of functions by Registrar</title><desig searchtype="REG-NUM"><designum>76</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The functions of the Tribunal under clauses 74 and 75 may, unless the Tribunal otherwise orders, be exercised by the Registrar.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG77"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,855] reg 77 Time for service">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG77" type="ext"/>[472,855]</edpnum><title searchtype="REG-TITLE">Time for service</title><desig searchtype="REG-NUM"><designum>77</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG77.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG77.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena must be served on the person named within a reasonable time.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG77.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG77.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without affecting the generality of subclause (1), where a subpoena requires attendance or production or both on a specified date, the subpoena may not be served on the person named later than 5 days before the date so specified unless the Tribunal or Registrar otherwise orders.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG77.3"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG77.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to subclause (4), service of a subpoena for production which requires production on a specified date, being a date not later than 21 days before the hearing of the proceedings in which the subpoena is issued, may be effected by sending a copy of the subpoena by pre-paid post addressed to the person named at that person&#x2019;s usual or last known residence or place of business.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG77.4"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG77.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Service pursuant to subclause (3) is not effective unless and until the subpoena is actually received by the person named.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG78"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,860] reg 78 Subpoena to medical expert">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG78" type="ext"/>[472,860]</edpnum><title searchtype="REG-TITLE">Subpoena to medical expert</title><desig searchtype="REG-NUM"><designum>78</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG78.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG78.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a subpoena requires a medical expert to attend in Sydney on a specified date for the purposes of giving evidence on medical matters, the subpoena may not be served on the expert later than 21 days before the date so specified unless the Tribunal otherwise orders.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG78.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG78.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party may request the issue of a subpoena for production in the approved form requiring a medical expert to attend and produce medical records or clear sharp photocopies of them.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG78.3"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG78.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A subpoena requested under subclause (2) must not require the person named to attend or produce any document on any date specified unless the amount of $28 is paid or tendered to the person at the time of service of the subpoena or not later than a reasonable time before that specified date.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG78.4"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG78.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTRN07.REG69" remotekey1="REFPTID" service="DOC-ID">Clause 69</remotelink></ci:content></ci:cite>
+ (Conduct money) does not apply to a subpoena requested under subclause (2).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG78.5"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG78.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTRN07.REG70" remotekey1="REFPTID" service="DOC-ID">Clause 70</remotelink></ci:content></ci:cite>
+ (Production by non-party) applies to the photocopies as it applies to the records.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG79"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,865] reg 79 Setting aside">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG79" type="ext"/>[472,865]</edpnum><title searchtype="REG-TITLE">Setting aside</title><desig searchtype="REG-NUM"><designum>79</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may, of its own motion or on the motion of any person having a sufficient interest, set aside a subpoena wholly or in part.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG80"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,870] reg 80 Expense and loss">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG80" type="ext"/>[472,870]</edpnum><title searchtype="REG-TITLE">Expense and loss</title><desig searchtype="REG-NUM"><designum>80</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a person named is not a party and, in consequence of service of the subpoena, reasonably incurs expense or loss substantially exceeding any sum paid under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DDT.DDTRN07.REG69" remotekey1="REFPTID" service="DOC-ID">clause 69</remotelink></ci:content></ci:cite>
+ (Conduct money), the Tribunal may order that the party who requested the issue of the subpoena pay to the person named an amount in respect of the expense or loss.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG81"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,875] reg 81 Alteration to obligations">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG81" type="ext"/>[472,875]</edpnum><title searchtype="REG-TITLE">Alteration to obligations</title><desig searchtype="REG-NUM"><designum>81</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG81.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG81.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party who has requested the issue of a subpoena to give evidence may, by written or oral notice to the person named, alter the day specified in the subpoena for attendance to a day which is:</text></p>
+<l><li id="UCPN.DDT.DDTRN07.REG81.1.A"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG81.1.A" type="ext"/>(a)</lilabel>
+<p><text>later than the day specified in the subpoena and the day, if any, as last altered pursuant to this subclause, and</text></p>
+</li>
+<li id="UCPN.DDT.DDTRN07.REG81.1.B"><lilabel><refpt id="UCPN.DDT.DDTRN07.REG81.1.B" type="ext"/>(b)</lilabel>
+<p><text>the day of the hearing of the action.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG81.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG81.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the person named in any subpoena has not been called to give evidence, or produce documents, before the Tribunal in compliance with the subpoena, the party who requested the issue of the subpoena may, by written or oral notice to the person named, excuse that person from compliance with the subpoena.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG82"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,880] reg 82 Special powers of Tribunal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG82" type="ext"/>[472,880]</edpnum><title searchtype="REG-TITLE">Special powers of Tribunal</title><desig searchtype="REG-NUM"><designum>82</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DDT.DDTRN07.REG82.1"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG82.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may, by order, dispense with any requirement of this Part if satisfied that it is appropriate to do so in the circumstances of the case.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG82.2"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG82.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may, by order, extend or abridge any time fixed under this Part.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG82.3"><leg:level-vrnt leveltype="subreg" searchtype="LEGISLATION SUBREG">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DDT.DDTRN07.REG82.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Tribunal may extend time under this clause, either before or after the time expires, and may do so after the time expires even if an application for extension is made after the time expires.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DDT.DDTRN07.REG83"><leg:level-vrnt leveltype="reg" searchtype="LEGISLATION REG" subdoc="true" toc-caption="[472,885] reg 83 Application of Part 3.10 of Evidence Act 1995">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DDT.DDTRN07.REG83" type="ext"/>[472,885]</edpnum><title searchtype="REG-TITLE">Application of Part 3.10 of Evidence Act 1995</title><desig searchtype="REG-NUM"><designum>83</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Part compels a person on whom a subpoena is served to produce a privileged document or thing.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+    <docinfo partitionnum="2">
+        <docinfo:dpsi id-string="05CC"/>
+        <docinfo:doc-heading>PART 5 COSTS IN COAL MINERS&#x2019; WORKERS COMPENSATION LIST AND SPECIAL STATUTORY COMPENSATION LIST MATTERS [rr 46&#x2013;59]</docinfo:doc-heading>
+        <docinfo:doc-id>UCPN.UCPR.UCPN05.SCH11.PT5</docinfo:doc-id>
+        <docinfo:doc-lang lang="en"/>
+        <docinfo:doc-country iso-cc="AU"/>
+        <docinfo:hier>
+            <docinfo:hierlev role="ancestor">
+                <heading>
+                    <title>Uniform Civil Procedure Rules 2005 (NSW)</title>
+                </heading>
+                <docinfo:hierlev role="ancestor">
+                    <heading>
+                        <title>UNIFORM CIVIL PROCEDURE RULES 2005</title>
+                    </heading>
+                    <docinfo:hierlev role="ancestor">
+                        <heading>
+                            <title>[Sch 11] SCHEDULE 11 PROVISIONS REGARDING PROCEDURE IN CERTAIN LISTS IN THE DISTRICT COURT</title>
+                        </heading>
+                        <docinfo:hierlev role="me">
+                            <heading>
+                                <title>PART 5 COSTS IN COAL MINERS&#x2019; WORKERS COMPENSATION LIST AND SPECIAL STATUTORY COMPENSATION LIST MATTERS [rr 46&#x2013;59]</title>
+                            </heading>
+                        </docinfo:hierlev>
+                    </docinfo:hierlev>
+                </docinfo:hierlev>
+            </docinfo:hierlev>
+        </docinfo:hier>
+        <docinfo:bookseqnum>50012040</docinfo:bookseqnum>
+        <docinfo:lbu-meta>
+            <docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/>
+            <docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/>
+            <docinfo:metaitem name="parent-filename" value="ucpr.xml"/>
+            <docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/>
+            <docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/>
+        </docinfo:lbu-meta>
+        <docinfo:selector>legislation</docinfo:selector>
+        <docinfo:selector>court-rules</docinfo:selector>
+        <docinfo:load-date>
+            <date day="10" month="11" year="2011">10 November 2011</date>
+        </docinfo:load-date>
+        <docinfo:topiccodes>
+            <docinfo:topiccode>#PA#CODE#</docinfo:topiccode>
+        </docinfo:topiccodes>
+    </docinfo>
+    <leg:body>
+        <leg:info>
+            <leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris>
+            <leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname>
+        </leg:info>
+        <leg:level id="UCPN.UCPR.UCPRN05.BODY">
+            <leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE">
+                <leg:levelbody>
+                    <leg:level id="UCPN_UCPR.SGM_SCHEDULE.GRP_4">
+                        <leg:level-vrnt leveltype="schedulegrp" searchtype="LEGISLATION SCHEDULEGRP">
+                            <leg:levelbody>
+                                <leg:level id="UCPN.UCPR.UCPRN05.SCH11">
+                                    <leg:level-vrnt leveltype="schedule" searchtype="LEGISLATION SCHEDULE" subdoc="false" toc-caption="[Sch 11] SCHEDULE 11 PROVISIONS REGARDING PROCEDURE IN CERTAIN LISTS IN THE DISTRICT COURT">
+                                        <leg:levelbody>
+                                            <leg:level id="UCPN.UCPR.UCPN05.SCH11.PT5">
+                                                <leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 5 COSTS IN COAL MINERS&#x2019; WORKERS COMPENSATION LIST AND SPECIAL STATUTORY COMPENSATION LIST MATTERS [rr 46&#x2013;59]">
+                                                    <leg:heading>
+                                                        <desig searchtype="PART-NUM">
+                                                            <designum>
+                                                                <refpt id="UCPN.UCPR.UCPN05.SCH11.PT5" type="ext"/>PART 5</designum>
+                                                        </desig>
+                                                        <title searchtype="PART-TITLE">COSTS IN COAL MINERS&#x2019; WORKERS COMPENSATION LIST AND SPECIAL STATUTORY COMPENSATION LIST MATTERS [rr 46&#x2013;59]</title>
+                                                    </leg:heading>
+                                                    <leg:levelbody>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL46">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 46 Application (cf DCR Part 39B, rule 1)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL46" type="ext"/>Application (cf DCR Part 39B, rule 1)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>46</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL46.1">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL46.1" type="ext"/>(1)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>The provisions of this Part apply subject to their terms, to proceedings entered in the Coal Miners&#x2019; Workers Compensation List and the Special Statutory Compensation List in respect of costs payable or to be assessed under any order of the Court or under these rules.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL46.2">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL46.2" type="ext"/>(2)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>Where there is an inconsistency in the operation of these rules and the provisions of this Part the provisions of this Part shall apply.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL46.3">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL46.3" type="ext"/>(3)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>The application of these rules and of this Part is subject to:</text>
+                                                                                    </p>
+                                                                                    <l>
+                                                                                        <li id="UCPN.UCPR.UCPRN05.SCH11.CL46.3.A">
+                                                                                            <lilabel>
+                                                                                                <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL46.3.A" type="ext"/>(a)</lilabel>
+                                                                                            <p>
+                                                                                                <text>the 
+                                                                                                    <ci:cite searchtype="LEG-REF">
+                                                                                                        <ci:content>
+                                                                                                            <remotelink dpsi="05CC" refpt="OTH.DCAN" remotekey1="REFPTID" service="DOC-ID" status="unval">District Court Act 1973</remotelink>
+                                                                                                        </ci:content>
+                                                                                                    </ci:cite>
+, and</text>
+                                                                                            </p>
+                                                                                        </li>
+                                                                                        <li id="UCPN.UCPR.UCPRN05.SCH11.CL46.3.B">
+                                                                                            <lilabel>
+                                                                                                <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL46.3.B" type="ext"/>(b)</lilabel>
+                                                                                            <p>
+                                                                                                <text>the Workers Compensation Acts and the regulations made under those Acts, and</text>
+                                                                                            </p>
+                                                                                        </li>
+                                                                                        <li id="UCPN.UCPR.UCPRN05.SCH11.CL46.3.C">
+                                                                                            <lilabel>
+                                                                                                <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL46.3.C" type="ext"/>(c)</lilabel>
+                                                                                            <p>
+                                                                                                <text>a Special Statutory Compensation Act and the regulations made under that Act, and</text>
+                                                                                            </p>
+                                                                                        </li>
+                                                                                        <li id="UCPN.UCPR.UCPRN05.SCH11.CL46.3.D">
+                                                                                            <lilabel>
+                                                                                                <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL46.3.D" type="ext"/>(d)</lilabel>
+                                                                                            <p>
+                                                                                                <text>the 
+                                                                                                    <ci:cite searchtype="LEG-REF">
+                                                                                                        <ci:content>
+                                                                                                            <remotelink dpsi="05CC" refpt="OTH.LPAN04" remotekey1="REFPTID" service="DOC-ID" status="unval">Legal Profession Act 2004</remotelink>
+                                                                                                        </ci:content>
+                                                                                                    </ci:cite>
+ and the regulations made under that Act.</text>
+                                                                                            </p>
+                                                                                        </li>
+                                                                                    </l>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL47">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 47 Interpretation (cf DCR Part 39B, rule 2)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL47" type="ext"/>Interpretation (cf DCR Part 39B, rule 2)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>47</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>In this Part, and unless the context or subject matter otherwise indicates or requires, a reference to costs is a reference to costs payable between party and party in respect of proceedings, including disbursements.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL48">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 48 Time for dealing with costs (cf DCR Part 39B, rule 3)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL48" type="ext"/>Time for dealing with costs (cf DCR Part 39B, rule 3)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>48</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>The Court may in any proceedings exercise its powers and discretions as to costs at any stage of the proceedings or after the conclusion of the proceedings.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL49">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 49 Claimant&#x2019;s costs (cf DCR Part 39B, rule 4)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL49" type="ext"/>Claimant&#x2019;s costs (cf DCR Part 39B, rule 4)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>49</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>Where in any proceedings the Court makes a final order, or gives a final decision, in favour of the claimant, the claimant shall, unless the Court otherwise orders, be entitled to recover the claimant&#x2019;s costs of the proceedings against the employer against whom the final order or decision was made or given.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL50">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 50 Redemption cases (cf DCR Part 39B, rule 5)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL50" type="ext"/>Redemption cases (cf DCR Part 39B, rule 5)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>50</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>Where an employer commences proceedings for redemption under 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="OTH.WCAN26.S15" remotekey1="REFPTID" service="DOC-ID" status="unval">section 15</remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+ of the Workers&#x2019; Compensation Act 1926, as preserved by 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="OTH.WCN.SCH6.PT18" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 18</remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+ of Schedule 6 to the Workers Compensation Act 1987, with the consent of the claimant, the employer shall, unless the Court otherwise orders, pay the costs of the claimant of the proceedings whatever be the result of the proceedings.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL51">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 51 Costs where other proceedings (cf DCR Part 39B, rule 6)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL51" type="ext"/>Costs where other proceedings (cf DCR Part 39B, rule 6)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>51</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>Where in any proceedings a claimant is entitled to recover costs against an employer or insurer, those costs shall not be reduced or apportioned because any part of them was incurred also in respect of proceedings under the Uninsured Liability and Indemnity Scheme, or in respect of proceedings against another person against whom no award has been made, except to the extent that any such part has been received by the claimant.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL52">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 52 Assessed costs and other provisions (cf DCR Part 39B, rule 7)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL52" type="ext"/>Assessed costs and other provisions (cf DCR Part 39B, rule 7)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>52</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL52.1">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL52.1" type="ext"/>(1)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>Subject to this Part, where, by or under these rules or any order of the Court, costs are to be paid to any person, that person shall be entitled to assessed costs.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL52.2">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL52.2" type="ext"/>(2)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>Where the Court orders that costs be paid to any person, the Court may, at any time prior to the costs being referred for assessment, further order that, as to the whole or any part (specified in the order) of the costs, instead of assessed costs, that person shall be entitled to:</text>
+                                                                                    </p>
+                                                                                    <l>
+                                                                                        <li id="UCPN.UCPR.UCPRN05.SCH11.CL52.2.A">
+                                                                                            <lilabel>
+                                                                                                <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL52.2.A" type="ext"/>(a)</lilabel>
+                                                                                            <p>
+                                                                                                <text>a proportion specified in the order of the assessed costs, or</text>
+                                                                                            </p>
+                                                                                        </li>
+                                                                                        <li id="UCPN.UCPR.UCPRN05.SCH11.CL52.2.B">
+                                                                                            <lilabel>
+                                                                                                <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL52.2.B" type="ext"/>(b)</lilabel>
+                                                                                            <p>
+                                                                                                <text>the assessed costs from or up to a stage of the proceedings specified in the order, or</text>
+                                                                                            </p>
+                                                                                        </li>
+                                                                                        <li id="UCPN.UCPR.UCPRN05.SCH11.CL52.2.C">
+                                                                                            <lilabel>
+                                                                                                <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL52.2.C" type="ext"/>(c)</lilabel>
+                                                                                            <p>
+                                                                                                <text>a gross sum specified in the order instead of the assessed costs.</text>
+                                                                                            </p>
+                                                                                        </li>
+                                                                                    </l>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL53">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 53 Preliminary discovery (cf DCR Part 39B, rule 8)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL53" type="ext"/>Preliminary discovery (cf DCR Part 39B, rule 8)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>53</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>The Court may in any proceedings require any person to pay the costs of any party of proceedings under 
+                                                                                <ci:cite searchtype="LEG-REF">
+                                                                                    <ci:content>
+                                                                                        <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT5" remotekey1="REFPTID" service="DOC-ID">Part 5</remotelink>
+                                                                                    </ci:content>
+                                                                                </ci:cite>
+ of these rules (Preliminary discovery and inspection) in respect of those proceedings including payments of conduct money and payments on account of expenses and loss under that Part.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL54">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 54 Agreement as to costs (cf DCR Part 39B, rule 9)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL54" type="ext"/>Agreement as to costs (cf DCR Part 39B, rule 9)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>54</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL54.1">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL54.1" type="ext"/>(1)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>Where costs are payable by one party to another, those parties may agree as to the amount of the costs.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL54.2">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL54.2" type="ext"/>(2)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>An amount of costs agreed to under 
+                                                                                            <ci:cite searchtype="LEG-REF">
+                                                                                                <ci:content>
+                                                                                                    <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH11.CL54.1" remotekey1="REFPTID" service="DOC-ID">subclause (1)</remotelink>
+                                                                                                </ci:content>
+                                                                                            </ci:cite>
+ shall not be included in any process of enforcement unless the agreement is embodied in a form of order bearing the consent of the party required to pay the costs and lodged for the signature of the registrar.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL55">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 55 Agreement as to part of costs (cf DCR Part 39B, rule 10)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL55" type="ext"/>Agreement as to part of costs (cf DCR Part 39B, rule 10)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>55</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL55.1">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL55.1" type="ext"/>(1)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>Notwithstanding anything in this Part, where costs are payable by one party to another, the parties may agree as to the amount of those costs payable in respect of any item or items of work done.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL55.2">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL55.2" type="ext"/>(2)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>An amount of costs agreed to under 
+                                                                                            <ci:cite searchtype="LEG-REF">
+                                                                                                <ci:content>
+                                                                                                    <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH11.CL55.1" remotekey1="REFPTID" service="DOC-ID">subclause (1)</remotelink>
+                                                                                                </ci:content>
+                                                                                            </ci:cite>
+ shall not be included in any process of enforcement unless the agreement is embodied in a form of order bearing the consent of the party required to pay the costs and lodged for the signature of the registrar.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL56">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 56 When costs payable (cf DCR Part 39B, rule 11)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL56" type="ext"/>When costs payable (cf DCR Part 39B, rule 11)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>56</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL56.1">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL56.1" type="ext"/>(1)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>Where, before the conclusion of any proceedings, the Court makes an order for the payment of costs or a motion is refused with costs, the costs shall not, unless the Court otherwise orders, be payable until after the conclusion of the proceedings.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                    <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL56.2">
+                                                                        <leg:level-vrnt leveltype="subclause" searchtype="LEGISLATION SUBCLAUSE">
+                                                                            <leg:levelinfo>
+                                                                                <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                            </leg:levelinfo>
+                                                                            <leg:heading inline="true">
+                                                                                <desig>
+                                                                                    <designum>
+                                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL56.2" type="ext"/>(2)</designum>
+                                                                                </desig>
+                                                                            </leg:heading>
+                                                                            <leg:levelbody>
+                                                                                <leg:bodytext>
+                                                                                    <p>
+                                                                                        <text>Where, in any proceedings, it appears to the registrar, on application, that there is no likelihood of any further order being made in the proceedings, the registrar may order that any costs ordered to be paid shall be payable forthwith.</text>
+                                                                                    </p>
+                                                                                </leg:bodytext>
+                                                                            </leg:levelbody>
+                                                                        </leg:level-vrnt>
+                                                                    </leg:level>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL57">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 57 Party and party basis (cf DCR Part 39B, rule 12)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL57" type="ext"/>Party and party basis (cf DCR Part 39B, rule 12)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>57</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>Costs payable by or under these rules or any order of the Court shall be payable on a party and party basis unless these rules or an order provide that they are payable on an indemnity basis.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL58">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 58 Indemnity basis (cf DCR Part 39B, rule 13)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL58" type="ext"/>Indemnity basis (cf DCR Part 39B, rule 13)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>58</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>On an assessment on the indemnity basis, all costs shall be allowed except in so far as they are of an unreasonable amount or have been unreasonably incurred, and any doubts which the assessor may have as to whether the costs were reasonably incurred or were reasonable in amount shall be resolved in favour of the receiving party.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                        <leg:level id="UCPN.UCPR.UCPRN05.SCH11.CL59">
+                                                            <leg:level-vrnt leveltype="clause" searchtype="LEGISLATION CLAUSE" subdoc="true" toc-caption="cl 59 Costs order to confirm earlier costs orders (cf DCR Part 39B, rule 14)">
+                                                                <leg:levelinfo>
+                                                                    <leg:levelstatus isrepealed="false" ln.user-displayed="false"/>
+                                                                </leg:levelinfo>
+                                                                <leg:heading inline="true">
+                                                                    <title searchtype="CLAUSE-TITLE">
+                                                                        <refpt id="UCPN.UCPR.UCPRN05.SCH11.CL59" type="ext"/>Costs order to confirm earlier costs orders (cf DCR Part 39B, rule 14)</title>
+                                                                    <desig searchtype="CLAUSE-NUM">
+                                                                        <designum>59</designum>
+                                                                    </desig>
+                                                                </leg:heading>
+                                                                <leg:levelbody>
+                                                                    <leg:bodytext>
+                                                                        <p>
+                                                                            <text>An order as to costs made in proceedings after 30 June 1994 shall unless the Court otherwise orders, be taken to expressly confirm all earlier orders as to costs made in the proceedings.</text>
+                                                                        </p>
+                                                                    </leg:bodytext>
+                                                                </leg:levelbody>
+                                                            </leg:level-vrnt>
+                                                        </leg:level>
+                                                    </leg:levelbody>
+                                                </leg:level-vrnt>
+                                            </leg:level>
+                                        </leg:levelbody>
+                                    </leg:level-vrnt>
+                                </leg:level>
+                            </leg:levelbody>
+                        </leg:level-vrnt>
+                    </leg:level>
+                </leg:levelbody>
+            </leg:level-vrnt>
+        </leg:level>
+    </leg:body>
+</LEGDOC>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 3 GENERAL [ss 14&#x2013;24]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CDN97.PT3</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CONTRACTORS DEBTS ACT 1997 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 3 GENERAL [ss 14&#x2013;24]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140080020</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CDN97"/><docinfo:metaitem name="parent-filename" value="ol1016.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 110, 1997</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CONTRACTORS DEBTS ACT 1997 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.CDN97.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.PT3"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3 GENERAL [ss 14&#x2013;24]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CDN97.PT3" type="ext"/>PART 3</designum></desig><title searchtype="PART-TITLE">GENERAL [ss 14&#x2013;24]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S14"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,150] s 14 Attachment order">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S14" type="ext"/>[290,150]</edpnum><title searchtype="SECT-TITLE">Attachment order</title><desig searchtype="SECT-NUM"><designum>14</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S14.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S14.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If proceedings are commenced by an unpaid person against a person (the 
+<deflist><defitem id="UCPN.OL.CDN97.S14.1.DEFENDANT"><defterm><refpt id="UCPN.OL.CDN97.S14.1.DEFENDANT" type="ext"/><emph typestyle="bf">defendant</emph></defterm></defitem></deflist> ) for the recovery of money owed to the unpaid person by the defendant for work carried out or materials supplied by the person, the court may, on the application of the unpaid person, make an order under this section (an 
+<deflist><defitem id="UCPN.OL.CDN97.S14.1.ATTACHMENT-ORDER"><defterm><refpt id="UCPN.OL.CDN97.S14.1.ATTACHMENT-ORDER" type="ext"/><emph typestyle="bf">attachment order</emph></defterm></defitem></deflist> ) against any other person from whom the unpaid person may be able to recover the debt under this Act.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 55 of 2004   s 3  and Sch 2.5 , effective 6 July 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S14.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S14.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for an attachment order:</text></p>
+<l><li id="UCPN.OL.CDN97.S14.2.A"><lilabel><refpt id="UCPN.OL.CDN97.S14.2.A" type="ext"/>(a)</lilabel>
+<p><text>may be made on the commencement of the proceedings or at any time before judgment is given in the proceedings, and</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S14.2.B"><lilabel><refpt id="UCPN.OL.CDN97.S14.2.B" type="ext"/>(b)</lilabel>
+<p><text>may be heard in the absence of other parties, and</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S14.2.C"><lilabel><refpt id="UCPN.OL.CDN97.S14.2.C" type="ext"/>(c)</lilabel>
+<p><text>is to be verified by oath or affirmation.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S14.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S14.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may make an attachment order only if it is satisfied, on the basis of the application, that:</text></p>
+<l><li id="UCPN.OL.CDN97.S14.3.A"><lilabel><refpt id="UCPN.OL.CDN97.S14.3.A" type="ext"/>(a)</lilabel>
+<p><text>the defendant owes the unpaid person money for work carried out or materials supplied by the unpaid person, and</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S14.3.B"><lilabel><refpt id="UCPN.OL.CDN97.S14.3.B" type="ext"/>(b)</lilabel>
+<p><text>the work or materials are, or are part of or incidental to, work or materials for which the defendant is to be paid under a contract with the person against whom the order is sought.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S14.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S14.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On service of a copy of the attachment order on the person against whom the order is made, any money that is payable or becomes payable to the defendant under the contract concerned, not exceeding the amount specified in the order, is attached for the purposes of the proceedings and is to remain in the hands of the person against whom the order is made until judgment is given in the proceedings or until the court otherwise orders.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S14.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S14.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An attachment order:</text></p>
+<l><li id="UCPN.OL.CDN97.S14.5.A"><lilabel><refpt id="UCPN.OL.CDN97.S14.5.A" type="ext"/>(a)</lilabel>
+<p><text>is to be in an approved form, and</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S14.5.B"><lilabel><refpt id="UCPN.OL.CDN97.S14.5.B" type="ext"/>(b)</lilabel>
+<p><text>is to specify the amount that is attached for the purposes of the proceedings (being the amount sued for by the unpaid person or such other amount as the court considers appropriate).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S14.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S14.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An attachment order may be varied or set aside on the application of any person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S15"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,155] s 15 Defaulting contractor to give information concerning principal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S15" type="ext"/>[290,155]</edpnum><title searchtype="SECT-TITLE">Defaulting contractor to give information concerning principal</title><desig searchtype="SECT-NUM"><designum>15</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S15.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S15.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a debt certificate is issued in respect of a debt owed by a defaulting contractor, the defaulting contractor must, on the demand of any person to whom the defaulting contractor owes money for work or materials, supply to the person a notice in an approved form that sets out the name of any person from whom the person may be able to recover the debt under this Act.</text></p>
+<p><text>Maximum penalty: 20 penalty units.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S15.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S15.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person who gives or purports to give a person a notice under this section knowing that it is false or misleading in a material particular is guilty of an offence.</text></p>
+<p><text>Maximum penalty: 20 penalty units.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S16"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,160] s 16 Act capable of application to series of contractual arrangements">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S16" type="ext"/>[290,160]</edpnum><title searchtype="SECT-TITLE">Act capable of application to series of contractual arrangements</title><desig searchtype="SECT-NUM"><designum>16</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S16.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S16.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a principal fails to pay a debt assigned to an unpaid person by operation of this Act and the unpaid person takes proceedings against the principal for recovery of the debt (as provided for by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CDN97.S11" remotekey1="REFPTID" service="DOC-ID">section 11</remotelink></ci:content></ci:cite>
+ ), this Act applies in respect of the debt as if it were a debt owed to the unpaid person by the principal for work carried out for or materials supplied to the principal by the unpaid person (instead of work carried out for or materials supplied to the principal by the defaulting contractor).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S16.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S16.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Accordingly, the unpaid person can obtain payment of the debt in accordance with this Act out of money that is payable to the principal by some other person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>An example of a situation to which this section might apply is where a person engages another person (a contractor) to carry out work or supply materials and the contractor then engages someone else (a subcontractor) to carry out that work or supply those materials. If a person is engaged by the subcontractor to carry out any of the work or supply the materials and the subcontractor fails to pay the person for the work or materials, the unpaid person can seek payment of the debt in accordance with this Act from the contractor. Under this section, if the contractor fails to pay the debt, the unpaid person can then seek payment from the person who engaged the contractor.
+In other words, this section allows an unpaid person to pursue payment of an unpaid debt from any number of &#x201c;defaulting contractors&#x201d;.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S17"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,165] s 17 Limitation period">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S17" type="ext"/>[290,165]</edpnum><title searchtype="SECT-TITLE">Limitation period</title><desig searchtype="SECT-NUM"><designum>17</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S17.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S17.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings under this Act in respect of a debt cannot be taken more than 12 months after the debt becomes payable.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S17.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S17.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A debt that is payable to an unpaid person because of an assignment effected by operation of this Act becomes payable when it would have become payable to the defaulting contractor had there been no assignment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S18"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,170] s 18 No contracting out">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S18" type="ext"/>[290,170]</edpnum><title searchtype="SECT-TITLE">No contracting out</title><desig searchtype="SECT-NUM"><designum>18</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S18.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S18.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Act have effect despite any stipulation to the contrary in any contract.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S18.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S18.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>No contract entered into before or after the commencement of this section operates to annul, vary or exclude any of the provisions of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S19"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,175] s 19 Act does not affect other remedies">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S19" type="ext"/>[290,175]</edpnum><title searchtype="SECT-TITLE">Act does not affect other remedies</title><desig searchtype="SECT-NUM"><designum>19</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act does not affect:</text></p>
+<l><li id="UCPN.OL.CDN97.S19..A"><lilabel><refpt id="UCPN.OL.CDN97.S19..A" type="ext"/>(a)</lilabel>
+<p><text>any remedy an unpaid person may have against a defaulting contractor or any other person in respect of a debt owed to the unpaid person, or</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S19..B"><lilabel><refpt id="UCPN.OL.CDN97.S19..B" type="ext"/>(b)</lilabel>
+<p><text>any rights a defaulting contractor, principal or other person may have under any contract or otherwise (except as expressly provided by this Act), or</text></p>
+</li>
+<li id="UCPN.OL.CDN97.S19..C"><lilabel><refpt id="UCPN.OL.CDN97.S19..C" type="ext"/>(c)</lilabel>
+<p><text>any rights or obligations a person may have under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.IR96" remotekey1="REFPTID" service="DOC-ID" status="unval">Industrial Relations Act 1996</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S20"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,180] s 20 Proceedings for offences">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S20" type="ext"/>[290,180]</edpnum><title searchtype="SECT-TITLE">Proceedings for offences</title><desig searchtype="SECT-NUM"><designum>20</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings for an offence against this Act are to be dealt with summarily before the Local Court.</text></p>
+<leg:histnote>
+<p><text>[s 20  am Act 121 of 2001   s 4 and Sch 2 , effective 7 July 2003 ; Act 94 of 2007  s 4 and Sch 2, effective 6 July 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S21"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,185] s 21 Regulations">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S21" type="ext"/>[290,185]</edpnum><title searchtype="SECT-TITLE">Regulations</title><desig searchtype="SECT-NUM"><designum>21</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Governor may make regulations, not inconsistent with this Act, for or with respect to any matter that by this Act is required or permitted to be prescribed or that is necessary or convenient to be prescribed for carrying out or giving effect to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S22"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,190] s 22 Repeal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S22" type="ext"/>[290,190]</edpnum><title searchtype="SECT-TITLE">Repeal</title><desig searchtype="SECT-NUM"><designum>22</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CDA" remotekey1="REFPTID" service="DOC-ID" status="unval">Contractors' Debts Act 1897</remotelink></ci:content></ci:cite>
+ is repealed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S23"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,195] s 23 Savings, transitional and other provisions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S23" type="ext"/>[290,195]</edpnum><title searchtype="SECT-TITLE">Savings, transitional and other provisions</title><desig searchtype="SECT-NUM"><designum>23</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CDN97.SCH1" remotekey1="REFPTID" service="DOC-ID">Schedule 1</remotelink></ci:content></ci:cite>
+ has effect.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S24"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[290,200] s 24 Review of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CDN97.S24" type="ext"/>[290,200]</edpnum><title searchtype="SECT-TITLE">Review of Act</title><desig searchtype="SECT-NUM"><designum>24</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CDN97.S24.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S24.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Minister is to review this Act to determine whether the policy objectives of the Act remain valid and whether the terms of the Act remain appropriate for securing those objectives.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S24.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S24.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The review is to be undertaken as soon as possible after the period of 5 years from the date of assent to this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CDN97.S24.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CDN97.S24.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A report on the outcome of the review is to be tabled in each House of Parliament within 12 months after the end of the period of 5 years.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

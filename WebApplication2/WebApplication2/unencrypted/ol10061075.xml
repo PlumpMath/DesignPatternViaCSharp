@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 4 PROPORTIONATE LIABILITY [ss 34&#x2013;39]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CLAN02.PT4</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CIVIL LIABILITY ACT 2002 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 4 PROPORTIONATE LIABILITY [ss 34&#x2013;39]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140030250</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CLAN02"/><docinfo:metaitem name="parent-filename" value="ol1006.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 22, 2002</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CIVIL LIABILITY ACT 2002 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.CLAN02.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.PT4"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 4 PROPORTIONATE LIABILITY [ss 34&#x2013;39]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CLAN02.PT4" type="ext"/>PART 4</designum></desig><title searchtype="PART-TITLE">PROPORTIONATE LIABILITY [ss 34&#x2013;39]</title><leg:histnote>
+<p><text>[Pt 4  insrt Act 92 of 2002   s 3 and Sch 1, effective 1 December 2004]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S34"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,800] s 34 Application of Part">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S34" type="ext"/>[270,800]</edpnum><title searchtype="SECT-TITLE">Application of Part</title><desig searchtype="SECT-NUM"><designum>34</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S34.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to the following claims (<defterm><emph typestyle="bf">apportionable claims</emph></defterm>):</text></p>
+<l><li id="UCPN.OL.CLAN02.S34.1.A"><lilabel><refpt id="UCPN.OL.CLAN02.S34.1.A" type="ext"/>(a)</lilabel>
+<p><text>a claim for economic loss or damage to property in an action for damages (whether in contract, tort or otherwise) arising from a failure to take reasonable care, but not including any claim arising out of personal injury,</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S34.1.B"><lilabel><refpt id="UCPN.OL.CLAN02.S34.1.B" type="ext"/>(b)</lilabel>
+<p><text>a claim for economic loss or damage to property in an action for damages under the Fair Trading Act 1987 for a contravention of section 42 of that Act (as in force before its repeal by the Fair Trading Amendment (Australian Consumer Law) Act 2010) or under the Australian Consumer Law (NSW) for a contravention of section 18 of that Law.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  subst Act 94 of 2004  s 3 and Sch 2, effective 1 December 2004 ; am Act 107 of 2010  Sch 3.2, effective 1 January 2011]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Part, there is a single apportionable claim in proceedings in respect of the same loss or damage even if the claim for the loss or damage is based on more than one cause of action (whether or not of the same or a different kind).</text></p>
+<leg:histnote>
+<p><text>[subs (1A)  insrt Act 94 of 2004  s 3 and Sch 2, effective 1 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part, a <defterm><emph typestyle="bf">concurrent wrongdoer</emph></defterm>, in relation to a claim, is a person who is one of two or more persons whose acts or omissions (or act or omission) caused, independently of each other or jointly, the damage or loss that is the subject of the claim.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 94 of 2004  s 3 and Sch 2, effective 1 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Part, apportionable claims are limited to those claims specified in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S34.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34.3A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34.3A" type="ext"/>(3A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part does not apply to a claim in an action for damages arising from a breach of statutory warranty under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.BSC89.PT2C" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 2C</remotelink></ci:content></ci:cite>
+ of the Home Building Act 1989 and brought by a person having the benefit of the statutory warranty.</text></p>
+<leg:histnote>
+<p><text>[subs (3A)  insrt Act 52 of 2011  Sch 2[1], effective 25 October 2011]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of this Part it does not matter that a concurrent wrongdoer is insolvent, is being wound up or has ceased to exist or died.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (5)  rep Act 94 of 2004  s 3 and Sch 2, effective 1 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,805] s 34A Certain concurrent wrongdoers not to have benefit of apportionment ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S34A" type="ext"/>[270,805]</edpnum><title searchtype="SECT-TITLE">Certain concurrent wrongdoers not to have benefit of apportionment </title><desig searchtype="SECT-NUM"><designum>34A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S34A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Part operates to limit the liability of a concurrent wrongdoer (an <defterm><emph typestyle="bf">excluded concurrent wrongdoer</emph></defterm>) in proceedings involving an apportionable claim if:</text></p>
+<l><li id="UCPN.OL.CLAN02.S34A.1.A"><lilabel><refpt id="UCPN.OL.CLAN02.S34A.1.A" type="ext"/>(a)</lilabel>
+<p><text>the concurrent wrongdoer intended to cause the economic loss or damage to property that is the subject of the claim, or</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S34A.1.B"><lilabel><refpt id="UCPN.OL.CLAN02.S34A.1.B" type="ext"/>(b)</lilabel>
+<p><text>the concurrent wrongdoer fraudulently caused the economic loss or damage to property that is the subject of the claim, or</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S34A.1.C"><lilabel><refpt id="UCPN.OL.CLAN02.S34A.1.C" type="ext"/>(c)</lilabel>
+<p><text>the civil liability of the concurrent wrongdoer was otherwise of a kind excluded from the operation of this Part by section 3B.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The liability of an excluded concurrent wrongdoer is to be determined in accordance with the legal rules, if any, that (apart from this Part) are relevant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S34A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S34A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text> The liability of any other concurrent wrongdoer who is not an excluded concurrent wrongdoer is to be determined in accordance with the provisions of this Part.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 34A  insrt Act 94 of 2004  s 3 and Sch 2, effective 1 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S35"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,810] s 35 Proportionate liability for apportionable claims">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S35" type="ext"/>[270,810]</edpnum><title searchtype="SECT-TITLE">Proportionate liability for apportionable claims</title><desig searchtype="SECT-NUM"><designum>35</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S35.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S35.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings involving an apportionable claim:</text></p>
+<l><li id="UCPN.OL.CLAN02.S35.1.A"><lilabel><refpt id="UCPN.OL.CLAN02.S35.1.A" type="ext"/>(a)</lilabel>
+<p><text>the liability of a defendant who is a concurrent wrongdoer in relation to that claim is limited to an amount reflecting that proportion of the damage or loss claimed that the court considers just having regard to the extent of the defendant&#x2019;s responsibility for the damage or loss, and</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S35.1.B"><lilabel><refpt id="UCPN.OL.CLAN02.S35.1.B" type="ext"/>(b)</lilabel>
+<p><text>the court may give judgment against the defendant for not more than that amount.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S35.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S35.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the proceedings involve both an apportionable claim and a claim that is not an apportionable claim:</text></p>
+<l><li id="UCPN.OL.CLAN02.S35.2.A"><lilabel><refpt id="UCPN.OL.CLAN02.S35.2.A" type="ext"/>(a)</lilabel>
+<p><text>liability for the apportionable claim is to be determined in accordance with the provisions of this Part, and</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S35.2.B"><lilabel><refpt id="UCPN.OL.CLAN02.S35.2.B" type="ext"/>(b)</lilabel>
+<p><text>liability for the other claim is to be determined in accordance with the legal rules, if any, that (apart from this Part) are relevant.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S35.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S35.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In apportioning responsibility between defendants in the proceedings:</text></p>
+<l><li id="UCPN.OL.CLAN02.S35.3.A"><lilabel><refpt id="UCPN.OL.CLAN02.S35.3.A" type="ext"/>(a)</lilabel>
+<p><text>the court is to exclude that proportion of the damage or loss in relation to which the plaintiff is contributorily negligent under any relevant law, and</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S35.3.B"><lilabel><refpt id="UCPN.OL.CLAN02.S35.3.B" type="ext"/>(b)</lilabel>
+<p><text>the court may have regard to the comparative responsibility of any concurrent wrongdoer who is not a party to the proceedings.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S35.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S35.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies in proceedings involving an apportionable claim whether or not all concurrent wrongdoers are parties to the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S35.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S35.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Part to a defendant in proceedings includes any person joined as a defendant or other party in the proceedings (except as a plaintiff) whether joined under this Part, under rules of court or otherwise.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S35A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,815] s 35A Duty of defendant to inform plaintiff about concurrent wrongdoers">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S35A" type="ext"/>[270,815]</edpnum><title searchtype="SECT-TITLE">Duty of defendant to inform plaintiff about concurrent wrongdoers</title><desig searchtype="SECT-NUM"><designum>35A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S35A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S35A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.OL.CLAN02.S35A.1.A"><lilabel><refpt id="UCPN.OL.CLAN02.S35A.1.A" type="ext"/>(a)</lilabel>
+<p><text>a defendant in proceedings involving an apportionable claim has reasonable grounds to believe that a particular person (the <defterm><emph typestyle="bf">other person</emph></defterm>) may be a concurrent wrongdoer in relation to the claim, and</text></p>
+</li>
+<li id="UCPN.OL.CLAN02.S35A.1.B"><lilabel><refpt id="UCPN.OL.CLAN02.S35A.1.B" type="ext"/>(b)</lilabel>
+<p><text>the defendant fails to give the plaintiff, as soon as practicable, written notice of the information that the defendant has about:</text></p>
+<l><li id="UCPN.OL.CLAN02.S35A.1.B.I"><lilabel><refpt id="UCPN.OL.CLAN02.S35A.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>the identity of the other person, and</text></p>
+</li><li id="UCPN.OL.CLAN02.S35A.1.B.II"><lilabel><refpt id="UCPN.OL.CLAN02.S35A.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text> the circumstances that may make the other person a concurrent wrongdoer in relation to the claim, and</text></p>
+</li></l></li>
+<li id="UCPN.OL.CLAN02.S35A.1.C"><lilabel><refpt id="UCPN.OL.CLAN02.S35A.1.C" type="ext"/>(c)</lilabel>
+<p><text>the plaintiff unnecessarily incurs costs in the proceedings because the plaintiff was not aware that the other person may be a concurrent wrongdoer in relation to the claim,</text></p>
+</li>
+</l>
+<p><text> the court hearing the proceedings may order that the defendant pay all or any of those costs of the plaintiff.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S35A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S35A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may order that the costs to be paid by the defendant be assessed on an indemnity basis or otherwise.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 35A  insrt Act 94 of 2004  s 3 and Sch 2, effective 1 December 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S36"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,820] s 36 Contribution not recoverable from defendant">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S36" type="ext"/>[270,820]</edpnum><title searchtype="SECT-TITLE">Contribution not recoverable from defendant</title><desig searchtype="SECT-NUM"><designum>36</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A defendant against whom judgment is given under this Part as a concurrent wrongdoer in relation to an apportionable claim:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CLAN02.S36..A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S36..A" type="ext"/>(a)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>cannot be required to contribute to any damages or contribution recovered from another concurrent wrongdoer in respect of the apportionable claim (whether or not the damages or contribution are recovered in the same proceedings in which judgment is given against the defendant), and</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S36..B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S36..B" type="ext"/>(b)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>cannot be required to indemnify any such wrongdoer.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S37"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,825] s 37 Subsequent actions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S37" type="ext"/>[270,825]</edpnum><title searchtype="SECT-TITLE">Subsequent actions</title><desig searchtype="SECT-NUM"><designum>37</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S37.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S37.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In relation to an apportionable claim, nothing in this Part or any other law prevents a plaintiff who has previously recovered judgment against a concurrent wrongdoer for an apportionable part of any damage or loss from bringing another action against any other concurrent wrongdoer for that damage or loss.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S37.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S37.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>However, in any proceedings in respect of any such action the plaintiff cannot recover an amount of damages that, having regard to any damages previously recovered by the plaintiff in respect of the damage or loss, would result in the plaintiff receiving compensation for damage or loss that is greater than the damage or loss actually sustained by the plaintiff.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S38"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,830] s 38 Joining non-party concurrent wrongdoer in the action ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S38" type="ext"/>[270,830]</edpnum><title searchtype="SECT-TITLE">Joining non-party concurrent wrongdoer in the action </title><desig searchtype="SECT-NUM"><designum>38</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CLAN02.S38.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S38.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may give leave for any one or more persons to be joined as defendants in proceedings involving an apportionable claim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S38.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S38.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court is not to give leave for the joinder of any person who was a party to any previously concluded proceedings in respect of the apportionable claim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S39"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[270,835] s 39 Application of Part">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CLAN02.S39" type="ext"/>[270,835]</edpnum><title searchtype="SECT-TITLE">Application of Part</title><desig searchtype="SECT-NUM"><designum>39</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Nothing in this Part:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CLAN02.S39..A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S39..A" type="ext"/>(a)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>prevents a person from being held vicariously liable for a proportion of any apportionable claim for which another person is liable, or</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S39..B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S39..B" type="ext"/>(b)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text> prevents a partner from being held severally liable with another partner for that proportion of an apportionable claim for which the other partner is liable, or</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CLAN02.S39..C"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CLAN02.S39..C" type="ext"/>(c)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>affects the operation of any other Act to the extent that it imposes several liability on any person in respect of what would otherwise be an apportionable claim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

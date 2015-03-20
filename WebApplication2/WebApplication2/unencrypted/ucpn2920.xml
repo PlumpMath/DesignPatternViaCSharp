@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>WO</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_685</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>W</title></heading>
+<docinfo:hierlev role="me"><heading><title>WO</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>112100</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_685" /><docinfo:metaitem name="parent-filename" value="ucpn292.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="13" month="07" year="2012">13 July 2012</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>WO</title></heading>
+<in:lev1 id="UCPN_IND_685" subdoc="true" toc-caption="Workers compensation"><in:entry><in:entry-text><refpt id="WORKERS_COMPENSATION" type="ext"><emph typestyle="bf">Workers compensation</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>appeal from Workers Compensation Commission</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- suitors' fund <remotelink dpsi="05CC" refpt="UCPN.OL.425025-25" remotekey1="REFPTID" service="DOC-ID" filename="ol10721000.xml">[425,025.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>contributory negligence <remotelink dpsi="05CC" refpt="UCPN.OL.LRMP65N.S10" remotekey1="REFPTID" service="DOC-ID" filename="ol10501003.xml">[365,075]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>costs fixed by regulation <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S329" remotekey1="REFPTID" service="DOC-ID" filename="ol10541015.xml">[375,140]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.LPRN05.REG113" remotekey1="REFPTID" service="DOC-ID" filename="ol10561006.xml">[380,045]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- Schedule 3 <remotelink dpsi="05CC" refpt="UCPN.OL.LPRN05.SCH3" remotekey1="REFPTID" service="DOC-ID" filename="ol10561039.xml">[380,210]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>damages claim, definition <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S3" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001000.xml">[s 3]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S4" remotekey1="REFPTID" service="DOC-ID" filename="dc10001000.xml">[DCA s 4]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>District Court jurisdiction <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S44" remotekey1="REFPTID" service="DOC-ID" filename="dc10001039.xml">[DCA s 44]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- residual jurisdiction <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S142G" remotekey1="REFPTID" service="DOC-ID" filename="dc10001102.xml">[DCA s 142G]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S142P" remotekey1="REFPTID" service="DOC-ID" filename="dc10001114.xml">[DCA s 142P]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- WorkCover Authority, liaison with <remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S142P" remotekey1="REFPTID" service="DOC-ID" filename="dc10001114.xml">[DCA s 142P]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>offender in custody, assessment of impairment <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S26D" remotekey1="REFPTID" service="DOC-ID" filename="ol10061054.xml">[270,590]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- damages award dependent on degree of impairment <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S26C" remotekey1="REFPTID" service="DOC-ID" filename="ol10061054.xml">[270,585]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- damages for past or future loss of earnings <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S26E" remotekey1="REFPTID" service="DOC-ID" filename="ol10061057.xml">[270,620]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- non-economic loss limited to worker compensation amount <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S26I" remotekey1="REFPTID" service="DOC-ID" filename="ol10061060.xml">[270,655]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>calculation of <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S26I" remotekey1="REFPTID" service="DOC-ID" filename="ol10061060.xml">[270,655]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- WorkCover Guidelines <remotelink dpsi="05CC" refpt="UCPN.OL.CLAN02.S26D" remotekey1="REFPTID" service="DOC-ID" filename="ol10061054.xml">[270,590]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>refund of overpayments</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- Local Court jurisdiction <remotelink dpsi="05CC" refpt="UCPN.LC.PT3-25" remotekey1="REFPTID" service="DOC-ID" filename="lc10041021.xml">[LCA07 Pt 3.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>rehabilitation assessment</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- application of Pt 23 UCP <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R23-6" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021216.xml">[r 23.6]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- occupational rehabilitation service, definition <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R23-6" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021216.xml">[r 23.6]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- order for <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R23-7" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021216.xml">[r 23.7]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.23-7-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021216.xml">[23.7.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

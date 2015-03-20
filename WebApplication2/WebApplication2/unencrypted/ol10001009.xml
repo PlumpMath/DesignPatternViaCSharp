@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART IV TRANSFER AND REMITTAL OF PROCEEDINGS [ss 27&#x2013;30]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.ADA88.PT4</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>ADMIRALTY ACT 1988 (CTH)</title></heading><docinfo:hierlev role="me"><heading><title>PART IV TRANSFER AND REMITTAL OF PROCEEDINGS [ss 27&#x2013;30]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140000030</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.ADA88"/><docinfo:metaitem name="parent-filename" value="ol1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">CTH</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 34, 1988</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">ADMIRALTY ACT 1988 (CTH)</leg:officialname></leg:info><leg:level id="UCPN.OL.ADA88.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.PT4"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART IV TRANSFER AND REMITTAL OF PROCEEDINGS [ss 27&#x2013;30]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.ADA88.PT4" type="ext"/>PART IV</designum></desig><title searchtype="PART-TITLE">TRANSFER AND REMITTAL OF PROCEEDINGS [ss 27&#x2013;30]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S27"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,170] s 27 Transfer">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S27" type="ext"/>[250,170]</edpnum><title searchtype="SECT-TITLE">Transfer</title><desig searchtype="SECT-NUM"><designum>27</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S27.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S27.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding commenced under this Act is pending in the Federal Court, in the Federal Circuit Court, in the Supreme Court of a State or Territory or in a court of a State or Territory exercising jurisdiction under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S11" remotekey1="REFPTID" service="DOC-ID">section 11</remotelink></ci:content></ci:cite>
+, the court (in this section called the <defterm><emph typestyle="bf">first court</emph></defterm>) may, at any stage of the proceeding, upon application or on its own motion, by order, transfer the proceeding to some other court that has jurisdiction under this Act with respect to the subject-matter of the claim (in this section called the <defterm><emph typestyle="bf">second court</emph></defterm>).</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 23 of 2006  s 3 and Sch 3 effective 4 May 2006 ; Act 13 of 2013  s 3 and Sch 2 item 1, effective 12 April 2013]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S27.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S27.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S27.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ does not authorise the transfer of a proceeding commenced as an action <emph typestyle="it">in rem</emph> to a court that does not, apart from the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S28.7" remotekey1="REFPTID" service="DOC-ID">subsection 28(7)</remotelink></ci:content></ci:cite>
+, have jurisdiction in respect of proceedings so commenced.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S27.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S27.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding has been so transferred, the second court shall proceed as if:</text></p>
+<l><li id="UCPN.OL.ADA88.S27.3.A"><lilabel><refpt id="UCPN.OL.ADA88.S27.3.A" type="ext"/>(a)</lilabel>
+<p><text>the proceeding had been commenced in that court;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S27.3.B"><lilabel><refpt id="UCPN.OL.ADA88.S27.3.B" type="ext"/>(b)</lilabel>
+<p><text>the same or similar steps in the proceeding had been taken in that court as were taken in the first court; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S27.3.C"><lilabel><refpt id="UCPN.OL.ADA88.S27.3.C" type="ext"/>(c)</lilabel>
+<p><text>the orders and directions made by the first court in the proceeding had been made by the second court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S28"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,175] s 28 Remittal">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S28" type="ext"/>[250,175]</edpnum><title searchtype="SECT-TITLE">Remittal</title><desig searchtype="SECT-NUM"><designum>28</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S28.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S28.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding commenced under this Act as an action <emph typestyle="it">in rem</emph> against a ship or other property is pending in the Federal Court or in the Supreme Court of a State, the court may, at any stage of the proceeding, upon application or on its own motion, remit the proceeding for hearing to:</text></p>
+<l><li id="UCPN.OL.ADA88.S28.1.AA"><lilabel><refpt id="UCPN.OL.ADA88.S28.1.AA" type="ext"/>(aa)</lilabel>
+<p><text>the Federal Circuit Court; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S28.1.A"><lilabel><refpt id="UCPN.OL.ADA88.S28.1.A" type="ext"/>(a)</lilabel>
+<p><text>a court of a State; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S28.1.B"><lilabel><refpt id="UCPN.OL.ADA88.S28.1.B" type="ext"/>(b)</lilabel>
+<p><text>if service of the initiating process was effected on the ship or property in a Territory &#x2014; a court of that Territory;</text></p>
+</li>
+</l>
+<p><text>being a court that would have had jurisdiction in respect of the proceeding if:</text></p>
+<l><li id="UCPN.OL.ADA88.S28.1.C"><lilabel><refpt id="UCPN.OL.ADA88.S28.1.C" type="ext"/>(c)</lilabel>
+<p><text>the proceeding had been commenced in that court as an action <emph typestyle="it">in personam;</emph> and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S28.1.D"><lilabel><refpt id="UCPN.OL.ADA88.S28.1.D" type="ext"/>(d)</lilabel>
+<p><text>service of initiating process in that proceeding had been effected within the locality within which that court may exercise jurisdiction.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 23 of 2006  s 3 and Sch 3 effective 4 May 2006 ; Act 13 of 2013  s 3 and Sch 2 item 1, effective 12 April 2013]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S28.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S28.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a proceeding commenced under this Act as an action <emph typestyle="it">in rem</emph> is pending in the Supreme Court of a Territory, the court may, at any stage of the proceeding, upon application or on its own motion, remit the proceeding for hearing to some other court of the Territory that would have had jurisdiction in respect of the proceeding if:</text></p>
+<l><li id="UCPN.OL.ADA88.S28.2.A"><lilabel><refpt id="UCPN.OL.ADA88.S28.2.A" type="ext"/>(a)</lilabel>
+<p><text>the proceeding had been commenced in that court as an action <emph typestyle="it">in personam;</emph> and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S28.2.B"><lilabel><refpt id="UCPN.OL.ADA88.S28.2.B" type="ext"/>(b)</lilabel>
+<p><text>service of initiating process in that proceeding had been effected in that Territory.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S28.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S28.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court from which the proceeding is remitted (in this section called the <defterm><emph typestyle="bf">first court</emph></defterm>) may give such orders or directions as are appropriate in relation to the further steps to be taken in the proceeding and, subject to any such orders and directions, the court to which the proceeding is remitted (in this section called the <defterm><emph typestyle="bf">second court</emph></defterm>) may give orders and directions of a similar kind.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S28.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S28.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to any orders and directions given under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S28.3" remotekey1="REFPTID" service="DOC-ID">subsection (3)</remotelink></ci:content></ci:cite>
+, the second court shall proceed as if:</text></p>
+<l><li id="UCPN.OL.ADA88.S28.4.A"><lilabel><refpt id="UCPN.OL.ADA88.S28.4.A" type="ext"/>(a)</lilabel>
+<p><text>the proceeding had been commenced in that court;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S28.4.B"><lilabel><refpt id="UCPN.OL.ADA88.S28.4.B" type="ext"/>(b)</lilabel>
+<p><text>the same or similar steps in the proceeding had been taken in the second court as were taken in the first court; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S28.4.C"><lilabel><refpt id="UCPN.OL.ADA88.S28.4.C" type="ext"/>(c)</lilabel>
+<p><text>the orders and directions made by the first court in the proceeding had been made by the second court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S28.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S28.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The first court shall give effect to a judgment or order given in the proceeding, being a judgment or order that finally disposes of the proceeding, as though that judgment or order were a judgment or order of that court in the proceeding.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S28.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S28.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S28.5" remotekey1="REFPTID" service="DOC-ID">Subsection (5)</remotelink></ci:content></ci:cite>
+ does not affect:</text></p>
+<l><li id="UCPN.OL.ADA88.S28.6.A"><lilabel><refpt id="UCPN.OL.ADA88.S28.6.A" type="ext"/>(a)</lilabel>
+<p><text>a right of appeal that a party to the proceeding has; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S28.6.B"><lilabel><refpt id="UCPN.OL.ADA88.S28.6.B" type="ext"/>(b)</lilabel>
+<p><text>the power of a court to stay execution pending an appeal.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S28.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S28.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The second court is invested with federal jurisdiction, or, if that court is the Federal Circuit Court or a court of a Territory, jurisdiction is conferred on that court, in respect of the proceeding.</text></p>
+<leg:histnote>
+<p><text>[subs (7)  am Act 23 of 2006  s 3 and Sch 3 effective 4 May 2006 ; Act 13 of 2013  s 3 and Sch 2 item 1, effective 12 April 2013]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S29"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,180] s 29 Security in relation to stayed or dismissed proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S29" type="ext"/>[250,180]</edpnum><title searchtype="SECT-TITLE">Security in relation to stayed or dismissed proceedings</title><desig searchtype="SECT-NUM"><designum>29</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S29.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S29.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where:</text></p>
+<l><li id="UCPN.OL.ADA88.S29.1.A"><lilabel><refpt id="UCPN.OL.ADA88.S29.1.A" type="ext"/>(a)</lilabel>
+<p><text>it appears to the court in which a proceeding commenced under this Act is pending that the proceeding should be stayed or dismissed on the ground that the claim concerned should be determined by arbitration (whether in Australia or elsewhere) or by a court of a foreign country; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S29.1.B"><lilabel><refpt id="UCPN.OL.ADA88.S29.1.B" type="ext"/>(b)</lilabel>
+<p><text>a ship or other property is under arrest in the proceeding;</text></p>
+</li>
+</l>
+<p><text>the court may order that the proceeding be stayed on condition that the ship or property be retained by the court as security for the satisfaction of any award or judgment that may be made in the arbitration or in a proceeding in the court of the foreign country.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S29.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S29.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S29.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ does not limit any other power of the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S29.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S29.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The power of the court to stay or dismiss a proceeding includes power to do so on such conditions as are just, including a condition:</text></p>
+<l><li id="UCPN.OL.ADA88.S29.3.A"><lilabel><refpt id="UCPN.OL.ADA88.S29.3.A" type="ext"/>(a)</lilabel>
+<p><text>with respect to the institution or prosecution of the arbitration or proceeding in the court of the foreign country; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S29.3.B"><lilabel><refpt id="UCPN.OL.ADA88.S29.3.B" type="ext"/>(b)</lilabel>
+<p><text>that equivalent security be provided for the satisfaction of any award or judgment that may be made in the arbitration or in the proceeding in the court of the foreign country.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S29.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S29.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a court has made an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S29.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S29.3" remotekey1="REFPTID" service="DOC-ID">(3)</remotelink></ci:content></ci:cite>
+, the court may make such interim or supplementary orders as are appropriate in relation to the ship or property for the purpose of preserving:</text></p>
+<l><li id="UCPN.OL.ADA88.S29.4.A"><lilabel><refpt id="UCPN.OL.ADA88.S29.4.A" type="ext"/>(a)</lilabel>
+<p><text>the ship or property; or</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S29.4.B"><lilabel><refpt id="UCPN.OL.ADA88.S29.4.B" type="ext"/>(b)</lilabel>
+<p><text>the rights of a party or of a person interested in the ship or property.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S29.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S29.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where:</text></p>
+<l><li id="UCPN.OL.ADA88.S29.5.A"><lilabel><refpt id="UCPN.OL.ADA88.S29.5.A" type="ext"/>(a)</lilabel>
+<p><text>a ship or other property is under arrest in a proceeding;</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S29.5.B"><lilabel><refpt id="UCPN.OL.ADA88.S29.5.B" type="ext"/>(b)</lilabel>
+<p><text>an award or judgment as mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S29.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+ has been made in favour of a party; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S29.5.C"><lilabel><refpt id="UCPN.OL.ADA88.S29.5.C" type="ext"/>(c)</lilabel>
+<p><text>apart from this section, the award or judgment is enforceable in Australia;</text></p>
+</li>
+</l>
+<p><text>then, in addition to any other proceeding that may be taken by the party to enforce the award or judgment, the party may apply to the court in the stayed proceeding for an appropriate order in relation to the ship or property to give effect to the award or judgment.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.ADA88.S29.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.250180-5" leveltype="para0" subdoc="true" toc-caption="[250,180.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.250180-5" type="ext"/>[250,180.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is not an abuse of process of court to commence proceedings <emph typestyle="it">in rem</emph> to obtain the arrest of a ship even though an arbitration in relation to the dispute has already commenced: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000067" spanref="cr000067-001" status="unval"><ci:reporter value="LLOYDSREP"/><ci:volume num="2"/><ci:edition><ci:date year="1987"/></ci:edition><ci:page num="164"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Jalamatsya</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000067-001" status="unval">[1987] 2 Lloyd's Rep 164</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S30"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[250,185] s 30 Power to deal with ship or other property">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.ADA88.S30" type="ext"/>[250,185]</edpnum><title searchtype="SECT-TITLE">Power to deal with ship or other property</title><desig searchtype="SECT-NUM"><designum>30</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.ADA88.S30.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S30.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies where:</text></p>
+<l><li id="UCPN.OL.ADA88.S30.1.A"><lilabel><refpt id="UCPN.OL.ADA88.S30.1.A" type="ext"/>(a)</lilabel>
+<p><text>a proceeding has been transferred or remitted under the preceding provisions of this Part; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S30.1.B"><lilabel><refpt id="UCPN.OL.ADA88.S30.1.B" type="ext"/>(b)</lilabel>
+<p><text>a ship or other property is under arrest in the proceeding.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S30.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S30.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court from which the proceeding was transferred or remitted:</text></p>
+<l><li id="UCPN.OL.ADA88.S30.2.A"><lilabel><refpt id="UCPN.OL.ADA88.S30.2.A" type="ext"/>(a)</lilabel>
+<p><text>may deal with the ship or property as though it were under arrest in a proceeding that had not been so transferred or remitted; and</text></p>
+</li>
+<li id="UCPN.OL.ADA88.S30.2.B"><lilabel><refpt id="UCPN.OL.ADA88.S30.2.B" type="ext"/>(b)</lilabel>
+<p><text>may make such orders as are necessary or convenient for transferring the custody of the ship or property to the court to which the proceeding has been so transferred or remitted.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S30.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S30.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notwithstanding any other provision of this Act, an order made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S30.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ has effect according to its tenor.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.ADA88.S33.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.ADA88.S33.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a court has made an order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.ADA88.S30.2.B" remotekey1="REFPTID" service="DOC-ID">paragraph (2)(b)</remotelink></ci:content></ci:cite>
+, the court to which the proceeding has been transferred or remitted has the same powers in relation to the ship or property as it has in relation to a ship or other property under arrest in a proceeding commenced in that court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

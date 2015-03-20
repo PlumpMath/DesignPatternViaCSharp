@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 2 OATHS [s 11A]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.OAN.PT2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>OATHS ACT 1900 (NSW) (EXTRACT)</title></heading><docinfo:hierlev role="me"><heading><title>PART 2 OATHS [s 11A]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140300000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.OAN"/><docinfo:metaitem name="parent-filename" value="ol1060.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">OATHS ACT 1900 (NSW) (EXTRACT)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1900</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 20, 1900</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>Oaths Act No 20 of 1900, assent 22 September 1900, commencement 1 January 1901, as amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Oaths (Amendment) Act 1916 No 5</entry><entry colname="c2">29 March 1916</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Oaths (Amendment) Act 1936 No 12</entry><entry colname="c2">13 May 1936</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Statute Law Revision Act 1937 No 35</entry><entry colname="c2">23 December 1937</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Oaths (Amendment) Act 1953 No 4</entry><entry colname="c2">25 September 1953</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Oaths (Amendment) Act 1962 No 5</entry><entry colname="c2">10 May 1962</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Decimal Currency Act 1965 No 33</entry><entry colname="c2">20 December 1965</entry><entry colname="c3">s 4 on assent</entry></row>
+<row><entry colname="c1">Legal Practitioners and Oaths (Amendment) Act 1970 No 20</entry><entry colname="c2">31 March 1970</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Evidence and Oaths (Amendment) Act 1973 No 10</entry><entry colname="c2">10 April 1973</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Legal Practitioners and Other Acts (Amendment) Act 1974 No 62</entry><entry colname="c2">16 October 1974</entry><entry colname="c3">14 February 1975</entry></row>
+<row><entry colname="c1">Oaths (Commercial Arbitration) Amendment Act 1984 No 165</entry><entry colname="c2">14 December 1984</entry><entry colname="c3">1 May 1985 (Gaz 73 of 26 April 1985 p 1797)</entry></row>
+<row><entry colname="c1">Oaths (Children) Amendment Act 1985 No 151</entry><entry colname="c2">28 November 1985</entry><entry colname="c3">s 3 and Sch 1: 23 March 1986 (Gaz 73 of 26 April 1985 p 1160)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1985 No 231</entry><entry colname="c2">18 December 1985</entry><entry colname="c3">s 5 and Sch 31: on assent</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Legal Profession) Amendment Act 1987 No 111</entry><entry colname="c2">12 June 1987</entry><entry colname="c3">1 January 1988</entry></row>
+<row><entry colname="c1">Jury (Amendment) Act 1987 No 286</entry><entry colname="c2">16 December 1987</entry><entry colname="c3">s 4: 13 January 1988: s 2</entry></row>
+<row><entry colname="c1">Crimes (Public Justice) Amendment Act 1990 No 51</entry><entry colname="c2">18 September 1990</entry><entry colname="c3">s 4 and Sch 2: 25 November 1990 (Gaz 141 of 9 November 1990)</entry></row>
+<row><entry colname="c1">Oaths (Children) Amendment Act 1990 No 93</entry><entry colname="c2">7 December 1990</entry><entry colname="c3">s 3 and Sch 1: 6 January 1991 (Gaz 174 of 21 December 1990 p 11190)</entry></row>
+<row><entry colname="c1">Statute Law (Penalties) Act 1993 No 47</entry><entry colname="c2">15 June 1993</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Evidence (Consequential and Other Provisions) Act 1995 No 27</entry><entry colname="c2">19 June 1995</entry><entry colname="c3">1 September 1995 (Gaz 102 of 25 August 1995 p 4355)</entry></row>
+<row><entry colname="c1">Oaths Amendment Act 1996 No 83</entry><entry colname="c2">6 November 1996</entry><entry colname="c3">1 January 1997 (Gaz 150 of 20 December 1996 p 8528)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1997 No 147</entry><entry colname="c2">17 December 1997</entry><entry colname="c3">Sch 1: 17 December 1997; Sch 3: 17 March 1998</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1999 No 31</entry><entry colname="c2">7 July 1999</entry><entry colname="c3">7 July 1999</entry></row>
+<row><entry colname="c1">Crimes Legislation Amendment (Sentencing) Act 1999 No 94</entry><entry colname="c2">8 December 1999</entry><entry colname="c3">1 January 2000</entry></row>
+<row><entry colname="c1">Justices Legislation Repeal and Amendment Act 2001 No 121</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">7 July 2003 (Gaz 104 of 27 June 2003 p 5978)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2003 No 71</entry><entry colname="c2">20 November 2003</entry><entry colname="c3">1 Jan 2004 (Gaz 196 of 12 December 2003 p 11172)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2005 No 64</entry><entry colname="c2">1 July 2005</entry><entry colname="c3">1 July 2005</entry></row>
+<row><entry colname="c1">Civil Procedure Act 2005 No 28</entry><entry colname="c2">1 June 2005</entry><entry colname="c3">15 August 2005</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2006 No 120</entry><entry colname="c2">4 December 2006</entry><entry colname="c3">4 December 2006</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Schs 2 and 4: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">Registrar-General Legislation (Amendment and Repeal) Act 2010 No 17</entry><entry colname="c2">18 May 2010</entry><entry colname="c3">Sch 1.2: on assent</entry></row>
+<row><entry colname="c1">Identification Legislation Amendment Act 2011 No 45</entry><entry colname="c2">20 September 2011</entry><entry colname="c3">30 April 2012</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.OAN.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.OAN" type="ext"/>OATHS ACT 1900 (NSW) (EXTRACT)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>AN ACT to consolidate the enactments relating to oaths, affirmations, statutory declarations and affidavits.</text></p>
+<p>
+<text>BE it enacted by the Queen's Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of New South Wales in Parliament assembled, and by the authority of the same, as follows:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.OAN.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2 OATHS [s 11A]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.OAN.PT2" type="ext"/>PART 2</designum></desig><title searchtype="PART-TITLE">OATHS [s 11A]</title><leg:histnote>
+<p><text>[Heading  am Act 231 of 1985  s 5 and Sch 31]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.OAN.S11A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[395,000] s 11A Manner of taking oath">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.OAN.S11A" type="ext"/>[395,000]</edpnum><title searchtype="SECT-TITLE">Manner of taking oath</title><desig searchtype="SECT-NUM"><designum>11A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.OAN.S11A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.OAN.S11A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any person taking any oath on the Bible or on the New Testament, or the Old Testament, for any purpose whatsoever, whether in judicial proceedings or otherwise, shall, if physically capable of doing so, hold a copy of the Bible or Testament in his or her hand, but it shall not be necessary for the person to kiss such copy by way of assent.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act 147 of 1997  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.OAN.S11A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.OAN.S11A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The officer administering the oath may repeat the appropriate form of adjuration, and the person taking the oath shall thereupon, while holding in his or her hand a copy of the Bible, New Testament, or Old Testament, indicate his or her assent to the oath so administered by uttering the words &#x201c;So help me, God&#x201d;; or</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act 147 of 1997  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.OAN.S11A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.OAN.S11A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The person taking the oath may, while holding in his or her hand a copy of the Bible, New Testament, or Old Testament, repeat the words of the oath as prescribed or allowed by law.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 147 of 1997  s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+ 
+<blockquote>
+<p indent="none"><text><emph typestyle="bf">Special provision as to oaths in judicial proceedings</emph></text></p></blockquote>
+</leg:bodytext>
+<leg:level id="UCPN.OL.OAN.S11A.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.OAN.S11A.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In all judicial proceedings the officer administering the oath shall, unless the person about to take the oath voluntarily objects thereto, administer the oath in the form and manner set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.OAN.S11A.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ ; but no oath shall be deemed illegal or invalid by reason of any breach of the provisions of this section.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.OAN.S11A.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.OAN.S11A.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Provided that any witness in any judicial proceeding may swear with up-lifted hand in the following manner and form:</text></p>
+<p><text>The witness with uplifted hand says &#x2014; &#x201c;I swear by Almighty God as I shall answer to God at the Great Day of Judgment that I will speak the truth, the whole truth, and nothing but the truth.&#x201d;</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+ 
+<blockquote>
+<p indent="none"><text><emph typestyle="bf">Further proviso</emph></text></p></blockquote>
+</leg:bodytext>
+<leg:level id="UCPN.OL.OAN.S11A.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.OAN.S11A.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Provided also that&#x2014;</text></p>
+<l><li id="UCPN.OL.OAN.S11A.6.A"><lilabel><refpt id="UCPN.OL.OAN.S11A.6.A" type="ext"/>(a)</lilabel>
+<p><text>an oath may be administered and taken in any form and in any manner which would have been lawful if this section had not passed;</text></p>
+</li>
+<li id="UCPN.OL.OAN.S11A.6.B"><lilabel><refpt id="UCPN.OL.OAN.S11A.6.B" type="ext"/>(b)</lilabel>
+<p><text>every oath shall be binding for all purposes for which it is administered and may be taken in any form and in any manner which the person taking the same declares to be binding;</text></p>
+</li>
+<li id="UCPN.OL.OAN.S11A.6.C"><lilabel><refpt id="UCPN.OL.OAN.S11A.6.C" type="ext"/>(c)</lilabel>
+<p><text>where an oath has been administered and taken, the fact that the person taking the same had at the time no religious belief shall not for any purpose affect the legality or validity of the oath.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 11A  insrt Act 5 of 1916  s 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

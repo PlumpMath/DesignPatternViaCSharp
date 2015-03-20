@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>FI</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_267</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>F</title></heading>
+<docinfo:hierlev role="me"><heading><title>FI</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>104400</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_267" /><docinfo:metaitem name="parent-filename" value="ucpn138.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="13" month="07" year="2012">13 July 2012</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>FI</title></heading>
+<in:lev1 id="UCPN_IND_267" subdoc="true" toc-caption="Financial institution"><in:entry><in:entry-text><refpt id="FINANCIAL_INSTITUTION" type="ext"><emph typestyle="bf">Financial institution</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S102" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001060.xml">[s 102]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_268" subdoc="true" toc-caption="Fine enforcement officer"><in:entry><in:entry-text><refpt id="FINE_ENFORCEMENT_OFFICER" type="ext"><emph typestyle="bf">Fine enforcement officer</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.SEPR.REG6" remotekey1="REFPTID" service="DOC-ID" filename="ol10681000.xml">[420,030]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_269" subdoc="true" toc-caption="Fines"><in:entry><in:entry-text><refpt id="FINES" type="ext"><emph typestyle="bf">Fines</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>cancellation</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- effect on registration <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S119" remotekey1="REFPTID" service="DOC-ID" filename="ol10661057.xml">[416,020]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- initiated by originating State, where <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S116" remotekey1="REFPTID" service="DOC-ID" filename="ol10661057.xml">[416,005]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- initiated by registering State, where <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S118" remotekey1="REFPTID" service="DOC-ID" filename="ol10661057.xml">[416,015]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>challenge to imposition <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S120" remotekey1="REFPTID" service="DOC-ID" filename="ol10661057.xml">[416,025]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>enforcement</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- constitution of court <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S111" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,980]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- court of summary jurisdiction, imposed by <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S10" remotekey1="REFPTID" service="DOC-ID" filename="ol10661000.xml">[415,055]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- definitions <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- warrant of apprehension</in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>form <remotelink dpsi="05CC" refpt="UCPN.OL.SEPR.SCH1.F7" remotekey1="REFPTID" service="DOC-ID" filename="ol10681021.xml">[420,110]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- warrant of commitment</in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>form <remotelink dpsi="05CC" refpt="UCPN.OL.SEPR.SCH1.F8" remotekey1="REFPTID" service="DOC-ID" filename="ol10681024.xml">[420,120]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>imprisonment, when not allowed <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S114" remotekey1="REFPTID" service="DOC-ID" filename="ol10661054.xml">[415,995]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>instalments <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R37-1" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021306.xml">[r 37.1]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R37-7" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021306.xml">[r 37.7]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>payment to registering State <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S117" remotekey1="REFPTID" service="DOC-ID" filename="ol10661057.xml">[416,010]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>pre-commencement fine <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>pre-commencement serious fine <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>registration <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S113" remotekey1="REFPTID" service="DOC-ID" filename="ol10661054.xml">[415,990]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- amendment where initiated by originating State <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S115" remotekey1="REFPTID" service="DOC-ID" filename="ol10661057.xml">[416,000]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- effect <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S114" remotekey1="REFPTID" service="DOC-ID" filename="ol10661054.xml">[415,995]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>cancellation, of <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S119" remotekey1="REFPTID" service="DOC-ID" filename="ol10661057.xml">[416,020]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- request <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S112" remotekey1="REFPTID" service="DOC-ID" filename="ol10661054.xml">[415,985]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>related <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S110" remotekey1="REFPTID" service="DOC-ID" filename="ol10661051.xml">[415,975]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>State laws, operation of <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.S121" remotekey1="REFPTID" service="DOC-ID" filename="ol10661060.xml">[416,030]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>transitional provisions <remotelink dpsi="05CC" refpt="UCPN.OL.SEPA92.SCH1" remotekey1="REFPTID" service="DOC-ID" filename="ol10661066.xml">[416,175]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_270" subdoc="true" toc-caption="Fingerprint evidence"><in:entry><in:entry-text><refpt id="FINGERPRINT_EVIDENCE" type="ext"><emph typestyle="bf">Fingerprint evidence</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>affidavits by police <remotelink dpsi="05CC" refpt="UCPN.EA.ERN10.REG8" remotekey1="REFPTID" service="DOC-ID" filename="ea10021000.xml">[55,030]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.ERN10.REG9" remotekey1="REFPTID" service="DOC-ID" filename="ea10021000.xml">[55,035]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- forms <remotelink dpsi="05CC" refpt="UCPN.EA.ERN10.F2" remotekey1="REFPTID" service="DOC-ID" filename="ea10021006.xml">[55,085]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.ERN10.F3" remotekey1="REFPTID" service="DOC-ID" filename="ea10021009.xml">[55,090]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

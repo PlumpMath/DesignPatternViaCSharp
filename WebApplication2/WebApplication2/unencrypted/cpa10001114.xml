@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 6 MISCELLANEOUS [ss 181&#x2013;184]</docinfo:doc-heading><docinfo:doc-id>UCPN.CPA.CPAN05.PT10.D6</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Civil Procedure Act 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>CIVIL PROCEDURE ACT 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 10 REPRESENTATIVE PROCEEDINGS IN SUPREME COURT [ss 155&#x2013;184]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 6 MISCELLANEOUS [ss 181&#x2013;184]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>40000380</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.CPA"/><docinfo:metaitem name="parent-filename" value="cpa.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_CPA.SGM_UCPN.CPA.CPAN05"/><docinfo:metaitem name="parent-filename" value="cpa1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 28, 2005</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">CIVIL PROCEDURE ACT 2005</leg:officialname></leg:info><leg:level id="UCPN.CPA.CPAN05.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.CPA.CPAN05.PT10"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 10 REPRESENTATIVE PROCEEDINGS IN SUPREME COURT [ss 155&#x2013;184]"><leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.PT10.D6"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 6 MISCELLANEOUS [ss 181&#x2013;184]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.CPA.CPAN05.PT10.D6" type="ext"/>DIVISION 6</designum></desig><title searchtype="DIV-TITLE">MISCELLANEOUS [ss 181&#x2013;184]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.CPA.CPAN05.S181"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 181] s 181 Costs">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S181" type="ext"/>[s 181]</edpnum><title searchtype="SECT-TITLE">Costs</title><desig searchtype="SECT-NUM"><designum>181</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf s 43(1A) FCA)</ci:content></ci:cite></text></p></glp:note>
+<p><text>Despite 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S98" remotekey1="REFPTID" service="DOC-ID">section 98</remotelink></ci:content></ci:cite>
+, in any representative proceedings, the Court may not award costs against a person on whose behalf the proceedings have been commenced (other than a representative party) except as authorised by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S168" remotekey1="REFPTID" service="DOC-ID">sections 168</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S169" remotekey1="REFPTID" service="DOC-ID">169</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S182"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 182] s 182 Suspension of limitation periods">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S182" type="ext"/>[s 182]</edpnum><title searchtype="SECT-TITLE">Suspension of limitation periods</title><desig searchtype="SECT-NUM"><designum>182</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf s 33ZE FCA)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.CPA.CPAN05.S182.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S182.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On the commencement of any representative proceedings, the running of the limitation period that applies to the claim of a group member to which the proceedings relate is suspended.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S182.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S182.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The limitation period does not begin to run again unless either the member opts out of the proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S162" remotekey1="REFPTID" service="DOC-ID">section 162</remotelink></ci:content></ci:cite>
+ or the proceedings, and any appeals arising from the proceedings, are determined without finally disposing of the group member&#x2019;s claim.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S182.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S182.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>However, nothing in this section affects the running of a limitation period in respect of a group member who, immediately before the commencement of the representative proceedings, was barred by the expiration of that period from commencing proceedings in the member&#x2019;s own right in respect of a claim in the representative proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S182.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S182.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies despite anything in the Limitation Act 1969 or any other law.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S183"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 183] s 183 General power of Court to make orders">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S183" type="ext"/>[s 183]</edpnum><title searchtype="SECT-TITLE">General power of Court to make orders</title><desig searchtype="SECT-NUM"><designum>183</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf s 33ZF FCA)</ci:content></ci:cite></text></p></glp:note>
+<p><text>In any proceedings (including an appeal) conducted under this Part, the Court may, of its own motion or on application by a party or a group member, make any order that the Court thinks appropriate or necessary to ensure that justice is done in the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S184"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[s 184] s 184 Reimbursement of representative party's costs">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.CPA.CPAN05.S184" type="ext"/>[s 184]</edpnum><title searchtype="SECT-TITLE">Reimbursement of representative party's costs</title><desig searchtype="SECT-NUM"><designum>184</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>(cf s 33ZJ FCA)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.CPA.CPAN05.S184.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S184.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court has made an award of damages in representative proceedings, the representative party or a sub-group representative party, or a person who has been such a party, may apply to the Court for an order under this section.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S184.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S184.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, on an application under this section, the Court is satisfied that the costs reasonably incurred in relation to the representative proceedings by the person making the application are likely to exceed the costs recoverable by the person from the defendant, the Court may order that an amount equal to the whole or a part of the excess be paid to that person out of the damages awarded.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.CPA.CPAN05.S184.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.CPA.CPAN05.S184.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On an application under this section, the Court may also make any other order that it thinks just.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 18 MOTIONS [rr 18.1&#x2013;18.9]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT18</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="me"><heading><title>PART 18 MOTIONS [rr 18.1&#x2013;18.9]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010590</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT18"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 18 MOTIONS [rr 18.1&#x2013;18.9]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT18" type="ext"/>PART 18</designum></desig><title searchtype="PART-TITLE">MOTIONS [rr 18.1&#x2013;18.9]</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="48*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="54*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">1.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Summary note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Notice of motions &#x2014; Procedure generally &#x2014; Rules 18.1&#x2013;18.3</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules require interlocutory applications in proceedings to be made by motion with notice to the other parties affected by the orders sought. The rules prescribe the formal contents of the notice and require parties to be referred to by their ordinary description in the pleadings. (ie, &#x201c;plaintiff&#x201d;/&#x201c;(cross) defendant&#x201d; as the case may be).</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Service of notices of motion &#x2014; Rules 18.4&#x2013;18.5</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules require three days service of any notice of motion. They require personal service where the person affected is not already an active party to the proceedings.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0"><emph typestyle="ib">Hearing of motion &#x2014; Rules 18.6&#x2013;18.9</emph></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col4" rowsep="0">These rules permit the court to give appropriate directions for the hearing of the motion, including its determination in the absence of a party who has been served with notice in accordance with the rules.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">2.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Application</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">This Part does not apply to the Local Court, Small Claims Division: see r 1.5 and Sch 1.</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0">3.</entry>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">Historical Note</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="justify" colsep="0" morerows="0" nameend="col5" namest="col2" rowsep="0">The Part substantially reproduces the former SCR Part 19, DCR Part 16 and LCR Part 15. Rule 18.3(1)(a) alters (as indicated above) the practice in relation to the description of the names of parties affected by the application (as indicated above).</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+<p>
+<table frame="all" pgwide="1">
+<tgroup align="left" cols="5" colsep="0" rowsep="0">
+<colspec colname="col1" colsep="0" colwidth="31*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="46*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="52*" rowsep="0"/>
+<colspec colname="col4" colsep="0" colwidth="183*" rowsep="0"/>
+<colspec colname="col5" colsep="0" colwidth="181*" rowsep="0"/>
+<tbody valign="top"><row rowsep="0"><entry align="left" colsep="0" morerows="0" nameend="col5" namest="col1" rowsep="0">Quick index</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Abridgment of time&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-4-5" remotekey1="REFPTID" service="DOC-ID">[18.4.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Abridgment of time &#x2014; liberty to apply&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-4-10" remotekey1="REFPTID" service="DOC-ID">[18.4.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Absence of party &#x2014; disposal of motion in&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-7" remotekey1="REFPTID" service="DOC-ID">[r 18.7]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Approved forms&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-5" remotekey1="REFPTID" service="DOC-ID">[18.1.5]</remotelink>
+, <remotelink dpsi="05CC" refpt="UCPN.UCPR.18-3-5" remotekey1="REFPTID" service="DOC-ID">[18.3.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Dispensing with service&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-2-7" remotekey1="REFPTID" service="DOC-ID">[18.2.7]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Hearing of interlocutory applications&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-6-5" remotekey1="REFPTID" service="DOC-ID">[18.6.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Hearing of motion&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-6" remotekey1="REFPTID" service="DOC-ID">[r 18.6]</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-8" remotekey1="REFPTID" service="DOC-ID">[r 18.8]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Interlocutory applications in Corporations Act proceedings&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-15" remotekey1="REFPTID" service="DOC-ID">[18.1.15]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Introductory note&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-10" remotekey1="REFPTID" service="DOC-ID">[18.1.10]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Notice of motion &#x2014; form and content&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-1" remotekey1="REFPTID" service="DOC-ID">[r 18.1]</remotelink></ci:content></ci:cite>
+&#x2013;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-3" remotekey1="REFPTID" service="DOC-ID">[r 18.3]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Personal service &#x2014; when required&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-5" remotekey1="REFPTID" service="DOC-ID">[r 18.5]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Practice in the District Court&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-12" remotekey1="REFPTID" service="DOC-ID">[18.1.12]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Practice in the Local Court&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-12" remotekey1="REFPTID" service="DOC-ID">[18.1.13]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Practice in the Supreme Court&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-12" remotekey1="REFPTID" service="DOC-ID">[18.1.11]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Service &#x2014; time for&#x2009;&#x2025;&#x2009;<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-4" remotekey1="REFPTID" service="DOC-ID">[r 18.4]</remotelink></ci:content></ci:cite></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Service on each interested party&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-2-5" remotekey1="REFPTID" service="DOC-ID">[18.2.5]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Subject matter of interlocutory applications&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-20" remotekey1="REFPTID" service="DOC-ID">[18.1.20]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Successive interlocutory applications&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-12" remotekey1="REFPTID" service="DOC-ID">[18.1.25]</remotelink></entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" nameend="col5" namest="col3" rowsep="0">Variation of interlocutory orders&#x2009;&#x2025;&#x2009;<remotelink dpsi="05CC" refpt="UCPN.UCPR.18-1-12" remotekey1="REFPTID" service="DOC-ID">[18.1.30]</remotelink></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p>
+</leg:bodytext>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.1] r 18.1 Applications for court orders to be made by motion (cf SCR Part 19, rule 1; DCR Part 16, rule 1; LCR Part 15, rule 1)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-1" type="ext"/>[r 18.1]</edpnum><title searchtype="RUL-TITLE">Applications for court orders to be made by motion (cf SCR Part 19, rule 1; DCR Part 16, rule 1; LCR Part 15, rule 1)</title><desig searchtype="RUL-NUM"><designum>18.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An interlocutory or other application is to be made by motion unless these rules otherwise provide.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT18.R1.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-5" leveltype="para0" subdoc="true" toc-caption="[18.1.5] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-5" type="ext"/>[18.1.5] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved form is 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130440" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 20</remotelink>
+: Notice of Motion.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-10" leveltype="para0" subdoc="true" toc-caption="[18.1.10] Introductory note"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-10" type="ext"/>[18.1.10] </edpnum><title>Introductory note</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This Part governs the ordinary procedure for making interlocutory or procedural applications in pending proceedings. Proper use of interlocutory procedures can clarify matters in dispute, facilitate proof, minimise surprise, reduce hearing time and costs, and procure tactical advantages. Any such application should only be made after proper consideration of the application in the circumstances of the case as a whole. Often, enquiries should first be made of the opposing party to find out whether it will consent to the interlocutory orders sought, without the need for a formal application. A party who moves the court unnecessarily, without previously seeking consent of the other party, is at risk as to costs: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1915"/></ci:caseinfo><ci:caseref ID="cr004403" spanref="cr004403-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="32"/><ci:page num="60"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Moore v Gannon</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004403-001" status="unval">(1915) 32 WN(NSW) 60</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004404" spanref="cr004404-001"><ci:reporter value="urj"/><ci:refnum num="BC8802270"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Glandon Pty Ltd v Strata Consolidated Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004404-001"> (NSWCA, Kirby P, No 575/88, 29 December 1988, unreported, BC8802270)</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-15A" leveltype="para0" subdoc="true" toc-caption="[18.1.15A] Interlocutory applications in Corporations Act proceedings"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-15A" type="ext"/>[18.1.15A] </edpnum><title>Interlocutory applications in Corporations Act proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An application under the Corporations Act in pending proceedings must be made by an interlocutory process in Form 3 of the Supreme Court (Corporations) Rules 1999; r 2.2(1), (2), (4).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-11" leveltype="para0" subdoc="true" toc-caption="[18.1.11] Practice in the Supreme Court"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-11" type="ext"/>[18.1.11] </edpnum><title>Practice in the Supreme Court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In the Equity Division, motions are returnable before a registrar. Matters within a registrar's powers are dealt with at the end of the list.</text></p>
+<p>
+<text>In the Common Law Division, motions involving matters within a registrar's powers are made returnable before the prothonotary (registrar of the Common Law Division) on Mondays and Fridays. Matters within the prothonotary's powers are either heard on the return date (if time permits) or at a special fixture. Matters within the power of an associate judge, and ready to proceed, are referred by the prothonotary to an associate judge for hearing. Matters that are only within the power of a judge of the court are made returnable before a judge on a Monday.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-12" leveltype="para0" subdoc="true" toc-caption="[18.1.12] Practice in the District Court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [18.1.12] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1973-1" remotekey1="REFPTID" service="DOC-ID">District Court Rules 1973</remotelink> DCR Pt 43A r 1.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-12" type="ext"/>[18.1.12] </edpnum><title>Practice in the District Court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In the District Court, Practice Note 1 Pt 7 (at 
+<remotelink dpsi="05CC" refpt="UCPN.PN.DC1" remotekey1="REFPTID" service="DOC-ID">[DC (Civil) 1]</remotelink>
+ in vol 2) sets out the procedure for dealing with motions (and summonses other than costs appeals or child care appeals). (Note: Counsel are not required to robe for the hearing of Notices of Motion or Summonses). A motion will be allocated a hearing date in the general motions list on the first available Friday. The assistant registrar will deal with consent orders and adjournment applications between 9 and 9.30 on Fridays. Motions anticipated to require less than 2 hours hearing time are returnable before an assistant registrar on Fridays at 9.30 am. All motions that are ready for hearing (and some contested adjournment applications) are then referred to the judicial registrar or motions judge &#x2014; either for determination or further referral to an available judge. (Note: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT43A.R1" remotekey1="REFPTID" service="DOC-ID">DCR Pt 43A r 1</remotelink></ci:content></ci:cite>
+ confers on the judicial registrar all of the powers of the District Court's ordinary civil jurisdiction.) The judicial registrar will allocate a hearing date to any notice of motion which the parties anticipate will require more than 2 hours hearing time (long motion). Long motions will generally be case managed with the substantive case and will be allocated a hearing date as soon as it is ready for hearing. All summonses (other than costs appeals or child care appeals) will be listed before the judicial registrar for case management.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-13" leveltype="para0" subdoc="true" toc-caption="[18.1.13] Practice in the Local Court"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-13" type="ext"/>[18.1.13] </edpnum><title>Practice in the Local Court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The practice of listing motions in the Local Court varies according to the listing arrangements in the particular Local Court. Practitioners should make enquiries of the registrar of the court at which the motion is to be made returnable to ascertain an appropriate return date for the motion.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-15" leveltype="para0" subdoc="true" toc-caption="[18.1.15] Interlocutory applications in Corporations Act proceedings"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-15" type="ext"/>[18.1.15] </edpnum><title>Interlocutory applications in Corporations Act proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An application under the Corporations Act in pending proceedings must be made by an interlocutory process in Form 3 of the Supreme Court (Corporations) Rules 1999; r 2.2(1), (2), (4).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-20" leveltype="para0" subdoc="true" toc-caption="[18.1.20] Subject matter of interlocutory applications">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [18.1.20] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> s 73.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-20" type="ext"/>[18.1.20] </edpnum><title>Subject matter of interlocutory applications</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The purpose of this rule is to prescribe the form in which applications in existing proceedings are to be made (namely by motion). It neither restricts nor enlarges the kind of applications that can be made in the proceedings. Whether a particular application can properly be made is to be determined according to general principles. Generally speaking, any matter arising in connection with the preparation of the proceedings, the conduct of the hearing or the enforcement of a judgment may be made by motion in the proceedings. <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004405" spanref="cr004405-001"><ci:reporter value="urj"/><ci:refnum num="BC200100086"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">St George Commercial Credit Corp Ltd v Wallis</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2001] NSWSC 23; <ci:span spanid="cr004405-001"> BC200100086</ci:span></citefragment> <remotelink dpsi="0018" refpt="323153" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (claim to recover surplus proceeds of sale after unsuccessful challenge to mortgage and guarantees &#x2014; motion appropriate). The reasoning in <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wallis</emph>
+</citefragment></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004406" spanref="cr004406-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2001"/></ci:edition><ci:pinpoint num="58" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr004406-000" status="unval">at [58]</ci:span></citefragment></ci:content></ci:cite> illustrates one instance of a permissive use of the motion procedure &#x2014; as do the decisions in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004407" spanref="cr004407-001" status="unval"><ci:reporter value="VLR"/><ci:edition><ci:date year="1956"/></ci:edition><ci:page num="555"/></ci:caseref><ci:caseref ID="cr004408" spanref="cr004408-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1957"/></ci:edition><ci:page num="71"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Roberts v Gippsland Agricultural &amp; Earth Moving Contracting Co</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004407-001" status="unval">[1956] VLR 555</ci:span>; <ci:span spanid="cr004408-002" status="unval">[1957] ALR 71</ci:span></citefragment> <remotelink dpsi="0018" refpt="4094" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr004409" spanref="cr004409-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="18"/><ci:page num="510"/></ci:caseref><ci:caseref ID="cr004410" spanref="cr004410-002"><ci:reporter value="ALR"/><ci:volume num="80"/><ci:page num="203"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Darling Downs Investments Pty Ltd v Ellwood</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004409-001" status="unval">(1988) 18 FCR 510</ci:span>; <ci:span spanid="cr004410-002">80 ALR 203</ci:span></citefragment> <remotelink dpsi="0018" refpt="8485" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (both of which dealt with enforcement of compromises by motion in the proceedings &#x2014; and which is the subject of a specific power in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S73" remotekey1="REFPTID" service="DOC-ID">s 73</remotelink></ci:content></ci:cite>
+ of the CPA).</text></p>
+<p>
+<text>The notice of motion procedure is inappropriate where the substantive relief sought is substantially different to that which was sought in the originating process or ordered in a judgment. <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1894"/></ci:caseinfo><ci:caseref ID="cr004411" spanref="cr004411-001" status="unval"><ci:reporter value="LRNSWEq"/><ci:volume num="15"/><ci:page num="22"/></ci:caseref><ci:caseref anaphref="cr004411" spanref="cr004411-002" status="unval"><ci:pinpoint num="24" targettype="page"/></ci:caseref><ci:caseref ID="cr004412" spanref="cr004412-003" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="10"/><ci:page num="146"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Haviland v McLeary</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004411-001" status="unval">(1894) 15 LR (NSW) Eq 22</ci:span> <ci:span spanid="cr004411-002" status="unval">at 24</ci:span>; <ci:span spanid="cr004412-003" status="unval">10 WN (NSW) 146c</ci:span></citefragment> <remotelink dpsi="0018" refpt="66667" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application to remove a trustee appointed in an administration suit &#x2014; motion inappropriate); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004413" spanref="cr004413-001"><ci:reporter value="urj"/><ci:refnum num="BC200302917"/></ci:caseref><ci:caseref anaphref="cr004413" spanref="cr004413-002"><ci:pinpoint num="57" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Johnston v ANZ Banking Group Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 454; <ci:span spanid="cr004413-001"> BC200302917</ci:span> <ci:span spanid="cr004413-002">at [57]</ci:span></citefragment> <remotelink dpsi="0018" refpt="364057" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application to have party declared vexatious litigant &#x2014; motion inappropriate); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr004414" spanref="cr004414-001"><ci:reporter value="ACSR"/><ci:volume num="50"/><ci:page num="565"/></ci:caseref><ci:caseref ID="cr004415" spanref="cr004415-002"><ci:reporter value="urj"/><ci:refnum num="BC200406360"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Jay-O-Bees Pty Ltd (in liq); Rosseau Pty Ltd (in liq) v Jay-O-Bees Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004414-001">(2004) 50 ACSR 565</ci:span>; [2004] NSWSC 818; <ci:span spanid="cr004415-002"> BC200406360</ci:span></citefragment> <remotelink dpsi="0018" refpt="387028" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application for rectification by motion in winding up proceedings &#x2014; motion inappropriate).</text></p>
+<p>
+<text>The notice of motion procedure has also been held inappropriate where it would involve substantial matters beyond the ambit of the original or where the interests of justice otherwise indicate that it is desirable to institute separate proceedings: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr004416" spanref="cr004416-001"><ci:reporter value="NSWLR"/><ci:volume num="20"/><ci:page num="206"/></ci:caseref><ci:caseref anaphref="cr004416" spanref="cr004416-002"><ci:pinpoint num="209" targettype="page"/></ci:caseref><ci:caseref anaphref="cr004416" spanref="cr004416-003" status="unval"><ci:pinpoint num="210" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Phillips v Walsh</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004416-001">(1990) 20 NSWLR 206</ci:span> <ci:span spanid="cr004416-002">at 209,</ci:span> <ci:span spanid="cr004416-003" status="unval">210</ci:span></citefragment> <remotelink dpsi="0018" refpt="34462" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application to enforce a compromise &#x2014; motion inappropriate); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr004417" spanref="cr004417-001"><ci:reporter value="NSWLR"/><ci:volume num="24"/><ci:page num="691"/></ci:caseref><ci:caseref anaphref="cr004417" spanref="cr004417-002" status="unval"><ci:pinpoint num="697" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Spies v Commonwealth Bank of Australia</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004417-001">(1991) 24 NSWLR 691</ci:span> <ci:span spanid="cr004417-002" status="unval">at 697</ci:span></citefragment> <remotelink dpsi="0018" refpt="34461" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application to set aside consent judgment &#x2014; motion inappropriate).</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-25" leveltype="para0" subdoc="true" toc-caption="[18.1.25] Successive interlocutory applications"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-25" type="ext"/>[18.1.25] </edpnum><title>Successive interlocutory applications</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>If an interlocutory application has been made unsuccessfully, it is generally inappropriate to make a subsequent application for the same orders. A subsequent application will almost inevitably be regarded as inappropriate, and may be regarded as an abuse of process, if there has been no material change of circumstances and the subsequent application is based on substantially the same evidence: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr004418" spanref="cr004418-001"><ci:reporter value="ALR"/><ci:volume num="217"/><ci:page num="44"/></ci:caseref><ci:caseref ID="cr004419" spanref="cr004419-002"><ci:reporter value="urj"/><ci:refnum num="BC8801491"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brimaud v Honeysett Instant Print Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004418-001">(1988) 217 ALR 44</ci:span>; <ci:span spanid="cr004419-002"> BC8801491</ci:span></citefragment> <remotelink dpsi="0018" refpt="66584" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2000"/></ci:caseinfo><ci:caseref ID="cr004420" spanref="cr004420-001"><ci:reporter value="NSWLR"/><ci:volume num="50"/><ci:page num="139"/></ci:caseref><ci:caseref ID="cr004421" spanref="cr004421-002"><ci:reporter value="MVR"/><ci:volume num="31"/><ci:page num="524"/></ci:caseref><ci:caseref ID="cr004422" spanref="cr004422-003"><ci:reporter value="urj"/><ci:refnum num="BC200005011"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Nominal Defendant v Manning</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004420-001">(2000) 50 NSWLR 139</ci:span>; <ci:span spanid="cr004421-002">31 MVR 524</ci:span>; [2000] NSWCA 80; <ci:span spanid="cr004422-003"> BC200005011</ci:span></citefragment> <remotelink dpsi="0018" refpt="316467" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004423" spanref="cr004423-001"><ci:reporter value="urj"/><ci:refnum num="BC201001212"/></ci:caseref><ci:caseref anaphref="cr004423" spanref="cr004423-002"><ci:pinpoint num="17" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Fletcher v Besser</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWCA 30; <ci:span spanid="cr004423-001"> BC201001212</ci:span> <ci:span spanid="cr004423-002">at [17]</ci:span></citefragment> <remotelink dpsi="0018" refpt="490495" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2002"/></ci:caseinfo><ci:caseref ID="cr004424" spanref="cr004424-001"><ci:reporter value="NSWLR"/><ci:volume num="55"/><ci:page num="315"/></ci:caseref><ci:caseref ID="cr004425" spanref="cr004425-002"><ci:reporter value="urj"/><ci:refnum num="BC200204666"/></ci:caseref><ci:caseref anaphref="cr004425" spanref="cr004425-003"><ci:pinpoint num="17" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">National Parks and Wildlife Service v Pierson</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004424-001">(2002) 55 NSWLR 315</ci:span>; [2002] NSWCA 273; <ci:span spanid="cr004425-002"> BC200204666</ci:span> <ci:span spanid="cr004425-003">at [17]</ci:span></citefragment> <remotelink dpsi="0018" refpt="350712" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see also 
+<remotelink dpsi="05CC" refpt="UCPN.UCPR.25-1-80" remotekey1="REFPTID" service="DOC-ID">[25.1.80]</remotelink>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-1-30" leveltype="para0" subdoc="true" toc-caption="[18.1.30] Variation of interlocutory orders">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [18.1.30] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> rr 36, 37.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-1-30" type="ext"/>[18.1.30] </edpnum><title>Variation of interlocutory orders</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Interlocutory orders may be varied according to the circumstances of the particular case. The relevant principles are discussed in the notes to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R36" remotekey1="REFPTID" service="DOC-ID" status="unval">rr 36</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R37" remotekey1="REFPTID" service="DOC-ID" status="unval">37</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.2] r 18.2 Requirement for notice (cf SCR Part 19, rule 2; DCR Part 16, rule 2; LCR Part 15, rule 2)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-2" type="ext"/>[r 18.2]</edpnum><title searchtype="RUL-TITLE">Requirement for notice (cf SCR Part 19, rule 2; DCR Part 16, rule 2; LCR Part 15, rule 2)</title><desig searchtype="RUL-NUM"><designum>18.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A person may not move the court to make any order unless notice of motion has been filed and served on each person affected by the proposed order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Despite subrule (1), a person may move the court to make an order without notice of motion having been filed or served on a person if:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R18-2.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-2.2.A" type="ext"/>(a)</lilabel>
+<p><text>that person consents to the making of the order, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-2.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-2.2.B" type="ext"/>(b)</lilabel>
+<p><text>the preparation, filing or service of the notice would cause undue delay or other prejudice to the person by whom the order is sought, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-2.2.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-2.2.C" type="ext"/>(c)</lilabel>
+<p><text>the court dispenses with the requirement for such notice to be filed or served, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-2.2.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-2.2.D" type="ext"/>(d)</lilabel>
+<p><text>under these rules or the practice of the court, the motion may be made without the prior filing or service (as the case may be) of notice of motion.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT18.R2.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.18-2-5" leveltype="para0" subdoc="true" toc-caption="[18.2.5] Service on each interested party">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [18.2.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 10.2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-2-5" type="ext"/>[18.2.5] </edpnum><title>Service on each interested party</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The notice of motion should be addressed to the parties affected by the orders sought in the notice of motion &#x2014; and not to the solicitor for that party: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1908"/></ci:caseinfo><ci:caseref ID="cr004426" spanref="cr004426-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="25"/><ci:page num="78"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Farrell</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004426-001" status="unval">(1908) 25 WN (NSW) 78</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1903"/></ci:caseinfo><ci:caseref ID="cr004427" spanref="cr004427-001" status="unval"><ci:reporter value="WNNSW"/><ci:volume num="20"/><ci:page num="268"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Baptist</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004427-001" status="unval">(1903) 20 WN (NSW) 268</ci:span></citefragment></ci:content></ci:cite>. The notice of motion should be served in accordance with the rules and may be served at the other parties addresses for service in the proceedings. Where there is doubt as to who should be given notice, notice should be given to all parties interested in the matter in accordance with the rules of natural justice: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004428" spanref="cr004428-001" status="unval"><ci:reporter value="Ch"/><ci:volume num="2"/><ci:edition><ci:date year="1892"/></ci:edition><ci:page num="462"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re King &amp; Co&#x2019;s Trade Mark</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004428-001" status="unval">[1892] 2 Ch 462</ci:span></citefragment> <remotelink dpsi="0018" refpt="278781" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Any affidavits in support of a motion should be also served a reasonable time before the occasion upon which they will be used: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R10-2" remotekey1="REFPTID" service="DOC-ID">r 10.2</remotelink></ci:content></ci:cite>
+ of the UCPR.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-2-7" leveltype="para0" subdoc="true" toc-caption="[18.2.7] Dispensing with service">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [18.2.7] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> UCPR r 18.2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-2-7" type="ext"/>[18.2.7] </edpnum><title>Dispensing with service</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-2" remotekey1="REFPTID" service="DOC-ID">UCPR r 18.2</remotelink></ci:content></ci:cite>
+ prescribes various situations where the requirement for prior service of a notice of motion does not apply.  CPA s 14 confers a further general discretion to dispense with the requirements of the rules.  Generally speaking it will not be appropriate to dispense with prior service of an application unless the orders sought involve immediate urgency (and have a limited duration), involve procedural steps that are unlikely to adversely affect the interests of other parties, or are agreed between the relevant parties.  Other situations where prior service requirements may be dispensed with include (i) where the person concerned is aware of the substance of the application and has taken no steps to contest it:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004429" spanref="cr004429-001"><ci:reporter value="urj"/><ci:refnum num="BC200304809"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Yeshiva Properties No 1 Pty Ltd v Lubavitch Mazal Pty Ltd (No 2)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2003] NSWSC 752; <ci:span spanid="cr004429-001"> BC200304809</ci:span></citefragment> <remotelink dpsi="0018" refpt="367892" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> and (ii) where the person concerned has failed to take proper action to pursue their claims in the proceedings:  <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004430" spanref="cr004430-001"><ci:reporter value="urj"/><ci:refnum num="BC201205729"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Petronaitis v Rowles</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWCA 236; <ci:span spanid="cr004430-001"> BC201205729</ci:span></citefragment> <remotelink dpsi="0018" refpt="559089" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application to strike out summons seeking leave to appeal &#x2014; non-attendance by applicant aware of the orders sought).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.3] r 18.3 Contents of notice of motion (cf SCR Part 19, rule 2(4) and (5); DCR Part 16, rule 2(3) and (4); LCR Part 15, rule 2(3) and (3A))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-3" type="ext"/>[r 18.3]</edpnum><title searchtype="RUL-TITLE">Contents of notice of motion (cf SCR Part 19, rule 2(4) and (5); DCR Part 16, rule 2(3) and (4); LCR Part 15, rule 2(3) and (3A))</title><desig searchtype="RUL-NUM"><designum>18.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A notice of motion for an order:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R18-3.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.A" type="ext"/>(a)</lilabel>
+<p><text>must identify the person by whom the order is sought:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R18-3.1.A.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.A.I" type="ext"/>(i)</lilabel>
+<p><text>if the person is already a party to the proceedings, as that party (for example, as first plaintiff or second defendant), or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R18-3.1.A.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.A.II" type="ext"/>(ii)</lilabel>
+<p><text>if the person is not yet a party to the proceedings, as the applicant, and</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R18-3.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.B" type="ext"/>(b)</lilabel>
+<p><text>must identify each person affected by the order:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R18-3.1.B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>if that person is already a party to the proceedings, as that party (for example, as second plaintiff or first defendant), or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R18-3.1.B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>if that person is not yet a party to the proceedings, as the respondent, and</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R18-3.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.C" type="ext"/>(c)</lilabel>
+<p><text>if the person by whom the order is sought is not already an active party, must state an address for service for that person, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-3.1.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.D" type="ext"/>(d)</lilabel>
+<p><text>unless the motion is to be moved in the absence of the public, must state the date and time when, and the place where, the motion is to be moved, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-3.1.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.E" type="ext"/>(e)</lilabel>
+<p><text>if the court makes an order as to the time by which the notice is to be served, must bear a note of the order made, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-3.1.F"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-3.1.F" type="ext"/>(f)</lilabel>
+<p><text>must state concisely the nature of the proposed order.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Amendment 1 of 2005 r 3 and Sch 1[30], effective 15 August 2005]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-3.1A"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-3.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In the case of proceedings in Class 1, 2, 3 or 4 of the Land and Environment Court&#x2019;s jurisdiction, a notice of motion must identify a person who is not yet a party to the proceedings by name alone, and not as the applicant or respondent as required by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-3.1.A.II" remotekey1="REFPTID" service="DOC-ID">subrule (1)(a)(ii)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R18-3.1.B.II" remotekey1="REFPTID" service="DOC-ID">(b)(ii)</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subr (1A)  insrt Amendment 22 of 2008  r 2 and Sch 1[10], effective 8 August 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Costs need not be specifically claimed in the notice of motion.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a notice of motion is of a kind that, under any Act, any rules of court or any practice of the court, is dealt with in the absence of the public, the notice of motion must contain a statement to the effect that the motion is to be so dealt with.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If it becomes necessary for an application under subrule (3) to be dealt with in court, the registrar is to refer it to the court and give notice to the parties that the application has been so referred.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT18.R3.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.18-3-5" leveltype="para0" subdoc="true" toc-caption="[18.3.5] Approved form"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-3-5" type="ext"/>[18.3.5] </edpnum><title>Approved form</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The approved form is 
+<remotelink dpsi="05CC" refpt="UCPN.UCPF.130440" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 20</remotelink>
+: Notice of Motion.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.4] r 18.4 Time for service of notice (cf SCR Part 19, rule 3; DCR Part 16, rule 3; LCR Part 15, rule 3) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-4" type="ext"/>[r 18.4]</edpnum><title searchtype="RUL-TITLE">Time for service of notice (cf SCR Part 19, rule 3; DCR Part 16, rule 3; LCR Part 15, rule 3) </title><desig searchtype="RUL-NUM"><designum>18.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the court orders otherwise, a notice of motion must be served at least 3 days before the date fixed for the motion.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT18.R4.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.18-4-5" leveltype="para0" subdoc="true" toc-caption="[18.4.5] Abridgment of time"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-4-5" type="ext"/>[18.4.5] </edpnum><title>Abridgment of time</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Although the power to abridge the time for service under this rule may be exerciseable by a registrar. The practice in some courts (notably in the Equity Division of the Supreme Court) is that the power is only exercised by a judge. In exercising this power, while the court will endeavour to make sure that cases of real urgency are dealt with quickly, it will also have regard to the interests of the affected parties and the likelihood of the application being dealt with appropriately on an accelerated return date. And it will be sensitive to the possibility that unnecessary abridgment of time may convey an undesirable element of pre-judgment contrary to the interests of the potentially affected persons. On the other hand, the court must pay proper regard to the nature of the interlocutory claim and balance the competing interests of the parties. This will require it to consider not only the actual material that is relied upon to support the application but also material that may reasonably become available in due course. Ultimately the court will, in practice, take &#x201c;balance of convenience&#x201d; considerations into account in determining whether to abridge the time for service: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr004431" spanref="cr004431-001"><ci:reporter value="urj"/><ci:refnum num="BC9001720"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Electricity Commission of New South Wales v Arrow</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004431-001"> (NSWSC, Young J, 23 November 1990, unreported, BC9001720)</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_UCPR.SGM_UCPN.UCPR.18-4-10" leveltype="para0" subdoc="true" toc-caption="[18.4.10] Abridgment of time &#x2014; liberty to apply"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-4-10" type="ext"/>[18.4.10] </edpnum><title>Abridgment of time &#x2014; liberty to apply</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A grant of liberty to apply on less than three days notice operates to shorten the time for service that would otherwise be required by the rules. Where a party proposes to avail itself of that liberty, the appropriate procedure for bringing the matter back before the court is by the filing of a notice of motion in accordance with the rules: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1993"/></ci:caseinfo><ci:caseref ID="cr004432" spanref="cr004432-001"><ci:reporter value="NSWLR"/><ci:volume num="30"/><ci:page num="374"/></ci:caseref><ci:caseref ID="cr004433" spanref="cr004433-002"><ci:reporter value="urj"/><ci:refnum num="BC9304082"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Toben v Len Sadleir Productions Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr004432-001">(1993) 30 NSWLR 374</ci:span>; <ci:span spanid="cr004433-002"> BC9304082</ci:span></citefragment> <remotelink dpsi="0018" refpt="50869" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. However, if a party is given &#x201c;liberty to restore to the list&#x201d; the matter may be relisted by an appropriate request to the registry or the list clerk.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.5] r 18.5 Notice to be personally served on persons who have not entered appearance (cf SCR Part 19, rule 4; LCR Part 15, rule 2(4))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-5" type="ext"/>[r 18.5]</edpnum><title searchtype="RUL-TITLE">Notice to be personally served on persons who have not entered appearance (cf SCR Part 19, rule 4; LCR Part 15, rule 2(4))</title><desig searchtype="RUL-NUM"><designum>18.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A notice of motion must be personally served if the person on whom it is to be served:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R18-5.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-5.A" type="ext"/>(a)</lilabel>
+<p><text>is not a party to the proceedings, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-5.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-5.B" type="ext"/>(b)</lilabel>
+<p><text>is a party to the proceedings, but is not an active party (otherwise than because the party has failed to comply with the requirements of these rules with respect to entering an appearance).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.6] r 18.6 Hearing of interlocutory applications (cf LCR Part 15, rule 5)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-6" type="ext"/>[r 18.6]</edpnum><title searchtype="RUL-TITLE">Hearing of interlocutory applications (cf LCR Part 15, rule 5)</title><desig searchtype="RUL-NUM"><designum>18.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party&#x2019;s notice of motion in any proceedings must include, so far as practicable, all applications that the party desires to make in relation to the proceedings and that, having regard to the nature of the proceedings, can conveniently be dealt with at the one time.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On the hearing of a party&#x2019;s notice of motion, any other party may make any application in relation to the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-6.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-6.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If on the hearing of a party&#x2019;s notice of motion, any other party makes an application under subrule (2), the court:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R18-6.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-6.3.A" type="ext"/>(a)</lilabel>
+<p><text>may deal with both applications at the hearing, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-6.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-6.3.B" type="ext"/>(b)</lilabel>
+<p><text>may adjourn the hearing and, if appropriate, may direct any necessary notice of motion to be given to the other parties.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.UCPR.UCPRN05.PT18.R6.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_UCPR.SGM_UCPN.UCPR.18-6-5" leveltype="para0" subdoc="true" toc-caption="[18.6.5] Hearing of interlocutory applications">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [18.6.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 31.2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.UCPR.18-6-5" type="ext"/>[18.6.5] </edpnum><title>Hearing of interlocutory applications</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Evidence in chief at any interlocutory hearing must be given by affidavit, unless the court makes a contrary order: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-2" remotekey1="REFPTID" service="DOC-ID">r 31.2</remotelink></ci:content></ci:cite>
+ of the UCPR.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.7] r 18.7 Motion may be dealt with in party&#x2019;s absence (cf SCR Part 19, rule 5; DCR Part 16, rule 5; LCR Part 15, rule 5(2A)) ">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-7" type="ext"/>[r 18.7]</edpnum><title searchtype="RUL-TITLE">Motion may be dealt with in party&#x2019;s absence (cf SCR Part 19, rule 5; DCR Part 16, rule 5; LCR Part 15, rule 5(2A)) </title><desig searchtype="RUL-NUM"><designum>18.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If service of a notice of motion on any party is required by these rules, and notice of motion has been duly served on that party, the court may hear and dispose of the motion in the absence of that party.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.8] r 18.8 Further hearing (cf SCR Part 19, rule 8)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-8" type="ext"/>[r 18.8]</edpnum><title searchtype="RUL-TITLE">Further hearing (cf SCR Part 19, rule 8)</title><desig searchtype="RUL-NUM"><designum>18.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-8.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If notice of a motion for any day has been filed or served, and the motion is not disposed of on that day:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R18-8.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-8.1.A" type="ext"/>(a)</lilabel>
+<p><text>the court may hear and dispose of the notice of motion on any later day fixed by the court, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-8.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-8.1.B" type="ext"/>(b)</lilabel>
+<p><text>subject to subrule (2), filing or service of a further notice of motion is not required.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-8.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R18-8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subrule 1(b) does not apply:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R18-8.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-8.2.A" type="ext"/>(a)</lilabel>
+<p><text>if the court directs the filing or service of a further notice of motion, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R18-8.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R18-8.2.B" type="ext"/>(b)</lilabel>
+<p><text>if service is required on a person on whom notice of motion has not previously been served.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R18-9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 18.9] r 18.9 Directions as to conduct of proceedings on notice of motion (cf SCR Part 34, rule 6(1))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R18-9" type="ext"/>[r 18.9]</edpnum><title searchtype="RUL-TITLE">Directions as to conduct of proceedings on notice of motion (cf SCR Part 34, rule 6(1))</title><desig searchtype="RUL-NUM"><designum>18.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In proceedings on a notice of motion, the court may give directions as to the order of evidence and address and generally as to the conduct of the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

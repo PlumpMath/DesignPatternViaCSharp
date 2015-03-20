@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 GENERAL [rr 1&#x2013;4]</docinfo:doc-heading><docinfo:doc-id>UCPN.DC.DCRN.PT43A.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>District Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>DISTRICT COURT RULES 1973 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 43A JUDICIAL REGISTRAR [rr 1&#x2013;4]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 GENERAL [rr 1&#x2013;4]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>80010040</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.DC"/><docinfo:metaitem name="parent-filename" value="dc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_DC.SGM_UCPN.DC.DCRN"/><docinfo:metaitem name="parent-filename" value="dc1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 999, 1973</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">DISTRICT COURT RULES 1973 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.DC.DCRN.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.DC.DCRN.PT43A"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 43A JUDICIAL REGISTRAR [rr 1&#x2013;4]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.DC.DCRN.PT43A" type="ext"/>PART 43A</designum></desig><title searchtype="PART-TITLE">JUDICIAL REGISTRAR [rr 1&#x2013;4]</title><leg:histnote>
+<p><text>[Pt 43A  insrt Gaz 143 of 10 September 2004  p 7464, effective 10 September 2004]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCRN.PT43A.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 GENERAL [rr 1&#x2013;4]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.DC.DCRN.PT43A.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">GENERAL [rr 1&#x2013;4]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCRN.PT43A.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 43A r 1] r 1 Powers of the Judicial Registrar">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT43A.R1" type="ext"/>[DCR Pt 43A r 1]</edpnum><title searchtype="RUL-TITLE">Powers of the Judicial Registrar</title><desig searchtype="RUL-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.DC.DCRN.PT43A.R1.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCRN.PT43A.R1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCAN.S18FB.1" remotekey1="REFPTID" service="DOC-ID">section 18FB(1)</remotelink></ci:content></ci:cite>
+ of the Act, all of the powers of the Court are conferred on the Judicial Registrar other than:</text></p>
+<l><li id="UCPN.DC.DCRN.PT43A.R1.1.A"><lilabel><refpt id="UCPN.DC.DCRN.PT43A.R1.1.A" type="ext"/>(a)</lilabel>
+<p><text>the powers of the Court in its criminal jurisdiction (except for the Court&#x2019;s powers under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT53.R6" remotekey1="REFPTID" service="DOC-ID">rule 6</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT53.R7" remotekey1="REFPTID" service="DOC-ID">7</remotelink></ci:content></ci:cite>
+ or 
+<remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT53.R10F" remotekey1="REFPTID" service="DOC-ID">10F</remotelink>
+ of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT53" remotekey1="REFPTID" service="DOC-ID">Part 53</remotelink></ci:content></ci:cite>
+ or under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.BLN" remotekey1="REFPTID" service="DOC-ID" status="unval">Bail Act 1978</remotelink></ci:content></ci:cite>
+), or</text></p>
+</li>
+<li id="UCPN.DC.DCRN.PT43A.R1.1.B"><lilabel><refpt id="UCPN.DC.DCRN.PT43A.R1.1.B" type="ext"/>(b)</lilabel>
+<p><text>the power of the Court to deal with contempt of Court.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am SR 194 of 2010  r 3(2), effective 21 May 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT43A.R1.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.DC.DCRN.PT43A.R1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.DC.DCRN.PT43A.R1.1.B" remotekey1="REFPTID" service="DOC-ID">Subrule (1)(b)</remotelink></ci:content></ci:cite>
+ does not prevent the Judicial Registrar from reporting to the Court constituted by a Judge any allegation of contempt of the Court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.DC.DCRN.PT43A.R1-5.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_DC.SGM_UCPN.DC.PT43AR1-5" leveltype="para0" subdoc="true" toc-caption="[DCR Pt 43A r 1.5] Powers of the Judicial Registrar">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [DCR Pt 43A r 1.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1973-9" remotekey1="REFPTID" service="DOC-ID">District Court Act 1973</remotelink> s 127(1).</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> r 1.10, rr 49.5, 49.7.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.DC.PT43AR1-5" type="ext"/>[DCR Pt 43A r 1.5] </edpnum><title>Powers of the Judicial Registrar</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Although the rule purports to confer all of the powers of the court on the Judicial Registrar, the Judicial Registrar is not a judge of the court. Consequently, a Judicial Registrar cannot exercise federal jurisdiction, unless that exercise is subject to the effective control of the judges of the court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000672" spanref="cr000672-001" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200605484"/></ci:caseref><ci:caseref anaphref="cr000672" spanref="cr000672-002" status="unval"><ci:pinpoint num="59" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Trust Company of Australia Ltd v Skiwing Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWCA 185; <ci:span spanid="cr000672-001" status="unval"> BC200605484</ci:span> <ci:span spanid="cr000672-002" status="unval">at [59]&#x2013;[63]</ci:span></citefragment> <remotelink dpsi="0018" refpt="420173" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. However, there is no specific provision permitting the District Court to review the judgements or orders of the Judicial Registrar &#x2014; although an appeal does lie to the Supreme Court under 
+<remotelink dpsi="05CC" refpt="UCPN.DCA.DCAN.S127.1" remotekey1="REFPTID" service="DOC-ID" status="unval">s 127(1)</remotelink>
+ of the District Court Act. Consequently, there remains a doubt as to whether not the Judicial Registrar can exercise the Federal Jurisdiction of the District Court: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000673" spanref="cr000673-001"><ci:reporter value="urj"/><ci:refnum num="BC200610777"/></ci:caseref><ci:caseref anaphref="cr000673" spanref="cr000673-002"><ci:pinpoint num="21" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Business Insurance Australia Pty Ltd v District Court of New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWCA 383; <ci:span spanid="cr000673-001"> BC200610777</ci:span> <ci:span spanid="cr000673-002">at [21]</ci:span></citefragment> <remotelink dpsi="0018" refpt="429862" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. See also 
+<remotelink dpsi="05CC" refpt="UCPN.DC.DCAS18FB-5" remotekey1="REFPTID" service="DOC-ID">[DCA s 18FB.5]</remotelink>
+, UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-10" remotekey1="REFPTID" service="DOC-ID">r 1.10</remotelink></ci:content></ci:cite>
+ and UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-5" remotekey1="REFPTID" service="DOC-ID">rr 49.5</remotelink></ci:content></ci:cite>
+&#x2013;
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-7" remotekey1="REFPTID" service="DOC-ID">49.7</remotelink></ci:content></ci:cite></text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT43A.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 43A r 2] r 2 Reference of matter to the Court">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT43A.R2" type="ext"/>[DCR Pt 43A r 2]</edpnum><title searchtype="RUL-TITLE">Reference of matter to the Court</title><desig searchtype="RUL-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 2  rep Gaz 81 of 1 July 2005 r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>Pt 43A r 2 has been replaced by UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-5" remotekey1="REFPTID" service="DOC-ID">r 49.5</remotelink></ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT43A.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 43A r 3] r 3 Court may order removal of proceedings from Judicial Registrar">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT43A.R3" type="ext"/>[DCR Pt 43A r 3]</edpnum><title searchtype="RUL-TITLE">Court may order removal of proceedings from Judicial Registrar</title><desig searchtype="RUL-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 3  rep Gaz 81 of 1 July 2005 r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>Pt 43A r 3 has been replaced by UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-6" remotekey1="REFPTID" service="DOC-ID">r 49.6</remotelink></ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.DC.DCRN.PT43A.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[DCR Pt 43A r 4] r 4 Court may dispose of matter referred by or removed from Judicial Registrar">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.DC.DCRN.PT43A.R4" type="ext"/>[DCR Pt 43A r 4]</edpnum><title searchtype="RUL-TITLE">Court may dispose of matter referred by or removed from Judicial Registrar</title><desig searchtype="RUL-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 4  rep Gaz 81 of 1 July 2005 r 3 and Sch 1,  effective 15 August 2005]</text></p></leg:histnote><glp:note>
+<h>Editor's Note:</h>
+<p>
+<text>Pt 43A r 4 has been replaced by UCPR 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R49-7" remotekey1="REFPTID" service="DOC-ID">r 49.7</remotelink></ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

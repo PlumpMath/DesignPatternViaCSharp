@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 4 SAVINGS [ss 17, 18]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCA70.PT1.D4</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT ACT 1970</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 1  PRELIMINARY [ss 1&#x2013;21A]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 4 SAVINGS [ss 17, 18]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70000030</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCA70"/><docinfo:metaitem name="parent-filename" value="sc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 50, 1970</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT ACT 1970</leg:officialname></leg:info><leg:level id="UCPN.SC.SCA70.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.SC.SCA70.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1  PRELIMINARY [ss 1&#x2013;21A]"><leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.PT1.D4"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 4 SAVINGS [ss 17, 18]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCA70.PT1.D4" type="ext"/>DIVISION 4</designum></desig><title searchtype="DIV-TITLE">SAVINGS [ss 17, 18]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S17"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 17] s 17 Criminal proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S17" type="ext"/>[SCA s 17]</edpnum><title searchtype="SECT-TITLE">Criminal proceedings</title><desig searchtype="SECT-NUM"><designum>17</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S17.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S17.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as provided in this section this Act and the rules do not apply to any of the proceedings in the Court which are specified in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.SCH3" remotekey1="REFPTID" service="DOC-ID">Third Schedule</remotelink></ci:content></ci:cite>
+, and no claim for relief lies to the Court against an interlocutory judgment or order given or made in proceedings referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.SCH3...A1" remotekey1="REFPTID" service="DOC-ID" status="unval">paragraph (a1)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.SCH3...A2" remotekey1="REFPTID" service="DOC-ID" status="unval">(a2)</remotelink></ci:content></ci:cite>
+ of that Schedule.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>cf 38 &amp; 39 Vic c 77 s 19</ci:content></ci:cite></text></p></glp:note><leg:histnote>
+<p><text>[subs (1)  am Act 20 of 1988  s 3 and Sch 18]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S17.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S17.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Rules may be made under this Act:</text></p>
+<l><li id="UCPN.SC.SCA70.S17.2.A"><lilabel><refpt id="UCPN.SC.SCA70.S17.2.A" type="ext"/>(a)</lilabel>
+<p><text>for regulating and prescribing the practice and procedure of the Court, and</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S17.2.B"><lilabel><refpt id="UCPN.SC.SCA70.S17.2.B" type="ext"/>(b)</lilabel>
+<p><text>without limiting the generality of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S17.2.A" remotekey1="REFPTID" service="DOC-ID">paragraph (a)</remotelink></ci:content></ci:cite>
+, for:</text></p>
+<l><li id="UCPN.SC.SCA70.S17.2.B.I"><lilabel><refpt id="UCPN.SC.SCA70.S17.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>providing for the regulation of the sittings and order of business of the Court and the regulation of the vacations and holidays to be observed by the Court and in the offices of the Court, and</text></p>
+</li><li id="UCPN.SC.SCA70.S17.2.B.II"><lilabel><refpt id="UCPN.SC.SCA70.S17.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>prescribing the duties and functions of the Prothonotary and other officers of the Court and the records to be kept by them,</text></p>
+</li></l></li>
+</l>
+<p><text>in relation to any of the proceedings in the Court which are specified in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.SCH3" remotekey1="REFPTID" service="DOC-ID">Third Schedule</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  subst Act 41 of 1972  s 3 ; am Act 212 of 1986  s 3 and Sch 1 ; Act 85 of 1999  s 3 and Sch 2.65]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S17.2A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S17.2A" type="ext"/>(2A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Act, including 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.PT9" remotekey1="REFPTID" service="DOC-ID">Part 9</remotelink></ci:content></ci:cite>
+ (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S124.1" remotekey1="REFPTID" service="DOC-ID">subsections (1)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S124.4" remotekey1="REFPTID" service="DOC-ID">(4)</remotelink></ci:content></ci:cite>
+ of section 124 excepted), apply in relation to rules made pursuant to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S17.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ as they apply in relation to other rules.</text></p>
+<leg:histnote>
+<p><text>[subs (2A)  insrt Act 41 of 1972  s 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S17.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S17.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S17.1" remotekey1="REFPTID" service="DOC-ID">Subsection (1)</remotelink></ci:content></ci:cite>
+ of this section does not affect the operation of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S1" remotekey1="REFPTID" service="DOC-ID">sections 1</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S2" remotekey1="REFPTID" service="DOC-ID">2</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S5" remotekey1="REFPTID" service="DOC-ID">5</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S6" remotekey1="REFPTID" service="DOC-ID">6</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S7" remotekey1="REFPTID" service="DOC-ID">7</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S41" remotekey1="REFPTID" service="DOC-ID">41</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S53" remotekey1="REFPTID" service="DOC-ID">53</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S54" remotekey1="REFPTID" service="DOC-ID">54</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S55" remotekey1="REFPTID" service="DOC-ID">55</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S72" remotekey1="REFPTID" service="DOC-ID">72</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S101.5" remotekey1="REFPTID" service="DOC-ID">101(5)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S130" remotekey1="REFPTID" service="DOC-ID">130</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 41 of 1972  s 3 ; Act 88 of 1979  s 3 and Sch 1 ; Act 111 of 1996  s 3 and Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S17.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S17.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (4)  rep Act 96 of 1979  s 7]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S17.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS17-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 17.5] Procedure in criminal proceedings">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 17.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1912-16" remotekey1="REFPTID" service="DOC-ID">Criminal Appeal Act 1912</remotelink> s 28.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_1970-1" remotekey1="REFPTID" service="DOC-ID">Supreme Court Rules 1970</remotelink> Part 75, Pt 75 r 1A.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1986-209" remotekey1="REFPTID" service="DOC-ID">Criminal Procedure Act 1986</remotelink> s 85.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1999-92" remotekey1="REFPTID" service="DOC-ID">Crimes (Sentencing Procedure) Act 1999</remotelink> s 41.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS17-5" type="ext"/>[SCA s 17.5] </edpnum><title>Procedure in criminal proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Appeals in criminal proceedings in the court are governed by the Criminal Appeal Rules: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.APP.CRIMAP.S28" remotekey1="REFPTID" service="DOC-ID">s 28</remotelink></ci:content></ci:cite>
+ of the Criminal Appeal Act 1912 and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT75.R1A" remotekey1="REFPTID" service="DOC-ID">Pt 75 r 1A </remotelink></ci:content></ci:cite>
+ of the Supreme Court Rules. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCR70.PT75" remotekey1="REFPTID" service="DOC-ID">Part 75</remotelink></ci:content></ci:cite>
+ of the Rules contains detailed provisions relating to other criminal proceedings in the Supreme Court. Rules relating to aspects of criminal procedures in the court may also be made under other legislation including 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CA.CPROC.S85" remotekey1="REFPTID" service="DOC-ID">s 85</remotelink></ci:content></ci:cite>
+ of the Criminal Procedure Act 1986 (forms of indictments etc); 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.ST.CSPN99.S41" remotekey1="REFPTID" service="DOC-ID">s 41</remotelink></ci:content></ci:cite>
+ of the Crimes (Sentencing Procedure) Act 1999 (sentencing guideline judgments). Various practice notes relate to criminal proceedings in the court: see Supreme Court Practice Notes Nos 
+<remotelink dpsi="05CC" refpt="SCPNSW.PNS.12657" remotekey1="REFPTID" service="DOC-ID" status="unval">57</remotelink>
+, 
+<remotelink dpsi="05CC" refpt="SCPNSW.PNS.12698" remotekey1="REFPTID" service="DOC-ID" status="unval">98</remotelink>
+, 
+<remotelink dpsi="05CC" refpt="SCPNSW.PNS.12712" remotekey1="REFPTID" service="DOC-ID" status="unval">112</remotelink>
+, 
+<remotelink dpsi="05CC" refpt="SCPNSW.PNS.12723" remotekey1="REFPTID" service="DOC-ID" status="unval">122</remotelink>
+ and 
+<remotelink dpsi="05CC" refpt="SCPNSW.PNS.12724" remotekey1="REFPTID" service="DOC-ID" status="unval">124</remotelink>
+.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS17-10" leveltype="para0" subdoc="true" toc-caption="[SCA s 17.10] Interlocutory orders in criminal proceedings">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 17.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1986-209" remotekey1="REFPTID" service="DOC-ID">Criminal Procedure Act 1986</remotelink> Div 2.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS17-10" type="ext"/>[SCA s 17.10] </edpnum><title>Interlocutory orders in criminal proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The section excludes the application of the Act and Rules to criminal proceedings on indictment and to proceedings under Ch 3, Pt 2, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.CA.CPROC.C3.PT2.D2" remotekey1="REFPTID" service="DOC-ID">Div 2</remotelink></ci:content></ci:cite>
+ of the Criminal Procedure Act 1986 after pleas of guilty in committal proceedings (the effect of the exclusion is summarised in more detail at 
+<remotelink dpsi="05CC" refpt="UCPN.SC.75-1-2" remotekey1="REFPTID" service="DOC-ID">[SCR 75.1.2]</remotelink>
+). The exclusion covers both the actual trial of the criminal proceedings, and all interlocutory applications and orders made in them. Consequently, no appeal lies to the Court of Appeal against decisions refusing to order separate criminal trials: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1968"/></ci:caseinfo><ci:caseref ID="cr000014" spanref="cr000014-001" status="unval"><ci:reporter value="WNNSWPT1"/><ci:volume num="89"/><ci:page num="199"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Palmer</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000014-001" status="unval">(1968) 89 WN (Pt 1) (NSW) 199</ci:span></citefragment> <remotelink dpsi="0018" refpt="79294" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; against decisions on bail applications made during the course of the trial: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000015" spanref="cr000015-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="100"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Maric v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000015-001">[1981] 2 NSWLR 100</ci:span></citefragment></ci:content></ci:cite>; or from a refusal of an application to stay the trial pending the conduct of a committal hearing: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1986"/></ci:caseinfo><ci:caseref ID="cr000016" spanref="cr000016-001"><ci:reporter value="NSWLR"/><ci:volume num="4"/><ci:page num="475"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Shepherd v Bowen</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000016-001">(1986) 4 NSWLR 475</ci:span></citefragment></ci:content></ci:cite>; see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000017" spanref="cr000017-001" status="unval"><ci:reporter value="QB"/><ci:volume num="1"/><ci:edition><ci:date year="1892"/></ci:edition><ci:page num="86"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ex parte Pulbrook</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000017-001" status="unval">[1892] 1 QB 86</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000018" spanref="cr000018-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="495"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McEwan v Waldron (No 1)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000018-001">[1976] VR 495</ci:span></citefragment> <remotelink dpsi="0018" refpt="9043" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. But the exclusion only applies where the impugned &quot;judgment or order&quot; has been properly made within jurisdiction. The section does not preclude the application of the Act and Rules to proceedings for a declaration of bias: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr000019" spanref="cr000019-001"><ci:reporter value="NSWLR"/><ci:volume num="28"/><ci:page num="593"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Chow v DPP</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000019-001">(1992) 28 NSWLR 593</ci:span></citefragment> <remotelink dpsi="0018" refpt="41690" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (apprehension of bias &#x2014; sentencing function remitted to another judge of the District Court); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000020" spanref="cr000020-001"><ci:reporter value="urj"/><ci:refnum num="BC8500319"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Richards v Smyth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000020-001"> (NSWCA, Kirby P, Hope and Priestley JJA, CA 311/85, 24 December 1985, unreported, BC8500319)</ci:span></citefragment></ci:content></ci:cite> (order made in breach of rules of procedural fairness); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1990"/></ci:caseinfo><ci:caseref ID="cr000021" spanref="cr000021-001"><ci:reporter value="NSWLR"/><ci:volume num="19"/><ci:page num="317"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Adler v District Court of New South Wales</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000021-001">(1990) 19 NSWLR 317</ci:span></citefragment> <remotelink dpsi="0018" refpt="20333" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (claim for a declaration that the proceedings were void as beyond the jurisdiction of the District Court).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S18"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 18] s 18 Appeal to Privy Council">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S18" type="ext"/>[SCA s 18]</edpnum><title searchtype="SECT-TITLE">Appeal to Privy Council</title><desig searchtype="SECT-NUM"><designum>18</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S18.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S18.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S18.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+, nothing in this Act or in the rules affects the law formerly existing concerning appeals to Her Majesty in Council.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S18.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S18.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The provisions of this Act and the rules apply to proceedings in the Court for leave to appeal to Her Majesty in Council and to proceedings in the Court relating to such an appeal.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S18.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S18.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S18.2" remotekey1="REFPTID" service="DOC-ID">Subsection (2)</remotelink></ci:content></ci:cite>
+ has effect subject to Orders in Council from time to time in force under the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.AUSUK" remotekey1="REFPTID" service="DOC-ID" status="unval">Australian Courts Act 1828</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S18.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS18-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 18.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS18-5" type="ext"/>[SCA s 18.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Australia Act 1986 of the Commonwealth, the Australia Acts (Request) Act 1985 of this state and identical legislation in other states and the United Kingdom abolished appeals to the Privy Council.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

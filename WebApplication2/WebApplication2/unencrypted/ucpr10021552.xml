@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 59 JUDICIAL REVIEW PROCEEDINGS [rr 59.1&#x2013;59.11]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT59</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="me"><heading><title>PART 59 JUDICIAL REVIEW PROCEEDINGS [rr 59.1&#x2013;59.11]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50011840</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="25" month="03" year="2013">25 March 2013</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT59"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 59 JUDICIAL REVIEW PROCEEDINGS [rr 59.1&#x2013;59.11]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT59" type="ext"/>PART 59</designum></desig><title searchtype="PART-TITLE">JUDICIAL REVIEW PROCEEDINGS [rr 59.1&#x2013;59.11]</title><leg:histnote>
+<p><text>[Pt 59  insrt Amendment 58 of 2013  Sch 1[1], effective 15 March 2013]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.1] r 59.1 Application">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-1" type="ext"/>[r 59.1]</edpnum><title searchtype="RUL-TITLE">Application</title><desig searchtype="RUL-NUM"><designum>59.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-1.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part applies to the following proceedings for judicial review:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-1.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-1.1.A" type="ext"/>(a)</lilabel>
+<p><text>proceedings under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCA70.S65" remotekey1="REFPTID" service="DOC-ID" status="unval">section 65</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.SCA70.S69" remotekey1="REFPTID" service="DOC-ID" status="unval">69</remotelink></ci:content></ci:cite>
+ of the Supreme Court Act 1970 and other proceedings in the supervisory jurisdiction of the Supreme Court, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-1.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-1.1.B" type="ext"/>(b)</lilabel>
+<p><text>proceedings for or in the nature of judicial review in the Class 4 or Class 8 jurisdiction of the Land and Environment Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-1.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Part does not apply to proceedings commenced before the commencement of this Part.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.2] r 59.2 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-2" type="ext"/>[r 59.2]</edpnum><title searchtype="RUL-TITLE">Definitions</title><desig searchtype="RUL-NUM"><designum>59.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Part:</text></p>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R59-2.DEFENDANT"><defterm><refpt id="UCPN.UCPR.UCPRN05.R59-2.DEFENDANT" type="ext"/><emph typestyle="bf">defendant</emph></defterm><defdesc>
+<p><text>means a person against whom proceedings are commenced.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R59-2.JUDICIAL-REVIEW-PROCEEDINGS"><defterm><refpt id="UCPN.UCPR.UCPRN05.R59-2.JUDICIAL-REVIEW-PROCEEDINGS" type="ext"/><emph typestyle="bf">judicial review proceedings</emph></defterm><defdesc>
+<p><text>means proceedings to which this Part applies.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R59-2.PLAINTIFF"><defterm><refpt id="UCPN.UCPR.UCPRN05.R59-2.PLAINTIFF" type="ext"/><emph typestyle="bf">plaintiff</emph></defterm><defdesc>
+<p><text>means a person by whom proceedings are commenced or on whose behalf proceedings are commenced by a tutor.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.UCPR.UCPRN05.R59-2.PUBLIC-AUTHORITY"><defterm><refpt id="UCPN.UCPR.UCPRN05.R59-2.PUBLIC-AUTHORITY" type="ext"/><emph typestyle="bf">public authority</emph></defterm><defdesc>
+<p><text>includes a public officer.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.3] r 59.3 Commencement and parties">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-3" type="ext"/>[r 59.3]</edpnum><title searchtype="RUL-TITLE">Commencement and parties</title><desig searchtype="RUL-NUM"><designum>59.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Judicial review proceedings are to be commenced by summons.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a decision to be reviewed arose in the course of a dispute between parties, each party who is interested in maintaining the decision must be joined as a defendant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the proceedings seek to prohibit, injunct or mandate a step that has not been taken, each  body or person who may be directly affected by the relief sought must be joined as a defendant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The body or person responsible for a decision to be reviewed must be joined as a defendant, but not as the first defendant unless there is no other defendant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.4] r 59.4 Content of summons">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-4" type="ext"/>[r 59.4]</edpnum><title searchtype="RUL-TITLE">Content of summons</title><desig searchtype="RUL-NUM"><designum>59.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The summons must state:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-4..A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-4..A" type="ext"/>(a)</lilabel>
+<p><text>the orders sought, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-4..B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-4..B" type="ext"/>(b)</lilabel>
+<p><text>if there is a decision in respect of which relief is sought:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-4..B.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-4..B.I" type="ext"/>(i)</lilabel>
+<p><text>the identity of the decision-maker, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R59-4..B.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-4..B.II" type="ext"/>(ii)</lilabel>
+<p><text>the terms of the decision to be reviewed, and</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R59-4..B.III"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-4..B.III" type="ext"/>(iii)</lilabel>
+<p><text>whether relief is sought in respect of the whole or part only of the decision and, if part only, which part, and</text></p>
+</li></l></li>
+<li id="UCPN.UCPR.UCPRN05.R59-4..C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-4..C" type="ext"/>(c)</lilabel>
+<p><text>with specificity, the grounds on which the relief is sought.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.5] r 59.5 Service of summons">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-5" type="ext"/>[r 59.5]</edpnum><title searchtype="RUL-TITLE">Service of summons</title><desig searchtype="RUL-NUM"><designum>59.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Within 5 days of filing the summons, or such other time as the court may direct, the plaintiff must serve the summons on each defendant.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.6] r 59.6 Response to summons">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-6" type="ext"/>[r 59.6]</edpnum><title searchtype="RUL-TITLE">Response to summons</title><desig searchtype="RUL-NUM"><designum>59.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Within 21 days, or such other time as the court may direct, after being served with the summons, each defendant must file and serve a response stating whether the defendant opposes the relief sought and, if so, on what grounds.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.7] r 59.7 Procedure &#x2014; evidence generally">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-7" type="ext"/>[r 59.7]</edpnum><title searchtype="RUL-TITLE">Procedure &#x2014; evidence generally</title><desig searchtype="RUL-NUM"><designum>59.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Evidence is to be given by way of affidavit, unless the court directs otherwise.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Affidavits are to be served on the other parties in accordance with any timetable fixed by the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-7.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Cross-examination is permitted only by leave of the court. Leave should, if practicable, be sought prior to the hearing.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-7.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-7.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A party may not, without the leave of the court, seek discovery from, or interrogate, another party to the proceedings. An application for leave is to include a draft list of categories of documents to be discovered or draft interrogatories.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.8] r 59.8 Procedure &#x2014; Court Book, defendant&#x2019;s argument and plaintiff&#x2019;s argument in reply">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-8" type="ext"/>[r 59.8]</edpnum><title searchtype="RUL-TITLE">Procedure &#x2014; Court Book, defendant&#x2019;s argument and plaintiff&#x2019;s argument in reply</title><desig searchtype="RUL-NUM"><designum>59.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-8.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The parties are to confer and prepare a paginated Court Book with a table of contents in a white folder (or folders) containing the following sections with dividers between them:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-8.1.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-8.1.A" type="ext"/>(a)</lilabel>
+<p><text>a copy of the summons, each defendant&#x2019;s response to the summons and (if applicable) pleadings,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-8.1.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-8.1.B" type="ext"/>(b)</lilabel>
+<p><text>a summary of the plaintiff&#x2019;s argument (not exceeding 10 pages),</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-8.1.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-8.1.C" type="ext"/>(c)</lilabel>
+<p><text>the decision under review and the statement of reasons (if any) of the decision-maker,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-8.1.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-8.1.D" type="ext"/>(d)</lilabel>
+<p><text>an agreed chronology or, failing agreement, the respective chronologies of the parties,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-8.1.E"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-8.1.E" type="ext"/>(e)</lilabel>
+<p><text>an agreed schedule of any relevant legislative provisions or,  failing  agreement, the respective schedules of the parties of any relevant legislative provisions,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-8.1.F"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-8.1.F" type="ext"/>(f)</lilabel>
+<p><text>each party&#x2019;s list of objections (if any) to evidence.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-8.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The plaintiff must, at least 7 working days before the hearing, file and serve the Court Book.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-8.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-8.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A defendant must, at least 4 working days before the hearing, file and serve a summary of the defendant&#x2019;s argument (not exceeding 10 pages).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-8.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-8.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The plaintiff must, at least 1 working day before the hearing, file and serve a summary of the plaintiff&#x2019;s argument in reply if the plaintiff considers a reply is needed (not exceeding 5 pages).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-8.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-8.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule is subject to any directions given by the court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.9] r 59.9 Special procedure where public authority is defendant">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-9" type="ext"/>[r 59.9]</edpnum><title searchtype="RUL-TITLE">Special procedure where public authority is defendant</title><desig searchtype="RUL-NUM"><designum>59.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to proceedings for judicial review in which relief is sought in relation to a decision of a public authority.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The plaintiff may, within 21 days of commencing proceedings against a public authority or within such other time as the court may direct, serve on the public authority a notice requiring the public authority to provide to the plaintiff:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-9.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-9.2.A" type="ext"/>(a)</lilabel>
+<p><text>a copy of the decision, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-9.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-9.2.B" type="ext"/>(b)</lilabel>
+<p><text>a statement of reasons for the decision.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-9.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A statement of reasons for the decision must:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-9.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-9.3.A" type="ext"/>(a)</lilabel>
+<p><text>set out findings on material questions of fact, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-9.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-9.3.B" type="ext"/>(b)</lilabel>
+<p><text>refer to the evidence or other material on which those findings were based, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-9.3.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-9.3.C" type="ext"/>(c)</lilabel>
+<p><text>explain why the decision was made.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-9.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-9.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-9.4.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-9.4.A" type="ext"/>(a)</lilabel>
+<p><text>the public authority does not comply with a notice under this rule within 14 days of service, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-9.4.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-9.4.B" type="ext"/>(b)</lilabel>
+<p><text>the plaintiff has not served a notice within the time prescribed by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R59-9.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+,</text></p>
+</li>
+</l>
+<p><text>the plaintiff may apply to the court for an order that the public authority provide the plaintiff with a copy of the decision and a statement of reasons for the decision.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.10] r 59.10 Time for commencing proceedings">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-10" type="ext"/>[r 59.10]</edpnum><title searchtype="RUL-TITLE">Time for commencing proceedings</title><desig searchtype="RUL-NUM"><designum>59.10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-10.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Proceedings for judicial review of a decision must be commenced within 3 months of the date of the decision.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-10.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The court may, at any time, extend the time for commencing proceedings fixed by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R59-10.1" remotekey1="REFPTID" service="DOC-ID">subrule (1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-10.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-10.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In considering whether to extend time under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R59-10.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+, the court should take account of such factors as are relevant in the circumstances of the particular case, including the following:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-10.3.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-10.3.A" type="ext"/>(a)</lilabel>
+<p><text>any particular interest of the plaintiff in challenging the decision,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-10.3.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-10.3.B" type="ext"/>(b)</lilabel>
+<p><text>possible prejudice to other persons caused by the passage of time, if the relief were to be granted, including but not limited to prejudice to parties to the proceedings,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-10.3.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-10.3.C" type="ext"/>(c)</lilabel>
+<p><text>the time at which the plaintiff became or, by exercising reasonable diligence, should have become aware of the decision,</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-10.3.D"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-10.3.D" type="ext"/>(d)</lilabel>
+<p><text>any relevant public interest.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-10.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-10.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule does not apply to proceedings in which there is a statutory limitation period for commencing the proceedings.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-10.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-10.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule does not apply to any proceedings in which the setting aside of a decision is not required.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-11"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 59.11] r 59.11 Security for costs">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R59-11" type="ext"/>[r 59.11]</edpnum><title searchtype="RUL-TITLE">Security for costs</title><desig searchtype="RUL-NUM"><designum>59.11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-11.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A plaintiff is not to be required to provide security for costs in respect of judicial review proceedings except in exceptional circumstances.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-11.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where a plaintiff:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R59-11.2.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-11.2.A" type="ext"/>(a)</lilabel>
+<p><text>invokes an open standing provision, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R59-11.2.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R59-11.2.B" type="ext"/>(b)</lilabel>
+<p><text>commences representative proceedings,</text></p>
+</li>
+</l>
+<p><text>the court is not to treat the plaintiff as bringing proceedings for the benefit of a third party for the purposes of considering whether exceptional circumstances exist.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R59-11.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.UCPR.UCPRN05.R59-11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule has effect despite 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R42-21" remotekey1="REFPTID" service="DOC-ID">rule 42.21</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

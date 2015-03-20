@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 4  SERVICE UNDER PARTICULAR ACTS [rr 10.28, 10.29]</docinfo:doc-heading><docinfo:doc-id>UCPN.UCPR.UCPRN05.PT10.D4</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Uniform Civil Procedure Rules 2005 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>UNIFORM CIVIL PROCEDURE RULES 2005</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 10  SERVICE OF DOCUMENTS GENERALLY [rr 10.1&#x2013;10.29]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 4  SERVICE UNDER PARTICULAR ACTS [rr 10.28, 10.29]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>50010340</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.UCPR"/><docinfo:metaitem name="parent-filename" value="ucpr.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_UCPR.SGM_UCPN.UCPR.UCPRN05"/><docinfo:metaitem name="parent-filename" value="ucpr1002.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">UNIFORM CIVIL PROCEDURE RULES 2005</leg:officialname></leg:info><leg:level id="UCPN.UCPR.UCPRN05.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody><leg:level id="UCPN.UCPR.UCPRN05.PT10"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 10  SERVICE OF DOCUMENTS GENERALLY [rr 10.1&#x2013;10.29]"><leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.PT10.D4"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 4  SERVICE UNDER PARTICULAR ACTS [rr 10.28, 10.29]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.UCPR.UCPRN05.PT10.D4" type="ext"/>DIVISION 4</designum></desig><title searchtype="DIV-TITLE"> SERVICE UNDER PARTICULAR ACTS [rr 10.28, 10.29]</title><leg:histnote>
+<p><text>[Div 4  insrt Amendment 19 of 2007 r 3 and Sch 4[3], effective 1 January 2008]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.UCPR.UCPRN05.R10-28"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 10.28] r 10.28 Proceedings under the Confiscation of Proceeds of Crime Act 1989">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R10-28" type="ext"/>[r 10.28]</edpnum><title searchtype="RUL-TITLE">Proceedings under the Confiscation of Proceeds of Crime Act 1989</title><desig searchtype="RUL-NUM"><designum>10.28</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings in which notice under the 
+<remotelink dpsi="05CC" refpt="OTH.CPC89_" remotekey1="REFPTID" service="DOC-ID" status="unval">Confiscation of Proceeds of Crime Act 1989</remotelink>
+ is required to be given in accordance with rules of court, the notice is to be given by filing it, and serving it on:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R10-28.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10-28.A" type="ext"/>(a)</lilabel>
+<p><text>all active parties, and</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R10-28.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10-28.B" type="ext"/>(b)</lilabel>
+<p><text>all other persons to whom it is required by that Act to be given,</text></p>
+</li>
+</l>
+<p><text>as soon as practicable after it has been filed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.UCPR.UCPRN05.R10-29"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[r 10.29] r 10.29 Service under the Industrial Relations Act 1996">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.UCPR.UCPRN05.R10-29" type="ext"/>[r 10.29]</edpnum><title searchtype="RUL-TITLE">Service under the Industrial Relations Act 1996</title><desig searchtype="RUL-NUM"><designum>10.29</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any proceedings under the Industrial Relations Act 1996 in which a document is required to be served on an industrial organisation within the meaning of that Act, service of the document must be effected:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R10-29.A"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10-29.A" type="ext"/>(a)</lilabel>
+<p><text>by serving it personally on the organisation's secretary or principal officer, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R10-29.B"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10-29.B" type="ext"/>(b)</lilabel>
+<p><text>by leaving it at the organisation's registered office with a person who is apparently employed by the organisation, or</text></p>
+</li>
+<li id="UCPN.UCPR.UCPRN05.R10-29.C"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10-29.C" type="ext"/>(c)</lilabel>
+<p><text>by sending it by post, addressed to the organisation's secretary or principal officer:</text></p>
+<l><li id="UCPN.UCPR.UCPRN05.R10-29.C.I"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10-29.C.I" type="ext"/>(i)</lilabel>
+<p><text>to the organisation's address for service in the proceedings, or</text></p>
+</li><li id="UCPN.UCPR.UCPRN05.R10-29.C.II"><lilabel><refpt id="UCPN.UCPR.UCPRN05.R10-29.C.II" type="ext"/>(ii)</lilabel>
+<p><text>if it has no address for service in the proceedings, to the organisation's registered office.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[r 10.29  insrt Amendment 31 of 2009  Sch 1[4], effective 1 February 2010]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

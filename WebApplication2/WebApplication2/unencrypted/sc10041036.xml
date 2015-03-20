@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 12 TAKEOVERS, ACQUISITIONS OF SHARES ETC (CORPORATIONS ACT CHAPTERS 6 TO 6D) AND SECURITIES (CORPORATIONS ACT CHAPTER 7 ) [rr 12.1&#x2013;12.3]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.CLRUN00.D12</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT (CORPORATIONS) RULES 1999</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 12 TAKEOVERS, ACQUISITIONS OF SHARES ETC (CORPORATIONS ACT CHAPTERS 6 TO 6D) AND SECURITIES (CORPORATIONS ACT CHAPTER 7 ) [rr 12.1&#x2013;12.3]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70020120</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.CLRUN00"/><docinfo:metaitem name="parent-filename" value="sc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 703, 1999</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT (CORPORATIONS) RULES 1999</leg:officialname></leg:info><leg:level id="UCPN.SC.CLRUN00.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D12"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 12 TAKEOVERS, ACQUISITIONS OF SHARES ETC (CORPORATIONS ACT CHAPTERS 6 TO 6D) AND SECURITIES (CORPORATIONS ACT CHAPTER 7 ) [rr 12.1&#x2013;12.3]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.CLRUN00.D12" type="ext"/>DIVISION 12</designum></desig><title searchtype="DIV-TITLE">TAKEOVERS, ACQUISITIONS OF SHARES ETC (CORPORATIONS ACT <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6" remotekey1="REFPTID" service="DOC-ID">CHAPTERS 6</remotelink></ci:content></ci:cite>
+ TO <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6D" remotekey1="REFPTID" service="DOC-ID">6D</remotelink></ci:content></ci:cite>
+) AND SECURITIES (CORPORATIONS ACT <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C7" remotekey1="REFPTID" service="DOC-ID">CHAPTER 7 </remotelink></ci:content></ci:cite>
+) [rr 12.1&#x2013;12.3]</title><leg:histnote>
+<p><text>[Div 12  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D12.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,885] r 12.1 Service on ASIC in relation to proceedings under Chapter 6, 6A, 6B, 6C, 6D or 7 of the Corporations Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D12.R1" type="ext"/>[15,885]</edpnum><title searchtype="RUL-TITLE">Service on ASIC in relation to proceedings under <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6" remotekey1="REFPTID" service="DOC-ID">Chapter 6</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6A" remotekey1="REFPTID" service="DOC-ID">6A</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6B" remotekey1="REFPTID" service="DOC-ID">6B</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6C" remotekey1="REFPTID" service="DOC-ID">6C</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6D" remotekey1="REFPTID" service="DOC-ID">6D</remotelink></ci:content></ci:cite>
+ or <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C7" remotekey1="REFPTID" service="DOC-ID">7</remotelink></ci:content></ci:cite>
+ of the Corporations Act</title><desig searchtype="RUL-NUM"><designum>12.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If ASIC is not a party to an application made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6" remotekey1="REFPTID" service="DOC-ID">Chapter 6</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6A" remotekey1="REFPTID" service="DOC-ID">6A</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6B" remotekey1="REFPTID" service="DOC-ID">6B</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6C" remotekey1="REFPTID" service="DOC-ID">6C</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C6D" remotekey1="REFPTID" service="DOC-ID">6D</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.C7" remotekey1="REFPTID" service="DOC-ID">7</remotelink></ci:content></ci:cite>
+ of the Corporations Act, the plaintiff must serve a copy of the originating process and the supporting affidavit on ASIC as soon as practicable after filing the originating process.</text></p>
+<leg:histnote>
+<p><text>[r 12.1  subst Gaz 168 of 22 December 2000  p 13608 ; am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 53 of 16 May 2008  r 2 and Sch 1[3] , effective 16 May 2008]</text></p></leg:histnote><leg:histnote>
+<p><text>[heading  am Gaz 53 of 16 May 2008  r 2 and Sch 1[5], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R1A"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,887] r 12.1A Reference to Court of question of law arising in proceeding before Takeovers Panel (Corporations Act s 659A)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D12.R1A" type="ext"/>[15,887]</edpnum><title searchtype="RUL-TITLE">Reference to Court of question of law arising in proceeding before Takeovers Panel (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S659A" remotekey1="REFPTID" service="DOC-ID">s 659A</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>12.1A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT6.D8" remotekey1="REFPTID" service="DOC-ID">Part 6 Division 8</remotelink></ci:content></ci:cite>
+ of the Uniform Civil Procedure Rules 2005 applies, with any necessary adaptations, to a reference of a question of law arising in a proceeding before the Takeovers Panel to the Court under section 659A of the Corporations Act.</text></p>
+<leg:histnote>
+<p><text>[r 12.1A  insrt Gaz 48 of 5 April 2007   p 2118, effective 5 April 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R1B"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,888] r 12.1B Notification to Court where proceeding is commenced before end of takeover bid period (Corporations Act s 659B)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D12.R1B" type="ext"/>[15,888]</edpnum><title searchtype="RUL-TITLE">Notification to Court where proceeding is commenced before end of takeover bid period (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S659B" remotekey1="REFPTID" service="DOC-ID">s 659B</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>12.1B</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D12.R1B.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D12.R1B.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to a party to a proceeding who suspects or becomes aware that:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D12.R1B.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D12.R1B.1.A" type="ext"/>(a)</lilabel>
+<p><text>the proceeding was commenced in relation to a takeover bid, or proposed takeover bid, before the end of the bid period, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D12.R1B.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D12.R1B.1.B" type="ext"/>(b)</lilabel>
+<p><text>the proceeding falls within the definition of court proceedings in relation to a takeover bid or proposed takeover bid in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S659B.4" remotekey1="REFPTID" service="DOC-ID">subsection 659B(4)</remotelink></ci:content></ci:cite>
+ of the Corporations Act.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R1B.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D12.R1B.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The party identified in subrule (1) must, immediately on suspecting or becoming aware of the matters mentioned in subrule (1), notify any other party to the proceeding and the Court of that suspicion or knowledge.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R1B.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D12.R1B.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The party must comply with subrule (2) unless any other party to the proceeding has given a notice under this rule to the party.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 12.1B  insrt Gaz 48 of 5 April 2007   p 2118, effective 5 April 2007]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,890] r 12.2 Application for summons for appearance of person (Corporations Act s 1071D(4)) &#x2014; Form 18">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D12.R2" type="ext"/>[15,890]</edpnum><title searchtype="RUL-TITLE">Application for summons for appearance of person (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S1071D.4" remotekey1="REFPTID" service="DOC-ID">s 1071D(4)</remotelink></ci:content></ci:cite>
+) &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F18" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 18</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>12.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D12.R2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D12.R2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for the issue of a summons under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S1071D.4" remotekey1="REFPTID" service="DOC-ID">subsection 1071D(4)</remotelink></ci:content></ci:cite>
+ of the Corporations Act must be made by filing an originating process or an interlocutory process.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D12.R2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The application may be made ex parte.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R2.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D12.R2.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The originating process, or interlocutory process, seeking the issue of the summons must be:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D12.R2.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D12.R2.3.A" type="ext"/>(a)</lilabel>
+<p><text>supported by an affidavit stating the facts in support of the process; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D12.R2.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D12.R2.3.B" type="ext"/>(b)</lilabel>
+<p><text>accompanied by a draft summons.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R2.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D12.R2.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, a summons issued under this rule is to be in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F18" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 18</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 12.2  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D12.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,895] r 12.3 Application for orders relating to refusal to register transfer or transmission of securities (Corporations Act s 1071F)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D12.R3" type="ext"/>[15,895]</edpnum><title searchtype="RUL-TITLE">Application for orders relating to refusal to register transfer or transmission of securities (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S1071F" remotekey1="REFPTID" service="DOC-ID">s 1071F</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>12.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>As soon as practicable after filing an originating process order under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S1071F" remotekey1="REFPTID" service="DOC-ID">section 1071F</remotelink></ci:content></ci:cite>
+ of the Corporations Act, the plaintiff must serve a copy of the originating process and the supporting affidavit on:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D12.R3..A"><lilabel><refpt id="UCPN.SC.CLRUN00.D12.R3..A" type="ext"/>(a)</lilabel>
+<p><text>the company, and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D12.R3..B"><lilabel><refpt id="UCPN.SC.CLRUN00.D12.R3..B" type="ext"/>(b)</lilabel>
+<p><text>any person against whom an order is sought.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[r 12.3  subst Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

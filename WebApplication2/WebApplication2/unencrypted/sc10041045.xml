@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 15 PROCEEDINGS UNDER THE ASIC ACT [rr 15.1&#x2013;15.3]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.CLRUN00.D15</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT (CORPORATIONS) RULES 1999</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 15 PROCEEDINGS UNDER THE ASIC ACT [rr 15.1&#x2013;15.3]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70020150</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.CLRUN00"/><docinfo:metaitem name="parent-filename" value="sc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 703, 1999</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT (CORPORATIONS) RULES 1999</leg:officialname></leg:info><leg:level id="UCPN.SC.CLRUN00.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 15 PROCEEDINGS UNDER THE ASIC ACT [rr 15.1&#x2013;15.3]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.CLRUN00.D15" type="ext"/>DIVISION 15</designum></desig><title searchtype="DIV-TITLE">PROCEEDINGS UNDER THE <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA" remotekey1="REFPTID" service="DOC-ID">ASIC ACT</remotelink></ci:content></ci:cite>
+ [rr 15.1&#x2013;15.3]</title><leg:histnote>
+<p><text>[Div 15  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D15.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,045] r 15.1 Reference to Court of question of law arising at hearing of ASIC (ASIC Act s 61)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15.R1" type="ext"/>[16,045]</edpnum><title searchtype="RUL-TITLE">Reference to Court of question of law arising at hearing of ASIC (ASIC Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S61" remotekey1="REFPTID" service="DOC-ID">s 61</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>15.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT6.D8" remotekey1="REFPTID" service="DOC-ID">Part 6 Division 8</remotelink></ci:content></ci:cite>
+ of the Uniform Civil Procedure Rules 2005 applies, with any necessary adaptations, to a reference of a question of law arising at a hearing by ASIC to the Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S61" remotekey1="REFPTID" service="DOC-ID">section 61</remotelink></ci:content></ci:cite>
+ of the ASIC Act.</text></p>
+<leg:histnote>
+<p><text>[r 15.1  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 48 of 5 April 2007   p 2118, effective 5 April 2007 ; Gaz 53 of 16 May 2008  r 2 and Sch 1[3] , effective 16 May 2008]</text></p></leg:histnote><leg:histnote>
+<p><text>[heading  am Gaz 53 of 16 May 2008  r 2 and Sch 1[5], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,050] r 15.2 Reference to Court of question of law arising at hearing of Corporations and Securities Panel (s 196 of the ASIC Law)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15.R2" type="ext"/>[16,050]</edpnum><title searchtype="RUL-TITLE">Reference to Court of question of law arising at hearing of Corporations and Securities Panel (<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S196" remotekey1="REFPTID" service="DOC-ID" status="unval">s 196</remotelink></ci:content></ci:cite>
+ of the ASIC Law)</title><desig searchtype="RUL-NUM"><designum>15.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 15.2  rep Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D15.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[16,055] r 15.3 Application for inquiry (ASIC Act s 70, s 201, s 219)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D15.R3" type="ext"/>[16,055]</edpnum><title searchtype="RUL-TITLE">Application for inquiry (ASIC Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S70" remotekey1="REFPTID" service="DOC-ID">s 70</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S201" remotekey1="REFPTID" service="DOC-ID">s 201</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S219" remotekey1="REFPTID" service="DOC-ID">s 219</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>15.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for an inquiry under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S70.3" remotekey1="REFPTID" service="DOC-ID">subsection 70(3)</remotelink></ci:content></ci:cite>
+, 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S201.3" remotekey1="REFPTID" service="DOC-ID">201(3)</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.ASCA.S219.7" remotekey1="REFPTID" service="DOC-ID">219(7)</remotelink></ci:content></ci:cite>
+ of the ASIC Act must be made by filing an originating process seeking an inquiry and orders under the relevant subsection.</text></p>
+<leg:histnote>
+<p><text>[r 15.3  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

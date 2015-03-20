@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 1 PRELIMINARY [ss 1&#x2013;5]</docinfo:doc-heading><docinfo:doc-id>UCPN.EA.EAN98.PT1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>EVIDENCE (AUDIO AND AUDIO VISUAL LINKS) ACT 1998 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 1 PRELIMINARY [ss 1&#x2013;5]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140140000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.EA.EAN98"/><docinfo:metaitem name="parent-filename" value="ol1028.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">EVIDENCE (AUDIO AND AUDIO VISUAL LINKS) ACT 1998 (NSW)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1998</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 105, 1998</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>The Evidence (Audio And Audio Visual Links) Act 1998 (NSW) was assented to on 5 November 1998 and commenced on 5 March 1999. Since that date the Act has been amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Evidence (Audio and Audio Visual Links) Amendment Act 2000 No 16</entry><entry colname="c2">30 May 2000</entry><entry colname="c3">1 July 2000</entry></row>
+<row><entry colname="c1">Evidence (Audio and Audio Visual Links) Amendment Act 2001 No 46</entry><entry colname="c2">17 July 2001</entry><entry colname="c3">10 August 2001</entry></row>
+<row><entry colname="c1">Justices Legislation Repeal and Amendment Act 2001 No 121</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">7 July 2003</entry></row>
+<row><entry colname="c1">Evidence (Audio and Audio Visual Links) Amendment Act 2003 No 76</entry><entry colname="c2">25 November 2003</entry><entry colname="c3">25 November 2003</entry></row>
+<row><entry colname="c1">Evidence Legislation Amendment (Accused Child Detainees) Act 2003 No 57</entry><entry colname="c2">6 November 2003</entry><entry colname="c3">9 February 2004</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2004 No 55</entry><entry colname="c2">6 July 2004</entry><entry colname="c3">6 July 2004</entry></row>
+<row><entry colname="c1">Crimes and Courts Legislation Amendment Act 2006 No 107</entry><entry colname="c2">29 November 2006</entry><entry colname="c3">Sch 1.17: 29 November 2006</entry></row>
+<row><entry colname="c1">APEC Meeting (Police Powers) Act 2007 No 14</entry><entry colname="c2">4 July 2007</entry><entry colname="c3">Sch 3.2: 4 July 2007</entry></row>
+<row><entry colname="c1">Evidence (Audio and Audio Visual Links) Amendment Act 2007 No 75</entry><entry colname="c2">7 December 2007</entry><entry colname="c3">1 January 2009</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Schs 1.41 and 2: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Amendment Act 2009 No 77</entry><entry colname="c2">3 November 2009</entry><entry colname="c3">Sch 2.10: on assent</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2012 No 42</entry><entry colname="c2">21 June 2012</entry><entry colname="c3">6 July 2012</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.EA.EAN98.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.EA.EAN98" type="ext"/>EVIDENCE (AUDIO AND AUDIO VISUAL LINKS) ACT 1998 (NSW)</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN98.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1 PRELIMINARY [ss 1&#x2013;5]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.EA.EAN98.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE">PRELIMINARY [ss 1&#x2013;5]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN98.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[313,000] s 1 Name of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN98.S1" type="ext"/>[313,000]</edpnum><title searchtype="SECT-TITLE">Name of Act</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is the Evidence (Audio and Audio Visual Links) Act 1998.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[313,005] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN98.S2" type="ext"/>[313,005]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act commences on a day or days to be appointed by proclamation.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[313,010] s 3 Definitions">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN98.S3" type="ext"/>[313,010]</edpnum><title searchtype="SECT-TITLE">Definitions</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN98.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this Act:</text></p>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.ACCUSED-CHILD-DETAINEE"><defterm><refpt id="UCPN.EA.EAN98.S3.1.ACCUSED-CHILD-DETAINEE" type="ext"/><emph typestyle="bf">accused child detainee</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 75 of 2007  s 3 and Sch 1[1], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.ACCUSED-DETAINEE"><defterm><refpt id="UCPN.EA.EAN98.S3.1.ACCUSED-DETAINEE" type="ext"/><emph typestyle="bf">accused detainee</emph></defterm> <defdesc>
+<p><text>means a person who is being held in custody in a correctional centre, detention centre, police station or other place of detention and includes, in relation to a proceeding for a summary offence, a defendant who is so being held.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  subst Act 57 of 2003  s 3 and Sch 1, effective 9 February 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.AUDIO-LINK"><defterm><refpt id="UCPN.EA.EAN98.S3.1.AUDIO-LINK" type="ext"/><emph typestyle="bf">audio link</emph></defterm> <defdesc>
+<p><text>means facilities (including telephone) that enable audio communication between persons at different places.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.AUDIO-VISUAL-LINK"><defterm><refpt id="UCPN.EA.EAN98.S3.1.AUDIO-VISUAL-LINK" type="ext"/><emph typestyle="bf">audio visual link</emph></defterm> <defdesc>
+<p><text>means facilities (including closed-circuit television) that enable audio and visual communication between persons at different places.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.DESIGNATED-GOVERNMENT-AGENCY"><defterm><refpt id="UCPN.EA.EAN98.S3.1.DESIGNATED-GOVERNMENT-AGENCY" type="ext"/><emph typestyle="bf">designated government agency</emph></defterm><defdesc>
+<p><text>means the following:</text></p>
+<l><li id="UCPN.EA.EAN98.S3.1.DESIGNATED-GOVERNMENT-AGENCY.A"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.DESIGNATED-GOVERNMENT-AGENCY.A" type="ext"/>(a)</lilabel>
+<p><text>the Department of Corrective Services,</text></p>
+</li>
+<li id="UCPN.EA.EAN98.S3.1.DESIGNATED-GOVERNMENT-AGENCY.B"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.DESIGNATED-GOVERNMENT-AGENCY.B" type="ext"/>(b)</lilabel>
+<p><text>the Department of Juvenile Justice,</text></p>
+</li>
+<li id="UCPN.EA.EAN98.S3.1.DESIGNATED-GOVERNMENT-AGENCY.C"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.DESIGNATED-GOVERNMENT-AGENCY.C" type="ext"/>(c)</lilabel>
+<p><text>any other government agency prescribed by the regulations.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 75 of 2007  s 3 and Sch 1[2], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.DETENTION-CENTRE"><defterm><refpt id="UCPN.EA.EAN98.S3.1.DETENTION-CENTRE" type="ext"/><emph typestyle="bf">detention centre</emph></defterm> <defdesc>
+<p><text>has the same meaning it has in the Children (Detention Centres) Act 1987.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 57 of 2003  s 3 and Sch 1, effective 9 February 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.GOVERNMENT-AGENCY"><defterm><refpt id="UCPN.EA.EAN98.S3.1.GOVERNMENT-AGENCY" type="ext"/><emph typestyle="bf">government agency</emph></defterm><defdesc>
+<p><text>means any person, department or body exercising executive or administrative functions on behalf of the Government.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  insrt Act 75 of 2007  s 3 and Sch 1[2], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.NSW-COURT"><defterm><refpt id="UCPN.EA.EAN98.S3.1.NSW-COURT" type="ext"/><emph typestyle="bf">NSW court</emph></defterm> <defdesc>
+<p><text>means:</text></p>
+<l><li id="UCPN.EA.EAN98.S3.1.NSW-COURT.A"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.NSW-COURT.A" type="ext"/>(a)</lilabel>
+<p><text>a NSW court within the meaning of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink></ci:content></ci:cite>
+, or</text></p>
+</li>
+<li id="UCPN.EA.EAN98.S3.1.NSW-COURT.B"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.NSW-COURT.B" type="ext"/>(b)</lilabel>
+<p><text>a coroner, or</text></p>
+</li>
+<li id="UCPN.EA.EAN98.S3.1.NSW-COURT.C"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.NSW-COURT.C" type="ext"/>(c)</lilabel>
+<p><text>a tribunal prescribed by the regulations as a NSW court for the purposes of this Act, or</text></p>
+</li>
+<li id="UCPN.EA.EAN98.S3.1.NSW-COURT.D"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.NSW-COURT.D" type="ext"/>(d)</lilabel>
+<p><text>a Children&#x2019;s Registrar exercising any function of the Children&#x2019;s Court conferred or imposed on the Registrar by or under the Children&#x2019;s Court Act 1987.</text></p>
+</li>
+</l></defdesc><leg:histnote>
+<p><text>[def  am Act 75 of 2007  s 3 and Sch 1[4], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<p><glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>In the Evidence Act 1995 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.DICT.PT1.NSW-COURT" remotekey1="REFPTID" service="DOC-ID" status="unval">NSW court</remotelink></ci:content></ci:cite>
+ means: (a) the Supreme Court, or (b) any other court created by Parliament, (including such a court exercising federal jurisdiction) and includes any person or body (other than a court) that, in exercising a function under the law of the State, is required to apply the laws of evidence.</text></p></glp:note></p>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.PARTICIPATING-STATE"><defterm><refpt id="UCPN.EA.EAN98.S3.1.PARTICIPATING-STATE" type="ext"/><emph typestyle="bf">participating State</emph></defterm> <defdesc>
+<p><text>means another State in which provisions of a law in terms substantially corresponding to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT2" remotekey1="REFPTID" service="DOC-ID">Parts 2</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT3" remotekey1="REFPTID" service="DOC-ID">3</remotelink></ci:content></ci:cite>
+ are in force.</text></p>
+</defdesc><leg:histnote>
+<p><text>[def  am Act 57 of 2003  s 3 and Sch 1, effective 9 February 2004]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS"><defterm><refpt id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS" type="ext"/><emph typestyle="bf">physical appearance proceedings</emph></defterm><defdesc>
+<p><text>means the following:</text></p>
+<l><li id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.A"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.A" type="ext"/>(a)</lilabel>
+<p><text>any trial (including an arraignment on the day appointed for the trial) or hearing of charges,</text></p>
+</li>
+<li id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.B"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.B" type="ext"/>(b)</lilabel>
+<p><text>any inquiry into a person&#x2019;s fitness to be tried for an offence,</text></p>
+</li>
+<li id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.C"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.C" type="ext"/>(c)</lilabel>
+<p><text>any proceeding relating to bail:</text></p>
+<l><li id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.C.I"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.C.I" type="ext"/>(i)</lilabel>
+<p><text>brought before a Magistrate or justice in respect of the period between the person being charged with the offence and the person&#x2019;s first appearance before a court in relation to the offence, or</text></p>
+</li><li id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.C.II"><lilabel><refpt id="UCPN.EA.EAN98.S3.1.PHYSICAL-APPEARANCE-PROCEEDINGS.C.II" type="ext"/>(ii)</lilabel>
+<p><text>on a person&#x2019;s first appearance before a court in relation to the offence.</text></p>
+</li></l></li>
+</l></defdesc><leg:histnote>
+<p><text>[def  insrt Act 75 of 2007  s 3 and Sch 1[3], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.PRELIMINARY-CRIMINAL-PROCEEDING"><defterm><refpt id="UCPN.EA.EAN98.S3.1.PRELIMINARY-CRIMINAL-PROCEEDING" type="ext"/><emph typestyle="bf">preliminary criminal proceeding</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 75 of 2007  s 3 and Sch 1[1], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.RECOGNISED-COURT"><defterm><refpt id="UCPN.EA.EAN98.S3.1.RECOGNISED-COURT" type="ext"/><emph typestyle="bf">recognised court</emph></defterm> <defdesc>
+<p><text>means a court or tribunal of a participating State that is authorised by the provisions of a law of that State in terms substantially corresponding to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT2" remotekey1="REFPTID" service="DOC-ID">Parts 2</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT3" remotekey1="REFPTID" service="DOC-ID">3</remotelink></ci:content></ci:cite>
+ to direct that evidence be taken or submissions made by audio link or audio visual link from New South Wales.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.RELEVANT-CRIMINAL-PROCEEDING"><defterm><refpt id="UCPN.EA.EAN98.S3.1.RELEVANT-CRIMINAL-PROCEEDING" type="ext"/><emph typestyle="bf">relevant criminal proceeding</emph></defterm> <leg:histnote>
+<p><text>[def  rep Act 75 of 2007  s 3 and Sch 1[1], effective 1 January 2009]</text></p></leg:histnote></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.STATE"><defterm><refpt id="UCPN.EA.EAN98.S3.1.STATE" type="ext"/><emph typestyle="bf">State</emph></defterm> <defdesc>
+<p><text>includes Territory.</text></p>
+</defdesc></defitem></deflist>
+<deflist><defitem id="UCPN.EA.EAN98.S3.1.TRIBUNAL"><defterm><refpt id="UCPN.EA.EAN98.S3.1.TRIBUNAL" type="ext"/><emph typestyle="bf">tribunal</emph></defterm> <defdesc>
+<p><text>of a State means a person or body authorised by or under a law of the State to take evidence on oath or affirmation.</text></p>
+</defdesc></defitem></deflist><leg:histnote>
+<p><text>[subs (1)  am Act 16 of 2000  s 3 and Sch 1,  effective 1 July 2000]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in this Act (other than 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1B" remotekey1="REFPTID" service="DOC-ID">Part 1B</remotelink></ci:content></ci:cite>
+) to making a submission to a court includes a reference to making an appearance before the court.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  insrt Act 16 of 2000  s 3 and Sch 1,  effective 1 July 2000; am Act 46 of 2001  s 3 and Sch 1,  effective 10 August 2001]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S3.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (3)  rep Act 46 of 2001  s 3 and Sch 1,  effective 10 August 2001]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S3A"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[313,015] s 3A Appearances and entitlements to be present before courts">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN98.S3A" type="ext"/>[313,015]</edpnum><title searchtype="SECT-TITLE">Appearances and entitlements to be present before courts</title><desig searchtype="SECT-NUM"><designum>3A</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN98.S3A.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S3A.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A requirement by or under any other Act that a person appear (or be brought or be present) before a court is taken to be satisfied if the person appears before the court by way of an audio link or audio visual link under this Act.</text></p>
+<p><glp:note>
+<heading><title>Note</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1B" remotekey1="REFPTID" service="DOC-ID">Part 1B</remotelink></ci:content></ci:cite>
+ of this Act contains provisions with respect to the appearance by audio visual link of accused detainees who are in custody in criminal proceedings.</text></p></glp:note></p><leg:histnote>
+<p><text>[subs (1)  am Act 75 of 2007  s 3 and Sch 1[5], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S3A.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S3A.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any entitlement of a person under any other Act or law for a person to be present in proceedings before a court concerning bail is taken to be satisfied if audio visual links are used in relation to the person under this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S3A.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S3A.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any entitlement of a person under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="007R" refpt="CPPN.APP.CRIMAP.S14" remotekey1="REFPTID" service="DOC-ID">section 14</remotelink></ci:content></ci:cite>
+ of the Criminal Appeal Act 1912 to be present in proceedings on the hearing of an appeal is taken to be satisfied if audio visual links are used in relation to the person under this Act.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  insrt Act 76 of 2003  s 3 and Sch 1, effective 25 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 3A  insrt Act 46 of 2001  s 3 and Sch 1,  effective 10 August 2001]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[313,020] s 4 Notes">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN98.S4" type="ext"/>[313,020]</edpnum><title searchtype="SECT-TITLE">Notes</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Notes included in this Act do not form part of this Act.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[313,025] s 5 Application of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN98.S5" type="ext"/>[313,025]</edpnum><title searchtype="SECT-TITLE">Application of Act</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN98.S5.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is not intended to exclude or limit the operation of any other law of the State or a participating State that makes provision for the taking of evidence or making of submissions:</text></p>
+<l><li id="UCPN.EA.EAN98.S5.1.A"><lilabel><refpt id="UCPN.EA.EAN98.S5.1.A" type="ext"/>(a)</lilabel>
+<p><text>outside the State or participating State for the purposes of a proceeding in that State, or</text></p>
+</li>
+<li id="UCPN.EA.EAN98.S5.1.B"><lilabel><refpt id="UCPN.EA.EAN98.S5.1.B" type="ext"/>(b)</lilabel>
+<p><text>in the State or participating State for the purposes of a proceeding outside that State.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act is not intended to exclude or limit the operation of any other law of the State or another place that makes provision for the taking of evidence or making of submissions in the State for the purposes of a proceeding in the State.</text></p>
+<leg:histnote>
+<p><text>[subs (1A)  insrt Act 16 of 2000  s 3 and Sch 1 effective 1 July 2000; am Act 46 of 2001  s 3 and Sch 1 effective 10 August 2001 ; Act 75 of 2007  s 3 and Sch 1[6], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless a contrary intention is shown, nothing in this Act limits or otherwise affects any discretion that a NSW court or a recognised court has with respect to the conduct of a proceeding.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act (other than 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1A" remotekey1="REFPTID" service="DOC-ID">Part 1A</remotelink></ci:content></ci:cite>
+ or 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1B" remotekey1="REFPTID" service="DOC-ID">1B</remotelink></ci:content></ci:cite>
+) extends to any proceeding pending in a NSW court or a recognised court on the commencement of this section.</text></p>
+<leg:histnote>
+<p><text>[subs (3)  am Act 16 of 2000  s 3 and Sch 1 effective 1 July 2000; Act 46 of 2001  s 3 and Sch 1,  effective 10 August 2001]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1A" remotekey1="REFPTID" service="DOC-ID">Part 1A</remotelink></ci:content></ci:cite>
+ extends to any proceeding pending in a NSW court or court of a place outside New South Wales on the commencement of this subsection.</text></p>
+<leg:histnote>
+<p><text>[subs (4)  insrt Act 16 of 2000  s 3 and Sch 1, effective 1 July 2000]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.4A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.4A" type="ext"/>(4A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1A" remotekey1="REFPTID" service="DOC-ID">Part 1A</remotelink></ci:content></ci:cite>
+ (as amended by the Evidence (Audio and Audio Visual Links) Amendment Act 2007) extends to any proceedings pending in a NSW court after the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.S5.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ and on the commencement of this subsection.</text></p>
+<leg:histnote>
+<p><text>[subs (4A)  insrt Act 75 of 2007  s 3 and Sch 1[7], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1B" remotekey1="REFPTID" service="DOC-ID">Part 1B</remotelink></ci:content></ci:cite>
+ (as in force immediately before the amendment of this subsection by the Evidence Legislation Amendment (Accused Child Detainees) Act 2003) (as originally enacted) extends to any preliminary criminal proceeding or relevant criminal proceeding pending in a NSW court on the commencement of this subsection.</text></p>
+<leg:histnote>
+<p><text>[subs (5)  insrt Act 46 of 2001  s 3 and Sch 1,  effective 10 August 2001 ; am Act 76 of 2003  s 3 and Sch 1, effective 25 November 2003 ; Act 57 of 2003  s 3 and Sch 1, effective 9 February 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.5A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.5A" type="ext"/>(5A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1B" remotekey1="REFPTID" service="DOC-ID">Part 1B</remotelink></ci:content></ci:cite>
+ (as amended by the Evidence Legislation Amendment (Accused Child Detainees) Act 2003) extends to any preliminary criminal proceeding or relevant criminal proceeding pending in a NSW court after the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.S5.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ and before the commencement of this subsection.</text></p>
+<leg:histnote>
+<p><text>[subs (5A)  insrt Act 57 of 2003  s 3 and Sch 1, effective 9 February 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.5B"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.5B" type="ext"/>(5B)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1B" remotekey1="REFPTID" service="DOC-ID">Part 1B</remotelink></ci:content></ci:cite>
+ (as amended by the Evidence (Audio and Audio Visual Links) Amendment Act 2003) extends to any preliminary criminal proceeding or relevant criminal proceeding pending in a NSW court after the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.S5.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ and at the commencement of this subsection.</text></p>
+<leg:histnote>
+<p><text>[subs (5B)  insrt Act 76 of 2003  s 3 and Sch 1, effective 25 November 2003]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.5C"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.5C" type="ext"/>(5C)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.PT1B" remotekey1="REFPTID" service="DOC-ID">Part 1B</remotelink></ci:content></ci:cite>
+ (as amended by the Evidence (Audio and Audio Visual Links) Amendment Act 2007) extends to any criminal proceedings pending in a NSW court after the commencement of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN98.S5.5" remotekey1="REFPTID" service="DOC-ID">subsection (5)</remotelink></ci:content></ci:cite>
+ and at the commencement of this subsection.</text></p>
+<leg:histnote>
+<p><text>[subs (5C)  insrt Act 75 of 2007  s 3 and Sch 1[8], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN98.S5.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN98.S5.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (6)  rep Act 42 of 2012  Sch 1.7, effective 6 July 2012]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

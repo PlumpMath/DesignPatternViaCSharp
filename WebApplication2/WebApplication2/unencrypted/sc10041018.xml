@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="court-rules" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 7 LIQUIDATORS [rr 7.1&#x2013;7.11]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.CLRUN00.D7</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT (CORPORATIONS) RULES 1999</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 7 LIQUIDATORS [rr 7.1&#x2013;7.11]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70020060</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.CLRUN00"/><docinfo:metaitem name="parent-filename" value="sc1004.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>court-rules</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 703, 1999</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">SUPREME COURT (CORPORATIONS) RULES 1999</leg:officialname></leg:info><leg:level id="UCPN.SC.CLRUN00.BODY"><leg:level-vrnt leveltype="rule" searchtype="LEGISLATION RULE"><leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 7 LIQUIDATORS [rr 7.1&#x2013;7.11]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.CLRUN00.D7" type="ext"/>DIVISION 7</designum></desig><title searchtype="DIV-TITLE">LIQUIDATORS [rr 7.1&#x2013;7.11]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R1"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,495] r 7.1 Resignation of liquidator (Corporations Act s 473(1))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R1" type="ext"/>[15,495]</edpnum><title searchtype="RUL-TITLE">Resignation of liquidator (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S473.1" remotekey1="REFPTID" service="DOC-ID">s 473(1)</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>7.1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R1.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R1.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A liquidator appointed by the Court who wishes to resign office must file with the Registrar, and lodge with ASIC, a memorandum of resignation.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R1.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R1.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The resignation takes effect on the filing and lodging of the memorandum.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7.1  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D7.R1.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15495-5" leveltype="para0" subdoc="true" toc-caption="[15,495.5] Resignation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,495.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 473(1), s 502, s 503, s 530.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15495-5" type="ext"/>[15,495.5] </edpnum><title>Resignation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A liquidator may resign under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S473.1" remotekey1="REFPTID" service="DOC-ID">s 473(1)</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001 (Cth). The resignation takes effect when the notice of resignation has been filed with the Registrar of the court and lodged with ASIC: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003467" spanref="cr003467-001"><ci:reporter value="urj"/><ci:refnum num="BC201006900"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Free</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWSC 1079; <ci:span spanid="cr003467-001"> BC201006900</ci:span></citefragment> <remotelink dpsi="0018" refpt="503366" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003468" spanref="cr003468-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2010"/></ci:edition><ci:pinpoint num="10" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003468-000">at [10]</ci:span></citefragment></ci:content></ci:cite> per Barrett J. In the case of a sole liquidator resigning it may be appropriate to make an order appointing a new liquidator having immediate effect but expressed to fill the vacancy to arise upon completion of the r 7.1 steps: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003469" spanref="cr003469-001"><ci:reporter value="urj"/><ci:refnum num="BC201006900"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Free</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWSC 1079; <ci:span spanid="cr003469-001"> BC201006900</ci:span></citefragment> <remotelink dpsi="0018" refpt="503366" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003470" spanref="cr003470-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2010"/></ci:edition><ci:pinpoint num="11" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003470-000">at [11]</ci:span></citefragment></ci:content></ci:cite>. Where one of two liquidators resigns in a creditor&#x2019;s voluntary winding up the second original appointee continues following the resignation of the other appointee: 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S530" remotekey1="REFPTID" service="DOC-ID">s 530</remotelink></ci:content></ci:cite>
+ Corporations Act. However to install the second liquidator the procedure is effected by removing both existing liquidators under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S503" remotekey1="REFPTID" service="DOC-ID">s 503</remotelink></ci:content></ci:cite>
+ and appointing the proposed liquidators under the same section, because 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S502" remotekey1="REFPTID" service="DOC-ID">s 502</remotelink></ci:content></ci:cite>
+ allows the court to make an appointment only where &#x201c;no liquidator is acting&#x201d;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003471" spanref="cr003471-001"><ci:reporter value="urj"/><ci:refnum num="BC201006900"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Free</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWSC 1079; <ci:span spanid="cr003471-001"> BC201006900</ci:span></citefragment> <remotelink dpsi="0018" refpt="503366" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003472" spanref="cr003472-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2010"/></ci:edition><ci:pinpoint num="21" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003472-000" status="unval">at [21]</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R2"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,500] r 7.2 Filling vacancy in office of liquidator (Corporations Act s 473(7), s 502)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R2" type="ext"/>[15,500]</edpnum><title searchtype="RUL-TITLE">Filling vacancy in office of liquidator (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S473.7" remotekey1="REFPTID" service="DOC-ID">s 473(7)</remotelink></ci:content></ci:cite>
+, <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S502" remotekey1="REFPTID" service="DOC-ID">s 502</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>7.2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R2.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, for any reason, there is no liquidator acting in a winding up, the Court may:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R2.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R2.1.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of a winding up by the Court &#x2014; appoint another official liquidator whose written consent in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F8" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 8</remotelink></ci:content></ci:cite>
+ has been filed; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R2.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R2.1.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of a voluntary winding up &#x2014; appoint another registered liquidator whose written consent in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F8" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 8</remotelink></ci:content></ci:cite>
+ has been filed.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R2.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Court may make the appointment:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R2.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R2.2.A" type="ext"/>(a)</lilabel>
+<p><text>in any case &#x2014; on application by ASIC, a creditor or a contributory; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R2.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R2.2.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of a winding up by the Court &#x2014; on its own initiative.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7.2  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D7.R2.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15500-5" leveltype="para0" subdoc="true" toc-caption="[15,500.5] Standing">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,500.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> Section 502.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15500-5" type="ext"/>[15,500.5] </edpnum><title>Standing</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The status granted by r 7.2(2)(a) is not exhaustive. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S502" remotekey1="REFPTID" service="DOC-ID">Section 502</remotelink></ci:content></ci:cite>
+ of the Corporations Act confers a general power to appoint a liquidator in a winding up.
+The court may exercise the power on the application of any person with a relevant proper interest: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003473" spanref="cr003473-001"><ci:reporter value="urj"/><ci:refnum num="BC201106164"/></ci:caseref><ci:caseref anaphref="cr003473" spanref="cr003473-002"><ci:pinpoint num="11" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Tumut River Orchard Management Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2011] NSWSC 915; <ci:span spanid="cr003473-001"> BC201106164</ci:span> <ci:span spanid="cr003473-002">at [11]&#x2013;[13]</ci:span></citefragment> <remotelink dpsi="0018" refpt="537760" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (application by equitable assignee of company loans).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R3"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,505] r 7.3 Report to liquidator as to company&#x2019;s affairs (Corporations Act s 475)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R3" type="ext"/>[15,505]</edpnum><title searchtype="RUL-TITLE">Report to liquidator as to company&#x2019;s affairs (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S475" remotekey1="REFPTID" service="DOC-ID">s 475</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>7.3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R3.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If a person is required under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S475" remotekey1="REFPTID" service="DOC-ID">section 475</remotelink></ci:content></ci:cite>
+ of the Corporations Act to submit and verify a report as to the affairs of a company, the liquidator must give to the person the appropriate forms and instructions for the preparation of the report.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R3.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except by order of the Court, no person is to be allowed out of the property of a company any costs or expenses incurred in relation to the preparation of the report that have not been:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R3.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R3.2.A" type="ext"/>(a)</lilabel>
+<p><text>sanctioned by the liquidator before being incurred; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R3.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R3.2.B" type="ext"/>(b)</lilabel>
+<p><text>taxed or assessed.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R3.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R3.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The liquidator must report to the Court any default in complying with the requirements of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S475" remotekey1="REFPTID" service="DOC-ID">section 475</remotelink></ci:content></ci:cite>
+ of the Corporations Act.</text></p>
+<leg:histnote>
+<p><text>[subr (3)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R3.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R3.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this rule:</text></p>
+<deflist><defitem id="UCPN.SC.CLRUN00.D7.R3.4.LIQUIDATOR"><defterm><refpt id="UCPN.SC.CLRUN00.D7.R3.4.LIQUIDATOR" type="ext"/><emph typestyle="bf">liquidator</emph></defterm> <defdesc>
+<p><text>includes a provisional liquidator.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7.3  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R4"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,510] r 7.4 Liquidator to file certificate and copy of settled list of contributories (Corporations Act s 478)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R4" type="ext"/>[15,510]</edpnum><title searchtype="RUL-TITLE">Liquidator to file certificate and copy of settled list of contributories (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S478" remotekey1="REFPTID" service="DOC-ID">s 478</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>7.4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, in a winding up by the Court, a liquidator has settled and certified a list, or supplementary list, of contributories, the liquidator must, within 14 days after doing so, file the certificate and a copy of the list.</text></p>
+<leg:histnote>
+<p><text>[r 7.4  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D7.R4.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15510-5" leveltype="para0" subdoc="true" toc-caption="[15,510.5] List of contributories"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15510-5" type="ext"/>[15,510.5] </edpnum><title>List of contributories</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The court may properly dispense with the settlement of the list in an appropriate case &#x2014; such as where creditors have been paid in full,  there is very small number of shareholders and it is possible to establish that the position is perfectly clear without going through the formalities prescribed by the rules: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003474" spanref="cr003474-001"><ci:reporter value="urj"/><ci:refnum num="BC200505322"/></ci:caseref><ci:caseref anaphref="cr003474" spanref="cr003474-002"><ci:pinpoint num="4" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">CGU Workers Compensation (NSW) Ltd v Ascom Service Automation (Aust) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 747; <ci:span spanid="cr003474-001"> BC200505322</ci:span> <ci:span spanid="cr003474-002">at [4]</ci:span></citefragment> <remotelink dpsi="0018" refpt="401546" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J (citing Buckley J in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003475" spanref="cr003475-001" status="unval"><ci:reporter value="Ch"/><ci:volume num="1"/><ci:edition><ci:date year="1961"/></ci:edition><ci:page num="346"/></ci:caseref><ci:caseref anaphref="cr003475" spanref="cr003475-002"><ci:pinpoint num="353" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Paragon Holdings Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003475-001" status="unval">[1961] 1 Ch 346</ci:span> <ci:span spanid="cr003475-002">at 353</ci:span></citefragment></ci:content></ci:cite>).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R5"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,515] r 7.5 Release of liquidator and deregistration of company (Corporations Act s 480(c) and (d))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R5" type="ext"/>[15,515]</edpnum><title searchtype="RUL-TITLE">Release of liquidator and deregistration of company (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S480.C" remotekey1="REFPTID" service="DOC-ID" status="unval">s 480(c)</remotelink></ci:content></ci:cite>
+ and <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S480.D" remotekey1="REFPTID" service="DOC-ID" status="unval">(d)</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>7.5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R5.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R5.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This rule applies to an application by the liquidator of a company:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R5.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.1.A" type="ext"/>(a)</lilabel>
+<p><text>for an order that the liquidator be released; or</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.1.B" type="ext"/>(b)</lilabel>
+<p><text>for an order that the liquidator be released and that ASIC deregister the company.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R5.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R5.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The interlocutory process seeking the order must include:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R5.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.2.A" type="ext"/>(a)</lilabel>
+<p><text>a notice stating that any objection to the release of the liquidator must be made by filing and serving a notice of objection, in the prescribed form, within 21 days after the date of service of the interlocutory process; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.2.B" type="ext"/>(b)</lilabel>
+<p><text>a statement setting out the terms of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S481.3" remotekey1="REFPTID" service="DOC-ID">subsection 481(3)</remotelink></ci:content></ci:cite>
+ of the Corprorations Act.</text></p>
+</li>
+</l>
+<glp:note>
+<heading><title>Note</title></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S481.3" remotekey1="REFPTID" service="DOC-ID">Subsection 481(3)</remotelink></ci:content></ci:cite>
+ of the Corporations Act provides that an order of the Court releasing a liquidator discharges the liquidator from all liability in respect of any act done or default made by the liquidator in the administration of the affairs of the company, or otherwise in relation to the liquidator&#x2019;s conduct as liquidator, but any such order may be revoked on proof that it was obtained by fraud or by suppression or by concealment of any material fact.</text></p></glp:note><leg:histnote>
+<p><text>[subr (2)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R5.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R5.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The supporting affidavit must include details of the following matters:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R5.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.A" type="ext"/>(a)</lilabel>
+<p><text>whether the whole of the company&#x2019;s property has been realised or whether so much of the company&#x2019;s property has been realised as, in the liquidator&#x2019;s opinion, can be realised without needlessly protracting the winding up;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.B" type="ext"/>(b)</lilabel>
+<p><text>any calls made on contributories in the course of the winding up;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.C" type="ext"/>(c)</lilabel>
+<p><text>any dividends paid in the course of the winding up;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.D"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.D" type="ext"/>(d)</lilabel>
+<p><text>whether the committee of inspection (if any) has passed a resolution approving the liquidator&#x2019;s release;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.E"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.E" type="ext"/>(e)</lilabel>
+<p><text>whether ASIC has appointed an auditor to report on an account or statement of the position in the winding up under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S539.2" remotekey1="REFPTID" service="DOC-ID">subsection 539(2)</remotelink></ci:content></ci:cite>
+ of the Corporations Act;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.F"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.F" type="ext"/>(f)</lilabel>
+<p><text>whether the Court has ordered a report on the accounts of the liquidator to be prepared;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.G"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.G" type="ext"/>(g)</lilabel>
+<p><text>whether any objection to the release of the liquidator has been received by the liquidator from:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R5.3.G.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.G.I" type="ext"/>(i)</lilabel>
+<p><text>an auditor appointed by ASIC or by the Court; or</text></p>
+</li><li id="UCPN.SC.CLRUN00.D7.R5.3.G.II"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.G.II" type="ext"/>(ii)</lilabel>
+<p><text>any creditor, contributory or other interested person;</text></p>
+</li></l></li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.H"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.H" type="ext"/>(h)</lilabel>
+<p><text>whether any report has been submitted by the liquidator to ASIC under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S533" remotekey1="REFPTID" service="DOC-ID">section 533</remotelink></ci:content></ci:cite>
+ of the Corporations Act;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.I" type="ext"/>(i)</lilabel>
+<p><text>whether the liquidator considers it necessary to report on the affairs of the company or any of its officers;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.J"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.J" type="ext"/>(j)</lilabel>
+<p><text>any property disclaimed in the course of the winding up;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.K"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.K" type="ext"/>(k)</lilabel>
+<p><text>any remuneration paid or payable to the liquidator and how such remuneration was determined;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.L"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.L" type="ext"/>(l)</lilabel>
+<p><text>any costs, charges or expenses payable by the liquidator if the Court grants the liquidator&#x2019;s release;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.3.M"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.3.M" type="ext"/>(m)</lilabel>
+<p><text>if the application is made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S480.C" remotekey1="REFPTID" service="DOC-ID" status="unval">paragraph 480(c)</remotelink></ci:content></ci:cite>
+ of the Corporations Act &#x2014; the facts and circumstances by reason of which it is submitted that the company should not be deregistered.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (3)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R5.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R5.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The liquidator must include in the supporting affidavit the statements set out in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D7.R5.4.A" remotekey1="REFPTID" service="DOC-ID">paragraphs (a)</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D7.R5.4.B" remotekey1="REFPTID" service="DOC-ID">(b)</remotelink></ci:content></ci:cite>
+ of this subrule, including, if appropriate, the words in brackets:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R5.4.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.4.A" type="ext"/>(a)</lilabel>
+<p><text>&#x201c;To the best of my belief, there has been no act done or default made by me in the administration of the affairs of the subject corporation or otherwise in relation to my conduct as liquidator which is likely to give rise to any liability to the subject corporation or any creditor or contributory [except as disclosed in this affidavit]&#x201d;;</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.4.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.4.B" type="ext"/>(b)</lilabel>
+<p><text>&#x201c;I am not aware of any claim made by any person that there has been any such act or default [except as disclosed in this affidavit]&#x201d;.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R5.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R5.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The liquidator must file with, or annex to, the supporting affidavit:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R5.5.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.5.A" type="ext"/>(a)</lilabel>
+<p><text>a statement of the financial position of the company at the date when the interlocutory process seeking release was filed; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.5.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.5.B" type="ext"/>(b)</lilabel>
+<p><text>a summary of the liquidator&#x2019;s receipts and payments in winding up the company.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R5.6"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R5.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Unless the Court otherwise orders, the liquidator must serve by prepaid post, on each creditor who has proved a debt in the course of the winding up, and on each contributory, a copy of the interlocutory process accompanied by:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R5.6.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.6.A" type="ext"/>(a)</lilabel>
+<p><text>a copy of the summary of the liquidator&#x2019;s receipts and payments in winding up the company; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R5.6.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R5.6.B" type="ext"/>(b)</lilabel>
+<p><text>a copy of the statement of the financial position of the company at the date when the interlocutory process seeking release was filed.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7.5  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D7.R5.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15515-5" leveltype="para0" subdoc="true" toc-caption="[15,515.5] Release of liquidator">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,515.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 488(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15515-5" type="ext"/>[15,515.5] </edpnum><title>Release of liquidator</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>There is a useful discussion of the practice and procedure in relation to applications for release of a liquidator in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1981"/></ci:caseinfo><ci:caseref ID="cr003476" spanref="cr003476-001"><ci:reporter value="ACLR"/><ci:volume num="5"/><ci:page num="658"/></ci:caseref><ci:caseref ID="cr003477" spanref="cr003477-002" status="unval"><ci:volume num=""/><ci:page num=""/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Autistic Therapy Society of Queensland Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003476-001">(1981) 5 ACLR 658</ci:span>; <ci:span spanid="cr003477-002" status="unval">(1981) CLC ¶40-735</ci:span></citefragment> <remotelink dpsi="0018" refpt="159432" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1982"/></ci:caseinfo><ci:caseref ID="cr003478" spanref="cr003478-001"><ci:reporter value="ACLR"/><ci:volume num="6"/><ci:page num="657"/></ci:caseref><ci:caseref ID="cr003479" spanref="cr003479-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="1"/><ci:page num="313"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Budget Floor Coverings Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003478-001">(1982) 6 ACLR 657</ci:span>; <ci:span spanid="cr003479-002" status="unval">1 ACLC 313</ci:span></citefragment> <remotelink dpsi="0018" refpt="36184" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003480" spanref="cr003480-001"><ci:reporter value="All ER"/><ci:volume num="3"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="215"/></ci:caseref><ci:caseref ID="cr003481" spanref="cr003481-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1981"/></ci:edition><ci:page num="1358"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Singer v Trustee of the property of Munro</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003480-001">[1981] 3 All ER 215</ci:span>; <ci:span spanid="cr003481-002" status="unval">[1981] 1 WLR 1358</ci:span></citefragment> <remotelink dpsi="0018" refpt="36185" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The court may not make an order for dissolution except in conjunction with an order for release of the liquidator: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr003482" spanref="cr003482-001"><ci:reporter value="NSWLR"/><ci:volume num="28"/><ci:page num="247"/></ci:caseref><ci:caseref ID="cr003483" spanref="cr003483-002"><ci:reporter value="ACSR"/><ci:volume num="8"/><ci:page num="322"/></ci:caseref><ci:caseref ID="cr003484" spanref="cr003484-003" status="unval"><ci:reporter value="ACLC"/><ci:volume num="10"/><ci:page num="1125"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Austral Family Homes Pty Ltd (in liq)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003482-001">(1992) 28 NSWLR 247</ci:span>; <ci:span spanid="cr003483-002">8 ACSR 322</ci:span>; <ci:span spanid="cr003484-003" status="unval">10 ACLC 1125</ci:span></citefragment> <remotelink dpsi="0018" refpt="35564" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> in which alternative courses of action for dissolution are discussed. The court may consider and excuse irregularities by the liquidator in the conduct of the liquidation upon an application for release: eg, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003485" spanref="cr003485-001"><ci:reporter value="urj"/><ci:refnum num="BC200505322"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">CGU Workers Compensation (NSW) Ltd v Ascom Service Automation (Aust) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 747; <ci:span spanid="cr003485-001"> BC200505322</ci:span></citefragment> <remotelink dpsi="0018" refpt="401546" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (failure to seek leave under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S488.2" remotekey1="REFPTID" service="DOC-ID">s 488(2)</remotelink></ci:content></ci:cite>
+ before paying the surplus to a sole contributory).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R6"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,520] r 7.6 Objection to release of liquidator &#x2014; Form 13">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R6" type="ext"/>[15,520]</edpnum><title searchtype="RUL-TITLE">Objection to release of liquidator &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F13" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 13</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>7.6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R6.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R6.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A creditor or contributory of a company who wishes to object to the release of the liquidator of the company must, within 21 days after the date of service of the interlocutory process seeking release:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R6.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R6.1.A" type="ext"/>(a)</lilabel>
+<p><text>file:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R6.1.A.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R6.1.A.I" type="ext"/>(i)</lilabel>
+<p><text>a notice of objection in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F13" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 13</remotelink></ci:content></ci:cite>
+; and</text></p>
+</li><li id="UCPN.SC.CLRUN00.D7.R6.1.A.II"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R6.1.A.II" type="ext"/>(ii)</lilabel>
+<p><text>if appropriate, an affidavit stating any facts relied on; and</text></p>
+</li></l></li>
+<li id="UCPN.SC.CLRUN00.D7.R6.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R6.1.B" type="ext"/>(b)</lilabel>
+<p><text>serve a copy of the notice and the affidavit (if any) on the liquidator.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R6.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R6.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the liquidator is served with a notice of objection by a creditor or contributory, the liquidator must, within 3 days after being served, serve on the creditor or contributory a copy of the affidavit supporting the interlocutory process.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R7"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,525] r 7.7 Report on accounts of liquidator (Corporations Act s 481)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R7" type="ext"/>[15,525]</edpnum><title searchtype="RUL-TITLE">Report on accounts of liquidator (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S481" remotekey1="REFPTID" service="DOC-ID">s 481</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>7.7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R7.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R7.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If the Court orders that a report on the accounts of a liquidator be prepared under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S481.1" remotekey1="REFPTID" service="DOC-ID">subsection 481(1)</remotelink></ci:content></ci:cite>
+ of the Corporations Act, the liquidator must give to the auditor appointed to prepare the report all information, books and vouchers required to prepare the report.</text></p>
+<leg:histnote>
+<p><text>[subr (1)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R7.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R7.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On completing the report, the auditor must:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R7.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R7.2.A" type="ext"/>(a)</lilabel>
+<p><text>file a copy of the report in a sealed envelope that is marked with the title and number of the proceeding and the words &#x201c;Auditor&#x2019;s report under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S481.1" remotekey1="REFPTID" service="DOC-ID">subsection 481(1)</remotelink></ci:content></ci:cite>
+ of the Corporations Act 2001&#x201d;; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R7.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R7.2.B" type="ext"/>(b)</lilabel>
+<p><text>serve a copy of the report on the liquidator; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R7.2.C"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R7.2.C" type="ext"/>(c)</lilabel>
+<p><text>lodge a copy of the report with ASIC.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R7.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R7.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except with the leave of the Court, a report is not available for inspection by any person except the liquidator or ASIC.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7.7  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R8"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,530] r 7.8 Application for payment of call (Corporations Act s 483(3)(b)) &#x2014; Form 14">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R8" type="ext"/>[15,530]</edpnum><title searchtype="RUL-TITLE">Application for payment of call (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S483.3.B" remotekey1="REFPTID" service="DOC-ID">s 483(3)(b)</remotelink></ci:content></ci:cite>
+) &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F14" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 14</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>7.8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The affidavit in support of an application by the liquidator of a company, under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S483.3.B" remotekey1="REFPTID" service="DOC-ID">paragraph 483(3)(b)</remotelink></ci:content></ci:cite>
+ of the Corporations Act, for an order for the payment of a call must be in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F14" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 14</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[r 7.8  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R9"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,535] r 7.9 Distribution of surplus by liquidator with special leave of the Court (Corporations Act s 488(2)) &#x2014; Form 15">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R9" type="ext"/>[15,535]</edpnum><title searchtype="RUL-TITLE">Distribution of surplus by liquidator with special leave of the Court (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S488.2" remotekey1="REFPTID" service="DOC-ID">s 488(2)</remotelink></ci:content></ci:cite>
+) &#x2014; <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F15" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 15</remotelink></ci:content></ci:cite></title><desig searchtype="RUL-NUM"><designum>7.9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R9.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The affidavit in support of an application for special leave to distribute a surplus must state how the liquidator intends to distribute the surplus including the name and address of each person to whom the liquidator intends to distribute any part of the surplus.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R9.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>At least 14 days before the date fixed for hearing of the application, the liquidator must publish a notice of the application.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R9.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The notice must be:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R9.3.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R9.3.A" type="ext"/>(a)</lilabel>
+<p><text>in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SCN.SCF.CLRUN00.F15" remotekey1="REFPTID" service="DOC-ID" status="unval">Form 15</remotelink></ci:content></ci:cite>
+; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R9.3.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R9.3.B" type="ext"/>(b)</lilabel>
+<p><text>published in accordance with 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D2.R11" remotekey1="REFPTID" service="DOC-ID">rule 2.11</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7.9  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D7.R9.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15535-5" leveltype="para0" subdoc="true" toc-caption="[15,535.5] Leave">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15,535.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 1322(4), s 488(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15535-5" type="ext"/>[15,535.5] </edpnum><title>Leave</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A liquidator can only distribute a surplus with the court's &quot;special leave&quot; under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S488.2" remotekey1="REFPTID" service="DOC-ID">s 488(2)</remotelink></ci:content></ci:cite>
+ of the Corporations Act.  This means that the liquidator must make a specific application for leave, and not merely include the application with other administrative matters: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2009"/></ci:caseinfo><ci:caseref ID="cr003486" spanref="cr003486-001" status="unval"><ci:reporter value="FLR"/><ci:volume num="232"/><ci:page num="239"/></ci:caseref><ci:caseref ID="cr003487" spanref="cr003487-002"><ci:reporter value="urj"/><ci:refnum num="BC200905705"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Klaus Maertin Pty Ltd (in liq); Maertin v Klaus Maertin Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003486-001" status="unval">(2009) 232 FLR 239</ci:span>; [2009] NSWSC 618; <ci:span spanid="cr003487-002"> BC200905705</ci:span></citefragment> <remotelink dpsi="0018" refpt="476131" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003488" spanref="cr003488-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="40" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003488-000" status="unval">at [40]</ci:span></citefragment></ci:content></ci:cite> per Austin J citing <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1997"/></ci:caseinfo><ci:caseref ID="cr003489" spanref="cr003489-001"><ci:reporter value="ACSR"/><ci:volume num="24"/><ci:page num="71"/></ci:caseref><ci:caseref ID="cr003490" spanref="cr003490-002" status="unval"><ci:reporter value="ACLC"/><ci:volume num="15"/><ci:page num="808"/></ci:caseref><ci:caseref ID="cr003491" spanref="cr003491-003"><ci:reporter value="urj"/><ci:refnum num="BC9702185"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re DS Millard &amp; Son Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003489-001">(1997) 24 ACSR 71</ci:span>; <ci:span spanid="cr003490-002" status="unval">15 ACLC 808</ci:span>; <ci:span spanid="cr003491-003"> BC9702185</ci:span></citefragment> <remotelink dpsi="0018" refpt="230234" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Young J.</text></p>
+<p>
+<text>The failure to obtain special leave before making a distribution of surplus assets is an irregularity which can be cured retrospectively. In simple cases where creditors have been paid in full and there are few contributories the court may make excuse a failure to obtain leave under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S488.2" remotekey1="REFPTID" service="DOC-ID">s 488(2)</remotelink></ci:content></ci:cite>
+ and make orders under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S1322.4" remotekey1="REFPTID" service="DOC-ID">s 1322(4)</remotelink></ci:content></ci:cite>
+ in respect of that irregularity: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003492" spanref="cr003492-001"><ci:reporter value="urj"/><ci:refnum num="BC200505322"/></ci:caseref><ci:caseref anaphref="cr003492" spanref="cr003492-002"><ci:pinpoint num="4" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003492" spanref="cr003492-003"><ci:pinpoint num="7" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">CGU Workers Compensation (NSW) Ltd v Ascom Service Automation (Aust) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 747; <ci:span spanid="cr003492-001"> BC200505322</ci:span> <ci:span spanid="cr003492-002">at [4]</ci:span> <ci:span spanid="cr003492-003">[7]</ci:span></citefragment> <remotelink dpsi="0018" refpt="401546" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J.
+But no such order should be made if the distribution has excluded a person with an arguable claim to be a contributory: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Klaus Maertin Pty Ltd (in liq); Maertin v Klaus Maertin Pty Ltd</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003493" spanref="cr003493-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="40" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003493-000">at [40]&#x2013;[48]</ci:span></citefragment></ci:content></ci:cite>. Section 488(1) and UCPR 7.10 are qualified by  Corporations Regulations 2001 reg 5.6.71(1), which direct that the order authorising distribution of surplus  should include Form 551 schedule providing information about the distribution and the persons to whom the distribution is paid.  The court has the power to dispense with this in simple cases: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Klaus Maertin Pty Ltd (in liq); Maertin v Klaus Maertin Pty Ltd</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003494" spanref="cr003494-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="51" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003494-000">at [51]</ci:span></citefragment></ci:content></ci:cite> (schedule dispensed with); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003495" spanref="cr003495-001"><ci:reporter value="urj"/><ci:refnum num="BC200909675"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Brealey v Shields</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2009] NSWSC 1148; <ci:span spanid="cr003495-001"> BC200909675</ci:span></citefragment> <remotelink dpsi="0018" refpt="481988" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003496" spanref="cr003496-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="8" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003496-000">at [8]&#x2013;[15]</ci:span></citefragment></ci:content></ci:cite> per Barrett J (schedule dispensed with); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2009"/></ci:caseinfo><ci:caseref ID="cr003497" spanref="cr003497-001"><ci:reporter value="ALR"/><ci:volume num="262"/><ci:page num="552"/></ci:caseref><ci:caseref ID="cr003498" spanref="cr003498-002"><ci:reporter value="ACSR"/><ci:volume num="76"/><ci:page num="164"/></ci:caseref><ci:caseref ID="cr003499" spanref="cr003499-003"><ci:reporter value="urj"/><ci:refnum num="BC200910984"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re FAI Car Owners Mutual Insurance Co Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr003497-001">(2009) 262 ALR 552</ci:span>; <ci:span spanid="cr003498-002">76 ACSR 164</ci:span>; [2009] NSWSC 1350; <ci:span spanid="cr003499-003"> BC200910984</ci:span></citefragment> <remotelink dpsi="0018" refpt="484684" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003500" spanref="cr003500-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2009"/></ci:edition><ci:pinpoint num="28" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003500-000">at [28]</ci:span></citefragment></ci:content></ci:cite> per Barrett J (schedule dispensed with).</text></p>
+<p>
+<text>The purpose of requiring the court&#x2019;s special leave is primarily to ensure that there is in fact a surplus to be distributed. The purpose of the requirement that notice of the application be advertised is to enable creditors or contributories not otherwise on notice to come in, even belatedly, and oppose a distribution of surplus: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003501" spanref="cr003501-001"><ci:reporter value="urj"/><ci:refnum num="BC201210554"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Visnic v Sywak</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 1284; <ci:span spanid="cr003501-001"> BC201210554</ci:span></citefragment> <remotelink dpsi="0018" refpt="571388" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003502" spanref="cr003502-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="3" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003502-000">at [3]</ci:span></citefragment></ci:content></ci:cite>, <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003503" spanref="cr003503-000"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003503-000">[5]</ci:span></citefragment></ci:content></ci:cite> per Brereton J.
+However, the court may in appropriate cases dispense with that requirement: <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Visnic v Sywak</emph></citefragment>, <emph typestyle="it">above</emph></ci:content></ci:cite> <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003504" spanref="cr003504-000" status="unval"><ci:reporter value="NSWSC"/><ci:edition><ci:date year="2012"/></ci:edition><ci:pinpoint num="5" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr003504-000" status="unval">at [5]</ci:span></citefragment></ci:content></ci:cite> (advertising dispensed with where winding up on foot for five years and unlikely that no creditors had not come forward).</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R10"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,540] r 7.10 Powers delegated to liquidator by the Court (Corporations Act s 488)">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R10" type="ext"/>[15,540]</edpnum><title searchtype="RUL-TITLE">Powers delegated to liquidator by the Court (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S488" remotekey1="REFPTID" service="DOC-ID">s 488</remotelink></ci:content></ci:cite>
+)</title><desig searchtype="RUL-NUM"><designum>7.10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL" remotekey1="REFPTID" service="DOC-ID">Corporations Act</remotelink></ci:content></ci:cite>
+, the Corporations Regulations, these Rules, and any order of the Court, the powers and duties conferred or imposed on the Court by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.PT5.4B" remotekey1="REFPTID" service="DOC-ID" status="unval">Part 5.4B</remotelink></ci:content></ci:cite>
+ of the Corporations Act in respect of the matters mentioned in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S488.1" remotekey1="REFPTID" service="DOC-ID">subsection 488(1)</remotelink></ci:content></ci:cite>
+ of the Corporations Act may be exercised or performed by a liquidator appointed by the Court as an officer of the Court and subject to the control of the Court.</text></p>
+<leg:histnote>
+<p><text>[r 7.10  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.CLRUN00.D7.R10.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.15540-5" leveltype="para0" subdoc="true" toc-caption="[15.540.5] Delegation">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [15.540.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_ACT_2001-50" remotekey1="REFPTID" service="DOC-ID">Corporations Act 2001</remotelink> s 485(2), s 488(1), s 488(2).</ci:content></ci:cite></text>
+<text>(CTH) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005X" refpt="CTH_REG_2001-193" remotekey1="REFPTID" service="DOC-ID">Corporations Regulations 2001</remotelink> regs 5.6.58, 5.6.62.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.15540-5" type="ext"/>[15.540.5] </edpnum><title>Delegation</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In a court-ordered winding up, the court has the responsibility of adjusting the rights of the contributories among themselves and distributing any surplus among the persons entitled to it: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S485.2" remotekey1="REFPTID" service="DOC-ID">s 485(2)</remotelink></ci:content></ci:cite>
+ Corporations Act 2001. 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S488.1" remotekey1="REFPTID" service="DOC-ID">Section 488(1)</remotelink></ci:content></ci:cite>
+ Corporations Act 2001 contemplates that rules or regulations may allow that function to be performed by the liquidator. Corporations Regulations 2001 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CREG.REG5-6-58" remotekey1="REFPTID" service="DOC-ID">regs 5.6.58</remotelink></ci:content></ci:cite>
+ to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CREG.REG5-6-62" remotekey1="REFPTID" service="DOC-ID"> 5.6.62</remotelink></ci:content></ci:cite>
+ allow the liquidator to settle the list of contributories but, apart from 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S488.2" remotekey1="REFPTID" service="DOC-ID">s 488(2)</remotelink></ci:content></ci:cite>
+ (its statement that the liquidator &#x201c;may distribute surplus&#x201d; only with the leave of the court) there is no express grant of power to a liquidator to distribute surplus. Section 488(2), by regulating distribution by the liquidator, recognises that the liquidator has the power (albeit a controlled power) to distribute.
+The provisions with respect to distribution of surplus have the twofold aim of ensuring that there is in reality a surplus (in that the claims of creditors have been recognised and met in full) and of seeing that the correct relativities among the contributories have been observed, having regard to the possibility of differing rights: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr003505" spanref="cr003505-001"><ci:reporter value="urj"/><ci:refnum num="BC200505322"/></ci:caseref><ci:caseref anaphref="cr003505" spanref="cr003505-002"><ci:pinpoint num="3" targettype="para"/></ci:caseref><ci:caseref anaphref="cr003505" spanref="cr003505-003"><ci:pinpoint num="4" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">CGU Workers Compensation (NSW) Ltd v Ascom Service Automation (Aust) Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2005] NSWSC 747; <ci:span spanid="cr003505-001"> BC200505322</ci:span> <ci:span spanid="cr003505-002">at [3]</ci:span> <ci:span spanid="cr003505-003">&#x2013;[4]</ci:span></citefragment> <remotelink dpsi="0018" refpt="401546" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Barrett J.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R11"><leg:level-vrnt leveltype="rul" searchtype="LEGISLATION RUL" subdoc="true" toc-caption="[15,545] r 7.11 Inquiry into conduct of liquidator (Corporations Act s 536(1) and (2))">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.CLRUN00.D7.R11" type="ext"/>[15,545]</edpnum><title searchtype="RUL-TITLE">Inquiry into conduct of liquidator (Corporations Act <ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536.1" remotekey1="REFPTID" service="DOC-ID">s 536(1)</remotelink></ci:content></ci:cite>
+ and (2))</title><desig searchtype="RUL-NUM"><designum>7.11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.CLRUN00.D7.R11.1"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A complaint to the Court under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536.1.B" remotekey1="REFPTID" service="DOC-ID">paragraph 536(1)(b)</remotelink></ci:content></ci:cite>
+ of the Corporations Act must be made:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R11.1.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R11.1.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of a winding up by the Court &#x2014; by an interlocutory process seeking an inquiry; and</text></p>
+</li>
+<li id="UCPN.SC.CLRUN00.D7.R11.1.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R11.1.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of a voluntary winding up &#x2014; by an originating process seeking an inquiry.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subr (1)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R11.2"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A report to the Court by ASIC under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536.2" remotekey1="REFPTID" service="DOC-ID">subsection 536(2)</remotelink></ci:content></ci:cite>
+ of the Corporations Act must be made:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R11.2.A"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R11.2.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of a winding up by the Court &#x2014; by filing:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R11.2.A.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R11.2.A.I" type="ext"/>(i)</lilabel>
+<p><text>an interlocutory process seeking orders under the subsection; and</text></p>
+</li><li id="UCPN.SC.CLRUN00.D7.R11.2.A.II"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R11.2.A.II" type="ext"/>(ii)</lilabel>
+<p><text>a written report in a sealed envelope that is marked with the title and number of the proceeding; and</text></p>
+</li></l></li>
+<li id="UCPN.SC.CLRUN00.D7.R11.2.B"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R11.2.B" type="ext"/>(b)</lilabel>
+<p><text>in the case of a voluntary winding up &#x2014; by filing:</text></p>
+<l><li id="UCPN.SC.CLRUN00.D7.R11.2.B.I"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R11.2.B.I" type="ext"/>(i)</lilabel>
+<p><text>an originating process seeking orders under the subsection; and</text></p>
+</li><li id="UCPN.SC.CLRUN00.D7.R11.2.B.II"><lilabel><refpt id="UCPN.SC.CLRUN00.D7.R11.2.B.II" type="ext"/>(ii)</lilabel>
+<p><text>a written report in a sealed envelope that is marked with the title of the proceeding and provision for its number.</text></p>
+</li></l></li>
+</l><leg:histnote>
+<p><text>[subr (2)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R11.3"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The contents of a report filed under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.CLRUN00.D7.R11.2" remotekey1="REFPTID" service="DOC-ID">subrule (2)</remotelink></ci:content></ci:cite>
+ need not, at the time of filing, be verified by an affidavit.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R11.4"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R11.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except with the leave of the Court, a report made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="006K" refpt="ACLL.CL.S536.2" remotekey1="REFPTID" service="DOC-ID">subsection 536(2)</remotelink></ci:content></ci:cite>
+ of the Corporations Act is not available for inspection by any person except the liquidator or ASIC.</text></p>
+<leg:histnote>
+<p><text>[subr (4)  am Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004 ; Gaz 53 of 16 May 2008  r 2 and Sch 1[3], effective 16 May 2008]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.CLRUN00.D7.R11.5"><leg:level-vrnt leveltype="subrul" searchtype="LEGISLATION SUBRUL">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.CLRUN00.D7.R11.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In this rule:</text></p>
+<deflist><defitem id="UCPN.SC.CLRUN00.D7.R11.5.LIQUIDATOR"><defterm><refpt id="UCPN.SC.CLRUN00.D7.R11.5.LIQUIDATOR" type="ext"/><emph typestyle="bf">liquidator</emph></defterm> <defdesc>
+<p><text>includes a provisional liquidator.</text></p>
+</defdesc></defitem></deflist>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[r 7.11  am Gaz 168 of 22 December 2000  p 13608 ; Gaz 197 of 19 December 2003  p 11377, effective 1 January 2004]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

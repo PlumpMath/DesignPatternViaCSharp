@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 6 STATUTORY TRUSTS OF PROPERTY HELD IN CO-OWNERSHIP [ss 66G&#x2013;66I]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.CONVA.PT4.D6</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>CONVEYANCING ACT 1919 (NSW) (EXTRACT)</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART IV SALES AND OTHER TRANSACTIONS [ss 66G&#x2013;66I]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 6 STATUTORY TRUSTS OF PROPERTY HELD IN CO-OWNERSHIP [ss 66G&#x2013;66I]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140100000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.CONVA"/><docinfo:metaitem name="parent-filename" value="ol1020.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">CONVEYANCING ACT 1919 (NSW) (EXTRACT)</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1919</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 6, 1919</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>TABLE OF AMENDMENTS</title></leg:heading>
+<p>
+<text>Conveyancing Act No 6 of 1919, assent 13 November 1919, commencement 1 July 1920 as amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Conveyancing (Amendment) Act 1930 No 44</entry><entry colname="c2">27 June 1930</entry><entry colname="c3">s 1(1): 1 January 1931 (Gaz 139 of 19 September 1930 p 3704)</entry></row>
+<row><entry colname="c1">Conveyancing (Amendment) Act 1932 No 65</entry><entry colname="c2">30 December 1932</entry><entry colname="c3"/></row>
+<row><entry colname="c1">Supreme Court Act 1970 No 52</entry><entry colname="c2">14 October 1970</entry><entry colname="c3">s 2(1): 1 July 1972 (except Part IX) (Gaz 59 of 2 June 1972 p 2018)</entry></row>
+<row><entry colname="c1">Minors (Property and Contracts) Act 1970 No 60</entry><entry colname="c2">13 November 1970</entry><entry colname="c3">s 1(1): 1 July 1971 (Gaz 60 of 4 June 1971 p 1863)</entry></row>
+<row><entry colname="c1">Conveyancing (Amendment) Act 1972 No 17</entry><entry colname="c2">29 March 1972</entry><entry colname="c3">s 21(1): 15 June 1964, s 21(2)</entry></row>
+<row><entry colname="c1">Acts Reprinting Act 1972 No 48</entry><entry colname="c2">9 October 1972</entry><entry colname="c3">Order dated 7 May 1975 (Gaz 66 of 9 May 1975 p 1812 &#x2014; (a) Conveyancing Act 1919 is an enactment to which s 8(2) of the Acts Reprinting Act 1972 applies; and (b) Conveyancing Act 1919 Sch IV excepted, is an enactment to which s 9(3) of the Acts Reprinting Act 1972 applies</entry></row>
+<row><entry colname="c1">Conveyancing (Real Property Computer Register) Amendment Act 1979 No 171</entry><entry colname="c2">14 December 1979</entry><entry colname="c3">Schs 1 and 3: 1 January 1980, s 2(3) (Gaz 184 of 21 December 1979 p 6448)</entry></row>
+<row><entry colname="c1">Conveyancing (Covenants) Amendment Act 1986 No 70</entry><entry colname="c2">21 May 1986</entry><entry colname="c3">5 December 1986 (Gaz 186 of 5 December 1986 p 5906)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1992 No 57</entry><entry colname="c2">8 October 1992</entry><entry colname="c3">27 November 1992</entry></row>
+<row><entry colname="c1">Statute Law Revision (Local Government) Act 1995 No 11</entry><entry colname="c2">9 June 1995</entry><entry colname="c3">23 June 1995 (Gaz 77 of 23 June 1995 p 3279)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1996 No 30</entry><entry colname="c2">21 June 1996</entry><entry colname="c3">21 June 1996</entry></row>
+<row><entry colname="c1">Real Property and Conveyancing Amendment Act 1997 No 95</entry><entry colname="c2">7 November 1997</entry><entry colname="c3">1 January 1998</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1997 No 147</entry><entry colname="c2">7 December 1997</entry><entry colname="c3">17 March 1998</entry></row>
+<row><entry colname="c1">Property Legislation Amendment Act 2005 No 68</entry><entry colname="c2">19 October 2005</entry><entry colname="c3">1 January 2006</entry></row>
+<row><entry colname="c1">Real Property and Conveyancing Legislation Amendment Act 2009 No 17</entry><entry colname="c2">13 May 2009</entry><entry colname="c3">ss 1&#x2013;2, Sch 2[2], [3]: on assent</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.OL.CONVA.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.OL.CONVA" type="ext"/>CONVEYANCING ACT 1919 (NSW) (EXTRACT)</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>AN ACT to amend and consolidate the law of property and to simplify and improve the practice of conveyancing; and for such purposes to amend certain Acts relating thereto.</text></p>
+<p>
+<text>BE it enacted by the King's Most Excellent Majesty, by and with the advice and consent of the Legislative Council and Legislative Assembly of New South Wales in Parliament assembled, and by the authority of the same, as follows:</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.OL.CONVA.PT4"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART IV SALES AND OTHER TRANSACTIONS [ss 66G&#x2013;66I]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.CONVA.PT4" type="ext"/>PART IV</designum></desig><title searchtype="PART-TITLE">SALES AND OTHER TRANSACTIONS [ss 66G&#x2013;66I]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CONVA.PT4.D6"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 6 STATUTORY TRUSTS OF PROPERTY HELD IN CO-OWNERSHIP [ss 66G&#x2013;66I]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.OL.CONVA.PT4.D6" type="ext"/>DIVISION 6</designum></desig><title searchtype="DIV-TITLE">STATUTORY TRUSTS OF PROPERTY HELD IN CO-OWNERSHIP [ss 66G&#x2013;66I]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CONVA.S66G"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[300,050] s 66G Statutory trusts for sale or partition of property held in co-ownership">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CONVA.S66G" type="ext"/>[300,050]</edpnum><title searchtype="SECT-TITLE">Statutory trusts for sale or partition of property held in co-ownership</title><desig searchtype="SECT-NUM"><designum>66G</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CONVA.S66G.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where any property (other than chattels) is held in co-ownership the court may, on the application of any one or more of the co-owners, appoint trustees of the property and vest the same in such trustees, subject to incumbrances affecting the entirety, but free from incumbrances affecting any undivided shares, to be held by them on the statutory trust for sale or on the statutory trust for partition.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.1A"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.1A" type="ext"/>(1A)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this section, on the death of a co-owner, any proceedings by or against the co-owner under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.CONVA.S66G.1" remotekey1="REFPTID" service="DOC-ID">subsection (1) </remotelink></ci:content></ci:cite>
+ (whether instituted before or after the commencement of this subsection) survive against or for the benefit of the estate of the deceased co-owner despite, in the case of a joint tenancy, the rule of suvivorship.</text></p>
+<leg:histnote>
+<p><text>[subs (1A)  insrt Act 95 of 1997   s 4 and Sch 2]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where the entirety of the property is vested in trustees or personal representatives, those trustees or personal representatives shall, unless the court otherwise determines, be appointed trustees on either of such statutory trusts, but subject, in the case of personal representatives, to their rights and powers for the purposes of administration.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<l><li id="UCPN.OL.CONVA.S66G.3.A"><lilabel><refpt id="UCPN.OL.CONVA.S66G.3.A" type="ext"/>(a)</lilabel>
+<p><text>Where the entirety of the property is vested at law in co-owners the court may appoint a trust corporation either alone or with one or two individuals (whether or not being co-owners), or two or more individuals, not exceeding four (whether or not including one or more of the co-owners), to be trustees of the property on either of such statutory trusts.</text></p>
+</li>
+<li id="UCPN.OL.CONVA.S66G.3.B"><lilabel><refpt id="UCPN.OL.CONVA.S66G.3.B" type="ext"/>(b)</lilabel>
+<p><text>On such appointment the property shall, subject to the provisions 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.TAN.S78" remotekey1="REFPTID" service="DOC-ID" status="unval">section 78</remotelink></ci:content></ci:cite>
+ of the Trustee Act 1925, vest in the trustees.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (3)  am Act 65 of 1932   s 2(d)]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>If, on an application for the appointment of trustees on the statutory trust for sale, any of the co-owners satisfies the court that partition of the property would be more beneficial for the co-owners interested to the extent of upwards of a moiety in value than sale, the court may, with the consent of the incumbrancers of the entirety (if any), appoint trustees of the property on the statutory trust for partition, or as to part of the property on the statutory trust for sale, and as to part on the statutory trust for partition, but a purchaser shall not be concerned to see or inquire whether any such consent as aforesaid has been given.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<l><li id="UCPN.OL.CONVA.S66G.5.A"><lilabel><refpt id="UCPN.OL.CONVA.S66G.5.A" type="ext"/>(a)</lilabel>
+<p><text>When such trustees for partition have prepared a scheme of partition they shall serve notice in writing thereof on all the co-owners of the age of eighteen years or upwards, and any of such co-owners dissatisfied with the scheme may, within one month after service upon him or her of such notice, apply to the court for a variation of the same.</text></p>
+</li>
+<li id="UCPN.OL.CONVA.S66G.5.B"><lilabel><refpt id="UCPN.OL.CONVA.S66G.5.B" type="ext"/>(b)</lilabel>
+<p><text>Where any of the co-owners is a person under mental disability, the notice shall be served on the person charged by law with the management and care of the property of the person under mental disability or, if there is no person so charged, on such officer of the court as may be prescribed by rules of court.</text></p>
+</li>
+<li id="UCPN.OL.CONVA.S66G.5.C"><lilabel><refpt id="UCPN.OL.CONVA.S66G.5.C" type="ext"/>(c)</lilabel>
+<p><text>Where any of the co-owner is a minor or a person who cannot be found or ascertained, or as to whom it is uncertain whether the co-owner is living or dead, the trustees may act on behalf of the minor or person, and retain land or other property to represent the co-owner's share.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (5)  am Act 60 of 1970   Sch 1  ; Act 17 of 1972   s 6  ; Act 147 of 1997   s 3 and Sch 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In relation to the sale or partition of property held in co-ownership, the court may alter such statutory trusts, and the trust so altered shall be deemed to be the statutory trust in relation to that property.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.7" type="ext"/>(7)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Where property becomes subject to such statutory trust for sale&#x2014;</text></p>
+<l><li id="UCPN.OL.CONVA.S66G.7.A"><lilabel><refpt id="UCPN.OL.CONVA.S66G.7.A" type="ext"/>(a)</lilabel>
+<p><text>in the case of joint tenancy, a sale under the trust shall not of itself effect a severance of that tenancy;</text></p>
+</li>
+<li id="UCPN.OL.CONVA.S66G.7.B"><lilabel><refpt id="UCPN.OL.CONVA.S66G.7.B" type="ext"/>(b)</lilabel>
+<p><text>in any case land shall be deemed to be converted upon the appointment of trustees for sale unless the court otherwise directs.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.8" type="ext"/>(8)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies to property held in co-ownership at the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.COAA30" remotekey1="REFPTID" service="DOC-ID" status="unval">Conveyancing (Amendment) Act 1930</remotelink></ci:content></ci:cite>
+ , and to property which becomes so held after such commencement.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66G.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66G.9" type="ext"/>(9)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section does not apply to property in respect of which a subsisting contract for sale (whether made under an order in a suit for partition, or by on behalf of all the co-owners) is in force at the commencement of the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.COAA30" remotekey1="REFPTID" service="DOC-ID" status="unval">Conveyancing (Amendment) Act 1930</remotelink></ci:content></ci:cite>
+ , if the contract is completed in due course, nor to land in respect of which a suit for partition is pending at such commencement if a decree for a partition or sale is subsequently made in such suit.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 66G  insrt Act 44 of 1930   s 17(1)]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66H"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[300,055] s 66H Trustee on statutory trusts for sale or partition to consult persons interested">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CONVA.S66H" type="ext"/>[300,055]</edpnum><title searchtype="SECT-TITLE">Trustee on statutory trusts for sale or partition to consult persons interested</title><desig searchtype="SECT-NUM"><designum>66H</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>So far as practicable trustees on the statutory trust for sale, or on the statutory trust for partition, shall consult the persons of the age of eighteen years or upwards and not subject to disability for the time being beneficially entitled to the income of the property until sale or partition, and shall, so far as consistent with the general interest of the trust, give effect to the wishes of such persons, or, in the case of dispute, of the majority (according to the value of their combined interests) of such persons, but a purchaser shall not be concerned to see that the provisions of this section have been complied with.</text></p>
+<leg:histnote>
+<p><text>[s 66H  insrt Act 44 of 1930   s 17(1)  ; am Act 60 of 1970   Sch 1]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66I"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[300,060] s 66I Right of co-owners to bid at sale under statutory power of sale">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.CONVA.S66I" type="ext"/>[300,060]</edpnum><title searchtype="SECT-TITLE">Right of co-owners to bid at sale under statutory power of sale</title><desig searchtype="SECT-NUM"><designum>66I</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.CONVA.S66I.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66I.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>On any sale under a statutory trust for sale the court may allow any of the co-owners of the property to purchase whether at auction or otherwise on such terms as to non-payment of deposit, or as to setting off or accounting for the purchase money or any part thereof instead of paying the same, or as to any other matters as to the court seems reasonable.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.CONVA.S66I.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.CONVA.S66I.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A co-owner, with a right to purchase shall not, without the leave of the court, be entitled to act as trustee in connection with the sale.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 66I  insrt Act 44 of 1930   s 17(1)]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

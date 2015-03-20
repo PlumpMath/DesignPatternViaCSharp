@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE CASEDOC PUBLIC "-//LEXISNEXIS//DTD GLP Casedoc v005//EN" "casedoc-norm.dtd">
+<CASEDOC type="practicenote" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="3"><docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>[SC Gen 13] Practice Note SC Gen 13 Supreme Court &#x2014; Search Orders (also known as &#x2018;Anton Piller Orders&#x2019;)</docinfo:doc-heading><docinfo:doc-id>UCPN_PRACNOTE.SGM_UCPN.PN.SC.PN13</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>PRACTICE NOTES</title></heading><docinfo:hierlev role="ancestor"><heading><title>Supreme Court Practice Notes</title></heading><docinfo:hierlev role="me"><heading><edpnum>[SC Gen 13]</edpnum><desig><designum>Practice Note SC Gen 13</designum></desig><title>Supreme Court &#x2014; Search Orders (also known as &#x2018;Anton Piller Orders&#x2019;)</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>130130000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.PRACNOTE"/><docinfo:metaitem name="parent-filename" value="pracnote.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_PRACNOTE.SGM_UCPN.PN.SC.PN13"/><docinfo:metaitem name="parent-filename" value="pracnote1026.xml"/></docinfo:lbu-meta><docinfo:selector>case</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date></docinfo>
+<case:body><heading searchtype="PRACTICE-NOTE"><edpnum><refpt id="UCPN.PN.SC.PN13" type="ext"/>[SC Gen 13]</edpnum>
+<desig><designum>Practice Note SC Gen 13</designum></desig></heading>
+<case:headnote>
+<case:info><case:casename searchtype="PRACTICE-NOTE">Supreme Court &#x2014; Search Orders (also known as &#x2018;Anton Piller Orders&#x2019;)</case:casename></case:info></case:headnote><case:content>
+<case:judgments><case:judgment><case:judgmentbody>
+<pgrp>
+<heading><title>Application</title></heading>
+<p>
+<text>This Practice Note applies to the Court of Appeal and to the Common Law and the Equity Divisions of the Supreme Court.</text></p></pgrp>
+<pgrp>
+<heading><title>Commencement</title></heading>
+<p>
+<text>This Practice Note was issued on 16 June 2010 and commences from 1 July 2010.</text></p></pgrp>
+<pgrp>
+<heading><title>Search Orders</title></heading>
+<p>
+<text>1. This Practice Note supplements 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT25.D3" remotekey1="REFPTID" service="DOC-ID">Division 3</remotelink></ci:content></ci:cite>
+ of Part 25 of the Uniform Civil Procedure Rules 2005 (UCPR) relating to search orders (also known as <emph typestyle="it">Anton Piller</emph> orders, after <emph typestyle="it">Anton Piller KG v Manufacturing Processes Ltd</emph> [1976] Ch 55).</text></p>
+<p>
+<text>2. This Practice Note addresses (among other things) the Court&#x2019;s usual practice relating to the making of a search order and the usual terms of such an order. While a standard practice has benefits, this Practice Note and the example form of order annexed to it do not, and cannot, limit the judicial discretion to make such order as is appropriate in the circumstances of the particular case.</text></p>
+<p>
+<text>3. Words and expressions in this Practice Note that are defined in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R25-18" remotekey1="REFPTID" service="DOC-ID">UCPR rule 25.18</remotelink></ci:content></ci:cite>
+ have the meanings given to them in that rule.</text></p>
+<p>
+<text>4. Ordinarily, a search order is made ex parte and compels the respondent to permit persons specified in the order (&#x2018;search party&#x2019;) to enter premises and to search for, inspect, copy and remove the things described in the order. The order is designed to preserve important evidence pending the hearing and determination of the applicant&#x2019;s claim in a proceeding brought or to be brought by the applicant against the respondent or against another person. The order is an extraordinary remedy in that it is intrusive, potentially disruptive, and made ex parte and prior to judgment.</text></p>
+<p>
+<text>5. An example form of ex parte search order is annexed to this Practice Note (the footnotes and references to footnotes in the example form should not form part of the order as made). The example form may be adapted to meet the circumstances of the particular case. It contains provisions which are aimed at achieving the permissible objectives of a search order, while minimising the potential for disruption or damage to the respondent and for abuse of the Court&#x2019;s process.</text></p>
+<p>
+<text>6. The search party must include an independent solicitor who will supervise the search and a solicitor or solicitors representing the applicant. It may be necessary that it include other persons, such as an independent computer expert, and a person able to identify things being searched for if difficulties of identification may arise. Ordinarily, the search party should not include the applicant or the applicant&#x2019;s directors, officers, employees or partners or any other person associated with the applicant (other than the applicant&#x2019;s solicitor).</text></p>
+<p>
+<text>7. The order should be clear about the maximum number of persons permitted to be in the search party. The number of people in the search party should be as small as is reasonably practicable. The example form contemplates that they will be named in the order. This is desirable but if it is not possible the order should at least give a description of the class of person who will be there (e.g. &#x2018;one solicitor employed by A, B and Co&#x2019;).</text></p>
+<p>
+<text>8. The affidavits in support of an application for a search order should include the following information:</text>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>a description of the things or the categories of things, in relation to which the order is sought;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>the address or location of any premises in relation to which the order is sought and whether they are private or business premises;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>why the order is sought, including why there is a real possibility that the things to be searched for will be destroyed or otherwise made unavailable for use in evidence before the Court unless the order is made;</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>the prejudice, loss or damage likely to be suffered by the applicant if the order is not made;</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>the name, address, firm, and commercial litigation experience of an independent solicitor, who consents to being appointed to serve the order, supervise its execution, and do such other things as the Court considers appropriate; and</text></p></li>
+<li>
+<lilabel>(f)</lilabel>
+<p><text>if the premises to be searched are or include residential premises, whether or not the applicant believes that the only occupant of the premises is likely to be:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>a female; or</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>a child under the age of 18; or</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>any other person (&#x2018;<emph typestyle="it">vulnerable person</emph>&#x2019;) that a reasonable person would consider to be in a position of vulnerability because of that person&#x2019;s age, mental capacity, infirmity or English language ability; or</text></p></li>
+<li>
+<lilabel>(iv)</lilabel>
+<p><text>any combination of (i), (ii) and (iii), and any one or more of such persons.</text></p></li></l></li></l></p>
+<p>
+<text>9. If it is envisaged that specialised computer expertise may be required to search the respondent&#x2019;s computers for documents, or if the respondent&#x2019;s computers are to be imaged (i.e. hard drives are to be copied wholesale, thereby reproducing documents referred to in the order and other documents indiscriminately), special provision will need to be made, and an independent computer specialist will need to be appointed who should be required to give undertakings to the Court.</text></p>
+<p>
+<text>10. The applicant&#x2019;s solicitor must undertake to the Court to pay the reasonable costs and disbursements of the independent solicitor and of any independent computer expert.</text></p>
+<p>
+<text>11. The independent solicitor is an important safeguard against abuse of the order. The independent solicitor must not be a member or employee of the applicant&#x2019;s firm of solicitors. The independent solicitor should be a solicitor experienced in commercial litigation, preferably in the execution of search orders. The NSW Law Society has been requested to maintain a list of solicitors who have indicated willingness to be appointed as an independent solicitor for the purpose of executing search orders, but it is not only persons on such a list who may be appointed. The responsibilities of the independent solicitor are important and ordinarily include the following:</text>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>serve the order, the notice of motion applying for the order (if applicable), the affidavits relied on in support of the application, and the originating process;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>offer to explain, and, if the offer is accepted, explain the terms of the search order to the respondent;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>explain to the respondent that he or she has the right to obtain legal advice;</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>supervise the carrying out of the order;</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>before removing things from the premises, make a list of them, allow the respondent a reasonable opportunity to check the correctness of the list, sign the list, and provide the parties with a copy of the list;</text></p></li>
+<li>
+<lilabel>(f)</lilabel>
+<p><text>take custody of all things removed from the premises until further order of the Court;</text></p></li>
+<li>
+<lilabel>(g)</lilabel>
+<p><text>if the independent solicitor considers it necessary to remove a computer from the premises for safekeeping or for the purpose of copying its contents electronically or printing out information in documentary form, remove the computer from the premises for that purpose, and return the computer to the premises within any time prescribed by the order together with a list of any documents that have been copied or printed out;</text></p></li>
+<li>
+<lilabel>(h)</lilabel>
+<p><text>submit a written report to the Court within the time prescribed by the order as to the execution of the order; and</text></p></li>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>attend the hearing on the return day of the application, and have available to be brought to the Court all things that were removed from the premises. On the return day the independent solicitor may be required to release material in his or her custody which has been removed from the respondent&#x2019;s premises or to provide information to the Court, and may raise any issue before the Court as to execution of the order.</text></p></li></l></p>
+<p>
+<text>12. Ordinarily, the applicant is not permitted, without the leave of the Court, to inspect things removed from the premises or copies of them, or to be given any information about them by members of the search party.</text></p>
+<p>
+<text>13. Ordinarily, a search order should be served between 9:00am and 2:00pm on a business day in order to permit the respondent more readily to obtain legal advice. However, there may be circumstances in which such a restriction is not appropriate.</text></p>
+<p>
+<text>14. A search order must not be executed at the same time as the execution of a search warrant by the police or by a regulatory authority.</text></p>
+<p>
+<text>15. If the premises are or include residential premises and the applicant is aware that when service of the order is effected the only occupant of the residential premises is likely to be any one or more of a female, a child under the age of 18, or a vulnerable person, the Court will give consideration to whether:</text>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>if the occupants are likely to include a female or child, the independent solicitor should be a woman or the search party should otherwise include a woman; and</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>if the occupants are likely to include a vulnerable person, the search party should include a person capable of addressing the relevant vulnerability.</text></p></li></l></p>
+<p>
+<text>16. Any period during which the respondent is to be restrained from informing any other person (other than for the purposes of obtaining legal advice) of the existence of the search order should be as short as possible and not extend beyond 4:30pm on the return day.</text></p>
+<p>
+<text>17. At the <emph typestyle="it">inter partes</emph> hearing of the application on the return day, the Court will consider the following issues:-</text>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>what is to happen to any things removed from the premises or to any copies which have been made;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>how any commercial confidentiality of the respondent is to be maintained;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>any claim of privilege by the respondent;</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>any application by a party; and</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>any issue raised by the independent solicitor.</text></p></li></l></p>
+<p>
+<text>18. Appropriate undertakings to the Court will be required of the applicant, the applicant&#x2019;s solicitor and the independent solicitor, as conditions of the making of the search order. The undertakings required of the applicant will normally include the Court&#x2019;s usual undertaking as to damages. The applicant&#x2019;s solicitor&#x2019;s undertaking includes an undertaking not to disclose to the applicant any information that the solicitor has acquired during or as a result of execution of the search order, without the leave of the Court. Release from this undertaking in whole or in part may be sought on the return day.</text></p>
+<p>
+<text>19. If it is demonstrated that the applicant has or may have insufficient assets within the jurisdiction of the Court to provide substance for the usual undertaking as to damages, the applicant may be required to provide security for the due performance of that undertaking. The security may, for example, take the form of a bank&#x2019;s irrevocable undertaking to pay or a payment into Court. The example form of search order contains provision for an irrevocable undertaking.</text></p>
+<p>
+<text>20. An applicant <emph typestyle="it">ex parte</emph> for a search order is under a duty to the Court to make full and frank disclosure of all material facts to the Court. This includes disclosure of possible defences known to the applicant and of any financial information which may cast doubt on the applicant&#x2019;s ability to meet the usual undertaking as to damages from assets within Australia.</text></p>
+<p>
+<text>21. The order to be served should be endorsed with a notice which meets the requirements of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R40-7" remotekey1="REFPTID" service="DOC-ID">UCPR rule 40.7</remotelink></ci:content></ci:cite>
+.</text></p>
+<p>
+<text>22. The example form of search order refers to privilege in paragraphs 21 and 24. Section 128A of the Evidence Act 1995 (Cth) and Evidence Act 1995 (NSW) govern objection to compliance on the self-incrimination ground in relation to a search order. In particular, subsections (3)ff of s 128A govern the procedure to be followed after objection is taken in accordance with paragraphs 21 and 24 of the example form of search order annexed to this Practice Note.</text></p></pgrp></case:judgmentbody></case:judgment></case:judgments>
+<case:appendix><sigblock>
+<p><text>
+<date>16 June 2010</date><person><name.text>J J Spigelman AC</name.text>
+<role>Chief Justice of New South Wales</role></person></text></p></sigblock>
+<pgrp>
+<heading><title>Amendment history</title></heading>
+<p>
+<text>16 June 2010: This Practice Note replaces the previous version of SC Gen 13 that was issued and commenced on 14 June 2006.</text></p>
+<p>
+<blockquote>
+<p indent="none"><text align="center"><emph typestyle="bf">Example Form of Search Order</emph></text></p>
+<p indent="none"><text align="center">[Title of Proceeding]</text></p>
+<p indent="none"><text align="center"><emph typestyle="bf">PENAL NOTICE</emph></text></p>
+<p indent="none"><text><emph typestyle="bf">TO:</emph>&#x2003;[<emph typestyle="it">name of person against whom the order is made</emph>]</text></p>
+<p indent="none"><text><emph typestyle="bf">IF YOU (BEING THE PERSON BOUND BY THIS ORDER):</emph></text></p>
+<p i="1.6" indent="1st-line"><text><emph typestyle="bf">(A)&#x2002;REFUSE OR NEGLECT TO DO ANY ACT WITHIN THE TIME SPECIFIED IN THE ORDER FOR THE DOING OF THE ACT; OR</emph></text></p>
+<p i="1.6" indent="1st-line"><text><emph typestyle="bf">(B)&#x2002;DISOBEY THE ORDER BY DOING AN ACT WHICH THE ORDER REQUIRES YOU TO ABSTAIN FROM DOING,</emph></text></p>
+<p indent="none"><text><emph typestyle="bf">YOU WILL BE LIABLE TO IMPRISONMENT, SEQUESTRATION OF PROPERTY OR OTHER PUNISHMENT.</emph></text></p>
+<p indent="none"><text><emph typestyle="bf">ANY OTHER PERSON WHO KNOWS OF THIS ORDER AND DOES ANYTHING WHICH HELPS OR PERMITS YOU TO BREACH THE TERMS OF THIS ORDER MAY BE SIMILARLY PUNISHED.</emph></text></p>
+<p indent="none"><text><emph typestyle="bf">TO:</emph>&#x2003;[<emph typestyle="it">name of person against whom the order is made</emph>]</text></p>
+<p indent="none"><text>This is a &#x2018;<emph typestyle="bf">search order</emph>&#x2019; made against you on [<emph typestyle="it">insert date</emph>] by Justice [<emph typestyle="it">insert name of Judge</emph>] at a hearing without notice to you after the Court was given the undertakings set out in Schedule B to this order and after the Court read the affidavits listed in Schedule C to this order.</text></p>
+<p indent="none"><text><emph typestyle="bf">THE COURT ORDERS:</emph></text></p></blockquote></p></pgrp>
+<pgrp>
+<heading><title>INTRODUCTION</title></heading>
+<p>
+<l>
+<li><lilabel>1.</lilabel>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>the application for this order is made returnable immediately.</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>the time for service of the application, supporting affidavits and originating process is abridged and service is to be effected by [<emph typestyle="it">insert time and date</emph>].</text></p></li></l></li>
+<li>
+<lilabel>2.</lilabel>
+<p><text>Subject to the next paragraph, this order has effect up to and including [<emph typestyle="it">insert date</emph>] (&#x2018;<emph typestyle="bf">the return day</emph>&#x2019;). On the return day at [<emph typestyle="it">insert time</emph>] am/pm there will be a further hearing in respect of this order before the Court.</text></p></li>
+<li>
+<lilabel>3.</lilabel>
+<p><text>You may apply to the Court at any time to vary or discharge this order; including, if necessary, by telephone to the Duty Judge (phone No&#x2009;9230&#x2009;8025).</text></p></li>
+<li>
+<lilabel>4.</lilabel>
+<p><text>This order may be served only between [<emph typestyle="it">insert time</emph>] am/pm and [<emph typestyle="it">insert time</emph>] am/pm [on a business day].
+<fnr fnrtoken="UCPN.PN.SC.PN13.FTN1-R" fntoken="UCPN.PN.SC.PN13.FTN1">1</fnr></text></p></li>
+<li>
+<lilabel>5.</lilabel>
+<p><text>In this order:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>&#x2018;<emph typestyle="bf">applicant </emph>&#x2019; means the person who applied for this order, and if there is more than one applicant, includes all the applicants.</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>&#x2018;<emph typestyle="bf">independent computer expert</emph>&#x2019; means the person (if any) identified as the independent computer expert in the search party referred to in Schedule A to this order.</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>&#x2018;<emph typestyle="bf">independent solicitor</emph>&#x2019; means the person identified as the independent solicitor in the search party referred to in Schedule A to this order.</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>&#x2018;<emph typestyle="bf">listed thing</emph>&#x2019; means any thing referred to in Schedule A to this order.</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>&#x2018;<emph typestyle="bf">premises</emph>&#x2019; means the premises and any of the premises identified in Schedule A to this order, including any vehicles and vessels that are under the respondent&#x2019;s control on or about the premises or that are otherwise identified in Schedule A.</text></p></li>
+<li>
+<lilabel>(f)</lilabel>
+<p><text>&#x2018;<emph typestyle="bf">search party</emph>&#x2019; means the persons identified or described as constituting the search party in Schedule A to this order.</text></p></li>
+<li>
+<lilabel>(g)</lilabel>
+<p><text>&#x2018;<emph typestyle="bf">thing</emph>&#x2019; includes a document.</text></p></li>
+<li>
+<lilabel>(h)</lilabel>
+<p><text>&#x2018;<emph typestyle="bf">you</emph>&#x2019;, where there is more than one of you, includes all of you and includes you if you are a corporation.</text></p></li>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>any requirement that something be done in your presence means:</text></p>
+<l>
+<li>
+<lilabel>(A)</lilabel>
+<p><text>in the presence of you or of one of the persons described in (6) below; or</text></p></li>
+<li>
+<lilabel>(B)</lilabel>
+<p><text>if there is more than one of you, in the presence of each of you, or, in relation to each of you, in the presence of one of the persons described in (6) below.</text></p></li></l></li></l></li>
+<li>
+<lilabel>6.</lilabel>
+<p><text>This order must be complied with by you by:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>yourself; or</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>any director, officer, partner, employee or agent of yourself; or</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>any other person having responsible control of the premises.</text></p></li></l></li>
+<li>
+<lilabel>7.</lilabel>
+<p><text>This order must be served by, and be executed under the supervision of, the independent solicitor.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>ENTRY, SEARCH AND REMOVAL</title></heading>
+<p>
+<l>
+<li>
+<lilabel>8.</lilabel>
+<p><text>Subject to paragraphs 10 to 20 below, upon service of this order you must permit members of the search party to enter the premises so that they can carry out the search and other activities referred to in this order.</text></p></li>
+<li>
+<lilabel>9.</lilabel>
+<p><text>Having permitted members of the search party to enter the premises, you must:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>permit them to leave and re-enter the premises on the same and the following day until the search and other activities referred to in this order are complete;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>permit them to search for and inspect the listed things and to make or obtain a copy, photograph, film, sample, test or other record of the listed things;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>disclose to them the whereabouts of all the listed things in the respondent&#x2019;s possession, custody or power, whether at the premises or otherwise;</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>disclose to them the whereabouts of all computers, computer disks and electronic information storage devices or systems at the premises in which any documents among the listed things are or may be stored, located or recorded and cause and permit those documents to be printed out;</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>do all things necessary to enable them to access the listed things, including opening or providing keys to locks and enabling them to access and operate computers and providing them with all necessary passwords;</text></p></li>
+<li>
+<lilabel>(f)</lilabel>
+<p><text>permit the independent solicitor to remove from the premises into the independent solicitor&#x2019;s custody:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>the listed things or things which reasonably appear to the independent solicitor to be the listed things and any things the subject of dispute as to whether they are listed things; and</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>the copies, photographs, films, samples, tests, other records and printed out documents referred to above; and</text></p></li></l></li>
+<li>
+<lilabel>(g)</lilabel>
+<p><text>permit the independent computer expert (if there is one) to search any computer and make a copy or digital copy of any computer hard drive and permit the independent computer expert (if any) or the independent solicitor to remove any computer hard drive and computer from the premises as set out in paragraphs 20 and 21 below.</text></p></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>RESTRICTIONS ON ENTRY, SEARCH AND REMOVAL</title></heading>
+<p>
+<l>
+<li>
+<lilabel>10.</lilabel>
+<p><text>This order may not be executed at the same time as a search warrant (or similar process) is executed by the police or by a regulatory authority.</text></p></li>
+<li>
+<lilabel>11.</lilabel>
+<p><text>You are not required to permit anyone to enter the premises until:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>the independent solicitor serves you with copies of this order and any affidavits referred to in Schedule C (confidential exhibits, if any, need not be served until further order of the Court); and</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>you are given an opportunity to read this order and, if you so request, the independent solicitor explains the terms of this order to you.</text></p></li></l></li>
+<li>
+<lilabel>12.</lilabel>
+<p><text>Before permitting entry to the premises by anyone other than the independent solicitor, you, for a time (not exceeding two hours from the time of service or such longer period as the independent solicitor may permit):</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>may seek legal advice;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>may ask the Court to vary or discharge this order;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>(provided you are not a corporation) may gather together any things which you believe may tend to incriminate you or make you liable to a civil penalty and hand them to the independent solicitor in (if you wish) a sealed envelope or container; and</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>may gather together any documents that passed between you and your lawyers for the purpose of obtaining legal advice or that are otherwise subject to legal professional privilege or client legal privilege, and hand them to the independent solicitor in (if you wish) a sealed envelope or container.</text></p></li></l></li>
+<li>
+<lilabel>13.</lilabel>
+<p><text>Subject to paragraph 22 below, the independent solicitor must not inspect or permit to be inspected by anyone, including the applicant and the applicant&#x2019;s solicitors, any thing handed to the independent solicitor in accordance with subparagraphs 12(c) and (d) above and the independent solicitor must deliver it to the Court at or prior to the hearing on the return day.</text></p></li>
+<li>
+<lilabel>14.</lilabel>
+<p><text>During any period referred to in para 12 above, you must:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>inform and keep the independent solicitor informed of the steps being taken;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>permit the independent solicitor to enter the premises but not to start the search;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>not disturb or remove any listed things; and</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>comply with the terms of paragraphs 25 and 26 below.</text></p></li></l></li>
+<li>
+<lilabel>15.</lilabel>
+<p><text>Any thing the subject of a dispute as to whether it is a listed thing must promptly be handed by you to the independent solicitor for safekeeping pending resolution of the dispute or further order of the Court.</text></p></li>
+<li>
+<lilabel>16.</lilabel>
+<p><text>Before removing any listed things from the premises (other than things referred to in the immediately preceding paragraph), the independent solicitor must supply a list of them to you, give you a reasonable time to check the correctness of the list, and give you and the applicant&#x2019;s solicitors a copy of the list signed by the independent solicitor.</text></p></li>
+<li>
+<lilabel>17.</lilabel>
+<p><text>The premises must not be searched, and things must not be removed from the premises, except in the presence of you or of a person who appears to the independent solicitor to be your director, officer, partner, employee, agent or other person acting on your behalf or on your instructions.</text></p></li>
+<li>
+<lilabel>18.</lilabel>
+<p><text>If the independent solicitor is satisfied that full compliance with the immediately preceding paragraph is not reasonably practicable, the independent solicitor may permit the search to proceed and the listed things to be removed without full compliance.</text></p></li>
+<li>
+<lilabel>19.</lilabel>
+<p><text>The applicant&#x2019;s solicitors and the independent solicitor must not allow the applicant in person to inspect or have copies of any thing removed from the premises nor communicate to the applicant information about its contents or about anything observed at the premises until 4:30pm on the return day or other time fixed by further order of the Court.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>COMPUTERS</title></heading>
+<p>
+<l>
+<li><lilabel>20.</lilabel>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>If it is expected that a computer will be searched, the search party must include a computer expert who is independent of the applicant and of the applicant&#x2019;s solicitors (&#x2018;<emph typestyle="bf">the independent computer expert</emph>&#x2019;).</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>Any search of a computer must be carried out only by the independent computer expert.</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>The independent computer expert may make a copy or digital copy of the computer hard drive and remove that copy or digital copy from the premises.</text></p></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>The independent computer expert may search the computer or the copy or digital copy of the computer hard drive at the premises and/or away from the premises for listed things and may copy the listed things electronically or in hard copy or both.</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>The independent computer expert must as soon as practicable and, in any event, prior to the hearing on the return day, deliver the copy or digital copy of the computer hard drive and all electronic and hard copies of listed things to the independent solicitor, together with a report of what the independent computer expert has done including a list of such electronic and hard copies.</text></p></li>
+<li>
+<lilabel>(f)</lilabel>
+<p><text>The independent solicitor must, at or prior to the hearing on the return day, deliver to the Court all things received from the independent computer expert and serve a copy of the latter&#x2019;s report on the parties.</text></p></li>
+<li>
+<lilabel>(g)</lilabel>
+<p><text>If no independent computer expert has been appointed, but the independent solicitor considers it necessary to remove a computer from the premises for safekeeping or for the purpose of copying its contents electronically and printing out information in documentary form, the independent solicitor may remove the computer from the premises for that purpose and cause that purpose to be achieved.</text></p></li></l></li>
+<li><lilabel>21.</lilabel>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>This paragraph (21) applies if you are not a corporation and you wish to object to complying with paragraph 20 on the grounds that some or all of the information required to be disclosed may tend to prove that you:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>have committed an offence against or arising under an Australian law or a law of a foreign country; or</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>are liable to a civil penalty.</text></p></li></l></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>This paragraph (21) applies if you are a corporation and all of the persons who are able to comply with paragraph 20 on your behalf and with whom you have been able to communicate, wish to object to your complying with paragraph 20 on the grounds that some or all of the information required to be disclosed may tend to prove that they respectively:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>have committed an offence against or arising under an Australian law or a law of a foreign country; or</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>are liable to a civil penalty.</text></p></li></l></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>You must:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>disclose so much of the information required to be disclosed to which no objection is taken; and</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>prepare an affidavit containing so much of the information required to be disclosed to which objection is taken, and deliver it to the Court in a sealed envelope; and</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>file and serve on each other party a separate affidavit setting out the basis of the objection.</text></p></li></l></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>INSPECTION</title></heading>
+<p>
+<l>
+<li>
+<lilabel>22.</lilabel>
+<p><text>Prior to the return day, you or your solicitor or representative shall be entitled, in the presence of the independent solicitor, to inspect any thing removed from the premises and to:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>make copies of the same; and</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>provide the independent solicitor with a signed list of things which are claimed to be privileged or confidential and which you claim ought not to be inspected by the applicant.</text></p></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>PROVISION OF INFORMATION</title></heading>
+<p>
+<l>
+<li>
+<lilabel>23.</lilabel>
+<p><text>Subject to paragraph 24 below, you must:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>at or before the further hearing on the return day (or within such further time as the Court may allow) to the best of your ability inform the applicant in writing as to:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>the location of the listed things;</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>the name and address of everyone who has supplied you, or offered to supply you, with any listed thing;</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>the name and address of every person to whom you have supplied, or offered to supply, any listed thing; and</text></p></li>
+<li>
+<lilabel>(iv)</lilabel>
+<p><text>details of the dates and quantities of every such supply and offer.</text></p></li></l></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>within [&#x2003;&#x2003;&#x2003;&#x2003;] working days after being served with this order, make and serve on the applicant an affidavit setting out the above information.</text></p></li></l></li>
+<li><lilabel>24</lilabel>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>This paragraph (24) applies if you are not a corporation and you wish to object to complying with paragraph 23 on the grounds that some or all of the information required to be disclosed may tend to prove that you:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>	have committed an offence against or arising under an Australian law or a law of a foreign country; or</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>are liable to a civil penalty.</text></p></li></l></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>This paragraph (24) also applies if you are a corporation and all of the persons who are able to comply with paragraph 23 on your behalf and with whom you have been able to communicate, wish to object to your complying with paragraph 23 on the grounds that some or all of the information required to be disclosed may tend to prove that they respectively:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>have committed an offence against or arising under an Australian law or a law of a foreign country; or</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>are liable to a civil penalty.</text></p></li></l></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>You must:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>disclose so much of the information required to be disclosed to which no objection is taken; and</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>prepare an affidavit containing so much of the information required to be disclosed to which objection is taken, and deliver it to the Court in a sealed envelope; and</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>file and serve on each other party a separate affidavit setting out the basis of the objection.</text></p></li></l></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>PROHIBITED ACTS</title></heading>
+<p>
+<l>
+<li>
+<lilabel>25.</lilabel>
+<p><text>Except for the sole purpose of obtaining legal advice, you must not, until 4:30pm on the return day, directly or indirectly inform any person of this proceeding or of the contents of this order, or tell any person that a proceeding has been or may be brought against you by the applicant.</text></p></li>
+<li>
+<lilabel>26.</lilabel>
+<p><text>Until 4:30pm on the return day you must not destroy, tamper with, cancel or part with possession, power, custody or control of the listed things otherwise than in accordance with the terms of this order or further order of the Court.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>COSTS</title></heading>
+<p>
+<l>
+<li>
+<lilabel>27.</lilabel>
+<p><text>The costs of this application are reserved to the Judge hearing the application on the return day.</text></p></li></l>
+<blockquote>
+<p indent="none"><text align="center"><emph typestyle="bf">SCHEDULE A</emph></text></p></blockquote></p>
+<pgrp>
+<heading><title>Premises</title></heading>
+<p>
+<text>The premises located at [<emph typestyle="it">insert address or addresses</emph>] including any vehicle or vehicles under the respondent&#x2019;s control on or about those premises.</text></p></pgrp>
+<pgrp>
+<heading><title>Listed Things</title></heading>
+<p>
+<text>1.&#x2002;</text></p>
+<p>
+<text>2.&#x2002;</text></p>
+<p>
+<text>3.&#x2002;</text></p></pgrp>
+<pgrp>
+<heading><title>Search Party</title></heading>
+<p>
+<l>
+<li>
+<lilabel>1.</lilabel>
+<p><text>The independent solicitor: [<emph typestyle="it">insert name and address</emph>]</text></p></li>
+<li>
+<lilabel>2.</lilabel>
+<p><text>The applicant&#x2019;s solicitor or solicitors:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>[<emph typestyle="it">insert name and address</emph>] [or description eg a partner or employed solicitor of A, B and Co].</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>[<emph typestyle="it">insert name and address</emph>] [or description eg a partner or employed solicitor of A, B and Co].</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>[<emph typestyle="it">insert name and address</emph>] [or description eg a partner or employed solicitor of A, B and Co].</text></p></li></l></li>
+<li>
+<lilabel>3.</lilabel>
+<p><text>Other members of the search party:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>[<emph typestyle="it">insert name and address</emph>] in the capacity of [<emph typestyle="it">eg an independent computer expert</emph>]</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>[<emph typestyle="it">insert name and address</emph>] in the capacity of [<emph typestyle="it">insert capacity</emph>]</text></p></li></l></li></l></p></pgrp>
+<p>
+<blockquote>
+<p indent="none"><text align="center"><emph typestyle="bf">SCHEDULE B</emph></text></p>
+<p indent="none"><text align="center"><emph typestyle="bf">UNDERTAKINGS GIVEN TO THE COURT</emph></text></p></blockquote></p></pgrp>
+<pgrp>
+<heading><title>Undertakings given to the Court by the applicant:</title></heading>
+<p>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>The applicant undertakes to submit to such order (if any) as the Court may consider to be just for the payment of compensation (to be assessed by the Court or as it may direct) to any person (whether or not a party) affected by the operation of the order.</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>The applicant will not, without leave of the Court, use any information, document or thing obtained as a result of the execution of this order for the purpose of any civil or criminal proceeding, either within or outside Australia, other than this proceeding.</text></p></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text>The applicant will not inform any other person of the existence of this proceeding except for the purposes of this proceeding until after 4:30pm on the return day.</text></p></li>
+<li>
+<lilabel>(4)</lilabel>
+<p><text>If the applicant has not already done so, as soon as practicable the applicant will file a notice of motion for hearing on the return day and an originating process [in the form of the draft produced to the Court].</text></p></li>
+<li>
+<lilabel>[(5)</lilabel>
+<p><text>The applicant will insure the things removed from the premises against loss or damage for an amount that reasonably appears to the applicant to be their full value.]
+<fnr fnrtoken="UCPN.PN.SC.PN13.FTN2-R" fntoken="UCPN.PN.SC.PN13.FTN2">2</fnr></text></p></li>
+<li>
+<lilabel>[(6)</lilabel>
+<p><text>The applicant will:
+<fnr fnrtoken="UCPN.PN.SC.PN13.FTN3-R" fntoken="UCPN.PN.SC.PN13.FTN3">3</fnr></text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>on or before [<emph typestyle="it">insert date</emph>] cause a written irrevocable undertaking to pay in the sum of $[<emph typestyle="it">insert amount</emph>] to be issued from a bank with a place of business within Australia, in respect of any order the Court may make referred to in the undertaking as to damages contained in paragraph (1) above; and</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>immediately upon issue of the irrevocable undertaking to pay, cause a copy of it to be served on the respondent.]</text></p></li></l></li></l></p></pgrp>
+<pgrp>
+<heading><title>Undertakings given to the Court by the applicant's solicitor</title></heading>
+<p>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>The applicant&#x2019;s solicitor will pay the reasonable costs and disbursements of the independent solicitor and of any independent computer expert.</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>The applicant&#x2019;s solicitor will provide to the independent solicitor for service on the respondent copies of the following documents:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>this order;</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>the application for this order for hearing on the return day;</text></p></li>
+<li>
+<lilabel>(c)</lilabel>
+<p><text>the following material in so far as it was relied on by the applicant at the hearing when the order was made:</text></p>
+<l>
+<li>
+<lilabel>(i)</lilabel>
+<p><text>affidavits (or draft affidavits);</text></p></li>
+<li>
+<lilabel>(ii)</lilabel>
+<p><text>exhibits capable of being copied (other than confidential exhibits);</text></p></li>
+<li>
+<lilabel>(iii)</lilabel>
+<p><text>any written submission; and</text></p></li>
+<li>
+<lilabel>(iv)</lilabel>
+<p><text>any other document that was provided to the Court.</text></p></li></l></li>
+<li>
+<lilabel>(d)</lilabel>
+<p><text>a transcript, or, if none is available, a note, of any exclusively oral allegation of fact that was made and of any exclusively oral submission that was put, to the Court; and</text></p></li>
+<li>
+<lilabel>(e)</lilabel>
+<p><text>the originating process, or, if none was filed, any draft originating process produced to the Court.</text></p></li></l></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text>The applicant's solicitor will answer to the best of his or her ability any question as to whether a particular thing is a listed thing.</text></p></li>
+<li>
+<lilabel>(4)</lilabel>
+<p><text>The applicant&#x2019;s solicitor will use his or her best endeavours to act in conformity with the order and to ensure that the order is executed in a courteous and orderly manner and in a manner that minimises disruption to the respondent.</text></p></li>
+<li>
+<lilabel>(5)</lilabel>
+<p><text>The applicant&#x2019;s solicitor will not, without leave of the Court, use any information, document or thing obtained as a result of the execution of this order for the purpose of any civil or criminal proceeding, either within or outside Australia, other than this proceeding.</text></p></li>
+<li>
+<lilabel>(6)</lilabel>
+<p><text>The applicant&#x2019;s solicitor will not inform any other person of the existence of this proceeding except for the purposes of this proceeding until after 4:30pm on the return day.</text></p></li>
+<li>
+<lilabel>(7)</lilabel>
+<p><text>The applicant&#x2019;s solicitor will not disclose to the applicant any information that the solicitor acquires during or as a result of execution of the search order, without the leave of the Court.</text></p></li>
+<li>
+<lilabel>(8)</lilabel>
+<p><text>The applicant&#x2019;s solicitor will use best endeavours to follow all directions of the independent solicitor.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Undertakings given to the Court by the independent solicitor</title></heading>
+<p>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>The independent solicitor will use his or her best endeavours to serve the respondent with this order and the other documents referred to in undertaking (2) of the above undertakings by the applicant&#x2019;s solicitor or solicitors.</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>Before entering the premises, the independent solicitor will:</text></p>
+<l>
+<li>
+<lilabel>(a)</lilabel>
+<p><text>offer to explain the terms and effect of the search order to the person served with the order and, if the offer is accepted, do so; and</text></p></li>
+<li>
+<lilabel>(b)</lilabel>
+<p><text>inform the respondent of his or her right to take legal advice.</text></p></li></l></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text>Subject to undertaking (4) below, the independent solicitor will retain custody of all things removed from the premises by the independent solicitor pursuant to this order until delivery to the Court or further order of the Court.</text></p></li>
+<li>
+<lilabel>(4)</lilabel>
+<p><text>At or before the hearing on the return day, the independent solicitor will provide a written report on the carrying out of the order to the Court and provide a copy to the applicant's solicitors and to the respondent or the respondent&#x2019;s solicitors. The report will attach a copy of any list made pursuant to the order and a copy of any report received from an independent computer expert.</text></p></li>
+<li>
+<lilabel>(5)</lilabel>
+<p><text>The independent solicitor will use best endeavours to ensure that members of the search party act in conformity with the order and that the order is executed in a courteous and orderly manner and in a manner that minimises disruption to the respondent, and will give such reasonable directions to other members of the search party as are necessary or convenient for the execution of the order.</text></p></li>
+<li>
+<lilabel>(6)</lilabel>
+<p><text>The independent solicitor will not, without leave of the Court, use any information, document or thing obtained as a result of the execution of this order for the purpose of any civil or criminal proceeding, either within or outside Australia, other than this proceeding.</text></p></li>
+<li>
+<lilabel>(7)</lilabel>
+<p><text>The independent solicitor will not inform any other person of the existence of this proceeding except for the purposes of this proceeding until after 4:30pm on the return day.</text></p></li></l></p></pgrp>
+<pgrp>
+<heading><title>Undertakings given to the Court by the independent computer expert</title></heading>
+<p>
+<l>
+<li>
+<lilabel>(1)</lilabel>
+<p><text>The independent computer expert will use his or her best endeavours to act in conformity with the order and to ensure that the order, so far as it concerns the independent computer expert, is executed in a courteous and orderly manner and in a manner that minimises disruption to the respondent.</text></p></li>
+<li>
+<lilabel>(2)</lilabel>
+<p><text>The independent computer expert will not, without leave of the Court, use any information, document or thing obtained as a result of the execution of this order for the purpose of any civil or criminal proceeding, either within or outside Australia, other than this proceeding.</text></p></li>
+<li>
+<lilabel>(3)</lilabel>
+<p><text>The independent computer expert will not inform any other person of the existence of this proceeding except for the purposes of this proceeding until after 4:30pm on the return day.</text></p></li>
+<li>
+<lilabel>(4)</lilabel>
+<p><text>The independent computer expert will use best endeavours to follow all directions of the independent solicitor.</text></p></li></l></p>
+<p>
+<blockquote>
+<p indent="none"><text align="center"><emph typestyle="bf">SCHEDULE C</emph></text></p>
+<p indent="none"><text align="center"><emph typestyle="bf">AFFIDAVITS RELIED ON</emph></text></p></blockquote>
+<table frame="none" pgwide="1">
+<tgroup align="left" cols="3" colsep="1" rowsep="1">
+<colspec colname="col1" colsep="0" colwidth="10*" rowsep="0"/>
+<colspec colname="col2" colsep="0" colwidth="218*" rowsep="0"/>
+<colspec colname="col3" colsep="0" colwidth="300*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry align="center" colname="col1" colsep="0" morerows="0" nameend="col2" namest="col1" rowsep="0"><emph typestyle="bf">Name of Deponent</emph></entry>
+<entry align="center" colsep="0" morerows="0" rowsep="0"><emph typestyle="bf">Date affidavit made</emph></entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">(1)</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">(2)</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0">(3)</entry>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col2" colsep="0" morerows="0" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0"><emph typestyle="bf">NAME AND ADDRESS OF APPLICANT'S SOLICITORS</emph></entry>
+</row>
+<row rowsep="0"><entry colname="col1" colsep="0" morerows="0" nameend="col2" namest="col1" rowsep="0"/>
+<entry colname="col3" colsep="0" morerows="0" rowsep="0"/>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" nameend="col3" namest="col1" rowsep="0">The Applicant&#x2019;s solicitors are: [<emph typestyle="it">Insert name, address, reference, fax and telephone numbers both in and out office hours</emph>].</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</p></pgrp>
+<footnotegrp><footnote fnrtokens="UCPN.PN.SC.PN13.FTN1-R" fntoken="UCPN.PN.SC.PN13.FTN1" type="default"><fnlabel>1</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN13.FTN1" type="ext"/>
+<text>Normally the order should be served between 9:00am and 2:00pm on a business day to enable the respondent more readily to obtain legal advice.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.PN.SC.PN13.FTN2-R" fntoken="UCPN.PN.SC.PN13.FTN2" type="default"><fnlabel>2</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN13.FTN2" type="ext"/>
+<text>Depending on the nature of the things likely to be removed and their likely value, and the likely particular risks of their being lost or damaged, this undertaking or a more elaborate one may be required.</text></p></fnbody></footnote>
+<footnote fnrtokens="UCPN.PN.SC.PN13.FTN3-R" fntoken="UCPN.PN.SC.PN13.FTN3" type="default"><fnlabel>3</fnlabel><fnbody>
+<p><refpt id="UCPN.PN.SC.PN13.FTN3" type="ext"/>
+<text>See Practice Note paragraph 19.</text></p></fnbody></footnote></footnotegrp>
+</case:appendix>
+</case:content>
+</case:body></CASEDOC>

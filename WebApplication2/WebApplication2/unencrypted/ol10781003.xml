@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>PART 2 VEXATIOUS PROCEEDINGS ORDERS [ss 8&#x2013;11]</docinfo:doc-heading><docinfo:doc-id>UCPN.OL.VPAN08.PT2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Other Legislation</title></heading><docinfo:hierlev role="ancestor"><heading><title>VEXATIOUS PROCEEDINGS ACT 2008 (NSW)</title></heading><docinfo:hierlev role="me"><heading><title>PART 2 VEXATIOUS PROCEEDINGS ORDERS [ss 8&#x2013;11]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>140390010</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.OL"/><docinfo:metaitem name="parent-filename" value="ol.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_OL.SGM_UCPN.OL.VPAN08"/><docinfo:metaitem name="parent-filename" value="ol1078.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 80, 2008</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">VEXATIOUS PROCEEDINGS ACT 2008 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.OL.VPAN08.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody>
+<leg:level id="UCPN.OL.VPAN08.PT2"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 2 VEXATIOUS PROCEEDINGS ORDERS [ss 8&#x2013;11]">
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.OL.VPAN08.PT2" type="ext"/>PART 2</designum></desig><title searchtype="PART-TITLE">VEXATIOUS PROCEEDINGS ORDERS [ss 8&#x2013;11]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.VPAN08.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[440,050] s 8 Making of vexatious proceedings order">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.VPAN08.S8" type="ext"/>[440,050]</edpnum><title searchtype="SECT-TITLE">Making of vexatious proceedings order</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.VPAN08.S8.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.1" type="ext"/>(1)</designum></desig><title>When orders may be made</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court may make an order under this section (a <defterm><emph typestyle="bf">vexatious proceedings order</emph></defterm>) in relation to a person if the court is satisfied that:</text></p>
+<l><li id="UCPN.OL.VPAN08.S8.1.A"><lilabel><refpt id="UCPN.OL.VPAN08.S8.1.A" type="ext"/>(a)</lilabel>
+<p><text>the person has frequently instituted or conducted vexatious proceedings in Australia, or</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.1.B"><lilabel><refpt id="UCPN.OL.VPAN08.S8.1.B" type="ext"/>(b)</lilabel>
+<p><text>the person, acting in concert with a person who is subject to a vexatious proceedings order or who is referred to in paragraph (a), has instituted or conducted vexatious proceedings in Australia.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S8.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>For the purposes of subsection (1), an authorised court may have regard to:</text></p>
+<l><li id="UCPN.OL.VPAN08.S8.2.A"><lilabel><refpt id="UCPN.OL.VPAN08.S8.2.A" type="ext"/>(a)</lilabel>
+<p><text>proceedings instituted or conducted in any Australian court or tribunal (including proceedings instituted or conducted before the commencement of this section), and</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.2.B"><lilabel><refpt id="UCPN.OL.VPAN08.S8.2.B" type="ext"/>(b)</lilabel>
+<p><text>orders made by any Australian court or tribunal (including orders made before the commencement of this section).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S8.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court must not make a vexatious proceedings order in relation to a person without hearing the person or giving the person an opportunity of being heard.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S8.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.4" type="ext"/>(4)</designum></desig><title>Orders may be made on court&#x2019;s own motion or on application</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court may make a vexatious proceedings order of its own motion or on the application of any of the following persons:</text></p>
+<l><li id="UCPN.OL.VPAN08.S8.4.A"><lilabel><refpt id="UCPN.OL.VPAN08.S8.4.A" type="ext"/>(a)</lilabel>
+<p><text>the Attorney General,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.4.B"><lilabel><refpt id="UCPN.OL.VPAN08.S8.4.B" type="ext"/>(b)</lilabel>
+<p><text>the Solicitor General,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.4.C"><lilabel><refpt id="UCPN.OL.VPAN08.S8.4.C" type="ext"/>(c)</lilabel>
+<p><text>the appropriate registrar for the court,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.4.D"><lilabel><refpt id="UCPN.OL.VPAN08.S8.4.D" type="ext"/>(d)</lilabel>
+<p><text>a person against or in relation to whom another person has instituted or conducted vexatious proceedings,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.4.E"><lilabel><refpt id="UCPN.OL.VPAN08.S8.4.E" type="ext"/>(e)</lilabel>
+<p><text>a person who, in the opinion of the court, has a sufficient interest in the matter.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S8.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application for a vexatious proceedings order may be made by a person referred to in subsection (4)(e) only with the leave of the authorised court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S8.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A judicial officer, member or registrar of a court or tribunal may make a recommendation to the Attorney General that he or she consider making an application for a vexatious proceedings order in relation to a specified person.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S8.7"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.7" type="ext"/>(7)</designum></desig><title>Orders that may be made by Supreme Court</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Supreme Court may make any one or more of the following vexatious proceedings orders in relation to a person:</text></p>
+<l><li id="UCPN.OL.VPAN08.S8.7.A"><lilabel><refpt id="UCPN.OL.VPAN08.S8.7.A" type="ext"/>(a)</lilabel>
+<p><text>an order staying all or part of any proceedings in New South Wales already instituted by the person,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.7.B"><lilabel><refpt id="UCPN.OL.VPAN08.S8.7.B" type="ext"/>(b)</lilabel>
+<p><text>an order prohibiting the person from instituting proceedings in New South Wales,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.7.C"><lilabel><refpt id="UCPN.OL.VPAN08.S8.7.C" type="ext"/>(c)</lilabel>
+<p><text>any other order that the Court considers appropriate in relation to the person.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S8.8"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.8" type="ext"/>(8)</designum></desig><title>Orders that may be made by Land and Environment Court</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Land and Environment Court may make any one or more of the following vexatious proceedings orders in relation to a person:</text></p>
+<l><li id="UCPN.OL.VPAN08.S8.8.A"><lilabel><refpt id="UCPN.OL.VPAN08.S8.8.A" type="ext"/>(a)</lilabel>
+<p><text>an order staying all or part of any proceedings in the Court already instituted by the person,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.8.B"><lilabel><refpt id="UCPN.OL.VPAN08.S8.8.B" type="ext"/>(b)</lilabel>
+<p><text>an order prohibiting the person from instituting proceedings in the Court,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.8.C"><lilabel><refpt id="UCPN.OL.VPAN08.S8.8.C" type="ext"/>(c)</lilabel>
+<p><text>any other order that the Court considers appropriate in relation to proceedings by the person in the Court.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S8.9"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S8.9" type="ext"/>(9)</designum></desig><title>Orders that may be made by Industrial Court</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The Industrial Court may make any one or more of the following vexatious proceedings orders in relation to a person:</text></p>
+<l><li id="UCPN.OL.VPAN08.S8.9.A"><lilabel><refpt id="UCPN.OL.VPAN08.S8.9.A" type="ext"/>(a)</lilabel>
+<p><text>an order staying all or part of any proceedings in the Industrial Relations Commission (whether in Court Session or otherwise),</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.9.B"><lilabel><refpt id="UCPN.OL.VPAN08.S8.9.B" type="ext"/>(b)</lilabel>
+<p><text>an order prohibiting the person from instituting proceedings in the Industrial Relations Commission (whether in Court Session or otherwise),</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S8.9.C"><lilabel><refpt id="UCPN.OL.VPAN08.S8.9.C" type="ext"/>(c)</lilabel>
+<p><text>any other order that the Court considers appropriate in relation to proceedings by the person in the Industrial Relations Commission (whether in Court Session or otherwise).</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.VPAN08.S8.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.440050-5" leveltype="para0" subdoc="true" toc-caption="[440,050.5] Authorised court"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.440050-5" type="ext"/>[440,050.5] </edpnum><title>Authorised court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Supreme Court, the Land and Environment Court and the Industrial Relations Commission in court session can make orders in relation to vexatious litigants. Given the more specialised nature of the Land and Environment Court and the Industrial Relations Commission, their ability to make orders is limited to proceedings in their respective jurisdictions. The Supreme Court will deal with applications for orders against a person who has commenced proceedings in any other court of tribunal.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.440050-10" leveltype="para0" subdoc="true" toc-caption="[440,050.10] &#x201c;Frequently&#x201d; instituted or conducted vexatious proceedings">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [440,050.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> SCA s 84.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.440050-10" type="ext"/>[440,050.10] </edpnum><title>&#x201c;Frequently&#x201d; instituted or conducted vexatious proceedings</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S84" remotekey1="REFPTID" service="DOC-ID">SCA s 84</remotelink></ci:content></ci:cite>
+ (now repealed) the person against whom an order was sought must be shown to have &#x201c;habitually and persistently&#x201d; instituted relevant proceedings without reasonable grounds: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1988"/></ci:caseinfo><ci:caseref ID="cr000567" spanref="cr000567-001"><ci:reporter value="NSWLR"/><ci:volume num="14"/><ci:page num="481"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attorney-General (NSW) v Wentworth</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000567-001">(1988) 14 NSWLR 481</ci:span></citefragment> <remotelink dpsi="0018" refpt="14688" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1992"/></ci:caseinfo><ci:caseref ID="cr000568" spanref="cr000568-001"><ci:reporter value="ALR"/><ci:volume num="109"/><ci:page num="303"/></ci:caseref><ci:caseref ID="cr000569" spanref="cr000569-002" status="unval"><ci:reporter value="ALJR"/><ci:volume num="66"/><ci:page num="810"/></ci:caseref><ci:caseref ID="cr000570" spanref="cr000570-003"><ci:reporter value="urj"/><ci:refnum num="BC9202692"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Jones v Skyring</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000568-001">(1992) 109 ALR 303</ci:span>; <ci:span spanid="cr000569-002" status="unval">66 ALJR 810</ci:span>; <ci:span spanid="cr000570-003"> BC9202692</ci:span></citefragment> <remotelink dpsi="0018" refpt="36595" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (&#x201c;relevant&#x201d; proceedings were confined to those in the Supreme Court or inferior state courts: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000571" spanref="cr000571-001"><ci:reporter value="NSWLR"/><ci:volume num="1"/><ci:edition><ci:date year="1976"/></ci:edition><ci:page num="478"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hunters Hill Municipal Council v Pedler</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000571-001">[1976]1 NSWLR 478</ci:span></citefragment></ci:content></ci:cite>; but similar proceedings in other jurisdictions could bear upon the characterisation of proceedings as vexatious: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1999"/></ci:caseinfo><ci:caseref ID="cr000572" spanref="cr000572-001"><ci:reporter value="ALR"/><ci:volume num="164"/><ci:page num="378"/></ci:caseref><ci:caseref anaphref="cr000572" spanref="cr000572-002"><ci:pinpoint num="380" targettype="page"/></ci:caseref><ci:caseref ID="cr000573" spanref="cr000573-003"><ci:reporter value="urj"/><ci:refnum num="BC9903695"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Ramsey v Skyring</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000572-001">(1999) 164 ALR 378</ci:span> <ci:span spanid="cr000572-002">at 380</ci:span>; [1999] FCA 907; <ci:span spanid="cr000573-003"> BC9903695</ci:span></citefragment> <remotelink dpsi="0018" refpt="299128" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000574" spanref="cr000574-001" status="unval"><ci:reporter value="Qd R"/><ci:volume num="2"/><ci:edition><ci:date year="1996"/></ci:edition><ci:page num="218"/></ci:caseref><ci:caseref ID="cr000575" spanref="cr000575-002"><ci:reporter value="urj"/><ci:refnum num="BC9600837"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Re Cameron</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr000574-001" status="unval">[1996] 2 Qd R 218</ci:span>; <ci:span spanid="cr000575-002"> BC9600837</ci:span></citefragment> <remotelink dpsi="0018" refpt="200058" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>). Under the Vexatious Proceedings Act 2008, the court may make a vexatious proceedings order if it is satisfied that a person has &#x201c;frequently instituted or conducted vexatious proceedings in Australia&#x201d;: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000576" spanref="cr000576-001"><ci:reporter value="urj"/><ci:refnum num="BC201006199"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attorney-General (NSW) v Croker</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] NSWSC 942; <ci:span spanid="cr000576-001"> BC201006199</ci:span></citefragment> <remotelink dpsi="0018" refpt="501961" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (vexatious proceedings were instituted or conducted frequently &#x2014; discussion of the meaning of frequently); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000577" spanref="cr000577-001"><ci:reporter value="urj"/><ci:refnum num="BC200602904"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">National Australia Bank Ltd v Freeman</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] QSC 086; <ci:span spanid="cr000577-001"> BC200602904</ci:span></citefragment> <remotelink dpsi="0018" refpt="415526" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (Qld Vexatious Proceedings Act 2005 similar to NSW); <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr000578" spanref="cr000578-001"><ci:reporter value="urj"/><ci:refnum num="BC201002583"/></ci:caseref><ci:caseref anaphref="cr000578" spanref="cr000578-002"><ci:pinpoint num="56" targettype="para"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Hambleton v Labaj</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2010] QSC 124; <ci:span spanid="cr000578-001"> BC201002583</ci:span> <ci:span spanid="cr000578-002">at [56]</ci:span></citefragment> <remotelink dpsi="0018" refpt="493563" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> (frequency is a relative term &#x2014; it is necessary to look at the context of the litigation). In applying this simplified test, the court may have regard to proceedings instituted in, or orders made by, any Australian court or tribunal. The court may also make an order when a person is acting in concert with a person who is the subject of a vexatious proceedings order or has frequently instituted or conducted vexatious proceedings. This could include a relative or associate who institutes proceedings on behalf of the vexatious litigant.</text></p>
+</bodytext>
+</level><level id="UCPN_OL.SGM_UCPN.OL.440050-15" leveltype="para0" subdoc="true" toc-caption="[440,050.15] Application for vexatious proceedings order"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.440050-15" type="ext"/>[440,050.15] </edpnum><title>Application for vexatious proceedings order</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>An authorised court may make a vexatious proceedings order on its own motion or on the application of the Attorney-General, the Solicitor-General, the appropriate registrar of the court, a person against whom the proceedings are instituted and a person who &#x201c;has a sufficient interest in the matter&#x201d;. A person claiming sufficient interest must first obtain the leave of the court to make an application. </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S9"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[440,055] s 9 Order may be varied or set aside">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.VPAN08.S9" type="ext"/>[440,055]</edpnum><title searchtype="SECT-TITLE">Order may be varied or set aside</title><desig searchtype="SECT-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.VPAN08.S9.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S9.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court may, by order, vary or set aside a vexatious proceedings order that the court has made.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S9.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S9.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court may make the order of its own motion or on the application of:</text></p>
+<l><li id="UCPN.OL.VPAN08.S9.2.A"><lilabel><refpt id="UCPN.OL.VPAN08.S9.2.A" type="ext"/>(a)</lilabel>
+<p><text>the person subject to the vexatious proceedings order, or</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S9.2.B"><lilabel><refpt id="UCPN.OL.VPAN08.S9.2.B" type="ext"/>(b)</lilabel>
+<p><text>a person referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.VPAN08.S8.4" remotekey1="REFPTID" service="DOC-ID">section 8(4)</remotelink></ci:content></ci:cite>
+.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S9.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S9.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application may be made by a person referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.VPAN08.S8.4.E" remotekey1="REFPTID" service="DOC-ID">section 8(4)(e)</remotelink></ci:content></ci:cite>
+ only with the leave of the authorised court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S10"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[440,060] s 10 Order may be reinstated">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.VPAN08.S10" type="ext"/>[440,060]</edpnum><title searchtype="SECT-TITLE">Order may be reinstated</title><desig searchtype="SECT-NUM"><designum>10</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.VPAN08.S10.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S10.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court may, by order, reinstate a vexatious proceedings order prohibiting a person from instituting proceedings if:</text></p>
+<l><li id="UCPN.OL.VPAN08.S10.1.A"><lilabel><refpt id="UCPN.OL.VPAN08.S10.1.A" type="ext"/>(a)</lilabel>
+<p><text>the court made the vexatious proceedings order, and</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S10.1.B"><lilabel><refpt id="UCPN.OL.VPAN08.S10.1.B" type="ext"/>(b)</lilabel>
+<p><text>the court is satisfied that, within 5 years of the vexatious proceedings order being set aside, the person has:</text></p>
+<l><li id="UCPN.OL.VPAN08.S10.1.B.I"><lilabel><refpt id="UCPN.OL.VPAN08.S10.1.B.I" type="ext"/>(i)</lilabel>
+<p><text>instituted or conducted vexatious proceedings in an Australian court or tribunal, or</text></p>
+</li><li id="UCPN.OL.VPAN08.S10.1.B.II"><lilabel><refpt id="UCPN.OL.VPAN08.S10.1.B.II" type="ext"/>(ii)</lilabel>
+<p><text>acted in concert with another person who has instituted or conducted vexatious proceedings in an Australian court or tribunal.</text></p>
+</li></l></li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S10.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S10.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court that reinstates a vexatious proceedings order may make any other order that the court considers appropriate in relation to the person, including, for example, an order varying the vexatious proceedings order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S10.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S10.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court may make an order under this section of its own motion or on the application of a person referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.VPAN08.S8.4" remotekey1="REFPTID" service="DOC-ID">section 8(4)</remotelink></ci:content></ci:cite>
+.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S10.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S10.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An application may be made by a person referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.VPAN08.S8.4.E" remotekey1="REFPTID" service="DOC-ID">section 8(4)(e)</remotelink></ci:content></ci:cite>
+ only with the leave of the authorised court.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S10.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S10.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>An authorised court must not reinstate a vexatious proceedings order in relation to a person without hearing the person or giving the person an opportunity of being heard.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S11"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[440,065] s 11 Notification and register of orders">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.OL.VPAN08.S11" type="ext"/>[440,065]</edpnum><title searchtype="SECT-TITLE">Notification and register of orders</title><desig searchtype="SECT-NUM"><designum>11</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.OL.VPAN08.S11.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S11.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies in relation to each of the following orders (a <defterm><emph typestyle="bf">notifiable order</emph></defterm>):</text></p>
+<l><li id="UCPN.OL.VPAN08.S11.1.A"><lilabel><refpt id="UCPN.OL.VPAN08.S11.1.A" type="ext"/>(a)</lilabel>
+<p><text>a vexatious proceedings order,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S11.1.B"><lilabel><refpt id="UCPN.OL.VPAN08.S11.1.B" type="ext"/>(b)</lilabel>
+<p><text>an order varying or setting aside a vexatious proceedings order,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S11.1.C"><lilabel><refpt id="UCPN.OL.VPAN08.S11.1.C" type="ext"/>(c)</lilabel>
+<p><text>an order reinstating a vexatious proceedings order,</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S11.1.D"><lilabel><refpt id="UCPN.OL.VPAN08.S11.1.D" type="ext"/>(d)</lilabel>
+<p><text>an order made under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.OL.VPAN08.S10.2" remotekey1="REFPTID" service="DOC-ID">section 10(2)</remotelink></ci:content></ci:cite>
+ .</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S11.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S11.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The appropriate registrar for an authorised court that makes a notifiable order must arrange for a copy of the order to be:</text></p>
+<l><li id="UCPN.OL.VPAN08.S11.2.A"><lilabel><refpt id="UCPN.OL.VPAN08.S11.2.A" type="ext"/>(a)</lilabel>
+<p><text>published in the Gazette within 14 days after the order is made, and</text></p>
+</li>
+<li id="UCPN.OL.VPAN08.S11.2.B"><lilabel><refpt id="UCPN.OL.VPAN08.S11.2.B" type="ext"/>(b)</lilabel>
+<p><text>recorded in a publicly available register kept for the purposes of this Act in the registry of the Supreme Court at Sydney within 7 days after the order is made.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S11.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S11.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The appropriate registrar for an authorised court may also arrange for details of a notifiable order that the court has made to be published in another way (for example, on an internet website).</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S11.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S11.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The appropriate registrar for an authorised court may arrange for a copy of a notifiable order that the court has made to be removed from the register referred to in subsection (2) (b) if the registrar is satisfied that the person in relation to whom the order was made has died.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.OL.VPAN08.S11.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.OL.VPAN08.S11.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A failure to comply with a requirement of this section in relation to a notifiable order does not affect the validity or enforceability of the order.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.OL.VPAN08.S11.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_OL.SGM_UCPN.OL.440065-5" leveltype="para0" subdoc="true" toc-caption="[440,065.5] Vexatious Litigants Register"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.OL.440065-5" type="ext"/>[440,065.5] </edpnum><title>Vexatious Litigants Register</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A register of vexatious proceedings orders and related orders is kept by the Supreme Court at Sydney and is available online at: 
+<remotelink href="www.supremecourt.lawlink.nsw.gov.au/supremecourt/sco2_vexatiousproceedings.html" hrefclass="http" newwindow="YES">http://www.supremecourt.lawlink.nsw.gov.au/supremecourt/sco2_vexatiousproceedings.html</remotelink>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

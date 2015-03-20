@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 2 CREDIBILITY OF WITNESSES [ss 102&#x2013;108]</docinfo:doc-heading><docinfo:doc-id>UCPN.EA.EAN95.C3.PT3-7.D2</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Evidence</title></heading><docinfo:hierlev role="ancestor"><heading><title>EVIDENCE ACT 1995 (NSW)</title></heading><docinfo:hierlev role="ancestor"><heading><title>CHAPTER 3  ADMISSIBILITY OF EVIDENCE [ss 55&#x2013;139]</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 3.7 CREDIBILITY [ss 101A&#x2013;108C]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 2 CREDIBILITY OF WITNESSES [ss 102&#x2013;108]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>110000180</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.EA"/><docinfo:metaitem name="parent-filename" value="ea.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_EA.SGM_UCPN.EA.EAN95"/><docinfo:metaitem name="parent-filename" value="ea1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo><leg:body><leg:info><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 25, 1995</leg:officialnum><leg:officialname ln.user-displayed="false" searchtype="LEGISLATION">EVIDENCE ACT 1995 (NSW)</leg:officialname></leg:info><leg:level id="UCPN.EA.EAN95.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT"><leg:levelbody><leg:level id="UCPN.EA.EAN95.C3"><leg:level-vrnt leveltype="chapter" searchtype="LEGISLATION CHAPTER" subdoc="false" toc-caption="CHAPTER 3  ADMISSIBILITY OF EVIDENCE [ss 55&#x2013;139]"><leg:levelbody><leg:level id="UCPN.EA.EAN95.C3.PT3-7"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 3.7 CREDIBILITY [ss 101A&#x2013;108C]"><leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.C3.PT3-7.D2"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 2 CREDIBILITY OF WITNESSES [ss 102&#x2013;108]">
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.EA.EAN95.C3.PT3-7.D2" type="ext"/>DIVISION 2</designum></desig><title searchtype="DIV-TITLE">CREDIBILITY OF WITNESSES [ss 102&#x2013;108]</title><leg:histnote>
+<p><text>[Div 2  insrt Act No 46 of 2007  s 3 and Sch 1[40], effective 1 January 2009]</text></p></leg:histnote></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S102"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,917] s 102 The credibility rule">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S102" type="ext"/>[50,917]</edpnum><title searchtype="SECT-TITLE">The credibility rule</title><desig searchtype="SECT-NUM"><designum>102</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Credibility evidence about a witness is not admissible. </text></p>
+<glp:note>
+<heading><title>Notes:</title><desig><designum>1</designum></desig></heading>
+<p>
+<text>Specific exceptions to the credibility rule are as follows:</text>
+<l>
+<li><lilabel>&#x2022;</lilabel>
+<p><text>evidence adduced in cross-examination (
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S103" remotekey1="REFPTID" service="DOC-ID">sections 103</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S104" remotekey1="REFPTID" service="DOC-ID">104</remotelink></ci:content></ci:cite>
+)</text></p>
+</li>
+<li><lilabel>&#x2022;</lilabel>
+<p><text>evidence in rebuttal of denials 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S106" remotekey1="REFPTID" service="DOC-ID">(section 106)</remotelink></ci:content></ci:cite></text></p>
+</li>
+<li><lilabel>&#x2022;</lilabel>
+<p><text>evidence to re-establish credibility 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S108" remotekey1="REFPTID" service="DOC-ID">(section 108)</remotelink></ci:content></ci:cite></text></p>
+</li>
+<li><lilabel>&#x2022;</lilabel>
+<p><text>evidence of persons with specialised knowledge 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S108C" remotekey1="REFPTID" service="DOC-ID">(section 108C)</remotelink></ci:content></ci:cite></text></p>
+</li>
+<li><lilabel>&#x2022;</lilabel>
+<p><text>character of accused persons 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S110" remotekey1="REFPTID" service="DOC-ID">(section 110)</remotelink></ci:content></ci:cite></text></p>
+</li>
+</l><text>Other provisions of this Act, or of other laws, may operate as further exceptions.</text></p></glp:note>
+<glp:note>
+<heading><desig><designum>2</designum></desig></heading>
+<p>
+<text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S108A" remotekey1="REFPTID" service="DOC-ID">Sections 108A</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S108B" remotekey1="REFPTID" service="DOC-ID">108B</remotelink></ci:content></ci:cite>
+ deal with the admission of credibility evidence about a person who has made a previous representation but is not a witness.</text></p></glp:note>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S102.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50917-5" leveltype="para0" subdoc="true" toc-caption="[50,917.5] ALRC reference"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50917-5" type="ext"/>[50,917.5] </edpnum><title>ALRC reference</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>ALRC 38 para 179</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50917-10" leveltype="para0" subdoc="true" toc-caption="[50,917.10] Defined terms"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50917-10" type="ext"/>[50,917.10] </edpnum><title>Defined terms</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>This section is known as the credibility rule for the purposes of the Act: see the Dictionary. The Dictionary also contains a definition of &#x201c;credibility&#x201d;.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50917-15" leveltype="para0" subdoc="true" toc-caption="[50,917.15]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,917.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 101A(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50917-15" type="ext"/>[50,917.15] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Evidence relevant to the credibility of a witness is inadmissible in chief if either that is its sole relevance: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001000" spanref="cr001000-001"><ci:reporter value="urj"/><ci:refnum num="BC200004837"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Heron</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2000] NSWCCA 312; <ci:span spanid="cr001000-001"> BC200004837</ci:span></citefragment> <remotelink dpsi="0018" refpt="316134" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001001" spanref="cr001001-001"><ci:reporter value="urj"/><ci:refnum num="BC9607720"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Milat</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001001-001"> (NSWSC, Hunt CJ, 70114/1994, 23 April 1996, unreported, BC9607720)</ci:span></citefragment></ci:content></ci:cite>; or if it is not also independently admissible in relation to any other relevant purpose: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S101A..B" remotekey1="REFPTID" service="DOC-ID">s 101A(b)</remotelink></ci:content></ci:cite>
+. </text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S103"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,920] s 103 Exception: cross-examination as to credibility">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S103" type="ext"/>[50,920]</edpnum><title searchtype="SECT-TITLE">Exception: cross-examination as to credibility</title><desig searchtype="SECT-NUM"><designum>103</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S103.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S103.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The credibility rule does not apply to evidence adduced in cross-examination of a witness if the evidence could substantially affect the assessment of the credibility of the witness.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act No 46 of 2007  s 3 and Sch 1[41], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S103.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S103.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Without limiting the matters to which the court may have regard for the purposes of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S103.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+, it is to have regard to:</text></p>
+<l><li id="UCPN.EA.EAN95.S103.2.A"><lilabel><refpt id="UCPN.EA.EAN95.S103.2.A" type="ext"/>(a)</lilabel>
+<p><text>whether the evidence tends to prove that the witness knowingly or recklessly made a false representation when the witness was under an obligation to tell the truth, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S103.2.B"><lilabel><refpt id="UCPN.EA.EAN95.S103.2.B" type="ext"/>(b)</lilabel>
+<p><text>the period that has elapsed since the acts or events to which the evidence relates were done or occurred.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (2)  am Act No 46 of 2007  s 3 and Sch 1[42], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S103.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50920-5" leveltype="para0" subdoc="true" toc-caption="[50,920.5] ALRC reference"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50920-5" type="ext"/>[50,920.5] </edpnum><title>ALRC reference</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>ALRC 26 vol 1 para 819</text></p>
+<p>
+<blockquote>
+<p i="9" indent="hang"><text>&#x2002;ALRC 38 para 179(a)</text></p>
+<p i="9" indent="hang"><text>&#x2002;ALRC 102 paras 12.20&#x2013;12.30</text></p></blockquote></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50920-15" leveltype="para0" subdoc="true" toc-caption="[50,920.15] Evidence which could substantially affect the credibility of a witness">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,920.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> ss 102, 103.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50920-15" type="ext"/>[50,920.15] </edpnum><title>Evidence which could substantially affect the credibility of a witness</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The purpose of cross-examination as to credit is to show that a witness ought not be believed on their oath: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1969"/></ci:caseinfo><ci:caseref ID="cr001002" spanref="cr001002-001" status="unval"><ci:reporter value="ALJR"/><ci:volume num="43"/><ci:page num="213"/></ci:caseref><ci:caseref anaphref="cr001002" spanref="cr001002-002" status="unval"><ci:pinpoint num="220" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wren v Emmett Contractors Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001002-001" status="unval">(1969) 43 ALJR 213</ci:span> <ci:span spanid="cr001002-002" status="unval">at 220-221</ci:span></citefragment> <remotelink dpsi="0018" refpt="7656" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite> per Windeyer J; see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1981"/></ci:caseinfo><ci:caseref ID="cr001003" spanref="cr001003-001"><ci:reporter value="NSWLR"/><ci:volume num="2"/><ci:page num="474"/></ci:caseref><ci:caseref anaphref="cr001003" spanref="cr001003-002" status="unval"><ci:pinpoint num="494" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bickel v John Fairfax &amp; Sons Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001003-001">(1981) 2 NSWLR 474</ci:span> <ci:span spanid="cr001003-002" status="unval">at 494</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001004" spanref="cr001004-001" status="unval"><ci:volume num=""/><ci:page num=""/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Wentworth v Rogers (No 10)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001004-001" status="unval">(1987) 8 NSWLR 398</ci:span> esp at 408</citefragment> <remotelink dpsi="0018" refpt="3503" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Its purpose is not to prejudice the tribunal of fact against the witness: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2003"/></ci:caseinfo><ci:caseref ID="cr001005" spanref="cr001005-001" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="139"/><ci:page num="314"/></ci:caseref><ci:caseref ID="cr001006" spanref="cr001006-002"><ci:reporter value="urj"/><ci:refnum num="BC200301493"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Slack</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001005-001" status="unval">(2003) 139 A Crim R 314</ci:span>; [2003] NSWCCA 93; <ci:span spanid="cr001006-002"> BC200301493</ci:span></citefragment> <remotelink dpsi="0018" refpt="361071" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. The combined effect of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S102" remotekey1="REFPTID" service="DOC-ID">ss 102</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S103" remotekey1="REFPTID" service="DOC-ID">103</remotelink></ci:content></ci:cite>
+ is to limit the admissibility of potentially relevant credibility evidence unless it could substantially affect the court&#x2019;s assessment of the witness&#x2019; credibility. The sections have the capacity to materially restrict the scope of cross-examination on credibility issues. The capacity of the evidence to &#x201c;substantially affect&#x201d; credibility requires more than a rational capacity to affect the assessment. The court must form an opinion about the facts that the cross-examination is calculated to elicit. It must decide whether those facts would be capable of substantially affecting the credibility of the witness.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50920-20" leveltype="para0" subdoc="true" toc-caption="[50,920.20] Cross-examination about previous convictions"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50920-20" type="ext"/>[50,920.20] </edpnum><title>Cross-examination about previous convictions</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>It is common in criminal proceedings for a trial judge to be called upon to exercise a discretion in the course of cross-examination about the previous criminal convictions of a witness. Prior to the enactment of the Evidence Act 1995, it had been held that evidence of convictions was admissible in relation to credit, on the basis that a conviction for any offence against the law may have some effect on the credit of a witness: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1949"/></ci:caseinfo><ci:caseref ID="cr001007" spanref="cr001007-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="79"/><ci:page num="442"/></ci:caseref><ci:caseref anaphref="cr001007" spanref="cr001007-002"><ci:pinpoint num="458" targettype="page"/></ci:caseref><ci:caseref anaphref="cr001007" spanref="cr001007-003"><ci:pinpoint num="471" targettype="page"/></ci:caseref><ci:caseref anaphref="cr001007" spanref="cr001007-004"><ci:pinpoint num="475" targettype="page"/></ci:caseref><ci:caseref ID="cr001008" spanref="cr001008-005" status="unval"><ci:reporter value="ALJR"/><ci:volume num="23"/><ci:page num="508"/></ci:caseref><ci:caseref ID="cr001009" spanref="cr001009-006"><ci:reporter value="urj"/><ci:refnum num="BC4900470"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bugg v Day</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001007-001" status="unval">(1949) 79 CLR 442</ci:span> <ci:span spanid="cr001007-002">at 458 per Latham CJ,</ci:span> <ci:span spanid="cr001007-003">at 471 per McTiernan J</ci:span> <ci:span spanid="cr001007-004">and at 475 per Williams J</ci:span>; <ci:span spanid="cr001008-005" status="unval">23 ALJR 508</ci:span>; <ci:span spanid="cr001009-006"> BC4900470</ci:span></citefragment> <remotelink dpsi="0018" refpt="23103" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Dixon J (CLR at <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001010" spanref="cr001010-000"><ci:reporter value="CLR"/><ci:volume num="79"/><ci:edition><ci:date year="1949"/></ci:edition><ci:pinpoint num="467" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr001010-000">467</ci:span></citefragment></ci:content></ci:cite>) expressed a more restricted view that questions about the previous convictions of a witness could not be used to discredit the witness if the nature of the offences did not tend to weaken the witness&#x2019; credit.</text></p>
+<p>
+<text>For the purpose of the section in its current form, the fact that a conviction may have &#x201c;some effect&#x201d; on the issue of credit falls short of the requirement that the evidence has the capacity to &#x201c;substantially affect&#x201d; the credibility of the witness. The section provides a safeguard particularly in relation to cross-examination going to previous criminal convictions by permitting the court to limit such cross-examination to offences which, of their very nature, tend to weaken confidence in the witness's credit by reflecting upon his character or trustworthiness to the point where it can be said that evidence of such convictions could substantially affect the credibility of the witness: cf <ci:cite searchtype="CASE-REF"><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Bugg v Day</emph>
+</citefragment></ci:content></ci:cite>, above, CLR <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001011" spanref="cr001011-000" status="unval"><ci:reporter value="CLR"/><ci:volume num="79"/><ci:edition><ci:date year="1949"/></ci:edition><ci:pinpoint num="467" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-CITE-REF"><ci:span spanid="cr001011-000" status="unval">at 467</ci:span></citefragment></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50920-25" leveltype="para0" subdoc="true" toc-caption="[50,920.25] Tendering documents during cross examination as to credibility"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50920-25" type="ext"/>[50,920.25] </edpnum><title>Tendering documents during cross examination as to credibility</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A document can constitute &#x201c;evidence adduced in cross examination&#x201d; for the purposes of s 103. Accordingly, a document can be admitted as to credit pursuant to s 103 even if it does not satisfy one of the other paths to admissibility of documents under another section of the Act: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001012" spanref="cr001012-001"><ci:reporter value="urj"/><ci:refnum num="BC200601952"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Aslett</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2006] NSWCCA 49; <ci:span spanid="cr001012-001"> BC200601952</ci:span></citefragment> <remotelink dpsi="0018" refpt="414037" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001013" spanref="cr001013-001"><ci:reporter value="urj"/><ci:refnum num="BC201201445"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">McMahon v John Fairfax Publications Pty Ltd (No 5)</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2012] NSWSC 218; <ci:span spanid="cr001013-001"> BC201201445</ci:span></citefragment> <remotelink dpsi="0018" refpt="547867" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S104"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,925] s 104 Further protections: cross-examination of accused">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S104" type="ext"/>[50,925]</edpnum><title searchtype="SECT-TITLE">Further protections: cross-examination of accused</title><desig searchtype="SECT-NUM"><designum>104</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S104.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S104.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This section applies only to credibility evidence in a criminal proceeding and so applies in addition to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S103" remotekey1="REFPTID" service="DOC-ID">section 103</remotelink></ci:content></ci:cite>
+.</text></p>
+<leg:histnote>
+<p><text>[subs (1)  am Act No 46 of 2007  s 3 and Sch 1[43], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S104.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S104.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A defendant must not be cross-examined about a matter that is relevant to the assessment of the defendant's credibility, unless the court gives leave.</text></p>
+<leg:histnote>
+<p><text>[subs (2)  am Act No 46 of 2007  s 3 and Sch 1[44], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S104.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S104.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Despite 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S104.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+, leave is not required for cross-examination by the prosecutor about whether the defendant:</text></p>
+<l><li id="UCPN.EA.EAN95.S104.3.A"><lilabel><refpt id="UCPN.EA.EAN95.S104.3.A" type="ext"/>(a)</lilabel>
+<p><text>is biased or has a motive to be untruthful, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S104.3.B"><lilabel><refpt id="UCPN.EA.EAN95.S104.3.B" type="ext"/>(b)</lilabel>
+<p><text>is, or was, unable to be aware of or recall matters to which his or her evidence relates, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S104.3.C"><lilabel><refpt id="UCPN.EA.EAN95.S104.3.C" type="ext"/>(c)</lilabel>
+<p><text>has made a prior inconsistent statement.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S104.4"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S104.4" type="ext"/>(4)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Leave must not be given for cross-examination by the prosecutor under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S104.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+ unless evidence adduced by the defendant has been admitted that:</text></p>
+<l><li id="UCPN.EA.EAN95.S104.4.A"><lilabel><refpt id="UCPN.EA.EAN95.S104.4.A" type="ext"/>(a)</lilabel>
+<p><text>tends to prove that a witness called by the prosecutor has a tendency to be untruthful, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S104.4.B"><lilabel><refpt id="UCPN.EA.EAN95.S104.4.B" type="ext"/>(b)</lilabel>
+<p><text>is relevant solely or mainly to the witness&#x2019;s credibility.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (4)  subst Act No 46 of 2007  s 3 and Sch 1[45], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S104.5"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S104.5" type="ext"/>(5)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A reference in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S104.4" remotekey1="REFPTID" service="DOC-ID">subsection (4)</remotelink></ci:content></ci:cite>
+ to evidence does not include a reference to evidence of conduct in relation to:</text></p>
+<l><li id="UCPN.EA.EAN95.S104.5.A"><lilabel><refpt id="UCPN.EA.EAN95.S104.5.A" type="ext"/>(a)</lilabel>
+<p><text>the events in relation to which the defendant is being prosecuted, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S104.5.B"><lilabel><refpt id="UCPN.EA.EAN95.S104.5.B" type="ext"/>(b)</lilabel>
+<p><text>the investigation of the offence for which the defendant is being prosecuted.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (5)  am Act No 46 of 2007  s 3 and Sch 1[46], effective 1 January 2009]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S104.6"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S104.6" type="ext"/>(6)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Leave is not to be given for cross-examination by another defendant unless:</text></p>
+<l><li id="UCPN.EA.EAN95.S104.6.A"><lilabel><refpt id="UCPN.EA.EAN95.S104.6.A" type="ext"/>(a)</lilabel>
+<p><text>the evidence that the defendant to be cross-examined has given includes evidence adverse to the defendant seeking leave to cross-examine, and</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S104.6.B"><lilabel><refpt id="UCPN.EA.EAN95.S104.6.B" type="ext"/>(b)</lilabel>
+<p><text>that evidence has been admitted.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S105"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,930] s 105 Further protections: defendants making unsworn statements">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S105" type="ext"/>[50,930]</edpnum><title searchtype="SECT-TITLE">Further protections: defendants making unsworn statements</title><desig searchtype="SECT-NUM"><designum>105</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act includes a provision that will only apply in proceedings in a federal court sitting in Norfolk Island. It sets out the situations in which where a defendant in a criminal proceeding has made an unsworn statement evidence may be adduced from a person relating solely to the credibility of the defendant.</text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S106"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,935] s 106 Exception: rebutting denials by other evidence">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S106" type="ext"/>[50,935]</edpnum><title searchtype="SECT-TITLE">Exception: rebutting denials by other evidence</title><desig searchtype="SECT-NUM"><designum>106</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S106.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S106.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The credibility rule does not apply to evidence that is relevant to a witness&#x2019;s credibility and that is adduced otherwise than from the witness if:</text></p>
+<l><li id="UCPN.EA.EAN95.S106.1.A"><lilabel><refpt id="UCPN.EA.EAN95.S106.1.A" type="ext"/>(a)</lilabel>
+<p><text>in cross-examination of the witness:</text></p>
+<l><li id="UCPN.EA.EAN95.S106.1.A.I"><lilabel><refpt id="UCPN.EA.EAN95.S106.1.A.I" type="ext"/>(i)</lilabel>
+<p><text>the substance of the evidence was put to the witness, and</text></p>
+</li><li id="UCPN.EA.EAN95.S106.1.A.II"><lilabel><refpt id="UCPN.EA.EAN95.S106.1.A.II" type="ext"/>(ii)</lilabel>
+<p><text>the witness denied, or did not admit or agree to, the substance of the evidence, and</text></p>
+</li></l></li>
+<li id="UCPN.EA.EAN95.S106.1.B"><lilabel><refpt id="UCPN.EA.EAN95.S106.1.B" type="ext"/>(b)</lilabel>
+<p><text>the court gives leave to adduce the evidence.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S106.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S106.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Leave under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S106.1.B" remotekey1="REFPTID" service="DOC-ID">subsection (1)(b)</remotelink></ci:content></ci:cite>
+ is not required if the evidence tends to prove that the witness:</text></p>
+<l><li id="UCPN.EA.EAN95.S106.2.A"><lilabel><refpt id="UCPN.EA.EAN95.S106.2.A" type="ext"/>(a)</lilabel>
+<p><text>is biased or has a motive for being untruthful, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S106.2.B"><lilabel><refpt id="UCPN.EA.EAN95.S106.2.B" type="ext"/>(b)</lilabel>
+<p><text>has been convicted of an offence, including an offence against the law of a foreign country, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S106.2.C"><lilabel><refpt id="UCPN.EA.EAN95.S106.2.C" type="ext"/>(c)</lilabel>
+<p><text>has made a prior inconsistent statement, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S106.2.D"><lilabel><refpt id="UCPN.EA.EAN95.S106.2.D" type="ext"/>(d)</lilabel>
+<p><text>is, or was, unable to be aware of matters to which his or her evidence relates, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S106.2.E"><lilabel><refpt id="UCPN.EA.EAN95.S106.2.E" type="ext"/>(e)</lilabel>
+<p><text>has knowingly or recklessly made a false representation while under an obligation, imposed by or under an Australian law or a law of a foreign country, to tell the truth.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 106  subst Act No 46 of 2007  s 3 and Sch 1[47], effective 1 January 2009]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S106.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50935-5" leveltype="para0" subdoc="true" toc-caption="[50,935.5] ALRC reference"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50935-5" type="ext"/>[50,935.5] </edpnum><title>ALRC reference</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>ALRC 26 vol 1 para 819</text></p>
+<p>
+<blockquote>
+<p i="9" indent="hang"><text>&#x2002;ALRC 38 paras 179(c), 180(c)</text></p>
+<p i="9" indent="hang"><text>&#x2002;ALRC 02 paras 12.79&#x2013;12.83</text></p></blockquote></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50935-10" leveltype="para0" subdoc="true" toc-caption="[50,935.10] Rebuttal evidence">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,935.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 106(1), s 106(2).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50935-10" type="ext"/>[50,935.10] </edpnum><title>Rebuttal evidence</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>A precondition of admissibility (under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S106.1" remotekey1="REFPTID" service="DOC-ID">s 106(1)</remotelink></ci:content></ci:cite>
+) is that the substance of the proposed evidence has been put to, and not substantially admitted by, the witness: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="2004"/></ci:caseinfo><ci:caseref ID="cr001014" spanref="cr001014-001"><ci:reporter value="NSWLR"/><ci:volume num="61"/><ci:page num="369"/></ci:caseref><ci:caseref ID="cr001015" spanref="cr001015-002" status="unval"><ci:reporter value="urj"/><ci:refnum num="BC200406903"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Spiteri</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001014-001">(2004) 61 NSWLR 369</ci:span>; [2004] NSWCCA 321; <ci:span spanid="cr001015-002" status="unval"> BC200406903</ci:span></citefragment> <remotelink dpsi="0018" refpt="387849" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. If that condition has been met, no leave is required to adduce evidence of the kinds referred to in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S106.2" remotekey1="REFPTID" service="DOC-ID">s 106(2)</remotelink></ci:content></ci:cite>
+. Subject to the same threshold condition, evidence of other matters may be adduced with leave. A possible subject matter for the grant of leave could be matters relating to the mental or physical disability of a witness: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001016" spanref="cr001016-001" status="unval"><ci:reporter value="KB"/><ci:volume num="2"/><ci:edition><ci:date year="1951"/></ci:edition><ci:page num="600"/></ci:caseref><ci:caseref ID="cr001017" spanref="cr001017-002"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1951"/></ci:edition><ci:page num="290"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Gunewardene</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001016-001" status="unval">[1951] 2 KB 600</ci:span>; <ci:span spanid="cr001017-002">[1951] 2 All ER 290</ci:span></citefragment> <remotelink dpsi="0018" refpt="4197" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; cf <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001018" spanref="cr001018-001" status="unval"><ci:reporter value="AC"/><ci:edition><ci:date year="1965"/></ci:edition><ci:page num="595"/></ci:caseref><ci:caseref anaphref="cr001018" spanref="cr001018-002" status="unval"><ci:pinpoint num="609" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Toohey v Metropolitan Police Cmr</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001018-001" status="unval">[1965] AC 595</ci:span> <ci:span spanid="cr001018-002" status="unval">at 609</ci:span></citefragment> <remotelink dpsi="0018" refpt="3711" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50935-15" leveltype="para0" subdoc="true" toc-caption="[50,935.15] Contradiction of witnesses &#x2014; collateral issues">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,935.15] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1900-40" remotekey1="REFPTID" service="DOC-ID">Crimes Act 1900</remotelink> s 413.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 106(1).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50935-15" type="ext"/>[50,935.15] </edpnum><title>Contradiction of witnesses &#x2014; collateral issues</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>At common law answers given in cross-examination on collateral matters relevant only to credit could generally not be contradicted by affirmative evidence: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001019" spanref="cr001019-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1961"/></ci:edition><ci:page num="242"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Umanski</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001019-001">[1961] VR 242</ci:span></citefragment> <remotelink dpsi="0018" refpt="57829" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1811"/></ci:caseinfo><ci:caseref ID="cr001020" spanref="cr001020-001" status="unval"><ci:reporter value="Camp"/><ci:volume num="2"/><ci:page num="637"/></ci:caseref><ci:caseref ID="cr001021" spanref="cr001021-002" status="unval"><ci:reporter value="ER"/><ci:volume num="170"/><ci:page num="1277"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Harris v Tippett</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001020-001" status="unval">(1811) 2 Camp 637</ci:span>; <ci:span spanid="cr001021-002" status="unval">170 ER 1277</ci:span></citefragment> <remotelink dpsi="0018" refpt="1159" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. (Some guidance as to what constitutes a collateral issue is found in the judgment of Pollock CB in <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1847"/></ci:caseinfo><ci:caseref ID="cr001022" spanref="cr001022-001" status="unval"><ci:reporter value="Exch"/><ci:volume num="1"/><ci:page num="91"/></ci:caseref><ci:caseref anaphref="cr001022" spanref="cr001022-002" status="unval"><ci:pinpoint num="99" targettype="page"/></ci:caseref><ci:caseref ID="cr001023" spanref="cr001023-003" status="unval"><ci:reporter value="ER"/><ci:volume num="154"/><ci:page num="38"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attorney-General v Hitchcock</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001022-001" status="unval">(1847) 1 Exch 91</ci:span> <ci:span spanid="cr001022-002" status="unval">at 99</ci:span>; <ci:span spanid="cr001023-003" status="unval">154 ER 38</ci:span></citefragment> <remotelink dpsi="0018" refpt="29388" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Another illustration, that identifies the potential limits of even credit relevance, is <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1940"/></ci:caseinfo><ci:caseref ID="cr001024" spanref="cr001024-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="63"/><ci:page num="533"/></ci:caseref><ci:caseref anaphref="cr001024" spanref="cr001024-002" status="unval"><ci:pinpoint num="558" targettype="page"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Piddington v Bennett and Wood Pty Ltd</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001024-001" status="unval">(1940) 63 CLR 533</ci:span> <ci:span spanid="cr001024-002" status="unval">at 558&#x2013;59</ci:span></citefragment> <remotelink dpsi="0018" refpt="2546" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.) The general common law exclusionary rule is subject to established, but not exhaustively settled, exceptions: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001025" spanref="cr001025-001"><ci:reporter value="All ER"/><ci:volume num="2"/><ci:edition><ci:date year="1990"/></ci:edition><ci:page num="482"/></ci:caseref><ci:caseref ID="cr001026" spanref="cr001026-002" status="unval"><ci:reporter value="WLR"/><ci:volume num="1"/><ci:edition><ci:date year="1990"/></ci:edition><ci:page num="587"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Funderbunk</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001025-001">[1990] 2 All ER 482</ci:span>; <ci:span spanid="cr001026-002" status="unval">[1990] 1 WLR 587</ci:span></citefragment> <remotelink dpsi="0018" refpt="29391" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr001027" spanref="cr001027-001" status="unval"><ci:reporter value="FCR"/><ci:volume num="32"/><ci:page num="282"/></ci:caseref><ci:caseref ID="cr001028" spanref="cr001028-002"><ci:reporter value="ALR"/><ci:volume num="104"/><ci:page num="143"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Natta v Canham</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001027-001" status="unval">(1991) 32 FCR 282</ci:span>; <ci:span spanid="cr001028-002">104 ALR 143</ci:span></citefragment> <remotelink dpsi="0018" refpt="29389" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1991"/></ci:caseinfo><ci:caseref ID="cr001029" spanref="cr001029-001"><ci:reporter value="NSWLR"/><ci:volume num="28"/><ci:page num="471"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Urban Transport Authority of New South Wales v Nweiser</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001029-001">(1991) 28 NSWLR 471</ci:span></citefragment></ci:content></ci:cite>. For example, a witness may be cross-examined about bias or partiality, and prior convictions. A witness's general reputation for untruthfulness could also be independently proved at common law (in New South Wales see now Crimes Act 1900 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CAN.S413" remotekey1="REFPTID" service="DOC-ID" status="unval">s 413</remotelink></ci:content></ci:cite>
+): <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1847"/></ci:caseinfo><ci:caseref ID="cr001030" spanref="cr001030-001" status="unval"><ci:reporter value="EXCH"/><ci:volume num="1"/><ci:page num="91"/></ci:caseref><ci:caseref ID="cr001031" spanref="cr001031-002" status="unval"><ci:reporter value="ER"/><ci:volume num="154"/><ci:page num="38"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Attorney-General v Hitchcock</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001030-001" status="unval">(1847) 1 Exch 91</ci:span>; <ci:span spanid="cr001031-002" status="unval">154 ER 38</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1836"/></ci:caseinfo><ci:caseref ID="cr001032" spanref="cr001032-001" status="unval"><ci:reporter value="CP"/><ci:volume num="7"/><ci:page num="350"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Thomas v David</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001032-001" status="unval">(1836) 7 C &amp; P 350</ci:span></citefragment></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1820"/></ci:caseinfo><ci:caseref ID="cr001033" spanref="cr001033-001" status="unval"><ci:reporter value="BRODBING"/><ci:volume num="2"/><ci:page num="284"/></ci:caseref><ci:caseref anaphref="cr001033" spanref="cr001033-002" status="unval"><ci:pinpoint num="311" targettype="page"/></ci:caseref><ci:caseref ID="cr001034" spanref="cr001034-003" status="unval"><ci:reporter value="ER"/><ci:volume num="129"/><ci:page num="976"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">The Queen's Case</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001033-001" status="unval">(1820) 2 Brod &amp; Bing 284</ci:span> <ci:span spanid="cr001033-002" status="unval">at 311&#x2013;15</ci:span>; <ci:span spanid="cr001034-003" status="unval">129 ER 976</ci:span></citefragment></ci:content></ci:cite>; R v Shore (1888) 16 Cox CC 503; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001035" spanref="cr001035-001" status="unval"><ci:reporter value="VLR"/><ci:edition><ci:date year="1956"/></ci:edition><ci:page num="31"/></ci:caseref><ci:caseref ID="cr001036" spanref="cr001036-002" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1955"/></ci:edition><ci:page num="786"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Hunter</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001035-001" status="unval">[1956] VLR 31</ci:span>; <ci:span spanid="cr001036-002" status="unval">[1955] ALR 786</ci:span></citefragment> <remotelink dpsi="0018" refpt="22810" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001037" spanref="cr001037-001"><ci:reporter value="VR"/><ci:edition><ci:date year="1961"/></ci:edition><ci:page num="242"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Umanski</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001037-001">[1961] VR 242</ci:span></citefragment> <remotelink dpsi="0018" refpt="57829" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. All of these matters are either expressly, or potentially, within the scope of the credibility evidence conditionally permitted by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S106.1" remotekey1="REFPTID" service="DOC-ID">s 106(1)</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S107"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,940] s 107 Exception: application of certain provisions to makers of representations">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S107" type="ext"/>[50,940]</edpnum><title searchtype="SECT-TITLE">Exception: application of certain provisions to makers of representations</title><desig searchtype="SECT-NUM"><designum>107</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 107  rep Act 55 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S107.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50940-5" leveltype="para0" subdoc="true" toc-caption="[50,940.5] ALRC reference"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50940-5" type="ext"/>[50,940.5] </edpnum><title>ALRC reference</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>ALRC 26 vol 1 para 721</text></p>
+<p>
+<blockquote>
+<p i="9" indent="hang"><text>&#x2002;ALRC 38 para 131(c)</text></p></blockquote></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50940-10" leveltype="para0" subdoc="true" toc-caption="[50,940.10] Credibility evidence relating to hearsay representations">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,940.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> Pt 3.2, s 102.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50940-10" type="ext"/>[50,940.10] </edpnum><title>Credibility evidence relating to hearsay representations</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>Some hearsay statements are admissible under 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.C3.PT3-2" remotekey1="REFPTID" service="DOC-ID">Pt 3.2</remotelink></ci:content></ci:cite>
+ notwithstanding that the maker of the statement is not called to give evidence. The present section assumes that the credibility rule would otherwise apply to evidence so admitted &#x2014; and permits evidence of the matters that could have been the subject of cross-examination if the maker had been called. However, the credibility rule as stated in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S102" remotekey1="REFPTID" service="DOC-ID">s 102</remotelink></ci:content></ci:cite>
+, only renders inadmissible evidence going to the credibility of a witness. It is arguable that the uncalled maker of a hearsay statement is not a &#x201c;witness&#x201d;(see the definition in the Dictionary) and thus the credibility rule has no application at all.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S108"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[50,945] s 108 Exception: re-establishing credibility">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.EA.EAN95.S108" type="ext"/>[50,945]</edpnum><title searchtype="SECT-TITLE">Exception: re-establishing credibility</title><desig searchtype="SECT-NUM"><designum>108</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.EA.EAN95.S108.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S108.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The credibility rule does not apply to evidence adduced in re-examination of a witness.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S108.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S108.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[subs (2)  rep Act 55 of 1997  s 3 and Sch 1]</text></p></leg:histnote>
+<p><glp:note>
+<heading><title>Note:</title></heading>
+<p>
+<text>The Commonwealth Act includes a subsection referring to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EA95.S105" remotekey1="REFPTID" service="DOC-ID" status="unval">section 105</remotelink></ci:content></ci:cite>
+ of that Act.</text></p></glp:note></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.EA.EAN95.S108.3"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.EA.EAN95.S108.3" type="ext"/>(3)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>The credibility rule does not apply to evidence of a prior consistent statement of a witness if:</text></p>
+<l><li id="UCPN.EA.EAN95.S108.3.A"><lilabel><refpt id="UCPN.EA.EAN95.S108.3.A" type="ext"/>(a)</lilabel>
+<p><text>evidence of a prior inconsistent statement of the witness has been admitted, or</text></p>
+</li>
+<li id="UCPN.EA.EAN95.S108.3.B"><lilabel><refpt id="UCPN.EA.EAN95.S108.3.B" type="ext"/>(b)</lilabel>
+<p><text>it is or will be suggested (either expressly or by implication) that evidence given by the witness has been fabricated or re-constructed (whether deliberately or otherwise) or is the result of a suggestion, and the court gives leave to adduce the evidence of the prior consistent statement.</text></p>
+</li>
+</l>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.EA.EAN95.S108.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_EA.SGM_UCPN.EA.50945-5" leveltype="para0" subdoc="true" toc-caption="[50,945.5] ALRC reference"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50945-5" type="ext"/>[50,945.5] </edpnum><title>ALRC reference</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>ALRC 26 vol 1 para 685</text></p>
+<p>
+<blockquote>
+<p i="9" indent="hang"><text>&#x2002;ALRC 38 para 144(a)</text></p></blockquote></p>
+</bodytext>
+</level><level id="UCPN_EA.SGM_UCPN.EA.50945-10" leveltype="para0" subdoc="true" toc-caption="[50,945.10]">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [50,945.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1995-25" remotekey1="REFPTID" service="DOC-ID">Evidence Act 1995</remotelink> s 108(3)(b).</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.EA.50945-10" type="ext"/>[50,945.10] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The provisions of 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S108.3.B" remotekey1="REFPTID" service="DOC-ID">s 108(3)(b)</remotelink></ci:content></ci:cite>
+ confirm the common law rule that prior consistent statements may be used to rebut a suggestion of invention: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1960"/></ci:caseinfo><ci:caseref ID="cr001038" spanref="cr001038-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="104"/><ci:page num="476"/></ci:caseref><ci:caseref anaphref="cr001038" spanref="cr001038-002" status="unval"><ci:pinpoint num="479" targettype="page"/></ci:caseref><ci:caseref ID="cr001039" spanref="cr001039-003" status="unval"><ci:reporter value="ALR"/><ci:edition><ci:date year="1960"/></ci:edition><ci:page num="701"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Nominal Defendant v Clements</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001038-001" status="unval">(1960) 104 CLR 476</ci:span> <ci:span spanid="cr001038-002" status="unval">at 479</ci:span>; <ci:span spanid="cr001039-003" status="unval">[1960] ALR 701</ci:span></citefragment> <remotelink dpsi="0018" refpt="4085" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. Consistent with that position, the timing of the making of the statement is more important than the circumstances in which the statement was made: <ci:cite searchtype="CASE-REF"><ci:case><ci:caseref ID="cr001040" spanref="cr001040-001"><ci:reporter value="urj"/><ci:refnum num="BC200205266"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v DBG 133 A Crim R 227;</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> [2002] NSWCCA 328; <ci:span spanid="cr001040-001"> BC200205266</ci:span></citefragment> <remotelink dpsi="0018" refpt="351703" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>. However, the section goes further than the common law position by allowing, subject to leave, evidence of the prior consistent statement to be given before the suggestion of fabrication or invention has actually been put to the witness.</text></p>
+<p>
+<text>The provisions of the section constitute an exception to the credibility rule that evidence which is relevant only to the credibility of a witness is not admissible. The exercise of the discretion under the section depends upon the effect of the evidence on the credibility of the witness: see <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1998"/></ci:caseinfo><ci:caseref ID="cr001041" spanref="cr001041-001" status="unval"><ci:reporter value="CLR"/><ci:volume num="195"/><ci:page num="606"/></ci:caseref><ci:caseref ID="cr001042" spanref="cr001042-002"><ci:reporter value="ALR"/><ci:volume num="157"/><ci:page num="404"/></ci:caseref><ci:caseref ID="cr001043" spanref="cr001043-003"><ci:reporter value="urj"/><ci:refnum num="BC9804990"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">Graham v R</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001041-001" status="unval">(1998) 195 CLR 606</ci:span>; <ci:span spanid="cr001042-002">157 ALR 404</ci:span>; [1998] HCA 61; <ci:span spanid="cr001043-003"> BC9804990</ci:span></citefragment> <remotelink dpsi="0018" refpt="287329" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>; see also <ci:cite searchtype="CASE-REF"><ci:case><ci:caseinfo><ci:decisiondate year="1999"/></ci:caseinfo><ci:caseref ID="cr001044" spanref="cr001044-001" status="unval"><ci:reporter value="ACrimR"/><ci:volume num="109"/><ci:page num="51"/></ci:caseref><ci:caseref ID="cr001045" spanref="cr001045-002"><ci:reporter value="urj"/><ci:refnum num="BC9905094"/></ci:caseref></ci:case><ci:content><citefragment searchtype="CASE-NAME-REF"><emph typestyle="it">R v Whitmore</emph></citefragment><citefragment searchtype="CASE-CITE-REF"> <ci:span spanid="cr001044-001" status="unval">(1999) 109 A Crim R 51</ci:span>; [1999] NSWCCA 247; <ci:span spanid="cr001045-002"> BC9905094</ci:span></citefragment> <remotelink dpsi="0018" refpt="300535" remotekey1="REFPTID" service="DOC-ID"><inlineobject alttext="Click for CaseBase entry" attachment="web-server" filename="cbcc.gif" type="image"/></remotelink></ci:content></ci:cite>.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

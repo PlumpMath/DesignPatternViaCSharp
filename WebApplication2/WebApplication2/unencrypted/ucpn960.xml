@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>CL</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_100</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>C</title></heading>
+<docinfo:hierlev role="me"><heading><title>CL</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>102300</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_100" /><docinfo:metaitem name="parent-filename" value="ucpn96.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="13" month="07" year="2012">13 July 2012</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>CL</title></heading>
+<in:lev1 id="UCPN_IND_100" subdoc="true" toc-caption="Claim for relief"><in:entry><in:entry-text><refpt id="CLAIM_FOR_RELIEF" type="ext"><emph typestyle="bf">Claim for relief</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S3" remotekey1="REFPTID" service="DOC-ID" filename="cpa10001000.xml">[s 3]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S19" remotekey1="REFPTID" service="DOC-ID" filename="sc10001012.xml">[SCA s 19]</remotelink>; A</in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_101" subdoc="true" toc-caption="Client"><in:entry><in:entry-text><refpt id="CLIENT" type="ext"><emph typestyle="bf">Client</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>definition <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S328" remotekey1="REFPTID" service="DOC-ID" filename="ol10541012.xml">[375,135]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S349A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541030.xml">[375,247]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S350" remotekey1="REFPTID" service="DOC-ID" filename="ol10541030.xml">[375,250]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>disclosure of costs by legal practitioner </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="COSTS" remotekey1="REFPTID" service="DOC-ID" filename="ucpn980.xml">Costs</remotelink></see></in:lev2>
+
+<in:lev2><in:entry><in:entry-text>legal practitioner's costs </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="COSTS" remotekey1="REFPTID" service="DOC-ID" filename="ucpn980.xml">Costs</remotelink></see>
+<in:lev3><in:entry><in:entry-text>- costs agreement </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="COSTS_AGREEMENT" remotekey1="REFPTID" service="DOC-ID" filename="ucpn980.xml">Costs agreement</remotelink></see></in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- costs assessment </in:entry-text></in:entry><see><emph typestyle="it">see</emph>  <remotelink dpsi="05CB" refpt="COSTS_ASSESSMENT" remotekey1="REFPTID" service="DOC-ID" filename="ucpn980.xml">Costs assessment</remotelink></see></in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>sophisticated client <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,005]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S312" remotekey1="REFPTID" service="DOC-ID" filename="ol10541006.xml">[375,055]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S395A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541048.xml">[375,487]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- costs assessment, contracting out of <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S395A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541048.xml">[375,487]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- costs disclosure exemption for legal practitioner <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,005]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S309" remotekey1="REFPTID" service="DOC-ID" filename="ol10541006.xml">[375,040]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S310" remotekey1="REFPTID" service="DOC-ID" filename="ol10541006.xml">[375,045]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S312" remotekey1="REFPTID" service="DOC-ID" filename="ol10541006.xml">[375,055]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- electronic billing of <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S332" remotekey1="REFPTID" service="DOC-ID" filename="ol10541018.xml">[375,155]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>third party payer <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,005]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- associated third party payers <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,007]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>costs agreement with <remotelink dpsi="05CC" refpt="UCPN.OL.LPRN05.REG110B" remotekey1="REFPTID" service="DOC-ID" filename="ol10561003.xml">[380,030B]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>disclosure to <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S318A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541006.xml">[375,087]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- obligations for legal costs <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,007]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- terms relating to <remotelink dpsi="05CC" refpt="UCPN.OL.LPAN04.S302A" remotekey1="REFPTID" service="DOC-ID" filename="ol10541000.xml">[375,007]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_102" subdoc="true" toc-caption="Client legal privilege"><in:entry><in:entry-text><refpt id="CLIENT_LEGAL_PRIVILEGE" type="ext"><emph typestyle="bf">Client legal privilege</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text /></in:entry><see-also><emph typestyle="it">see also</emph>  <remotelink dpsi="05CB" refpt="PRIVILEGE" remotekey1="REFPTID" service="DOC-ID" filename="ucpn2240.xml">Privilege</remotelink></see-also></in:lev2>
+
+<in:lev2><in:entry><in:entry-text>abrogation of claims for <remotelink dpsi="05CC" refpt="UCPN.EA.51085-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,085.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>application of Part 3.10 <remotelink dpsi="05CC" refpt="UCPN.EA.51065-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,065.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>basis for resisting disclosure of privileged documents <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-55" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.55]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>client</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- communication made by <remotelink dpsi="05CC" refpt="UCPN.EA.51070-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.20]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>agent <remotelink dpsi="05CC" refpt="UCPN.EA.51070-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.20]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- contract for legal services, under <remotelink dpsi="05CC" refpt="UCPN.EA.51065-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,065.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S8" remotekey1="REFPTID" service="DOC-ID" filename="ea10001003.xml">[50,065]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51070-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- employer, as <remotelink dpsi="05CC" refpt="UCPN.EA.51065-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,065.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- lawyer and <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>confidential communications <remotelink dpsi="05CC" refpt="UCPN.EA.51070-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.25]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- client and lawyer, between <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- client, lawyer or agent of client, by <remotelink dpsi="05CC" refpt="UCPN.EA.51070-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S8" remotekey1="REFPTID" service="DOC-ID" filename="ea10001003.xml">[50,065]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51070-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- former lawyer, claims against <remotelink dpsi="05CC" refpt="UCPN.EA.51070-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.25]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- legal advice, for purpose of <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-25" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.25]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S118" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51070-12" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.12]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- legal proceedings, for purpose of <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.35]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S119" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- out of court use <remotelink dpsi="05CC" refpt="UCPN.EA.51070-35" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- third parties, where <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51075-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51075-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>confidential document <remotelink dpsi="05CC" refpt="UCPN.EA.51070-25" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.25]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- copies <remotelink dpsi="05CC" refpt="UCPN.EA.51070-30" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.30]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S8" remotekey1="REFPTID" service="DOC-ID" filename="ea10001003.xml">[50,065]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- inadmissibility in evidence <remotelink dpsi="05CC" refpt="UCPN.EA.51070-35" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- out of court use <remotelink dpsi="05CC" refpt="UCPN.EA.51070-35" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- privilege does not apply unless document confidential when created <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- third parties, where <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51075-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51075-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>definition of <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>definitions <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S117" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,065]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>discovered documents <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>dominant purpose test <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-80" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021204.xml">[21.5.80]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51070-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51075-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.10]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- lawyer and client, documents prepared by <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- multiple purposes, where <remotelink dpsi="05CC" refpt="UCPN.EA.51070-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- non-privileged documents <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.35]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- objective determination <remotelink dpsi="05CC" refpt="UCPN.EA.51070-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- purpose, meaning of <remotelink dpsi="05CC" refpt="UCPN.EA.51070-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- third parties, where <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51075-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>drafts of pleadings <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.35]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- third parties, where <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>examples of when privilege does not apply <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>expert reports <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>fraud, denial in cases of <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-40" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.40]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S125" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51105-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105.10]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>lawyer</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- communication made by <remotelink dpsi="05CC" refpt="UCPN.EA.51070-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- definition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S8" remotekey1="REFPTID" service="DOC-ID" filename="ea10001003.xml">[50,065]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51065-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,065.10]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51070-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- qualified legal practitioner <remotelink dpsi="05CC" refpt="UCPN.EA.51070-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.20]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>practising certificate, whether required <remotelink dpsi="05CC" refpt="UCPN.EA.51065-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,065.15]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>legal advice</in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- ALRC reference <remotelink dpsi="05CC" refpt="UCPN.EA.51070-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- communications for purpose of <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.20]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-25" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.25]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S118" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- concept of <remotelink dpsi="05CC" refpt="UCPN.EA.51070-12" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.12]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- overseas lawyer, provision by <remotelink dpsi="05CC" refpt="UCPN.EA.51065-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,065.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>legal practitioner, qualification as <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-27" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.27]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- practising certificate, whether required <remotelink dpsi="05CC" refpt="UCPN.EA.51065-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,065.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>legally qualified employees <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-27" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.27]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- in-house lawyers <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-27" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.27]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>limitations <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-40" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.40]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>loss of <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S121" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,085]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- affecting right of person <remotelink dpsi="05CC" refpt="UCPN.EA.51085-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,085.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- consent <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S122" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>ALRC reference <remotelink dpsi="05CC" refpt="UCPN.EA.51090-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- defendants <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S123" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,095]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- fraud <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S125" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51105-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105.10]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>"in furtherance" of commission of <remotelink dpsi="05CC" refpt="UCPN.EA.51105-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- inadvertent or unauthorised disclosure <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- joint clients <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S124" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,100]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- material tendered on ex parte applications <remotelink dpsi="05CC" refpt="UCPN.EA.51090-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- misconduct <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S125" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51105-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105.10]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>actual subjective intention of parties, whether relevant <remotelink dpsi="05CC" refpt="UCPN.EA.51105-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>displacement <remotelink dpsi="05CC" refpt="UCPN.EA.51105-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>"in furtherance" of commission of crime or fraud <remotelink dpsi="05CC" refpt="UCPN.EA.51105-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>statement of <remotelink dpsi="05CC" refpt="UCPN.EA.51105-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,105.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- refreshing recollection, use of document for <remotelink dpsi="05CC" refpt="UCPN.EA.51090-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- related communications/documents <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S126" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,110]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51110-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,110.5]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- voluntary disclosure, by <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>ALRC reference <remotelink dpsi="05CC" refpt="UCPN.EA.51090-5" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.5]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>implied waiver <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+
+<in:lev4><in:entry><in:entry-text>what constitutes <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>nature and scope <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>non-confidential information <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-30" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.30]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>opportunity to claim <remotelink dpsi="05CC" refpt="UCPN.EA.51070-40" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.40]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>party, definition <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S8" remotekey1="REFPTID" service="DOC-ID" filename="ea10001003.xml">[50,065]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>proof of the claim for <remotelink dpsi="05CC" refpt="UCPN.EA.51070-45" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,070.45]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>proofs of evidence <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-35" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.35]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- third parties, where <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>third party communications <remotelink dpsi="05CC" refpt="UCPN.EA.51075-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.15]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- confidential communications <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51075-20" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- documents prepared by third parties <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- dominant purpose of legal proceedings <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-37" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.37]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51075-15" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,075.15]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>waiver <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-110" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021204.xml">[21.5.110]</remotelink>- <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-130" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021204.xml">[21.5.130]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- alleged, where <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- compulsory disclosure <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+<in:lev4><in:entry><in:entry-text>mistake <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+</in:lev4>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- intention <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- onus of establishing <remotelink dpsi="05CC" refpt="UCPN.EA.51090-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001069.xml">[51,090.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>what is <remotelink dpsi="05CC" refpt="UCPN.UCPR.21-5-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021201.xml">[21.5.20]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>

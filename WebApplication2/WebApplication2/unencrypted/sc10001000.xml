@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE LEGDOC PUBLIC "-//LEXISNEXIS//DTD GLP Legdoc v005//EN" "legdoc-norm.dtd">
+<LEGDOC legtype="act" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:jrnl="http://www.lexis-nexis.com/glp/jrnl" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml"><docinfo partitionnum="2">
+<docinfo:dpsi id-string="05CC"/><docinfo:doc-heading>DIVISION 1 GENERAL [ss 1&#x2013;9]</docinfo:doc-heading><docinfo:doc-id>UCPN.SC.SCA70.PT1.D1</docinfo:doc-id><docinfo:doc-lang lang="en"/><docinfo:doc-country iso-cc="AU"/><docinfo:hier><docinfo:hierlev role="ancestor"><heading><title>Supreme Court</title></heading><docinfo:hierlev role="ancestor"><heading><title>SUPREME COURT ACT 1970</title></heading><docinfo:hierlev role="ancestor"><heading><title>PART 1  PRELIMINARY [ss 1&#x2013;21A]</title></heading><docinfo:hierlev role="me"><heading><title>DIVISION 1 GENERAL [ss 1&#x2013;9]</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>70000000</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW"/><docinfo:metaitem name="parent-docid" value="UCPN.SC"/><docinfo:metaitem name="parent-filename" value="sc.xml"/><docinfo:metaitem name="parent-docid" value="UCPN_SC.SGM_UCPN.SC.SCA70"/><docinfo:metaitem name="parent-filename" value="sc1000.xml"/></docinfo:lbu-meta><docinfo:selector>legislation</docinfo:selector><docinfo:selector>act</docinfo:selector><docinfo:load-date><date day="10" month="11" year="2011">10 November 2011</date></docinfo:load-date><docinfo:topiccodes><docinfo:topiccode>#PA#CODE#</docinfo:topiccode></docinfo:topiccodes></docinfo>
+<leg:body>
+<leg:info><leg:officialname searchtype="LEGISLATION">SUPREME COURT ACT 1970</leg:officialname><leg:year ln.user-displayed="false" searchtype="LEGISLATION">1970</leg:year><leg:officialnum ln.user-displayed="false" searchtype="LEGISLATION">Act No. 50, 1970</leg:officialnum><leg:juris ln.user-displayed="false" searchtype="LEGISLATION">NSW</leg:juris></leg:info>
+<leg:prelim>
+<leg:history><leg:heading><title>Table of Amendments</title></leg:heading>
+<p>
+<text>Supreme Court Act No 52 of 1970, assent 14 October 1970, commenced 1 July 1972, as amended by:</text></p>
+<leg:tableofamend>
+<table>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec align="left" colname="c1" colnum="1" colwidth="50*"/>
+<colspec align="left" colname="c2" colnum="2" colwidth="50*"/>
+<colspec align="left" colname="c3" colnum="3" colwidth="50*"/>
+<thead><row><entry colname="c1"><emph typestyle="bf">Amending Legislation</emph></entry><entry colname="c2"><emph typestyle="bf">Date of Assent</emph></entry><entry colname="c3"><emph typestyle="bf">Date of Commencement</emph></entry></row></thead>
+<tbody>
+<row><entry colname="c1">Law Reform (Law and Equity) Act 1972 No 28</entry><entry colname="c2">11 April 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">Supreme Court (Amendment) Act 1972 No 41</entry><entry colname="c2">11 April 1972</entry><entry colname="c3">1 July 1972</entry></row>
+<row><entry colname="c1">Acts Reprinting Act 1972 No 48</entry><entry colname="c2">9 October 1972</entry><entry colname="c3">9 October 1972</entry></row>
+<row><entry colname="c1">Judges' Pensions (Amendment) Act 1972 No 69</entry><entry colname="c2">30 November 1972</entry><entry colname="c3">1 July 1973</entry></row>
+<row><entry colname="c1">District Court Act 1973 No 9</entry><entry colname="c2">10 April 1973</entry><entry colname="c3">8 June 1973</entry></row>
+<row><entry colname="c1">Administration of Justices Act 1973 No 19</entry><entry colname="c2">17 April 1973</entry><entry colname="c3">ss 1, 2 and 10: 17 April 1973; ss 3, 4 and 5: 19 April 1973; s 6: 26 April 1973; ss 7 and 9: 1 July 1973; s 8: 19 April 1974</entry></row>
+<row><entry colname="c1">Registration of Births, Deaths and Marriages Act 1973 No 87</entry><entry colname="c2">20 December 1973</entry><entry colname="c3">1 January 1974</entry></row>
+<row><entry colname="c1">Statutory Salaries Adjustment Act 1974 No 8</entry><entry colname="c2">26 March 1974</entry><entry colname="c3">26 March 1974</entry></row>
+<row><entry colname="c1">Judges' Pensions (Amendment) Act 1974 No 106</entry><entry colname="c2">13 December 1974</entry><entry colname="c3">13 December 1974</entry></row>
+<row><entry colname="c1">District Court (Amendment) Act 1975 No 1</entry><entry colname="c2">11 March 1975</entry><entry colname="c3">ss 3(a)&#x2013;(k), (p)&#x2013;(r), (t)&#x2013;(z), (aa)&#x2013;(ff), 4, 5, 6(1), (5)&#x2013;(7): 1 April 1975; ss 3(l)&#x2013;(o): 7 November 1975</entry></row>
+<row><entry colname="c1">Statutory Salaries Adjustment Act 1975 No 10</entry><entry colname="c2">8 April 1975</entry><entry colname="c3">8 April 1975</entry></row>
+<row><entry colname="c1">Securities Industry Act 1976 No 3</entry><entry colname="c2">7 January 1976</entry><entry colname="c3">1 March 1976</entry></row>
+<row><entry colname="c1">Statutory and Other Offices Remuneration Act 1976 No 4</entry><entry colname="c2">7 January 1976</entry><entry colname="c3">ss 3&#x2013;28, 30: 2 February 1976; s 29(4): 1 March 1976</entry></row>
+<row><entry colname="c1">Statute Law Revision Act 1976 No 63</entry><entry colname="c2">2 November 1976</entry><entry colname="c3">2 November 1976</entry></row>
+<row><entry colname="c1">Jury Act 1977 No 18</entry><entry colname="c2">24 March 1977</entry><entry colname="c3">24 March 1977</entry></row>
+<row><entry colname="c1">Supreme Court (Amendment) Act 1977 No 120</entry><entry colname="c2">9 December 1977</entry><entry colname="c3">1 January 1978</entry></row>
+<row><entry colname="c1">Anatomy Act 1977 No 126</entry><entry colname="c2">14 December 1977</entry><entry colname="c3">19 May 1978</entry></row>
+<row><entry colname="c1">Summary Offences (Repeal) Act 1979 No 62</entry><entry colname="c2">11 May 1979</entry><entry colname="c3">2 May 1980</entry></row>
+<row><entry colname="c1">Supreme Court (Public Assemblies) Amendment Act 1979 No 65</entry><entry colname="c2">11 May 1979</entry><entry colname="c3">1 August 1979</entry></row>
+<row><entry colname="c1">Legal Services Commission Act 1979 No 78</entry><entry colname="c2">16 May 1979</entry><entry colname="c3">s 2(3): 7 December 1979; Sch 1: 21 December 1979</entry></row>
+<row><entry colname="c1">Supreme Court (Amendment) Act 1979 No 88</entry><entry colname="c2">16 May 1979</entry><entry colname="c3">13 August 1979</entry></row>
+<row><entry colname="c1">Supreme Court (Summary Jurisdiction) Crimes (Amendment) Act 1979 No 96</entry><entry colname="c2">17 May 1979</entry><entry colname="c3">12 November 1979</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Planning) Repeal and Amendment Act 1979 No 205</entry><entry colname="c2">21 December 1979</entry><entry colname="c3">1 July 1980</entry></row>
+<row><entry colname="c1">Dairy Industry Marketing Authority Act 1979 No 208</entry><entry colname="c2">24 December 1979</entry><entry colname="c3">Sch 4: 1 July 1980</entry></row>
+<row><entry colname="c1">Supreme Court (Appeal Tribunal) Amendment Act 1980 No 46</entry><entry colname="c2">28 April 1980</entry><entry colname="c3">1 September 1980</entry></row>
+<row><entry colname="c1">Transport Authorities Act 1980 No 103</entry><entry colname="c2">1 May 1980</entry><entry colname="c3">Sch 7: 1 July 1980</entry></row>
+<row><entry colname="c1">Supreme Court (Interest) Amendment Act 1983 No 201</entry><entry colname="c2">31 December 1983</entry><entry colname="c3">1 August 1984</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Workers Compensation) Amendment Act 1984 No 93</entry><entry colname="c2">28 June 1984</entry><entry colname="c3">3 December 1984</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Amendments) Act 1984 No 153</entry><entry colname="c2">10 December 1984</entry><entry colname="c3">s 5 and Sch 16, except as stated in s 2(3): 10 December 1984</entry></row>
+<row><entry colname="c1">Supreme Court (Commercial Arbitration) Amendment Act 1984 No 166</entry><entry colname="c2">14 December 1984</entry><entry colname="c3">1 May 1985</entry></row>
+<row><entry colname="c1">Supreme Court (Commercial Division) Amendment Act 1985 No 28</entry><entry colname="c2">22 April 1985</entry><entry colname="c3">1 January 1987 (Gaz 192 of 12 December 1986 p 6085)</entry></row>
+<row><entry colname="c1">State Roads Act 1986 No 85</entry><entry colname="c2">21 May 1986</entry><entry colname="c3">21 May 1986</entry></row>
+<row><entry colname="c1">Judicial Officers Act 1986 No 100</entry><entry colname="c2">18 November 1986</entry><entry colname="c3">s 55 and Sch 4: 19 December 1986</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Public Prosecutions) Amendment Act 1986 No 212</entry><entry colname="c2">23 December 1986</entry><entry colname="c3">ss 3, 5 and Sch 1: 13 July 1987</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1986 No 218</entry><entry colname="c2">23 December 1986</entry><entry colname="c3">s 3 and Sch 47: 23 December 1986</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 1) 1987 No 48</entry><entry colname="c2">28 May 1987</entry><entry colname="c3">s 3 and Sch 32: 1 September 1987</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987 No 58</entry><entry colname="c2">29 May 1987</entry><entry colname="c3">s 7 and Sch 3: 18 January 1988</entry></row>
+<row><entry colname="c1">Banana Industry Act 1987 No 66</entry><entry colname="c2">3 June 1987</entry><entry colname="c3">3 June 1987</entry></row>
+<row><entry colname="c1">Fair Trading Act 1987 No 68</entry><entry colname="c2">10 June 1987</entry><entry colname="c3">1 September 1987</entry></row>
+<row><entry colname="c1">Workers Compensation Act 1987 No 70</entry><entry colname="c2">10 June 1987</entry><entry colname="c3">30 June 1987</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Workers Compensation) Amendment Act 1987 No 79</entry><entry colname="c2">10 June 1987</entry><entry colname="c3">s 3 and Sch 1: 30 June 1987</entry></row>
+<row><entry colname="c1">Energy Legislation (Repeals and Savings) Act 1987 No 108</entry><entry colname="c2">12 June 1987</entry><entry colname="c3">s 4 and Sch 1: 1 July 1987</entry></row>
+<row><entry colname="c1">Legal Profession Act 1987 No 109</entry><entry colname="c2">12 June 1987</entry><entry colname="c3">s 214 and Sch 1: 1 January 1988</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Legal Profession) Amendment Act 1987 No 111</entry><entry colname="c2">12 June 1987</entry><entry colname="c3">s 3 and Sch 1: 1 January 1988</entry></row>
+<row><entry colname="c1">Water Legislation (Repeal, Amendment and Savings) Act 1987 No 143</entry><entry colname="c2">16 June 1987</entry><entry colname="c3">s 4 and Sch 1: 3 July 1987</entry></row>
+<row><entry colname="c1">Supreme Court (Amendment) Act 1987 No 163</entry><entry colname="c2">18 November 1987</entry><entry colname="c3">18 November 1987</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1987 No 209</entry><entry colname="c2">9 December 1987</entry><entry colname="c3">s 3 and Sch 35: 18 December 1987</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Victims Compensation) Repeal and Amendment Act 1987 No 238</entry><entry colname="c2">16 December 1987</entry><entry colname="c3">s 4 and Sch 1: 15 February 1988</entry></row>
+<row><entry colname="c1">Supreme Court (Appeals) Amendment Act 1987 No 250</entry><entry colname="c2">16 December 1987</entry><entry colname="c3">18 December 1987</entry></row>
+<row><entry colname="c1">Courts Legislation (Acting Judges) Amendment Act 1988 No 10</entry><entry colname="c2">21 June 1988</entry><entry colname="c3">21 June 1988</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1988 No 20</entry><entry colname="c2">28 June 1988</entry><entry colname="c3">Sch 18(1) and (4): 18 December 1987; Sch 18(2) and (3): 29 July 1988</entry></row>
+<row><entry colname="c1">Summary Offences Act 1988 (No 25)</entry><entry colname="c2">6 July 1988</entry><entry colname="c3">24 July 1988</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1988 No 92</entry><entry colname="c2">19 December 1988</entry><entry colname="c3">19 December 1988</entry></row>
+<row><entry colname="c1">Dust Diseases Tribunal Act 1989 No 63</entry><entry colname="c2">23 May 1989</entry><entry colname="c3">Pt 4: 1 November 1989</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1989 No 89</entry><entry colname="c2">13 June 1989</entry><entry colname="c3">s 3 and Sch 1: 13 June 1989</entry></row>
+<row><entry colname="c1">Legal Profession (Amendment) Act 1989 No 138</entry><entry colname="c2">12 October 1989</entry><entry colname="c3">s 4 and Sch 7: 1 November 1989</entry></row>
+<row><entry colname="c1">Courts Legislation (Procedure) Amendment Act 1989 No 169</entry><entry colname="c2">14 December 1989</entry><entry colname="c3">1 January 1990 (Gaz 124 of 22 December 1989 p 11023)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 3) 1989 No 226</entry><entry colname="c2">21 December 1989</entry><entry colname="c3">Sch 1 amendments to Supreme Court Act 1970: 30 March 1990</entry></row>
+<row><entry colname="c1">Judicial Officers Legislation (Amendment) Act 1990 No 56</entry><entry colname="c2">26 September 1990</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1990 No 108</entry><entry colname="c2">13 December 1990</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Courts Legislation (Civil Procedure) Amendment Act 1991 No 12</entry><entry colname="c2">3 May 1991</entry><entry colname="c3">1 November 1991</entry></row>
+<row><entry colname="c1">Industrial Relations Act 1991 No 34</entry><entry colname="c2">11 November 1994</entry><entry colname="c3">31 March 1992</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1991 No 94</entry><entry colname="c2">17 December 1991</entry><entry colname="c3">24 February 1992</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1992 No 57</entry><entry colname="c2">8 October 1992</entry><entry colname="c3">1 January 1993</entry></row>
+<row><entry colname="c1">Supreme Court (Video Link) Amendment Act 1992 No 69</entry><entry colname="c2">4 November 1992</entry><entry colname="c3">21 February 1994</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 3) 1992 No 111</entry><entry colname="c2">8 December 1992</entry><entry colname="c3">item (1): on assent;  item 2: 1 February 1993</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1993 No 46</entry><entry colname="c2">15 June 1993</entry><entry colname="c3">21 February 1994</entry></row>
+<row><entry colname="c1">Legal Profession Reform Act 1993 No 87</entry><entry colname="c2">29 November 1993</entry><entry colname="c3">Sch 5: 17 December 1993; Sch 6: 1 July 1994</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1994 No 32</entry><entry colname="c2">2 June 1994</entry><entry colname="c3">2 June 1994</entry></row>
+<row><entry colname="c1">Supreme Court (Amendment) Act 1994 No 14</entry><entry colname="c2">10 May 1994</entry><entry colname="c3">1 July 1994</entry></row>
+<row><entry colname="c1">Courts Legislation (Mediation and Evaluation) Amendment Act 1994 No 57</entry><entry colname="c2">28 September 1994</entry><entry colname="c3">14 November 1994</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1995 No 21</entry><entry colname="c2">19 June 1995</entry><entry colname="c3">1 August 1995 (Gaz 88 of 21 July 1995 p 3754)</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 1995 No 88</entry><entry colname="c2">19 December 1995</entry><entry colname="c3">8 March 1995 (Gaz 30 of 8 March 1995 p 1009); except Sch 1.8[4]: 17 May 1996 (Gaz 61 of 17 May 1996 p 2260)</entry></row>
+<row><entry colname="c1">Criminal Legislation Amendment Act 1996 No 6</entry><entry colname="c2">5 June 1996</entry><entry colname="c3">16 August 1996 (Gaz 95 of 16 August 1996 p 4609)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1996 No 30</entry><entry colname="c2">21 June 1996</entry><entry colname="c3">21 June 1996; except Sch 1.35[1]: 17 May 1996</entry></row>
+<row><entry colname="c1">Industrial Relations Act 1996 No 17</entry><entry colname="c2">13 June 1996</entry><entry colname="c3">30 August 1996 (Gaz 99 of 30 August 1996 p 4983)</entry></row>
+<row><entry colname="c1">Married Persons (Equality of Status) Act 1996 No 96</entry><entry colname="c2">26 November 1996</entry><entry colname="c3">1 March 1997</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1996 No 121</entry><entry colname="c2">3 December 1996</entry><entry colname="c3">3 April 1997</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1996 No 111</entry><entry colname="c2">2 December 1996</entry><entry colname="c3">2 May 1997</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act No 55</entry><entry colname="c2">2 July 1997</entry><entry colname="c3">1 August 1997</entry></row>
+<row><entry colname="c1">District Court Amendment Act 1997 No 58</entry><entry colname="c2">2 July 1997</entry><entry colname="c3">18 July 1997</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1997 No 47</entry><entry colname="c2">27 August 1997</entry><entry colname="c3">Sch 5(2): 1 September 1997</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 1997 No 141</entry><entry colname="c2">2 February 1998</entry><entry colname="c3">2 February 1998</entry></row>
+<row><entry colname="c1">Traffic Legislation Amendment Act 1997 No 115</entry><entry colname="c2">9 December 1997</entry><entry colname="c3">29 June 1998</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1998 No 49</entry><entry colname="c2">29 June 1998</entry><entry colname="c3">3 August 1998</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1998 No 120</entry><entry colname="c2">26 November 1998</entry><entry colname="c3">26 November 1998</entry></row>
+<row><entry colname="c1">Justices Legislation Amendment (Appeals) Act 1998 No 137</entry><entry colname="c2">8 December 1998</entry><entry colname="c3">Sch 2.24: 1 March 1999</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 1998 No 172</entry><entry colname="c2">14 December 1998</entry><entry colname="c3">Sch 10: 1 July 1999</entry></row>
+<row><entry colname="c1">Road Transport Legislation Amendment Act 1999 No 19</entry><entry colname="c2">1 July 1999</entry><entry colname="c3">1 December 1999</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 1999 No 31 </entry><entry colname="c2">7 July 1999</entry><entry colname="c3">Sch 4.92: 7 July 1999</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 1999 No 39 </entry><entry colname="c2">8 July 1999</entry><entry colname="c3">Sch 7: 1 September 1999; rem: 25 September 2000</entry></row>
+<row><entry colname="c1">Motor Accidents Compensation Act 1999 No 41</entry><entry colname="c2">8 July 1999</entry><entry colname="c3">Sch 4.13: 5 October 1999 </entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 1999 No 85</entry><entry colname="c2">3 December 1999</entry><entry colname="c3">Sch 2.65 and Sch 4: 3 December 1999</entry></row>
+<row><entry colname="c1">Crimes and Courts Legislation Amendment Act 1999 No 91</entry><entry colname="c2">8 December 1999</entry><entry colname="c3">Sch 2: 8 December 1999</entry></row>
+<row><entry colname="c1">Crimes Legislation Amendment (Sentencing) Act 1999 No 94</entry><entry colname="c2">8 December 1999</entry><entry colname="c3">Sch 4.161: 1 January 2000; Sch 4.56: 3 April 2000</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2000 No 31</entry><entry colname="c2">14 June 2000</entry><entry colname="c3">25 September 2000 (Sch 1 and 7 excepted)</entry></row>
+<row><entry colname="c1">Supreme Court Amendment (Referral of Proceedings) Act 2000 No 36</entry><entry colname="c2">14 June 2000</entry><entry colname="c3">1 August 2000</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2000 No 53</entry><entry colname="c2">29 June 2000</entry><entry colname="c3">Taken to have commenced on 1 March 1999</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2000 No 93</entry><entry colname="c2">8 December 2000</entry><entry colname="c3">Sch 2: 8 December 2000</entry></row>
+<row><entry colname="c1">Corporations (Consequential Amendments) Act 2001 No 34</entry><entry colname="c2">28 June 2001</entry><entry colname="c3">Sch 4: 15 July 2001</entry></row>
+<row><entry colname="c1">Evidence (Audio and Audio Visual Links) Amendment Act 2001 No 46</entry><entry colname="c2">17 July 2001</entry><entry colname="c3">10 August 2001</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 2001 No 108</entry><entry colname="c2">14 December 2001</entry><entry colname="c3">Sch 5: 18 January 2002</entry></row>
+<row><entry colname="c1">Justices Legislation Repeal and Amendment Act 2001 No 121</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">7 July 2003 (Gaz 104 of 27 June 2003 p 5978)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment (Civil Juries) Act 2001 No 124</entry><entry colname="c2">19 December 2001</entry><entry colname="c3">Sch 2: 18 January 2002</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2002 No 7</entry><entry colname="c2">17 April 2002</entry><entry colname="c3">Sch 1: 17 April 2002</entry></row>
+<row><entry colname="c1">Compensation Court Repeal Act 2002 No 23</entry><entry colname="c2">21 June 2002</entry><entry colname="c3">Sch 1: 1 January 2004</entry></row>
+<row><entry colname="c1">Courts Legislation Further Amendment Act 2002 No 70</entry><entry colname="c2">10 September 2002</entry><entry colname="c3">Sch 6: 20 September 2002 (Gaz 149 of 20 September 2002 p 8195)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2003 No 71</entry><entry colname="c2">20 November 2003</entry><entry colname="c3">1 Jan 2004 (Gaz 196 of 12 December 2003 p 11172)</entry></row>
+<row><entry colname="c1">Crimes (Administration of Sentences) Amendment (Parole) Act 2004 No 94</entry><entry colname="c2">15 December 2004</entry><entry colname="c3">10 October 2005 (Sch 2.7)</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2005 No 31</entry><entry colname="c2">15 June 2005</entry><entry colname="c3">ss 1&#x2013;3 and Sch 13: 15 June 2005</entry></row>
+<row><entry colname="c1">Civil Procedure Act 2005 No 28</entry><entry colname="c2">1 June 2005</entry><entry colname="c3">15 August 2005</entry></row>
+<row><entry colname="c1">Road Transport (General) Act 2005 No 11</entry><entry colname="c2">14 April 2005</entry><entry colname="c3">30 September 2005</entry></row>
+<row><entry colname="c1">Defamation Act 2005 No 77</entry><entry colname="c2">26 October 2005</entry><entry colname="c3">1 January 2006</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2005 No 98</entry><entry colname="c2">24 November 2005</entry><entry colname="c3">On assent</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2006 No 120</entry><entry colname="c2">4 December 2006</entry><entry colname="c3">4 December 2006</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2007 No 56</entry><entry colname="c2">15 November 2007</entry><entry colname="c3">Sch 8[4]: 15 November 2007; remainder Sch 8: 14 December 2007</entry></row>
+<row><entry colname="c1">Miscellaneous Acts (Local Court) Amendment Act 2007 No 94</entry><entry colname="c2">13 December 2007</entry><entry colname="c3">Sch 2: 6 July 2009 (LW 3 July 2009)</entry></row>
+<row><entry colname="c1">Miscellaneous Acts Amendment (Same Sex Relationships) Act 2008 No 23 </entry><entry colname="c2">11 June 2008</entry><entry colname="c3">Sch 3: 22 September 2008</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Amendment Act 2008 No 53</entry><entry colname="c2">1 July 2008</entry><entry colname="c3">Sch 19: 1 July 2008</entry></row>
+<row><entry colname="c1">Vexatious Proceedings Act 2008 No 80</entry><entry colname="c2">5 November 2008</entry><entry colname="c3">Sch 2: 1 December 2008</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Further Amendment Act 2008 No 107</entry><entry colname="c2">8 December 2008</entry><entry colname="c3">Sch 26: 8 December 2008 (s 2(1))</entry></row>
+<row><entry colname="c1">Administrative Decisions Tribunal Amendment Act 2008</entry><entry colname="c2">28 December 2008</entry><entry colname="c3">Sch 2.7: 1 January 2009 (s 2(1); GG No 158 of 19 Dec 2008 p 12299)</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act 2009 No 56</entry><entry colname="c2">1 July 2009</entry><entry colname="c3">Schs 1.40, 4.71: 17 July 2009 (s 2)</entry></row>
+<row><entry colname="c1">Relationships Register Act 2010 No 19</entry><entry colname="c2">19 May 2010</entry><entry colname="c3">Sch 3.108: on assent (s 2(2))</entry></row>
+<row><entry colname="c1">Courts Legislation Amendment Act 2010 No 63</entry><entry colname="c2">28 June 2010</entry><entry colname="c3">Sch 1.14: on assent (s 2(2))</entry></row>
+<row><entry colname="c1">Commercial Arbitration Act 2010 No 61</entry><entry colname="c2">28 June 2010</entry><entry colname="c3">1 October 2010 (LW 24 September 2010)</entry></row>
+<row><entry colname="c1">Courts and Crimes Legislation Further Amendment Act 2010 No 135</entry><entry colname="c2">7 December 2010</entry><entry colname="c3">Sch 17: on assent</entry></row>
+<row><entry colname="c1">Statute Law (Miscellaneous Provisions) Act (No 2) 2010 No 119</entry><entry colname="c2">29 November 2010</entry><entry colname="c3">Sch 2.39: 7 January 2011</entry></row>
+<row><entry colname="c1">Supreme Court Rules (Amendment No 421) 2012</entry><entry colname="c2">14 December 2012</entry><entry colname="c3">21 January 2013</entry></row>
+<row><entry colname="c1">Courts and Other Legislation Further Amendment Act 2013 No 1</entry><entry colname="c2">28 February 2013</entry><entry colname="c3">28 February 2013</entry></row></tbody></tgroup></table>
+</leg:tableofamend>
+</leg:history>
+</leg:prelim>
+<leg:level id="UCPN.SC.SCA70.BODY"><leg:level-vrnt leveltype="act" searchtype="LEGISLATION ACT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><title><refpt id="UCPN.SC.SCA70" type="ext"/>SUPREME COURT ACT 1970</title></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p>
+<text>An Act to provide for the concurrent administration of law and equity in the Supreme Court; to amend and consolidate the law with respect to the administration of justice and the procedure and practice of the Supreme Court; to repeal the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.CLAW" remotekey1="REFPTID" service="DOC-ID" status="unval">Common Law Procedure Act 1899</remotelink></ci:content></ci:cite>
+, the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.EQ" remotekey1="REFPTID" service="DOC-ID" status="unval">Equity Act 1901</remotelink></ci:content></ci:cite>
+, and certain other Acts; to amend the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="OTH.PAN" remotekey1="REFPTID" service="DOC-ID" status="unval">Partnership Act 1892</remotelink></ci:content></ci:cite>
+, and certain other Acts; and for purposes connected therewith.</text></p>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCA70.PT1"><leg:level-vrnt leveltype="part" searchtype="LEGISLATION PART" subdoc="false" toc-caption="PART 1  PRELIMINARY [ss 1&#x2013;21A]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="PART-NUM"><designum><refpt id="UCPN.SC.SCA70.PT1" type="ext"/>PART 1</designum></desig><title searchtype="PART-TITLE"> PRELIMINARY [ss 1&#x2013;21A]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.PT1.D1"><leg:level-vrnt leveltype="division" searchtype="LEGISLATION DIVISION" subdoc="false" toc-caption="DIVISION 1 GENERAL [ss 1&#x2013;9]">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading><desig searchtype="DIV-NUM"><designum><refpt id="UCPN.SC.SCA70.PT1.D1" type="ext"/>DIVISION 1</designum></desig><title searchtype="DIV-TITLE">GENERAL [ss 1&#x2013;9]</title></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S1"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 1] s 1 Name of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S1" type="ext"/>[SCA s 1]</edpnum><title searchtype="SECT-TITLE">Name of Act</title><desig searchtype="SECT-NUM"><designum>1</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>This Act may be cited as the Supreme Court Act 1970.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S2"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 2] s 2 Commencement">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S2" type="ext"/>[SCA s 2]</edpnum><title searchtype="SECT-TITLE">Commencement</title><desig searchtype="SECT-NUM"><designum>2</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S2.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S2.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Except as provided in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S2.2" remotekey1="REFPTID" service="DOC-ID">subsection (2)</remotelink></ci:content></ci:cite>
+, this Act shall commence on a day to be appointed by the Governor and notified by proclamation published in the Gazette.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S2.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S2.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.PT9" remotekey1="REFPTID" service="DOC-ID">Part 9</remotelink></ci:content></ci:cite>
+ of this Act shall commence on the date upon which the assent of Her Majesty to this Act is signified.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S2.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS2-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 2.5]"><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS2-5" type="ext"/>[SCA s 2.5] </edpnum></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Act was assented to 14 October 1970 and commenced 1 July 1972.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S3"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 3] s 3 The Crown">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S3" type="ext"/>[SCA s 3]</edpnum><title searchtype="SECT-TITLE">The Crown</title><desig searchtype="SECT-NUM"><designum>3</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S3.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S3.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Subject to this and any other Act, the Crown is bound by, and has the benefit of, this Act and the rules.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S3.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S3.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S3.1" remotekey1="REFPTID" service="DOC-ID">subsection (1)</remotelink></ci:content></ci:cite>
+, <emph typestyle="bf">Crown</emph> includes not only the Crown in right of New South Wales but also the Crown in all its other capacities.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S4"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 4] s 4 Division of Act">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S4" type="ext"/>[SCA s 4]</edpnum><title searchtype="SECT-TITLE">Division of Act</title><desig searchtype="SECT-NUM"><designum>4</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 4  rep Act 28 of 1985  s 3 and Sch 1(1)]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S5"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 5] s 5 Repeals">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S5" type="ext"/>[SCA s 5]</edpnum><title searchtype="SECT-TITLE">Repeals</title><desig searchtype="SECT-NUM"><designum>5</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Each Act mentioned in the 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.SCH1" remotekey1="REFPTID" service="DOC-ID">First Schedule</remotelink></ci:content></ci:cite>
+ to this Act is, to the extent therein expressed, hereby repealed.</text></p>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S6"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 6] s 6 Inconsistency with rules">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S6" type="ext"/>[SCA s 6]</edpnum><title searchtype="SECT-TITLE">Inconsistency with rules</title><desig searchtype="SECT-NUM"><designum>6</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>Any Act in force immediately before the commencement of this Act which is inconsistent with the rules shall be superseded to the extent of such inconsistency and while such inconsistency continues to exist.</text></p>
+<leg:comntry subdoc="true" toc-caption="NOTES"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S6.COM1" type="ext"/>NOTES</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS6-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 6.5] Effect of the rules made under the Supreme Court Act">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 6.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> s 124(3), s 19.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS6-5" type="ext"/>[SCA s 6.5] </edpnum><title>Effect of the rules made under the Supreme Court Act</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>In s 19(1) of the Supreme Court Act &#x201c;the rules&#x201d; are defined to mean &#x201c;the Rules of the Court from time to time in force&#x201d; and include rules made by the Rules Committee (see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S19" remotekey1="REFPTID" service="DOC-ID">s 19</remotelink></ci:content></ci:cite>
+). This means that a rule made by the Rules Committee can override any inconsistent procedural provisions in Acts formerly in force. While this is unusual there does not seem to be any objection in principle to this way of overriding legislation: See <emph typestyle="it">Pearce on Delegated Legislation</emph> (1977). See also paras 1&#x2013;17 of the NSW Law Reform Commission's Report No 14 (1971) as to the reasons for this section. A further provision for the amendment of statutory provisions is contained in 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S124.3" remotekey1="REFPTID" service="DOC-ID">s 124(3)</remotelink></ci:content></ci:cite>
+ (as inserted by the Courts Legislation Further Amendment Act 1998). That section permits certain rules to have effect despite any Act, and is not limited to Acts that were formerly in force.</text></p>
+</bodytext>
+</level><level id="UCPN_SC.SGM_UCPN.SC.SCAS6-10" leveltype="para0" subdoc="true" toc-caption="[SCA s 6.10] Priority of the Uniform Civil Procedure Rules">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 6.10] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_REG_2005-418" remotekey1="REFPTID" service="DOC-ID">Uniform Civil Procedure Rules 2005</remotelink> Pt 83, r 1.7, Sch 2.</ci:content></ci:cite></text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_2005-28" remotekey1="REFPTID" service="DOC-ID">Civil Procedure Act 2005</remotelink> s 11.</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS6-10" type="ext"/>[SCA s 6.10] </edpnum><title>Priority of the Uniform Civil Procedure Rules</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Uniform Civil Procedure Rules (UCPR) prevail over any provision of the rules made under the Supreme Court Act, to the extent of any inconsistency and subject to any express contrary provision contained in
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R1-17" remotekey1="REFPTID" service="DOC-ID"> r 1.7</remotelink></ci:content></ci:cite>
+ and 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.SCH2" remotekey1="REFPTID" service="DOC-ID">Sch 2</remotelink></ci:content></ci:cite>
+ of the UCPR: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.CPA.CPAN05.S11" remotekey1="REFPTID" service="DOC-ID">s 11</remotelink></ci:content></ci:cite>
+ of the CPA 2005. The contrary provisions contained in Sch 2 relate to 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.PT83" remotekey1="REFPTID" service="DOC-ID" status="unval">Pt 83</remotelink></ci:content></ci:cite>
+ (Admiralty List) and the Supreme Court (Corporations) Rules 1999.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S7"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 7] s 7 Amendments">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="true" ln.user-displayed="false">(Repealed)</leg:levelstatus></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S7" type="ext"/>[SCA s 7]</edpnum><title searchtype="SECT-TITLE">Amendments</title><desig searchtype="SECT-NUM"><designum>7</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<leg:histnote>
+<p><text>[s 7  rep Act 85 of 1999  s 4 and Sch 4]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S8"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 8] s 8 Construction of references">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S8" type="ext"/>[SCA s 8]</edpnum><title searchtype="SECT-TITLE">Construction of references</title><desig searchtype="SECT-NUM"><designum>8</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:level id="UCPN.SC.SCA70.S8.1"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S8.1" type="ext"/>(1)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>In any Act, rule of court or regulation in force immediately before the commencement of this Act:</text></p>
+<l><li id="UCPN.SC.SCA70.S8.1.A"><lilabel><refpt id="UCPN.SC.SCA70.S8.1.A" type="ext"/>(a)</lilabel>
+<p><text>a reference to the Court in Banco or to the Full Court or to the Court as a court consisting of two or more Judges shall be construed as a reference to the Court of Appeal,</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S8.1.B"><lilabel><refpt id="UCPN.SC.SCA70.S8.1.B" type="ext"/>(b)</lilabel>
+<p><text>a reference to the Court or to a Judge in any of the jurisdictions specified in the First Column of the Table below or to the practice or procedure of the Court in any of those jurisdictions shall be construed as a reference to the Division specified opposite that jurisdiction in the Second Column of that Table or, as the case may be, to the practice or procedure in that Division:</text></p>
+<table frame="none" id="UCPN.SC.SCA70.S8.1.B.T1" pgwide="1">
+<tgroup align="left" cols="3" colsep="0" rowsep="0">
+<colspec colname="colspec0" colsep="0" colwidth="125*" rowsep="0"/>
+<colspec colname="c1" colsep="0" colwidth="333*" rowsep="0"/>
+<colspec colname="c2" colsep="0" colwidth="334*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">&#x2003;&#x2003;&#x2003;&#x2003;</entry>
+<entry align="center" colsep="0" morerows="0" nameend="c2" namest="c1" rowsep="0" valign="top">TABLE</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0" valign="top"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top"><emph typestyle="it">First Column  Jurisdiction</emph></entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top"><emph typestyle="it">Second Column  Division</emph></entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Common Law</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Common Law Division</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Equity</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Equity Division</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Probate</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Probate Division</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Matrimonial Causes</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Divorce Division</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Protective</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Protective Division</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Admiralty</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Admiralty Division</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</li>
+<li id="UCPN.SC.SCA70.S8.1.C"><lilabel><refpt id="UCPN.SC.SCA70.S8.1.C" type="ext"/>(c)</lilabel>
+<p><text>a reference to the Judge exercising the matrimonial causes jurisdiction of the Court or appointed to exercise that jurisdiction shall be construed as a reference to the Chief Judge in Divorce,</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S8.1.D"><lilabel><refpt id="UCPN.SC.SCA70.S8.1.D" type="ext"/>(d)</lilabel>
+<p><text>a reference to a writ, whether of prohibition, mandamus, or certiorari or of any other description by which the Court formerly had jurisdiction to grant any relief or remedy shall, subject to subsection two of this section, be construed as a reference to the judgment or order by which the Court may grant that relief or remedy under this Act and the rules,</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S8.1.E"><lilabel><refpt id="UCPN.SC.SCA70.S8.1.E" type="ext"/>(e)</lilabel>
+<p><text>a reference to the Master in Equity or to the Master in the protective jurisdiction of the Court shall, subject to the rules, be construed as a reference to the master assigned to the Equity Division or, as the case may be, to the master assigned to the Protective Division or, where two or more masters are so assigned, to the senior master so assigned,</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S8.1.F"><lilabel><refpt id="UCPN.SC.SCA70.S8.1.F" type="ext"/>(f)</lilabel>
+<p><text>a reference to the holder of an office named in the First Column of the Table below shall, subject to the rules, be construed as a reference to the holder of the office named in the Second Column of that Table opposite to the name of the firstmentioned office:</text></p>
+<table frame="none" id="UCPN.SC.SCA70.S8.1.F.T1" pgwide="1">
+<tgroup align="left" cols="3" colsep="0" rowsep="0">
+<colspec colname="colspec1" colsep="0" colwidth="27*" rowsep="0"/>
+<colspec colname="c1" colsep="0" colwidth="61*" rowsep="0"/>
+<colspec colname="c2" colsep="0" colwidth="60*" rowsep="0"/>
+<thead valign="bottom"><row rowsep="0"><entry align="center" colsep="0" morerows="0" rowsep="0" valign="top">&#x2003;&#x2003;&#x2003;&#x2003;</entry>
+<entry align="center" colsep="0" morerows="0" nameend="c2" namest="c1" rowsep="0" valign="top">TABLE</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0" valign="top"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top"><emph typestyle="it">First Column</emph></entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top"><emph typestyle="it">Second Column</emph></entry>
+</row>
+</thead>
+<tbody valign="top"><row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Prothonotary</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Prothonotary</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Deputy Master and Registrar in Equity</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar in Equity</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar of Probates</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar in Probate</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar in Divorce</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar in Divorce</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar in Admiralty</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar in Admiralty</entry>
+</row>
+<row rowsep="0"><entry colsep="0" morerows="0" rowsep="0"/>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar of the Court of Appeal</entry>
+<entry align="left" colsep="0" morerows="0" rowsep="0" valign="top">Registrar of the Court of Appeal</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</li>
+<li id="UCPN.SC.SCA70.S8.1.G"><lilabel><refpt id="UCPN.SC.SCA70.S8.1.G" type="ext"/>(g)</lilabel>
+<p><text>a reference to the verdict or finding of a jury in any proceedings or on any issue in any proceedings on a trial with a jury shall, unless the context or subject matter otherwise indicates or requires, extend, in the case of proceedings on a common law claim tried without a jury pursuant to this Act, to the determination of the Court in the proceedings or on any such issue on a trial without a jury, and</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S8.1.H"><lilabel><refpt id="UCPN.SC.SCA70.S8.1.H" type="ext"/>(h)</lilabel>
+<p><text>a reference to an action of ejectment in the Court shall be construed as a reference to proceedings in the Court for possession of land.</text></p>
+</li>
+</l><leg:histnote>
+<p><text>[subs (1)  am Act 41 of 1972  s 3]</text></p></leg:histnote>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 49 of 1900 s 5(1); Act 32 of 1965 s 5(3)(a)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+<leg:level id="UCPN.SC.SCA70.S8.2"><leg:level-vrnt leveltype="subsect" searchtype="LEGISLATION SUBSECT">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><desig><designum><refpt id="UCPN.SC.SCA70.S8.2" type="ext"/>(2)</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text><ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S8.1.D" remotekey1="REFPTID" service="DOC-ID">Paragraph (d) of subsection (1) </remotelink></ci:content></ci:cite>
+ does not apply to a reference to:</text></p>
+<l><li id="UCPN.SC.SCA70.S8.2.A"><lilabel><refpt id="UCPN.SC.SCA70.S8.2.A" type="ext"/>(a)</lilabel>
+<p><text>the writ of habeas corpus ad subjiciendum,</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S8.2.B"><lilabel><refpt id="UCPN.SC.SCA70.S8.2.B" type="ext"/>(b)</lilabel>
+<p><text>any writ of execution for the enforcement of a judgment or order of the Court, or</text></p>
+</li>
+<li id="UCPN.SC.SCA70.S8.2.C"><lilabel><refpt id="UCPN.SC.SCA70.S8.2.C" type="ext"/>(c)</lilabel>
+<p><text>any writ in aid of any such writ of execution.</text></p>
+</li>
+</l>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>Act 35 of 1900 s 21F(2)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:bodytext>
+<leg:comntry subdoc="true" toc-caption="NOTE"><heading searchtype="COMMENTARY"><title><refpt id="UCPN.SC.SCA70.S8.COM1" type="ext"/>NOTE</title></heading>
+<level id="UCPN_SC.SGM_UCPN.SC.SCAS8-5" leveltype="para0" subdoc="true" toc-caption="[SCA s 8.5] Divisions of the court">
+<glp:note><blockquote><hrule/>
+<p>
+<text><inlineobject attachment="web-server" filename="leg1.gif" type="image"/> Legislation cited in [SCA s 8.5] below. LawNow subscribers click through for daily updates and historical versions.</text><text> </text>
+<text>(NSW) <ci:cite searchtype="LEG-REF"><ci:content><remotelink alttext="Click to link to LawNow Legislation" dpsi="005Y" refpt="NSW_ACT_1970-52" remotekey1="REFPTID" service="DOC-ID">Supreme Court Act 1970</remotelink> [SCA s 38].</ci:content></ci:cite></text>
+</p></blockquote></glp:note><heading searchtype="COMMENTARY"><edpnum><refpt id="UCPN.SC.SCAS8-5" type="ext"/>[SCA s 8.5] </edpnum><title>Divisions of the court</title></heading>
+<bodytext searchtype="COMMENTARY">
+<p>
+<text>The Supreme Court Act was amended in 1998 to reduce the number of divisions of the court. As a result of that amendment there are only two divisions: the Equity Division and the Common Law Division: see 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S38" remotekey1="REFPTID" service="DOC-ID">[SCA s 38]</remotelink></ci:content></ci:cite>
+.</text></p>
+</bodytext>
+</level></leg:comntry>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+<leg:level id="UCPN.SC.SCA70.S9"><leg:level-vrnt leveltype="sect" searchtype="LEGISLATION SECT" subdoc="true" toc-caption="[SCA s 9] s 9 Non-revivor">
+<leg:levelinfo>
+<leg:levelstatus isrepealed="false" ln.user-displayed="false"/></leg:levelinfo>
+<leg:heading inline="true"><edpnum><refpt id="UCPN.SC.SCA70.S9" type="ext"/>[SCA s 9]</edpnum><title searchtype="SECT-TITLE">Non-revivor</title><desig searchtype="SECT-NUM"><designum>9</designum></desig></leg:heading>
+<leg:levelbody>
+<leg:bodytext>
+<p><text>A repeal made by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S5" remotekey1="REFPTID" service="DOC-ID">section 5</remotelink></ci:content></ci:cite>
+ or an amendment made by 
+<ci:cite searchtype="LEG-REF"><ci:content><remotelink dpsi="05CC" refpt="UCPN.SC.SCA70.S7" remotekey1="REFPTID" service="DOC-ID">section 7</remotelink></ci:content></ci:cite>
+ shall not revive anything not in force or existing immediately before the commencement of this Act.</text></p>
+<glp:note>
+<p><text><ci:cite searchtype="LEG-REF" type="legref"><ci:content>52 &amp; 53 Vict c 63 s 38(2)(a)</ci:content></ci:cite></text></p></glp:note>
+</leg:bodytext>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level>
+</leg:levelbody>
+</leg:level-vrnt>
+</leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:levelbody></leg:level-vrnt></leg:level></leg:body></LEGDOC>

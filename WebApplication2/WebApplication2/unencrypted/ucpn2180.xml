@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE INDEXDOC PUBLIC "-//LEXISNEXIS//DTD GLP Indexdoc v005//EN" "indexdoc-norm.dtd"[]>
+<INDEXDOC xml:lang="en" xmlns:case="http://www.lexis-nexis.com/glp/case" xmlns:ci="http://www.lexis-nexis.com/ci" xmlns:comm="http://www.lexis-nexis.com/glp/comm" xmlns:cttr="http://www.lexis-nexis.com/glp/cttr" xmlns:dict="http://www.lexis-nexis.com/glp/dict" xmlns:dig="http://www.lexis-nexis.com/glp/dig" xmlns:docinfo="http://www.lexis-nexis.com/glp/docinfo" xmlns:frm="http://www.lexis-nexis.com/glp/frm" xmlns:glp="http://www.lexis-nexis.com/glp" xmlns:in="http://www.lexis-nexis.com/glp/in" xmlns:leg="http://www.lexis-nexis.com/glp/leg" xmlns:lnci="http://www.lexis-nexis.com/lnci" xmlns:lncle="http://www.lexis-nexis.com/lncle" xmlns:lnclx="http://www.lexis-nexis.com/lnclx" xmlns:lndel="http://www.lexis-nexis.com/lndel" xmlns:lndocmeta="http://www.lexis-nexis.com/lndocmeta" xmlns:lngntxt="http://www.lexis-nexis.com/lngntxt" xmlns:lnlit="http://www.lexis-nexis.com/lnlit" xmlns:lnv="http://www.lexis-nexis.com/lnv" xmlns:lnvni="http://www.lexis-nexis.com/lnvni" xmlns:lnvx="http://www.lexis-nexis.com/lnvx" xmlns:lnvxe="http://www.lexis-nexis.com/lnvxe" xmlns:nitf="urn:nitf:iptc.org.20010418.NITF" xmlns:xhtml="http://www.w3c.org/1999/xhtml">
+<docinfo partitionnum="1"><docinfo:doc-heading>PH</docinfo:doc-heading><docinfo:doc-id>UCPN_IND_495</docinfo:doc-id><docinfo:doc-lang lang="en" /><docinfo:doc-country iso-cc="AU" /><docinfo:hier>
+<docinfo:hierlev role="ancestor"><heading><title>P</title></heading>
+<docinfo:hierlev role="me"><heading><title>PH</title></heading></docinfo:hierlev></docinfo:hierlev></docinfo:hier><docinfo:bookseqnum>108400</docinfo:bookseqnum><docinfo:lbu-meta><docinfo:metaitem name="lbu-sourcename" value="Ritchie's Uniform Civil Procedure NSW Index" /><docinfo:metaitem name="parent-docid" value="UCPN_IND" /><docinfo:metaitem name="parent-filename" value="ucpn.ind.xml" /><docinfo:metaitem name="parent-docid" value="UCPN_IND_495" /><docinfo:metaitem name="parent-filename" value="ucpn218.xml" /></docinfo:lbu-meta><docinfo:load-date><date day="30" month="05" year="2013">30 May 2013</date></docinfo:load-date></docinfo>
+
+<in:body><heading><title>PH</title></heading>
+<in:lev1 id="UCPN_IND_495" subdoc="true" toc-caption="Pharmacist"><in:entry><in:entry-text><refpt id="PHARMACIST" type="ext"><emph typestyle="bf">Pharmacist</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>registered, defined <remotelink dpsi="05CC" refpt="UCPN.OL.IAN.S21" remotekey1="REFPTID" service="DOC-ID" filename="ol10361003.xml">[330,145]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+</in:lev1>
+
+<in:lev1 id="UCPN_IND_496" subdoc="true" toc-caption="Photographs"><in:entry><in:entry-text><refpt id="PHOTOGRAPHS" type="ext"><emph typestyle="bf">Photographs</emph></refpt></in:entry-text></in:entry>
+<in:lev2><in:entry><in:entry-text>documents, as <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-10-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021261.xml">[31.10.5]</remotelink></in:entry-text></in:entry>
+</in:lev2>
+
+<in:lev2><in:entry><in:entry-text>evidence <remotelink dpsi="05CC" refpt="UCPN.UCPR.UCPRN05.R31-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021261.xml">[r 31.10]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-10-5" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021261.xml">[31.10.5]</remotelink></in:entry-text></in:entry>
+<in:lev3><in:entry><in:entry-text>- aids to <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-10-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021261.xml">[31.10.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- expert <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-10-10" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021261.xml">[31.10.10]</remotelink>, [50,500.20]</in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- identification evidence <remotelink dpsi="05CC" refpt="UCPN.EA.EAN95.S115" remotekey1="REFPTID" service="DOC-ID" filename="ea10001066.xml">[51,030]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.EA.51030-10" remotekey1="REFPTID" service="DOC-ID" filename="ea10001066.xml">[51,030.10]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+
+<in:lev3><in:entry><in:entry-text>- refusal to produce for inspection <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-10-15" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021261.xml">[31.10.15]</remotelink>, <remotelink dpsi="05CC" refpt="UCPN.UCPR.31-10-20" remotekey1="REFPTID" service="DOC-ID" filename="ucpr10021261.xml">[31.10.20]</remotelink></in:entry-text></in:entry>
+</in:lev3>
+</in:lev2>
+</in:lev1>
+</in:body>
+</INDEXDOC>
