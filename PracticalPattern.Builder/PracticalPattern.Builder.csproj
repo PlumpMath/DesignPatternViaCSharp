@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FF75614D-7A3C-41BA-9E82-E8A8E7B0339D}</ProjectGuid>
+    <ProjectGuid>{B97E7E24-DC93-4262-B23B-C547BE5267BF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XiaolouT.Learning.PracticalPattern.FactoryMethod</RootNamespace>
-    <AssemblyName>PracticalPattern.FactoryMethod</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <RootNamespace>XiaolouT.Learning.PracticalPattern.Builder</RootNamespace>
+    <AssemblyName>PracticalPattern.Builder</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -39,6 +39,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classic\Car.cs" />
+    <Compile Include="Classic\CarBuilder.cs" />
+    <Compile Include="Classic\ConcreteBuilderA.cs" />
+    <Compile Include="Classic\ConcreteProduct.cs" />
+    <Compile Include="Classic\Director.cs" />
+    <Compile Include="Classic\House.cs" />
+    <Compile Include="Classic\HouseBuilder.cs" />
+    <Compile Include="Classic\IBuilder.cs" />
+    <Compile Include="Classic\IProduct.cs" />
+    <Compile Include="Classic\IProductBuilder.cs" />
+    <Compile Include="Classic\ProductBuilderDirector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
